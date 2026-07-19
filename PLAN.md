@@ -328,4 +328,18 @@ Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligenc
 ## 12. Decisions log
 
 - 2026-07-19: Project named **BhavBench** (bhāv = feeling/emotion). Scripted-user roleplay chosen over simulator (variance + cost). Absolute rubric over Elo for v1 (interpretability per-dimension > ranking elegance). Real private chat logs rejected as data source (consent, PII, control). Refusals excluded from rubric scoring, reported as separate metric.
-- Open: verify Sarvam API chat-completions shape at M2; judge pair selection at M3; whether n=3 sampling fits budget at M4.
+- 2026-07-20: M0–M2 + M5 shipped. Status: dataset 18/54 base scenarios (all 8 dimensions covered, all validator-green); harness complete with 13 passing tests incl. offline e2e; website built and exporting 300+ static pages; paper skeleton in `paper/DRAFT.md`.
+- 2026-07-20: Confirmed **no Sarvam models on OpenRouter** (catalog checked) → native Sarvam adapter written; needs `SARVAM_API_KEY` + live shape verification. The `OPENROUTER_API_KEY` present in the dev environment returns 401 (invalid/expired) → **all live runs blocked on a working key**. Sample leaderboard generated through the real pipeline using explicitly-named mock models; `sample: true` flag + site banners guarantee no fabricated real-model scores can ship.
+- 2026-07-20: Site ships with sample data clearly bannered rather than waiting for keys — demo-ability now, integrity preserved.
+- Open: valid `OPENROUTER_API_KEY` (user-provided) unblocks M2-live smoke run → M3 calibration; `SARVAM_API_KEY` unblocks Sarvam runs; judge pair selection at M3; whether n=3 sampling fits budget at M4; remaining 36 scenarios (M4) per taxonomy grid.
+
+## 13. Immediate next actions (for the next agent/session)
+
+1. Get a working `OPENROUTER_API_KEY` in the environment → run the M2 smoke test:
+   `bhavbench run --model google/gemini-3.5-flash --langs en` then inspect 2–3 transcripts by hand
+   (especially `smoke` Devanagari rendering on a `hi` item).
+2. Pilot-run 2 models + 2 judges on the 18 current scenarios; kill/fix any scenario where all
+   models score within noise (PLAN §2.7.5).
+3. M3 calibration: export 50 stratified transcripts for human scoring (the author scores blind).
+4. Author next 12 scenarios toward 30 (grid cells in dataset/taxonomy.md).
+5. Deploy `web/` to Vercel (static export, zero config) once first real results exist.
