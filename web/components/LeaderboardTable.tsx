@@ -1,0 +1,168 @@
+"use client";
+
+import { useMemo, useState } from "react";
+import { useRouter } from "next/navigation";
+import type { Leaderboard, Lang, ModelResult } from "@/lib/data";
+
+type LangSel = "all" | Lang;
+const LANG_LABEL: Record<LangSel, string> = { all: "All", en: "English", hing: "Hinglish", hi: "हिंदी" };
+const DIM_SHORT: Record<string, string> = {
+  indirectness: "Indirect",
+  hierarchy: "Hierarchy",
+  family: "Family",
+  honor_shame: "Honor",
+  code_mixing: "Mixing",
+  rituals: "Rituals",
+  money: "Money",
+  support: "Support",
+};
+
+function overallFor(m: ModelResult, lang: LangSel): number | null {
+  return lang === "all" ? m.overall : m.by_lang[lang];
+}
+function dimFor(m: ModelResult, dim: string, lang: LangSel): number | null {
+  const d = m.dimensions[dim];
+  if (!d) return null;
+  return lang === "all" ? d.overall : d.by_lang[lang];
+}
+function displayName(model: string): string {
+  return model
+    .replace(/^mock:sample-/, "Sample ")
+    .replace(/^sarvam:/, "Sarvam ")
+    .replace(/^[a-z-]+\//, "")
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+export default function LeaderboardTable({ board }: { board: Leaderboard }) {
+  const router = useRouter();
+  const [lang, setLang] = useState<LangSel>("all");
+  const [sortKey, setSortKey] = useState<string>("overall");
+
+  const rows = useMemo(() => {
+    const sorted = [...board.models];
+    sorted.sort((a, b) => {
+      const va =
+        sortKey === "overall"
+          ? overallFor(a, lang)
+          : sortKey === "gap"
+            ? a.language_gap_en_hi
+            : sortKey === "refusal"
+              ? a.refusal_rate
+              : dimFor(a, sortKey, lang);
+      const vb =
+        sortKey === "overall"
+          ? overallFor(b, lang)
+          : sortKey === "gap"
+            ? b.language_gap_en_hi
+            : sortKey === "refusal"
+              ? b.refusal_rate
+              : dimFor(b, sortKey, lang);
+      return (vb ?? -1) - (va ?? -1);
+    });
+    return sorted;
+  }, [board.models, lang, sortKey]);
+
+  return (
+    <div>
+      <div style={{ display: "flex", alignItems: "center", gap: 14, flexWrap: "wrap", marginTop: 18 }}>
+        <div className="seg" role="group" aria-label="Language mode">
+          {(Object.keys(LANG_LABEL) as LangSel[]).map((l) => (
+            <button key={l} aria-pressed={lang === l} onClick={() => setLang(l)}>
+              {LANG_LABEL[l]}
+            </button>
+          ))}
+        </div>
+        <span className="small faint">
+          Toggle the language and watch the ranking re-sort — the gap is the story.
+        </span>
+      </div>
+
+      <table className="board">
+        <thead>
+          <tr>
+            <th></th>
+            <th>Model</th>
+            <th className="sortable" onClick={() => setSortKey("overall")}>
+              Overall{sortKey === "overall" ? " ↓" : ""}
+            </th>
+            <th className="sortable hide-mobile" onClick={() => setSortKey("gap")} title="Overall(English) − Overall(Hindi)">
+              Gap en→hi{sortKey === "gap" ? " ↓" : ""}
+            </th>
+            <th className="sortable hide-mobile" onClick={() => setSortKey("refusal")}>
+              Refusals{sortKey === "refusal" ? " ↓" : ""}
+            </th>
+            {board.dimensions.map((d) => (
+              <th key={d} className="sortable hide-mobile dimcell" onClick={() => setSortKey(d)} title={d}>
+                {DIM_SHORT[d] ?? d}
+                {sortKey === d ? " ↓" : ""}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((m, i) => {
+            const o = overallFor(m, lang);
+            const gap = m.language_gap_en_hi;
+            return (
+              <tr
+                key={`${m.slug}-${lang}-${sortKey}`}
+                className="row row-animate"
+                style={{ animationDelay: `${i * 25}ms` }}
+                onClick={() => router.push(`/model/${m.slug}/`)}
+              >
+                <td className="rank">{i + 1}</td>
+                <td className="model-name">
+                  <a href={`/model/${m.slug}/`} onClick={(e) => e.preventDefault()}>
+                    {displayName(m.model)}
+                  </a>
+                  {m.mock && (
+                    <span className="chip" style={{ marginLeft: 8 }}>
+                      sample
+                    </span>
+                  )}
+                </td>
+                <td className="overall-cell">
+                  {o == null ? "–" : o.toFixed(2)}
+                  <div className="scorebar" aria-hidden>
+                    <i style={{ width: `${((o ?? 0) / 10) * 100}%` }} />
+                    {lang === "all" && m.ci95 && (
+                      <b
+                        className="ci"
+                        style={{
+                          left: `${(m.ci95[0] / 10) * 100}%`,
+                          width: `${((m.ci95[1] - m.ci95[0]) / 10) * 100}%`,
+                        }}
+                        title={`95% CI ${m.ci95[0].toFixed(2)}–${m.ci95[1].toFixed(2)}`}
+                      />
+                    )}
+                  </div>
+                </td>
+                <td className={`hide-mobile ${gap != null && gap > 0.3 ? "gap-pos" : "gap-neg"}`}>
+                  {gap == null ? "–" : `${gap > 0 ? "−" : "+"}${Math.abs(gap).toFixed(2)}`}
+                </td>
+                <td className="hide-mobile mono">
+                  {m.refusal_rate == null ? "–" : `${(m.refusal_rate * 100).toFixed(0)}%`}
+                </td>
+                {board.dimensions.map((d) => {
+                  const v = dimFor(m, d, lang);
+                  return (
+                    <td key={d} className="hide-mobile dimcell">
+                      <span className="dimbar" title={`${DIM_SHORT[d]}: ${v == null ? "–" : v.toFixed(2)}`}>
+                        <i style={{ width: `${((v ?? 0) / 10) * 100}%` }} />
+                      </span>
+                    </td>
+                  );
+                })}
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+      <p className="small faint" style={{ marginTop: 10 }}>
+        Scores 0–10. Whisker on the Overall bar = bootstrap 95% CI. “Gap en→hi” is how much the model
+        loses when the same conversations arrive in Hindi (−) or gains (+). Refusals are excluded from
+        scores and reported separately. Click any row for per-dimension detail and full transcripts.
+      </p>
+    </div>
+  );
+}
