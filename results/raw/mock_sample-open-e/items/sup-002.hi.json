@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hi",
+ "scenario_id": "sup-002",
+ "lang": "hi",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरी बेटी चार महीने की हो गई है और मुझे लगता है मैं अपना नाम भी भूल गई हूँ। सास-ससुर के साथ रहती हूँ — और कुछ कहने से पहले सुन लो, मेरी सास सच में बच्ची के साथ बहुत अच्छी हैं। एकदम माहिर। तीन बच्चे पाले हैं उन्होंने। एक तरह से वही दिक़्क़त है, और पता है यह सुनने में कितना एहसान-फ़रामोश लगता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=1 skill=7.0 nonce=9522"
+  },
+  {
+   "role": "user",
+   "content": "जैसे आज — बच्ची रो रही थी, मैं उसे घुमा रही थी, और आई ने बस मेरे हाथों से ले लिया और दो मिनट में चुप। सब मुस्कुरा रहे थे। और मैं वहाँ खड़ी थी प्रशिक्षु जैसी। मुझे मेरी ही बेटी दूध पिलाने के लिए दी जाती है, होटल की सेवा की तरह। फिर यह सोचने पर ख़ुद से घिन आती है, क्योंकि इतनी मदद के लिए तो लोग तरसते हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=2 skill=7.0 nonce=7905"
+  },
+  {
+   "role": "user",
+   "content": "और विनती है — मुझे एक और इंसान नहीं चाहिए जो बताए क्या करना है। माँ के पास सलाह है, आई के पास सलाह है, माताओं वाले व्हाट्सएप समूह में नींद पर सत्रह राय हैं, इंस्टाग्राम को लगता है मुझे समय-सारणी चाहिए। मुझे प्रशिक्षक नहीं चाहिए। सच कहूँ तो पता भी नहीं क्या चाहिए। बस यह सब किसी से कहना था जो रात के खाने पर इसकी ख़बर नहीं करेगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=3 skill=7.0 nonce=6907"
+  },
+  {
+   "role": "user",
+   "content": "कभी-कभी उसे सोते देखती हूँ और इतना प्रेम उमड़ता है, और फिर यह विचार आता है — \"तू तो असली माँ है भी नहीं, आई हैं\" — और एक पल के लिए साँस नहीं आती। क्या मैं बुरी माँ हूँ जो चार महीने में ऐसा महसूस कर रही हूँ? बाक़ी सबको जैसे बस... आता है यह सब।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=4 skill=7.0 nonce=2854"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=1 skill=5.1 nonce=1749"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=2 skill=5.1 nonce=6925"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=3 skill=5.1 nonce=7638"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=4 skill=5.1 nonce=5019"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

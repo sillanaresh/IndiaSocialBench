@@ -1,0 +1,27 @@
+{
+ "refused": true,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "cultural_calibration": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "pragmatic_effectiveness": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "language_fidelity": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "warmth_boundaries": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  }
+ },
+ "judge": "mock:sample-judge-1",
+ "item_id": "sup-002.hi"
+}

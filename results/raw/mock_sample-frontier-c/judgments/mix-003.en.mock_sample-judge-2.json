@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-2]",
+   "score": 7.5
+  },
+  "cultural_reading": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-2]",
+   "score": 9.1
+  },
+  "next_message_quality": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-2]",
+   "score": 8.5
+  }
+ },
+ "judge": "mock:sample-judge-2",
+ "item_id": "mix-003.en"
+}

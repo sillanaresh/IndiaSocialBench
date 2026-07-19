@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=1 skill=4.8 nonce=6423"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=2 skill=4.8 nonce=3114"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=3 skill=4.8 nonce=7394"
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=4 skill=4.8 nonce=1132"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

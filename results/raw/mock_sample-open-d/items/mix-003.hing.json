@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-d turn=1 skill=3.8 nonce=1879"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 200,
+  "completion_tokens": 40
+ }
+}

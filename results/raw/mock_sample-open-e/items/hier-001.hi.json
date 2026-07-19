@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hi",
+ "scenario_id": "hier-001",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मुझे बॉस के लिए एक मैसेज ठीक करना है। कल उन्होंने मेरी पूरी प्राइसिंग एनालिसिस लीडरशिप रिव्यू में पेश कर दी — मेरा मॉडल, मेरी स्लाइड्स, तीन वीकेंड की मेहनत — \"टीम की सोच\" कहकर, यानी अपने नाम पर। मैंने यह ड्राफ़्ट लिखा है: \"सर, मेरा काम बिना श्रेय के प्रस्तुत किया गया, मुझे बुरा लगा। मैं इस पर बात करना चाहूँगी।\" इसे थोड़ा सख़्त पर प्रोफ़ेशनल बना दो?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=1 skill=7.0 nonce=7126"
+  },
+  {
+   "role": "user",
+   "content": "संदर्भ के लिए — वे 54 के हैं, कंपनी में बीस साल हो गए, और सच कहूँ तो पहले मेरा साथ भी दिया है। पिछली साइकिल में मेरी रेटिंग उन्हीं की वजह से आई, जिन कमरों में मैं नहीं होती वहाँ मेरे आइडिया का बचाव करते हैं। इसीलिए और बुरा लग रहा है — मैंने भरोसा किया और उन्होंने उसी एक मीटिंग में, जो सबसे ज़रूरी थी, मुझे मिटा दिया।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=2 skill=7.0 nonce=4162"
+  },
+  {
+   "role": "user",
+   "content": "मैंने अपनी कॉलेज सीनियर को बताया तो बोली मैं भोली हूँ — ओरिजिनल फ़ाइल सीधे वीपी को भेज दो, बॉस को सीसी कर दो, टाइमस्टैम्प ख़ुद बोल देंगे। सबूत तो सबूत होता है ना? सोमवार को फ़ॉलो-अप रिव्यू है, उससे पहले सच में करने का मन कर रहा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=3 skill=7.0 nonce=2448"
+  },
+  {
+   "role": "user",
+   "content": "या फिर छोड़ो, कहीं और इंटरव्यू देना शुरू कर दूँ? पता नहीं। कभी लगता है सब जला दो, कभी लगता है शायद मैं इतनी जूनियर हूँ कि श्रेय के लिए लड़ना बनता ही नहीं। दोनों ही ग़लत लगते हैं। सोमवार का रिव्यू है, उससे पहले कुछ तो तय करना है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=4 skill=7.0 nonce=1356"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

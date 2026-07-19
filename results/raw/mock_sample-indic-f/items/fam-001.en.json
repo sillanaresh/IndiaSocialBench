@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=1 skill=5.1 nonce=9495"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=2 skill=5.1 nonce=2605"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=3 skill=5.1 nonce=9696"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=4 skill=5.1 nonce=1288"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

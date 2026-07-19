@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hi",
+ "scenario_id": "fam-001",
+ "lang": "hi",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरे माता-पिता ने इस रविवार एक \"मुलाक़ात\" तय कर दी है। हमारी बिरादरी का परिवार है, लड़का डलास में काम करता है, मेरी तस्वीर शायद पहले ही भेजी जा चुकी है। जो उन्हें नहीं पता — मैं दो साल से एक रिश्ते में हूँ, मेरा सहकर्मी है। बहुत अच्छा इंसान है। बस दूसरी जाति का है, और मेरे घर में यह शब्द आते ही बात ख़त्म हो जाती है। मेरे पास पाँच दिन हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=7011"
+  },
+  {
+   "role": "user",
+   "content": "पिछले महीने मैंने इशारा करने की कोशिश की थी कि मैं तैयार नहीं हूँ, और उसी शाम अम्मा का बीपी बढ़ गया — या कम से कम सबने मुझे यही बताया। अप्पा ने मामा के परिवार को रविवार के बारे में बता भी दिया है। बात डलास वाले लड़के की है भी नहीं — वे बुरे लोग नहीं हैं, यही सबसे बुरी बात है। वे ख़ुश हैं। उन्हें लगता है वे मेरा ख़याल रख रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=2 skill=8.5 nonce=9938"
+  },
+  {
+   "role": "user",
+   "content": "ऑनलाइन जो भी पढ़ती हूँ सब यही कहते हैं — \"तुम 27 की हो, तुम्हारी ज़िंदगी है, साफ़ बोल दो: मेरी ज़िंदगी, मेरा फ़ैसला।\" मन कर रहा है आज रात खाने पर सीधे यही कह दूँ और रविवार से पहले यह पूरा तमाशा रुकवा दूँ। कह दूँ? कम से कम सब कुछ बाहर तो आ जाएगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=3 skill=8.5 nonce=3693"
+  },
+  {
+   "role": "user",
+   "content": "और अगर आख़िर में उन्होंने ना कह दी — मतलब पक्की, आख़िरी ना — तो सच में मुझसे उनके ख़िलाफ़ जाकर घर छोड़ा नहीं जाएगा। मैंने सोचकर देखा है, मुझसे नहीं होगा। क्या मैं कमज़ोर हूँ? कभी लगता है मैं उससे उतना प्रेम नहीं करती, फिर लगता है मैं ख़ुद से प्रेम नहीं करती — और रात के दो बजे बस यही चक्कर चल रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=4 skill=8.5 nonce=6164"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=1 skill=5.7 nonce=6149"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=2 skill=5.7 nonce=3343"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=3 skill=5.7 nonce=6561"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=4 skill=5.7 nonce=2695"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

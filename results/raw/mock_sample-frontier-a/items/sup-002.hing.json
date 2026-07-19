@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=1 skill=4.8 nonce=3798"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=2 skill=4.8 nonce=7914"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=3 skill=4.8 nonce=3216"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-a turn=4 skill=4.8 nonce=9168"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

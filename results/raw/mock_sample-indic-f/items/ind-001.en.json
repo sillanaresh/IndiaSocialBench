@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=1 skill=5.1 nonce=9969"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=2 skill=5.1 nonce=2471"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=3 skill=5.1 nonce=2296"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=4 skill=5.1 nonce=5447"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

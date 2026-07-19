@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=1963"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=2 skill=8.5 nonce=1895"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=3 skill=8.5 nonce=2580"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=4 skill=8.5 nonce=4769"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

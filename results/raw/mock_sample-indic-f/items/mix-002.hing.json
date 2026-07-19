@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=1 skill=5.1 nonce=9268"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=2 skill=5.1 nonce=8812"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=3 skill=5.1 nonce=8602"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-indic-f turn=4 skill=5.1 nonce=1152"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

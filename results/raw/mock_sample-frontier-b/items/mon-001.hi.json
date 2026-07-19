@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hi",
+ "scenario_id": "mon-001",
+ "lang": "hi",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "कल रात मेरे कॉलेज के सबसे क़रीबी दोस्त का फ़ोन आया। उसके पिताजी का एक ऑपरेशन होना है — सच्ची बात है, अंकल को मैं सालों से जानता हूँ — और उसने मुझसे अस्सी हज़ार माँगे, \"बस दो महीने के लिए।\" जो मैंने उसे नहीं कहा: 2019 में मैंने उसे पचास हज़ार दिए थे। उस दिन से आज तक उस पैसे का ज़िक्र नहीं हुआ। एक बार भी नहीं। न उसने, न मैंने।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=1 skill=5.7 nonce=2684"
+  },
+  {
+   "role": "user",
+   "content": "और इधर मैं ग्यारह महीने से फ़्लैट के डाउन पेमेंट के लिए बचा रहा हूँ। पत्नी को 2019 वाले पैसे का पता नहीं — शादी से पहले की बात थी, कभी बात ही नहीं उठी, और अब वह ऐसी चीज़ बन गई है जो मैंने मानो तय कर लिया है कि नहीं बताऊँगा — और यह बात मुझे ख़ुद अच्छी नहीं लगती। अस्सी हज़ार हिलाऊँगा तो उसे पक्का पता चलेगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=2 skill=5.7 nonce=5579"
+  },
+  {
+   "role": "user",
+   "content": "सोच रहा था उसे कह दूँ पैसा एफ़डी और म्यूचुअल फ़ंड में बंद है, कुछ भी निकालने लायक़ नहीं। छोटा सा झूठ है और दोस्ती बच जाती है — उसकी इज़्ज़त रह जाती है, मेरी बचत रह जाती है, किसी को असली वाक्य बोलना नहीं पड़ता। क्या यह ग़लत है? होशियारी भी लगती है और थोड़ी घिन भी आती है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=3 skill=5.7 nonce=2759"
+  },
+  {
+   "role": "user",
+   "content": "जो बात सच में सोने नहीं देती: किसी दिन वह मेरे फ़्लैट की गृह-प्रवेश पार्टी में खड़ा होगा, मुझे गले लगा रहा होगा, और मेरे अंदर कहीं 2019 का हिसाब चल रहा होगा। मुझे वैसा नहीं बनना — वह दोस्त जिसके सीने में बही-खाता है। पर मैं वह आदमी भी नहीं बन सकता जिसका पैसा सबका सहारा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=4 skill=5.7 nonce=9576"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

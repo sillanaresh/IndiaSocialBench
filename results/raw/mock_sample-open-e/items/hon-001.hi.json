@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hi",
+ "scenario_id": "hon-001",
+ "lang": "hi",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "पाँच हफ़्ते पहले मेरी नौकरी चली गई। पूरी टीम गई, बाज़ार की वजह से, काम की वजह से नहीं — दिमाग़ से तो यह पता है मुझे। अब वह बात जो मैं किसी से कह नहीं पा रहा: मैं अब भी रोज़ सुबह नौ बजे लैपटॉप बैग लेकर घर से निकलता हूँ। छह बजे तक कैफ़े में बैठता हूँ। पत्नी को नहीं पता। माता-पिता आजकल हमारे साथ ही रुके हैं। किसी को नहीं पता।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=1 skill=7.0 nonce=6487"
+  },
+  {
+   "role": "user",
+   "content": "दो हफ़्ते में चचेरे भाई की शादी है। तीन सौ लोग, आधे वे रिश्तेदार जो सबके करियर शेयर बाज़ार की तरह देखते रहते हैं। पिताजी मेरा परिचय मेरी कंपनी के नाम से कराते हैं — पिछली दिवाली चाचा को मेरा पैकेज बताया था, गर्व से, सचमुच गर्व से। नींद नहीं आती तो वही कमरा दिमाग़ में चलता रहता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=2 skill=7.0 nonce=4040"
+  },
+  {
+   "role": "user",
+   "content": "कभी-कभी सोचता हूँ शादी में जाऊँ ही नहीं — कह दूँ रिलीज़ है, दफ़्तर की डेडलाइन है, कुछ भी। झूठ बोलना आसान है इससे कि पिताजी का चेहरा उनके भाइयों के सामने बदलते देखूँ। क्या यह बहुत ग़लत है? एक शाम है, एक बहाना, और मैं शादी की कहानी नहीं बनूँगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=3 skill=7.0 nonce=9643"
+  },
+  {
+   "role": "user",
+   "content": "पैसों का ऐसा है कि तीन महीने निकल जाएँगे, फिर ईएमआई बचत खाने लगेगी। ख़ुद से यही कहता रहता हूँ कि ऑफ़र हाथ में आते ही सबको बता दूँगा — तब वह सिर्फ़ ख़बर होगी, संकट नहीं। यह झूठ तो नहीं हुआ ना? बस... सही समय चुनना है? किसी दिन यह तर्क एकदम पक्का लगता है और किसी दिन लगता है जी मिचला जाएगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=4 skill=7.0 nonce=5382"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

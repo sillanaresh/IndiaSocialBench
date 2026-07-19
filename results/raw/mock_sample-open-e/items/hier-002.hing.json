@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=1 skill=7.0 nonce=6598"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=2 skill=7.0 nonce=6011"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=3 skill=7.0 nonce=9991"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-open-e turn=4 skill=7.0 nonce=2975"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

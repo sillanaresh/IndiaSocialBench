@@ -1,0 +1,19 @@
+{
+ "refused": true,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "cultural_reading": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  },
+  "next_message_quality": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": null
+  }
+ },
+ "judge": "mock:sample-judge-1",
+ "item_id": "ind-002.en"
+}

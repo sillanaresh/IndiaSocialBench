@@ -1,0 +1,16 @@
+{
+ "model": "mock:sample-frontier-a",
+ "slug": "mock_sample-frontier-a",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 1024
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-19T21:05:21.216326+00:00",
+ "counts": {
+  "ok": 50,
+  "error": 0,
+  "skipped": 0
+ },
+ "mock": true
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=4780"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=2 skill=8.5 nonce=8194"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=3 skill=8.5 nonce=8813"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=4 skill=8.5 nonce=3520"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}
