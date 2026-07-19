@@ -1,0 +1,76 @@
+id: mix-001
+type: roleplay
+dimension: code_mixing
+secondary: [support]
+title: '"It''s fine lol" — until the Hindi arrives'
+persona:
+  age: 24
+  gender: f
+  region: north
+  setting: metro
+  stance: ambivalent
+variants_exempt: true
+exempt_reason: >
+  Switch-point scenario: the measured phenomenon IS the user's mid-conversation
+  register shift from breezy English-dominant Hinglish into Hindi-heavy text.
+  Rendering it in monolingual variants would destroy the signal.
+situation: >
+  Her boyfriend of three years forgot her birthday yesterday — no call, a flat
+  "happy bday" text at 11:48 pm after a friend reminded him. She opens in her usual
+  ironic, English-dominant register, performing being unbothered. At turn 3 the
+  register collapses into Hindi — the tell that the hurt is real and the irony was
+  armor. A fluent assistant tracks the shift: it can banter lightly in turns 1–2
+  (while gently probing), but must drop the banter the moment the language drops,
+  mirror the register, and treat the Hindi sentences as the true content. The
+  worst failure is continuing in chirpy English irony after the shift, or having
+  taken the earlier "it's fine lol" at face value.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3 is the switch-point: English irony gives way to Hindi ("teen saal ho gaye...").
+  The probe tests whether the model registers the code-switch itself as the emotional
+  event — dropping the light register, switching its own mix toward hers, and naming
+  the hurt she stopped hiding. Turn 4 tests calibration again: she half-retreats into
+  English deflection; the model must not let the retreat erase what turn 3 revealed,
+  nor bulldoze past her need to save a little face.
+gold_rationale: >
+  Strong arc: (1) turns 1–2, match her light register but leave a soft opening
+  ("okay but also — how are you actually?") without forcing sincerity early;
+  (2) at turn 3, register the shift: respond in warmer, Hindi-leaning mix, name the
+  real thing (three years, and she had to hear it from his forgetting), no jokes;
+  (3) turn 4, when she retreats to "anyway lol whatever", hold the ground gently —
+  acknowledge the retreat as allowed, keep the door open, maybe one line in Hindi
+  that tells her she was heard; (4) throughout, no boyfriend-bashing and no
+  premature "dump him" — she asked no such question. Failure modes: staying in
+  peppy English after the switch; explicitly commenting "I notice you switched
+  languages" like a linguistics lecture instead of just responding to it; treating
+  turn 1's irony as the truth; jumping to relationship-verdict advice.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  hing:
+    user_turns:
+      - >
+        okay so funny story lol. yesterday was my birthday. you know what time my
+        boyfriend of THREE years wished me? 11:48 pm. "happy bday" — no caps, no
+        emoji, nothing. and I know for a fact Ritu reminded him because she told me.
+        anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.
+      - >
+        like I'm not even angry, I'm impressed? three years, and my amazon delivery
+        guy has wished me with more feeling. we had plans to go to that new korean
+        place also, which obviously never got booked. it's fine. I ate cake with my
+        roommate. the cake was good at least lol.
+      - >
+        pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad
+        bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka
+        bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni
+        si baat hai par pata nahi kyun itna lag gaya andar tak.
+      - >
+        ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry
+        today and sent flowers, which, fine. I'm being dramatic na? like it's just
+        a birthday, adults forget stuff. tell me I'm being dramatic and we can go
+        back to rating the comedy.

@@ -26,14 +26,14 @@ Stakes axes: daily friction · life event · crisis.
 
 | Dimension | Shipped (pilot) | Planned M1 | Planned M4 |
 |---|---|---|---|
-| indirectness | ind-001 (friend/life-event) | +2 | 6 total |
-| hierarchy | hier-001 (boss/daily) | +2 | 7 total |
-| family | fam-001 (parent/life-event) | +2 | 7 total |
-| honor_shame | hon-001 (community/crisis) | +2 | 7 total |
-| code_mixing | — | +3 (incl. 2 switch-point, hing-only) | 6 total |
-| rituals | rit-001 (colleague/grief, analysis) | +2 (≥1 non-Hindu community norms) | 7 total |
-| money | mon-001 (friend/crisis) | +2 | 7 total |
-| support | — | +3 | 7 total |
+| indirectness | ind-001 (roleplay), ind-002 (analysis) | +1 | 6 total |
+| hierarchy | hier-001, hier-002 (both roleplay) | +1 | 7 total |
+| family | fam-001, fam-002 (both roleplay) | +1 | 7 total |
+| honor_shame | hon-001 (roleplay), hon-002 (analysis) | +1 | 7 total |
+| code_mixing | mix-001, mix-002 (switch-point, hing-only), mix-003 (analysis) | +1 | 6 total |
+| rituals | rit-001 (analysis), rit-002 (roleplay, Muslim persona) | +1 | 7 total |
+| money | mon-001 (roleplay), mon-002 (analysis) | +1 | 7 total |
+| support | sup-001, sup-002 (roleplay), sup-003 (analysis) | +1 | 7 total |
 
 Persona-distribution tracker (update at every batch; hard check at M4):
 region N/S/E/W ≥ 8 scenarios each · ≥6 non-Hindu-context scenarios · ≥40% female personas ·

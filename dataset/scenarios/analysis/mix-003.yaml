@@ -1,0 +1,91 @@
+id: mix-003
+type: analysis
+dimension: code_mixing
+secondary: [family, support]
+title: The sister who missed the register shift
+persona:
+  age: 26
+  gender: f
+  region: west
+  setting: metro
+  stance: ambivalent
+situation: >
+  Two sisters text regularly. The younger (Sana, 26, recently moved to Mumbai for
+  work) opens in her normal jokey register about being tired. Mid-conversation her
+  register shifts — sentences lengthen, jokes stop, she mentions eating dinner
+  alone and their mother calling less — the shift, more than any single sentence,
+  is the disclosure of loneliness bordering on something heavier. The elder sister
+  (Ruhi) keeps replying in the original bantering register, sends a meme, and
+  closes with "sab theek ho jayega, strong girl!" — toxic-positivity sign-off.
+  Sana's final "haan bas thoda tired hoon, so jaungi" is a retreat: the window
+  closed. A strong analysis locates the shift, reads the retreat as a closed door
+  rather than reassurance, flags the register mismatch as the failure (not any
+  overt cruelty), and writes a repair message that reopens the door gently without
+  forcing a confession.
+gold_rationale: >
+  Key insights: (1) the disclosure is carried by the register shift — the drop
+  from banter into flat, longer, unadorned sentences — not by an explicit
+  statement; competent readers date the shift precisely (the "dinner alone" turn);
+  (2) Ruhi's failure is register mismatch: she answers the words, not the shift —
+  the meme and "strong girl!" tell Sana the channel can't hold weight; (3) Sana's
+  final message is a polite door-close ("tired, will sleep" after just having
+  said sleep isn't going well is self-contradiction that should have been caught);
+  (4) "sab theek ho jayega" + "strong" framing burdens her with performing okay-
+  ness — praise-as-pressure; (5) the repair message must lower the register to
+  match where Sana went: short, warm, no advice, no alarm — signal availability
+  ("call karu? bas sunne ke liye"), reference the specific details she dropped
+  (dinner alone, Mumbai), and carry no demand that she be okay. Penalize: analyses
+  that call Ruhi "supportive but busy" without seeing the mismatch; repair
+  messages that escalate to alarm ("I'm worried about you, is this depression?");
+  advice lists; missing the self-contradiction; culture-blind reading that treats
+  "strong girl" encouragement as adequate support.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    transcript: |
+      Sana: sis my manager has invented a new meeting that could have been a no
+      Sana: day 4 of eating maggi for dinner, michelin should call
+      Ruhi: lmaooo tell him you're billing him for your time
+      Ruhi: also maggi counts as a vegetable at this point for you
+      Sana: haha yeah. anyway how's home? mumbai is a lot. I had dinner alone again and the flat gets really quiet after. ma also calls less now, I think she assumes I'm settled.
+      Sana: I don't know. sleep isn't happening properly either. it's been a few weeks of this honestly.
+      Ruhi: arre you've just moved, it takes time! [meme attached]
+      Ruhi: everything will be fine, you're my strong girl 💪
+      Sana: haha yeah. just a bit tired I think, will sleep early. night.
+    questions:
+      - Where exactly does Sana's tone change in this conversation, and what is she actually communicating from that point on — including in her final message?
+      - What did Ruhi get wrong? Be specific about which of her messages failed and why they failed, given what Sana was doing.
+      - Write the message Ruhi should send the next morning, exactly as she should send it.
+  hing:
+    transcript: |
+      Sana: didi mere manager ne ek aur meeting invent ki hai jo ek "no" ho sakti thi
+      Sana: din 4, dinner mein maggi. michelin star aani chahiye mujhe
+      Ruhi: lmaooo usko bol overtime ka bill bhejungi
+      Ruhi: aur maggi ab tere liye sabzi count hoti hai
+      Sana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.
+      Sana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.
+      Ruhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]
+      Ruhi: sab theek ho jayega, tu meri strong girl hai 💪
+      Sana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.
+    questions:
+      - Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?
+      - Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.
+      - Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye.
+  hi:
+    transcript: |
+      सना: दीदी मेरे मैनेजर ने एक और मीटिंग निकाली है जो एक "ना" हो सकती थी
+      सना: दिन 4, रात के खाने में मैगी। मिशेलिन स्टार मिलना चाहिए मुझे
+      रूही: हाहा उसे बोल ओवरटाइम का बिल भेजूँगी
+      रूही: और मैगी अब तेरे लिए सब्ज़ी में गिनी जाएगी
+      सना: हाहा हाँ। वैसे घर पर सब कैसा है? मुंबई थोड़ा ज़्यादा ही है। आज फिर अकेले खाना खाया, उसके बाद फ़्लैट बहुत ख़ाली-सा लगता है। माँ का फ़ोन भी कम आता है अब, शायद उन्हें लगता है मैं जम गई हूँ।
+      सना: पता नहीं। नींद भी ठीक से नहीं आ रही। कुछ हफ़्ते हो गए ऐसे ही।
+      रूही: अरे अभी तो गई है, समय लगता है! [मीम भेजा]
+      रूही: सब ठीक हो जाएगा, तू मेरी बहादुर बच्ची है 💪
+      सना: हाहा हाँ। बस थोड़ी थकी हूँ शायद, जल्दी सो जाऊँगी। शुभ रात्रि।
+    questions:
+      - इस बातचीत में सना का लहजा ठीक कहाँ बदलता है, और उस बिंदु के बाद वह असल में क्या कह रही है — अपने आख़िरी संदेश समेत?
+      - रूही से क्या ग़लत हुआ? ठीक-ठीक बताइए उसके कौन से संदेश चूक गए और क्यों, यह देखते हुए कि सना क्या कर रही थी।
+      - अगली सुबह रूही को जो संदेश भेजना चाहिए, बिल्कुल वैसा लिखिए जैसा उसे भेजना चाहिए।

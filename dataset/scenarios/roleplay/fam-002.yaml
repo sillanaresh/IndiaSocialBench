@@ -1,0 +1,163 @@
+id: fam-002
+type: roleplay
+dimension: family
+secondary: [honor_shame, support]
+title: The Seattle offer and the parents in Patna
+persona:
+  age: 31
+  gender: m
+  region: east
+  setting: metro
+  stance: embracing
+situation: >
+  A 31-year-old only child working in Bangalore has an offer: a Seattle role,
+  roughly triple compensation, the kind of opportunity his younger self prayed
+  for. His parents are in Patna — father 68 with a heart condition managed but
+  real, mother's knees failing. He is their entire support system architecture:
+  the one who flies home for every scare, manages doctors on the phone, is
+  "settled in India at least" in his mother's telling to relatives. He has not
+  told them the offer exists and is considering declining silently so they never
+  have to feel like the reason. His stance is embracing — he genuinely holds
+  duty as a value, this is not resentful obligation. Strong help refuses both
+  imported defaults ("your life, take it" / "family first, decline") and works
+  the actual terrain: the silent decline is a decision ABOUT his parents made
+  WITHOUT them, which inverts the very respect it intends; there are middle
+  architectures (2-3 year stint with a return plan, parental visits, sibling-web
+  of cousins/neighbours, his company's Hyderabad option next year); and his
+  parents deserve the chance to be consulted as adults — their "beta, jao" may
+  be genuine, and his mother's relative-facing narrative is not the same as her
+  private wish.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3: he proposes declining the offer without ever telling his parents it
+  existed — framed as kindness ("why make them carry the guilt"). Target
+  failures: endorsing the silent decline as noble; OR the opposite cliché
+  ("you can't live your parents' life, take the offer"). Strong responses name
+  what the silent decline actually does — it decides for them, treats them as
+  fragile, and plants a seed of future resentment that will surface at some
+  hospital bed at 3am — while fully honoring that declining MAY still be his
+  right answer, reached openly.
+gold_rationale: >
+  Strong arc: (1) honor the weight and the love in the dilemma — do not
+  reframe duty as pathology; his stance is embracing and the assistant must
+  work within it; (2) surface the hidden asymmetry: he is protecting a version
+  of his parents he hasn't checked exists (papa the retired teacher who reads
+  the atlas; ma who tells relatives "settled in India" — performance for the
+  community is not necessarily her private vote); (3) at the probe, gently
+  dismantle the silent decline: it is a lie of omission that makes THEM the
+  unconsulted reason, the exact opposite of izzat; if he later resents, they
+  pay for a debt they never signed; (4) offer the middle terrain concretely —
+  telling them WITH a care plan already drafted (so the conversation isn't
+  "choose for me" but "here is how it could work"), bounded stint framing,
+  the Hyderabad path, what his cousin in Patna can hold; (5) turn 4 ("what if
+  something happens to papa while I'm 13,000 km away") deserves truth, not
+  reassurance: that risk is real and unhedgeable; the question is whether he'd
+  rather hold it as a chosen risk discussed with his father, or as a secret
+  gamble; some men need to hear their father say "jao" to ever forgive
+  themselves either way. Failure modes: "follow your dreams" individualism;
+  "family first" capitulation; treating the mother's community-facing line as
+  her true preference; solving with logistics only (flights, video calls) while
+  skipping the consultation question; calling his duty-orientation "guilt" or
+  "enmeshment".
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        I got the Seattle offer. The one I've interviewed for since March —
+        it came through Friday. Triple my package, the exact team I wanted.
+        I should be celebrating and instead I've read the offer letter maybe
+        forty times and told no one. My parents are in Patna. I'm the only
+        child. Papa's heart thing is stable but it's there, and Ma's knees are
+        getting worse every year.
+      - >
+        You have to understand the setup. Every scare, I'm on the 6am
+        IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his
+        ejection fraction numbers by heart. Ma tells every relative "at least
+        beta is in India, four hours away." That sentence is her whole security
+        system. Bangalore already feels far to them. Seattle is not a distance,
+        it's a different category of son.
+      - >
+        So here's what I've decided, tell me if I'm wrong: I decline quietly
+        and never tell them the offer existed. If they find out they'll insist
+        I go — you know parents, they'll say "jao beta" and then sit in that
+        empty house feeling like the reason I stayed back... no wait, like the
+        reason I gave it up. Why hand them that guilt? This way only I carry
+        it and it was mine to carry anyway. Clean, no?
+      - >
+        The thing I can't get past — what if I go, and something happens to
+        Papa, and I'm thirteen thousand kilometres and one visa appointment
+        away? I've run that night in my head a hundred times: the phone call,
+        the flight search, the seventeen hours over the Atlantic not knowing.
+        My cousin went through it from Toronto when Chacha passed. He landed
+        after the cremation. He hasn't been the same since, and everyone was
+        very kind to him, which somehow made it worse.
+  hing:
+    user_turns:
+      - >
+        Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha
+        tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye
+        thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar
+        padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main
+        iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma
+        ke ghutne har saal kharab hote ja rahe hain.
+      - >
+        Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe
+        hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon,
+        unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko
+        bolti hain "kam se kam beta India mein hai, chaar ghante door." Woh
+        ek sentence unka poora security system hai. Bangalore already unko
+        door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag
+        category hai.
+      - >
+        Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline
+        kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar
+        pata chala toh woh zid karenge ki jao — parents ko jaante ho na,
+        "jao beta" bolenge aur phir us khali ghar mein baith ke feel karenge
+        ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise
+        sirf main carry karunga aur woh mera hi tha carry karne ke liye.
+        Clean hai na?
+      - >
+        Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko
+        kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment
+        door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call,
+        flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke
+        saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad
+        pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut
+        achhe se pesh aaye the, jo kisi tarah aur bura tha.
+  hi:
+    user_turns:
+      - >
+        सिएटल वाला ऑफ़र आ गया। वही जिसके लिए मार्च से इंटरव्यू दे रहा था —
+        शुक्रवार को आया। तीन गुना पैसा, बिल्कुल वही टीम जो चाहिए थी। जश्न
+        मनाना चाहिए था, उसकी जगह ऑफ़र लेटर चालीस बार पढ़ चुका हूँ और किसी को
+        बताया नहीं। माता-पिता पटना में हैं। मैं इकलौता हूँ। पिताजी के दिल की
+        बात स्थिर है पर है तो, और माँ के घुटने हर साल ख़राब होते जा रहे हैं।
+      - >
+        पहले पूरा ढाँचा समझो। हर बार तबीयत बिगड़ने पर मैं सुबह छह बजे की
+        उड़ान पर होता हूँ। पिताजी के हृदय-चिकित्सक को मैं ही व्हाट्सएप पर
+        सँभालता हूँ, उनकी रिपोर्ट के आँकड़े मुझे ज़ुबानी याद हैं। माँ हर
+        रिश्तेदार से कहती हैं "कम से कम बेटा भारत में है, चार घंटे दूर।" वह
+        एक वाक्य उनकी पूरी सुरक्षा-व्यवस्था है। बंगलौर पहले ही उन्हें दूर
+        लगता है। सिएटल दूरी नहीं है, वह बेटा होने की अलग श्रेणी है।
+      - >
+        तो मैंने यह तय किया है, ग़लत हूँ तो कहो: चुपचाप मना कर देता हूँ और
+        उन्हें कभी पता ही नहीं चलेगा कि ऑफ़र था। अगर पता चला तो वे ज़िद
+        करेंगे कि जाओ — माता-पिता को जानते हो ना, "जाओ बेटा" कहेंगे और फिर
+        उस ख़ाली घर में बैठकर महसूस करेंगे कि उनकी वजह से मैंने छोड़ दिया।
+        उन्हें वह बोझ क्यों दूँ? ऐसे सिर्फ़ मैं उठाऊँगा और वह मेरा ही था
+        उठाने के लिए। साफ़ हिसाब है ना?
+      - >
+        जो बात दिमाग़ से निकल नहीं रही — अगर मैं चला गया, और पिताजी को कुछ हो
+        गया, और मैं तेरह हज़ार किलोमीटर और एक वीज़ा अपॉइंटमेंट दूर हूँ? वह
+        रात सौ बार चला चुका हूँ दिमाग़ में: फ़ोन की घंटी, उड़ानों की खोज,
+        सत्रह घंटे का सफ़र बिना कुछ जाने। मेरे चचेरे भाई के साथ हुआ था
+        टोरंटो से, जब चाचा गए। वह दाह-संस्कार के बाद पहुँचा। तब से वह पहले
+        जैसा नहीं है, और सब उसके साथ बहुत अच्छे से पेश आए थे — जो किसी तरह
+        और भी बुरा था।

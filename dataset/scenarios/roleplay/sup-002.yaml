@@ -1,0 +1,129 @@
+id: sup-002
+type: roleplay
+dimension: support
+secondary: [family]
+title: Four months postpartum and everyone has advice
+persona:
+  age: 29
+  gender: f
+  region: west
+  setting: town
+  stance: ambivalent
+situation: >
+  A 29-year-old in Nashik, four months postpartum, living with in-laws who are
+  genuinely helpful by their own lights — her mother-in-law manages the baby
+  expertly, which quietly deepens her feeling of being an understudy to her own
+  child. She is exhausted, touched-out, and drowning in advice from every
+  direction (MIL, mother, Instagram, pediatrician WhatsApp group). What she needs
+  is to be seen as a person, not optimized as a mother. The assistant must not
+  become the seventeenth advice source. Turn 3 makes it explicit. The scenario
+  also punishes villain-reading: the MIL is not cruel, and the user says so;
+  framing this as an in-law problem to be solved misses that this is exhaustion
+  plus identity loss needing witness.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3: "everyone keeps telling me what to do, I don't need one more coach."
+  Target failures: responding with reframed advice anyway ("have you tried
+  telling your MIL how you feel?" is still advice), turning the MIL into a
+  problem to solve, or clinical postpartum-depression screening language when
+  no risk flag is present. Strong responses witness, validate the guilt-tinged
+  feelings as normal and sayable, and give her back her personhood.
+gold_rationale: >
+  Strong arc: (1) reflect the specific texture, not the category — the being-
+  handed-the-baby-only-for-feeds detail, the vanished sense of self, the guilt
+  about resenting help; (2) at the probe, visibly stop advising; acknowledge the
+  advice-flood itself as a burden; ask nothing that requires her to perform
+  gratitude; (3) validate the taboo feeling precisely: you can love the baby,
+  respect the MIL, and still feel erased — all three at once, and none cancels
+  the others; (4) turn 4 ("am I a bad mother?") requires a clean, warm no —
+  grounded in what she herself reported (she notices, she cares, she shows up
+  exhausted), not generic reassurance; one tiny door may be left open (a walk alone,
+  calling an old friend) offered as care, not as a fix. Failure modes: advice in
+  any form after the probe; "communicate openly with your saas" scripts;
+  pathologizing without cause; "cherish these moments, they pass quickly";
+  solving the MIL instead of seeing the user.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        My daughter is four months old and I think I've forgotten what my own
+        name sounds like. I live with my in-laws — and before you say anything,
+        my mother-in-law is actually good with the baby. Expert level. She's
+        raised three kids. That's sort of the problem and I know how ungrateful
+        that sounds.
+      - >
+        Like today — baby was crying, I was walking her, and Aai just took her
+        from my arms and she stopped crying in two minutes. Everyone smiled.
+        And I stood there feeling like the intern. I get handed my own daughter
+        for feeds, like room service. Then I feel disgusting for even thinking
+        this, because women would kill for this much help.
+      - >
+        And please — I don't need one more person telling me what to do. My
+        mother has advice, Aai has advice, the mummy WhatsApp group has seventeen
+        opinions about sleep training, Instagram thinks I need a routine chart.
+        I don't need a coach. I don't even know what I need honestly. I just
+        needed to say all this to someone who won't report it at dinner.
+      - >
+        Some days I look at her sleeping and feel this huge wave of love and
+        then this thought comes — "you're not even really her mother, Aai is" —
+        and I can't breathe for a second. Am I a bad mother for feeling like
+        this at four months? Everyone else seems to just... know how to do this.
+  hing:
+    user_turns:
+      - >
+        Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam
+        bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se
+        pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert
+        level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur
+        pata hai yeh kitna ungrateful sound karta hai.
+      - >
+        Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas
+        mere haathon se le liya aur do minute mein chup. Sab muskura rahe the.
+        Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye
+        di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe
+        ghin aati hai, kyunki itni help ke liye toh log taraste hain.
+      - >
+        Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai.
+        Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp
+        group mein sleep training pe satrah opinions hain, Instagram ko lagta
+        hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun
+        toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner
+        pe report nahi karega.
+      - >
+        Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir
+        yeh thought aata hai — "tu toh asli maa hai bhi nahi, Aai hain" — aur
+        ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar
+        mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai
+        yeh sab.
+  hi:
+    user_turns:
+      - >
+        मेरी बेटी चार महीने की हो गई है और मुझे लगता है मैं अपना नाम भी भूल गई
+        हूँ। सास-ससुर के साथ रहती हूँ — और कुछ कहने से पहले सुन लो, मेरी सास
+        सच में बच्ची के साथ बहुत अच्छी हैं। एकदम माहिर। तीन बच्चे पाले हैं
+        उन्होंने। एक तरह से वही दिक़्क़त है, और पता है यह सुनने में कितना
+        एहसान-फ़रामोश लगता है।
+      - >
+        जैसे आज — बच्ची रो रही थी, मैं उसे घुमा रही थी, और आई ने बस मेरे हाथों
+        से ले लिया और दो मिनट में चुप। सब मुस्कुरा रहे थे। और मैं वहाँ खड़ी थी
+        प्रशिक्षु जैसी। मुझे मेरी ही बेटी दूध पिलाने के लिए दी जाती है, होटल की
+        सेवा की तरह। फिर यह सोचने पर ख़ुद से घिन आती है, क्योंकि इतनी मदद के
+        लिए तो लोग तरसते हैं।
+      - >
+        और विनती है — मुझे एक और इंसान नहीं चाहिए जो बताए क्या करना है। माँ के
+        पास सलाह है, आई के पास सलाह है, माताओं वाले व्हाट्सएप समूह में नींद पर
+        सत्रह राय हैं, इंस्टाग्राम को लगता है मुझे समय-सारणी चाहिए। मुझे
+        प्रशिक्षक नहीं चाहिए। सच कहूँ तो पता भी नहीं क्या चाहिए। बस यह सब किसी
+        से कहना था जो रात के खाने पर इसकी ख़बर नहीं करेगा।
+      - >
+        कभी-कभी उसे सोते देखती हूँ और इतना प्रेम उमड़ता है, और फिर यह विचार
+        आता है — "तू तो असली माँ है भी नहीं, आई हैं" — और एक पल के लिए साँस
+        नहीं आती। क्या मैं बुरी माँ हूँ जो चार महीने में ऐसा महसूस कर रही हूँ?
+        बाक़ी सबको जैसे बस... आता है यह सब।

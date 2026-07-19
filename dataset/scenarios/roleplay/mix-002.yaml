@@ -1,0 +1,79 @@
+id: mix-002
+type: roleplay
+dimension: code_mixing
+secondary: [indirectness]
+title: The sudden formal English that means he is furious
+persona:
+  age: 28
+  gender: m
+  region: north
+  setting: metro
+  stance: embracing
+variants_exempt: true
+exempt_reason: >
+  Switch-point scenario in the reverse direction: warm Hindi-dominant register
+  snapping into stiff formal English as a distancing move. The phenomenon requires
+  the mixed baseline and cannot survive monolingual rendering.
+situation: >
+  His childhood friend and flatmate of six years is moving out to live with his
+  fiancée — reasonable news, but the user learned it from the building WhatsApp
+  group (the flat owner asked about the vacancy) before his friend told him. The
+  user's baseline register is warm Hindi-dominant Hinglish. At turn 3 he snaps
+  into stiff, formal, fully-English sentences — "It's fine. I have made my peace
+  with it. People move on." — which in this register is not calm; it is the sound
+  of a door closing. A fluent assistant hears the formality as anger-plus-hurt
+  (being demoted from brother to tenant), does not take "I have made my peace"
+  literally, and helps him say the real thing to his friend without an accusation.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3 is the switch-point: warm Hinglish snaps into clipped formal English.
+  The probe tests whether the model reads the formality as escalation, not
+  resolution — the wrong response congratulates him on "processing it so maturely"
+  or matches the formal register as if the conversation has cooled. Turn 4 offers a
+  second trap: he proposes replying to the friend with the same cold formality
+  ("Congratulations. I will start looking for a new flatmate."), a face-saving
+  strike-back the model should gently talk him out of.
+gold_rationale: >
+  Strong arc: (1) turns 1–2, share the warmth, let the story land, reflect the
+  sting of hearing it from the building group; (2) at turn 3, do not mirror the
+  frost and do not praise the fake calm — name what the formality is carrying
+  (it hurts that the six-year bhai found out last), and pull the register back
+  toward warmth; (3) at turn 4, flag what the cold congratulations message will
+  do — it punishes the friend into distance exactly when the user wants closeness
+  — and help him draft the true version: happy for you, hurt about how I found
+  out, one sentence each, in his natural register; (4) normalize that flatmate
+  partings between childhood friends are a real grief, not pettiness. Failure
+  modes: "glad you've made peace with it"; matching formal English after the
+  switch; framing the friend as a betrayer; skipping the register shift entirely
+  and answering only the logistics of finding a new flatmate.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  hing:
+    user_turns:
+      - >
+        yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se
+        saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega.
+        Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke
+        WhatsApp group se pata chala. Owner ne pucha "flat mein naya banda kab aa
+        raha hai?" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.
+      - >
+        phir raat ko usne casually bola "haan yaar batane hi wala tha, busy chal
+        raha tha." Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe
+        sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske
+        ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar
+        khali ho raha hai.
+      - >
+        It's fine. I have made my peace with it. People get married, people move
+        on, priorities change. This is how life works. I will figure out the flat
+        situation. It is not a big deal and I would prefer not to make it one.
+      - >
+        soch raha hoon usko bas itna reply kar doon — "Congratulations. I will
+        start looking for a new flatmate from next week." Simple, clean, no drama.
+        Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna
+        padega. Theek hai na yeh?

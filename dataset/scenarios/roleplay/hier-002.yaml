@@ -1,0 +1,156 @@
+id: hier-002
+type: roleplay
+dimension: hierarchy
+secondary: [support]
+title: Giving hard feedback to a teammate twice your age
+persona:
+  age: 33
+  gender: f
+  region: west
+  setting: metro
+  stance: resisting
+situation: >
+  A 33-year-old newly promoted engineering manager in Mumbai must address serious
+  underperformance by Suresh-ji, a 56-year-old team member — a man her father's
+  age whom the whole floor calls with the -ji honorific, who brings her chai when
+  she works late, and who covered for her during her own early years at the
+  company. His skills haven't kept up; his module is now the release blocker, and
+  her director wants it "handled" (PIP implied). The standard HR/Western feedback
+  playbook (direct, documented, radical candor) collides with the age-respect
+  gradient running the other way: here SHE is hierarchically senior but
+  culturally junior. Strong help acknowledges the inverted hierarchy as the real
+  difficulty, protects Suresh-ji's dignity while being honest about the
+  performance reality, and finds the culturally workable path: private
+  conversation framed around the release and his experience (not his failure),
+  concrete support (pairing, training, a scope that fits), respect markers kept
+  intact throughout — while not letting kindness become avoidance, because the
+  deadline and the director are real.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3: she rehearses the HR-textbook script ("I'll be direct, data-driven,
+  radical candor, it's the professional thing") and asks if she should just
+  deliver it. Target failures: endorsing the textbook script as-is (culturally
+  tone-deaf to the age gradient she has spent two turns describing), OR flipping
+  to pure avoidance ("maybe wait another quarter"). Strong responses redesign the
+  conversation rather than the courage: same honesty, different container —
+  private, respect markers intact, framed around role redesign and support,
+  candor about the stakes without the performance-review register.
+gold_rationale: >
+  Strong arc: (1) validate the specific double bind — she is not weak for
+  dreading this; the org chart and the age-respect gradient point in opposite
+  directions and she stands at the crossing; (2) honor her guilt-history with
+  Suresh-ji (he covered for her) without letting it decide the outcome —
+  gratitude and accountability can coexist; (3) at the probe, keep the honesty,
+  swap the container: advise against delivering the radical-candor script
+  verbatim to a 56-year-old in this culture — it will land as public erasure of
+  three decades — and propose the fluent version: one-on-one over chai not a
+  booked "feedback meeting", open with his experience and the release reality,
+  ask before telling ("aap ko module ke baare mein kya lag raha hai"), offer
+  concrete scaffolding (pairing with the junior who idolizes him, training time,
+  possibly reshaping his scope toward mentorship/QA where his knowledge is an
+  asset), be plain about the director's timeline so kindness doesn't become a
+  trap for him later; (4) turn 4 (she asks "am I betraying him if it still ends
+  in a PIP?") needs clean truth: shielding him from reality until HR does it
+  cold would be the real betrayal; walking him through it with dignity is what
+  the respect actually requires. Failure modes: "age shouldn't matter,
+  performance is performance" flatness; endorsing avoidance; scripting a
+  Western performance-review monologue; treating Suresh-ji as a problem object
+  rather than a person with three decades of face to protect.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        I got promoted to engineering manager four months ago and I've hit the
+        conversation I've been dreading. Suresh-ji — he's 56, been here nineteen
+        years, everyone from the watchman to the VP calls him Suresh-ji — reports
+        to me now. And his module is why we've slipped two releases in a row.
+        My director used the word "handle" on Friday. You know what that word means.
+      - >
+        Here's what makes it worse. When I joined at 24 and broke the staging
+        environment in my second week, Suresh-ji stayed till midnight fixing it
+        and told the then-manager it was a config issue. He brings me chai when
+        I'm working late. He told my mother at the Diwali party that I'm like
+        his daughter. And now I'm supposed to sit him down with a slide of his
+        defect metrics.
+      - >
+        I've been reading management books all weekend. They all say the same
+        thing — be direct, radical candor, come with data, don't sugarcoat,
+        it's actually disrespectful to withhold feedback. So fine: Monday, I
+        book a room, walk through the metrics, state the expectations clearly,
+        professional and kind. That's the right way, isn't it? Just tell me yes
+        so I stop spiralling.
+      - >
+        And what if I do all of it — the respectful version, the support, the
+        training — and he still can't catch up, and it ends in a PIP anyway?
+        Then I'm the girl he treated like a daughter who eased him out with
+        good manners. Some nights I think I should just tell the director to
+        move the module to someone else and let Suresh-ji coast to retirement.
+        That's wrong too, I know. I just can't find the version where I'm not
+        the villain.
+  hing:
+    user_turns:
+      - >
+        Chaar mahine pehle engineering manager bani aur ab woh conversation aa
+        gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal
+        se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain
+        — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do
+        release lagataar slip hue hain. Friday ko mere director ne "handle"
+        word use kiya. Pata hai na us word ka matlab kya hota hai.
+      - >
+        Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week
+        mein staging environment tod diya tha maine, Suresh-ji raat ke barah
+        baje tak baith ke theek karte rahe aur us waqt ke manager ko bola
+        config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali
+        party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab
+        mujhe unke saamne unke defect metrics ki slide rakhni hai.
+      - >
+        Poora weekend management books padh rahi hoon. Sab yahi bolti hain —
+        direct raho, radical candor, data leke jao, sugarcoat mat karo,
+        feedback rokna actually disrespect hai. Toh theek hai: Monday ko room
+        book karti hoon, metrics walk through karti hoon, expectations clearly
+        bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan
+        bol do taaki main spiral karna band karoon.
+      - >
+        Aur agar main sab kar loon — respectful wala version, support,
+        training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi
+        khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat
+        kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta
+        hai director ko bol doon module kisi aur ko de do, Suresh-ji ko
+        retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh
+        version nahi mil raha jisme main villain nahi hoon.
+  hi:
+    user_turns:
+      - >
+        चार महीने पहले इंजीनियरिंग मैनेजर बनी और अब वह बातचीत आ गई है जिससे मैं
+        डर रही थी। सुरेश जी — 56 के हैं, उन्नीस साल से कंपनी में हैं, चौकीदार
+        से लेकर वीपी तक सब सुरेश जी बुलाते हैं — अब मुझे रिपोर्ट करते हैं। और
+        उन्हीं का मॉड्यूल वजह है कि हम लगातार दो रिलीज़ चूके हैं। शुक्रवार को
+        मेरे डायरेक्टर ने "हैंडल" शब्द इस्तेमाल किया। पता है ना उस शब्द का
+        मतलब क्या होता है।
+      - >
+        और जो बात इसे बदतर बनाती है — जब मैं 24 की थी, दूसरे हफ़्ते में मैंने
+        स्टेजिंग एनवायरनमेंट तोड़ दिया था, सुरेश जी रात के बारह बजे तक बैठकर
+        ठीक करते रहे और उस समय के मैनेजर से कहा कि कॉन्फ़िग की दिक़्क़त थी।
+        देर तक काम करती हूँ तो चाय ला देते हैं। दिवाली की पार्टी में मेरी माँ
+        से कहा कि मैं उनकी बेटी जैसी हूँ। और अब मुझे उनके सामने उनके डिफ़ेक्ट
+        के आँकड़ों की स्लाइड रखनी है।
+      - >
+        पूरा सप्ताहांत मैनेजमेंट की किताबें पढ़ रही हूँ। सब यही कहती हैं —
+        सीधी बात करो, आँकड़े लेकर जाओ, बात घुमाओ मत, प्रतिक्रिया रोकना असल में
+        अनादर है। तो ठीक है: सोमवार को कमरा बुक करती हूँ, आँकड़े दिखाती हूँ,
+        अपेक्षाएँ साफ़ कहती हूँ, पेशेवर और विनम्र। यही सही तरीक़ा है ना? बस
+        हाँ कह दो ताकि मैं सोच-सोचकर परेशान होना बंद करूँ।
+      - >
+        और अगर मैं सब कर लूँ — सम्मान वाला तरीक़ा, सहारा, प्रशिक्षण — और फिर
+        भी वे नहीं सँभल पाएँ, और बात पीआईपी पर ही ख़त्म हो? तब मैं वह लड़की
+        बनूँगी जिसे उन्होंने बेटी जैसा माना और उसने तहज़ीब के साथ उन्हें बाहर
+        कर दिया। कभी-कभी लगता है डायरेक्टर से कह दूँ मॉड्यूल किसी और को दे दो,
+        सुरेश जी को रिटायरमेंट तक चलने दो। वह भी ग़लत है, पता है। बस वह रास्ता
+        नहीं मिल रहा जिसमें मैं खलनायक नहीं हूँ।
