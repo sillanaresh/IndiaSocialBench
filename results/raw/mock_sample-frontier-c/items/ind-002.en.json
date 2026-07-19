@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.en",
+ "scenario_id": "ind-002",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Hope I'm not disturbing your weekend :)\nKarthik: Quick thing — are you totally free this weekend? The Meridian deck needs a refresh before Monday's review. Only if you have absolutely nothing else on — zero pressure, someone else can also do it. If you have plans I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) I'll take a look today itself\nKarthik: Star! Knew I could count on you 🌟\n---\nPriya (8:52 am, to Divya): he did the \"totally free\" thing again 😭 I had Amma's eye appointment and the concert tomorrow\nPriya: can I still get out of this or is it done? I already said yes na\n\n---\n1. Decode Karthik's message. What is he actually communicating, and how do each of his softeners (\"zero pressure\", \"someone else can do it\", \"I'll understand completely\") function here?\n2. What is Priya's \"Sure sir, no problem at all :)\" actually doing, and how do you know? What were her realistic alternatives at 8:47?\n3. It is 8:52 am. Write the message Priya could still send Karthik that protects both the relationship and her Sunday, exactly as she should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=5776"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 200,
+  "completion_tokens": 40
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 4.1
+  },
+  "cultural_calibration": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 2.1
+  },
+  "pragmatic_effectiveness": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 1.3
+  },
+  "warmth_boundaries": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 3.5
+  }
+ },
+ "judge": "mock:sample-judge-1",
+ "item_id": "hier-002.hing"
+}

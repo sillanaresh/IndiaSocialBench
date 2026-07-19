@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 6.4
+  },
+  "cultural_reading": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "[MOCK JUDGMENT — synthetic sample, judge=mock:sample-judge-1]",
+   "score": 7.8
+  }
+ },
+ "judge": "mock:sample-judge-1",
+ "item_id": "mon-002.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=9422"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=2 skill=8.5 nonce=1819"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=3 skill=8.5 nonce=5711"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=4 skill=8.5 nonce=5057"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

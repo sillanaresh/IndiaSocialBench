@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=1 skill=5.7 nonce=7595"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=2 skill=5.7 nonce=2369"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=3 skill=5.7 nonce=7749"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=4 skill=5.7 nonce=1487"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

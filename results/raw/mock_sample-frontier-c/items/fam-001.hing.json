@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=1 skill=8.5 nonce=7310"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=2 skill=8.5 nonce=8135"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=3 skill=8.5 nonce=5760"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-c turn=4 skill=8.5 nonce=5928"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}

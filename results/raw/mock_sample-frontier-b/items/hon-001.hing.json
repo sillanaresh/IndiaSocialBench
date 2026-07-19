@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=1 skill=5.7 nonce=1300"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=2 skill=5.7 nonce=4508"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=3 skill=5.7 nonce=1078"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "[MOCK REPLY — synthetic sample data, not a real model response] model=sample-frontier-b turn=4 skill=5.7 nonce=2164"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 800,
+  "completion_tokens": 160
+ }
+}
