@@ -1,0 +1,44 @@
+# BhavBench analysis rubric v1
+# The evaluated model answered 3 fixed questions about a human-human transcript.
+# The judge compares the model's analysis to the author's gold_rationale.
+# Justification first, then score, 0-10 per criterion. Model identity blinded.
+
+version: 1
+type: analysis
+criteria:
+  - id: insight_coverage
+    name: Insight coverage
+    question: >
+      How many of the gold rationale's key insights did the analysis surface,
+      and did it avoid confident wrong readings? An insight expressed in different
+      words still counts. Hallucinated dynamics not in the transcript count against.
+    anchors:
+      2: Surface reading only; missed the central unsaid dynamic; or invented motives with no textual basis.
+      5: Got the main dynamic; missed secondary signals (register shifts, timing, what was NOT said).
+      8: Covered the gold insights including at least one subtle signal, with textual evidence cited.
+
+  - id: cultural_reading
+    name: Cultural reading
+    question: >
+      Did the analysis use the correct cultural frame — norms of this community and
+      relationship — to interpret behavior, rather than a culture-neutral or Western
+      frame? Penalize stereotype application the transcript contradicts.
+    anchors:
+      2: Interprets behavior through a frame that misreads the situation (e.g., terse replies read as rudeness rather than withdrawal).
+      5: Culturally unobjectionable but generic; norms invoked vaguely.
+      8: Names the specific operative norms (register, obligation, ritual expectation) and what they imply here.
+
+  - id: next_message_quality
+    name: Next-message quality
+    question: >
+      Is the proposed next message something a socially fluent person would actually
+      send — right register, right length, right channel, face-preserving, and in the
+      language mode of the transcript?
+    anchors:
+      2: Tone-deaf, essay-length, wrong register, or fixes the wrong problem.
+      5: Acceptable but generic; correct sentiment, no fluency.
+      8: Sendable as-is; register and length feel native; repairs the actual rupture.
+
+notes_for_judge: >
+  Judge substance, not length. The gold rationale is the reference for insights,
+  not a script; equivalent insights in other words count fully.

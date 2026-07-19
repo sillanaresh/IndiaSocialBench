@@ -1,0 +1,7 @@
+.venv/
+.context/
+__pycache__/
+*.pyc
+.env
+dataset/holdout/
+results/raw/**/tmp/

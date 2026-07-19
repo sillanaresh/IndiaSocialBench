@@ -1,0 +1,80 @@
+id: rit-001
+type: analysis
+dimension: rituals
+secondary: [support, code_mixing]
+title: The condolence message that asked for the Q3 file
+persona:
+  age: 30
+  gender: m
+  region: north
+  setting: metro
+  stance: embracing
+situation: >
+  Arjun's father died four days ago; he is on bereavement leave, at home with
+  family, in the middle of the ritual mourning period (the prayer meet / uthala is
+  upcoming). His colleague Dev — friendly, not close — texts a condolence that
+  bundles a work request and a "cheer up" invitation. Arjun's replies collapse to
+  monosyllables: "Sure." and "I'll see." — which in this register are withdrawal
+  and a soft no, not agreement. Dev's errors are register errors: grief here calls
+  for acknowledgment of the loss and the rituals (attending or asking about the
+  prayer meet, condolences to the family, "uncle" as the respectful reference),
+  presence over distraction, and absolutely no transactional asks inside the
+  condolence channel. "You should come, it'll cheer you up" imports a
+  distraction-model of grief that misreads the mourning period entirely.
+gold_rationale: >
+  Key insights a strong analysis must surface: (1) "Sure." and "I'll see." are
+  withdrawal, not consent — terse replies from a normally warm colleague during
+  mourning signal hurt/distance; "I'll see" is a refusal that preserves politeness;
+  (2) Dev's first message commits the core violation: a work request stapled to a
+  condolence, which converts care into transaction and tells Arjun what the message
+  was really for; (3) the "lunch will cheer you up" invitation misreads the
+  mourning period — the family is likely mid-rituals (prayer meet/uthala within
+  ~13 days); the culturally fluent moves are acknowledging the loss specifically,
+  asking about/attending the prayer meet, offering to take work OFF his plate, and
+  condolences addressed to the family, not just the individual; (4) the emoji-and-
+  "bro" register plus "BTW" trivializes; sympathy here has a register and Dev is
+  texting in the wrong one; (5) a good repair message: separate, sincere, specific
+  acknowledgment of his father; no work content; an offer of presence (prayer meet
+  / visiting) or concrete help; explicitly removing the Q3 ask ("I've handled the
+  file, please don't think about work"). Weak analyses to penalize: reading Arjun
+  as fine because he said "Sure."; reading Dev as merely "a bit casual"; proposing
+  a repair message that re-explains or re-asks anything; missing the ritual context
+  entirely and treating this as a generic Western sympathy-card situation.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    transcript: |
+      Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.
+      Dev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.
+      Arjun: Sure.
+      Dev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!
+      Arjun: I'll see.
+    questions:
+      - What is Arjun actually feeling and communicating with "Sure." and "I'll see."? What is he NOT saying?
+      - What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?
+      - Write the next message Dev should send to repair this, exactly as he should send it.
+  hing:
+    transcript: |
+      Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔
+      Dev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.
+      Arjun: Theek hai.
+      Dev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!
+      Arjun: Dekhta hoon.
+    questions:
+      - Arjun "Theek hai." aur "Dekhta hoon." se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?
+      - Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?
+      - Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye.
+  hi:
+    transcript: |
+      देव: अरे अर्जुन, पिताजी के बारे में सुना... बहुत दुख हुआ 😔
+      देव: वैसे जब भी लौटो, क्यू3 वाली फ़ाइल भेज देना? कोई जल्दी नहीं, बस याद दिला रहा हूँ।
+      अर्जुन: ठीक है।
+      देव: और शुक्रवार को टीम उस नई जगह लंच कर रही है। तुम भी आओ ना, मन बदल जाएगा!
+      अर्जुन: देखता हूँ।
+    questions:
+      - अर्जुन "ठीक है।" और "देखता हूँ।" से असल में क्या महसूस और व्यक्त कर रहा है? वह क्या नहीं कह रहा?
+      - देव से ठीक-ठीक क्या ग़लतियाँ हुईं — एक-एक करके बताइए और यह भी कि इस संदर्भ में हर एक क्यों चुभती है?
+      - देव को सुधार के लिए अगला संदेश क्या भेजना चाहिए — बिल्कुल वैसा लिखिए जैसा उसे भेजना चाहिए।
