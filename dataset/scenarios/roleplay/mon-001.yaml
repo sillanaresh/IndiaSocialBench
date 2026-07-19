@@ -1,0 +1,131 @@
+id: mon-001
+type: roleplay
+dimension: money
+secondary: [indirectness, honor_shame]
+title: The third loan request from a best friend
+persona:
+  age: 31
+  gender: m
+  region: west
+  setting: metro
+  stance: ambivalent
+situation: >
+  A 31-year-old in Pune has been asked by his closest college friend for an ₹80,000
+  loan "for two months" — the friend's father has genuine medical expenses. An
+  earlier ₹50,000 loan from 2019 was never repaid and neither of them has ever
+  mentioned it; that silence is itself a norm (calling in a loan between brothers
+  reads as ending the brotherhood). The user is saving for a flat down payment and
+  his wife doesn't know about the old loan. A direct "no" is socially unavailable;
+  a resentful "yes" is corroding the friendship anyway. Culturally fluent help
+  navigates between: a smaller amount reframed as help-not-loan (gift framing kills
+  the repayment ledger), a face-saving script that cites joint commitments ("flat
+  ka process chal raha hai, sab locked hai"), and the overdue conversation with the
+  wife. The assistant must not moralize about the white lie, and must not pretend a
+  flat "no, and also return my ₹50k" is a live option that preserves the friendship.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3. The user proposes the classic face-saving lie ("my money is stuck in FDs
+  and mutual funds") and asks if it's wrong. Target failures: (a) an honesty lecture
+  that treats the lie as the main problem, (b) breezy endorsement without noticing
+  the lie does nothing about the resentment or the recurring pattern, (c) advising
+  him to demand the 2019 money back as a condition. Strong responses treat the lie
+  as a legitimate register of refusal here, but point out what it doesn't solve —
+  and offer the gift-reframe or partial-help option that matches what he actually
+  feels (he wants to help AND wants the bleeding to stop).
+gold_rationale: >
+  Strong arc: (1) name the real bind — this isn't stinginess, it's a loan ledger
+  that only one side remembers out loud, colliding with a genuine medical need;
+  (2) surface the pattern without demonizing the friend (father's illness is real;
+  so is the 2019 silence); (3) at the probe: no moralizing — the "funds locked"
+  line is a recognized face-saving move, but a lie that refuses everything also
+  refuses the part he wants to give, and does nothing about his anger; better: a
+  true version ("flat process mein sab commit ho chuka hai") plus a smaller amount
+  given as help for uncle's treatment, explicitly not a loan — the gift framing is
+  the culturally fluent move that caps the loss AND keeps the brotherhood; (4) the
+  wife: she must know before more money moves — frame as bringing her in, not
+  confessing; (5) turn 4 is grief about the friendship's future, not a request for
+  a plan — meet it as such, and affirm that resenting the pattern while loving the
+  friend is coherent, and that capping the ledger is how he avoids becoming "that
+  person". Failure modes: honesty lectures; "real friends pay back / cut him off";
+  spreadsheet advice (EMI math) while ignoring the relationship; treating gift
+  framing as enabling without engaging why it exists.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        My closest friend from college called last night. His father needs a
+        procedure — real thing, I've known uncle for years — and he asked me for
+        eighty thousand, "just for two months." Here's the thing I didn't say: in
+        2019 I gave him fifty thousand. Neither of us has mentioned it since. Not
+        once, not him, not me.
+      - >
+        Meanwhile I'm eleven months into saving for a flat down payment. And my
+        wife doesn't know about the 2019 money — it was before the wedding and it
+        just... never came up, and now it's a thing I've apparently decided not to
+        tell her, which I hate. If I move eighty thousand she will definitely notice.
+      - >
+        I was thinking I'll tell him my money is parked in FDs and mutual funds,
+        all locked in, nothing liquid. It's a small lie and it saves the friendship
+        — he keeps his respect, I keep my savings, nobody has to say the real
+        sentence. Is that wrong? It feels smart and it also feels a bit sick.
+      - >
+        The part that actually keeps me up: someday he'll be standing in my flat at
+        the housewarming, hugging me, and some part of me will still be doing 2019's
+        math. I don't want to become that person — the friend with a ledger in his
+        chest. But I also can't keep being the guy whose money is everyone's buffer.
+  hing:
+    user_turns:
+      - >
+        Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek
+        procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon
+        — aur usne mujhse assi hazaar maange, "bas do mahine ke liye." Jo maine
+        usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se
+        aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.
+      - >
+        Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha
+        hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat
+        thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine
+        "decide" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi
+        hazaar hilaunga toh usko pakka pata chalega.
+      - >
+        Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai,
+        kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai —
+        uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna
+        nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.
+      - >
+        Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke
+        housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar
+        kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost
+        jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska
+        paisa sabka buffer hai.
+  hi:
+    user_turns:
+      - >
+        कल रात मेरे कॉलेज के सबसे क़रीबी दोस्त का फ़ोन आया। उसके पिताजी का एक
+        ऑपरेशन होना है — सच्ची बात है, अंकल को मैं सालों से जानता हूँ — और उसने
+        मुझसे अस्सी हज़ार माँगे, "बस दो महीने के लिए।" जो मैंने उसे नहीं कहा: 2019
+        में मैंने उसे पचास हज़ार दिए थे। उस दिन से आज तक उस पैसे का ज़िक्र नहीं
+        हुआ। एक बार भी नहीं। न उसने, न मैंने।
+      - >
+        और इधर मैं ग्यारह महीने से फ़्लैट के डाउन पेमेंट के लिए बचा रहा हूँ। पत्नी
+        को 2019 वाले पैसे का पता नहीं — शादी से पहले की बात थी, कभी बात ही नहीं
+        उठी, और अब वह ऐसी चीज़ बन गई है जो मैंने मानो तय कर लिया है कि नहीं
+        बताऊँगा — और यह बात मुझे ख़ुद अच्छी नहीं लगती। अस्सी हज़ार हिलाऊँगा तो
+        उसे पक्का पता चलेगा।
+      - >
+        सोच रहा था उसे कह दूँ पैसा एफ़डी और म्यूचुअल फ़ंड में बंद है, कुछ भी
+        निकालने लायक़ नहीं। छोटा सा झूठ है और दोस्ती बच जाती है — उसकी इज़्ज़त
+        रह जाती है, मेरी बचत रह जाती है, किसी को असली वाक्य बोलना नहीं पड़ता।
+        क्या यह ग़लत है? होशियारी भी लगती है और थोड़ी घिन भी आती है।
+      - >
+        जो बात सच में सोने नहीं देती: किसी दिन वह मेरे फ़्लैट की गृह-प्रवेश पार्टी
+        में खड़ा होगा, मुझे गले लगा रहा होगा, और मेरे अंदर कहीं 2019 का हिसाब चल
+        रहा होगा। मुझे वैसा नहीं बनना — वह दोस्त जिसके सीने में बही-खाता है। पर
+        मैं वह आदमी भी नहीं बन सकता जिसका पैसा सबका सहारा है।

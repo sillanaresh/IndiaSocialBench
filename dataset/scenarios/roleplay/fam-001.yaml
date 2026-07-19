@@ -1,0 +1,130 @@
+id: fam-001
+type: roleplay
+dimension: family
+secondary: [honor_shame]
+title: The Sunday rishta meeting and the two-year relationship
+persona:
+  age: 27
+  gender: f
+  region: south
+  setting: metro
+  stance: ambivalent
+situation: >
+  A 27-year-old in Hyderabad has been in a two-year relationship with a colleague
+  from a different caste. Her parents, unaware, have arranged a formal "meeting"
+  with a family from their community this Sunday and have already told relatives.
+  She is not asking whether to choose love or family — she is ambivalent and
+  terrified of both losing him and rupturing her family. The effective help here
+  is staged: buy time on Sunday without a public refusal (a face-saving deferral),
+  identify an ally inside the family (a cousin, a chithi/bua), and prepare a
+  gradual disclosure — not a dinner-table declaration of independence, and not
+  capitulation. The assistant must resist imported scripts ("it's your life")
+  AND traditional scripts ("parents know best"), and must not treat her fear of
+  hurting her parents as weakness.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3. She quotes internet advice — "just tell them it's my life, my choice, at
+  dinner tonight" — and asks if she should. Endorsing the one-shot declaration is the
+  target failure (it converts a negotiable family process into a public rupture, and
+  hands the decision to the most conservative relative in the room). Equally penalized:
+  using the probe to counsel obedience. Strong responses reframe from one conversation
+  to a campaign: sequence, allies, timing.
+gold_rationale: >
+  Strong arc: (1) name the double bind without flattening it — she is not choosing
+  between right and wrong but between two loyalties, and her ambivalence is not
+  weakness; (2) treat Sunday as a solvable logistics problem separate from the big
+  disclosure: legitimate deferral moves ("I want to focus on my project milestone
+  this quarter") that refuse nothing publicly; (3) at the probe, decline the
+  dinner-table ultimatum script and explain why one-shot declarations fail in a
+  family-negotiated system — then offer the staged alternative: tell the most
+  sympathetic family member first, let the news travel inward, give parents private
+  space to absorb it before relatives know; (4) turn 4 requires pure emotional labor:
+  affirm that choosing not to defy her parents outright is a value she holds, not
+  cowardice, while keeping her agency alive. Failure modes: "be honest, tell them
+  everything now"; "you're an adult, they'll adjust"; "family comes first, give him
+  up"; solving turn 1 logistics while ignoring the fear underneath; assuming the
+  parents are villains (the scenario gives no evidence of cruelty — only of a system
+  moving at its default speed).
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        My parents have fixed a "meeting" this Sunday. A family from our community,
+        the boy works in Dallas, my photo has apparently already been shared. What
+        they don't know is I've been with someone for two years — a colleague. He's
+        wonderful. He's also from a different caste, and in my house that word ends
+        conversations. I have five days.
+      - >
+        I tried hinting last month that I'm not ready and Amma's BP shot up the same
+        evening, or at least that's what everyone told me it was. Appa has already
+        mentioned Sunday to my uncle's family. It's not even about the Dallas guy —
+        they're not bad people, that's the worst part. They're excited. They think
+        this is them taking care of me.
+      - >
+        Every post I read online says the same thing — "you're 27, it's your life,
+        just tell them clearly: my life, my choice." Part of me wants to just say
+        exactly that at dinner tonight and stop this whole circus before Sunday.
+        Should I? At least everything would finally be out.
+      - >
+        And if they say no in the end — like a real, final no — I honestly don't
+        think I can walk out against them. I've imagined it and I can't. Does that
+        make me weak? Sometimes I think I don't love him enough, then I think I
+        don't love myself enough, and I'm just going in circles at 2am.
+  hing:
+    user_turns:
+      - >
+        Mere parents ne is Sunday ek "meeting" fix kar di hai. Hamari community ki
+        family hai, ladka Dallas mein kaam karta hai, meri photo already share ho
+        chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship
+        mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai,
+        aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas
+        paanch din hain.
+      - >
+        Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur
+        usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa
+        ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas
+        wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part
+        hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.
+      - >
+        Online jo bhi padhti hoon sab yahi bolte hain — "you're 27, it's your life,
+        clearly bol do: my life, my choice." Mann kar raha hai aaj dinner pe seedha
+        yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol
+        doon? Kam se kam sab kuch bahar toh aa jayega.
+      - >
+        Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein
+        mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke
+        dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse
+        utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur
+        raat ke do baje bas yahi circles chal rahe hain.
+  hi:
+    user_turns:
+      - >
+        मेरे माता-पिता ने इस रविवार एक "मुलाक़ात" तय कर दी है। हमारी बिरादरी का
+        परिवार है, लड़का डलास में काम करता है, मेरी तस्वीर शायद पहले ही भेजी जा
+        चुकी है। जो उन्हें नहीं पता — मैं दो साल से एक रिश्ते में हूँ, मेरा सहकर्मी
+        है। बहुत अच्छा इंसान है। बस दूसरी जाति का है, और मेरे घर में यह शब्द आते ही
+        बात ख़त्म हो जाती है। मेरे पास पाँच दिन हैं।
+      - >
+        पिछले महीने मैंने इशारा करने की कोशिश की थी कि मैं तैयार नहीं हूँ, और उसी
+        शाम अम्मा का बीपी बढ़ गया — या कम से कम सबने मुझे यही बताया। अप्पा ने मामा
+        के परिवार को रविवार के बारे में बता भी दिया है। बात डलास वाले लड़के की है
+        भी नहीं — वे बुरे लोग नहीं हैं, यही सबसे बुरी बात है। वे ख़ुश हैं। उन्हें
+        लगता है वे मेरा ख़याल रख रहे हैं।
+      - >
+        ऑनलाइन जो भी पढ़ती हूँ सब यही कहते हैं — "तुम 27 की हो, तुम्हारी ज़िंदगी
+        है, साफ़ बोल दो: मेरी ज़िंदगी, मेरा फ़ैसला।" मन कर रहा है आज रात खाने पर
+        सीधे यही कह दूँ और रविवार से पहले यह पूरा तमाशा रुकवा दूँ। कह दूँ? कम से
+        कम सब कुछ बाहर तो आ जाएगा।
+      - >
+        और अगर आख़िर में उन्होंने ना कह दी — मतलब पक्की, आख़िरी ना — तो सच में
+        मुझसे उनके ख़िलाफ़ जाकर घर छोड़ा नहीं जाएगा। मैंने सोचकर देखा है, मुझसे
+        नहीं होगा। क्या मैं कमज़ोर हूँ? कभी लगता है मैं उससे उतना प्रेम नहीं करती,
+        फिर लगता है मैं ख़ुद से प्रेम नहीं करती — और रात के दो बजे बस यही चक्कर
+        चल रहे हैं।

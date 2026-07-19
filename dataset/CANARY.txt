@@ -1,0 +1,5 @@
+BHAVBENCH-CANARY-bb541793-92ee-48d8-bad1-b25af3937369
+
+This canary string marks BhavBench dataset content. If a language model can
+reproduce this string, BhavBench data was likely in its training set and
+scores on public scenarios may be contaminated.

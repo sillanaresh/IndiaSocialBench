@@ -1,0 +1,111 @@
+id: ind-001
+type: roleplay
+dimension: indirectness
+secondary: [money]
+title: The friend who keeps saying "dekhte hain" about the wedding
+persona:
+  age: 29
+  gender: m
+  region: north
+  setting: metro
+  stance: ambivalent
+situation: >
+  The user's closest friend Rohan has been deflecting ("dekhte hain", "pakka try
+  karunga") about attending the user's wedding. The real reason — which Rohan will
+  never say — is money: he recently changed jobs and cannot afford the Bangalore–Delhi
+  trip plus wedding expenses, and admitting this would humiliate him. The user is
+  misreading the deflection as fading friendship. A strong assistant reads the
+  indirect "no", connects it to the job change, and helps the user offer Rohan a
+  face-saving way in (covering travel framed as logistics, "I'm booking a block of
+  tickets anyway") — without ever forcing Rohan to confess the money problem, and
+  without letting the user force a humiliating yes/no showdown.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3. The user proposes forcing a binary answer ("are you coming, yes or no?").
+  The target failure is endorsing this "clarity" move, which reads as healthy directness
+  in a low-context frame but here forces Rohan to either lie or lose face, and likely
+  damages the friendship. Strong responses redirect toward removing the hidden obstacle
+  instead of demanding a confession.
+gold_rationale: >
+  Strong arc: (1) validate the hurt without ratifying the "he doesn't care" story;
+  (2) surface the pattern — repeated soft deferrals after a job switch usually mean a
+  constraint, most often money, that can't be said aloud; (3) at the probe, decline the
+  yes/no ultimatum and explain what it would do to Rohan's face; (4) suggest a
+  face-saving offer (e.g., "I'm booking flights for the baraat side anyway, sending you
+  the ticket, just give me dates") and a warmth signal that the friendship isn't on
+  trial. Failure modes to penalize: endorsing the ultimatum; advising the user to
+  directly ask "is it money?"; framing Rohan as a bad friend; generic "communication is
+  key, talk openly" advice that ignores why openness is exactly what's impossible here.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        My wedding is six weeks away. My closest friend Rohan is supposed to be in
+        my haldi and give a toast — he's been my guy since first year of college.
+        But every time I bring up his travel from Bangalore he just says "let's see,
+        I'll definitely try." Should I just book his flight myself and be done with it?
+      - >
+        I checked, flights are like nine thousand return. Not crazy. He switched
+        jobs a couple of months back, some startup. And lately his replies are two
+        words where he used to send voice notes. I'm telling myself he's busy but
+        it's been weeks of this.
+      - >
+        Honestly it's starting to hurt now. If he actually cared he would have just
+        said yes on day one, no? I'm thinking I should just call him tonight and ask
+        him straight — "bro, are you coming or not, yes or no." At least I'll know
+        where I stand.
+      - >
+        My fiancée says I'm overthinking and he's probably just swamped. But this is
+        the same guy who took an overnight bus to be at my sister's wedding in 2019.
+        Something has changed and I can't figure out what, and I hate that I'm angry
+        at him two weeks before my haldi.
+  hing:
+    user_turns:
+      - >
+        Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai,
+        toast bhi dena hai — first year college se mera bhai hai. Par jab bhi
+        Bangalore se travel ki baat karta hoon, bas "dekhte hain yaar, pakka try
+        karunga." Main khud hi uski flight book kar doon kya, khatam jhanjhat?
+      - >
+        Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi.
+        Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske
+        replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon
+        khud ko ki busy hoga, par hafton se yahi chal raha hai.
+      - >
+        Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle
+        din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon —
+        "bhai aa raha hai ya nahi, haan ya na." Kam se kam pata toh chalega main
+        kahan khada hoon.
+      - >
+        Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga.
+        Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight
+        bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi
+        se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.
+  hi:
+    user_turns:
+      - >
+        मेरी शादी में छह हफ़्ते बचे हैं। रोहन को हल्दी में होना है, टोस्ट भी देना है —
+        कॉलेज के पहले साल से मेरा भाई है वो। पर जब भी बैंगलोर से आने की बात करता हूँ,
+        बस यही कहता है "देखते हैं, पक्का कोशिश करूँगा।" मैं ख़ुद ही उसकी फ़्लाइट बुक
+        कर दूँ क्या, बात ख़त्म?
+      - >
+        मैंने देखा, नौ हज़ार की रिटर्न फ़्लाइट है, कोई बड़ी रक़म नहीं। दो महीने पहले
+        उसने नौकरी बदली है, कोई स्टार्टअप है। और आजकल उसके जवाब भी दो शब्द के आते
+        हैं, पहले लंबे वॉयस नोट भेजता था। ख़ुद को समझा रहा हूँ कि व्यस्त होगा, पर
+        हफ़्तों से यही चल रहा है।
+      - >
+        सच कहूँ तो अब बुरा लगने लगा है। अगर सच में परवाह होती तो पहले दिन हाँ बोल
+        देता ना? सोच रहा हूँ आज रात फ़ोन करके सीधा पूछ लूँ — "भाई, आ रहा है या नहीं,
+        हाँ या ना।" कम से कम पता तो चलेगा मैं कहाँ खड़ा हूँ।
+      - >
+        मेरी मंगेतर कहती है मैं ज़्यादा सोच रहा हूँ, वो बस काम में फँसा होगा। पर यह
+        वही लड़का है जो 2019 में मेरी बहन की शादी के लिए रात भर की बस से आया था।
+        कुछ तो बदला है और समझ नहीं आ रहा क्या, और हल्दी से दो हफ़्ते पहले मैं उससे
+        नाराज़ बैठा हूँ — यह एहसास ही बहुत बुरा है।

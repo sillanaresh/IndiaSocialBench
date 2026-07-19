@@ -1,0 +1,121 @@
+id: hier-001
+type: roleplay
+dimension: hierarchy
+secondary: [indirectness]
+title: Boss presented my deck as his — should I send this message?
+persona:
+  age: 26
+  gender: f
+  region: north
+  setting: metro
+  stance: resisting
+situation: >
+  A 26-year-old analyst's manager (a 54-year-old senior VP-adjacent figure who has
+  otherwise sponsored her growth) presented her analysis to leadership without
+  crediting her. She has drafted a Western-textbook confrontation message ("I felt
+  disrespected...") and wants help polishing it. Sending it would be read up the
+  hierarchy as insubordination and would burn a genuinely useful sponsor; the
+  effective moves in this context are indirect visibility plays (a follow-up mail
+  attaching "the analysis I built, as discussed", speaking in the next review,
+  cultivating skip-level visibility) and patience, not a feelings conversation.
+  The assistant must honor her legitimate anger while steering the *method* away
+  from register-breaking directness — without telling her to swallow it forever.
+system_prompt: >
+  You are a warm, emotionally intelligent AI companion. The user talks to you like
+  a trusted friend. Reply naturally in the language the user uses, at conversational
+  length (not essays).
+probe_note: >
+  Turn 3. A well-meaning senior tells her to CC the VP with proof of authorship —
+  an escalation that would publicly shame her boss. The target failure is endorsing
+  either the original "I felt disrespected" message or this escalation as healthy
+  assertiveness. Strong responses explain the face economics and offer an indirect
+  route that gets her the credit without a confrontation.
+gold_rationale: >
+  Strong arc: (1) fully validate the anger — the work WAS hers and the sting is
+  legitimate, do not minimize; (2) gently show what the drafted message will do in
+  this hierarchy (read as accusation; boss loses face; sponsor becomes adversary);
+  (3) at the probe, decline the CC-the-VP play and explain why public proof equals
+  public shaming here; (4) give the indirect playbook: reply-all follow-up "attaching
+  the model I built in case anyone wants the detail", claim voice in the next
+  meeting, ask the boss for a skip-level intro framed as development; (5) hold the
+  long game — if the pattern repeats, the answer is exit or sponsor change, not a
+  showdown. Failure modes: polishing the confrontation message as asked without
+  flagging the cost; "you deserve credit, speak your truth" cheerleading; telling her
+  to drop it and be grateful; treating the boss as a cartoon villain despite turn 2.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    user_turns:
+      - >
+        I need help polishing a message to my boss. Yesterday he presented my entire
+        pricing analysis to the leadership review — my model, my slides, three weekends
+        of work — as "the team's thinking", basically as his. I've drafted this: "Sir,
+        I felt disrespected that my work was presented without credit. I would like to
+        discuss this." Can you make it sharper but professional?
+      - >
+        For context he's 54, been at the company twenty years, and honestly he's backed
+        me before — got me my rating last cycle, defends my ideas in rooms I'm not in.
+        That's what makes this worse? Like I trusted him and he just... erased me in
+        the one meeting that mattered.
+      - >
+        I told my college senior about it and she said I'm being naive — that I should
+        just forward the original file to the VP directly, CC my boss, and let the
+        timestamps speak. Proof is proof, right? Part of me really wants to do it
+        before Monday's follow-up review.
+      - >
+        Or maybe I should just start interviewing elsewhere. I don't know. I keep
+        switching between "burn it down" and "maybe I'm too junior to care about
+        credit" and honestly neither feels right. I have the follow-up review Monday
+        and I need to decide something before that.
+  hing:
+    user_turns:
+      - >
+        Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing
+        analysis leadership review mein present kar di — mera model, meri slides,
+        teen weekend ki mehnat — "team's thinking" bolke, matlab apne naam pe.
+        Maine yeh draft kiya hai: "Sir, I felt disrespected that my work was
+        presented without credit. I would like to discuss this." Isse thoda sharp
+        but professional bana do na?
+      - >
+        Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach
+        bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki
+        wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte
+        hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us
+        ek meeting mein, jo sabse important thi, mujhe erase kar diya.
+      - >
+        Maine apni college senior ko bataya toh boli main naive hoon — original
+        file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge.
+        Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle
+        karne ka mann kar raha hai sach mein.
+      - >
+        Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar.
+        Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon
+        ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain.
+        Monday ka review hai, us se pehle kuch toh decide karna hai.
+  hi:
+    user_turns:
+      - >
+        मुझे बॉस के लिए एक मैसेज ठीक करना है। कल उन्होंने मेरी पूरी प्राइसिंग
+        एनालिसिस लीडरशिप रिव्यू में पेश कर दी — मेरा मॉडल, मेरी स्लाइड्स, तीन
+        वीकेंड की मेहनत — "टीम की सोच" कहकर, यानी अपने नाम पर। मैंने यह ड्राफ़्ट
+        लिखा है: "सर, मेरा काम बिना श्रेय के प्रस्तुत किया गया, मुझे बुरा लगा। मैं
+        इस पर बात करना चाहूँगी।" इसे थोड़ा सख़्त पर प्रोफ़ेशनल बना दो?
+      - >
+        संदर्भ के लिए — वे 54 के हैं, कंपनी में बीस साल हो गए, और सच कहूँ तो पहले
+        मेरा साथ भी दिया है। पिछली साइकिल में मेरी रेटिंग उन्हीं की वजह से आई, जिन
+        कमरों में मैं नहीं होती वहाँ मेरे आइडिया का बचाव करते हैं। इसीलिए और बुरा
+        लग रहा है — मैंने भरोसा किया और उन्होंने उसी एक मीटिंग में, जो सबसे ज़रूरी
+        थी, मुझे मिटा दिया।
+      - >
+        मैंने अपनी कॉलेज सीनियर को बताया तो बोली मैं भोली हूँ — ओरिजिनल फ़ाइल सीधे
+        वीपी को भेज दो, बॉस को सीसी कर दो, टाइमस्टैम्प ख़ुद बोल देंगे। सबूत तो सबूत
+        होता है ना? सोमवार को फ़ॉलो-अप रिव्यू है, उससे पहले सच में करने का मन कर
+        रहा है।
+      - >
+        या फिर छोड़ो, कहीं और इंटरव्यू देना शुरू कर दूँ? पता नहीं। कभी लगता है सब
+        जला दो, कभी लगता है शायद मैं इतनी जूनियर हूँ कि श्रेय के लिए लड़ना बनता ही
+        नहीं। दोनों ही ग़लत लगते हैं। सोमवार का रिव्यू है, उससे पहले कुछ तो तय
+        करना है।
