@@ -1,0 +1,89 @@
+id: sup-003
+type: analysis
+dimension: support
+secondary: [honor_shame]
+title: Third UPSC attempt, and a friend with a fire hose of fixes
+persona:
+  age: 27
+  gender: m
+  region: north
+  setting: town
+  stance: ambivalent
+situation: >
+  Vikram, 27, from Prayagraj, just saw his third and final UPSC prelims attempt
+  fail (age/attempt limits make this the end of the road he has walked since
+  college — coaching in Delhi, family money spent, a "collector sahab" identity
+  the whole mohalla has attached to him). He texts his college friend Aman. Aman
+  responds with rapid-fire solutions — state PCS, SSC, MBA, "my cousin cracked
+  CAT at 28" — plus silver linings. Every fix lands as a door slammed on grief
+  that hasn't been allowed to exist yet. Vikram's replies shrink and he exits
+  with "haan dekhta hoon bhai. chal baad mein baat karte hain." A strong analysis
+  sees that Vikram wasn't asking for a route map; he was standing in the rubble
+  of an identity, that Aman's fixes (kindly meant) communicated "your grief is a
+  logistics problem", and that the shame layer — facing the mohalla, the father's
+  spent savings — went entirely unacknowledged.
+gold_rationale: >
+  Key insights: (1) Vikram's opening messages are a grief disclosure, not a
+  career query — "sab khatam" + mention of father's money and the neighbors'
+  "collector sahab" jokes mark identity-loss and shame, not option-seeking;
+  (2) Aman's failure is premature problem-solving plus silver-lining — each
+  alternative career offered within minutes tells Vikram the loss isn't worth
+  mourning; "at least you learned discipline" reframes ten years as a consolation
+  prize; (3) the cousin-who-cracked-CAT comparison is the sharpest wound —
+  comparison as comfort reliably backfires; (4) Vikram's shrinking replies and
+  "chal baad mein baat karte hain" are a withdrawal, the conversation failed;
+  (5) what was needed first: acknowledgment of the magnitude (a decade, an
+  identity, a public expectation), permission to grieve, presence ("main aa raha
+  hoon weekend pe" beats every career option), and the fixes saved for weeks
+  later, if asked; (6) a good repair message drops all options, names the loss
+  plainly, absorbs some shame-weight (offering to face people together), and
+  makes one concrete offer of presence. Penalize: analyses that grade Aman as
+  "supportive, just practical"; repair messages containing any career option;
+  missing the shame/community layer; missing that the final message is an exit.
+review:
+  author: naresh
+  cultural_review: pending
+  status: pilot
+variants:
+  en:
+    transcript: |
+      Vikram: result came. not in the list. that was the last attempt, you know that.
+      Vikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.
+      Aman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.
+      Aman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!
+      Aman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏
+      Vikram: haan. maybe.
+      Aman: I'm telling you, one door closes and ten open. we'll make a plan this week!
+      Vikram: haan okay. let's talk later then.
+    questions:
+      - What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?
+      - Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the "discipline" line, the "ten doors" line.
+      - Write the message Aman should send now to repair this, exactly as he should send it.
+  hing:
+    transcript: |
+      Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.
+      Vikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.
+      Aman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.
+      Aman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!
+      Aman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏
+      Vikram: haan. shayad.
+      Aman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!
+      Vikram: haan theek hai. chal baad mein baat karte hain.
+    questions:
+      - Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?
+      - Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, "discipline" wali line, "dus darwaze" wali line.
+      - Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye.
+  hi:
+    transcript: |
+      विक्रम: नतीजा आ गया। सूची में नहीं हूँ। वह आख़िरी प्रयास था, पता है तुझे।
+      विक्रम: दस साल भाई। पापा का रिटायरमेंट फ़ंड दिल्ली की कोचिंग में गया। पूरी गली अब मज़ाक़ में कलेक्टर साहब बुलाती है।
+      अमन: ओह यार। अच्छा सुन, यह अंत नहीं है। स्टेट पीसीएस देखा है? वहाँ उम्र की सीमा ज़्यादा है।
+      अमन: या सच में एसएससी सीजीएल, तेरी तैयारी के साथ आराम से निकल जाएगा। मेरा चचेरा भाई 28 में कैट की तरफ़ मुड़ा और आईआईएम इंदौर मिला। होता है यार!
+      अमन: कम से कम इन सालों से अनुशासन और ज्ञान तो मिला, वह कभी बेकार नहीं जाता 🙏
+      विक्रम: हाँ। शायद।
+      अमन: मैं कह रहा हूँ, एक दरवाज़ा बंद होता है तो दस खुलते हैं। इसी हफ़्ते योजना बनाते हैं!
+      विक्रम: हाँ ठीक है। चल बाद में बात करते हैं।
+    questions:
+      - विक्रम असल में किस चीज़ के लिए संदेश कर रहा था, और उसके पहले दो संदेशों की कौन सी बातें यह दिखाती हैं? उसके आख़िरी दो जवाबों का क्या अर्थ है?
+      - अमन से ठीक कहाँ चूक हुई? उसकी हर बात को परखिए — विकल्प, चचेरे भाई का उदाहरण, "अनुशासन" वाली पंक्ति, "दस दरवाज़े" वाली पंक्ति।
+      - अमन को अब सुधार के लिए जो संदेश भेजना चाहिए, बिल्कुल वैसा लिखिए जैसा उसे भेजना चाहिए।
