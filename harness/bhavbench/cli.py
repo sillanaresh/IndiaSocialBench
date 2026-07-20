@@ -31,6 +31,8 @@ def _items(langs: str):
 
 def cmd_run(args):
     items = _items(args.langs)
+    if args.limit:
+        items = items[: args.limit]
     print(f"running {args.model} on {len(items)} items")
     config = run_model(args.model, items, RAW, force=args.force)
     print(f"done: {config['counts']}")
@@ -89,6 +91,7 @@ def main():
     r = sub.add_parser("run", help="run a model over the dataset")
     r.add_argument("--model", required=True)
     r.add_argument("--langs", default="en,hing,hi")
+    r.add_argument("--limit", type=int, default=0, help="run only the first N items (smoke tests)")
     r.add_argument("--force", action="store_true", help="rerun existing items")
     r.set_defaults(fn=cmd_run)
 

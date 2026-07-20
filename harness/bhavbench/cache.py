@@ -11,7 +11,8 @@ from pathlib import Path
 class Cache:
     def __init__(self, path: Path):
         path.parent.mkdir(parents=True, exist_ok=True)
-        self.conn = sqlite3.connect(path)
+        self.conn = sqlite3.connect(path, timeout=60)
+        self.conn.execute("PRAGMA journal_mode=WAL")
         self.conn.execute(
             "CREATE TABLE IF NOT EXISTS completions (key TEXT PRIMARY KEY, value TEXT NOT NULL)"
         )

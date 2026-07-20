@@ -62,25 +62,27 @@ class OpenRouterAdapter:
             "X-Title": "BhavBench",
         }
 
+    # Reasoning models burn budget (and tokens) on hidden thought; cap it low.
+    REASONING_PREFIXES = ("openai/gpt-5", "google/gemini-3", "qwen/qwen3.7", "anthropic/claude")
+
     def complete(self, messages, system="", temperature=0.7, max_tokens=1024) -> Completion:
         msgs = ([{"role": "system", "content": system}] if system else []) + list(messages)
-        data = _post_with_retries(
-            self.BASE,
-            self.headers,
-            {
-                "model": self.model,
-                "messages": msgs,
-                "temperature": temperature,
-                "max_tokens": max_tokens,
-            },
-        )
+        payload = {
+            "model": self.model,
+            "messages": msgs,
+            "temperature": temperature,
+            "max_tokens": max_tokens,
+        }
+        if self.model.startswith(self.REASONING_PREFIXES):
+            payload["reasoning"] = {"effort": "low"}
+        data = _post_with_retries(self.BASE, self.headers, payload)
         try:
             choice = data["choices"][0]
             text = choice["message"]["content"] or ""
         except (KeyError, IndexError) as ex:
             raise AdapterError(f"malformed response: {data}") from ex
         if not text.strip():
-            raise AdapterError("empty completion text")
+            raise AdapterError(f"empty completion text (finish_reason={choice.get('finish_reason')})")
         return Completion(text=text, usage=data.get("usage") or {}, raw={"finish_reason": choice.get("finish_reason")})
 
 
