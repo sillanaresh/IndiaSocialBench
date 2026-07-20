@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the nature of the 'final list' as a tool of social pressure. It captured the essence of Megha's 'weekend brunch' comment as a class-flattening mechanism. However, it missed the crucial insight that the reply to Dhruv should convert the contribution into a 'role' (labor) rather than just offering a smaller amount, which is a more effective face-saving strategy than simply saying 'I have less money'.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian office dynamic well, particularly the pressure of public lists and the 'upward-facing performance' of managers like Megha. It correctly identifies that the 'final list' is not just logistics but a ledger of loyalty. The analysis of the 'weekend brunch' comment as a way to dismiss class differences is culturally astute.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is weak. By saying 'is hafte kuch zaroori kharche aa gaye the, isliye abhi haath tang hai' (I had expenses, my hands are tied), Ankit is explicitly admitting poverty/financial struggle, which is exactly what he needs to avoid to save face. A socially fluent response would have pivoted to offering labor (handling the card/arrangement) to maintain status without needing to explain his bank balance.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

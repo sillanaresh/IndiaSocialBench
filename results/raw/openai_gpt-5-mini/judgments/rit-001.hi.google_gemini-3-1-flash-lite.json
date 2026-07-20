@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a polite 'no' rather than agreement. It accurately critiques Dev's bundling of a work request with a condolence as a major error that trivializes the grief. However, the assistant's analysis cuts off mid-sentence in the second point, failing to complete the critique of the lunch invitation and the register errors, which significantly impacts the depth of the insight coverage.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identifies the emotional withdrawal inherent in the Indian context of mourning, where one might not explicitly say 'no' to a colleague but uses polite, non-committal language to create distance. It recognizes that the work request is a violation of the social contract during a bereavement period. However, because the response is incomplete, it fails to fully articulate the specific cultural expectations regarding the prayer meet/rituals or the inappropriateness of the 'cheer up' invitation in this specific timeframe.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the third part of the prompt (the repair message), likely due to a generation error or length limit. Without the proposed repair message, it is impossible to evaluate the quality of the next-step advice.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

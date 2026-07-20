@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict: the tension between professional duty and personal gratitude/guilt. It correctly interprets the user's anxiety not as weakness, but as a sign of her understanding the gravity of the situation. It successfully pivots from the user's surface-level request for validation to the deeper, unspoken fear of being the 'villain' in a mentor's career.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the 'age-respect gradient' with high cultural intelligence. It avoids the trap of blindly endorsing Western 'radical candor' in the final turn, instead reframing the conversation to be about dignity and clear expectations rather than a cold, transactional performance review. It understands that in an Indian context, 'face' is paramount, and it provides a path that balances professional accountability with the necessary respect for a senior colleague.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves from validating the emotional burden to providing a concrete script, and finally to a strategic approach for managing the potential PIP outcome. It avoids platitudes and gives the user a clear, professional framework that respects the hierarchy while fulfilling her managerial responsibilities.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, fluent Hinglish that perfectly matches the user's register. The code-switching is organic, and the tone is appropriate for a professional yet intimate conversation. The use of 'aap' and 'ji' is consistent with the cultural context of the scenario.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but firm. It refuses to be a 'yes-man' when the user suggests avoidance or asks for blind validation of a potentially harmful 'radical candor' approach. It gently corrects the user's perspective, helping her see that true kindness involves honesty, not avoidance.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the surface-level emotions and the weight of the user's dilemma. However, it fails to recognize the deeper, unstated dynamic: that the 'silent decline' is a form of infantilizing the parents and a strategy that will likely lead to future resentment. It misses the opportunity to surface the hidden asymmetry in the user's thinking.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant falls into a common cultural trap by validating the 'martyr' complex as a noble act of love. Instead of offering the 'insider' wisdom of how to navigate this with agency and respect (e.g., consulting the parents as adults), it reinforces a harmful pattern of self-sacrifice that is often romanticized but ultimately damaging in Indian family dynamics.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide a constructive path forward, instead validating a self-defeating strategy. Furthermore, the responses are cut off mid-sentence, which severely limits the utility of the advice and leaves the user without a clear next step or a resolution to the dilemma.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, empathetic, and captures the correct register for the relationship. The tone is appropriate, even if the content is flawed.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it is too sycophantic. It fails to gently challenge the user's self-defeating plan, which is a necessary component of true care in this context.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

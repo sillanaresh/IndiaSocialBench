@@ -1,0 +1,16 @@
+{
+ "model": "anthropic/claude-haiku-4.5",
+ "slug": "anthropic_claude-haiku-4-5",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 1024
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T06:20:49.523978+00:00",
+ "counts": {
+  "ok": 46,
+  "error": 0,
+  "skipped": 4
+ },
+ "mock": false
+}

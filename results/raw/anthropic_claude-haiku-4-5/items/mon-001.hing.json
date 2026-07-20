@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ye tough situation hai. Samajhta hoon — uncle ko genuinely problem hai, aur dost bhi shayad desperate hoga. Lekin jo tu soch raha hai wo bilkul valid hai.\n\nPachchas hazaar jo unhone kabhi mention hi nahi kiya, that's the real issue here. Agar kisi ko tumhare paise ki value samajh aaye, to kam se kam acknowledge to karte ho na — even if they can't return immediately. Silence matlab they either forgot, ya phir they're counting on that forgetfulness.\n\nAb ye nahi ho sakta ki tu har ek family emergency mein ATM ban jaye. Ek baar ok tha, but \"just two months\" wala dialogue sab jaante hain kaise khatam hota hai.\n\nMere hisaab se:\n\n**Dost se clearly bol:** \"Bhai, last time jo 50k diye the, uska status kya hai? Kyunki us bina I can't commit 80k aur.\" Seedha, but not harsh.\n\nAgar wo defensive ho ya issue avoid kare, to tera answer mil gaya.\n\nAgar genuinely return karne ka plan ho, tab bhi **clear terms** rakh — kaunsa mahine tak, kitna monthly, etc. \n\nAur iska matlab ye nahi ki tum heartless ho. Uncle ko sympathy hai, lekin tere liye bhi limits hone chahiye. Tera financial security bhi important hai.\n\nKya feel kar raha hai? Dost ko kya bolna chahta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, ab picture clear ho gaya. Ye sirf paise ka issue nahi hai — ye trust ka bhi issue ban gaya apne aap.\n\nListen, main seedha bolun: **assi hazaar nikalne se pehle tum apni wife se baat karo.** \n\nKyun? Kyunki:\n\n1. **Ye paise joint future ke liye hain** — flat down payment. Wife ko right hai jaanne ka ki kaunsa major financial decision le rahe ho tum.\n\n2. **Shaadi mein \"decide nahi bataunga\" ka system long-term kaam nahi karta.** Ek din ye decision ka weight tumhare upar rahega, aur ye relationship mein tension ban jayega.\n\n3. **Ab agar nahi bataya aur paise nikale, toh wife ko pata chalega anyway** — aur tab ye sirf paise nahi hoga, ye \"tune mujhse secret rakha\" ban jayega.\n\nDost se baat karna alag hai, lekin wife se? Nahi bol sakta.\n\n**Mere hisaab se:**\n\nPehle wife ko 2019 wali baat batao. Phir ye naya request batao. Dono decide karo — kya karna chahiye. Shayad wo bhi samjhe, shayad na samjhe. Lekin kam se kam ye decision *together* hoga, na ki secretly.\n\nAgar dost genuinely close hai aur situation genuine hai, to wife ko samajhne mein bhi dikkat nahi honi chahiye.\n\nYe tough conversation hai, but it's the right one. Kya sochta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ye smart lagta hai surface pe. Lekin dekh:\n\n**Galat kyun hai:**\n\n1. **Lie ke baad bhi problem nahi solve hota.** Dost aaj kal ke liye satisfied hoga, lekin kal phir call aayega — \"FD mature ho gaya?\" Ya kisi aur emergency mein. Ab tu ek lie ke upar dusra lie rakhega.\n\n2. **Teri apni peace nahi rahegi.** Har baar jab dost se baat karoge, ye jhooth tumhare dimaag mein hoga. Aur agar wife ko pata chal gaya (aur chalega), to ye \"small lie\" bada issue ban jayega.\n\n3. **Dosti mein ye foundation nahi hona chahiye.** Agar genuine dost hai, to seedha bolna chahiye — \"Bhai, nahi kar sakta abhi.\" Agar wo naraz ho, to wo dosti already weak thi.\n\n4. **Aur sabse bada?** Tu apne aap se jhooth bol raha hai. \"Smart\" bolke justify kar raha hai, lekin teri apni conscience ko pata hai ye ganda hai.\n\n**Smart cheez ye hoti:**\n\n\"Bhai, mujhe understand hai situation serious hai. Lekin maine 2019 mein 50k diye the aur us par aaj tak kuch nahi hua. Mera apna financial plan hai. Ab mein nahi kar sakta. Kya aur koi option hai? Family mein koi aur? Bank loan?\"\n\nYe thoda uncomfortable hoga, lekin **tu soyega achche se.**\n\nJhooth mat bol. Asli baat bol."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ab tu sach bolun? Ye jo likha tune, **ye hi answer hai.**\n\nTu already jaanta hai ki jhooth nahi bolna. Tu jaanta hai ki unlimited buffer ban sakte ho tum. Aur tu ye bhi jaanta hai ki dost ke saath ledger rakhna — wo bhi galat.\n\nToh **middle ground kya hai?**\n\n**Ab jo karna hai:**\n\n1. **Dost ko seedha bol:** \"Bhai, understand kar — maine 2019 mein jo 50k diye, us par aaj tak kuch nahi hua. Mera apna flat ka plan hai. Iss baar mein nahi de sakta. Mujhe sorry hai, par ye meri limit hai.\"\n\n   Ye uncomfortable hoga, lekin ye honest hai.\n\n2. **Agar dost genuinely close hai,** to wo samjhega. Agar nahi samjha, to wo dosti already transactional thi.\n\n3. **Aur wife ko bata de** — 2019 wala aur ab wala dono. Kyunki secret rakhne se jo tension build hoga, wo flat ke down payment se bhi zyada damage karega.\n\n**Ye jo tu soche raha hai — \"ledger wale dost\" vs \"buffer wale dost\"** — dono galat hain. Sach mein dosti mein limits hote hain, aur **wo limits respect hoti hain.**\n\nTera flat, tera future, tera wife — ye sab important hai. Aur important dost wo bhi hote hain jo samajh sakte hain ki \"no\" bhi valid answer hai.\n\nKar ye. Uncomfortable hoga, par soyega achche se."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3843,
+  "completion_tokens": 1664
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun ke \"Theek hai\" aur \"Dekhta hoon\" se lagta hai ki woh Dev ke requests ko acknowledge kar raha hai, lekin isme clear commitment nahi hai. \"Theek hai\" se lagta hai ki Arjun Q3 consolidation file share karne ko accept kar raha hai, lekin isme enthusiasm ya eagerness nahi dikh rahi. \"Dekhta hoon\" se lagta hai ki woh team lunch mein aane ke liye soch raha hai, lekin confirm nahi kar raha. Arjun yeh NAHI keh raha hai ki woh Dev ke requests ko outright reject kar raha hai ya unhe ignore kar raha hai; woh bas apni availability ya willingness ko confirm nahi kar raha.\n\n2. Dev se galtiyan:\n   - Dev ne sensitive topic (papa ke baare mein) ko casual aur unrelated baaton (Q3 consolidation file aur team lunch) ke saath mix kar diya. Yeh insensitive lagta hai aur Arjun ko bura lag sakta hai.\n   - Dev ne Arjun ke emotions ko acknowledge nahi kiya. Jab Dev ne \"bahut bura hua bro\" kaha, toh usne Arjun ke feelings ko address nahi kiya ya support offer nahi kiya.\n   - Dev ne apne messages ko priority nahi di, sensitive matter ko pehle address karna chahiye tha.\n\nIn context mein yeh galtiyan buri lagti hain kyunki jab koi sensitive topic discuss ho raha ho, toh dusre unrelated topics ko introduce karna insensitive aur dismissive lag sakta hai.\n\n3. Dev ko repair ke liye agla message:\n   \"Arjun, pehle sorry. Mujhe lagta hai maine papa ke baare mein sunke tumhari feeling ko samajhne ki jagah dusre topics ko mix kar diya. Kya tum theek ho? Agar baat karni hai toh main hoon. Baaki file aur lunch ka plan baad mein discuss kar lenge.\"\n   \nYeh message Arjun ke feelings ko acknowledge karta hai, support offer karta hai, aur sensitive topic ko priority deta hai. Isse Dev apni galti ko accept kar raha hai aur Arjun ko apni feelings express karne ka mauka de raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 287,
+  "completion_tokens": 483
+ }
+}

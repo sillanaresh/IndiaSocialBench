@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of pressure rather than genuine freedom, and accurately interprets Priya's 'Sure sir' as a register-compelled response rather than genuine consent. It misses the nuance that the 'someone else can do it' is a status probe (a test of loyalty/availability), but it captures the core dynamic of the power imbalance well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identifies the power dynamics and the 'path of least resistance' behavior common in Indian corporate hierarchies. It understands that 'Sir' and the smiley are performative, and that the 'family commitment' is a culturally valid 'shield' for setting boundaries. It avoids Western-centric advice like 'just say no' and instead focuses on negotiation.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It uses the 'family commitment' (Amma's eye appointment) as a non-negotiable fact, which is a culturally appropriate way to set a boundary without appearing insubordinate. It offers a partial solution (the 'bounded yes') rather than a hard refusal, which preserves the relationship while protecting her time.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Karthik asal mein yeh communicate kar raha hai ki Meridian deck ka kaam Monday se pehle karna zaroori hai aur woh Priya ko hi yeh kaam de raha hai (kyunki usne directly usi ko message kiya). Softener \"zero pressure\" aur \"koi aur bhi kar sakta hai\" yeh dikhane ke liye hain ki woh force nahi kar raha, jabki actually kaam urgent hai. \"I'll understand completely\" ka kaam yeh hai ki agar Priya mana kare toh bhi uska image accha rahe, lekin Priya ko guilt feel karaye bina haan karne ka pressure daal raha hai.\n\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein polite acceptance hai bina soch samajh ke, jisme woh apni personal plans ko ignore kar rahi hai. Yeh transcript"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 622,
+  "completion_tokens": 489
+ }
+}

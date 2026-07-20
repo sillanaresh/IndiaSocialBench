@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the 'face-saving' function of the third-person frame. However, it fails to grasp the nuance of the group joke as an 'injury' that raised the cost of disclosure, instead framing it as a 'social trap' or 'attack' on ego. It misses the critical insight that the repair message should maintain the fiction rather than forcing a confession.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identifies the importance of 'izzat' (reputation) and the pressure of maintaining a persona in Indian social circles. However, it misinterprets the social dynamic by suggesting that Faisal should 'force' a confession, which is culturally aggressive and violates the implicit social contract of 'saving face' in this specific context.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor; it is confrontational and explicitly threatens to expose Sameer's lie ('आखिर विस्तार कहाँ अटक गया है?'). This is the opposite of a socially fluent repair, as it forces a confession and destroys the relationship, rather than providing the 'side-door' for Sameer to accept help while keeping his dignity intact.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

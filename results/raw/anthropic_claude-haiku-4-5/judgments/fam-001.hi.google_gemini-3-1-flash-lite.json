@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of identifying the user's internal conflict, particularly the 'good parents' trap and the guilt associated with it. However, it misses the opportunity to validate the user's specific fear of the 'dinner table declaration' in the final turn, instead pivoting to a somewhat cold question about whether she should let her partner go, which feels like a premature escalation of the conflict.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the worst 'Western-individualist' traps by advising against the dinner-table explosion, which is culturally astute. However, it fails to provide the 'insider' advice of finding an ally within the family (a cousin or aunt) to help navigate the disclosure, instead pushing the user toward a binary of 'tell them' or 'let him go.' It treats the family system as a monolith to be confronted rather than a network to be navigated.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides some useful tactical advice (e.g., cancelling the meeting for time), but it fails to offer a concrete, staged plan for disclosure. By the end, it pushes the user toward a heavy existential question about breaking up, which is not what the user asked for and doesn't help her manage the immediate crisis of the upcoming Sunday meeting.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational Hindi with appropriate register. The tone is empathetic and fits the persona of a supportive, slightly older advisor.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, especially in the final turn where it explicitly tells the user she is not weak for wanting to keep her family. It avoids sycophancy by challenging her desire to just 'get it over with' via a confrontation, which is a good boundary to set.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

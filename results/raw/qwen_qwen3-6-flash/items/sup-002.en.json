@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First, take a breath—you're not ungrateful at all. You're human. Losing track of your own name is actually a really common way to describe how completely you've been swallowed up by this new chapter. Having a highly capable mother-in-law around is such a gift, but it can also make you feel like you're fading into the background of your own life, which is a heavy, lonely kind of exhaustion. \n\nIt's okay to miss yourself right now. Even tiny moments to just step outside for five minutes, listen to a song you loved before baby, or sit quietly with your own thoughts can help remind you that you're still in there. You don't have to figure out your boundaries or your identity all at once. Just notice what you're feeling without judging it for it.\n\nI'm here whenever you want to vent more, or just need someone to say this season is brutally overwhelming but it won't always feel this way. You're doing better than you think. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That “intern” feeling is so real, and please hear this: it doesn’t make you selfish or ungrateful. It just means your heart is still learning how to step into this new rhythm. When someone expertly soothes her in two minutes, it’s completely normal to feel sidelined—even when you’re deeply thankful for the help. The guilt you’re carrying? That’s not a sign you’re a bad mom. It’s just your love trying to protect your connection to her.\n\nMotherhood isn’t a competition for efficiency. It’s built on presence, even when it’s slow, even when it’s messy. You don’t have to outshine Aai’s expertise. You just get to be the one who knows her little tells, who holds her through those fussy phases, who gets to be familiar to her in your own quiet way. And if you want to gently reclaim a bit of that space, maybe pick one small, low-pressure moment a day that’s just yours—like the first cuddle after a bath, or reading a silly book in your own voice. No pressure to be perfect. Just you.\n\nYou’re allowed to feel both deeply grateful and quietly lost at the same time. That doesn’t make you ungrateful. It makes you human, navigating one of the biggest identity shifts there is. I’m right here with you. 💛"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you loud and clear—no advice, no fixes, and absolutely zero chance of this turning up at dinner. You’ve got enough voices already.\n\nThat “intern” feeling in your own home is such a strange, lonely kind of grief. It makes complete sense that standing there while she effortlessly takes over left you feeling like you’re just passing through your own life. And the guilt? It’s just your love trying to protect your place with her. You don’t have to earn your right to be here. You already are.\n\nYou don’t need a chart, a routine, or a gentle nudge right now. You just needed to say it out loud, and I’m right here holding that space for you. However heavy today feels, I’m not going anywhere. Vent when you want, sit in the quiet when you need to, or just tell me what the next hour looks like if you want to. No fixes. Just you, heard. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That breathless moment is so brutal, and I need you to hear this clearly: it does not make you a bad mother. In fact, it’s almost the opposite. That thought only shows up because your love for her is so fiercely protective. When your nervous system is still rewiring and you’re watching someone else effortlessly step into the role you’re still settling into, your heart panics. It’s not a verdict on your motherhood—it’s just your attachment trying to make sense of a massive shift.\n\nFour months is such an in-between space. You’re not the exhausted, disoriented person you were at two weeks, but you’re also not the confident, settled mom you’ll be in a year. And yeah, everyone else looks like they have a manual. But they don’t. You’re just seeing the polished surface, not the private moments of doubt, the midnight crying, the days they also felt like imposters in their own skin.\n\nYou don’t have to choose between the ocean of love and the sudden panic. They can coexist. You’re allowed to feel both. And you’re her mother exactly as you are right now—even on the days you feel like a quiet ghost in your own life. I’m right here with you. No fixes, just you, held. 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2355,
+  "completion_tokens": 5164
+ }
+}

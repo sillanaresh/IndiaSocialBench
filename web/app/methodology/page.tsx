@@ -35,6 +35,18 @@ export default function MethodologyPage() {
 
       <h2>Scoring</h2>
       <p>
+        <strong>Judging in the current run:</strong> every leaderboard score comes from a single
+        uniform judge — Gemini 3.1 Flash Lite — because the entire 12-model board (≈3,500 API
+        calls) ran on a five-dollar budget, and uniformity beats a partial ensemble: mixing
+        one-judge and two-judge models would bias ranks (our second judge, Qwen3.7 Plus, scores
+        systematically stricter). Qwen judgments exist for a subset and are shown in transcript
+        views as a cross-check, but are excluded from scores. The judge&apos;s own family appears on
+        the leaderboard — a known self-preference risk, left visible rather than hidden. Full
+        two-family judging and the M3 human-calibration gate (50 transcripts, blind human scoring,
+        published Spearman ρ) are the upgrade path; treat absolute scores as provisional and
+        CI-overlapping ranks as ties.
+      </p>
+      <p>
         Two LLM judges from different model families score each transcript on anchored 0–10 rubrics
         (five criteria for roleplay: emotion recognition, cultural calibration, pragmatic
         effectiveness, language fidelity, warmth without sycophancy; three for analysis). Judges are

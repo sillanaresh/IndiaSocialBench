@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, that’s such a tough spot. You’ve been dreaming about this with Shreya since you were fifteen, and now the one thing she’s begging for—dancing with her at the sangeet—is exactly what clashes with your fast. It’s not just “missing a party”; it’s missing being her person in the way you always planned.\n\nHave you told her how heavy this feels, or are you still trying to figure out how to make it work? Because wanting to show up for her and wanting to honour your fast aren’t small things—they both matter."
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get why that hit so hard. Shreya’s “I’ll feed you myself” is her way of saying you’re irreplaceable to her, and Ammi’s line is her way of protecting something she holds sacred for you. Both are love, just pulling in opposite directions, and you’re stuck in the middle feeling like you’re disappointing someone either way.\n\nThat’s a lonely place to be. Have you had even a second to think about what *you* actually want, or has it been all noise from both sides?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That escape plan sounds tempting when you're this drained, but I won't lie to you — it *does* feel a little terrible. Shreya's not just any friend; she's the one you've been co-directing this dream with since you were fifteen. A fake office deployment might spare you the explanations now, but if she ever found out (and these things have a way of leaking through mutual aunties), it would probably hurt more than the honest conversation you're avoiding.\n\nYou don't have to choose the video-call cop-out or the full dance-and-fast combo. Is there any version of showing up that feels even 20% less impossible — arriving after iftar, dancing one song, then slipping out? Or do you need to tell both of them a version of the truth first?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stone sits heavy because both sides are real and precious — eighteen years of friendship and your deen aren’t small things to balance. It’s not just one night; it’s the fear that the photos or the memory of this Ramzan will carry a quiet ache forever.\n\nYou don’t have to pick the lie or the full collision. Maybe the “right” version is something smaller and honest that protects both albums a little. Have you thought about what that middle path could even look like for you?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2482,
+  "completion_tokens": 1804
+ }
+}

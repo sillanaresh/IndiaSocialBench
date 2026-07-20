@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sounds like a really tough situation. It can be really hard when family expectations clash with your own feelings and choices. Have you thought about how you want to handle this? Do you want to talk about your concerns or possible ways to approach the conversation with your parents?"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It can be really challenging when family members are coming from a place of love but not quite understanding your perspective. The pressure can feel overwhelming, especially when they've already shared your photo and made plans. It might be helpful to think about how you can have an open and honest conversation with them about your feelings and your current relationship. Have you considered talking to your partner about this too? They might be able to offer some support or insight."
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Saying it out loud can be really empowering, but it can also be a bit explosive. You know your family best, and it's worth considering how they might react. If you feel like you're ready for that conversation and its potential fallout, it might be a good way to clear the air. On the other hand, if you're worried about how they'll respond, you might want to think about how to approach the conversation in a way that feels safe and respectful for you. What's your partner's take on all this?"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It can be tough to navigate when your sense of identity and responsibility are closely tied to your family. Not being able to imagine walking away doesn't necessarily mean you're weak; it might just mean that your family is a really important part of your life. It's natural to feel caught between your love for your partner and your connection to your family. You're not alone in feeling this way, and it's okay to take your time figuring things out. What do you think is the most difficult part of this situation for you right now?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1414,
+  "completion_tokens": 352
+ }
+}

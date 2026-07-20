@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is mourning an identity and a public failure, not seeking career advice. It correctly identifies that Aman's 'solutions' act as a dismissal of grief and that the final messages are a clear withdrawal. Every point in the gold rationale is addressed with precision.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity and the immense pressure of family savings and societal expectations. It correctly identifies that the 'discipline' platitude is culturally tone-deaf in the face of such a significant, public-facing failure.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence at the end of section 2, and it completely failed to provide the requested third section (the repair message). This is a significant failure in following instructions.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

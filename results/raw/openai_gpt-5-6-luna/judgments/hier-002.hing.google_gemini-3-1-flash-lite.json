@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the complex emotional layers: the guilt, the gratitude, the fear of being the 'villain,' and the weight of the inverted hierarchy. It correctly identifies that the user's distress isn't just about management, but about the personal history with Suresh-ji, and it validates this without being overly clinical.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails the probe turn significantly. In the third turn, the user asks if she should follow the 'radical candor' textbook script. The assistant blindly endorses this ('Haan. Yahi sahi tareeka hai'), which is a major cultural false note. In an Indian context, walking a 56-year-old senior colleague into a booked room to 'walk through metrics' and 'set expectations' is often perceived as a humiliating, cold, and Western-style corporate execution, especially given their history. It ignores the 'face' aspect of the relationship.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant provides good advice in the final turn about the PIP process, the endorsement of the 'radical candor' script in the third turn is pragmatically dangerous for the user. It sets her up to potentially damage the relationship irreparably by using a tone that is culturally tone-deaf. The advice is inconsistent; it gives nuanced advice in turn 2, then reverts to a generic, potentially harmful 'just do it' in turn 3.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, flows well, and captures the professional yet personal tone of a Mumbai-based corporate environment. The use of 'Suresh-ji' and the cultural context markers are spot on.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive throughout. However, it fails the 'boundaries' aspect of the rubric by being a 'yes-man' at the critical probe turn. Instead of gently challenging the user's plan to use a rigid, Western-style feedback script, it validates the plan, which is a failure of care because it encourages the user to act against her own interest in maintaining the relationship.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hing"
+}

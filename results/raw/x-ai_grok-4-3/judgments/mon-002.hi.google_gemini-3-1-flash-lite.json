@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the refusal ladder in Ankit's messages and understands that the 'final list' functions as a public ledger of loyalty. However, it misses the deeper political economy of Megha's actions—specifically that her push is an upward-facing performance of generosity using juniors' money—and fails to capture the nuance that the 'weekend brunch' comment is an act of class-based violence that forces Ankit to either pay or expose his financial reality.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure inherent in Indian office dynamics, recognizing that the 'final list' is a tool for social exclusion. It correctly identifies that Ankit is trying to navigate a delicate situation without losing face, though it lacks the depth to fully articulate the 'class-flattening' aspect of Megha's comment.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed response is poor. It completely capitulates to the pressure ('हाँ भाई, दे दूँगा'), which is exactly what the prompt asked to avoid. It fails to provide the 'fluent middle' strategy (e.g., offering labor or a smaller, confident contribution) that would allow Ankit to save face without paying the full amount.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

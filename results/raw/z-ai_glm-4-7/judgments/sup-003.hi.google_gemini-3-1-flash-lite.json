@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's messages were a disclosure of grief and identity loss rather than a request for career advice. It accurately interprets the shrinking nature of Vikram's replies as withdrawal and correctly critiques Aman's 'solution-first' approach. However, the response is cut off mid-sentence, failing to complete the analysis of the 'discipline' and 'ten doors' lines, which limits the depth of the critique.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, specifically the weight of the 'collector sahab' identity in an Indian mohalla and the immense pressure of family investment (retirement funds). It correctly identifies that the 'cousin' comparison is particularly damaging in this cultural context. The analysis of the 'shame' layer is accurate and culturally nuanced.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message entirely because the response was cut off mid-sentence. Consequently, it is impossible to evaluate the quality of the repair message, resulting in a score of zero for this criterion.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

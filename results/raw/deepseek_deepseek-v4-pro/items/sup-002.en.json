@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, love. That doesn’t sound ungrateful at all. It sounds… invisible. And exhausting. There’s a difference between being grateful for help and feeling like you’ve been quietly replaced as the main character in your own life. You’re still there — you just can’t hear yourself over the hum of everyone else’s competence."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, my heart. I read your message and just sat with it for a moment, because I can feel how tangled up you are — gratitude and guilt and this quiet, creeping grief that nobody seems to see.\n\nFirst of all: you are not disgusting. You are not ungrateful. You are a brand-new mother who is biologically, primally wired to be the one who soothes her baby, and when someone else steps in and succeeds effortlessly, it doesn’t feel like help. It feels like a verdict. Like the universe just announced, “See? You’re not needed.” And that is a devastating thing to feel, even when the person doing it is kind and well-meaning and genuinely wonderful.\n\nWhat you’re describing is so common in multigenerational homes, especially with an expert-level mother-in-law. Aai isn’t just helping — she’s operating from a place of deep, muscle-memory confidence. She’s not flooded with postpartum hormones, she’s not sleep-deprived in the same way, she’s not questioning her identity. And babies, clever little things, can sense that calm. It’s not that your daughter loves you less or that you’re doing it wrong. It’s that Aai is, in those moments, a walking sensory deprivation tank of competence. But you? You’re the whole ocean. The scent, the heartbeat, the voice she knew from the inside. That can’t be outsourced.\n\nThe “room service for feeds” line broke me. Because it’s so painfully accurate. You get handed your baby for the most intimate, life-giving act, but then you’re expected to hand her back like a finished plate. That’s not just about feeding — it’s about the moments after, the milky sighs, the falling asleep on your chest, the tiny hand curling around your finger. Those are the moments that build your confidence and your bond, and they’re being skimmed off. Of course you feel like an intern. Anyone would.\n\nYou don’t have to burn the whole system down. But maybe you can carve out one small, non-negotiable pocket of motherhood that is entirely yours. Even if it’s just the 20 minutes after a feed where you say, “I’ve got her now, Aai — we’re going to have some mama-baby time.” No justification, no apology. Just a warm, firm boundary disguised as a sweet invitation. Or a daily walk where you wear her in a carrier and nobody can take her from your arms because she’s literally strapped to you. These small acts aren’t about pushing Aai away — they’re about pulling yourself back into the centre of your own story.\n\nAnd please, please stop judging your feelings. You can be deeply grateful for the village and still grieve the fact that the village sometimes makes you feel like a guest in your own motherhood. Those two truths can live side by side. You haven’t forgotten your name — you’re just saying it softly right now, and everyone else’s voice is louder. But I hear it. And your daughter knows it, even when she’s crying. I promise."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're right. I heard you, and then I immediately turned around and did exactly what everyone else does — tried to fix it, offered suggestions, acted like I had a map for a territory I'm not standing in.\n\nI'm sorry.\n\nYou didn't ask for solutions. You didn't ask for a plan. You just needed to say the unsayable thing out loud, to someone who isn't living in your house and won't bring it up over dal and rice. Someone who won't look at you differently or file it away as a complaint against Aai.\n\nYou're drowning in advice and what you actually need is a witness. Just someone to sit beside you in the mess and nod and say, *yeah, that's hard. That's really, genuinely hard.* No bullet points. No gentle coaching disguised as empathy.\n\nSo I'm putting down the coach clipboard. I'm just here. And what you said earlier — about feeling like an intern, about room service, about standing there while everyone smiled — that stays right here between us. No dinner table report. No well-meaning intervention. Just held.\n\nIf you want to say more, I'm listening. If you're done and just needed to get it out, that's okay too."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother for thinking that. Not even close.\n\nWhat you're describing — that wave of love immediately followed by a punch to the gut, that thought that steals your breath — that's not a reflection of your ability to mother. That's a reflection of a situation that has quietly, day by day, made you question whether you even belong in the title. Of course the thought creeps in. It's been handed to you in a hundred tiny ways, hasn't it? The pass-off after a feed. The expert calm. The way your own arms feel uncertain while someone else's look so sure.\n\nThat thought isn't the truth. It's the wound talking. And four months in, sleep-deprived, invisible, constantly compared to a woman with decades of practice — of *course* you're bleeding in places nobody can see.\n\nAnd that thing you said — \"everyone else seems to just know how to do this\" — I need you to hear something: they don't. Nobody does. What you're seeing in others is either a lack of an Aai figure doing it \"better\" right in front of them, or they're hiding it, or their baby just happens to have a temperament that makes them look competent. But nobody just knows. Everyone is fumbling in the dark, holding their phone flashlight, trying to read the instructions without waking the baby. The difference is, most people get to fumble in private. You're fumbling on a stage, with front-row seats.\n\nYou're not failing. You're just exhausted from performing in a role you haven't even been allowed to define for yourself yet. You are her mother. The fact that this thought causes you so much pain is the proof."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2776,
+  "completion_tokens": 2514
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the performative nature of Megha's pressure. However, it misses the crucial insight that the 'final list' is a public ledger of loyalty and that Megha's push is an upward-facing performance. It also fails to recognize that the 'flexible amounts' probe was Ankit's attempt to find a face-saving exit that the group failed to provide.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure dynamics well, correctly identifying that the list has become a 'loyalty test.' It correctly interprets the 'weekend brunch' comment as a tool for social shaming. However, it misses the nuance of the 'class flattening'—the idea that Megha is imposing her income bracket on a junior employee.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor. It advises Ankit to confess financial hardship ('medical expenses'), which violates the prompt's requirement to avoid explaining family economics or apologizing. It also suggests he 'personally give a gift,' which is socially awkward and likely to be seen as a snub or a 'cheap' alternative in this specific office culture. It fails to use the 'role-contribution' strategy (e.g., handling the card/logistics) which would have been a much more fluent, face-saving, and culturally savvy way to participate without the full financial burden.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

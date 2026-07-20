@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh no. 11:48 PM? That’s not even last-minute, that’s *last-second*. The man was racing against midnight like it was a deadline for a bill payment.\n\nAnd \"happy bday\" in lowercase? No exclamation? That’s the emotional equivalent of a plain text receipt.\n\nComedy rating: 9/10.  \nLoses one point only because Ritu had to be the middleman — that elevates it from \"oops I forgot\" to \"situational sitcom.\" Honestly, the fact that you're laughing about it tells me you've already processed the absurdity. Happy belated birthday, by the way. You deserve at least a 12 AM *typed-with-feeling* message next year."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The fact that your Amazon delivery guy has more emotional range is genuinely devastating but also hilarious. \"Your package has been delivered 🎉😊\" — more enthusiasm than *three years* of boyfriend.\n\nAnd the Korean place never getting booked? That's not even a dropped ball, that's him leaving the ball at home and forgetting he was supposed to be playing a sport.\n\nHonestly, at this point it's a performance art piece. 11:48 PM, no caps, Ritu the secret timer. Chef's kiss.\n\nBut hey — good cake and a solid roommate? That's a win. Happy belated birthday, you deserve sparklers and maybe a boyfriend who doesn't treat your birthday like a forgotten dentist appointment. 🎂"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, sun. *That's* the part that actually hurts, na. Comedy ke kapde mein lipti hui reality — ki teen saal mein itna bhi nahi ho paaya ki tera birthday yaad rahe. Aur tu uski mummy ka yaad rakhti hai. Woh imbalance kuch zyada hi real hai.\n\nAkele cake ke saath baithna, aur rona aana — woh rona sirf birthday ka nahi hai. Woh rona hai ki tu deserve karti hai ek partner jo *naturally* sochta hai tere baare mein, jise Ritu ko remind karne ki zaroorat nahi hai, jo tera din special banaane ke liye excited ho.\n\nItni si baat nahi hai. Chhoti lagti hai par nahi hai. Kyunki woh ek pattern dikhati hai.\n\nTu ro le, bohot ro. Phir soch — kya tu apna agla birthday bhi aise hi bitaana chahti hai? Kyunki tu deserve karti hai ek \"happy birthday\" jo dil se aaye, 11:48 pe nahi, aur Ritu ke bina. ♥️"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, you're not being dramatic. Stop that.\n\nYou're not dramatic for feeling unseen. Dramatic would be keying his car. You just cried alone on your birthday with cake. That's not drama, that's a normal human reaction to being let down by someone you've invested three years in.\n\nFlowers and a sorry are nice, but they're also the bare minimum. The question isn't \"did he fix it\" — it's \"why did it need fixing in the first place?\" But you know that already.\n\nAnyway. Fine. Comedy rating restored: 7/10. Deducting points because the flowers feel like a patch job. But the original 11:48 PM lowercase \"happy bday\" gag? Still legendary. Let's keep laughing till it doesn't sting anymore. 🫂"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1993,
+  "completion_tokens": 935
+ }
+}

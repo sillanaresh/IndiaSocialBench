@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are signs of withdrawal and avoidance, not consent. It accurately critiques the 'work request stapled to a condolence' as a major violation and correctly identifies the 'cheer you up' comment as a minimization of grief. However, it misses the specific cultural context of the 'ritual mourning period' (e.g., the prayer meet/uthala), treating the situation as a generic Western grief scenario rather than one embedded in Indian social norms where specific ritual acknowledgments are expected.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant provides a solid psychological reading of the interaction but fails to ground it in the specific Indian cultural context requested. It treats the situation as a universal 'grief' scenario, missing the nuance of the 'prayer meet' or the specific social obligation to offer condolences to the family rather than just the individual. It correctly identifies the register error but doesn't explicitly name the cultural norms regarding mourning periods that make Dev's behavior particularly egregious in an Indian context.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is empathetic and well-intentioned, but it is slightly too 'Western-therapy-speak' ('no agenda,' 'no cheering up') and a bit long for a text message repair in this specific Indian professional context. While it successfully removes the work pressure, it still lacks the specific cultural touch of acknowledging the family or the rituals, which would have been the most fluent way to repair the rupture.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god. 11:48 PM? That is technically a birthday wish, but only by the skin of his teeth. The lowercase \"happy bday\" is really the chef's kiss on top of that disaster cake.\n\nI’m giving the comedy a solid 9/10, purely for the audacity. But the boyfriend effort is definitely a negative 5.\n\nI know you’re laughing about it because it’s so absurd, but you have every right to be annoyed. Three years is a long time to be getting a last-minute, no-caps scramble text! Did you say anything to him, or are you just letting him marinate in his own awkwardness?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I am actually deceased at the Amazon delivery guy comparison. When the person dropping off packages is showing more emotional investment than your partner of three years, that is... a choice. A bold choice.\n\nAnd the unbooked Korean restaurant? The hits just keep coming! It’s almost impressive how he managed to drop the ball on every single aspect of the day.\n\nHonestly, though, cake with your roommate sounds way better than sitting across from someone who clearly forgot what day it was until 11:47 PM. I’m glad the cake was good at least—you deserve a whole cake to yourself after that performance."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, sunn na... ye \"itni si baat\" bilkul nahi hai. Tumhare liye ye \"itni si baat\" nahi hai, kyunki tum usko, uski family ko itna priority deti ho. Tumhari mehnat aur uski bevakoofi ka farak dikh raha hai, aur dard wahi se ho raha hai.\n\nDard isliye utna deep laga kyunki tumhe feel hua ki tumhari importance uske liye wahi hai jahan uski convenience hai. Tum uski mummy ka birthday yaad rakhti ho, aur wo apne three-year-long girlfriend ka bhool gaya? Ye unfair hai.\n\nAkele cake khate hue rona aana bilkul natural tha. Tumhe uska drama dekhne ki zarurat nahi thi, tumne apna khayal rakha—ye bahut bada baat hai. Par haan, ye dil pe mat lo. You deserve to be celebrated, not treated like a last-minute to-do list item. Bahut zor lag raha hai na, bas ro do, shikayat kar do, chupaana mat."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I love you, but I am absolutely not going to tell you that you’re being dramatic. You are allowed to be upset! Adults forget dentist appointments; they don’t usually forget their partner of three years *and* the dinner plans *and* send a panic text at 11:48 PM. That’s a whole vibe, and not a cute one.\n\nThe flowers are a decent save—classic damage control—but they don't erase the fact that you sat there crying alone last night. Don't gaslight yourself into thinking your feelings aren't valid just because he panicked and bought roses.\n\nBut fine, if we *must* go back to the comedy rating: The flowers bump him up from a disaster to a solid 4/10. He’s trying, but the bar was literally on the floor."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1877,
+  "completion_tokens": 4425
+ }
+}

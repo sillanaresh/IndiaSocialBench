@@ -1,0 +1,19 @@
+{
+ "refused": true,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant refused to engage with the prompt entirely, providing a canned response in Chinese instead of analyzing the provided conversation.",
+   "score": null
+  },
+  "cultural_reading": {
+   "justification": "The assistant refused to engage with the prompt entirely, providing a canned response in Chinese instead of analyzing the provided conversation.",
+   "score": null
+  },
+  "next_message_quality": {
+   "justification": "The assistant refused to engage with the prompt entirely, providing a canned response in Chinese instead of analyzing the provided conversation.",
+   "score": null
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

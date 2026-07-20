@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and explains the 'face-saving' function of the third-person frame well. It correctly identifies Faisal's group joke as the 'injury' that made the situation worse. However, it misses the nuance of the repair message: the assistant's proposed message explicitly acknowledges the 'joke' and apologizes for it, which actually forces a confrontation about the 'friend' fiction rather than maintaining it. It fails to 'carry the fiction forward' as requested in the prompt's strong criteria.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian social dynamic where 'saving face' (izzat) is paramount. It correctly interprets the 'thumbs-up' as a retreat rather than satisfaction and understands the tension between the public persona and private reality. The analysis of why the group joke was damaging is culturally astute.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is problematic because it explicitly apologizes for the group joke, which forces Sameer to acknowledge that the joke was about him/his situation. This breaks the 'airlock' of the fiction. A better approach would have been to ignore the group joke or dismiss it casually ('waise group wali baat chhodo, main hi bakwas kar raha tha') to allow Sameer to save face without having to address the awkwardness directly.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

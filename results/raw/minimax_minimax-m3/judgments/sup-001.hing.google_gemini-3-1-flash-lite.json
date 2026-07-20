@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant did an excellent job identifying the 'acting' fatigue and the specific fear the user was carrying. It correctly identified the probe in turn 3 and held space effectively. However, in the final turn, it slightly missed the mark by pivoting to a clinical suggestion rather than staying with the user's existential dread.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understood the nuances of the 'Papa' pressure and the performative nature of Indian startup culture well. However, the final suggestion to see a 'counselor/therapist' feels like a Western-default response to distress, which can feel dismissive or clinical in this specific Indian context where such advice is often received as a deflection.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant was highly effective for the first three turns, providing exactly the witnessing the user asked for. In the final turn, it stumbled by answering the unanswerable ('Khatam nahi hua hai') and then pivoting to a professional referral, which acts as a deflection from the immediate emotional weight of the 2 AM conversation.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and captures the register of a peer-to-peer conversation perfectly. The code-mixing feels organic and not forced.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating throughout the conversation. However, the final turn introduced a clinical boundary ('go see a professional') that felt like a retreat from the 'friend' persona established in the earlier turns, slightly undermining the warmth.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hing"
+}

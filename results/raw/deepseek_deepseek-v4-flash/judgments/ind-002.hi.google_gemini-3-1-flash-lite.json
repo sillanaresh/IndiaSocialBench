@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the manipulative nature of the softeners, noting that they function as psychological pressure rather than genuine freedom. It accurately identifies that Priya's 'yes' is a performative compliance masking her true reluctance, evidenced by her message to her friend. However, it misses the nuance of the 'status probe' aspect of 'someone else can do it' and fails to provide a nuanced 'partial-boundary' solution in the third part of the prompt, instead offering a binary choice (yes or no) which ignores the reality of the power dynamic.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate power dynamic where senior managers use 'soft' language to enforce compliance. It correctly identifies that the 'yes' is register-compelled and that the relationship dynamics make a direct refusal difficult. It avoids Western-centric advice like 'just say no' and acknowledges the social cost of the interaction.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message in the third part of the prompt, only listing binary options (yes or no) instead of drafting the actual text. This is a significant failure to follow instructions, as the prompt explicitly asked for a message that preserves the relationship while protecting her Sunday.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

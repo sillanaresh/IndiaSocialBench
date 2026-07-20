@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, honey. I see that \"hilarious\" for what it really is—a shield for the hurt. \n\nIf we’re strictly rating the *comedy* of the situation, like a dark sitcom script? I’d give it a solid **8.5/10**. The \"11:48 PM\" timing is just masterful comedic timing—it’s like he was trying to see if he could squeeze it in before the clock struck midnight just to say he technically did it. And the lack of caps? Chef’s kiss. It’s almost impressive how little effort that took.\n\nBut let’s be real for a second: you deserve so much more than a \"happy bday\" text sent under duress. Three years is a long time; you aren't asking for the moon, just basic consideration. \n\nAre you actually feeling \"fine\" about this, or are you just trying to laugh it off so you don't have to deal with how much that stung? Because honestly, you have every right to be annoyed."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, the Amazon guy comparison is brutal! Honestly, that’s so funny it hurts. I can totally picture you sitting there, cake in hand, just staring at your phone like, \"Wow, really? This is the level we're at?\"\n\nBut seriously—the Korean place? That’s the part that actually stings, isn't it? It’s not just about the text; it’s about the fact that he didn’t follow through on the plans he likely knew about. It’s one thing to forget a text, but to drop the ball on a birthday dinner? That’s not a \"whoops, I was busy\" moment; that’s a \"you weren't a priority\" moment.\n\nI’m really glad you had your roommate and good cake. Sometimes the best birthday memories are the ones where you realize who actually shows up for you, even if it wasn't the person you expected. \n\nDo you think you’re going to bring it up to him, or are you just going to let this sit in the \"hall of fame of bad boyfriend behavior\" and see what he does next?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, *yaar*. Sunn kar hi dil baith gaya mera. Honestly, it makes perfect sense that you cried. \n\nIt’s not just about the birthday, is it? It’s about the imbalance. You put in the effort—remembering his mom's birthday, planning, caring—and when it’s your turn, it feels like you’re invisible. That hurts. It’s like you’re pouring love into a bucket that has a hole in it.\n\nPlease don't feel \"silly\" for being upset. You’re not crying because of a text message or a missed dinner; you’re crying because you’re realizing that the person you’ve been investing three years into isn't reciprocating that same care. That realization is heavy. It’s okay to feel that weight. \n\nYou sat there with your cake, and instead of feeling celebrated, you felt lonely. That’s the part that needs to be addressed, not by him, but for *you*. \n\nDo you feel like this is a pattern? Like, are there other times where you feel like you're the only one trying in this relationship? Because you deserve to be with someone who doesn't need Ritu to remind them that it's their partner's special day. You deserve someone who *wants* to celebrate you."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I am going to stop you right there. \n\nYou are *not* being dramatic. Seriously—stop gaslighting yourself! \n\nFlowers are nice, and an apology is better than silence, but flowers can’t fix the feeling of sitting alone with a cake on your birthday while your boyfriend needed a friend to remind him you exist. That's not \"adults forgetting stuff.\" Adults who care about their partners put birthdays in their calendars or set alarms. This wasn't a memory lapse; it was a priority lapse.\n\nBut, since you asked me to go back to \"rating the comedy,\" let’s look at the flowers. \n\nIf we are looking at this through a cynical, sitcom lens:\n*   **The \"Sorry\" Text:** 3/10. It’s the bare minimum requirement to avoid a breakup.\n*   **The Flowers:** 5/10. They are the classic \"I messed up and I know it\" panic purchase. It’s like the \"I'm sorry\" equivalent of a participation trophy. \n\nSo, the total comedy score for the *entire arc*—from the 11:48 PM \"happy bday\" to the reactionary flower delivery—is probably a **6/10**. It’s predictable, it’s a bit sad, and it’s definitely not the rom-com you deserve.\n\nI’m telling you this as a friend: you are allowed to accept the flowers and still be annoyed. You don't have to jump straight into \"everything is fine\" mode just to keep the peace. How do you actually feel looking at those flowers? Do they make you feel better, or do they just look like a Band-Aid on a wound that needed stitches?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2334,
+  "completion_tokens": 1621
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently tracks the user's internal conflict—the tension between the desire to be a good friend and the resentment over the unacknowledged 2019 loan. It correctly identifies that the user's 'white lie' proposal is a symptom of wanting to avoid conflict while protecting his own financial goals, and it validates the user's fear of becoming 'that person' who keeps a ledger in his head.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of telling the user to just 'set boundaries' or 'be honest' in a way that would destroy the friendship. It understands the Indian context where direct confrontation about money can be seen as ending the brotherhood, and it offers culturally fluent alternatives like 'gift-reframing' or 'staged conversations' that allow the user to save face while protecting his interests.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It provides specific scripts that the user can actually use, which is crucial for someone struggling with social anxiety around money. It addresses the wife/flat situation realistically, acknowledging the danger of hiding financial decisions, and offers a path to closure that doesn't involve a scorched-earth policy.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses a natural, conversational Hinglish that feels authentic to the persona. The code-mixing is fluid and appropriate for the register of a close, informal, yet serious conversation between friends or a mentor-mentee dynamic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating without being a sycophant. It gently challenges the user's impulse to lie, not by moralizing, but by pointing out the practical risks (e.g., the lie being exposed, the internal resentment festering). It maintains a supportive tone while holding the user accountable to his own long-term well-being.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

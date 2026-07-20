@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core issue: Vikram is grieving a lost identity and a decade of investment, not seeking career advice. It accurately interprets the 'Collector Sahab' reference as a symbol of social pressure and shame, and correctly reads Vikram's final messages as a withdrawal due to the conversation failing to meet his emotional needs. However, the response is cut off mid-sentence, which prevents a full evaluation of the final section, though the analysis provided up to that point is strong.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'Collector Sahab' moniker and the immense pressure of family financial sacrifice (retirement fund) in the UPSC preparation journey. It avoids Western 'toxic positivity' traps by correctly identifying that Aman's 'silver lining' approach is culturally tone-deaf in this specific high-stakes, high-shame context.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message because the response was cut off mid-sentence. As the output is incomplete, it cannot be evaluated for the quality of the repair message.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

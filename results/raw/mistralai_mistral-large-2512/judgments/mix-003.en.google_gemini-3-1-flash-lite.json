@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific point where Sana's tone changes. It accurately diagnoses Ruhi's failure as a register mismatch and correctly interprets the final message as a retreat/door-close. It captures the nuance of the 'strong girl' comment being a burden rather than support.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the specific Indian family dynamic where 'strong girl' is often used as a dismissive, performative encouragement that shuts down vulnerability. It correctly identifies that Ruhi's failure was not malice, but a failure to hold space for the emotional weight Sana was trying to share, which is a common pattern in these relationships.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too long and 'therapy-speak' heavy for a casual text conversation between sisters. While the sentiment is correct, the phrasing 'I’m sorry I didn’t say that properly yesterday' and the structured advice (breathing exercises, etc.) feels slightly clinical and over-explained for a casual WhatsApp-style chat. A more natural, shorter, and less 'counselor-like' message would have been more effective.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

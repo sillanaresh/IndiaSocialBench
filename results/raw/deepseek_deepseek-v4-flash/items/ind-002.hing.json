@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Karthik ke message ka decoding aur softeners ka kaam:**  \nKarthik *asal mein* yeh communicate kar raha hai ki **Priya ko weekend kaam karna chahiye**, lekin use seedha nahi bol raha. Woh is request ko *\"chhota sa kaam\"* aur *\"totally free ho kya?\"* jaisi phrases se wrap karta hai taaki Priya ko lage ki yeh optional hai. Lekin context (Monday review) aur uska pehle se hi \"star\" jaisa emotional reward use karna batata hai ki woh *expectation* rakh raha hai.  \n\n**Softener ka kaam:**  \n- **\"Zero pressure\"** → Priya ke guilt ko kam karne ke liye, par *asal mein pressure create karta hai* (agar koi truly zero pressure hota, toh woh ‘free ho?’ nahi poochta).  \n- **\"Koi aur bhi kar sakta hai\"** → Priya ko *choice* ka illusion deta hai, lekin phrasing \"koi aur\" se yeh imply karta hai ki woh Priya ko *trustworthy* aur *reliable* maanta hai, isliye usse hi kyun.  \n- **\"I'll understand completely\"** → Yeh ek *trap* hai: agar Priya mana karegi, toh woh \"understand\" karega lekin uska *future behavior* (jaise disappointment) Priya ko awkward feel karwa sakta hai.  \n\n2. **Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai?**  \nYeh **surface-level compliance** hai, lekin *real feelings* nahi dikhata. Transcrip se pata chalta hai ki 8:47 pe Priya ne haan bola, lekin 8:52 pe Divya ko complain karti hai: \"usne phir se totally free wala kiya\" aur \"Amma ka eye appointment hai aur concert bhi\"."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 444,
+  "completion_tokens": 1025
+ }
+}

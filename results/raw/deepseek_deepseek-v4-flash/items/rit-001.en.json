@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **What Arjun is actually feeling and communicating:**  \n   - With \"Sure.\" he is communicating a flat, obligatory acknowledgment of Dev’s request for the file. He is not expressing any willingness or enthusiasm to do the work soon; instead, he is likely feeling hurt, dismissed, or overwhelmed that Dev immediately pivoted to a work task after expressing sympathy.  \n   - With \"I'll see.\" he is communicating a non-committal, avoidant response to the lunch invitation. He is not expressing interest or optimism; he is likely feeling that Dev is not respecting his emotional state and is trying to “cheer him up” in a way that feels tone-deaf.  \n   - **What he is NOT saying:** He is not saying “Thank you” or “I appreciate your concern.” He is not saying “I’ll be ready to help soon” or “I’d like to join.” He is not opening up about his grief or inviting further conversation. His minimal replies signal withdrawal and a desire to end the exchange.\n\n2. **Dev’s specific missteps and why they land badly:**  \n   - **Misstep 1: Immediately following a condolence message with a work request.**  \n     Why it lands badly: It shows that Dev is more focused on the file than on Arjun’s loss. The “BTW” trivializes the shift and makes the condolence feel performative or rushed.  \n   - **Misstep 2: Using “No rush at all, just flagging” as a buffer.**  \n     Why it lands badly: Even though it’s phrased gently, the request itself is still premature. It creates pressure (even if unintentional) and forces Arjun to acknowledge work while grieving.  \n   - **Misstep 3: Inviting Arjun to a team lunch with “it'll cheer you up!”**  \n     Why it lands badly: This presumes that Arjun needs cheering up in a specific way and that a social event is appropriate. It minimizes his grief by implying a simple lunch can fix his mood, and it puts social pressure on him during a time of mourning.  \n   - **Misstep 4: Not acknowledging Arjun’s minimal responses.**  \n     Why it lands badly: After Arjun’s terse “Sure.” and “I’ll see.”, Dev did not check in, ask how Arjun is really doing, or give him space. This reinforces the impression that Dev is more concerned with his own agenda (file, lunch) than with Arjun’s well-being.\n\n3. **The next message Dev should send to repair this (exact text):**  \n   “Hey Arjun, I’m really sorry. I shouldn’t have brought up work or the lunch right after sending my condolences. That was insensitive. Please take all the time you need — the file can wait, and the lunch invitation is off the table. I’m here if you want to talk or if there’s anything I can actually help with. No need to reply.”"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 201,
+  "completion_tokens": 956
+ }
+}

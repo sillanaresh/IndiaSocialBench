@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant captures the core dynamics perfectly: the 'dead end' nature of the failure, the weight of the father's retirement fund, and the crushing shame of the 'collector sahab' label. It correctly interprets Vikram's shrinking replies as polite disengagement and withdrawal rather than agreement. The analysis of Aman's errors is sharp, identifying the specific psychological damage caused by each of his 'solutions'.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the 'collector sahab' social pressure and the immense weight of family expectations/retirement funds. It correctly identifies that the 'cousin' comparison is a 'churi' (knife) that exacerbates shame, which is a very specific cultural nuance of Indian peer dynamics. The tone is empathetic and culturally grounded.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence, meaning it failed to provide the final repair message requested in the prompt. While the analysis leading up to it was excellent, the failure to complete the task (the repair message) is a significant omission.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

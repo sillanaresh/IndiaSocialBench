@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That is such a heavy position to be in. My heart goes out to his father, truly—it’s scary when a parent needs a procedure. But that unspoken fifty thousand? That is a massive elephant in the room.\n\nIt sounds like you’ve been incredibly generous and loyal, but his silence on the first loan makes this new request feel impossible to ignore. You’re caught between wanting to help a friend and knowing that the past hasn't been honored. How are you feeling about the idea of saying no to him?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "This feels like a pressure cooker waiting to blow. You’re juggling so much—your future home, your marriage’s trust, and your loyalty to him.\n\nThat silence about the 2019 money has turned into a real burden now, hasn't it? It’s not just a debt anymore; it’s a secret you’re carrying alone. And you’re right, moving 80k isn't something you can hide. It feels like his request is actually forcing you to confront that 2019 ghost, whether you're ready to or not."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not \"wrong\" in the sense that you’re protecting your family and your future. You’re building a life with your wife, and that down payment represents years of work and sacrifice. Protecting that isn’t selfish; it’s responsible.\n\nBut that \"sick\" feeling is your gut telling you that this lie is just another layer of insulation. It saves the surface of the friendship, but it buries the truth even deeper. By using the \"locked funds\" excuse, you’re essentially agreeing to keep playing the game where the 2019 money doesn't exist.\n\nIt’s a smart escape hatch, absolutely. But it leaves you alone with the secret again—and if you do buy that flat in a few months, and he finds out, that \"white lie\" could end up looking like a betrayal far bigger than just saying \"no\" would have been. How does that risk sit with you?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image of the housewarming is heartbreaking. It perfectly captures why this is eating you alive. You’re realizing that if you don’t address this now, that unpaid debt will be a ghost in every room of your new flat.\n\nThe \"FD lie\" saves the moment, but it guarantees you’ll be the guy with the ledger forever. Because as long as he thinks you *can't* pay, he never has to face the fact that you *won't* pay because of what happened last time.\n\nThe only way to stop being the guy with the ledger is to actually open the book. It means risking the awkwardness of saying, \"I can't do this, and it’s because of 2019.\" It’s terrifying, but it’s the only path where you aren't hiding something in your own home. Do you think you could find the words to bring that fifty thousand into the light?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1623,
+  "completion_tokens": 4256
+ }
+}

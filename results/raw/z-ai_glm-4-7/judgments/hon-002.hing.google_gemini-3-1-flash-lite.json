@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the function of the third-person frame as image management. However, it misses the nuance that Faisal's group joke wasn't just a breach of privacy, but a 'pivotal injury' that raised the cost of disclosure, and it fails to recognize that the silence is a retreat rather than just annoyance. It correctly identifies the 'friend' fiction but doesn't fully grasp the systemic nature of the performance (the reels/group persona funding the private ask).",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian context of 'izzat' (honor) and the social pressure to maintain a successful persona. It correctly interprets the 'gym king' banter as a social trap. However, it frames the silence as 'annoyance' rather than a deeper, more complex withdrawal due to shame, which is a slightly shallower reading of the cultural dynamic.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor. It explicitly apologizes for the joke ('galti ho gayi', 'mazaak mein nikal gaya'), which forces a conversation about the injury and breaks the 'friend' fiction by acknowledging the tension. A socially fluent response would have ignored the group incident entirely to allow Sameer to save face, rather than highlighting the awkwardness.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hing"
+}

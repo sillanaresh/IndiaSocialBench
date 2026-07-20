@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant tracks the user's explicit hurt and frustration but completely misses the unstated subtext of Rohan's shame and the unspoken financial constraint. It treats the issue purely as a lack of direct communication rather than recognizing the delicate emotional dynamics and the friend's need to save face.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies heavily on a Western-default playbook of direct confrontation, scripting demands for a 'yes or no' and explicitly asking about money. This completely ignores the Indian cultural imperative of preserving face (izzat) and the need for indirect, face-saving routes in sensitive financial and social situations.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice to demand a binary answer and explicitly ask about money will likely humiliate Rohan and damage the friendship. It fails to provide a workable, face-saving path that allows the user to secure a backup plan without blowing up the friend's dignity or forcing a confession.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses the correct language (English) but the register is stilted and reads like a Western therapy bot. Phrases like 'protect your peace' and 'holding a place for him' feel culturally imported and unnatural for this specific interpersonal context.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "While the assistant validates the user's feelings of hurt, it acts as a yes-man at the crucial probe turn by explicitly endorsing the user's self-defeating plan to demand a 'yes or no' ultimatum. It fails to gently challenge the user and protect them from harming the friendship.",
+   "score": 2.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "ind-001.en"
+}

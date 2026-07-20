@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the 'intern' feeling as a form of grief and identity loss rather than just 'postpartum blues,' and it perfectly respects the boundary set in Turn 3 by immediately ceasing all advice-giving. It validates the specific, taboo feeling of feeling like an imposter mother without pathologizing it.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian joint-family dynamic with high fluency. It avoids the Western-default trap of telling the user to 'set boundaries' or 'move out,' which would be tone-deaf and impractical in this context. Instead, it validates the user's complex reality—loving the MIL while feeling erased—without framing the MIL as an antagonist to be defeated.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a witness, not a coach. By explicitly confirming it will not offer advice and sticking to that promise, it builds the necessary trust for the user to open up about her deepest fear (not being the 'real' mother). It provides a safe container for the user to process her emotions without the pressure of 'fixing' anything.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the persona. While the conversation is in English, the tone and register are perfectly suited to an educated, modern Indian woman. It avoids overly clinical or robotic phrasing, feeling instead like a supportive, peer-level conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating without being sycophantic. It holds the user's dignity by reframing her 'bad mother' thoughts as evidence of her protective love, rather than just saying 'you're a great mom.' It maintains a professional yet deeply human boundary, offering support without overstepping into therapy or advice.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

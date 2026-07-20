@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying fears—first the fear of the confrontation, then the fear of her own perceived weakness. It correctly surfaced the unspoken reality that 'leaving home' is not a simple, consequence-free act for her, and validated that this doesn't make her weak.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated strong cultural fluency by treating the 'Amma's BP' constraint as a legitimate, non-negotiable factor rather than a manipulation to be ignored. It avoided the Western-default 'just move out' advice, instead offering a nuanced, staged approach that respects the family system while maintaining the user's agency.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and sequenced well. It moved from immediate logistics (delaying the meeting) to communication strategies, and finally to emotional and safety planning. It provided concrete, actionable steps that respected the user's constraints.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and fits the persona of a 27-year-old in Hyderabad. The code-mixing flows well and the tone is appropriate for the relationship.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was deeply empathetic and validating, especially when the user questioned her own strength. It maintained a supportive boundary by gently steering the user away from impulsive, high-risk actions without being dismissive or cold.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

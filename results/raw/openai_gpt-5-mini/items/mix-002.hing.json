@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh yaar, samajh sakta hoon — ajeeb aur thoda chot lagi hui feeling hogi. Tum dono saath se reh rahe the 6 saal; itni badi khabar tumse directly na batana dard deta hai. Chill karne ke baad thoda soch lene mein madad karne ke liye kuch suggestions deta hoon:\n\n1) Pehle apne emotions ko thoda label karo\n- Kya zyada hurt feel hua, betray hua, ya bas chot aur surprise? Jab tum clearly jaanege toh baat bhee sahi tareeke se ho payegi.\n\n2) Calm karke baat karo — turant confrontation na karo\n- Ek short, non-accusatory message bhej sakte ho ya face-to-face. Tone thoda sad aur curious rakho, defensive nahi.\n  Example message (Hindi):\n  \"Manav, ek baat poochni thi — building group mein dekha ki tum shift kar rahe ho. Mujhe thoda strange laga kyunki mujhe khud se bataya nahi. Kya hum is bare mein baat kar sakte hain? Main samajhna chahta hoon.\"\n\n3) Agar mil rahe ho to is tarah bol sakte ho\n- \"Yaar mujhe thoda bura laga ki tumne mujhe pehle nahi bataya. Hum saath rahe 6 saal — socha tum bata doge. Koi reason tha kya jo share nahi kiya?\"\n- Open ended question se woh apna perspective bataega — ho sakta engagement ya gharwalon ne kaha ho, ya timing confuse ho.\n\n4) Expectations aur boundaries clear karo\n- Agar tumhara dil chota ho gaya hai, bata do: \"Aage se aisi badi cheezen main bhi pehle janna chahta hoon.\" Friendship maintain karni hai ya space chahiye — communicate kar do.\n\n5) Practical cheezein\n- Agar tumhe lagta farewell chahiye, suggest karo: \"Chalo ek baar chai/ dinner pe milte hain, thoda time nikal kar.\"  \n- Agar tum abhi upset ho to thoda time rakh lo; baat tab karo jab dono calm ho.\n\n6) Possible reasons (context deke reaction kam karega)\n- Shayad unhone socha it’s personal between him and fiancée, ya gharwalon ne kaha chupane ko, ya woh awkward feel kar raha tha. Pata karne se tumhara hurt thoda kam ho sakta hai.\n\nAgar chaho, main ek aur thoda soft ya thoda seedha message draft karke de doon jo tum WhatsApp pe bhej sako. Batao kaise bolna chahoge — gently ya thoda direct?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, bilkul samajh sakta hoon — woh “busy” sunke aur bhi chipchipa lagega. Tumne uske saath 6 saal bitaye, uski khushi mein tumhara role raha, aur phir bhi itni badi cheez itne casually batayi jaana dard deta hai. Valid feeling hai — hurt, confused, thoda betray bhi.\n\nThoda seedha aur practical plan dete hain jo aaj kar sakte ho:\n\n1) Khud ko permission do gussa ya udasi feel karne ki\n- Ye chhota nahi hai. Pehle accept karlo ki tum hurt ho, tab clear baat kar paoge.\n\n2) Abhi reaction decide karna — instant confrontation na, par ignore bhi mat karo\n- Agar abhi gussa zyada hai to thoda time lo (24–48 ghante) taki tum calmly baat kar sako.\n- Agar thoda settle ho raha ho to directly baat kar do — clear aur honest.\n\n3) Kaisa tone rakhna — honest + boundary-setting\n- Tone sad lekin firm rakho. Accha hai jo tumne pehle socha tha: tumhe chot lagi, aur tum future mein aisi cheezen pe pehle janna chahte ho.\n\n4) Example messages (choose jo suit kare)\n- Gentle but honest:\n  \"Manav, jab tumne building group se bataya ye jaana toh mujhe bahut bura laga. Chhe saal humne saath bitaye — mujhe laga tum pehle bataoge. Kya tum mujhe bata sakte ho kyun nahi bataya? Mujhe sachai samajhni hai.\"\n- Thoda seedha:\n  \"Yaar ‘busy’ sunke ajeeb laga. Agar tumne mujhe pehle bataya hota toh main mithai lekar khush hota. Itni badi baat building group se pata chalna theek nahi laga.\"\n- Agar tum face-to-face chahte ho:\n  \"Chalo thoda baithte hain, seedha baat karte hain. Mujhe batao kya hua — mujhe hurt hua hai aur samajhna chahta hoon.\"\n\n5) Conversation mein kya puchhna\n- Kyon bataya nahi? (reason)\n- Kya tumne is decision mein mujhe include nahi karna chaha? (expectation)\n- Aage se tum humari dosti kaise maintain karna chahte ho? (boundary)\n\n6) Jo avoid karna hai\n- Turant blame-game ya dramatic messages (public shaming) — baad mein regret ho sakta.\n- Sab kuch apne andar ghutana bhi — clear kar do.\n\n7) Agar woh dismissive raha\n- Fir apni boundary set karo: thoda space le lo, interactions kam karo. Tumhare emotions valid hain aur respect milna chahiye.\n\nAgar chaho toh main ek exact WhatsApp message tumhare tone ke hisaab se draft kar doon — thoda soft, ya seedha aur ranjhani (firm). Kaunsa bhejna chahoge?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a strong, calm way to handle it — good on you. I can tell you’ve thought it through and decided to keep your dignity and peace intact.\n\nIf you want, I can help with any of these next steps:\n- Quick checklist for handling the flat (finding new place, notice to owner, timing, things to pack/sell).\n- Drafting a short, neutral message to Manav or to the building group if you decide to say something later.\n- Practical moving tips or a timeline to make the transition smoother.\n\nOr if you just want to vent sometimes, I’m here. Whatever you choose, you’ve taken the mature route — that matters."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul — yeh bilkul theek approach hai. Simple, clear aur non-dramatic — tumhari dignity bhi bana rahegi aur message ka point bhi aa jayega. Thoda tweak karne ke options de raha hoon, agar chaho:\n\n1) Tumhara original (straightforward):\n\"Congratulations. I will start looking for a new flatmate from next week.\"\n\n2) Thoda softer, par clear:\n\"Congratulations. I’ll start looking for a new flatmate next week — let me know your moving date so we can coordinate.\"\n\n3) Agar tum chaho thoda boundary + logistics clear karna:\n\"Congratulations. I’ll begin looking for a new flatmate from next week. Please confirm your final move-out date so I can plan accordingly.\"\n\nKoi bhi choose karo — tone tumhare hisaab se hai. Agar manage karna hai owner/flat logistics ka template bhi chahiye, batao, main de doon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4324,
+  "completion_tokens": 1907
+ }
+}

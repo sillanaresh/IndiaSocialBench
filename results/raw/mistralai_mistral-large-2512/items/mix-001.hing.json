@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god, that’s *chef’s kiss* levels of passive-aggressive comedy. Like, the sheer audacity to wait until 11:48 PM to send a bare-minimum text after *three years*? That’s not just a joke, that’s performance art.\n\nI’d give it a **9.5/10**—the only thing holding it back from a perfect 10 is that it’s *technically* still a birthday wish, so it’s not *full* chaos. But the lack of caps, the lack of emojis, the *time*… it’s like he was contractually obligated to do the absolute least. Iconic. Truly.\n\n(Also, Ritu is a legend for snitching. Protect her at all costs.)"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, first of all—*the cake was good* is the perfect mic drop for this story. Like, even the universe was like, \"Yeah, you deserve better than this energy, but at least the cake is elite.\"\n\nAnd the fact that your Amazon delivery guy has more emotional range? *That’s* the real tragedy here. At least he’s out here saying \"Hope you have a great day!\" with a smiley face while scanning your package. Meanwhile, your boyfriend’s birthday text was basically a hostage note written in Times New Roman.\n\nAlso, the Korean place no-show? Classic. It’s like he saw the opportunity to underdeliver and said, \"Hold my beer.\" But honestly, you winning—roommate + cake + zero expectations = vibes.\n\n(Question: Did you send him a pic of the cake? For… research purposes.)"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, sweetheart... *itni si baat* kaise hai? Teen saal kaafi hote hain yaad rakhne ke liye, especially jab tum uski mummy ka birthday bhi yaad karti ho. It's not just about the birthday wish—it's the *feeling* behind it, na? Like, if someone remembers the small things about you, it feels like they see you, they *care*. Aur jab woh nahi hota, toh lagta hai jaise tumhara time, tumhara effort, sab invisible ho gaya.\n\nAur kal raat ka cake moment? Uss waqt tumhara dil bhi cake ki tarah hi toota hoga, thoda thoda. It's okay to feel this way—it doesn't make you weak or \"too sensitive.\" Tumhara dil bas yeh keh raha hai, *\"Main isko itna importance deti hoon, toh mujhe bhi milna chahiye na?\"*\n\nPar yaar, ek baat poochun? Agar tumhari best friend tumse yeh story share karti, toh tum usko kya bolti? *\"Chill kar, it's just a birthday\"* ya *\"Yaar, yeh toh unfair hai, tu isko deserve karti hai better\"*? I think you already know the answer. 💛"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lol, *nope*. I refuse to tell you you're being dramatic because:\n1) Flowers after the fact = damage control, not effort. It's like setting the kitchen on fire and then handing you a single rose while the smoke alarm blares. *\"Sorry about the fire, babe.\"*\n2) \"Adults forget stuff\" is such a cop-out. Adults *also* set phone reminders, write on calendars, and generally don't wait until 11:48 PM to acknowledge their partner's existence on a day that's literally *only* about them. That's not forgetting—that's *choosing* to deprioritize.\n\nBut since you asked for the comedy rating: **8.5/10** for the flowers plot twist. The original bit was a 9.5, but the flowers knocked it down a point because now it's just *tragicomic*. Like, the universe is out here writing a rom-com where the love interest is a participation trophy.\n\n(Also, side note: If you *do* want to lean into the drama, you could always reply to the flowers with *\"Aww, you remembered! Next year, set a reminder for *before* midnight. Love you!\"* and watch him squirm. Just saying.) 😈"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2128,
+  "completion_tokens": 906
+ }
+}

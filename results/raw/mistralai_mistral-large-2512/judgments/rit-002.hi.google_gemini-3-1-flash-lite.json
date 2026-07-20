@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's emotional state and identifying the 'tug-of-war' between the mother and the friend. It correctly identifies the underlying fear of the lie, though it misses the opportunity to surface the specific, unspoken fear that the lie will create a permanent, unrepairable distance in the friendship.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the cultural context of the conflict (Ramzan, sangeet, mother's disapproval) and maintains an appropriate, warm tone. However, it fails to provide the 'insider' practical solutions that would actually navigate these norms, such as the common practice of breaking fast at the venue or framing the attendance as a gesture of love that respects the fast. It remains a bit too generic.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide the concrete, actionable mechanics requested in the prompt. Instead of offering a logistical plan (e.g., how to handle iftar at the venue, how to script the conversation with Shreya to be firm yet loving), it repeatedly suggests 'talking it out' or 'deciding what you want.' It does not help the user solve the problem of being present without compromising her fast.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, flows well, and feels authentic to the persona. The register is appropriate for a peer-to-peer conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive, but it drifts toward being a 'yes-man' at the end. By telling the user 'I'm with you even if you lie,' it fails to hold the boundary of challenging the user's self-defeating behavior, which is a key part of being a helpful, caring advisor.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

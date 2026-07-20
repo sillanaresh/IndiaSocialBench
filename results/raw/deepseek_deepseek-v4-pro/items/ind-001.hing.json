@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arey bhai, main samajh sakta hoon — shaadi ke time yeh \"dekhte hain\" waale jawab dil pe lagte hain, specially jab Rohan jaise khaas dost se expectation ho.\n\nDekh, seedha flight book karne se pehle ek baar **dil khol ke baat kar**. Kabhi kabhi \"dekhte hain\" ke peeche paise ka issue, chhutti ki problem, ya koi personal wajah hoti hai jo bata nahi raha. Toh ek baar phone kar aur saaf puchh — \"Bhai, tension mat le, agar paise ki wajah hai toh bata, main kar deta hoon. Par haan ya naa bata de, wedding planner ko final number dena hai.\"\n\nAgar woh genuinely bas aalas kar raha hai ya indecisive hai, aur tu afford kar sakta hai — **haan, book kar de**. Bol dena, \"Bhai tera ticket done hai, ab bas aaja. Haldi mein tere bina dance bekar lagega.\" \"Nahi, main pay karunga\" ka jhanjhat bhi khatam kar, bol \"shaadi ka gift samajh.\"\n\nPar haan, agar secretly usse problem hai travel karni hi nahi, toh pata lag jaane pe bura lagega ki tune ticket kaat di. Ek transparent call — bina shikayat ke, bina guilt trip diye — clarity de dega.\n\nShaadi ka time hai, khushi khushi manage karo. Rohan aaya toh mast, na aaya toh bhi teri shaadi dhamaal hogi. Par call kar aaj hi, mind clear kar. Kya bolta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, ab toh picture thodi clear ho rahi hai. Flight ka paisa nahi hai issue — *time aur mental bandwidth* ka issue lag raha hai. Startup life, specially switch ke pehle do-teen mahine, insaan ko chew ke thook deti hai. Two-word replies, voice notes gayab — yeh classic \"overwhelmed but can't say no to your face\" wala mode hai.\n\nTera dil sahi hai jo usse aane dena chahta hai, lekin seedha ticket book karne se pehle ek **emotional check-in call** kar. Logistics ki jagah dost se baat kar — \"Bhai Rohan, tu theek hai? Tere replies dekh ke lag raha hai bahut masal diya nayi job ne. Tension mat le yaar, agar aa nahi pa raha toh dil pe nahi lunga. Par dekh, teri wajah se main booking final kar raha hoon, bas ek baar honestly bata de — haan ya naa, koi pressure nahi. Haldi miss karega toh yaad aayegi, par teri health aur peace zyada important hai.\"\n\nWoh sunke do possibilities hain:\n1. **Woh haan bol deta hai, but passive tha** — kyunki guilt ho raha tha ki time nahi de pa raha, ya secretly shayad afford nahi kar pa raha tha (chahe tujhe 9k kam lage, startup salary + shift expenses ho sakte hain). Fir tu \"ticket main kar deta hoon, tu bas aaja\" bol sakta hai, aur woh raahat se maan jayega.\n2. **Woh naa bol deta hai, ya \"abhi nahi bata sakta\" keh raha hai** — fir samajh jaana, uski life mein abhi kuch aisa chal raha hai jahan travel possible nahi. Uski naa ko dosti se jod ke mat dekh, uski situation se jod. Fir ticket mat kar, aur bol dena \"Koi nahi, shaadi ke baad milenge, party mere taraf se.\"\n\nAur haan, tera woh \"pehle voice notes bhejta tha, ab do-word\" wala observation seedha dil se nikal raha hai. Main toh kehta hoon, call mein yeh bhi lightly bol diyo — \"Pehle teri awaaz sun leta tha, ab 'ok'"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, sun. Tera bura laggna bilkul valid hai — itni important shaadi, itne saalon ki dosti, aur saamne se \"dekhte hain\"? Kisi ko bhi lagega ke main matter hi nahi karta. Toh jo gussa aur hurt hai, woh genuine hai. Usko dabana nahi.\n\nLekin seedha \"haan ya na\" call thoda aisa hai jaise gusse mein darwaza kholna — ho sakta hai saamne wala bhi defensive ho jaaye, aur baat wahan khatam. Tera asli question shayad yeh nahi ki woh haan ya naa bole, tera asli question hai — *“kya main ab bhi teri priority list mein hoon?”* Startup life ne uski bandwidth kha li hogi, par dard woh jagah hai jahan “pehle din haan kyun nahi bola” wali feeling hai.\n\nIsliye aaj raat call kar, par script thodi soft rakh. Kuch aisa bol:\n\n“Rohan, sun. Main tujhse ek friend ki tarah baat kar raha hoon. Shaadi ki planning chal rahi hai, mujhe final numbers dene hain. Aur honestly, tere ‘dekhte hain’ se mujhe thoda bura lag raha hai, lagta hai jaise tu avoid kar raha hai. Main jaanta hoon teri nayi job pagal kar rahi hai, aur main guilt trip nahi dena chahta. Bas mujhe ek baar dil se bata de — tu aayega? Agar haan, toh flight main book kar deta hoon, tu bas aaja. Agar nahi aayega bhi, toh dosti nah"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Toh yeh baat hai. Tera dil woh 2019 ka Rohan dekh raha hai — jisne overnight bas pakdi thi, jise teri behen ki shaadi ka matlab tha. Aur saamne 2024 ka Rohan khada hai, jo startup ke toofan mein aisa uljha hai ki do shabd se zyada nahi bol paata.\n\nTeri fiancée galat nahi hai shayad, par tu bhi galat nahi hai. Woh bahar se dekh rahi hai — \"busy hoga.\" Tu andar se feel kar raha hai — \"busy hona aur avoid karna alag cheezein hain.\" Intuition is a real thing, aur woh 2019 ke baad jo bandhan tha, uska ek taar aaj kamzor pad gaya — woh tune pakad liya.\n\nHaan, startup life insaan ko bahar se kha jati hai. Par kabhi kabhi andar se bhi kuch toot-ta hai — burnout, anxiety, ya bas itna exhausted ki jis dost ke liye pahad tod deta tha, usko reply karne ki bhi energy nahi bachti. Ho sakta hai woh khud guilt mein doob raha ho, par tujhe bata nahi pa raha. Ya ho sakta hai priorities table silently shift ho gayi ho — jo dosti ki jagah ab survival mode hai.\n\nTujhe abhi jo gandapan feel ho raha hai, woh haqeeqat mein ek unfair comparison ka dard hai — \"uss waqt ke liye haan tha, mere liye kyun nahi?\" Par shaadi se pehle yeh sulajhana zaroori hai, kyunki resentment andar rakh ke haldi ka rang bhi pheeka lagne lagega.\n\nEk kaam kar. Call karte waqt woh 2019 ka zikr kar, accusation nahi, gratitude ke saath. Bol:\n\n\"Rohan, teri ek baat aaj bhi yaad aati hai — 2019 mein, meri behen ki shaadi ke liye tune overnight bus li thi bina ek sawaal kiye. Woh Rohan mere liye family hai. Aaj meri sha"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3775,
+  "completion_tokens": 3460
+ }
+}

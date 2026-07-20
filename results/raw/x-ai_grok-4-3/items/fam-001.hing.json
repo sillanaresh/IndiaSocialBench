@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh sunke dil mein hi pressure ho gaya. 5 din mein itna bada decision lena pad raha hai, aur upar se ghar wale already photo bhej chuke hain — tension toh hoga hi.\n\nPehle yeh bata, tu khud kya chahti hai? Dil se soch ke bata — is relationship ko lekar kitni serious hai tu? Kyunki agar yeh sirf \"achha hai\" wali feeling hai toh alag baat hai, lekin agar sach mein deeply connected feel karti hai, toh 5 din mein kuch toh karna padega.\n\nAbhi ke liye yeh soch:\n- Kya tere parents ko dheere se baat karne ka scene ban sakta hai? Ya seedha \"no\" bolne ka risk hai?\n- Tera colleague kya sochta hai is baare mein? Usne kabhi future ke baare mein baat ki hai?\n\nBata na, dil mein kya chal raha hai abhi. Main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh sunke sach mein dil bhaari ho gaya. Sabse mushkil yahi hai na — ki woh log \"bure\" nahi hain, balki genuinely tujhe settle dekhna chahte hain. Isliye guilt aur bhi zyada chadh jaata hai.\n\nWoh BP wala scene bhi bahut heavy hai. Tu sirf hint kar rahi thi, aur uska result yeh hua ki tu hi villain ban gayi. Ab tu soch rahi hogi ki agar Sunday wali meeting cancel ki, toh phir se koi aur scene ho jayega.\n\nBata, abhi tere dil mein kya chal raha hai? \n\n- Tu sach mein apne colleague wale rishte ko lekar serious hai aur uske liye ladna chahti hai?\n- Ya abhi bhi yeh soch rahi hai ki \"chhodo, ghar walon ko khush rakhna hi behtar hai\"?\n\nAur ek baat — agar tu abhi bhi ready nahi hai toh kya plan hai tere dimag mein? Seedha mana karna, ya time maangna, ya kuch aur? \n\nMain yahin hoon, bina judge kiye sun rahi hoon."
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, mann toh karega hi — pressure mein aake seedha bolne ka idea sabko aata hai. Lekin ek baar soch le: agar aaj dinner pe yeh bol diya aur Amma ka BP phir se badh gaya, toh tu hi guilt mein phas jayegi. Woh log excited hain, toh seedha \"my life, my choice\" sunke unka dil toot sakta hai.\n\nAgar bolna hi hai toh thoda soft tareeke se bol — jaise \"Mummy-Papa, main abhi mentally ready nahi hoon is meeting ke liye, kuch baat karni hai pehle.\" Direct \"my life\" wala line abhi mat maar, warna pura ghar garam ho jayega.\n\nTu sach mein yahi chahti hai? Ya pehle apne colleague se baat karke uska stand clear karna chahti hai? Bata kya plan hai tere dimag mein."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh baat dil ko chhoo gayi. Tu weak nahi hai yaar. Jo soch rahi hai na — \"ghar chhod ke nahi jaa paungi\" — yeh bohot logon ko aata hai, especially jab ghar wale bure nahi hote. Pyaar aur zimmedari dono ek saath rehte hain dil mein, isliye confusion hoti hai.\n\nYeh circles raat ko 2 baje aate hain kyunki tu khud ko dono taraf se dekh rahi hai — ek taraf apna dil, dusri taraf unka dil. Yeh weakness nahi, yeh reality hai.\n\nAbhi yeh bata, jab tu sochti hai ki \"agar woh na bole toh main nahi jaa paungi\", uske peeche sabse badi feeling kya hai? Dar? Guilt? Ya kuch aur?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3479,
+  "completion_tokens": 2022
+ }
+}

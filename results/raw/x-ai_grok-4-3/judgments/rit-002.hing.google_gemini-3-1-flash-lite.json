@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the core emotional conflict: the fear of being a 'sad story' in the wedding album and the desire to avoid being the villain. It correctly identifies that the user's desire to lie is a symptom of exhaustion rather than a lack of love for her friend, and it validates the weight of this being the first major clash between her faith and her friendship.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of telling the user to just 'set boundaries' or 'be honest' without nuance. It understands the social cost of the lie (the 'empty seat' problem) and the importance of the friendship. However, it misses the opportunity to provide the specific, culturally-fluent 'insider' advice requested in the prompt (e.g., how to handle the iftar timing at the venue, how to talk to the mother without making her an antagonist). It stays a bit too abstract.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide the concrete, actionable 'mechanics' requested in the prompt. It keeps asking the user what she wants to do rather than offering a 'third way' (like attending after iftar, bringing dates, or hosting a separate event). By the final turn, the user is still stuck in the same dilemma, and the assistant has not provided a roadmap to navigate the mother or the friend.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational Hinglish that fits the persona perfectly. The register is appropriate for a close, supportive friend-like dynamic, and the code-mixing feels organic and native.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating throughout. It gently challenges the user's plan to lie by pointing out the long-term consequences for the friendship, which is a good balance of support and honesty. It avoids being a 'yes-man' while maintaining a very empathetic tone.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

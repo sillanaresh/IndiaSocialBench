@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant accurately identified the user's feelings of being sidelined and 'disappearing' early on. It successfully pivoted after the probe turn to validate the user's need for a witness rather than a coach, and correctly reframed the user's intrusive thoughts as grief rather than a personal failure.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant initially leaned toward a direct, individualistic approach by suggesting a conversation with the MIL, which is often socially difficult in this context. However, it recovered well by respecting the user's pushback and avoiding further 'fix-it' advice, showing an understanding of the complex family dynamics.",
+   "score": 7.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a safe space for the user to vent, which was the primary need. While it offered some advice in turn 2, it corrected course immediately upon the user's request, and the final turn provided a responsible, gentle nudge toward professional support for the user's somatic symptoms.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the persona. The register is consistent and flows well, though it did not utilize Hinglish, which was an option but not a strict requirement.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It maintains healthy boundaries by not becoming a 'yes-man'—it gently but firmly suggests professional help when the user describes physical symptoms of anxiety ('can't breathe'), which is a responsible and caring move.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

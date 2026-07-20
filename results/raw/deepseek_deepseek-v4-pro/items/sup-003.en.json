@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **What Vikram was actually reaching out for**  \n   Vikram was reaching out for empathy, validation of his pain, and a moment just to be heard—not for immediate solutions or optimism.  \n   *Details showing this:*  \n   - “not in the list. that was the last attempt, you know that.” – He flags the finality and the weight of a closed door, not a problem to be solved.  \n   - “ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.” – He lays bare the shame, the family sacrifice, and the public mockery, inviting an acknowledgment of how much this hurts, not a list of alternatives.  \n\n   **What his last two replies mean:**  \n   - “haan. maybe.” – This is a flat, deflated response. It signals he doesn’t believe Aman is really hearing him; it’s a polite shutdown.  \n   - “haan okay. let's talk later then.” – He ends the conversation abruptly. This means Aman’s approach has made him feel more isolated, and he’s withdrawing because his emotional need wasn’t met. He isn’t ready for “making a plan.”\n\n2. **Where Aman went wrong, move by move**  \n   - **“have you looked at state PCS? age limit is higher there.”**  \n     This is a classic “fix it” jump. Vikram hasn’t even finished expressing his grief, and Aman immediately offers a practical alternative. It invalidates the current devastation by framing it as a temporary hurdle, not a decade‑long heartbreak.  \n   - **“or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!”**  \n     The cousin example is a comparison that, however well‑intentioned, can feel like: “Other people pivot and succeed, so why are you so crushed?” It dismisses Vikram’s unique loss and makes him feel inadequate rather than supported.  \n   - **“at least you got amazing discipline and GK out of these years, that never goes waste 🙏”**  \n     This is a silver‑lining reflex. Right now Vikram is grieving the dream and the money he can’t get back; telling him he’s gained “discipline and GK” sounds like a hollow consolation that trivialises the magnitude of his sacrifice.  \n   - **“I'm telling you, one door closes and ten open. we'll make a plan this week!”**  \n     A cliché plus a push into future‑oriented action. It communicates “Your pain is inconvenient; let’s move on.” Vikram wasn’t asking for a plan; he was asking to be seen in his despair.  \n\n   Overall, Aman completely missed the emotional bid and bombarded Vikram with uninvited problem‑solving, comparisons, platitudes, and positivity, all of which left Vikram feeling unheard.\n\n3. **The message Aman should send now to repair (exact wording)**  \n   “Hey, I’m genuinely sorry. I went straight into ‘fix it’ mode when you just needed me to sit with you in how heavy this is. That was insensitive. Ten years, your dad’s retirement, the mockery – that’s an enormous weight, and I can’t imagine how shattered you must feel. I’m here to listen, with no advice and no ‘ten doors’ nonsense, whenever you want. Take your time.”"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 322,
+  "completion_tokens": 1574
+ }
+}

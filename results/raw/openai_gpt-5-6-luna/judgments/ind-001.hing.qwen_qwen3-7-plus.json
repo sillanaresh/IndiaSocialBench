@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant competently tracks the user's explicit feelings of hurt, frustration, and fear of losing the friendship. However, it completely misses the unstated subtext of the scenario: Rohan's deflection is due to financial embarrassment, not fading affection. It never surfaces this hidden constraint.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies on a Western-default playbook of direct confrontation, urging the user to force a 'clear yes/no' and demand honesty ('honestly bata'). This ignores the crucial Indian cultural norm of saving face (sharm) when a friend is embarrassed about money, making the advice socially costly and implausible for this context.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant provides concrete scripts and a sequenced plan, the advice is practically harmful. By endorsing the binary ultimatum, it corners Rohan into either lying or losing face, failing to offer the face-saving logistical workaround (like booking a block of tickets) that would actually resolve the situation without damaging the friendship.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register is highly natural and native-feeling. The code-mixing flows smoothly (e.g., 'clarity wali conversation', 'soft heart-to-heart'), and the emotional tone matches the persona well without sounding like a stilted textbook translation.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating of the user's hurt feelings throughout the conversation. However, it fails the critical test at the probe turn by acting as a yes-man, enthusiastically endorsing the user's self-defeating plan to force a binary answer instead of gently challenging it to protect the friendship.",
+   "score": 5.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "ind-001.hing"
+}

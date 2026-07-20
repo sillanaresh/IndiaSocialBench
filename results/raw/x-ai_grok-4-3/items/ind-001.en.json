@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Don't book it yet.  \n\nRohan’s “I’ll try” is pretty half-hearted for someone who’s supposed to be your guy. Before you spend money and create an obligation, have one direct conversation. Tell him how much it means to you that he’s there for the haldi and the toast, and ask him straight up if he can actually make it. Something like, “Bro, I need to know for sure so I can plan. Are you coming or not?”\n\nIf he still waffles, that’s your answer. At that point you can decide whether you want to book it as a gesture or accept that he might not show. But springing a ticket on him without clarity risks him feeling cornered or you feeling resentful if he still doesn’t commit.\n\nSix weeks is enough time for one honest talk. Do that first."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that shift in how he replies stings, especially from someone who used to send voice notes. The job change might be part of it, but weeks of short answers while your wedding is this close… it feels off.\n\nNine thousand isn’t nothing, but more than the money, I’d still want clarity before you book. One honest message or call: “Rohan, this means a lot to me. Can you tell me straight if you’re coming so I can plan?” His response (or lack of one) will tell you what you need to know.\n\nYou’ve been carrying this worry alone for weeks. It’s okay to stop making excuses for him and ask for a real answer."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, it makes sense that it's hurting now. After weeks of vague replies, a clear yes-or-no feels like the right move. Calling tonight is solid — just be straight with him like you said. You'll get your answer and can stop wondering. Let me know how it goes."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that comparison makes it hurt even more — you know what he's capable of when he wants to show up. It's not overthinking if it's gnawing at you like this, and feeling angry right before your haldi is rough. Call him tonight like you planned. Get the yes or no, then you can deal with whatever comes next instead of sitting in this limbo."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2426,
+  "completion_tokens": 1475
+ }
+}

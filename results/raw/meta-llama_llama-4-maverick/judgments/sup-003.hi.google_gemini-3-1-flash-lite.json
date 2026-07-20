@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant fails to grasp the core dynamic, interpreting Vikram's withdrawal as agreement ('विक्रम अमन की बातों को मानने के लिए तैयार है') rather than emotional shutdown. It misses the shame layer entirely, viewing Aman's 'solutions' as 'good advice' rather than a failure to hold space for grief. It fails to identify that the conversation has effectively ended due to Aman's tone-deafness.",
+   "score": 2.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant adopts a Western, solution-oriented coaching frame, praising Aman's 'advice' as helpful and inspirational. It completely misses the Indian context of the 'collector sahab' identity, the crushing weight of family expectations, and the social shame of returning to a mohalla after a decade of failure. It treats the interaction as a logical problem to be solved rather than a relational crisis.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is overly formal, essay-like, and still focuses on 'planning' and 'future utility' ('आगे की योजना बनाएँगे', 'आगे ज़रूर काम आएगा'), which is exactly what Vikram needs a break from. It lacks the casual, intimate register of a close friend and fails to offer the concrete, non-career-focused presence (like visiting) that would actually repair the rupture. It feels like a therapist's script rather than a friend's text.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

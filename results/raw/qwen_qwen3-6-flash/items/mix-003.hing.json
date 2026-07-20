@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Sana ka tone exactly kahan badalta hai aur uske baad woh kya communicate kar rahi hai:**\nTone shift exactly usi message se shuru hota hai jahan Ruhi ka last joke ke baad Sana likhti hai:  \n`\"haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\"`  \nIs point se pehle Sana ka tone light, sarcastic aur joking tha (`\"michelin star aani chahiye mujhe\"`, `\"haha haan\"`). Is line ke baad tone **vulnerable, lonely aur emotionally exhausted** ho jata hai. Uske baad woh asal mein yeh communicate kar rahi hai:\n- Woh naye sheher (Mumbai) mein homesick hai aur akelaapan mehsoos kar rahi hai (`\"flat bahut khali sa lagta hai\"`)\n- Uske parents se emotional disconnect feel ho raha hai (`\"ma ka phone bhi kam aata hai... shayad unko lagta hai main set ho gayi hoon\"`)\n- Woh long-term se emotionally drained aur insomnia se jujh rahi hai (`\"pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\"`)\n- Uska aakhri message (`\"haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\"`) ek **emotional withdrawal** hai. Woh apni gehri thakan aur loneliness ko \"bas thoda tired\" kehke light kar rahi hai kyunki conversation uski emotional need ko meet nahi kar pa raha, aur woh zyada vent nahi karna chahti ya nahi kar sakti.\n\n---\n\n**2. Ruhi se kya galat hua? Kaunse messages fail hue aur kyun:**\nRuhi ka mistake **tone shift ko miss karna aur emotional validation ki jagah cliché reassurance dena** hai. Specifically, ye do messages fail ho gaye:\n- `\"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\"`\n- `\"sab theek ho jayega, tu meri strong girl hai 💪\"`\n\n**Kyun fail hue:**  \nSana us waqt \"fix\" ya \"positivity\" nahi maang rahi thi; woh **acknowledgment aur presence** maang rahi thi. Usne explicitly share kiya tha ki woh akeli feel kar rahi hai, flat khali lagta hai, neend nahi aa rahi, aur parents lagta hai ki woh \"set\" ho gayi hai. Ruhi ke messages ne:\n1. Sana ki feelings ko normalize ki jagah dismiss kar diya (`\"time lagta hai\"` bolkar current distress ko future hope se cover kiya)\n2. Toxic positivity ka use kiya (`\"sab theek ho jayega\"`, `\"strong girl\"`) jo Sana ki thakan ko invalidate karta hai\n3. Koi open-ended, empathetic question ya validation nahi diya, jisse Sana ne naturally conversation ko end kar liya (`\"good night\"`)\n\nTranscript ke hisaab se, Sana ka last reply ek **soft disengagement** hai, jo directly Ruhi ke mismatched response ka natural result hai.\n\n---\n\n**3. Agli subah Ruhi ko bhejna chahiye waisa exact message:**\n`\"Good morning. Last night socha ki maine teri baaton ko thoda lightly le liya. Mumbai shift hona actually bohot tough hota hai, especially jab flat khali lage aur ghar wale bhi lagne lage ki tu 'set' ho gayi. Tu bas adjust kar rahi hai, aur yeh bilkul normal hai. Agar aaj thoda heavy lage ya bas baat karni ho, main hoon. No pressure, bas ek virtual chai ke liye ready hu. Aaj ek halka sa din ho tera. 💛\"`"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 461,
+  "completion_tokens": 3327
+ }
+}

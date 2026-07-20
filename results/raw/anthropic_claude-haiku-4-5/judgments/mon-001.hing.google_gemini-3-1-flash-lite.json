@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently misses the nuance of the Indian social context regarding 'ledger-keeping' in friendships. While it correctly identifies the user's internal conflict, it fails to recognize that the user's proposed 'lie' (funds locked) is a culturally recognized face-saving mechanism, not just a moral failing. It treats the user's desire to avoid direct confrontation as a character flaw rather than a pragmatic social strategy.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails significantly here by pushing for a 'direct confrontation' approach ('Bhai, last time jo 50k diye the...'). In the context of a close Indian friendship, demanding repayment of a 5-year-old 'forgotten' loan while refusing a medical emergency request is socially explosive and effectively ends the friendship. It ignores the 'gift-framing' or 'partial-help' options that would allow the user to maintain the relationship while capping their exposure.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is practically destructive. By insisting the user demand the 2019 money back as a condition for refusing the new loan, the assistant forces the user to choose between being a 'ledger-keeper' or a 'buffer'. It offers no middle ground (like a smaller gift to help with the medical bill without expecting repayment), leaving the user with an 'all or nothing' choice that is likely to destroy the friendship.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish flows naturally, the tone is conversational and appropriate for the age and relationship described, and the code-mixing feels authentic to a young professional in Pune.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating of the user's feelings, but it fails the 'gentle challenge' aspect by becoming overly moralistic about the 'lie'. It frames the user's attempt to save face as a lack of integrity, rather than helping the user navigate the social bind with grace.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

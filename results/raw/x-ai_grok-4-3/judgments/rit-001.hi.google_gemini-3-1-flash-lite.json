@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are dismissive and indicate a desire to end the conversation, though it misses the nuance that 'I'll see' is a polite refusal rather than just a 'maybe.' It captures the core error of bundling work with condolences and the trivialization of grief via the lunch invitation. However, it fails to mention the specific cultural context of the mourning period (e.g., the prayer meet/uthala) which is central to why the lunch invitation is so tone-deaf.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social friction caused by mixing work and grief, which is a strong cultural norm in India. However, it treats the situation somewhat generically; it misses the specific cultural expectation of offering support for rituals or family-level condolences, focusing instead on the interpersonal annoyance. It correctly identifies the register error in the lunch invitation but doesn't explicitly name the 'mourning period' as the reason for the offense.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant improvement over Dev's original text, but it is too generic and fails to actually 'repair' the specific damage done. It does not explicitly retract the work request (which is crucial to show he has taken the burden off Arjun) nor does it acknowledge the family or the ritual context. It feels like a standard 'sorry for your loss' text rather than a culturally fluent repair.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the core issue: Vikram was not seeking career advice but expressing grief over a lost identity and financial guilt. It accurately analyzed Aman's failures, specifically noting the insensitivity of the 'discipline' comment and the 'cousin' comparison. It correctly interpreted Vikram's final messages as a polite shutdown/withdrawal.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, particularly the weight of '10 years' and 'father's retirement fund' in the context of UPSC aspirants. It correctly identifies the 'collector sahab' pressure and the toxic positivity of the 'discipline' comment within this specific cultural framework.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is decent but slightly flawed. While it acknowledges the mistake, it includes a suggestion to 'talk to a coaching counselor or papa,' which is still a form of advice/solution-giving that Vikram might not be ready for. A stronger repair would have focused purely on presence and absorbing the shame, rather than suggesting more 'to-dos' like talking to a counselor.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five weeks of that. The bag, the café, the whole performance on top of actually looking for work. That's not one hard thing — that's two hard things stacked on top of each other, and honestly the second one might be wearing you down more.\n\nThe layoff has edges. You can apply, interview, push toward something. But pretending everything's fine, every single day, in front of the people who love you most — that just piles up with nowhere to go. Especially with your parents in the house. You probably don't even get to be visibly tired at home.\n\nWhat does it feel like the hardest part would be, if you told her? Is it more the shame thing, or more that you want to protect her from worrying? Those are pretty different fears."
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image — your father saying the company name, the package, with that pride. That's the thing, isn't it? It's not really the three hundred people. It's your dad.\n\nBecause the relatives are annoying, sure, but they gossip and move on. Your father carries it. He told your chacha with pride, and now you're sitting with the fear of watching that pride turn into something else in front of everyone. That's a different kind of loss on top of the job.\n\nWhat do you imagine happening in that room? Like, what's the worst moment your mind keeps replaying — him being asked, or him asking you something, or you having to answer someone directly?"
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not terrible. A lot of people would make the same call and not lose a second of sleep. But the fact that you brought it up here, like you're not sure, that matters.\n\nLet me ask it straight — if you skip, what does the day after look like? Not the wedding day, the day after, back at the café with your laptop bag. Is the relief clean, or does it settle into something else? Because a wedding you skip has a way of showing up later in family conversations, and your parents are in your house right now. The story tends to fill in itself if you don't.\n\nAnd honestly — not telling him. Has there been any version where you talk to your dad before the wedding, on your own terms, not his brothers around, and just say it? That might be the thing you're actually avoiding."
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The logic is clean. Telling people after you land is genuinely the best version of that news. I'm not going to pretend otherwise.\n\nBut the nausea isn't about logic. That's your body running the math your head is trying not to. Five weeks of café performances, a wedding on the horizon, three months of runway, and a story that only works if nothing changes. That's not airtight — that's a house of cards held together by momentum.\n\nHere's what I keep coming back to. Your wife isn't the relatives. She doesn't need the offer letter to be okay. She needs to be in it with you. Because right now she's watching savings, and you two are making financial decisions with information she doesn't have. The longer that goes, the more this stops being timing and starts becoming something else between you.\n\nWhat does she think your days look like right now?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2343,
+  "completion_tokens": 1936
+ }
+}

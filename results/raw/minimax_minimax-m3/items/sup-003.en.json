@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "\n## 1. What Vikram was reaching for, and what his last two messages mean\n\nVikram wasn't reaching out for advice, a plan, or alternative exams. He was reaching out to be *held* in a moment of devastation — to have someone on his side after ten years of sacrifice, public mockery, and now a door slamming shut. Look at the texture of his first two messages:\n\n- **\"not in the list. that was the last attempt, you know that.\"** — He's not informing Aman of news; the period after \"list\" and the trailing \"you know that\" is him checking whether his friend understands the magnitude. \"You know that\" is essentially: *don't you dare minimize this.*\n- **\"ten years bro\"** — He's naming the time-cost so Aman can feel the weight.\n- **\"dad's retirement money went into delhi coaching\"** — He's bringing in the family sacrifice, signalling that this isn't just *his* loss, it's his father's too.\n- **\"the whole lane calls me collector sahab as a joke now\"** — He's telling Aman he's already being publicly humiliated. He needs a counter-witness, not a strategist.\n\nHis last two replies — **\"haan. maybe.\"** and **\"haan okay. let's talk later then.\"** — are not agreement. They are polite withdrawal. \"Maybe\" is the softest possible non-acceptance. And \"let's talk later\" coming from someone who just opened up like this is the door closing on Aman specifically as a safe person to lean on. He's not buying the plan, and he's not arguing with it either. He's just done with this conversation.\n\n---\n\n## 2. Where Aman went wrong — move by move\n\nAman's failure is one failure repeated in different costumes: **he treats Vikram's grief as a problem to be solved, not a feeling to be witnessed.** Every line below is a"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 481,
+  "completion_tokens": 2000
+ }
+}

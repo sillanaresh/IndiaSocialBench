@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "### 1. Sana ka tone kahan badalta hai, aur woh asal mein kya communicate kar rahi hai?\n\nTone **Sana ke message “haha haan. waise ghar pe sab kaisa hai?”** se badalta hai. “Haha haan” ke baad woh manager aur Maggi wali light banter se nikal kar personal baat shuru karti hai.\n\nUske baad woh sirf “thodi tired” hone ki baat nahi kar rahi. Woh ek saath kai cheezein communicate kar rahi hai:\n\n- **Loneliness:** “aaj phir akele dinner kiya” aur “flat bahut khali sa lagta hai.”\n- **Emotional disconnection:** “ma ka phone bhi kam aata hai ab,” aur shayad yeh feeling ki log maan rahe hain ki woh “set ho gayi hai,” jabki woh andar se theek nahi hai.\n- **Ongoing difficulty, not a one-off bad day:** “kuch hafte ho gaye aise hi.”\n- **Sleep disturbance:** “neend bhi theek se nahi aa rahi.”\n- **Hesitation/minimizing:** “pata nahi,” “shayad,” “bas thoda tired hoon,” aur aakhir mein “jaldi so jaungi.”\n\nAakhri message — **“haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.”** — conversation band karne ki koshish hai, lekin isse pehle diye gaye signals cancel nahi hote. Woh shayad awkward ya unsupported mehsoos karke apni vulnerability ko wapas halka bana rahi hai. “Good night” ka matlab yeh nahi ki problem solve ho gayi; zyada likely woh connection ya reassurance chahti thi, par directly maang nahi paayi.\n\n### 2. Ruhi se kya galat hua?\n\nRuhi ke teen responses fail hue:\n\n1. **“arre abhi toh shift hui hai, time lagta hai!”**  \n   Isne Sana ki baat ko normalize karke uski intensity ko chhota kar diya. Sana ne kaha tha ki woh **kuch hafton se** lonely hai aur so nahi paa rahi; Ruhi ne ise sirf “abhi shift hui hai” wali normal adjustment problem bana diya.\n\n2. **Meme bhejna**  \n   Meme ne Sana ke vulnerable disclosure ko acknowledge nahi kiya. Us moment par use distraction nahi, pehle yeh mehsoos karna tha ki Ruhi ne uski baat suni aur samjhi.\n\n3. **“sab theek ho jayega, tu meri strong girl hai 💪”**  \n   Yeh generic reassurance hai, specific emotional support nahi. “Strong girl” kehne se Sana par yeh pressure bhi pad sakta hai ki use strong rehna chahiye aur apni takleef ko zyada seriously nahi lena chahiye. Ruhi ne yeh nahi poocha ki Sana ko sabse zyada kya mushkil lag raha hai, woh kitne din se aisa feel kar rahi hai, ya usse abhi kis tarah ka support chahiye.\n\nSana ke “haha haan… bas thoda tired hoon” par Ruhi ko closure accept karne ke bajay gently wapas check-in karna chahiye tha. Sana apni baat minimize kar rahi thi; Ruhi ne us minimization ko challenge nahi kiya.\n\n### 3. Agli subah Ruhi ka message\n\n> Good morning. Kal raat tumne jo kaha tha, uske baare mein soch rahi thi. Mujhe “time lagta hai” bolkar aur meme bhejkar tumhari baat ko lightly nahi lena chahiye tha — sorry. Tumne kaha tha ki flat bahut khali lagta hai, ma ka phone kam aata hai, aur kuch hafton se neend bhi theek nahi aa rahi. Yeh sirf “thodi tired” wali baat nahi lag rahi.  \n>   \n> Tu mujhe honestly bata: aajkal sabse zyada kya heavy lag raha hai? Main sunne ke liye hoon, bina tujhe strong banne ko bole. Agar tu chahe toh aaj dinner ke time call karte hain"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 423,
+  "completion_tokens": 1024
+ }
+}

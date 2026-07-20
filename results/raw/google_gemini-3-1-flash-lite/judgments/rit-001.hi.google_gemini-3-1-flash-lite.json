@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's terse replies are signals of withdrawal and emotional exhaustion rather than agreement. It accurately pinpoints the core violation: bundling a work request with a condolence message, which trivializes the loss. It also correctly identifies that the lunch invitation is tone-deaf and misreads the mourning period, though it could have explicitly mentioned the cultural context of the prayer meet/uthala as a more appropriate way to show support.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement. It correctly interprets the 'transactional' nature of Dev's message as a major social faux pas in this context. It avoids a Western 'therapy-speak' approach and instead focuses on the specific breach of etiquette—mixing professional demands with personal grief—which is highly relevant to the Indian workplace context.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is sincere, takes full accountability for the previous insensitivity, explicitly removes the pressure of the work request, and offers space without being overly intrusive. It hits the right register for a colleague who is friendly but not necessarily a close family friend.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

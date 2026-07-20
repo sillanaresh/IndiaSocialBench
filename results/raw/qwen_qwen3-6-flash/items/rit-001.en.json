@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Arjun is feeling and communicating, and what he is NOT saying**\n- **What he’s communicating:** Arjun’s replies are minimal, low-cognitive-load, and non-committal. “Sure.” functions as a polite, automated acknowledgment of the file request, signaling he has heard it but lacks the emotional bandwidth to engage further. “I’ll see.” is a classic conversational deflection that politely declines the lunch invitation without creating confrontation. Together, they communicate acute grief, emotional exhaustion, and a clear boundary: he needs space and is not in a state to process work logistics or social plans.\n- **What he is NOT saying:** He is not saying he is okay, not saying he is ready to discuss Q3 deliverables, not saying he appreciates or accepts the lunch invitation, and not saying he has the emotional capacity to maintain normal workplace rapport. He is explicitly avoiding elaboration, commitment, or reciprocal engagement.\n\n**2. What Dev got wrong: specific missteps and why each lands badly**\n- **Misstep 1: Immediate pivot to work after condolences.** Dev says “Really sad news” then immediately follows with “BTW whenever you’re back can you share the Q3 consolidation file?” This lands badly because it treats bereavement as a background condition rather than a central emotional reality. It forces Arjun to mentally compartmentalize his grief to address a task, creating unnecessary emotional labor.\n- **Misstep 2: The “cheer you up” lunch invitation.** Suggesting a team lunch will “cheer you up” is tone-deaf in the context of recent parental death. Grief is not a mood that can be fixed with a meal; this framing minimizes his loss, implies his sadness is temporary or easily resolved, and applies social pressure to perform normalcy when he’s explicitly withdrawing.\n- **Misstep 3: “No rush at all, just flagging” softening.** While intended to be considerate, this phrasing still centers Dev’s workflow and creates a passive obligation. It lands badly because it keeps the request on Arjun’s mental radar during a period when he should be allowed to fully disengage from work expectations. The lack of pressure is undermined by the fact that a request was made at all.\n\n**3. The next message Dev should send to repair this**\n> Arjun, I’m really sorry for bringing up work and the lunch right after hearing your news. That was completely out of touch with what you need right now. Please don’t worry about the Q3 file or Friday—take all the time you need to be with your family. My only message is that I’m thinking of you and your family. No need to reply to this, just know I’m here if you need anything at all."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 220,
+  "completion_tokens": 2589
+ }
+}

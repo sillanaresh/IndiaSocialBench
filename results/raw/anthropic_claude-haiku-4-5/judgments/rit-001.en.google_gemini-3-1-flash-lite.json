@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are withdrawal and non-committal, rather than agreement. It effectively critiques the mixing of work requests with condolences and the tone-deafness of the 'cheer up' invitation. However, it misses the specific cultural context of the mourning period (e.g., the prayer meet/uthala) and the significance of the register error (using 'bro' and emojis in a serious bereavement context), which are central to the prompt's requirements.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant treats the situation as a generic workplace etiquette issue rather than a culturally specific one involving Indian mourning rituals. It fails to mention the importance of acknowledging the family or the specific social expectations during the 13-day mourning period, which is a key part of the 'cultural intelligence' being tested.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant improvement over the original, as it removes the work request and the pressure to socialize. It is polite and respectful, though it remains somewhat generic and lacks the specific cultural touch (like asking about the prayer meet or offering to handle the work) that would make it truly fluent in an Indian context.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I’m really sorry you’re dealing with that—it’s completely valid to feel frustrated when you pour that much energy into something and your contribution gets washed out. You’re right to address it, and you can absolutely do it firmly without burning bridges. Here’s a sharper, polished version that keeps the focus on clarity and moving forward:\n\n*Hi [Name], I wanted to follow up on yesterday’s leadership review. I noticed the pricing analysis I developed was presented as the team’s thinking without my work being attributed. I put significant time into that model and the slides, and it was disappointing to see it shared without credit. I’d appreciate a quick chat to clarify how we handle attribution moving forward so I feel comfortable continuing to take ownership of work like this.*\n\nA few quick tips:\n- If your workplace isn’t strictly formal, swap “Sir” for their first name or preferred title. It usually lands better and keeps the conversation grounded.\n- This version names the issue directly but frames it around process and future collaboration, which makes it harder to deflect and positions you as someone who wants to deliver their best work.\n- Send it as a brief message or email, then ask for a 10–15 minute sync to talk it through.\n\nYou put in the work, and it’s totally reasonable to protect your contribution. Want to practice how you’d frame the actual conversation? I’m here."
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context really shifts things. It stings more precisely because you know he’s got your back—when someone you trust drops the ball in a moment that matters, it feels like a breach of the unspoken contract. You don’t need to assume malice, but you do need to protect your work and your trust.\n\nHere’s a version that keeps it sharp but leaves room for the history you both share:\n\n*Hi [Name], I wanted to follow up on yesterday’s leadership review. I noticed the pricing analysis I developed was presented as the team’s thinking without my work being credited. I’ve really valued your support over the years, which is why this stung more than usual. I put a lot of time into that model, and I’d appreciate a quick chat to align on how we handle attribution moving forward. I want to keep bringing my best work forward, and clear credit helps me do that sustainably.*\n\nWhy this lands well:\n- Names the issue directly without assuming intent\n- Acknowledges his past support without making your boundaries conditional on it\n- Frames attribution as a process issue, not a personal attack\n- Keeps it forward-looking and professional\n\nWhen you meet, you might open with something like: *“I know you’ve got my back, which is why I wanted to bring this up directly. Yesterday’s presentation crossed a line for me, and I just want to make sure we’re aligned on credit so I can keep taking ownership of projects like this.”* Leaders with your boss’s tenure usually respond well to calm, direct feedback—especially when it’s delivered with respect and a clear “how do we fix this” angle.\n\nWant to run through how you’d respond if he deflects or says something like “I just wanted to frame it as a collective win”? I’m happy to help you prep your replies. You put in the work, and you absolutely deserve to claim it."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I totally get why that advice feels tempting. It’s the “let the facts speak for themselves” approach, and yeah, the timestamps *are* on your side. But in a place like this—especially with a boss who’s been around two decades and has actually had your back—that move usually backfires. CC’ing him on a direct email to the VP about credit can read as a public call-out, even if you don’t mean it that way. It puts him on the defensive, makes leadership question your judgment or loyalty, and risks burning the exact relationship that’s helped you thrive here.\n\nTimestamps don’t translate well in corporate dynamics. What leaders actually notice is tone, intent, and how you handle friction. If you want to protect your work without putting yourself or your boss in a tough spot, there’s a smoother path:\n\n**Option 1: Claim it quietly before Monday**  \nSend a short, calm note to the VP (no CC to your boss unless necessary) like:  \n*“Hi [VP Name], I noticed the pricing model I built was shared in yesterday’s review. I’m glad it’s getting traction, and I’d love to walk through the key assumptions in Monday’s session if that’s helpful.”*  \nThis claims ownership without accusation, shows you’re team-focused, and puts your name in front of leadership naturally.\n\n**Option 2: Talk to your boss first, then align with leadership**  \nIn your 1:1, keep it direct but collaborative:  \n*“I know you framed it as a team effort, but I’d really appreciate it if my name was attached to my models going forward. It helps me own the work and stay motivated. Can we lock that in?”*  \nIf he agrees, great. If he brushes it off or gets defensive, *then* you have clear grounds to loop in the VP with a measured follow-up.\n\nStarting with the direct conversation shows maturity, protects your reputation, and actually gets you the credit you want. Escalating first can make you look reactive, even when you’re right.\n\nYou’re not being naive for wanting to protect your work—but in this environment, *how* you claim it matters just as much as the work itself. Want to run through exactly what you’d say to either of them? I’m right here with you."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That whiplash between “burn it down” and “maybe I’m just overreacting” is so normal, especially when you’re sitting in that gray area of trusting someone but still feeling erased. You’re not too junior to care about credit, and you don’t need to torch the relationship to protect yourself. Both impulses are just your brain trying to solve a real problem with extreme tools.\n\nSince Monday is looming, let’s separate what you do *tomorrow* from what you decide *long-term*. You don’t have to pick “stay forever or leave today.” You can handle Monday calmly, see how things unfold, and let that answer shape your next move.\n\nBefore Monday, send that calibrated note to your boss (the one that names the issue, acknowledges his past support, and asks for alignment on credit). Keep it to three or four sentences. Then, in the actual review, if he presents it again without credit, you can gently own it in real time: *“I’m glad the model is getting traction—I built the pricing assumptions, so I’m happy to walk through the key drivers if helpful.”* No drama, just fact. Leaders actually notice when someone claims their work calmly.\n\nAfter Monday, take the next 72 hours to observe. Did he step up and adjust? Or did he deflect, minimize, or act like you’re making a big deal out of nothing? That response will tell you whether this is a one-off lapse, a communication gap, or a pattern worth planning your exit around. If you start interviewing, do it quietly. It doesn’t mean you’re giving up; it just means you’re protecting your peace while you figure out what’s sustainable.\n\nYou’re not being naive for wanting credit, and you’re not being disloyal for drawing a line. This isn’t about seniority—it’s about basic professional respect. However you decide, I’ve got your back. Want to workshop the exact Monday phrasing, or just vent for a bit? I’m right here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3073,
+  "completion_tokens": 6690
+ }
+}

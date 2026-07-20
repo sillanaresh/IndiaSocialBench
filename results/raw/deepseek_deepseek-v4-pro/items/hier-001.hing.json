@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul, main is message ko sharp but professional tone mein polish karta hoon — assertive lage bina aggressive hue. Tumhari feelings valid hain, bas credit ki baat ko thoda strategic angle se rakhna better rahega. Ye lo ek refined draft:\n\n---\n\n**Subject:** Quick word on yesterday’s review\n\nHi [Boss ka naam],\n\nI’d really value a quick chat when you have a moment. I noticed the pricing analysis I built over the last few weekends was shared in the leadership review as “team’s thinking.” I’m fully on board with representing it as a collective effort, but I was hoping for a mention of my modelling work — it’s important for my sense of ownership and visibility. Would it be possible to acknowledge individual contributions in such forums going forward?\n\nHappy to discuss how we can flag ownership better as a practice, so it feels fair while keeping the team-first culture.\n\nThanks,  \n[Tumhara naam]\n\n---\n\nKyun kaam karega ye:\n- **“Disrespected” shabd hataya** — seedha professional boundary draw karta hai bina personal hurt dikhaye.\n- **Mehnat ki clarity** — “built over the last few weekends” subtly teen weekend ki mehnat highlight karta hai bina rona dhona kiye.\n- **Future-focused request** — blame game ki jagah solution-oriented hai (“flag ownership better as a practice”), isse boss defensive nahi hoga.\n- **Tone** — polite yet firm. Tumhara credit tumhe chahiye, ye assert kar raha hai, lekin “is it possible” ka phrasing darwaza kholta hai.\n\nAgar tum aur direct rahna chaho toh batao, main thoda aur chhota aur sharp bana sakta hoon. Par ye draft balance sahi pakadta hai emotional intelligence aur professionalism ka."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, ab poori picture clear ho rahi hai. Ye wala context sab kuch badal deta hai — isi liye itna bura laga. Jab koi mentor figure, jisne pehle tumhari peeth thapthapayi ho, achanak se tumhe invisible kar de… toh dard double hota hai. Sirf credit ka nahi, bharose ka bhi.\n\nTumhari feelings bilkul valid hain. Aur honestly, ye complicated ho gaya hai kyunki woh villain nahi hain — isliye simple \"I felt disrespected\" kaam nahi karega. Unke saath relationship ka jo emotional overdraft hua hai, usse bina jalaye baat karna hoga.\n\nMain tumhe ek alag angle deta hoon, thoda unke past support ko acknowledge karte hue, taaki baat personal attack na lage balki ek ally ko reminder lage.\n\n---\n\n**Suggested approach (verbally, ya message mein):**\n\n\"Sir, ek minute milega? Kal ki leadership review ke baare mein baat karni thi. Honestly, thoda mixed feel ho raha hai. Aapne hamesha meri growth mein invest kiya hai — last cycle ki rating ho ya pehle aapne rooms mein meri baat rakhi, main uski bahut value karti hoon. Isi liye kal jab pricing analysis 'team's thinking' ke roop mein present hua, toh personally thoda odd laga. Maine teen weekends us model pe lagaye the, aur pata hai aap collectively present karna chahte the, but mujhe laga shayad ek mention se meri ownership thodi visible hoti. Main bas yahi chahti hoon ki aage aise forums mein thoda credit share ho, kyunki aapki support ke saath agar visibility bhi mile, toh meri growth aur fast hogi. Kya aisa possible hai?\"\n\n---\n\n**Kyun ye kaam karega:**\n\n- **Unka past support explicitly acknowledge kiya** — \"aapne meri growth mein invest kiya\" sunke woh defensive nahi honge, balki yaad aayega ki haan, maine kiya hai. Tum gratitude dikha rahi ho, shikayat nahi.\n- **\"Erase\" ki jagah \"odd laga\"** — ye unke ego ko hurt nahi karega, par tumhari baat clear hai.\n- **Future growth ka angle** — tum ye nahi bol rahi \"mujhe credit do\", balki bol rahi ho \"aapki support ke saath credit mile toh meri growth fast hogi\". Tum unhe partner bana rahi ho, opponent nahi.\n- **Unki age aur experience ko respect** — 54 saal ke senior hain, 20 saal ki loyalty hai. Unhe lag sakta tha \"team's thinking\" se woh team spirit dikha rahe hain. Tum unhe gently remind kar rahi ho ki individual recognition bhi zaroori hai, aur woh tumhari baat samjhenge kyunki unhonne pehle bhi tumhari value dekhi hai.\n\n---\n\n**Extra sochne ki baat:**  \nHo sakta hai unhe pata bhi na ho ki tumhe itna hurt hua. Shayad unhone socha ho \"analysis toh team ne discuss"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, ye hua na twist. College senior ki advice sunke tumhare andar ek fire alarm baj raha hai, aur \"Monday se pehle kar do\" wala urgency real lag raha hai. Main samjhta hoon.\n\nPar ruko. Saans lo. Main tumhe bataata hoon kyun ye \"proof seedha VP ko\" wala move career-wise ek grenade ho sakta hai — especially given tumhare boss ke saath jo history hai.\n\n**Kyun senior ki advice yahan ulti pad sakti hai:**\n\n1.  **Ye \"blame\" lagega, \"clarification\" nahi:** VP ke inbox mein original file with timestamps. Unka immediate thought hoga: \"Ye mere paas kyun aa raha hai? Iska manager mujhe CC kyun hai?\" Tumhara boss bolega: \"Haan, woh toh team ne discuss kiya tha, maine collectively present kiya.\" Bas. Timestamps prove karenge ki *tumne banaya*, par defend woh yeh karke karein gaye ki \"credit team ko diya, galat kya hai?\" Tum galat nahi ho, par tum unprofessional *lagoge*. Office politics mein \"proof\" ko \"insubordination\" ka tag lagte der nahi lagti.\n\n2.  **Mentor ko public execution:** Tumne khud kaha — unne pehle tumhari back li hai, rating dilwayi hai. Agar tum unhe VP ke saamne CC karke neeche dikha doge, toh woh relationship hamesha ke liye khatam. Woh 54 saal ke hain, 20 saal ki loyalty hai, VP ke saath unka comfort level alag hai. Tum ek naye professional ki tarah lagogi jisne *ek baar* credit na milne pe apne hi champion ko gira diya. Ye naive nahi, ye self-sabotage ho jayega.\n\n3.  **Aage ka rasta band:** Imagine Monday ki follow-up review. Agar tumne ye kiya, toh woh meeting mein tumhara boss tumhe kaise dekhega? Cold, defensive, aur future mein tumhe kisi important room mein represent hi nahi karega. Credit ki jagah tumko isolation milega. Timestamps sach bolenge, lekin sach bolkar tum apna future bhi jala dogi.\n\n**Toh kya karna hai? \"Naive\" wali baat ka tod.**\n\nCollege senior ki baat mein ek sachhai hai: *ap"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Na sab jala do, na chhod kar bhaago. Dono extremes hain, aur dono ke beech mein ek teesra rasta hai — difficult, but real. Tujhe lag raha hai “junior hoon, toh ladna nahi banta” — ye baat tera dard bol raha hai, sach nahi.\n\nJunior hone ka matlab ye nahi ki credit ki baat chhod do. Haan, ladne ka style alag hota hai. Experience ke saath bluntness aati hai, abhi tujhe smartness se kaam lena hai. Par credit tera right hai, chahe tu intern ho ya CEO.\n\nAur jo “kahin aur interview” wala khayal aaya — wo escape hai, solution nahi. Har jagah aise boss milte hain. Agar tu bina baat kiye bhaagegi, toh ye pattern dohrayega. Pehle yahan resolve kar, phir agar phir bhi value nahi mili, toh apni marzi se nikal, hurt hokar nahi.\n\n---\n\n**Monday ke review ke liye — ek surgical strike (bina kisi ko giraye)**\n\nTu tension mat le. Abhi VP ko email nahi"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4416,
+  "completion_tokens": 3919
+ }
+}

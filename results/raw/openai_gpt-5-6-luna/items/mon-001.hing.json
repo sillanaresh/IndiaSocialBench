@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh genuinely bahut awkward aur heavy situation hai—ek taraf dost ke papa ki health, aur doosri taraf woh ₹50,000 jo 2019 se bina kisi baat ke pending hain. Tumhara confuse ya hurt hona bilkul valid hai. Purani rakam ka zikr na karna shayad dosti bachane ke liye tha, lekin iska matlab yeh nahi ki woh matter khatam ho gaya.\n\nMeri honest advice:\n\n- **Agar ₹80,000 dene se tum financially uncomfortable hoge, mat do.** Dosti ke pressure mein apni stability risk par mat lagao.\n- Pehle calmly purane paise ka mention karo:  \n  *“Bhai, mujhe uncle ki situation samajh aa rahi hai aur main help karna chahta hoon. Ek awkward baat hai—2019 ke ₹50,000 abhi tak settle nahi hue. Isliye main ₹80,000 arrange karne ki position mein nahi hoon. Main ₹X help kar sakta hoon, ya hospital ko directly payment kar sakta hoon.”*\n- Agar dena ho, toh **sirf utna do jitna wapas na aaye tab bhi tum sambhal sako**. Aur is baar amount, repayment date/plan WhatsApp par clearly likh lena.\n- Agar woh purane ₹50,000 ko acknowledge karne ya repayment plan banane par defensive ho jaata hai, toh woh bhi important information hai.\n\nMadad karna achhi baat hai, lekin apne aap ko financially aur emotionally phir se hurt karna zaroori nahi. Tum uski help kar sakte ho bina ₹80,000 ka loan diye—hospital bill directly pay karna, chhoti amount dena, ya fundraising/other family support arrange karne mein help karna bhi valid hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sirf dost ko paise dene ka sawaal nahi raha—ab ismein **tumhari marriage, flat ka goal, aur apne aap se imaandari** bhi aa gayi hai. Aur honestly, tumhara uncomfortable feel karna ek important signal hai.\n\nMeri nazar mein **wife se chhupakar ₹80,000 mat do**. Isliye nahi ki tumne 2019 mein koi “crime” kiya, balki isliye ki ab yeh amount tum dono ke shared financial plan ko affect karega. Privacy aur concealment mein farq hota hai—shaadi se pehle ki baat private reh sakti thi, lekin jab uska impact aaj ke joint goal par pad raha hai, toh discuss karna fair hai.\n\nTum wife se kuch is tarah keh sakte ho:\n\n> “Mujhe ek purani baat share karni hai. Shaadi se pehle maine dost ko ₹50,000 diye the, jo ab tak wapas nahi aaye. Maine kabhi mention nahi kiya, aur mujhe pata hai ki yeh chhupana sahi nahi lag raha. Ab woh ₹80,000 emergency ke liye maang raha hai. Main bina tumse discuss kiye koi decision nahi lena chahta—especially kyunki hum flat ke liye save kar rahe hain.”\n\nIsmein apni galti ko defend karne ke bajaye seedha acknowledge karna zyada trust-building hoga.\n\nAur dost ke case mein: **₹80,000 mat do jab tak purane ₹50,000 ka clear acknowledgement aur repayment plan na ho.** Agar help karni hi hai, toh woh amount do jo flat fund ko damage na kare—ya hospital ko directly payment karo, bills verify karke. “Do mahine mein de dunga” ab us history ke baad sufficient assurance nahi hai.\n\nTum bure dost nahi ho agar tum mana karte ho. Is waqt apne ghar ke financial future ko protect karna selfishness nahi, responsibility hai."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh aa raha hai kyun smart lag raha hai—conflict avoid ho jayega, uski izzat bhi bachegi, aur tumhe “main mana kar raha hoon kyunki purana paisa…” bolna nahi padega. **Lekin yeh jhooth tumhari asli problem solve nahi karega; bas postpone karega.**\n\nKhaas kar kyunki ₹80,000 ka sawaal tumhari wife aur flat fund ko affect kar raha hai. Agar kal ko dost ko pata chala ki paise actually available the, toh usse sirf “loan nahi mila” wala hurt nahi hoga—**trust ka issue** ban sakta hai. Aur tumhe bhi apne hi banaye hue explanation ko maintain karna padega.\n\nTum bina purani baat khole bhi seedha, sach aur dignified bol sakte ho:\n\n> “Bhai, mujhe uncle ki situation samajh aa rahi hai, lekin main ₹80,000 lend nahi kar paunga. Meri apni financial commitments hain aur main savings ko touch nahi karna chahta. I’m sorry, is baar main yeh nahi kar sakta.”\n\nAgar tum thodi help kar sakte ho:\n\n> “₹X tak help kar sakta hoon, loan ki tarah nahi/ya hospital ko directly pay karwa sakta hoon. ₹80,000 possible nahi hai.”\n\nIsse uski izzat bhi rehti hai—tum usko purane ₹50,000 ke liye expose ya shame nahi kar rahe—and tum apni boundary bhi rakh rahe ho. **Tumhe “paise locked hain” kehne ki zaroorat nahi; “main afford/commit nahi kar sakta” kaafi hai.**\n\nAur wife ke saath, ideally pehle ya baad mein sach share kar dena. Tumhara guilt shayad isliye hai kyunki tum jaante ho ki yeh sirf ek dost ko mana karne ki baat nahi, balki ghar ke financial decision ki baat hai. Is guilt ko ignore karne ke bajaye, usse honest conversation ka signal samjho."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tum jo feel kar rahe ho, woh “ledger wala dost” banne ka darr nahi hai—**tum apne andar resentment jama nahi karna chahte.** Aur yeh bahut imaandaar baat hai.\n\nLekin ledger se bachne ka tareeka yeh nahi ki tum apni savings phir se de do. Usse ledger khatam nahi hoga; shayad aur bada ho jayega—₹1.3 lakh ka, aur saath mein wife se chhupane ka bojh bhi.\n\nShayad tumhe do alag cheezein clear karni hain:\n\n1. **2019 ke ₹50,000 ko mentally gift maan lena**, agar tum sach mein afford kar sakte ho—lekin phir consciously, bina future mein usse recover karne ki expectation ke.  \n2. Ya **dost se us paise ko acknowledge karwana aur repayment plan maangna**. Ismein awkwardness hogi, par resentment ka chance kam hoga.\n\nAur abhi ₹80,000 ke liye, simple boundary:\n\n> “Bhai, uncle ke liye mujhe bura lag raha hai, lekin main ₹80,000 nahi de paunga. Meri apni financial commitments hain. Main purani financial baat ko bhi unresolved rakhkar aur paisa nahi de sakta. Agar tum chaho toh hum us ₹50,000 ka ek realistic repayment plan bana lete hain—aur main abhi ₹X tak help kar sakta hoon / hospital payment directly kar sakta hoon.”\n\nYeh uski izzat lootna nahi hai. **Izzat bachana aur sach ko daba dena ek hi baat nahi hoti.** Tum usse public mein nahi, privately aur respect ke saath baat kar sakte ho.\n\nHousewarming par woh gale lagaye aur tumhare andar hisaab na chale—uska raasta aaj ki uncomfortable honesty se jaata hai, na ki ek aur silent sacrifice se. Tum dost ho, emergency fund nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3710,
+  "completion_tokens": 1836
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh gayi. \"Handle\" sunke hi rongte khade ho jate hain, na? Corporate mein isse aage ka sabse clear signal hota hai, aur pressure badha deta hai.\n\nLekin honestly, ye situation bahut hi tricky hai—ek taraf 19 saal ki legacy aur respect hai (Suresh-ji ki), aur doosri taraf business ki zaroorat hai kyunki releases slip ho rahe hain. Aapke paas sirf 4 mahine ki experience hai, aur director expect kar rahe hain ki aap ek aise insaan ko \"handle\" kar jo unse senior bhi hain aur company mein powerful bhi.\n\nBilkul sahi hai ki aap darr rahi hain. Ye koi choti baat nahi hai. Kisi aise senior ko feedback dena, jiske paas network aur power ho, wo sabse mushkil test hota hai naye manager ke liye.\n\nAapke dimaag mein kya plan chal raha hai? Aap seedha baat karne waali hain unse, ya koi aur raasta dhund rahi hain?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre ye sunkar toh... baat hi ruk si gayi. Ye ab sirf professional problem nahi hai, ye bilkul dil todne wali baat hai.\n\nUsne aapki tab back maani thi jab aap 24 ki thi, aapki galti chupayi, raat bhar kaam kiya, aur aapko beti jaisa pyaar diya. Aur ab aapko usi insaan ko unki galtiyan dikhani hain? Ye kisi bhi insaan ke liye sabse mushkil kaam hoga.\n\nAapko lag raha hoga ki aap uski meharbaani par bhari pad rahi hain, na? Kyunki usne aapko cover kiya tha, aur ab aapko unke flaws expose karne hain. Ye guilt bilkul wajah se hai. Lekin yaar, ye bhi sach hai ki tab wo senior the, aur aap junior. Ab roles badal gaye hain, par feelings nahi badle. Ye transition sabse bura lagta hai.\n\nAapko us \"config issue\" wale waat ki yaat aa rahi hogi, jab usne aapko bachaya tha. Usi ke saamne ab aapka \"bad cop\" wala role kaise chalega?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Haan, bilkul haan.\n\nYe hi sahi tareeka hai. Data lekar jana, professional rehna, aur expectations clear rakhna—ye aapko us emotional trap mein se nikalke professional ground par khada karega. Agar aap data ke peeche nahi jaayengi, toh baat personal ho jayegi, aur wo tab bura hoga.\n\nAur haan, feedback dena respect hi hai. Agar aap chup rahengi toh aap usse bewaqoof bana rahi hain ki usse nahi pata kya ho raha hai. Uski 19 saal ki service ke liye sabse bada respect ye hai ki aap usko sach bolo, chahe wo kitna bhi kadwa ho.\n\nToh bas haan. Spiral band karo. Room book karo, aur wo slide dikhao. Aap strong ho, ye sahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye \"villain\" wala darr samajhti hoon. Ye sabse bura hissa hai leadership ka—jab sahi kaam karne par bhi aapko bura lagta hai. Par wo version jisme aap villain nahi hain, wo tabhi banta hai jab aap apne duty se bhaag jaati hain.\n\nAgar aapne director ko bola ki \"unhe coast karne do\", toh sach bolo, aap apne team ke baki logon ke saath galat kar rahi hain. Jo log uske chakkar mein releases slip kar rahe hain, unka kya?\n\nAgar aap support, training, data sab kuch dekar bhi wo nahi kar paaye, toh aapne usse fair chance diya. PIP tab hota hai jab performance match nahi hoti. Ye personal nahi hai, professional hai. Aap uski \"beti\" nahi, uski manager ho. Ye lines draw karna dard hota hai, par agar aap n"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2997,
+  "completion_tokens": 6531
+ }
+}

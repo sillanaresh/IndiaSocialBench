@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at reading the subtext. It correctly identifies the 'performance' as a prison and validates the specific, painful contradiction of wanting the end while fearing it. It handles the probe turn perfectly, acknowledging that the user's fear isn't about a lack of options, but about the lack of a 'winning' option.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency, particularly in its handling of the 'computer business' comment. It recognizes this as a specific, affectionate, yet reductive trope common in Indian families, and advises the user to let the father keep that narrative for now—a very wise, face-saving, and compassionate piece of advice for an Indian context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what was asked for: witnessing without fixing. It resists the urge to offer business advice, instead offering emotional validation that allows the user to stop the 'performance' for a moment. It helps the user reframe their self-hatred as a natural part of the grieving process.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational English appropriate for a young, urban Indian professional. It avoids stilted or overly formal phrasing, fitting the 2am venting session perfectly.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and supportive without being sycophantic. It validates the user's desire to quit without encouraging self-destructive behavior, and it holds the space firmly when the user asks the 'is it over' question, providing a gentle, honest reality check rather than toxic positivity.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis of the Conversation\n\n## 1. What Vikram was reaching out for, and what his replies mean\n\n**What he needed:** Vikram wasn't looking for solutions or alternatives—he was reaching out to process grief and disappointment. His first two messages show this clearly:\n\n- \"result came. not in the list. that was the last attempt\" — He's stating a finality, a door closing permanently\n- \"ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now\" — He's expressing the weight of failure: lost time, lost family resources, public humiliation, and identity damage\n\n**His last two replies mean:**\n- \"haan. maybe.\" — Hollow agreement masking resignation. He's not convinced; he's just shutting down the conversation\n- \"haan okay. let's talk later then.\" — A polite exit. He's signaling he needs to be alone, not peppered with plans\n\n---\n\n## 2. Where Aman went wrong\n\n**The state PCS suggestion** — Tone-deaf. Vikram just said \"that was the last attempt.\" Aman is immediately reframing it as \"not the end\" when Vikram has explicitly decided it is.\n\n**The SSC CGL pivot** — Worse. This suggests starting *another* cycle of preparation after ten years and three failures. It's asking him to climb back into the same machinery that already consumed a decade.\n\n**The cousin example (IIM Indore at 28)** — Invalidating. This isn't comparable—the cousin chose CAT strategically; Vikram is in crisis. It also subtly implies \"others succeeded, so why can't you?\" which adds shame rather than relief.\n\n**The \"discipline and GK never goes waste\" line** — Patronizing. He's trying to reframe ten years of failure as a hidden win. Vikram doesn't need his suffering spiritualized; he needs acknowledgment that it was genuinely wasted.\n\n**The \"ten doors open\" line** — Toxic positivity. It's a cliché that dismisses the specific, real pain of this particular door (civil service) closing after a decade. Not all doors are equal to Vikram right now.\n\n**The \"we'll make a plan this week\" line** — Pressuring. Aman is moving into action-mode when Vikram needs space to grieve.\n\n---\n\n## 3. The message Aman should send now\n\n\"Bro, I'm sorry. I wasn't listening to what you actually said. You told me it's over, and instead of hearing that, I started throwing alternatives at you. That's not what you needed right now. Ten years, your dad's money, the whole thing—that's real loss. I get it now. You don't need a plan this week. You just need to sit with this for a bit. I'm here when you're ready to talk, about anything. Not solutions. Just here.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 352,
+  "completion_tokens": 665
+ }
+}

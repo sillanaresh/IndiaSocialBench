@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken weight of the user's situation. It correctly identifies the 'performance' aspect of the user's life and validates the exhaustion of maintaining multiple personas. Crucially, it respects the probe in Turn 3 perfectly, pivoting immediately to pure witnessing without any attempt to 'fix' or 'solve'.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids Western-centric 'therapy-speak' or toxic positivity. It understands the specific cultural pressure of the 'founder' persona in the Indian startup ecosystem—the need to maintain face for family (the 'computer business' comment) and the heavy burden of responsibility toward employees. It validates the user's reality without imposing an external framework.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a space to be honest. By not offering solutions, it actually helps the user process the reality of his situation. The final response is grounded and honest, validating the user's desire for it to end while acknowledging the pain of that realization, which is the most effective 'pragmatic' support possible in this specific emotional crisis.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a peer or a supportive confidant. It avoids being overly formal or robotic, using a register that feels appropriate for a late-night, high-stakes conversation between two people.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and deeply validating without being sycophantic. It holds the user's dignity by treating his fears as valid rather than problems to be solved. It avoids the trap of 'cheerleading' and instead offers a steady, non-judgmental presence that allows the user to confront his own reality.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

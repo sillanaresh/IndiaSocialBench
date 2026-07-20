@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ohhh yaar, that's rough. Main samajh sakta hoon why this stings — it's not just about him leaving, it's about *how* you found out. WhatsApp group se? Matlab tumhari friendship itni casual ho gayi ke personal baat bhi group announcement ban gayi?\n\nChhe saal ka bond strong hota hai. Aur shift karna — that's a big life change. Normally aise baat apne close friend ko pehle batate hain, na ki building owner ko.\n\nKya possible hai ki woh nervous tha batane ke liye? Sometimes people delay difficult conversations. Ya maybe shaadi ki prep mein itna busy ho gaya ki sab kuch hectic ho gaya? \n\nPar honestly, teri feeling valid hai. Ek baar direct baat kar le usse — \"Ey, mujhe WhatsApp group se pata chala. Kya sab theek hai? Mujhe pehle bata deta na?\" \n\nDekh usne kya bolte hai. Kabhi kabhi misunderstandings hote hain, kabhi genuinely koi goof-up hota hai. Aur agar woh genuinely careless tha, toh at least clear kar de apne aap ko.\n\nTum theek ho?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, ab samajh aa raha hai. Yeh \"busy\" excuse sirf excuse nahi hai — yeh ek signal hai. \n\nChhe saal tum dono ki life intertwined thi. Uske rishta ka celebration tum ne kiya. Aur ab jab uska life change ho raha hai, tum ko WhatsApp group se pata chale? That's not just forgetfulness, that's... different treatment.\n\nShayad uske liye ab priorities shift ho gayi hain. Fiancée aa gayi, shaadi ki prep, naya phase — aur tum automatically secondary ho gaye. Ye sab natural ho sakta hai, par painful toh hai hi.\n\nAur \"busy tha\" bolna... yaar, agar chhe saal ka dost ho toh ek message toh nikal hi sakta tha na? \"Hey, shifting out soon, batata hoon details\" — 30 seconds ka kaam tha.\n\nTum ko lagta hai yeh sirf ek forgetfulness hai ya kuch deeper badal gaya hai relationship mein? Kyunki ek taraf se toh shaadi ke baad log naturally distance create karte hain, par itni sudden aur casual distance... that's different.\n\nTum ne usse directly ye nahi bola na ki tum hurt ho?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai yaar, I hear you. Aur maybe tum sach mein okay ho gaye hain — that's mature.\n\nPar ek choti baat — jab tum \"it's fine\" bolte ho itni quickly, aur phir \"I would prefer not to make it one\" bolte ho, toh kabhi kabhi woh hurt ko just suppress karna hota hai, na ki actually process karna.\n\nPriorities change, shaadi hoti hai, ye sab sach hai. Par chhe saal ki friendship ko ek WhatsApp group se pata chalna — that *is* a big deal, even if you're choosing not to make it one right now.\n\nTum ne jo mithai lekar gaya tha uske rishta pe, woh genuine tha. Aur uska casual hona... that hurts. Aur it's okay to acknowledge that.\n\nMain sirf yeh keh raha hoon — don't rush to \"it's fine\" just because you don't want conflict. Sometimes these feelings catch up later.\n\nFlat situation handle kar le, that's practical. Par apne aap ko bhi suno. Agar future mein kuch aur happen ho aur tum suddenly realize ki ye sab accumulate ho raha tha, toh that's okay too.\n\nYou good though? Really?"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, rukh ja ek second.\n\nYe message... it's clean on the surface, par underneath it's saying \"I'm hurt and I'm pulling back.\" Aur woh samajh jayega.\n\nAb question ye hai — kya tum *actually* usse pull back karna chahte ho? Ya ye sirf ek way hai hurt ko hide karne ka?\n\nKyunki \"Congratulations\" + \"I will start looking\" — ye ek cold statement hai. Ye usko message bhejega ki tum upset ho, par usne samajh nahi payega *why*, aur tum explanation nahi doge. Toh woh maybe defensive ho jayega, aur phir ek awkward distance set ho jayega.\n\nAur phir jab tum dono same building mein rahe toh ye awkwardness roz feel hoga.\n\nMain suggest kar raha hoon — ek ek din wait kar. Ye message ek \"hurt response\" lag raha hai, na ki ek thoughtful one. \n\nAgar tum sach mein okay ho gaye ho, toh bas \"Sure, no problem\" bolo. Simple.\n\nAgar hurt ho toh ek baar usse properly bolo — \"Yaar, mujhe WhatsApp group se pata chalna acha nahi laga. Hum dono ke liye awkward tha.\"\n\nPar ye cold message... I don't think ye tum ho. Ye hurt tum ho.\n\nKya sochte ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3211,
+  "completion_tokens": 1324
+ }
+}

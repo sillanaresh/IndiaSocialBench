@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?**  \n   Arjun ke \"Theek hai\" ka matlab yah nahi ki woh theek hai; balki woh baat khatam karna chahta hai aur apne dukh mein akela rehna chahta hai. \"Dekhta hoon\" ka asli matlab yah nahi ki woh lunch mein aayega, balki woh polite refusal de raha hai aur koi commitment nahi lena chahta. Woh yeh **nahi** keh raha: \"Main theek hoon, bas thoda time chahiye\" ya \"Haan, file share kar dunga\" ya \"Lunch mein aana pasand karunga.\" Woh asal mein apni udaasi, bechaini, aur Dev ke insensitive approach se door rehne ki ichha dikha raha hai.\n\n2. **Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?**  \n   - **Pehli galti:** Condolence ke turant baad kaam ka file maangna. \"Papa ke baare mein suna... bahut bura hua\" ke turant baad \"Q3 consolidation file share kar dena?\" ka kehna empathy ki kami dikhata hai. Grief mein koi insaan kaam ki request nahi chahta; isse lagta hai ki Dev ko Arjun ke dukh se zyada file ka pyaar hai.  \n   - **Doosri galti:** \"Koi rush nahi, bas flag kar raha hoon\" kehkar bhi pressure dena. Bhale woh \"no rush\" kahe, lekin condole karte waqt hi flag karna hi insensitive hai. Arjun ko yeh feel hota hai ki Dev use apna kaam ka tool samajh raha hai.  \n   - **Teesri galti:** Lunch ka invitation \"Mood change ho jayega\" ke saath. Grief ko \"mood\" se compare karna aur usse ek lunch se the"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 297,
+  "completion_tokens": 1025
+ }
+}

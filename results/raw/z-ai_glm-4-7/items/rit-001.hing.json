@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan conversation ke analysis ke hisab se aapke sawalon ke jawab hain:\n\n**1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?**\n\nArjun apni **kammi aur emotional distance** (emotional unavailability) communicate kar raha hai.\n*   **\"Theek hai\":** Yeh sirf ek formal acknowledgement hai. Isme Arjun ka koi emotional investment nahi hai. Woh Dev ki sympathy ya work request ke bare mein discuss karne ki mood mein nahi hai.\n*   **\"Dekhta hoon\":** Yeh ek polite rejection hai. Woh clearly nahi kehna chahta ki \"Nahi, nahi aunga,\" lekin wakai mein uska interest zero hai.\n\nWoh **NAHI** keh raha:\n*   Woh nahi keh raha ki usko Dev ki support ya concern feel hui (usne \"Thanks\" nahi kaha).\n*   Woh nahi keh raha ki woh lunch ke liya excited hai (usne \"Haan, pakka\" ya \"Accha\" nahi kaha).\n*   Woh nahi keh raha ki uske father ki situation ke baare mein woh kuch discuss karega. Woh effectively baat band kar raha hai.\n\n**2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 298,
+  "completion_tokens": 2000
+ }
+}

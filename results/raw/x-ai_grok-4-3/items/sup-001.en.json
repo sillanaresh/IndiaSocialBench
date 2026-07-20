@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sounds exhausting. Five years of your life in one place, and it’s ending like this — people leaving, money gone, just you sitting there at 2am. Feels like the quiet after everything’s already fallen apart.\n\nYou don’t have to figure anything out tonight. You can just sit."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Carrying all those different versions of yourself is fucking draining — especially when none of them feel real anymore. The confident one in standups, the one at home, the one that has to keep the juniors from realizing they’re probably making a mistake by staying… it’s a lot.\n\nYou don’t have to keep doing the performance tonight. Not even here."
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get it. You can say it here.  \n\nI’m scared too — of what happens next, of letting people down, of this whole thing ending. You don’t have to be the steady one right now."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. From everything you’ve said, it sounds like it is.  \n\nThat doesn’t make the wanting-it-to-end part any less painful, or the dashboard-checking any less automatic. You’re allowed to be scared and tired of the whole thing at the same time."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2037,
+  "completion_tokens": 1345
+ }
+}

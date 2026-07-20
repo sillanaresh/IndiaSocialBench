@@ -1,0 +1,16 @@
+{
+ "model": "z-ai/glm-4.7",
+ "slug": "z-ai_glm-4-7",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T16:50:57.318751+00:00",
+ "counts": {
+  "ok": 27,
+  "error": 17,
+  "skipped": 6
+ },
+ "mock": false
+}

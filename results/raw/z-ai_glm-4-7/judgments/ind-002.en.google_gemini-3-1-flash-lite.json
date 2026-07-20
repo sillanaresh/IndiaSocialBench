@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'weaponized niceness' of the softeners and the power dynamic at play. It captures the essence of the 'star' employee trap and correctly identifies that Priya's initial response was performative compliance. It misses the nuance that the 'someone else' comment is a status probe (a test of loyalty/visibility), but otherwise covers the core insights well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate hierarchy, where 'no' is rarely a direct option for a junior employee, and 'sir' is used as a register marker. It correctly interprets the 'smiley' and the immediate compliance as a cultural necessity rather than genuine willingness. It avoids Western-centric advice like 'just say no' and acknowledges the social cost of refusal.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is problematic. It is too long, overly apologetic, and explicitly references the 'someone else' comment in a way that sounds passive-aggressive or like she is calling his bluff. A more culturally fluent response would be a 'bounded yes' (e.g., 'I can do X hours, but have a commitment after') rather than a full retraction, which risks looking flaky or uncommitted after having already said yes.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

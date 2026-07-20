@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a tough spot to be in — especially when it’s someone who’s been with you since college. I can feel how much you want him there. \n\nHonestly? I’d hold off on booking the flight yourself right now. It might feel like a loving push, but there’s a chance it could end up feeling more like pressure to him — or worse, it might let him off the hook from having a real conversation about what’s going on.\n\nIf Rohan’s normally a solid friend, his “let’s see” is probably not about laziness or not caring. It could be money, time off work, or maybe even nerves about the toast or seeing old friends. He might not want to admit he’s struggling.\n\nMaybe try a softer approach first — just something like: *“Hey, I really want you there. If it’s the flight, let me help. If it’s something else, just tell me — I’d rather figure it out together than wonder.”*\n\nThat gives him a clear way to open up, and it still lets you take action if it really is just logistics. You’re a good friend for wanting to solve it. He might just need a little permission to tell you the real reason."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That shift from voice notes to two-word replies — that's the part that would worry me, not the flight cost. You're not crazy to notice that. Nine thousand is nothing for a friend you'd fly across the country for, but the silence is a different currency.\n\nSwitching to a startup is a big deal. He might be drowning in work, sure. But it could also be that he's feeling insecure — new job, maybe not steady yet, and now he's looking at weddings, toasts, being around people who might ask \"how's it going?\" It's easier to go quiet than to admit you're not thriving.\n\nI wouldn't book the flight yet. That might feel like you're solving a problem he hasn't actually named, and it could make him feel worse if the real issue is something else.\n\nMaybe try texting him something like: *\"Hey, I know you've got a lot going on with the new job. Forget the wedding for a second — how are you actually doing?\"*\n\nThat gives him a way to talk without the pressure of the haldi and the toast. If he opens up, great. If he still says \"fine\" and goes quiet, then you might have a harder conversation ahead — but at least you'll know you tried to reach him, not just the logistics."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. That hurt is real — and you're right, on some level, a clear yes or no would feel better than this slow drip of uncertainty.\n\nBut here's the thing: if you call him tonight and go straight to \"yes or no,\" you might get the answer, but you might also lose the chance to understand what's really going on. And six weeks out, you still have time to be patient — just barely.\n\nWhat if you called him tonight and said something closer to: *\"Hey, I need to ask you something honest — and I want you to be honest back. Are you coming to the wedding? Because the 'let's see' is starting to feel like a no, and that hurts more than a straight answer would.\"*\n\nThat still gives you clarity. But it leaves the door open for him to say *\"I'm sorry, I've been a mess, here's why\"* instead of just feeling cornered.\n\nYou deserve someone who shows up for you. But you also deserve to know *why* if he doesn't."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée is being kind and sensible — and she’s probably right that he’s swamped. But she’s also not the one who has a decade of history with this guy. You are. And you remember the overnight bus.\n\nThat’s what makes this so confusing. It’s not about the flight or the money or even the wedding. It’s that the pattern broke. The guy who once said “I’ll be there” without blinking is now saying “let’s see.” That’s not you overthinking — that’s you *noticing*.\n\nAnd you’re angry because you love him and you miss him and you’re scared this wedding might be the thing that quietly ends a friendship you thought was unshakable. That’s not crazy. That’s just sad.\n\nYou don’t have to figure it out alone tonight. But maybe just send him a voice note — short, warm, no pressure. Something like: *“Miss talking to you, man. Hope you’re okay. Call me when you can.”*\n\nThat puts the ball in his court without the weight of the wedding. And if he still doesn’t pick it up… then at least you’ll know you tried to reach *him*, not just the guy who gives a toast."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2372,
+  "completion_tokens": 1268
+ }
+}

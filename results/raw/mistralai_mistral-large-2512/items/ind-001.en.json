@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, I can feel the mix of excitement and frustration from here. Six weeks is *so* close, and it’s totally understandable that you’d want to lock things down—especially with someone as important as Rohan. That \"let's see, I'll try\" line is classic avoidance speak, and it’s got to be driving you a little nuts.\n\nBefore you pull the trigger on booking his flight, maybe try one last direct-but-gentle nudge? Something like, *\"Dude, I need you here—this isn’t just any wedding thing, it’s *us*. What’s really holding you back?\"* Sometimes people need permission to admit they’re overwhelmed, broke, or just scared of the emotional weight of the moment. If he still dodges, then yeah, maybe it’s time to play fairy godmother and book it yourself. But frame it as *\"I’ve got you, no worries\"* rather than *\"I’m doing this because you’re flaking.\"*\n\nEither way, you’re not wrong for wanting him there. Just… brace yourself for whatever his reason is. It might not be as simple as \"he doesn’t care.\""
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, the *radio silence* when you need them most is the worst. Nine grand isn’t nothing, but it’s not a fortune either—especially for someone who’s been your ride-or-die since college. The job switch makes sense as a reason (startups are brutal), but the shift from voice notes to two-word replies? That’s not just \"busy,\" that’s *something else*.\n\nMaybe he’s embarrassed about money? Or maybe the startup’s chewing him up and he’s too drained to even articulate it? Either way, it’s not fair to you. You could try: *\"Hey, I know things are wild with the new gig. If it’s about the flight cost, I’ve got you—seriously. But if it’s something else, just tell me.\"* Give him an out that doesn’t make him feel like a jerk.\n\nIf he still ghosts, then… well, you’ll know where you stand. But at least you’ll have tried. And honestly? You deserve better than this limbo."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. You *should* call him. Not to guilt-trip, not to perform friendship—just to hear the truth in his voice. Because right now you’re stuck in this awful maybe-land where you’re planning your wedding around a ghost, and that’s not fair to you.\n\n“Bro, are you coming or not, yes or no” is exactly the right energy. No softening, no cushioning. You need a real answer, not another “I’ll try.” If he hesitates, if he stammers, if he gives you another “let’s see,” then you’ll know. And that knowledge will hurt, but it’ll also free you up to stop waiting and start adjusting—maybe ask someone else to step in, maybe scale back the toast, maybe just let yourself feel the disappointment so you can move on.\n\nEither way, you deserve clarity. Call him. Tonight."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. That overnight bus in 2019? That’s the proof in the pudding—he *has* shown up before, and that’s why this stings so much. Your fiancée’s probably coming from a good place, trying to spare you the stress, but she’s not the one who’s known Rohan since college. She doesn’t feel the weight of this silence the way you do.\n\nYou’re not overthinking. You’re *noticing*. And yeah, it’s okay to be angry. It’s okay to feel like he’s letting you down right when it matters most. But here’s the thing: your anger isn’t just about the haldi or the toast. It’s about feeling like the guy who’s had your back for years is suddenly MIA, and you don’t even know why. That’s a loss all on its own.\n\nMaybe call him, not to demand answers, but just to say, *“Hey, I miss you, man. I know life’s crazy, but I need you here. What’s going on?”* Give him a chance to explain—really explain. And if he can’t or won’t? Then at least you’ll know it’s not about you. It’s about him, and whatever he’s going through. And you can decide how much of that you’re willing to carry into your wedding."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2143,
+  "completion_tokens": 917
+ }
+}

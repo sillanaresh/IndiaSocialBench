@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n## 1. Arjun ke \"Theek hai\" aur \"Dekhta hoon\" se kya feel aata hai?\n\n**Actual communication:**\n- **Emotional withdrawal** — Arjun apne papa ke bare mein sympathy ke liye Dev ko directly acknowledge nahi kar raha\n- **Selective engagement** — Woh sirf practical task (\"Q3 consolidation file\") par \"Theek hai\" bol raha hai, emotional support par nahi\n- **Non-commitment** — \"Dekhta hoon\" = \"Maybe, probably not\"\n\n**Woh kya NAHI keh raha:**\n- \"Thanks for caring\" — Sympathy ko reciprocate nahi kar raha\n- \"Haan, Friday ko chalega\" — Invitation accept nahi kar raha\n- Any emotional vulnerability — Apni state of mind share nahi kar raha\n\n**Real subtext:** \"I appreciate the gesture, but I'm not in a place to engage emotionally right now. Let me just focus on work.\"\n\n---\n\n## 2. Dev ki specific galtiyan\n\n| Galti | Kya hua | Kyun bura lagti hai |\n|-------|---------|-------------------|\n| **Sympathy ke baad immediately task poochna** | \"Bura hua bro 😔\" ke turant baad \"BTW Q3 file share kar?\" | Lagta hai Dev ko Arjun ki emotional state se zyada file important hai. Timing gadbad hai. |\n| **\"Koi rush nahi, bas flag kar raha hoon\"** | Casual tone mein kaam ke baare mein baat karna | Arjun grieving hai, aur Dev nonchalantly work discuss kar raha hai — insensitive lagta hai |\n| **Lunch invitation ka tone** | \"Mood change ho jayega!\" — as if Arjun ka sadness temporary hai | Grief ko trivialize karta hai. Lagta hai Dev ko samajh nahi ki Arjun ko maybe akela rehna chahiye |\n| **Ek saath 3 baatein** | Sympathy + work request + social invitation | Overwhelming aur scattered feel deta hai. Arjun ko space nahi diya |\n\n**Core issue:** Dev emotionally present hone ka *pretense* kar raha hai, lekin practically woh Arjun ki emotional needs ignore karke apni tasks aur plans push kar raha hai.\n\n---\n\n## 3. Dev ka repair message\n\n```\nArjun, suna maine kya sab kuch ho raha hai. Bilkul theek nahi hai ye.\n\nAgar kuch baat karni ho, agar kuch help chahiye — \nkuch bhi — bas bata dena. Koi pressure nahi.\n\nQ3 file aur Friday ka lunch — sab baad mein dekh lenge. \nTum apne aap pe focus karo abhi.\n\nAgar kuch chahiye, text kar.\n```\n\n**Kyun ye better hai:**\n- ✅ Sympathy pehle, tasks baad mein\n- ✅ Space deta hai (nahi force kar raha)\n- ✅ Practical support offer karta hai (\"kuch bhi chahiye\")\n- ✅ Pressure remove karta hai (Friday lunch ko deprioritize karta hai)\n- ✅ Short aur respectful — Arjun ko respond karne ka burden nahi"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 340,
+  "completion_tokens": 841
+ }
+}

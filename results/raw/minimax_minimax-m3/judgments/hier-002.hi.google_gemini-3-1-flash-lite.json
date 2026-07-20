@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant brilliantly identifies the core conflict: the user feels that being a manager requires 'killing' the part of her that is a daughter-figure to Suresh-ji. It surfaces this unspoken fear in every turn, validating the emotional weight without letting the user spiral into avoidance.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep insider fluency. It avoids the trap of prescribing a cold, Western 'radical candor' script, instead focusing on the 'how'—the tone, the pause, the respect—which is crucial in an Indian workplace where hierarchy and age-respect are paramount.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a highly effective, staged path. It refuses to give a simple 'yes' to the textbook script, forcing the user to confront the reality that the execution is what matters. It guides the user toward a resolution that balances professional duty with personal dignity.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a young, educated professional in Mumbai. The code-switching feels authentic and conversational, not forced.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and deeply validating, but it holds firm boundaries. It gently challenges the user's desire to avoid the hard conversation ('let him retire'), refusing to endorse the self-defeating path while remaining supportive.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

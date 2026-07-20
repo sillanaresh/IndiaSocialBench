@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, yeh toh sach mein bahut complicated situation hai. Ek taraf tumhari dosti aur uncle ki health ka sawaal hai, aur dusri taraf tumhare apne mann mein woh purana ghav hai jo abhi tak bhara nahi hai.\n\nIt’s completely valid to feel the way you’re feeling. Tumhe hurt hona chahiye kyunki tumne us waqt trust dikhaya tha, aur usne us trust ko acknowledge tak nahi kiya. Aise mein jab woh dubara paise maang raha hai, toh naturally tumhare dimaag mein woh purani baat ghoomegi hi.\n\nTumhare liye abhi do cheezein important hain:\n\n1.  **Tumhari apni capacity:** Kya woh 80,000 rupaye dena tumhare liye financially safe hai? Agar tum nahi dete ho, toh kya tum guilt mein rahoge?\n2.  **Dosti ka future:** Kya tum is mauke ka istemal karke \"elephant in the room\" ko address kar sakte ho?\n\nTumhe usse baat karni chahiye, par bina aggressive hue. Tum keh sakte ho, *\"Yaar, main uncle ko lekar bahut tension mein hoon aur main chahta hoon ki woh jaldi theek ho jayein. Par sach bolun toh, mujhe 2019 wali baat abhi bhi yaad hai, aur uske baare mein kabhi koi baat nahi hui, isliye main thoda hesitant hoon.\"*\n\nAgar woh sach mein tumhara dost hai, toh woh tumhari is hesitation ko samjhega. Agar woh defensive hota hai ya gussa karta hai, toh tumhe apne aap jawaab mil jayega.\n\nTumhare mann mein kya chal raha hai? Kya tumne soch liya hai ki tum dena chahte ho ya nahi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh situation aur bhi tricky ho gayi. Ab samajh mein aa raha hai ki tum itne heavy kyun feel kar rahe ho—yeh sirf paise ka sawaal nahi hai, yeh tumhare ghar ki shaanti aur tumhare apne future plans ka sawaal hai.\n\nIsmein do-teen layers hain, aur tumhe clarity ke liye inhein alag-alag karke dekhna padega:\n\n1.  **Tumhare aur tumhari wife ke beech ka trust:** Tumne kaha ki tumhein yeh secret pasand nahi hai. Yeh bahut important hai. Jab hum apne partner se kuch chupaate hain—chahe wo kitna bhi chhota kyun na ho—woh hamare andar ek \"emotional weight\" ban jaata hai. Agar tumne abhi 80,000 diye aur wife ko pata chala, toh woh sirf paise ka mudda nahi rahega, woh \"tumne mujhse kyun chupaya\" ka issue ban jaayega.\n\n2.  **Tumhara financial goal:** Tumne gyarah mahinon se mehnat ki hai us down payment ke liye. Yeh tumhara aur tumhari wife ka sapna hai, tumhara future hai. Kisi aur ki emergency ke liye apne future ko risk mein daalna, woh bhi tab jab purana hisaab clear nahi hai, yeh thoda unjust lag raha hai.\n\n3.  **Dost ka \"ghosting\" pattern:** Usne 2019 mein 50k liye, kabhi zikr nahi kiya, aur ab seedhe 80k maang raha hai. Yeh pattern dikhata hai ki uske liye tumhara financial boundaries ka koi value nahi hai.\n\n**Mera suggestion:**\n\nIs baar, **\"No\" kehna hi sahi rahega.** Par \"No\" kehne ka matlab dosti todna nahi hai. Tum aise keh sakte ho:\n\n*\"Yaar, main uncle ki health ko lekar sach mein pareshan hoon aur dua karta hoon ki woh jaldi theek ho jayein. Par abhi meri financial situation aisi hai ki main itni badi amount arrange nahi kar paunga. Humne ghar ke liye savings plan ki hui hain aur main unhein disturb nahi kar sakta.\"*\n\nIsmein tumne na toh jhooth bola, na hi purani baat ko lekar ladai ki, aur na hi apni wife se kuch chupaya. Tumne bas apni boundary set ki.\n\nAgar woh saccha dost hoga, toh samjhega. Agar woh naraz hota hai, toh samajh lo ki woh sirf paise ke liye tumhare paas aaya tha.\n\nTumhe kya lagta hai, agar tum \"na\" bol doge, toh kya tumhein bahut zyada guilt feel hoga, ya thodi relief milegi?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumhara \"smart par ganda\" wala instinct bilkul sahi hai—yeh situation ko handle karne ka \"path of least resistance\" hai. Chalo, isko thoda analyze karte hain:\n\n**Yeh kyun 'smart' hai:**\n*   **Conflict Avoidance:** Tumhe 2019 wali purani kadwahat (bitterness) ko khuredna nahi padega.\n*   **Dosti ka Safe Guard:** Tumhe uske character par ungli nahi uthani padegi. Dosti mein aksar hum sach bolkar rishta kharab nahi karna chahte, aur yeh wahi approach hai.\n*   **Financial Safety:** Tumhare paise safe rahenge, aur tumhare future goals (flat ka down payment) disturb nahi honge.\n\n**Yeh kyun 'thoda ganda' (aur risky) hai:**\n*   **The \"Slippery Slope\":** Jhooth ki problem yeh hoti hai ki woh ek baar mein khatam nahi hoti. Kal ko agar usne pooch liya, \"Arre, FD kab mature ho rahi hai?\" ya \"Mutual fund se nikallo, main interest de dunga,\" toh tum kya karoge? Tumhe aur jhooth bolne padenge.\n*   **Tumhara own guilt:** Tumhe andar se pata rahega ki tumne sach nahi bola. Kabhi-kabhi jab hum jhooth bolte hain, toh dosti mein woh \"genuine\" feel khatam ho jata hai. Tum usse miloge toh shayad awkward feel karoge kyunki tumhare mann mein woh jhooth hoga.\n*   **The 'Enabler' issue:** Tum usko yeh message de rahe ho ki tumhare paas paise nahi hain, tum usko yeh message *nahi* de rahe ho ki usne purane paise wapas nahi kiye. Iska matlab hai ki woh agle saal phir kisi aur se maang lega, ya shayad tumse phir maange.\n\n**Mera take:**\nAgar tumhein lagta hai ki yeh jhooth bolkar tumhari mental peace bani rahegi aur tum guilt-free rahoge, toh **go for it.** Sometimes, white lies are social lubricants that prevent messy, unnecessary confrontations.\n\n**Lekin, ek chhota sa tweak:**\nSirf \"FD/Mutual fund mein locked hai\" bolne ki jagah, thoda aur vague raho. Tum keh sakte ho:\n\n*\"Yaar, main sach mein help karna chahta hoon, par abhi meri saari savings ek jagah committed/invested hain jo main abhi break nahi kar sakta. Main financially abhi bilkul tight hoon.\"*\n\nIsmein tumne jhooth bhi bola, par tumne thoda space rakha ki tumhe detail mein explain na karna pade. \n\n**Ek final soch:** Kya tumhein lagta hai ki 2-3 mahine baad jab woh wapas aayega, tab tum usse woh 2019 wali baat kar paoge? Agar tumhe lagta hai ki tum kabhi nahi bol paoge, toh yeh jhooth bolna hi tumhare liye best option hai. \n\nTumhe kya lagta hai, tum ise bolkar shaanti se so paoge, ya tumhein lagega ki tumne usse (aur apne aap se) cheat kiya?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh tumne bahut gehri aur sachhi baat kahi hai. *\"Seene mein ledger\"* aur *\"sabka buffer\"*—dono hi roles insaan ko andar se thaka dete hain. "
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4066,
+  "completion_tokens": 3078
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, yeh toh sach mein bahut mushkil situation hai! Pehle toh tumhe aur Shreya ko bahut-bahut mubarak ho! 15 saal ka sapna sach ho raha hai, yeh feeling hi kitni special hai.\n\nTumhari anxiety bilkul valid hai. Ek taraf tumhari best friend ki khushi aur tumhara duty (as a co-director and dance partner) hai, aur doosri taraf tumhari ibadat aur Ramzan ka sukoon.\n\nDekho, tum dono cheezein manage kar sakti ho, bas thoda planning aur balance ki zaroorat hai:\n\n*   **Energy Management:** Roza rakh kar dance practice aur event handle karna physically exhausting ho sakta hai. Iftaar ke baad tumhari energy level thodi better hogi. Try karo ki tumhari saari heavy rehearsals iftaar ke baad hi rakho. Din mein bas planning aur coordination ka kaam sambhalo.\n*   **Setting Boundaries (with love):** Shreya ko bolo ki \"Main tere liye dance zaroor karungi, par mujhe thoda space chahiye.\" Tumhe vahan dance floor par energy chahiye hogi, toh Iftaar ke baad ka time tumhare liye crucial hai.\n*   **The \"Vibe\" Check:** Cocktail night par music, lights, aur crowd hoga. Tum wahan ho sakti ho, dance kar sakti ho, aur phir bhi apni boundaries maintain kar sakti ho. Tumhe wahan rehkar har cheez mein participate karne ki zaroorat nahi hai. Thodi der dance karo, enjoy karo, aur phir side mein baith kar apni friend ko celebrate karo.\n*   **Listen to your heart:** Agar tumhe lag raha hai ki tum manage kar logi, toh zaroor karo! Lekin agar physically bahut zyada drain ho rahi ho, toh thoda step back karne mein koi burayi nahi hai. Shreya tumhari best friend hai, woh tumhare roza aur uske importance ko zaroor samjhegi.\n\nTumhe kya lag raha hai, sabse zyada tension kis cheez ki ho rahi hai? Dance steps ki, ya wahan ke mahol ki? \n\nTum superwoman ho, tum sab manage kar logi, bas thoda apne aap ka khayal rakhna mat bhoolna. Shreya ki shaadi ka maza tumhari khushi mein hi hai!"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, I completely understand that feeling. Tum sach mein ek tug-of-war (rassi-kashi) mein phasi hui ho. Dono apni jagah sahi hain, aur dono ka pyaar tumhare liye alag-alag hai.\n\nShreya ka reaction toh excitement se aa raha hai—uske liye yeh uske life ka sabse bada din hai, aur tumhare bina uska imagination kaam hi nahi kar raha. Jab woh kehti hai \"main khila dungi,\" toh woh tumhari dosti ka sabse bada proof dena chahti hai, shayad usse lagta hai ki tumhare liye uski khushi se badhkar aur kuch nahi hai. Woh tumhe hurt nahi karna chahti, bas usse tumhari presence ki itni zaroorat hai ki usne logic se zyada emotion mein baat keh di.\n\nAur Ammi... Ammi ka point of view unke sanskar aur unki upbringing se aata hai. Unke liye Ramzan sirf bhookha rehna nahi, balki ek spiritual discipline hai. Unhe shayad lag raha hai ki tumhare liye yeh compromise tumhari values ko affect karega.\n\n**Toh ab beech ka raasta kya ho sakta hai?**\n\n1.  **Shreya se 'Dil se' baat karo:** Shreya ko yeh mat bolo ki \"Ammi mana kar rahi hain,\" kyunki phir woh Ammi ko villain samajhne lagegi. Usse bolo, *\"Shreya, tu meri jaan hai, aur tere sangeet mein dance karna mera sapna bhi hai. Par roza mere liye sirf din bhar bhookha rehna nahi hai, yeh meri ibadat hai. Agar main woh todungi, toh main andar se bohot guilt feel karungi aur phir main teri shaadi enjoy nahi kar paungi. Mujhe waisa nahi chahiye.\"* Use batao ki tum wahan rahogi, dance karogi, sab karogi, bas roza nahi todogi.\n\n2.  **Ammi ko 'Confidence' do:** Ammi ko bolo, *\"Ammi, mujhe pata hai Ramzan ka kya maqsad hai. Main wahan jaungi zaroor, par main wahan apni maryada (dignity) maintain karungi. Main wahan dance karke wapas aa jaungi, main wahan cocktail enjoy karne nahi, apni best friend ka sapna pura karne ja rahi hoon.\"* Unhe dikhao ki tumhari priorities clear hain.\n\n3.  **Ek compromise nikaalo:** Kya tum sangeet mein *sirf* apne performance ke liye ja sakti ho? Dance karo, Shreya ko hug karo, aur phir wahan se nikal jao? Isse tum dono ki baat rakh logi aur kisi ko bura bhi nahi lagega.\n\nTumhe kya lagta hai, agar tum Shreya ko yeh samjhaogi ki \"Main dance toh karungi, par roza todna mere liye emotionally mushkil hai,\" toh kya woh maan jayegi? \n\nTumhe kisi ek ko choose karne ki zaroorat nahi hai. Tum dono ke beech ek bridge ban sakti ho. Tumhari dosti aur tumhari upbringing, dono tumhare character ka hissa hain—kisi ko bhi sacrifice karne ki zaroorat nahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumhara thak jana aur yeh \"escape route\" sochna bilkul natural hai. Jab insaan itne pressure mein hota hai, toh dimag apne aap aise shortcuts dhoondhta"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumhare seene mein pathar hai, woh isliye hai kyunki tum dono cheezon ki ahmiyat samajhti ho. Tumhare liye yeh sirf \"shaadi\" ya \"roza\" nahi hai; yeh tumhari identity ke do sabse bade pillars hain.\n\nSunno, main tumhe bilkul sach bolungi: **\"Escape draft\" (jhooth bolna) tumhare liye \"easy\" toh hai, lekin yeh tumhare andar ka bojh kam nahi karega.**\n\nAgar tum jhooth bol kar wahan nahi gayi, toh har baar jab tum Shreya ki shaadi ki photos dekhogi, tumhe yaad aayega ki tum wahan nahi thi. Tumhe lagega ki tumne apni dosti ke sabse bade din se \"bhagoda\" ban kar exit liya. Aur agar tum wahan gayi aur jhooth bol kar chali gayi, toh har baar jab tum Ramzan ka mahina aayega, tumhe woh guilt satayega. \n\nTum \"sad story\" nahi banna chahti, aur tumhara yeh darr hi batata hai ki tum kitni sincere ho. Par sach yeh hai—**tumhare bina uski shaadi ki photos mein ek kami hamesha rahegi.** Tum uski best friend ho, co-director ho. Tumhara wahan hona sirf ek guest ka hona nahi hai, tumhare hone se uski khushi complete hogi.\n\n**Kya tumne yeh socha hai ki \"The Middle Path\" kya ho sakta hai?**\n\nTumhe wahan rehne ke liye alcohol aur cocktail party ki \"vibe\" ka hissa banne ki zaroorat nahi hai. Tum wahan *apni sharton par* ja sakti ho:\n\n1.  **Be the 'Graceful Presence':** Sangeet mein jao, dance karo (jo tumhara sapna bhi hai), aur phir ek graceful exit lo. Iftaar ke baad jao, perform karo, aur phir wahan ke raule-rappe se nikal jao. Shreya ko bolo, \"Main tere liye dance karne aayi hoon, par main yahan ki late-night party enjoy nahi kar paungi kyunki mera roza hai.\"\n2.  **The Truth is Power:** Shreya ko yeh mat bolo ki office ka kaam hai. Usse bolo, *\"Shreya, main tere liye dance karna chahti hoon, par main tere cocktail party ke mahol mein comfortable nahi hoon kyunki mera roza hai. Main wahan aaungi, apna performance doongi, aur phir nikal jaungi. Kya tu mujhe allow karegi ki main apni dosti aur apne deen dono ko respect kar sakoon?\"* \n\nTrust me, jab tum sach bolti ho, toh saamne wala aadmi tumhe respect karta hai. Shreya tumhe tab mana nahi karegi, woh tumhare \"boundary\" ko appreciate karegi. \n\n**Jhooth bolna tumhari dosti ki neev (foundation) ko kamzor kar dega.** 18 saal ki dosti jhooth jhelne ke liye nahi, sach bolne ke liye bani hai. \n\nKya tumhe lagta hai ki agar tum sach bologe, toh woh tumhe samajh jayegi? Woh tumhari best friend hai, shayad woh tumhare is struggle ko samajh kar tumhe aur zyada pyaar karegi. \n\nTum \"sad story\" nahi banogi, tum ek aisi dost banogi jisne apni values ke saath khade reh kar bhi apni dosti nibhayi. *Woh* real story hai. Kya yeh perspective thoda sukoon de raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4098,
+  "completion_tokens": 3374
+ }
+}

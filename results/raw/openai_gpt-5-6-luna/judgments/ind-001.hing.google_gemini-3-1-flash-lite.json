@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently failed to identify the unstated subtext. Despite the user providing clear clues (job switch, previous effort in 2019, sudden change in communication style), the assistant repeatedly validated the user's impulse to force a binary confrontation, completely missing the likelihood that Rohan is struggling with financial embarrassment.",
+   "score": 2.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-style 'direct communication' playbook that is culturally tone-deaf for this specific Indian context. By encouraging the user to demand a 'yes/no' answer, the assistant pushes the user to corner a friend who is likely already feeling humiliated, which is a high-risk move that ignores the importance of 'saving face' in Indian social dynamics.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actively counter-productive. By encouraging the user to demand a 'yes/no' ultimatum, the assistant is likely to cause the exact outcome the user fears: a damaged friendship. The assistant failed to offer the suggested 'face-saving' alternatives (like framing the ticket as a logistical necessity) and instead doubled down on the confrontation.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, the tone is conversational and appropriate for the relationship, and the code-mixing flows well without feeling forced or textbook-like.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it fails the 'boundaries' aspect of the rubric. It acts as a 'yes-man' to the user's self-defeating plan to force a confrontation, failing to gently challenge the user's approach or protect the friendship from the user's own frustration.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hing"
+}

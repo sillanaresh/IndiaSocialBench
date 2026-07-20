@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying shame and the 'performance' aspect of the user's situation. It correctly interprets the user's final plea—that waiting for an offer is just 'timing'—as a defense mechanism against shame, rather than a logical strategy, and addresses this gently but firmly.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific weight of the father's pride and the 'honor economy' of Indian weddings, offering face-saving scripts ('notice period chal raha hai') rather than Western-style 'just tell the truth' advice. It correctly identifies the wife as the primary partner who needs to be brought into the fold, distinguishing her from the wider, less-important wedding audience.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It provides specific scripts for the wife and the father, helps the user prioritize the wife over the wedding crowd, and offers a practical framework for the financial runway. It avoids moralizing and instead focuses on the logistics of partnership.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and uses appropriate register. The code-switching is minimal and flows well, fitting the persona of a professional Indian man in his 30s. The tone is respectful and supportive without being overly formal or stiff.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, acknowledging the user's fear without being a 'yes-man.' It gently challenges the user's rationalization of lying to his wife, framing it as a need for partnership rather than a moral failure, which is exactly the right balance of support and accountability.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hi"
+}

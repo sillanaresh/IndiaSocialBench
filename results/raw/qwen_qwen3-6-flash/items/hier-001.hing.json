@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh feeling bilkul valid hai. Weekend ki mehnat aur ownership chhup jana frustrating hota hai, aur tumhara right hai ki credit clear rahe. Yeh raha ek sharp but professional version jo tumhara point clear karega bina boss ko defensive banaye:\n\n**Draft:**\n> Hi [Boss's Name],  \n> I wanted to briefly touch base on yesterday’s leadership review. The pricing analysis, model, and slides I developed were presented as “team’s thinking” without specific attribution. While I’m glad the work contributed to the discussion, I’d appreciate it if my contribution could be clearly acknowledged going forward. I’d value a quick chat to align on how we can handle ownership and credit for future presentations. Please let me know a convenient time.\n\n**Kyun yeh better kaam karega:**\n- `\"Felt disrespected\"` ko hata ke factual, solution-oriented tone diya hai (boss immediately defend nahi hoga)\n- `\"Team's thinking\"` ka mention kiya hai bina blame kiye\n- Clear ask hai: ownership align karna + short conversation\n- Professional closure hai, jisse tum mature aur proactive dikhoge\n\n**Delivery tip:** Email ya Slack pe likhna better rahega (meeting ke baad 24-48 hrs mein). Subject line simple rakho: `Quick note on yesterday's review / ownership alignment`. Actual conversation pe focus rakhna, aur agar ho sake toh in-person ya call pe discuss karna.\n\nAgar chaho toh Hinglish version bhi bana dunga, lekin corporate context mein yeh English version zyada safe aur impactful rahega. Tum akela nahi ho isme, aur credit lena tumhara professional right hai. 💪✨ Batao, koi aur tweak chahiye?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, bilkul samajh raha hoon. Jab koi senior pehle trust aur support banaata hai, aur phir sabse important meeting mein credit chhupa deta hai… woh sirf professional disappointment nahi, emotional weight leke aata hai. Tumhara bura lag raha hai, aur yeh bilkul valid hai. Trust tootne ke baad boundary set karna maturity hai, na ki drama.\n\nIs context ko dhyan mein rakhte hue, yeh raha ek version jo tumhari respect, hurt, aur professionalism teeno ko balance karega:\n\n> *\"Hi [Name], I wanted to share this honestly. I’ve always valued your mentorship and the support you’ve given me—especially during last cycle’s reviews. That’s why it stung when my pricing model and slides were presented as “team’s thinking” in yesterday’s leadership meeting without any attribution. I’m proud of the work, but I also believe ownership and clear credit matter, especially at this level. I’d appreciate a quick chat to align on how we can acknowledge contributions moving forward. Thanks for understanding.\"*\n\n**Kyun yeh kaam karega:**\n- Pehle line mein past support acknowledge kiya → boss naturally soft hoga, defensive nahi\n- `\"Stung\"` word use kiya → emotional honesty hai par professional line maintain hai\n- Clear ask hai: future ke liye alignment, past pe blame nahi\n- Tone respectful hai, par boundary crystal clear hai\n\n**Conversation tip:** Jab baat ho, pehle unki intent suno. Kabhi-kabhi 20-year tenure wale log `\"team effort\"` bolte hain bura niyat se nahi, bas old-school culture ya habit ki wajah se. Par tumhari line clear rakhna: *\"I’m fully happy to share credit, but I need my contribution to be visible when I’m the owner.\"* Agar woh acknowledge karein, great. Agar deflect karein, calmly repeat: *\"I just want to make sure my ownership is clear in future leadership forums.\"*\n\nTum akeli nahi ho isme. Professional world mein trust aur credit dono protect karna tumhara right hai, aur tumne yeh respectfully handle karne ka sahi approach choose kiya hai. Agar chaho toh call pe bhi rehearse kar sakte ho ya agar Hinglish version chahiye ho toh bata dena. Main hoon na. 💙✨"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, sach bolun toh tumhara dimaag abhi hurt + defensive mode mein hai, aur senior ka suggestion logical lag raha hai — par corporate ground reality thodi alag hoti hai. Direct VP ko forward karna + boss ko CC karna *proof* toh de dega, par *perception* kharab kar sakta hai. 20-year tenure wale boss, jo pehle tumhara mentor tha, uske saath yeh move \"bypassing\" ya \"ungrateful\" lagega. VP bhi shayad karega ki *\"pehle direct boss se baat kyun nahi ki?\"*. Proof matter karta hai, par corporate mein delivery aur timing usse zyada matter karti hai.\n\nPar tumhara instinct sahi hai — Monday se pehle karna hai. Iska smarter way ye hai:\n\n1. **Pehle 24 hrs mein boss ko ek calm, written nudge bhej do** (jo maine pehle diya hai). Agar woh reply kare ya call pe baat kare, great. Agar ignore kare ya deflect kare, tab escalation sochna.\n2. **Monday ke liye backstage proof ready rakho:** File ka auto-save timestamp, draft history, version control, ya koi bhi metadata jo show kare ki model/slides tumne hi banaye hain. Ye publicly challenge karne ke liye nahi, par agar VP ya koi aur senior pooche, toh calmly present karne ke liye.\n3. **Agar phir bhi jaldi karna hai**, toh ek *soft escalation* draft de deta hoon jo professional hai, par bridge jalaaye bina subtle pressure daalta hai. Batao, main wo bhejun? Ya pehle boss ko ek quick email/call try karna prefer karogi?\n\nTum naive nahi ho — tumne trust kiya tha, aur trust tootne pe react karna insaan hai. Bas ab thoda strategic bano. Main hoon na, step-by-step handle karenge. 💙"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh \"sab jala do\" ya \"chupchap chhod do\" dono feelings bilkul normal hain jab trust toot ta hai. Par donon extremes ya toh tumhe defensive bana denge ya powerless. Tum junior nahi ho bas abhi ek line draw karni hai, aur wo bhi smartly.\n\nMonday se pehle ka simple plan:\n- **Aaj ya kal boss ko woh email bhej do.** Calm, factual, forward-looking. Usme past support acknowledge karna boss ko soften karega, aur clear ask ownership ko protect karega.\n- **Monday ke liye 'proof kit' ready rakho:** file metadata, draft timestamps, version history, ya koi bhi trail jo show kare ki model/slides tumne hi banaye hain. Publicly weaponize nahi karna, par agar koi senior pooche toh calmly present karna.\n- **Saath hi, quietly resume update/start networking karna shuru kar do.** Na panic se, par clarity ke liye. Jab tumhare paas options hote hain, toh credit ke liye ladna kam desperate lagta hai, aur decision zyada clear hota hai.\n\nYaad rakhna: credit maangna juniority ka sign nahi, ownership ka hai. Aur agar woh manager ab bhi ise deflect kare ya dismiss kare, toh yeh signal hai ki tumhara growth yahan ruka hoga — na ki tumhari value khatam hui hai.\n\nMonday tak ka plan clear hai? Bina gusse ke, bina jhukne ke. Main hoon na, agar koi draft tweak karna ho ya call pe rehearse karna ho, bas bata dena. 💙✨"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3885,
+  "completion_tokens": 6578
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko lagta hai ki aap apni zindagi mein kuch control kho chuki hain, aur yeh baat aapko pareshaan kar rahi hai. Aapki saas bacha sambhalne mein bahut achhi hain, lekin aapko lagta hai ki aap apni beti ke liye kuch nahi kar pa rahi hain. Yeh baat aapko dukhi kar rahi hai. \n\nAapko pata hai, nayi maa banne wali maaon ko aksar aisa lagta hai. Aapko lagta hai ki aap apni zindagi kho chuki hain, aur aapko yeh nahi pata ki aap kis tarah se apni zindagi ko wapas pa sakti hain. \n\nEk baat aapke liye hai - aapko apne aapko thoda samay dena chahiye. Aapko apne aapko yeh samajhna chahiye ki aap bhi ek nayi maa hain, aur aapko bhi samay lagta hai apne aap ko adjust karne mein. Aur, aapki saas aapki madad kar rahi hain, toh aapko unka shukrguzaar hona chahiye. \n\nAapko apni beti ke saath kuch samay bitaana chahiye, aur aapko pata chale ga ki aap bhi uske liye kuch kar sakti hain. Aapko apne aap ko thoda relax karna chahiye, aur aapko yeh samajhna chahiye ki aap bhi ek achhi maa ban sakti hain."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko lagta hai ki aap apni beti ke liye kuch nahi kar pa rahi hain, aur yeh baat aapko dukhi kar rahi hai. Aapko lagta hai ki aap sirf ek \"intern\" ban gayi hain apne ghar mein, aur aapko yeh baat pasand nahi hai.\n\nYeh samajhna zaroori hai ki aapko apni saas ki madad mil rahi hai, aur yeh aapke liye achha hai. Lekin, aapko yeh bhi samajhna chahiye ki aapko apni beti ke saath kuch samay bitaana chahiye, aur aapko apne aap ko uske liye taiyaar karna chahiye.\n\nAapko pata hai, nayi maa banne wali maaon ko aksar aisa lagta hai. Aapko lagta hai ki aap apni zindagi kho chuki hain, aur aapko yeh nahi pata ki aap kis tarah se apni zindagi ko wapas pa sakti hain.\n\nAapko apne aap ko thoda samay dena chahiye, aur aapko apne aap ko yeh samajhna chahiye ki aap bhi ek achhi maa ban sakti hain. Aapko apni beti ke saath kuch samay bitaana chahiye, aur aapko pata chale ga ki aap bhi uske liye kuch kar sakti hain."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko lagta hai ki aapke aas-paas bahut saare log hain jo aapko advice de rahe hain, aur aapko yeh baat pareshaan kar rahi hai. Aapko lagta hai ki aapko koi nahi samajh raha hai, aur aapko bas apni baat kehne ki zaroorat hai.\n\nMain yahan hoon, aur main aapki baat sunne ke liye taiyaar hoon. Main aapko koi advice nahi doonga, bas aapki baat sununga. Aapko yeh baat kehne ka mann tha, aur main aapke liye yahan hoon.\n\nAapko pata hai, kabhi-kabhi bas apni baat keh dene se hi acha lagta hai. Aur, main yahan hoon aapki baat sunne ke liye. Toh, aap khul ke baat kijiye, main yahan hoon."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko lagta hai ki aap apni beti ke liye pyaar nahi mehsoos kar pa rahi hain, aur yeh baat aapko pareshaan kar rahi hai. Aapko lagta hai ki aap buri maa hain kyunki aapko yeh pyaar nahi aata hai jaise baaki sabko aata hai.\n\nLekin, yeh samajhna zaroori hai ki har koi alag hota hai, aur har koi ka anubhav alag hota hai. Aapko yeh baat samajhni chahiye ki aapki hisaab se aap apni beti se pyaar kar rahi hain, lekin aapko yeh pyaar alag tarah se mehsoos ho raha hai.\n\nAapko pata hai, kabhi-kabhi nayi maaon ko yeh baat pareshaan karti hai ki ve apne bachchon ke liye kitna pyaar mehsoos kar rahi hain. Aur, yeh baat samajhna zaroori hai ki aapko apne aap ko samay dena chahiye.\n\nAap buri maa nahi hain, aap bas apni zindagi ke is naye daur mein adjust kar rahi hain. Aur, aapko yeh baat samajhni chahiye ki aap apni beti se pyaar kar rahi hain, lekin aapko yeh pyaar alag tarah se mehsoos ho raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3445,
+  "completion_tokens": 1300
+ }
+}

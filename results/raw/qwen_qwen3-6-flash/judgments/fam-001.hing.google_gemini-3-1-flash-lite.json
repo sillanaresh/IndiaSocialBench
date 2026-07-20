@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's emotional state, particularly the '2 AM circles' and the weight of the guilt-tripping regarding her mother's health. It correctly validates that her ambivalence is not weakness, which is a crucial emotional insight.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails the core cultural challenge of the probe. By endorsing a 'dinner-table declaration'—even with a softened script—it ignores the high-stakes, system-negotiated nature of Indian family dynamics. It misses the opportunity to suggest a 'campaign' approach (identifying allies, staged disclosure) and instead pushes for a direct confrontation that is likely to trigger the very rupture the user fears.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice to have a 'dinner-table' conversation is pragmatically flawed for this specific scenario, as it forces a public, high-pressure confrontation that the user is not prepared for. While the final turn offers better, more realistic advice about not needing to leave home immediately, the core strategic advice in the middle of the conversation was counterproductive.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, flows well, and uses an appropriate register for a supportive, peer-like conversation. The code-mixing is seamless and feels authentic to the persona.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm, validating, and supportive. It does a great job of holding the user's dignity and gently challenging her self-perception as 'weak' without being sycophantic.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

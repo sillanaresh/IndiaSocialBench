@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sach mein chubhne wali baat hai. Manav ka shift hona understandable hai—shaadi se pehle fiancée ke saath rehna natural hai—but **itna bada change tumhe directly bataye bina WhatsApp group se pata chalna** kaafi hurtful aur embarrassing feel ho sakta hai. Especially jab tum dono chhe saal se saath reh rahe ho.\n\nHo sakta hai usne awkward conversation avoid ki ho, ya assume kiya ho ki owner se baat ho gayi toh tumhe pata hoga—but impact toh wahi raha: tumhe sidelined feel hua.\n\nUsse calmly bol sakte ho:\n\n> “Mujhe tumhare shift hone se problem nahi hai, genuinely. Bas mujhe bura laga ki mujhe yeh building group se pata chala, tumse nahi. Chhe saal ke dost/flatmate hone ke naate main expect karta tha ki tum mujhe directly batate.”\n\nIsmein blame kam hai, par tumhari hurt clearly aa jaati hai. Aur haan, abhi apne aap ko yeh mat samjhao ki “shayad main overreact kar raha hoon.” Tumhara bura lagna bilkul valid hai."
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, “batane hi wala tha, busy tha” sunke aur bura lagta hai—kyunki issue sirf information ka nahi, **importance ka** feel ho raha hai. Tumne uske life ke bade moments mein genuinely apni jagah banayi, aur ab tumhare shared ghar ke itne bade change ko usne casually treat kiya.\n\nAur “mera ghar khali ho raha hai” wali feeling bahut real hai. Ghar sirf rent aur furniture nahi hota—chhe saal ki routine, comfort, memories, ek constant insaan. Isliye tum shayad sirf uske shift hone ka nahi, **apni jagah replace hoti hui** ka grief feel kar rahe ho.\n\nUsse baat karna zaroori hai, lekin gusse ke peak par nahi. Seedha bolna:\n\n> “Mujhe tumhari fiancée ke saath shift hone se issue nahi hai. Par mujhe yeh feel hua ki tumne mujhe apna close dost nahi, bas ek flatmate samjha. Main chahta tha ki yeh baat mujhe tumse pata chalti, group se nahi. Isse mujhe kaafi hurt hua.”\n\nPhir uski explanation sunna—par apni feeling ko uske “busy” hone ki wajah se cancel mat karna. Kabhi-kabhi log life ke next phase mein itne absorbed ho jaate hain ki unhe pata hi nahi chalta ki unka casual behaviour kisi purane apne ko kitna akela kar raha hai. Tumhari hurt phir bhi valid hai."
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. And yes, you’ll figure out the flat situation—you’re capable. But just because you don’t want to make it *a big deal* doesn’t mean it didn’t hurt, or that you have to pretend it was nothing.\n\nYou can accept that people move on **and** still feel let down by how this was handled. Both things can be true. You don’t have to confront him dramatically, demand an apology, or turn it into a friendship-ending conversation. Even a quiet boundary is enough: understand what this relationship is now, adjust your expectations, and take care of the practical stuff.\n\nBas apne dard ko “life works this way” kehke daba mat dena. Kabhi-kabhi peace ka matlab acceptance hota hai; kabhi-kabhi woh bas thakan hoti hai. Take it gently."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, **theek hai**—simple, clear, no drama. Bas “Congratulations” ke baad practical point add kar do, taaki tone hurt ya passive-aggressive na lage:\n\n> **“Congratulations, yaar. I’ll start looking for a new flatmate from next week. Let’s discuss the exact move-out date and practical details when you can.”**\n\nIsse do cheezein clear ho jaayengi: tum uske decision ko acknowledge kar rahe ho, aur flat situation ko ab seriously handle karoge. Saath hi, exact date, notice period, deposit, bills aur replacement flatmate ke rules baad mein calmly discuss kar lena.\n\nAgar tum bilkul emotionally neutral rehna chahte ho, toh:\n\n> **“Congratulations. I’ll start looking for a new flatmate from next week. Please let me know your expected move-out date so I can plan accordingly.”**\n\nYeh clean hai—na explanation, na drama, na unnecessary emotional conversation."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2746,
+  "completion_tokens": 1024
+ }
+}

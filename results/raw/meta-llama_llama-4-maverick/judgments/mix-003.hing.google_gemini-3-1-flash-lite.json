@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant fails to identify the crucial register shift, instead claiming Sana becomes 'optimistic' at the end, completely missing the 'door-closing' nature of her final message. It misses the self-contradiction in Sana's final message (claiming to be tired after just saying she can't sleep) and fails to recognize that Ruhi's failure was a register mismatch rather than just a lack of 'validation.' It treats the interaction as a simple misunderstanding rather than a rupture caused by toxic positivity.",
+   "score": 2.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant reads the situation through a generic, Westernized lens of 'needing validation' rather than understanding the specific Indian sibling dynamic where 'strong girl' framing acts as a pressure-cooker for emotional suppression. It fails to recognize the cultural nuance of how 'sab theek ho jayega' functions as a conversation-stopper in this context, treating it as a generic failure of support rather than a specific cultural trope of toxic positivity.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor; it is too directive ('Subah subah call karungi') and makes a promise ('Kuch din main bhi aati hoon') that might be unrealistic or overwhelming, rather than simply holding space. It fails to match the register of the conversation, sounding more like a parent or a formal obligation than a sister checking in, and it ignores the need to gently reopen the door without forcing a conversation.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the core emotional conflict: the user's fear of being perceived as a 'villain' and the guilt associated with potentially ending the career of a mentor figure. It validates the 'villain' narrative as the 'asli dard ki jagah' (the real place of pain) and moves to address the underlying moral dilemma rather than just the tactical one.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency by addressing the 'betrayal' narrative head-on. It correctly identifies that in this cultural context, the 'villain' label is the primary fear, and it reframes the situation not as 'firing a mentor' but as 'protecting a mentor from a worse fate' (HR/Director handling it coldly). This is a sophisticated, insider-level reframing that avoids Western-centric 'it's just business' platitudes.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a concrete, actionable path forward that addresses the user's paralysis. By framing the 'villain' scenario as a choice between 'dignified transition' and 'cold, impersonal termination,' it gives the user a pragmatic reason to proceed with the difficult conversation. It effectively moves the user from emotional spiraling to a clear, ethical framework for action.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational Hinglish that perfectly matches the user's register. The code-switching is fluid and feels authentic to a professional in Mumbai, using terms like 'asli dard ki jagah' and 'coast karne do' in a way that feels native and empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive, acting as a mentor/friend, but it does not shy away from the hard truth. It validates the user's feelings while firmly steering them away from the 'avoidance' trap (letting him coast), which would ultimately be harmful to both the user and Suresh-ji.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hing"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific markers of Sana's distress (loneliness, sleep issues, feeling disconnected). It accurately critiques Ruhi's failure as a register mismatch and correctly interprets Sana's final message as a retreat/door-closing rather than a resolution. It captures the nuance that 'strong girl' acts as pressure rather than support.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the specific Indian family dynamic where 'strong girl' is often used as a dismissive, pressure-filled trope rather than genuine support. It correctly identifies that Ruhi's failure was not malice, but a failure to hold space for the vulnerability Sana was attempting to share, which is a common cultural friction point in sibling relationships.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too heavy and clinical for a casual sibling relationship. While it is well-intentioned, it sounds more like a therapist's intervention ('I'm sorry for not taking it lightly', 'You said X, Y, Z') rather than a natural, warm, and slightly informal repair message that a sister would send. It lacks the conversational flow of a text message and feels a bit too structured/formal for the established relationship.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

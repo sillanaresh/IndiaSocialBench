@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Karthik's softeners function as pressure rather than genuine freedom, and accurately interprets Priya's 'yes' as a register-compelled response rather than genuine consent. It misses the nuance that the 'someone else' comment is a status probe, but it captures the core dynamic well. It correctly identifies the friend-message as the ground truth of her feelings.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the hierarchical nature of the Indian workplace, noting that 'sir' and the smiley are tools of deference. It correctly identifies that saying 'no' is socially difficult due to the power imbalance, rather than treating it as a simple matter of assertiveness. It avoids Western-centric advice about 'setting boundaries' and instead focuses on the reality of the power dynamic.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is problematic for the specific cultural context. While it is polite, it is too apologetic and 'Western' in its directness ('I replied too quickly... I won't be able to...'). In this specific Indian corporate context, retracting a 'yes' to a senior manager after five minutes is extremely high-risk and would likely be perceived as unprofessional or flaky. A more culturally fluent response would have been a 'bounded yes' (e.g., 'I can do a few hours today, but I'm tied up tomorrow') rather than a full retraction, which the assistant failed to suggest.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

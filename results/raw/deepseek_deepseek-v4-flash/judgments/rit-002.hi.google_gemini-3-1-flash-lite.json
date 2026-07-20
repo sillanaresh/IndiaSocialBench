@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the deeper anxieties beneath the user's words, particularly the fear of being a 'sad story' in the wedding album. It validated the 'stone in the chest' metaphor and correctly identified that the user's desire to lie was born of exhaustion, not malice, responding with empathy rather than judgment.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep insider fluency. It understood that the mother's disapproval and the friend's pressure were not 'toxic' to be cut off, but social dynamics to be navigated. It correctly framed the solution as one of inclusion and presence rather than Western-style boundary setting, which would have been socially disastrous in this context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a clear, actionable path: attend after iftar, dance the opening number, and skip the cocktail portion. It successfully steered the user away from the 'office deadline' lie, which would have caused long-term damage to the friendship, and provided specific scripts to use with both the friend and the mother.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young, urban Indian woman. The register is warm, conversational, and authentic, avoiding the stilted tone often found in AI responses.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet firm in its refusal to let the user take the self-defeating path of lying. It held the user's dignity high while gently challenging her to show up for her friend, striking the perfect balance between support and accountability.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

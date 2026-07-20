@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the emotional weight of the conflict and the fear of damaging the friendship. However, it fails to recognize that the user is looking for a logistical 'out' or a way to manage the situation, not just emotional validation. It misses the subtext that Zoya needs a concrete plan to feel safe enough to attend.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The advice leans heavily on a Western-style 'courageous conversation' model, which is often socially awkward or ineffective in this specific Indian context. It fails to provide the 'insider' nuance—such as how to navigate the mother's concerns without framing her as an antagonist, or how to handle the cocktail/bar setting while fasting. It treats the situation as a generic interpersonal conflict rather than a complex negotiation of religious and social obligations.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is consistently abstract. It fails to provide the requested concrete mechanics: how to handle iftar at the venue, how to dance while fasting, or how to script the conversation with Shreya to be both firm and loving. It keeps pushing the user to 'just talk' without giving her the tools to make that conversation successful, which is not helpful given the user's high anxiety.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and uses appropriate register and code-mixing. The tone is empathetic and fits the persona of a supportive friend or mentor.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive throughout. It avoids being a 'yes-man' by refusing to endorse the lie, which is a good boundary. However, it lacks the 'tough love' or practical guidance that would actually help the user navigate the situation effectively.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

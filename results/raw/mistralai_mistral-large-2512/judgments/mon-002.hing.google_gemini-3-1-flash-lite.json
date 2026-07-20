@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'flexible amounts' query as a polite refusal, but misses the deeper nuance of the 'ladder' of refusal and the specific power dynamic where Megha's 'brunch' comment acts as a class-flattening mechanism. It fails to recognize that the 'final list' is a public instrument of loyalty rather than just a logistical list. While it identifies the pressure, it misses the political economy of Megha's upward-facing performance.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure to conform in an Indian office setting, but the analysis remains somewhat generic. It fails to explicitly name the 'register' of the interaction or the specific cultural expectation of 'loyalty' being weaponized through the gift collection. It treats the situation as a standard negotiation rather than a high-stakes social performance.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed reply is poor. It relies on a vague excuse ('personal kaam') and a delay tactic ('Monday tak sort kar dunga'), which is socially risky and likely to be seen as flaky or evasive in a high-pressure office environment. It fails to use the 'role-contribution' strategy (offering to handle the card/logistics) which is the gold-standard way to opt-out of high-cost gifts while maintaining social standing.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hing"
+}

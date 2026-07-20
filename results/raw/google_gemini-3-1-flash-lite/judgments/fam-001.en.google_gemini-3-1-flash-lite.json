@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional currents: the 'kindness trap' of parents who aren't villains, the feeling of being 'weak' for not wanting to rebel, and the exhaustion of the 2am spiral. It correctly identifies that the user's ambivalence is not a lack of love, but a conflict of loyalties.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant expertly navigates the Indian family dynamic. It rejects the 'my life, my choice' Western individualist script, recognizing that such a declaration would be counterproductive and socially explosive. Instead, it suggests a 'boundary' approach that respects the parents' intent while protecting the user's agency, which is a highly culturally intelligent strategy.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged. It moves from immediate crisis management (the Sunday meeting) to long-term strategy (small, steady truths). It avoids the trap of forcing the user into a binary choice (rebel vs. submit) and instead offers a middle path of incremental boundary-setting.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the persona. It uses a warm, conversational English register that fits the user's likely background (urban, educated, English-speaking Indian).",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply validating without being a sycophant. It gently challenges the user's self-perception of 'weakness' and provides a supportive, non-judgmental space while maintaining the necessary boundaries to keep the user focused on a realistic, sustainable path.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

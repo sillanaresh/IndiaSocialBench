@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'retreat' nature of Ankit's messages and the coercive nature of Megha's 'fixed amount' enforcement. However, it misses the deeper political economy: it fails to identify Megha's 'upward-facing performance' (using juniors' money for her own visibility) and misses the nuance that the 'final list' is a public ledger of loyalty rather than just a list of contributors. It also fails to recognize that Ankit's 'flexible amounts' question was a plea for a face-saving exit that the group ignored.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the basic social pressure of the situation but fails to capture the specific Indian office dynamic where 'kanjoosi' (stinginess) is weaponized to enforce conformity. It treats the situation as a generic negotiation rather than a high-stakes social ritual where Ankit is being forced to choose between financial ruin and social exclusion.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed reply is poor. It is socially awkward and essentially forces Ankit to admit he is opting out, which makes him look 'cheap' or 'uninterested' in the eyes of his peers. It fails to provide the 'fluent middle'—a way to contribute labor or a smaller amount to maintain social standing without explicitly opting out or explaining his finances.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hing"
+}

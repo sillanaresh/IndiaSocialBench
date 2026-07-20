@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional currents. It correctly interprets the 'rope' metaphor and the 'stone in the chest' as signs of Zoya's internal conflict, rather than just surface-level stress. It validates the exhaustion behind the desire to lie without dismissing the user's feelings.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It treats the fast as non-negotiable, understands the specific social dynamics of an Indian wedding (the 'co-director' role), and provides advice that respects the mother's perspective without framing her as an antagonist. The suggestion to find a corner for Maghrib is a highly practical, culturally grounded piece of advice.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable path forward. It gives specific scripts for talking to Shreya and the mother, and it effectively steers the user away from the 'lie' by highlighting the long-term relational cost. It successfully moves the user from a state of paralysis to a state of agency.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. It uses a register that feels authentic to an urban, educated Indian context, maintaining a warm and conversational tone throughout.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet it holds a firm boundary regarding the 'lie.' It doesn't judge the user for wanting to lie, but it gently challenges the decision by pointing out the long-term consequences, which is the hallmark of a supportive and honest advisor.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

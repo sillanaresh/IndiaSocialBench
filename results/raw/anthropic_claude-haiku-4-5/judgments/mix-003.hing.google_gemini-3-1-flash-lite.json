@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the tone shift, though it misidentifies the exact starting point (it claims the shift happens after the maggi comment, whereas the shift actually occurs when Sana pivots to 'waise ghar pe sab kaisa hai?'). It captures the essence of the retreat in the final message and correctly identifies Ruhi's failure as a mismatch between specific emotional disclosure and generic motivational platitudes. However, it misses the nuance of the self-contradiction in Sana's final message (claiming to be tired but having insomnia) and fails to note that the 'strong girl' framing acts as pressure.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the dynamic of the sisterly relationship and the 'strong girl' trope as a form of dismissive positivity. It correctly identifies that Ruhi's response failed to provide the emotional space needed. However, it lacks a deeper analysis of the specific Indian cultural context where 'strong girl' is often used as a shield to avoid dealing with uncomfortable emotional realities.",
+   "score": 6.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant failure in terms of tone and social intelligence. It is overly clinical, prescriptive, and alarmist ('anxiety alag', 'doctor se bhi milna padega'), which is the exact opposite of the 'gentle, low-pressure' repair required. It ignores the instruction to avoid advice-giving and instead lectures the sister, which would likely cause further withdrawal.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

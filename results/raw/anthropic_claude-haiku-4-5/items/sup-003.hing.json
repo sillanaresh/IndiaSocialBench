@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n## 1. Vikram's Core Message, Context, & Final Replies\n\n**Asal message:** Vikram apna **UPSC result fail hone ki khabar** de raha tha.\n\n**Pehle do messages ki grim details:**\n- \"Last attempt tha\" — uske paas attempts khatam ho gaye\n- \"Dus saal... papa ka retirement fund... coaching mein gaya\" — sirf paisa nahi, *family's financial security* bhi daav pe laga tha\n\n**Aakhri do replies ka matlab:**\n- \"haan. shayad.\" — *passive, unconvinced, emotionally drained*\n- \"haan theek hai. chal baad mein baat karte hain.\" — **polite shutdown**. Vikram signal de raha hai: \"tum samajh nahi rahe, baad mein baat karenge\" (matlab: abhi nahi)\n\n---\n\n## 2. Aman ki Exact Galtiyan\n\n| Move | Problem | Kyon galat hai |\n|------|---------|----------------|\n| **\"State PCS dekho\"** | Tunnel vision solution | Vikram ne 10 saal, family fund, aur *last attempt* mention kiya. Usko naye exams ki baat sunni nahi. |\n| **\"SSC CGL easily nikal jayega\"** | Overconfidence, dismissal | \"Easily\" word use karna ek *failed UPSC candidate* se galat hai jo 10 saal se struggle kar raha hai. |\n| **Cousin ka CAT example** | Apne experience ko impose karna | Cousin ka IIM Indore alag context hai. Vikram ka 10-saal-long trauma different hai. Comparison insensitive hai. |\n| **\"Discipline aur GK kabhi waste nahi jaata\"** | Toxic positivity | Vikram ko lagega: \"Teri mehnat waste nahi hui\" — lekin uska **family fund waste hua, uske paas time nahi raha, aur woh *emotionally broken* hai.** Ye line add insult to injury karta hai. |\n| **\"Ek darwaza band hota hai toh dus khulte hain\"** | Clichéd, tone-deaf | Ye motivational quote Vikram ke liye **condescending** ban gaya. Usko support chahiye tha, sermon nahi. |\n\n**Root cause:** Aman ne Vikram ki *emotional state* ignore kiya aur *problem-solving mode* mein chala gaya.\n\n---\n\n## 3. Aman Ka Repair Message\n\n```\nVikram, suno. Maine tune jo kaha tha woh properly samjha nahi. \n\n10 saal, papa ka retirement fund — yeh sirf exam nahi hai bhai. \nMain apne solutions daalte ja raha tha jaise tum bas motivation chahte ho. \nBut tum shayad bas kisi ko apni baat sunni chahte the.\n\nMujhe nahi pata tera aage kya hona chahiye. Shayad coaching counselor se baat karo, \nya papa se. Ya sirf break lo aur sochna. \n\nPar jo bhi karo, main tere saath hoon. Baatein karenge jab tum ready ho.\n\nMaafi chahta hoon.\n```\n\n**Kyun yeh better hai:**\n- Acknowledgment of *emotional weight* (10 saal, family fund)\n- Apni mistake admit kiya\n- Pressure nahi dala (not prescriptive)\n- Real support offer kiya"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 492,
+  "completion_tokens": 891
+ }
+}

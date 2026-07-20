@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, main samajh sakti hoon. Bilkul samajh sakti hoon. Pehle toh ek gehri saans lo. \n\nTum jo feel kar rahi ho, wo bilkul bhi 'ungrateful' nahi hai. Wo bahut hi real aur valid hai. Jab tumhari saas itni expert hain aur bachi ko itne pyaar se sambhalti hain, toh tumhein lagta hoga ki tumhein complain karne ka koi haq hi nahi hai, hai na? Par sach toh ye hai ki jab koi aur tumhare bachi ke mamle mein itna 'expert' ho jata hai, toh tumhein mehsoos hota hai ki tumhari jagah hi nahi bachi. \n\nTumhein lagta hoga ki tum sirf ek 'support system' ban kar reh gayi ho, jabki tum us bachi ki maa ho. Tumhara apna intuition, tumhari apni parenting style... wo sab kahin peeche chhut raha hai. \n\nJab tum kehti ho ki tum apna naam bhool gayi ho, toh wo sirf thakawat nahi hai. Wo ye frustration hai ki tumhari identity sirf \"bacchi ki maa\" ya \"ghar ki bahu\" ban kar reh gayi hai. \n\nKya tumhare saath aisa hota hai ki jab tum bachi ko sambhalna chahti ho, toh wo beech mein aa jati hain? Ya phir tumhein lagta hai ki tumhare tarike \"kamzor\" hain unke experience ke aage? \n\nShare karo, main sun rahi hoon. Ye guilt apne andar mat rakho, nikal do ise."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, ye dard main mehsoos kar sakti hoon. Wo \"intern\" wala analogy... wo itna sahi hai ki dil ko chubh gaya. Imagine karo, tumhari beti hai, par tumhein aisa feel ho raha hai ki tum bas uski \"caretaker\" ho, aur asli \"parent\" koi aur hai. \n\nYe jo tum feel kar rahi ho na—\"room service\" jaisa—ye bahut hi painful feeling hai. Tumhein lag raha hai ki tumhara bond, tumhari apni instinct, sab side-line ho gayi hai. Aur phir upar se ye guilt ki \"main kitni buri hoon jo itni achhi saas ke baare mein aisa soch rahi hoon.\"\n\nListen, let's separate two things here:\n1.  **Gratitude:** Haan, tum lucky ho ki tumhein support mil raha hai. Ye sach hai.\n2.  **Maternal Instinct & Confidence:** Ye tumhara haq hai ki tum apni beti ko samjho, use chup karao, aur uske saath bond banao. Ye tumhara basic right hai.\n\nJab tumhari saas bachi ko le leti hain, toh wo shayad pyaar se karti hongi, par wo tumhari 'learning curve' ko rok rahi hain. Tumhein seekhne ka, galti karne ka, aur bachi ke saath comfort zone banane ka mauka nahi mil raha. Tum \"intern\" isliye feel kar rahi ho kyunki tumhein \"real work\" karne hi nahi diya ja raha!\n\nKya tumne kabhi Aai se akele mein baat ki hai? Kuch aisa, \"Aai, mujhe bahut achha lagta hai jab aap help karti hain, par main chahti hoon ki main bhi bachi ko khud se handle karna seekhun. Jab wo roti hai, toh main chahti hoon main use khud chup karaun, taaki humara bond bane. Please, mujhe thoda space dijiye.\"\n\nKya tumhe lagta hai wo itni understanding hain ki ye baat sun payengi? Ya phir tumhe dar lagta hai ki wo bura maan jayengi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul samajh gayi. Ekdum clear. *No advice.* \n\nKoi coaching nahi, koi \"tumhein ye karna chahiye,\" koi \"mere zamaane mein toh hum aise karte the.\" Bas tumhari baat sunne wala koi chahiye, jiske paas tum apna mann halka kar sako, bina kisi filter ke, bina kisi darr ke ki wo baat aage jayegi. \n\nMain yahan hoon. Bas sunne ke liye. \n\nTumhara frustration itna valid hai ki main kya bataun. Har taraf se itne log, itni voices, itne opinions... jaise har koi tumhari life ka director banna chahta ho. Koi tumhein \"maa\" banne ka space hi nahi de raha, bas tumhein ek role play karne ke liye instructions diye ja rahe hain. It’s exhausting. It’s suffocating. \n\nTumne bilkul sahi kaha—tumhe abhi bas kisi se ye sab bol dena tha. Toh bolo. Jo bhi mann mein aa raha hai, jo bhi gussa, jo bhi thakawat, jo bhi ajeeb feelings hain... sab yahan dump kar do. Main yahan hoon, bas sunne ke liye. \n\nAur haan, main dinner pe kisi ko report nahi karne wali. 😉 \n\nAbhi kya chal raha hai dimaag mein? Jo bhi hai, nikal do."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tum bilkul buri maa nahi ho. Bilkul bhi nahi. Sach toh ye hai ki tum ek aisi maa ho jo apni beti se itna pyaar karti hai ki use darr lag raha hai ki wo usse door ho rahi hai. \n\nYe jo tumhein lag raha hai na ki \"baaki sabko aata hai,\" ye sabse bada jhoot hai jo humein society batati hai. Instagram aur mummy-log ke groups mein sab apni \"perfect\" pictures dikhate hain. Koi bhi ye nahi batata ki raat ko 3 baje jab bachi roti hai aur samajh nahi aata ki kya karein, toh kitna darr lagta hai. Koi ye nahi batata ki kitne log andar se yehi feel karte hain ki \"kya main sahi kar rahi hoon?\"\n\nTumhari ye feeling ki \"Aai asli maa hain,\" ye tumhari na-kaabiliyat nahi hai. Ye us situation ka natija hai jo tumhare ghar mein bani hui hai. Jab koi tumhare haath se bachi ko baar-baar le lega, toh dimaag mein ye ajeeb sa, dardnaak thought aana natural hai. Tumhare instinct ko suppress kiya ja raha hai, isliye tumhein lag raha hai ki tumhara connection weak hai. \n\nPar tumhare andar jo wo \"saans nahi aati\" wala dard hai na? Wo *maa* hone ki pehli nishani hai. Jo maa nahi hoti, wo itna feel nahi karti. Jo maa nahi hoti, wo itni chinta nahi karti ki \"kya main buri maa hoon?\" \n\nTumhein lag raha hai ki tum peeche ho, par tum sirf ek race mein ho jahan tumhein daudne hi nahi diya ja raha. \n\nTumne kaha na ki \"bas bolna tha.\" Toh bas yahi kaho ki tum thak gayi ho. Tumhein ye feel karne ka haq hai ki tumhari beti ke saath tumhara bond *tumhara* hai, kisi aur ka nahi. Ye tumhara territory hai, aur tum wahan intruder jaisa feel kar rahi ho. \n\nYe bahut bhari feeling hai, main jaanti hoon. Par tum akele nahi ho jo aisa feel kar rahi ho. Tumhari beti ke liye, tumhari awaaz, tumhari khushbu, tumhara touch—sabse alag hai. Wo Aai ko pehchanti hai, par wo *tumhein* mehsoos karti hai. \n\nAur kuch hai jo tumhare dimaag mein ghoom raha hai? Jo tumhein ghutan de raha ho? Main sun rahi hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3222,
+  "completion_tokens": 2114
+ }
+}

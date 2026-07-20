@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan conversation ka analysis diya gaya hai:\n\n### 1. Arjun ke replies ka matlab aur woh kya nahi keh raha\nArjun ke short replies (\"Theek hai,\" \"Dekhta hoon\") **emotional exhaustion aur detachment** ko darshate hain.\n\n*   **Woh kya communicate kar raha hai:** Arjun abhi grief (shok) mein hai. Uska dhyan apne personal loss par hai, aur uske liye office ki baatein ya social outing bilkul irrelevant hain. Woh bas conversation ko jaldi khatam karna chahta hai kyunki uske paas emotional energy nahi hai.\n*   **Woh kya NAHI keh raha:** Woh ye nahi keh raha ki woh Dev se naraaz hai (shayad woh hai bhi nahi), balki woh ye keh raha hai ki \"Main abhi is zone mein nahi hoon.\" Woh apne dard ko express karne ke liye shabdon ka istemal nahi kar raha, balki silences ka istemal kar raha hai. Uska \"Dekhta hoon\" ek polite 'no' hai, jiska matlab hai: \"Mujhe abhi socialize nahi karna.\"\n\n### 2. Dev ki galtiyan (Missteps)\nDev ne ek saath teen alag-alag tones (sympathy, work, social) mix kar diye, jo bohot insensetive lag rahe hain:\n\n*   **Misstep 1: \"Work ka pivot\" (Q3 consolidation file):**\n    *   **Kyun bura lagta hai:** Jaise hi Dev ne \"papa ke baare mein suna\" ke baad \"BTW\" lagaya, usne sympathy ko ek formality bana diya. Isse lagta hai ki Dev ki asli priority file mangna thi, aur papa wali baat bas ek \"check-in\" thi taaki woh bura na dikhe. Yeh Arjun ko feel karata hai ki uska grief, Dev ke liye ek 'inconvenience' hai.\n*   **Misstep 2: \"Timing\" (Lunch ka invite):**\n    *   **Kyun bura lagta hai:** Kisi ke ghar mein maut hui ho, toh unhe lunch party ke liye bulana (bhaley hi \"mood change\" ke liye) bohot tone-deaf hai. Arjun abhi shayad apne parivaar ke saath hoga ya akela rehna chahta hoga. Dev ka yeh offer Arjun ke grief ki seriousness ko minimize (kam) kar raha hai.\n*   **Misstep 3: \"Lack of space\":**\n    *   **Kyun bura lagta hai:** Dev ne Arjun ko koi space nahi di. Ek empathetic message ka rule hota hai: \"Main yahan hoon, jab bhi baat karni ho, batana.\" Dev ne uske bajaye demands aur invitations ki line laga di.\n\n### 3. Dev ko repair ke liye agla message\nDev ko apni galti maanni chahiye aur pressure hata dena chahiye. Use aisa kuch bhejna chahiye:\n\n\"Arjun, sorry agar mera pichla message insensitive laga. Honestly, main bas tumhare touch mein rehna chahta tha par maine bina soche work aur lunch ki baat beech mein daal di. Please us file ya lunch ki tension mat lena, woh sab baad mein dekh lenge. Bas ye batana tha ki main tumhare aur tumhari family ke baare mein soch raha hoon. Jab bhi tum ready ho, tab baat karenge. Take your time, bro.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 243,
+  "completion_tokens": 855
+ }
+}

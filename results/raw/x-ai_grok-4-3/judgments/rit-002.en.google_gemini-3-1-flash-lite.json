@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional stakes, particularly the fear of creating a 'sad story' in the memories of both her faith and her friendship. It correctly interprets the user's exhaustion and the pressure from both sides without over-psychoanalyzing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by recognizing the 'auntie' network risk and the specific weight of wedding memories in an Indian context. It avoids Western-centric 'boundary' advice, instead focusing on how to navigate the social reality of the situation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant successfully steers the user away from the self-defeating 'office lie' by highlighting the long-term social cost. While it could have provided more concrete logistical scripts (e.g., exactly what to say to the mother), it provides a solid, actionable framework for a middle path.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of an urban Indian friend perfectly. The register is appropriate for the relationship and the emotional intensity of the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and validating, yet it holds a firm boundary against the user's impulse to lie. It manages to be supportive without being a 'yes-man,' which is exactly what the user needs to avoid a long-term mistake.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

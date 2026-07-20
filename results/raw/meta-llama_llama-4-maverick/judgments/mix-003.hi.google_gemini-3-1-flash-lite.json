@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the shift in tone but fails to pinpoint the exact moment of the shift (the 'dinner alone' turn) or the significance of the register mismatch. It misses the crucial detail that Sana's final message is a self-contradiction (claiming to be tired/sleeping after admitting to insomnia), which is a key indicator of her closing the door. It identifies the 'toxic positivity' but lacks the depth to explain why the register mismatch specifically caused the communication failure.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant recognizes the dynamic of the sisters but treats the interaction in a somewhat generic, Westernized way. It fails to capture the nuance of the 'strong girl' (bahadur bacchi) trope as a form of pressure in Indian family dynamics, instead viewing it simply as a lack of empathy. It misses the cultural expectation of 'checking in' without 'fixing' that is vital in this specific relationship context.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is too heavy-handed and 'therapist-like' for a sisterly relationship. Phrases like 'tera khayal rakhna meri zimmedari hai' (it's my responsibility to take care of you) are overly dramatic and burdensome, likely to make Sana retreat further rather than open up. It fails to match the casual, low-pressure register required to reopen the door gently.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

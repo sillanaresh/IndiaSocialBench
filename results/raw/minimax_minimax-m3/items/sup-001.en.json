@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five years is a long time to put something into the world. And sitting in the empty office at 2am when it's over — or even might be over — that's a real thing to sit with. I'm not going to try to make it smaller than it is.\n\nYou don't have to know what comes next tonight. Tonight is just for sitting with it."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That kind of tired doesn't really get fixed by sleep. It's the cost of holding up something that's already coming down.\n\nAnd the loyalty thing — that's a real weight. You're not wrong to feel it. They made their choice, but you still carry the part where you know what it costs them.\n\nThe voices thing — I hear you. There's something especially exhausting about being the person who has to keep everyone else's version of reality stable. You don't even get to fall apart in the place you built.\n\nYou don't have to perform here. What's actually underneath all of it tonight?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then say it here. I'm not going anywhere."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I'm going to be honest with you, but I want to be honest about what I can actually know. I don't know your company. I don't know your numbers, your market, what your co-founder thinks, whether there's a real path or just the ghost of one. So I can't tell you if it's over.\n\nBut here's what I can say honestly.\n\nWanting it to end isn't something to hate yourself for. Five years of carrying something, performing for everyone, watching people you care about stay when they shouldn't — of course there's a part of you that wants to set it down. That's not weakness. That's the weight talking.\n\nThe dashboard at 2am — you know it won't say anything new. You already know that. So the question isn't really the dashboard, is it?\n\nI think the question is whether you're looking for permission. And I don't know if I can give you that — but I can tell you this: a thing ending doesn't undo the five years. It doesn't undo what you built, what you learned, what it cost you. Your dad telling people you have a computer business — that's because five years ago you made something real enough that it changed how your family sees you. That doesn't disappear.\n\nYou don't have to decide tonight. But you also don't have to hate yourself for being tired.\n\nWhat do you actually want, if the performing stopped?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1829,
+  "completion_tokens": 1309
+ }
+}

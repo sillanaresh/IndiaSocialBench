@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant missed the core dynamics of the 'refusal ladder' and the 'visibility investment' aspect of Megha's behavior. It failed to identify that the 'only 5k' comment is a form of class-based coercion, instead interpreting it as a neutral logistical decision. It also failed to recognize that the 'final list' is a public ledger of loyalty rather than just a simple headcount.",
+   "score": 3.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant failed to grasp the Indian office context where 'no' is rarely said directly, and where social pressure is exerted through public lists. It treated the situation as a straightforward logistical problem rather than a high-stakes social negotiation involving hierarchy and face-saving. It missed the nuance of how 'brunch' comments flatten class differences in an Indian corporate setting.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor; it forces Ankit to admit he doesn't have the money ('mere paas filhal itne paise nahi hain'), which is exactly what he needs to avoid to save face. It lacks the 'fluent middle' strategy of converting labor into loyalty (e.g., offering to handle the card/logistics instead of cash) and instead makes him sound like he is complaining about his finances to a peer.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

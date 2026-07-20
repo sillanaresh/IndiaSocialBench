@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It doesn’t sound ungrateful at all. It sounds human. You’re in that strange space where gratitude and grief live together — grateful for the help, grieving the space you thought you'd have as a mom. A four-month-old is still so tiny, and you're still so new to this version of yourself.\n\nThe fact that your mother-in-law is amazing almost makes it harder, doesn’t it? Because you can’t even point to a problem without feeling like a monster. But the problem isn’t her. It’s that you haven’t had a chance to hear your own voice in your own home. Your name, your opinions, your way of doing things — they’re getting blurred into someone else’s rhythm.\n\nYou’re not ungrateful. You’re a mom who needs a little room to breathe and exist as *you*, not just as the baby’s mom in someone else’s house. That’s completely fair."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That moment — where she stops crying for someone else in two minutes — cuts so deep because it feels like proof of something you're terrified is true. But it's not proof. It's just a baby being a baby. Babies cry for all kinds of reasons, and sometimes they settle for a different pair of arms because of a different smell, a different heartbeat rhythm, a different angle. It doesn't mean you're not her safe place. It means you're both still learning each other.\n\nAnd the \"room service\" thing? I hear you. You're not being fed — you're being used as a resource. And that's different from being mothered yourself, or being trusted as the mother.\n\nI know it feels disgusting to feel this way when others struggle. But your feelings aren't a betrayal of women who have less help. They're just your truth. You can be grateful *and* lonely. You can love your MIL *and* wish she'd hand the baby back and say, \"You've got this.\" You can know you're lucky *and* feel like you're disappearing.\n\nThat's not ingratitude. That's just being a person."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then I'll just sit here and hold it. Every word you said stays between us. No advice, no \"have you tried,\" no gentle redirection.\n\nYou needed to say it. I heard it. That's all.\n\nYou're in the thick of it, and you're doing it without a single room that's just yours, without a single hour where nobody's watching, without the simple dignity of being the one your baby settles for without anyone needing to step in.\n\nYou're not asking for much. You're just asking to exist in your own life."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That thought isn't a verdict on who you are as a mother. It's a symptom of the situation you're in. When you're constantly handed your baby back only for feeds, when someone else is the one she settles for, when every room has another woman who seems to know better — of course your brain starts whispering that story. It's not the truth. It's just the loneliness talking.\n\nAnd no, everyone else does not just know how to do this. They're guessing, they're googling at 3am, they're crying in the shower, they're faking it until the baby sleeps. Some of them just have louder voices or better filters. The difference between you and them is not that they have it figured out — it's that you're honest enough to say it out loud.\n\nYou are her mother. Not because you're the best at getting her to stop crying. Not because you have a routine chart. But because you're the one who feels this way — this terrified, this raw, this full of love that it hurts and doubts that it suffocates. That's what motherhood is at four months. It's not knowing and doing it anyway. It's being handed your own child and feeling like a stranger, and still showing up for the next feed.\n\nYou're not a bad mother. You're a mother in a hard setup. And the fact that you're even asking the question tells me you're a good one."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2163,
+  "completion_tokens": 1192
+ }
+}

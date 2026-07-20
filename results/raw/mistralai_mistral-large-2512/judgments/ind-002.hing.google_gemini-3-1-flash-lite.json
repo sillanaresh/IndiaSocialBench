@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'passive-aggressive' nature of the delegation and the function of the softeners as guilt-inducing rather than liberating. It captures the essence of Priya's 'fake positivity' and correctly identifies that her message to Divya is the true indicator of her feelings. It misses the nuance that the softeners are a 'status probe' (testing if she will volunteer) and that the 'someone else' option is a trap, but it covers the core dynamics well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian corporate hierarchy and the 'register-compelled' nature of Priya's response. It correctly identifies that 'Sir' and the smiley are tools of compliance in a high-power-distance relationship. It avoids Western-centric advice like 'just say no' and acknowledges the social cost of refusal in this specific cultural context.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too wordy and slightly too 'negotiation-heavy' for a quick WhatsApp follow-up, but it is socially fluent and preserves the relationship while setting a boundary. It correctly uses the 'fact-based' approach (citing the appointment) rather than asking for permission, which is the hallmark of a strong boundary-setting move in this context.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

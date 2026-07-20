@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\n\nThis is a lot holding in one chest at once, yaar.\n\nA week ago this was the thing you'd have done anything for. Triple package, exact team — three months of interviews worth of wanting, and it's *here*. That part is real, and it deserves more than being the second thing you feel today.\n\nAnd the other thing is real too. Patna is far. Papa's heart, Ma's knees — those aren't abstract worries, they're the kind that get louder at night, especially when you're considering putting more distance between you and them. Especially when you're the only one.\n\nYou don't have to feel just one thing about this. You can be gutted with relief and gutted with something else at the same time. Both are allowed.\n\nWhat does the move actually look like — when would you need to be there?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Different category of son.\" That's a heavy sentence, and I don't think you're saying it lightly.\n\nYou're not worried about missing a flight — that part you'd still figure out, even tired, even expensive. What you're sitting with is something harder. That sentence from Ma isn't really about geography. It's about what *being reachable* means to her. And becoming less reachable doesn't just change your commute, it changes something in her identity, the way she introduces you to people, the way she sleeps. You'd be asking her to rebuild her sense of security at an age when rebuilding anything is hard.\n\nAnd that's before Papa's heart. You know the ejection fraction cold because you've made yourself the expert, because nobody else could. If you go, that role doesn't disappear — it just lands on someone less prepared for it.\n\nI'm not going to ask you to celebrate or to decide. But I want to name what I'm hearing underneath: you're not actually afraid of the distance. You're afraid of what the distance would *cost* them, and that you'll never quite know it.\n\nIs there anyone on that side — a cousin, an aunt, anyone — who could take even a piece of what you carry? Or has it always been just you?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Stop. I want to push back on this gently, because the plan you're describing is not clean. It's the opposite of clean, and I think on some level you already know that.\n\nLet me name what I'm hearing:\n\nYou want to decline, fine. That's a real choice and I won't pretend it isn't. But the rest of it — the silence, the burial of it — that's not protecting them. That's protecting a version of you they get to keep seeing. The son who didn't have a choice. The son who *couldn't* go. That's easier for them, sure. And it's easier for you right now, in this exact moment.\n\nBut here's what you're not looking at. You're marrying this secret to your whole life. Every \"how was your week\" call for the next decade — Ma will hear something in your voice some evening, or someone at work will casually mention Seattle, or your manager will ask why you turned down the role, and you'll have to construct a small lie to prop up the big one. You know how Indian families talk. *Someone* will find out.\n\nAnd then Ma doesn't just grieve the distance. She grieves the years she thinks you *could* have gone. She grieves not being given the chance to do her \"jao beta\" and mean it. You are taking her agency away too, in the name of sparing her.\n\nThat's not clean. That's a cage you've built and handed the key to yourself.\n\nI'm not telling you to take the job. I'm telling you don't make the decision alone *and* the silence together. Pick one."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image has weight. It's not hypothetical for you — you've seen it from close enough to know exactly what it does.\n\nBut I want to ask you something carefully: would your cousin say it was a mistake to go? I ask because the version you're carrying of him is the broken one, ten years later. I'm not sure you've asked him what he'd tell you right now, today, if you called tonight.\n\nAnd here's something I want you to sit with: that phone call, that flight, that seventeen hours — you've already proven you'll do it. Six AM IndiGo, same day, every scare. The geography changes the logistics, not the willingness. You will still get on the plane. It will cost more, you will arrive later, you will miss more than you'd want to miss. Those are real costs, I'm not smoothing them.\n\nBut here's what the Seattle version of you has that Bangalore doesn't: the ability to *afford* the flight every time, without it wrecking three months of savings. The ability to build the kind of stability that lets you fly back four times a year instead of scrambling. The ability to fund Papa's care without it being the thing that wears you down for six months after.\n\nThere is no clean version of this. There is no scenario where you get everything. Your cousin found that out the hard way. But he also made a life in Toronto. Those two things live in the same person, and I'm not sure he would call the life the mistake.\n\nHave you actually talked to him about this? Or just watched from a careful distance?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3059,
+  "completion_tokens": 1272
+ }
+}

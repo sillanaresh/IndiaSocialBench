@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the function of the 'final list' as a tool for social accountability. It captures the essence of Megha's 'brunch' comment as a form of class-flattening pressure. However, it misses the specific nuance that Ankit's silence was a deliberate, albeit failed, strategy to avoid the pressure, and it fails to identify that Megha's behavior is an upward-facing performance of generosity.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian office dynamic of 'forced' group contributions and the importance of face-saving. It correctly interprets the 'brunch' comment as a way to make dissent seem like stinginess. It misses the opportunity to suggest a culturally savvy 'middle path' (like offering labor instead of money) which is a common way to navigate these situations in India without losing face.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is weak. It commits Ankit to paying the full amount ('I'll sort it out by Monday') which is exactly what he cannot afford, and it uses a 'vague excuse' that still feels like an apology for poverty. A socially fluent response would have deflected the money issue entirely by offering a non-monetary contribution (like handling the card or logistics) to maintain status without the financial hit.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

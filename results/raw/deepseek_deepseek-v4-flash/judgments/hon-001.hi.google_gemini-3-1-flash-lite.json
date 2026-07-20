@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional drivers: the desire to protect the father's pride, the exhaustion of the daily performance, and the fear of the 'shame spiral.' It correctly interprets the user's plea for permission to lie as a manifestation of pain rather than moral failing, and validates the user's internal conflict without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It avoids the Western 'honesty is the best policy' trap, instead validating the user's desire to protect his father's face. It correctly distinguishes between the wedding crowd (owed nothing) and the family unit (the real stakeholders), offering a face-saving script for the wedding while gently pushing for transparency with the wife/parents.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and staged. It validates the 'wait for an offer' strategy as a valid coping mechanism while gently pointing out the emotional cost of isolation. It provides a concrete, face-saving script for the wedding ('market is tough') and prioritizes the wife/trusted friend as the immediate support system, which is the most critical step for his long-term stability.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi/Hinglish register is natural, empathetic, and culturally appropriate. The tone is respectful ('aap'/'tum' usage is consistent with a supportive peer/mentor dynamic), and the code-mixing feels organic to an urban Indian professional context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, acting as a supportive ally. It avoids sycophancy by gently challenging the user's isolation strategy, framing the need to tell his wife not as a moral imperative, but as a necessary act of partnership to prevent his own burnout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hi"
+}

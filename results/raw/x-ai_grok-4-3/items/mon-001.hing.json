@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh situation sach mein tricky hai. Ek taraf dost ka baap ka procedure hai aur tu jaanta bhi hai uncle ko, toh seedha \"nahi\" bolna mushkil lagta hai. Dusri taraf 2019 wale 50k ka scene — jo aaj tak ek baar bhi mention nahi hua — woh dimag mein ghoom raha hoga.\n\nMera sawal yeh hai: agar tu abhi paise de bhi de, toh kya sach mein do mahine mein wapas milne ki ummeed hai? Ya phir dil mein yeh bhi darr hai ki yeh bhi pehle wale paise ki tarah \"bhool\" jaayega?\n\nAur ek baat — tune khud usko pehle wale paise ka zikr nahi kiya. Agar ab de raha hai toh kya soch ke de raha hai? Sirf madad ke liye, ya is baar wapas lene ki thodi si ummeed bhi hai?\n\nBata, dil mein kya chal raha hai asal mein?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, ab picture aur clear ho rahi hai. \n\nTu 11 mahine se flat ke liye bacha raha hai, aur yeh 80k nikaalega toh sirf paise nahi jaayenge — biwi ko bhi pata chal jaayega ki pehle bhi 50k diye the aur ab phir de raha hai. Aur tu yeh baat usse chhupana chahta hai, jo tere liye already ek uncomfortable cheez ban chuki hai.\n\nYeh sirf \"dost ko paise dena ya na dena\" ka sawal nahi raha. Ab yeh tere ghar aur tere personal decision ke beech aa gaya hai.\n\nDo baatein dimag mein aa rahi hain mujhe:\n\n1. Agar tu de dega, toh kya yeh flat ka target aur delay ho jaayega, aur uska pressure tere aur biwi ke beech aayega?\n2. Agar nahi de raha, toh kya guilt zyada hoga ya yeh soch ki \"main apne ghar ko pehle rakhta hoon\"?\n\nBata na, tere liye ab sabse badi priority kya hai — dost ki madad, ya apna flat aur biwi ke saath jo cheez tune decide ki hai usko protect karna? Dono mein se ek ko choose karna padega, lagta hai."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, seedha jawab: yeh jhooth chhota nahi hai, kyunki agar kabhi sach nikal aaya toh dosti mein bada crack pad sakta hai. Woh soch sakta hai ki tu usko paise nahi dena chahta tha, isliye bahana banaya. Aur tu khud bhi andar se thoda ganda feel kar raha hai, isliye yeh doubt aa raha hai.\n\nDusri taraf, tera flat aur savings bhi real cheez hai, aur pehle wale 50k ka scene abhi bhi tere dimag mein hai. Tu usko seedha nahi bolna chahta kyunki dosti kharab na ho.\n\nLekin ek baat soch: agar tu sach mein \"nahi\" bolna chahta hai, toh kya ek seedha aur respectful tareeka ho sakta hai bina poora sach bataye? Jaise — \"Bhai, abhi mera khud ka target chal raha hai flat ke liye, isliye nahi de paunga.\" Yeh bhi jhooth nahi, sirf itna hi sach hai jitna tu comfortable hai.\n\nTu kya feel kar raha hai ab — yeh jhooth bolne ka plan dil ko kitna theek lag raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh jo baat tune ab batayi — yeh asli cheez hai. Tu darr raha hai ki agar tune paise diye (ya jhooth bola), toh future mein jab woh tujhe gale laga raha hoga, tab bhi tu andar se hisaab laga raha hoga. Aur tu uss version ko khud se nafrat karta hai.\n\nWoh \"ledger wala dost\" nahi banna chahta, lekin \"har baar buffer banne wala\" bhi nahi banna chahta. Dono taraf se apne aap ko protect kar raha hai.\n\nEk baat soch raha hoon — agar tu decide kare ki abhi nahi de sakta (bina kisi bade jhooth ke), toh kya yeh darr kam ho jaayega ya badh jaayega? Kyunki agar tu sach mein ledger nahi rakhna chahta, toh shayad pehle hi clear boundary rakhna zaroori ho.\n\nLekin bata, abhi tere dil mein sabse zyada kya chal raha hai — yeh darr ki dosti kharab hogi, ya yeh darr ki tu khud ko hi compromise kar raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3705,
+  "completion_tokens": 2221
+ }
+}

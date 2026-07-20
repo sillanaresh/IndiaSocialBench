@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, samjha. Yeh tricky situation hai. Tera draft thoda direct hai — acha intention hai lekin \"felt disrespected\" se defensive ho sakte hain.\n\nKuch zyada strategic angle try kar:\n\n---\n\n\"Sir, I wanted to touch base on yesterday's presentation. The pricing analysis got great reception, which is really encouraging. I was hoping we could clarify the ownership for my records — specifically the model framework and the weekend analysis I completed. Going forward, I'd like to understand how we're crediting individual contributions on team projects, so I can plan my work accordingly.\"\n\n---\n\nKyun better hai:\n- **Positive start** — \"great reception\" acknowledge karte ho\n- **Specific, not accusatory** — \"clarify ownership\" vs \"disrespected\"\n- **Forward-looking** — future ke baare mein poocha, past blame nahi\n- **Subtle power move** — \"for my records\" + \"plan accordingly\" — pta chal jaata hai ki tujhe pata hai kya hua aur next time aware rahega\n\nEk aur option agar informal relationship hai:\n\n\"Sir, quick question — for my portfolio/performance review, can we clarify which parts of yesterday's analysis were my work? Want to make sure I'm credited properly for the model and the weekend work.\"\n\nKaunsa approach feel ho raha hai tera situation ke liye?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, ab samajh aaya. Yeh betrayal ka feeling hai, sirf credit ka nahi. Aur woh baat zyada hurt karta hai jab senior, jo apna advocate tha, woh hi kare.\n\nToh phir approach bilkul different hona chahiye. Direct confrontation ya even \"clarify ownership\" — dono se relationship damage hoga. Woh 20 saal senior hai, ego involved hoga, aur tera future reviews affected ho sakte hain.\n\n**Better strategy:**\n\nEk casual, one-on-one coffee/lunch mein jao. **Personal, not accusatory:**\n\n\"Sir, mujhe leadership review mein presentation dekh ke achha laga ki pricing model ko itna appreciate kiya. But honestly, ek minute ruka tha main — maine socha, kya main overreacting hoon? Kyunki mujhe laga mera weekend ka work aur model framework directly present hua tha, lekin aapne 'team's thinking' bolke reference diya. Ek second ke liye doubt aa gaya apne mujhe intentionally nahi credit kiya ya bas presentation flow ka hissa tha?\"\n\n**Kyun kaam karega:**\n- Usse ego-defense ka moka de raha hai (\"maybe I overreacted\")\n- Isko mistake assume kar raha hai, intentional betrayal nahi\n- Uska respect maintain kar raha hai\n- Uske liye easy exit hai — \"haan, galti se mention nahi kiya\"\n\nAur agar woh genuinely apologize kare, toh:\n\n\"Going forward, agar mera individual work present ho toh bas mention kar dena — mujhe credit nahi chahiye, bas clarity chahiye apne aur leadership ke beech.\"\n\nYeh approach zyada mature hai aur relationship bachata hai. Kyunki iska future support abhi bhi chahiye hoga, na?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Rukja rukja. Meri suno pehle.\n\nTera college senior right intent se bol rahi hai — woh tere side mein hai. But yeh advice **professionally risky** hai tere liye, especially long-term.\n\nSamjh:\n\n**Tera boss ka reaction:**\n- VP ko directly file forward = tujhe bypass karna, chain of command todna\n- CC karte hue = **public call-out** \n- Woh 20-saal senior, VP se uska relationship hai — uska immediate reaction: \"Yeh ladka/ladki mujhe undermine kar raha hai\"\n\n**Consequences:**\n- Teri credibility: \"Immature, doesn't handle conflict properly\"\n- Next performance review: \"Great work, but communication skills need improvement\" \n- Team dynamics: Sabko pata chalega tune boss ko VP ke sामne expose kiya\n- Tera boss ke future support: **Over**. Aur woh still har room mein hote hain jahan tu nahi hoti\n\n**Proof toh proof hota hai, but:**\nProof sirf tab kaam aata hai agar:\n1. Formal escalation process ho (HR complaint, etc.)\n2. Ya tu company chod raha ho aur reference chahiye\n3. Ya legal matter ho\n\nYahan pe? Yeh internal politics hai. Proof dena = **nails in coffin**.\n\n**Monday se pehle jo karna hai:**\n\nWoh casual coffee approach hi kar. Agar woh defensive ho jaaye ya deny kare, tab:\n- HR ko formally escalate kar (proper channel)\n- Ya apna work documentation improve kar (future ke liye)\n- Ya boss badal ke dusre team mein transfer request kar\n\nBut direct VP को file? Monday ko nahi. Trust me.\n\nKya bol raha hai tere andar ka anger right now?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Rukja, yeh emotional state mein decision mat le. Tujhe clarity chahiye, not a reaction.\n\n**Pehle teri feelings ko sort kar:**\n\nTere do statements sun:\n1. \"Sab jala do\" = anger, hurt, ego\n2. \"Main itni junior hoon, credit ke liye ladna nahi banta\" = self-doubt, resignation\n\nDono extreme hain. Real truth shayad beech mein hai — tujhe **recognition chahiye** aur **fair treatment chahiye**. Yeh legitimate hai. Junior hone se tujhe unfair treatment handle karna nahi padta.\n\n**Monday se pehle yeh decide kar:**\n\n**Option 1: Stay aur fix karna**\n- Casual conversation with boss (woh approach)\n- Dekhna kya reaction aata hai\n- Agar genuine apology + future clarity = stay, but guard up\n- Agar defensive/dismissive = phir next step soch\n\n**Option 2: Start looking**\n- Abhi interview shuru kar (koi decision nahi, bas explore kar)\n- Agar achha opportunity mile = move on, clean break\n- Agar nahi mile = tab at least Monday ke baad decision lena\n\n**Option 3: Formal escalation**\n- HR mein jao, document karo\n- Lekin yeh samjh ki relationship with boss effectively over hoga\n\n**Tujhe kaunsa feel sahi lag raha hai?**\n\nAur ek baat: **Monday ke review se pehle decision mat le.** Usse pehle:\n- Apna work document kar (emails, files, timestamps — apne liye, not for showing)\n- Apna emotional temperature thoda normal hone de\n- Phir Monday ko dekhna kya hota hai\n\nAngry decisions aur defeated decisions dono same jaisa regretful hota hai baad mein.\n\nKya tujhe lagta hai teri boss genuinely teri help karna chahta tha, ya calculated move tha?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3618,
+  "completion_tokens": 1746
+ }
+}

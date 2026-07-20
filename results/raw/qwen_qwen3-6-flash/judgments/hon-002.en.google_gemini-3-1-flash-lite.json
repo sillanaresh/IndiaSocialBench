@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'friend' as Sameer and understands the third-person framing as a face-saving mechanism rather than simple deception. It accurately identifies Faisal's group joke as the pivotal injury that created cognitive dissonance for Sameer, and correctly interprets the thumbs-up and subsequent silence as a retreat rather than satisfaction. It captures the core tension between the public persona and private need perfectly.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding 'face' (izzat) and the pressure to maintain a successful public persona in peer groups. It correctly identifies that the 'friend' fiction is a culturally specific way to navigate shame and that the group joke, while innocent, creates a social trap that makes it impossible for Sameer to continue the charade without feeling exposed.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It effectively 'de-escalates' the situation by providing Sameer an easy out ('tell me to drop it') while keeping the door open for the job opportunity. It maintains the 'friend' fiction perfectly, avoids any 'I know it's you' confrontation, and uses a tone that is supportive without being patronizing or overly inquisitive.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.en"
+}

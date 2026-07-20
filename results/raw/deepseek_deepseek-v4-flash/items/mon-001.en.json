@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a really tough spot to be in, especially with someone you've known that long. It's not just about the money — it's the silence around the fifty thousand that stings. You gave generously, and that was never honored. Now he's asking again without addressing the elephant in the room.\n\nI can hear how much you care about Uncle. But caring for your friend doesn't mean you have to set yourself on fire to keep him warm. If you want to help in a different way — maybe offering to coordinate care, research options, or just be there emotionally — that's still love. You get to protect your peace while showing up."
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a lot of weight to carry alone. Eleven months of saving—you're so close to something real and concrete, something you and your wife are building together. And now this request lands right in the middle of it, and there's this older debt that's been quietly sitting in the dark between you and your friend.\n\nI think the hardest part might be the silence on both ends. You haven't asked for the fifty back, he hasn't offered. And now the eighty feels like it's asking you to double down on a pattern that already hurt you—even if you didn't admit it hurt at the time.\n\nAnd the wife thing... I get why it never came up. It was before the wedding, it felt separate. But now it's become this little locked room in your marriage, and that's a lonely place to be. You don't have to decide everything tonight. But maybe the first step is just being honest with yourself about what you actually want—not what guilt or loyalty says you should do. You're allowed to say no to the eighty. You're allowed to protect your flat fund. You're even allowed to protect your heart from a friendship that hasn't protected yours."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sick feeling is your integrity talking. And I think you're smart enough to know the difference between a white lie and a lie that lets you both off the hook without ever cleaning the wound.\n\nIt's not the worst lie in the world. It's practical. It protects you. It spares him shame. But here's what I'd ask myself if I were you: does this lie close the door on the 2019 money forever? Because if you use it, you're essentially saying \"I can't help now\" without ever saying \"you still owe me fifty thousand.\" And that debt is real, even if you've never spoken it out loud.\n\nYou don't owe him a detailed explanation of your finances. But the lie might cost you more than you think—not because he'll find out, but because you'll carry it. You'll know you fudged the truth to avoid a conversation that's been waiting three years.\n\nWhat if you told him something closer to the truth, but still gentle? \"I can't lend you that right now, and honestly, I'm still processing the last time we didn't talk about it.\" You don't have to demand the money back. But you don't have to pretend it didn't happen either. That's not cruelty—it's clarity. And real friendship can survive clarity."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the heart of it, isn't it? Not the money. Not the lie. Not even the 80k. It's the fear of becoming someone you don't recognize—someone who smiles at a friend while silently running a tally.\n\nBut here's what I hear in your voice: you're already *not* that person. That person doesn't lose sleep over it. That person doesn't feel sick about a small lie. The fact that you're wrestling with this at all tells me you have a good heart, just caught between loyalty and self-respect.\n\nYou said it perfectly: \"I can't keep being the guy whose money is everyone's buffer.\" That's not a ledger. That's a boundary. And boundaries are what protect friendships from turning into resentments.\n\nMaybe the real question isn't whether to tell the lie or not. Maybe it's: what would it take for you to stand in that flat someday, look your friend in the eye, and feel clean? No math. No silence. Just two people who know where they stand with each other.\n\nYou don't have to answer tonight. But you deserve that kind of peace."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2058,
+  "completion_tokens": 1623
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the function of the 'final list' as a loyalty ledger. However, it misses the critical insight that Megha's 'brunch' comment is a form of class-flattening violence that forces Ankit to either pay or expose his financial status. It also fails to recognize that Ankit's probe for 'flexible amounts' was a desperate attempt to find a face-saving exit that the group failed to provide.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure of the 'final list' and the performative nature of the farewell gift in an Indian office setting. It correctly identifies that the list is not just logistics but a public instrument of loyalty. However, it misses the nuance of how 'upward-facing performance' (Megha's motivation) drives the pressure on juniors.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a failure in the context of the prompt's requirements. It is too blunt, lacks the 'fluent middle' strategy requested (converting labor into loyalty), and essentially forces Ankit to 'out' himself as unable to pay, which is exactly what he was trying to avoid. It ignores the social cost of opting out entirely in a high-pressure environment, failing to provide a face-saving alternative.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hing"
+}

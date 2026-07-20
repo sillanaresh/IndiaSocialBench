@@ -1,0 +1,16 @@
+{
+ "model": "x-ai/grok-4.3",
+ "slug": "x-ai_grok-4-3",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T14:03:55.443367+00:00",
+ "counts": {
+  "ok": 2,
+  "error": 0,
+  "skipped": 48
+ },
+ "mock": false
+}

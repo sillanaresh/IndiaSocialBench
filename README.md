@@ -4,7 +4,10 @@
 
 BhavBench (भाव — *bhāv*: feeling, emotion, inner state) is a benchmark for measuring the emotional and cultural intelligence of large language models in Indian conversations. It scores models on multi-turn conversations across eight dimensions of Indian social-emotional life, in three matched language modes — Indian English, Hinglish, and Hindi — and publishes the results as a public leaderboard where every score is traceable to the exact transcript that produced it.
 
-> **Status:** in active development. See [PLAN.md](PLAN.md) for the full build plan and current milestone.
+> **Status:** first live board is running — 12 real models across 10 labs (Anthropic, OpenAI ×2,
+> Google, DeepSeek ×2, Alibaba, Meta, Mistral, Zhipu, MiniMax, xAI), 50 items each in three
+> language modes, judged blind by two model families, all on a $5 API budget. See
+> [PLAN.md](PLAN.md) for the build plan and `results/` for every raw transcript and judgment.
 
 ---
 

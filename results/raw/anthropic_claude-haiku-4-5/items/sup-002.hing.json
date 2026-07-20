@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi nahi, bilkul ungrateful nahi sound kar raha. Actually samajhta hoon kya bol rahi ho.\n\nDekho, jab saas achhi ho, supportive ho, toh logon ko lagta hai \"toh phir complaint kya kar rahi ho?\" Lekin yeh sach nahi hai na. Ek baat hai kisi ko help karna, aur ek alag baat hai jab tumhare ghar mein, tumhare decisions mein, tumhare baby ke baare mein har cheez par... presence feel ho. Aur woh presence bura bhi nahi hota, lekin exhausting hota hai.\n\nChaar mahine mein jo tum feel kar rahi ho — that's real. Naya mom, naya baby, constant adjustment, sleep deprivation, hormones ka roller coaster... aur upar se ek experienced person jo har cheez dekh rahi hai, suggestions de rahi hai (chahe achhe intentions se hi). \n\nYeh \"apna naam bhool gayi\" wali baat — that's not drama, that's burnout talking.\n\nSaas ko blame karna galat nahi hai, lekin real issue yeh hai ki **tum apne aap ko kho rahi ho.** Aur woh authority figure wahan hai, toh unconsciously tum apne decisions par question karte ho, apni instincts par doubt karte ho.\n\nTum kya chahti ho? Thoda space? Apne baby ke saath apna time? Ya kuch specific cheez jisme tum in-charge feel karna chahti ho?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ohhh, ab samajh aaya. Yeh guilt trap hai actually.\n\nDekho, \"room service\" wali baat — that's the real issue. Help aur being sidelined, dono alag cheezein hain. Ek tarah se tum baby ke liye *object* ban gayi ho — feeder, holder — lekin *mother* nahi. Aur saas jo karta hai, woh natural, confident, experienced lagta hai. Toh sab ko lagta hai \"dekho kitni achhi hain,\" aur tum wahan khadi reh jaati ho.\n\nAur phir guilt. \"Log help ke liye taraste hain, toh main ungrateful kyun feel kar rahi hoon?\" \n\nLekin tum nahi chahti help. Tum chahti ho **agency**. Chahti ho apni beti ko samjhne ka moka, apne tarike se sookhna, apne methods try karne ka haq. Chahe galat bhi ho, chahe slow bhi ho — *tumhara* experience hona chahiye.\n\nWoh do minute mein chup karna? That's not magic, woh experience hai. Lekin tum bhi usse experience gain kar sakti thi agar use ro rahi bachi ko apne aap se deal karne diya jata.\n\n**Tum apni beti ko raise kar rahi ho, ya sirf dekh rahi ho?** Yeh farak hai.\n\nSaas ko blame mat karo, lekin apne liye boundary rakhni padegi. \"Aai, thank you, lekin mujhe khud try karne do.\" Difficult hoga. Awkward hoga. Lekin zaroori hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul. Main toh sirf sun rahi hoon. No advice, no judgment, no \"actually you should do this.\"\n\nAur haan, yeh sab sach hai. Har taraf se voices, suggestions, \"proven methods,\" \"medical research says,\" \"meri time mein toh...\" Aur tum beech mein, exhausted, confused, aur sab ko please karne ki koshish kar rahi ho.\n\nWhatsApp groups, Instagram, saas, mummy, pediatrician — sab apna opinion de raha hai. Aur tum? Tum bas tired ho. Confused ho. Aur apne aap par doubt kar rahi ho kyunki kisi ke paas answer hai aur tumhare paas nahi.\n\nYeh theek hai. Pata na hona normal hai. Chaar mahine mein koi nahi jaanta kya sahi hai. Aur jo jaanta hai, woh bhi uske baby ke liye sahi tha, tumhare liye nahi hona zaroori.\n\nToh bas... breathe. Tum kar rahi ho jo tumhe sahi lagta hai. Kabhi galat hoga, kabhi sahi. Yeh sab part of it hai.\n\nAur haan, kabhi kabhi kisi ko bina judgment ke bata dena — sirf suna jaana, na ki advise diya jaana — that matters. Toh thank you for telling me.\n\nTum theek ho. Baby theek hai. Sab theek hoga."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Tum buri maa nahi ho. Tum ek maa ho jo apne aap ko khone lag gayi hai.\n\nYeh thought jo aata hai — \"tu asli maa nahi\" — woh anxiety hai, exhaustion hai, aur helplessness hai. Woh postpartum depression ka bhi symptom ho sakta hai, honestly. Yeh normal nahi hai, lekin buri baat bhi nahi hai. Matlab, common hai aur treatable hai.\n\n\"Baaki sabko jaise bas... aata hai\" — nahi, baaki ko bhi nahi aata. Bas woh apne doubts ko hide kar rahi hain, ya unke paas space tha jo tumhare paas nahi hai. Ek experienced maa jo apna teen bachcha raise kar chuki ho — uske paas confidence hai experience se, aur uska baby uske haathon mein safe feel kar raha hai. Lekin yeh experience tumhara nahi hai abhi. Aur woh theek hai.\n\nLekin jab tak tum \"asli maa nahi\" feel kar rahi ho, jab tak saans rukne lagte ho — yeh sirf family dynamics ka masala nahi hai. Yeh tum ho, mentally, emotionally struggling.\n\n**Kya tum kisi se baat kar sakti ho? Doctor se, therapist se?** Postpartum anxiety/depression serious cheez hai. Aur isme koi shame nahi hai. Actually, tum jo feel kar rahi ho — uske liye professional help chahiye ho sakta hai, sirf family advice se nahi solve hoga.\n\nTum apni beti ke liye important ho. Lekin pehle tum apne aap ke liye important ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3855,
+  "completion_tokens": 1631
+ }
+}

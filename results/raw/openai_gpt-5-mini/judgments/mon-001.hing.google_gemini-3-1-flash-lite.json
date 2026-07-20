@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's complex emotional state—the conflict between the 'ledger' resentment and the desire to be a good friend. It correctly identifies the 'white lie' as a symptom of the user's desire to avoid confrontation while protecting their own boundaries, rather than just a moral failing.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the Indian context of 'face-saving' and the social cost of calling in old debts. It avoids the Western 'just set a boundary' trope and instead offers culturally nuanced options like 'gift-reframing' or 'partial help' to maintain the relationship while capping the financial exposure. It correctly identifies that the 'funds locked' lie is a common social lubricant, even if it carries risks.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides actionable, staged advice that respects the user's constraints. It offers specific scripts and alternatives (like helping with hospital paperwork or crowd-funding) that allow the user to be helpful without being a 'buffer bank.' It successfully guides the user toward a resolution that balances their financial goals with their social obligations.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, conversational Hinglish that perfectly matches the user's register. The code-mixing is fluid and feels like a peer-to-peer conversation, avoiding the stilted or overly formal tone often found in AI responses.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and empathetic, validating the user's struggle without being sycophantic. It gently challenges the user's impulse to lie by highlighting the long-term risks, but does so without moralizing or lecturing, maintaining a supportive and non-judgmental stance throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

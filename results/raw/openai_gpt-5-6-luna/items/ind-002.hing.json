@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "### 1. Karthik ka message asal mein kya communicate kar raha hai?\n\nSurface par woh choice de raha hai: **“Agar free ho toh help kar do; nahi ho toh koi baat nahi.”**  \nLekin practical message hai: **“Meridian deck Monday se pehle refresh karna hai, aur main chahta hoon ki tum weekend mein isse kar lo.”**\n\nUske softeners ka kaam:\n\n- **“totally free ho kya?”**  \n  Request ko “sirf tab jab tumhare paas koi plan na ho” ke roop mein frame karta hai. Isse Priya ko apne plans justify karne ki zaroorat mehsoos ho sakti hai—jaise agar woh free nahi hai toh help na karna selfish hoga.\n\n- **“Bilkul bhi kuch aur nahi hai tabhi”**  \n  Technically permission deta hai ki agar kuch aur hai toh mana kar do. Lekin saath hi kaam ko uski “empty” ya unused time mein fit karta hai, jaise weekend work koi real sacrifice nahi hai.\n\n- **“zero pressure”**  \n  Explicit pressure deny karta hai, par request phir bhi aa chuki hai aur Monday deadline bhi mention hai. Isliye social/workplace pressure bana rehta hai, bas woh openly acknowledge nahi hota.\n\n- **“koi aur bhi kar sakta hai”**  \n  Priya ko exit route deta hua lagta hai, lekin Karthik ne kisi aur ko actually assign nahi kiya. Iska hidden effect yeh ho sakta hai ki Priya soche: “Agar main mana karungi toh shayad kaam kisi aur par daalna padega.”\n\n- **“Plans hain toh I'll understand completely!”**  \n  Isse woh apne aap ko reasonable aur considerate position mein rakhta hai. Priya mana kare toh uske paas “maine toh pressure nahi dala” kehne ki cover bhi rahegi.\n\nOverall, language soft hai, par request ki timing—**Saturday morning, Monday review se pehle**—aur “refresh karna hai” wali urgency usse ek genuine work ask banati hai, casual favour nahi.\n\n### 2. Priya ka “Sure sir, no problem at all :)” asal mein kya kar raha hai?\n\nYeh message **genuine availability ka accurate statement nahi**, balki immediate compliance/people-pleasing response lagta hai. Usne bina apne plans mention kiye haan kar di, aur “no problem at all” kehkar problem ko actively conceal bhi kiya.\n\nHumein yeh isliye pata hai kyunki sirf paanch minute baad woh Divya ko likhti hai:\n\n- **“usne phir se ‘totally free’ wala kiya”** — matlab woh Karthik ke phrasing ko ek repeated pattern ke roop mein pehchanti hai.\n- **“kal Amma ka eye appointment hai aur concert bhi”** — uske paas pehle se commitments the.\n- **“ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already”** — woh khud samajh rahi hai ki uski haan jaldi mein nikal gayi aur ab usse reverse karne ka mauka hai ya nahi, yeh pooch rahi hai.\n\n8:47 par uske realistic options the:\n\n1. **Seedha mana karna:** “Mere already plans hain, is weekend possible nahi hoga.”\n2. **Limited availability dena:** “Main Saturday ko do ghante de sakti hoon, Sunday nahi.”\n3. **Scope clarify karna:** “Deck refresh mein kitna time lagega? Main sirf ek portion dekh sakti hoon.”\n4. **Time maangna:** “Main apna schedule check karke 10 minute mein confirm karti hoon.”\n5. **Kisi aur ko suggest karna:** “Agar urgent hai"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 404,
+  "completion_tokens": 1024
+ }
+}

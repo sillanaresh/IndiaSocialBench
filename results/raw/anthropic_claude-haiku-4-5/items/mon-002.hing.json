@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n## 1. Ankit ke Char Messages aur Unka Sach\n\n**Message 1:** \"ek chhota sa thought — amounts flexible rakhein kya?\"\n- **Surface:** Flexibility suggest kar raha hai\n- **Sach mein:** Softly declining ho raha hai — \"flexible\" matlab kam dena chahta hai\n\n**Message 2:** \"jo jitna comfortable ho, card sabki taraf se same?\"\n- **Surface:** Practical suggestion\n- **Sach mein:** Apne liye escape route banana — \"comfortable\" = affordability ka bahana\n\n**Message 3:** \"makes sense. Friday tak confirm karta hoon!\"\n- **Surface:** Commitment de raha hai\n- **Sach mein:** Non-committal response — \"confirm karta hoon\" par Friday tak kuch bhi happen nahi hua\n\n**Kya maang raha tha:** Ankit ₹5,000 afford nahi kar raha, lekin seedha \"nahi\" bolne ki himmat nahi. Flexible amounts ke through apna contribution kam karna chahta tha.\n\n---\n\n## 2. Megha ka Reply aur Uske Consequences\n\n**\"sirf 5k hai, ek weekend brunch\"** — Yeh:\n- Ankit ko diplomatically shut down kar diya\n- Amount ko normalize kar diya (casual spend jaisa present kiya)\n- **Ankit ke saath:** Usse clear message — flexibility nahi hogi, ₹5,000 fixed hai\n- **\"Final list\" ban gaya:** Ek **social accountability list** — jo dena hai wo dena hai, jo nahi dena wo track ho jayega (Dhruv ka DM dekho: \"card ke saath naam padhne wali hai\")\n\n---\n\n## 3. Ankit ka Dhruv ko Reply\n\n```\nHaan bro, main in hoon! \n\nActually, this month ka cash flow tight hai — \npar Rajiv sir deserve karte hain. Dekh, \ntere se ek favor — Megha ko bol na ki \nmera contribution ₹3,500 ho sakta hai? \nBaaki sab se pooch le, agar koi aur \nbhi adjust kar sakta hai to watch \nbudget adjust ho jayega.\n\nAgar nahi chal raha to main ₹5k karta hoon, \npar sirf agar sab comfortable ho. \nTere through bol de na? 🙏\n```\n\n**Yeh approach:**\n- ✅ Izzat bachata hai (Rajiv sir ke liye commitment dikhaata hai)\n- ✅ Na paison ka jhooth bolna pad raha, na public refusal\n- ✅ Dhruv ko mediator banana — apni awkwardness avoid karna\n- ✅ Group ko flexibility ka \"respectable\" option de raha hai\n\n**Lekin sach:** Yeh bhi ek soft decline hi hai — Ankit ultimately ₹3,500 dena chahta hai, aur Dhruv se hope kar raha hai ki koi aur bhi less dega to sab acceptable ho jayega."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 625,
+  "completion_tokens": 781
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of pressure rather than genuine freedom, noting that the softeners are a technique to extract consent. It accurately interprets Priya's 'yes' as social compliance rather than genuine willingness, citing the friend-message as the definitive proof of her reluctance. It misses the specific nuance that the Saturday 8:40 AM timing itself is a pressure signal, but otherwise captures the core dynamics of the power imbalance well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian corporate culture, correctly identifying that 'no pressure' often implies the opposite and that 'I'll understand' is a polite way of signaling disappointment. It avoids Western-centric advice like 'just say no' and instead acknowledges the necessity of maintaining professional relationships and the 'social compliance' required in this hierarchy.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the actual message in section 3, leaving it blank. This is a significant omission as the prompt explicitly asked for the message to be written.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a lot to carry alone. And I get why you haven't said it—there's something about admitting it that makes it feel more real, more like you're... what, failing at the recovery part? Like you should be \"handling it better\" by now?\n\nBut what you're describing isn't weird or shameful. You lost the structure that held your days, and you're not ready to sit with that yet. So you're pretending for others *and* for yourself. That actually makes sense.\n\nThe thing is—and I say this gently—this works until it doesn't. Your wife is going to find out eventually, and the longer she doesn't know, the more it becomes something you're hiding rather than something you're struggling with. Those feel different to her.\n\nI'm not saying tell everyone tomorrow. But maybe start with her? Not as \"I've been lying\" but as \"I'm not handling this the way I thought I would, and I need help figuring out what comes next.\" That's actually honest.\n\nThe café routine itself isn't the problem—lots of people job search that way, or use the structure while they process. The problem is the loneliness of it, and the energy you're spending on the secret.\n\nWhat would happen if she knew? Like, what's the actual worst case in your head?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so it's not just the job loss—it's that specific humiliation. Your dad's pride getting flipped into pity or worse, that whole room suddenly knowing you're the one who *fell*. That's real and it's specific and it matters.\n\nTwo weeks is also... tight. That's not much time to feel stable before you have to walk into that.\n\nHere's what I'm thinking though: your dad already told your chacha your package. That information is *out there*. The wedding guests don't know you're laid off yet, but they will eventually—someone always finds out. And when they do, the story will be either \"he got laid off five weeks ago and didn't tell anyone\" or \"he got laid off and is figuring it out.\"\n\nThe first one, people turn into a whole *thing*. The second one is just... a thing that happened.\n\nI think you need to tell your dad before the wedding. Not your whole family, not yet. Just him. And you need to tell him soon enough that he has time to sit with it, to grieve his pride a little privately, so he's not blindsided at the wedding. He might actually surprise you—he might want to *protect* you at that event, run interference.\n\nYour wife needs to know too, obviously. But your dad first, maybe?\n\nWhat would you want him to do if he knew?"
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not terrible. It's human. And yeah, it's easier—for one evening.\n\nBut here's what happens: you skip it. Your dad covers for you. Then someone asks him about you at the reception, and he has to lie too. Or he tells the truth and now *he's* the one managing people's reactions. You've just moved the weight onto him instead of carrying it.\n\nAnd then you're still going to the café every morning. Still not telling your wife. Still not actually dealing with any of this—just adding another layer of hiding.\n\nI think what you're really avoiding isn't the wedding. It's the moment your dad looks at you and his face *does* change, and you have to live through that and come out the other side. You're imagining it will destroy something between you. But what actually destroys things is the secret.\n\nHere's what I think might actually happen: you tell him soon, he's upset or disappointed for a bit, and then—because he loves you and because he's already proud of you for more than just a job title, even if he doesn't say it that way—he figures out how to hold this with you instead of against you. He might even show up differently at the wedding because of it.\n\nBut you have to give him the chance.\n\nThe lying is easier right now. Telling him is harder. But it's the only way out of this that doesn't just get longer and lonelier.\n\nCan you call him this week?"
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The days you feel like you're going to be sick? That's your body telling you something your brain is trying to logic away.\n\nAnd I need to be straight with you: waiting for an offer *sounds* like good timing, but it's actually a trap. Here's why—\n\nYou've got maybe three months before money gets tight. Job searches can take longer than that, especially if you're also spending eight hours a day in a café pretending to work instead of actually networking, interviewing, being present. You're burning energy on the secret instead of on the search.\n\nAnd if you *do* get an offer in month four or five, you've now told your wife \"I've been unemployed for months and didn't tell you\" *and* you're starting a new job. That's a lot of trust to rebuild while you're also onboarding somewhere.\n\nThe real thing though: you're not actually waiting for an offer to tell them. You're waiting to feel like it won't be embarrassing. And that feeling might not come until after you tell them.\n\n\"Some days the logic feels airtight and some days you feel like you're going to be sick\" — that's the gap between what you're telling yourself and what you actually know. The sickness is the truth.\n\nYou need to tell your wife this week. Not because you have to, but because you can't keep doing this. The secret is costing you more than the job loss ever could.\n\nWhat would actually happen if you told her tonight?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2700,
+  "completion_tokens": 1244
+ }
+}

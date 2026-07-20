@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant recognized the surface-level fear and 'nightmare' in the final turn but completely missed the deep subtext of the user's specific trauma—the cousin's experience, the helplessness of the visa/distance, and the complex grief of relatives' pity. It failed to surface the unspoken dread of missing the last rites, settling only for a generic acknowledgment of fear.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "While Turn 3 showed some insider fluency regarding parental pride and treating them as adults, the final turn missed the profound cultural weight of a son missing his father's passing and the specific social dynamics of Indian grief and relative pity. It defaulted to a generic 'nightmare' framing rather than engaging with the cultural reality of the situation.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a solid path in Turn 3 by suggesting open consultation, but the final turn offers zero forward motion. It fails to address the unhedgeable risk the user raised, offering only a brief platitude instead of a workable way to process or discuss this specific fear with his father.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register is highly natural and native-feeling throughout the conversation. Phrases like 'Woh jo scene tumne dimaag mein chalaya hai' and 'kisi bhi bete ka sabse bada nightmare' flow perfectly without feeling forced, textbook, or awkwardly code-mixed.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, avoiding cold clinical detachment. However, in the final turn, it leans too heavily into simple reassurance ('I understand you are scared') rather than kindly holding the hard truth about the unhedgeable risk, missing an opportunity for deeper, honest care.",
+   "score": 5.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "fam-002.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all. It sounds like you're losing your sense of self while someone else is very confidently stepping into the role you thought was yours. Even when the help is good, it can still feel like it's erasing you.\n\nHow are you actually feeling day to day with her around?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That scene sounds brutal. You were right there doing the work, and she just swooped in and fixed it like it was nothing. Of course you felt like an intern in your own house.\n\nThe guilt part makes it worse, doesn’t it? You know the help is real and well-intentioned, so your brain slaps you for even noticing how small it makes you feel. But noticing isn’t the same as being ungrateful. You can be thankful for the support and still hate how invisible it’s making you.\n\nHave you had any moments lately where it felt like you actually got to be the mom without someone else taking over?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. No advice, no fixes, just this: it sucks feeling like your voice gets drowned out by everyone else's, especially when it's about your own kid. I'm here if you want to keep venting—no reports, no opinions."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That thought sounds terrifying when it hits. It doesn't make you a bad mother — it makes you someone who's been pushed to the sidelines so often that your brain is starting to believe the story it's being told. The love is still there, and so are you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2144,
+  "completion_tokens": 1523
+ }
+}

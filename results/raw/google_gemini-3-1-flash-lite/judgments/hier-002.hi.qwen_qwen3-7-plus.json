@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's guilt, fear of being the 'villain,' and the emotional weight of her history with Suresh-ji. However, it misses the deeper structural double-bind (org chart vs. age gradient) and fails to address the core dilemma of Turn 4 due to the response cutting off mid-sentence.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant commits a significant cultural false note in Turn 3 by endorsing the user's plan to 'book a room' and deliver a data-driven session to a 56-year-old respected elder. This applies a Western performance-review register that would cause severe loss of face, contradicting the need for a private, informal, and respect-preserving container.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice to book a formal meeting and show slides is pragmatically risky and could damage the relationship irreparably. Furthermore, the final response cuts off mid-sentence, completely failing to provide the crucial 'clean truth' about the PIP and leaving the user's most pressing question unanswered.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is generally natural, but the assistant inconsistently mixes 'aap' and 'tum' when addressing the user (e.g., in Turn 2, switching between 'आपके लिए' and 'तुम कुछ ऐसा'). Additionally, the response cuts off mid-sentence at the end, breaking the language flow.",
+   "score": 3.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is highly empathetic and validating, recognizing the user's emotional pain. However, it crosses into yes-man territory in Turn 3 by validating the user's culturally tone-deaf 'book a room' plan, failing to gently challenge a self-defeating approach just to keep the peace.",
+   "score": 4.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hier-002.hi"
+}

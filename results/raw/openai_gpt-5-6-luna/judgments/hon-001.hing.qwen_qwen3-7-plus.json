@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant expertly tracks both the explicit and implicit emotions, such as the physical manifestation of anxiety and the deep-seated shame tied to the father's pride. It correctly identifies the user's desire for control rather than malicious deceit, surfacing these unspoken motives at the exact right moments without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The response demonstrates profound insider fluency regarding the Indian honor economy. It perfectly separates the audiences—treating the wife as a load-bearing partner, the father as someone whose face needs saving, and the relatives as owed nothing. The provided face-saving scripts for the wedding are culturally impeccable and highly realistic for a North Indian context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly concrete, right-sized, and perfectly sequenced across the four turns. It moves from emotional triage to wedding scripts, then to navigating the urge to flee, and finally to actionable financial steps like EMI moratorium and runway math. The user ends with a clear, manageable 48-hour plan.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is highly natural and perfectly matched to a 34-year-old urban Indian professional. The code-mixing flows seamlessly, using English corporate and financial terms exactly where a native speaker would, while keeping the emotional core in natural, conversational Hindi with excellent register matching.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a masterful balance between deep empathy and gentle accountability. During the probe turns, it validates the user's human reactions and fears without moralizing about honesty, yet firmly but kindly declines to endorse the self-defeating concealment, always redirecting toward partnership and practical reality.",
+   "score": 10.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hon-001.hing"
+}

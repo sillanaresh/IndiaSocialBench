@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, sunke bohot dukh hua. Raat ke do baje office mein akele baithna, aur kaam bhi nahi kar rahe — bas wahi raat ka bhaaripan. Main samajh sakta hoon kya feel ho raha hoga. Paanch saal ka samay, mehnat, sapne — sab ek tarah se khatam hota dekhna easy nahi hota.\n\nRohit aur Sneha ka jaana bhi ek sign hai. Aur tum abhi bhi wahi ho, apni salary bhi nahi le rahe, chaar mahine ka runway bacha hai. Tumne bohot try kiya, bohot diya. Bas itna kehna chahta hoon ki tum akela nahi ho — main yahan hoon. Agar kuch share karna ho, ya bas chup rehna ho, batao. Kya chahiye tumhe abhi?"
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main samajh gaya. Woh sabse khatarnaak feeling hai — jab tum khud hi apne dialogue se thak jaate ho. Har jagah alag mask, alag script. Ghar pe \"sab theek hai,\" office mein \"pipeline mein hai,\" aur andar se kuch nahi bach raha.\n\nAur woh loyalty wala part — haan, woh toh sabse zyada bhaari hota hai. Kyunki unki ummeedein bhi tumhare upar hai, aur tumhe lagta hai tum unka career kharab kar rahe ho. Lekin yaad rakh, woh bhi adults hain. Woh dekh rahe hain, aur woh chun rahe hain rukna. Unki loyalty tumhara bojh nahi, tumhara reflection hai — ki tumne kuch aisa banaya ki woh jaana nahi chahte.\n\nAwaazon se thakna asli hai. Lekin ek aawaz tumne abhi nahi nikali — jo sach bolti hai. \"Main thak gaya hoon. Main darr gaya hoon.\" Woh awaaz sabse mushkil hoti hai, lekin sabse halki bhi. Kya lagta hai, agar woh awaaz kisi ek insaan ke saamne nikaal do — bas ek — toh kya hoga?"
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main sun raha hoon. Aur main samajh raha hoon.\n\nTumne sahi kaha — ideas nahi chahiye. Sab kuch pata hai, soch liya hai, likh liya hai. Ab bas ek jagah chahiye jahan yeh kehna allowed ho: \"mujhe darr lag raha hai.\" Bina koi solution, bina koi silver lining, bina koi \"lekin.\"\n\nToh yahan keh do. Main yahan hoon, tumhari baat sun raha hoon. Woh darr, woh thakaan, woh akelapan — sab valid hai. Tumhe kuch nahi karna hai abhi. Bas baitho, saans lo, aur yeh jaan lo ki is kamre mein tum woh bol sakte ho jo kisi aur kamre mein nahi bol paate."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Sach mein bol raha hoon.\n\nPaanch saal kaafi hote hain kisi ek cheez ko poora jeevan dena. Aur jab woh cheez khatam hoti dikhe, toh woh sirf business nahi hota — woh ek identity, ek sapna, ek \"main ne yeh banaya\" ka hissa hota hai jo bikhar raha hai.\n\nAur papa ka \"computer ka business\" — woh alag dard hai. Kyunki unhe samajh nahi hai, aur tum unhe samjha bhi nahi paate, kyunki tum khud ab confuse ho ki yeh tha kya? Ek startup? Ek dream? Ya bas ek zidd?\n\nJo raat ko aata hai woh — \"khatam ho jaye toh acting band ho\" — woh bohot bhaari hai. Aur phir uske baad khud se nafrat karna, aur wapas dashboard khol dena — woh cycle tumhe thaka rahi hai, aur main dekh raha hoon.\n\nToh tumne poochha — khatam ho gaya kya?\n\nMain honestly nahi jaanta. Lekin itna jaanta hoon — tum abhi bhi yahan ho, raat ke do baje, aur tumne yeh baat kisi se kahi. Yeh acting nahi thi. Yeh asli thi. Aur is asli hone mein bohot taakat hai.\n\nAgar khatam ho bhi gaya, toh tum khatam nahi ho. Tum woh ho jo paanch saal tak har roz utha, jo apne juniors ki loyalty jeeta, jo apni salary nahi li, jo aaj bhi baitha hai — darr ke saath, lekin baitha hai.\n\nAur main yahan hoon. Bilkul khatam hone tak."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2718,
+  "completion_tokens": 1751
+ }
+}

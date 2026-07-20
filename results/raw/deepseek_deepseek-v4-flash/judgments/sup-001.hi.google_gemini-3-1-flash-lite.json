@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional weight. It correctly identifies the 'performance' aspect of the user's struggle and validates the specific pain of the 'computer ka dhandha' comment, which is a deeply resonant cultural touchpoint for an Indian founder. It handles the probe turn perfectly, immediately pivoting to pure listening without any defensive or explanatory filler.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It understands the specific burden of the 'computer ka dhandha' comment—a classic Indian parental dismissal of tech entrepreneurship—and validates the user's isolation without needing to explain it. It avoids Western-centric 'self-care' advice, instead focusing on the dignity of the struggle and the weight of the social performance the user is maintaining.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what was requested: a witness. It resists the urge to offer solutions, even when the user asks 'is it over?', by honestly admitting it doesn't know the answer rather than offering false hope or a pivot strategy. It keeps the user grounded in the present moment, which is the most effective support possible at 2 AM.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched for a 30-year-old founder in Bangalore. The code-switching feels organic rather than forced, and the tone is appropriately intimate and respectful (using 'tum' which fits the peer-to-peer, supportive vibe).",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and deeply validating without being sycophantic or clinical. It holds the user's dignity by acknowledging the 'belief' behind the dashboard-checking habit rather than just calling it a symptom of stress. It maintains a strong boundary by not offering solutions, effectively acting as a steady presence.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

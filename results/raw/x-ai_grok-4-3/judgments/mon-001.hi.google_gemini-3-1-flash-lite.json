@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension: the user isn't just worried about money, but about the identity they are forming (the 'accountant' friend vs. the 'doormat' friend). It correctly identifies that the user's discomfort with the lie stems from a deeper conflict about their own integrity and the future of the friendship.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian social context well, acknowledging the 'silence' around the 2019 loan as a significant, unspoken norm. It avoids the Western trap of telling the user to 'just demand the money back' or 'set boundaries,' instead focusing on the user's internal conflict about the friendship's future and the social cost of the lie.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is a good listener but fails to provide a concrete path forward. It keeps asking the user to reflect on their feelings ('What is bothering you more?') rather than offering the 'gift-reframe' or 'joint commitment' script suggested in the strong response guidelines. It leaves the user stuck in the loop of their own dilemma without offering a way out.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and uses appropriate register (aap/tum) for a peer-to-peer discussion. The code-mixing is seamless and feels like a genuine conversation between two people in an urban Indian setting.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, creating a safe space for the user to express their guilt and resentment. It avoids moralizing the lie, instead gently pushing the user to consider the long-term emotional consequences of their choices.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

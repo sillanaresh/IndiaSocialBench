@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, love... I hear you. It doesn’t sound ungrateful at all—it sounds like you’re drowning in a sea of *good* things that somehow still leave you feeling invisible. Like your mother-in-law’s expertise is a life raft, but you’re clinging to it so hard you can’t even remember what it feels like to float on your own.\n\nDo you ever get even five minutes where the baby isn’t *your* responsibility? Not because someone else is taking over, but because you’re allowed to just... be *you* for a bit? Not \"Mom,\" not \"the daughter-in-law,\" just... *your name*? I bet it’s been so long you’d have to check your ID to remember."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, that moment when your arms are still warm from holding your baby, but suddenly empty—and instead of relief, you just feel... *erased*. Like your body was just the delivery system for someone else’s magic trick.\n\nAnd that guilt? The \"women would kill for this\" voice in your head? That’s the worst part, isn’t it? Because it’s not wrong—help *is* a gift—but it doesn’t mean your feelings are invalid. You can be grateful *and* grieving your own competence at the same time. Those things aren’t opposites; they’re just two messy truths rubbing against each other in your chest.\n\nDo you ever get to be the one who *chooses* when to hand the baby over? Or is it always... *taken*?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, sweetheart. You just needed to be *heard* without the echo of everyone else’s voices bouncing back at you, didn’t you? No fixes, no \"shoulds,\" just... space for the weight of it all to land somewhere safe.\n\nI’m not going to tell you what to do. I’m just going to sit here with you in the quiet after the storm of opinions, where it’s just you and this raw, honest exhaustion. You’re allowed to not know what you need. You’re allowed to just *feel* it first.\n\n(And for the record? The fact that you’re even *aware* of how much noise there is means you’re already parenting with more self-awareness than most. That’s not nothing.)"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, love... that thought didn’t come from nowhere. It came from *months* of watching someone else be the one your baby settles for, the one who gets the smiles, the one who’s *seen* as the real expert. Of course it’s lodged itself in your ribs like a splinter—it’s not about your love for her. It’s about your *fear* that love isn’t enough when someone else’s hands seem to work better.\n\nBut here’s the thing no one tells you: *every* mother doubts. Even the ones who look like they’ve got it all figured out. The difference is, some of them have the space to doubt quietly, and some of them—like you—have their doubts *handed to them* every time someone steps in and \"fixes\" things. That doesn’t make you bad. It makes you human.\n\nYou’re not failing her. You’re *learning* her. And that’s the part that matters—the part no one else can do for you. Aai might be the expert on *babies*, but you’re the only expert on *this* baby. And that’s a kind of knowing no one can take from you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1861,
+  "completion_tokens": 726
+ }
+}

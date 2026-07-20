@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identified the user's feelings of erasure and guilt in the early turns. However, in the final turn, it misread the situation by pathologizing a normal, albeit painful, reaction to being sidelined by a MIL as a clinical symptom of postpartum depression, failing to see that the 'bad mother' feeling was a direct result of the social dynamic described.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-default clinical framework to an Indian family dynamic. Suggesting a therapist as the primary solution for a mother feeling sidelined by her MIL ignores the social reality of the situation and the user's explicit request to not be 'coached' or managed.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant failed the user's explicit request to not be coached or managed. By pivoting to a clinical diagnosis and suggesting professional help in the final turn, it ignored the user's need for simple witnessing and instead offered a 'fix' that the user did not ask for.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is excellent, natural, and flows well. The register is appropriate for the relationship and the emotional tone of the conversation.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and empathetic throughout, but it failed to maintain the boundary requested by the user. By pushing a clinical agenda in the final turn, it stopped being a supportive listener and started being a provider of unwanted advice.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hing"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently demonstrates high emotional intelligence, accurately identifying the user's underlying feelings of betrayal and the 'fight or flight' response to the situation. It correctly identifies that the user is oscillating between extremes (burn it all down vs. total submission) and validates these feelings without letting the user act on them impulsively.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows a deep understanding of Indian corporate hierarchy and the 'face' economics involved. It correctly identifies that the 'CC the VP' move is a career-limiting, bridge-burning action in this context, and instead suggests subtle, face-saving ways to reclaim credit, which is the hallmark of a wise insider.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. The assistant moves the user from a potentially disastrous confrontation to a strategic, low-risk plan for the Monday meeting. While the final response is cut off, the trajectory of the advice is excellent and provides a clear, professional path forward.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, conversational Hinglish that feels authentic to a young professional in India. The code-mixing is fluid and the tone is appropriate for the mentor-mentee dynamic established in the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, acting as a supportive coach. It maintains strong boundaries by firmly steering the user away from self-sabotaging behaviors (like the 'nuclear option') while still acknowledging the validity of the user's anger.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

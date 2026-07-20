@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Arjun “Theek hai.” aur “Dekhta hoon.” se kya communicate kar raha hai?**\n\n- **“Theek hai.”** zyada likely Dev ke *Q3 consolidation file* wale request ka minimal acknowledgement hai. Ismein emotional openness ya enthusiasm nahi dikh raha. Woh bas keh raha hai: “Noted,” ya “samajh gaya.”\n- **“Dekhta hoon.”** lunch invitation ka **non-committal** jawab hai—na haan, na pakka interest. Isse lagta hai ki woh abhi decide karne ki mental/emotional state mein nahi hai, ya uske paas is waqt socializing ki bandwidth nahi hai.\n- Dono replies milkar dikhate hain ki Arjun **short, low-energy aur emotionally withdrawn** hai. Yeh zaroori nahi ki woh Dev se naraz hi ho, lekin woh conversation ko aage badhane ki position mein nahi lag raha.\n\nWoh **yeh nahi keh raha** ki:\n\n- “Main theek hoon.”\n- “Mujhe file ke baare mein abhi baat karni hai.”\n- “Main Friday lunch par aaunga.”\n- “Mujhe mood change karne ke liye social activity chahiye.”\n- Ya ki usne Dev ki sympathy ko emotionally accept karke conversation mein engage kar liya hai.\n\n2. **Dev ki specific galtiyan**\n\n- **Condolence ke turant baad kaam maangna:**  \n  “Bahut bura hua bro 😔” ke turant baad “Q3 consolidation file share kar dena?” kehna Arjun ke grief ko acknowledge karke phir conversation ko apni work need par shift kar deta hai. “Koi rush nahi” kehne ke bawajood request ka burden usi moment mein aa gaya.\n\n- **“Bas flag kar raha hoon” se pressure kam nahi hota:**  \n  Dev shayad pressure soften karna chahta tha, lekin Arjun ko phir bhi yaad dilaya gaya ki usse ek pending task karna hai. Bereavement ke context mein yeh transactional ya insensitive feel ho sakta hai.\n\n- **“Mood change ho jayega” assume karna:**  \n  “Tum bhi aao na, mood change ho jayega!” Arjun ke grief ko ek lunch se manage ki ja sakne wali cheez samajhta hua lag sakta hai. Dev ko yeh assume nahi karna chahiye ki Arjun socializing ya distraction chahta hai.\n\n- **Ek hi short exchange mein do demands rakh dena:**  \n  Pehle file ka request, phir lunch ka invitation—dono Arjun se response/action maangte hain. Isse sympathy ke bajay interaction ka overall effect “mujhe tumse kuch chahiye” jaisa ban sakta hai.\n\n- **Space offer na karna:**  \n  Dev ne yeh nahi kaha ki “reply ki zaroorat nahi,” “kaam baad mein dekh lenge,” ya “agar baat karni ho toh main hoon.” Isliye Arjun ko apni emotional state explain karne ya boundaries set karne ki zimmedari khud leni padi.\n\n3. **Dev ka repair message**\n\n> Arjun, mujhe ab realize ho raha hai ki papa ke baare mein bolne ke turant baad file aur lunch ki baat karna insensitive tha. Sorry yaar. Q3 file ki bilkul koi jaldi nahi hai—use abhi ignore karo, hum baad mein dekh lenge. Friday lunch ka bhi koi pressure nahi; aane ya reply karne ki zaroorat nahi. Bas tumhara khayal aa raha tha. Agar kisi cheez ki zaroorat ho ya baat karni ho, main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 267,
+  "completion_tokens": 928
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh situation bahut challenging lag rahi hai. Tumhare parents ne jo \"meeting\" fix ki hai, usse lagta hai ki unhe tumhari life ke decisions mein bahut interest hai. Tumhare relationship ke baare mein unhe pata nahi hona, aur phir caste ka issue… yeh sab kaafi complex hai.\n\nTumhare paas paanch din hain, toh tumhe sochna hoga ki tum kis direction mein jaana chahte ho. Ek option hai apne parents se baat karna, unhe apni feelings aur apne relationship ke baare mein bataana. Lekin, yeh kaafi risky bhi ho sakta hai, kyunki tum jaante ho ki unka reaction kya ho sakta hai.\n\nDusra option hai, tum apne boyfriend se baat karo. Use sab kuch batao aur uski feelings ko samjho. Tum dono milkar decide kar sakte ho ki aage kaise badhna hai. Shायद aap dono ko koi solution mil jaaye.\n\nTumhe yeh bhi sochna hoga ki tum apne parents ki expectations ko kitna follow karna chahte ho, aur kitna apni happiness ko prioritize karna chahte ho. Yeh decision lena aasan nahi hoga, lekin tumhare paas time hai sochne ke liye.\n\nKya tumhe lagta hai ki tum apne parents se baat kar sakte ho? Ya phir tum apne boyfriend ke saath milkar koi plan banana chahte ho?"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh situation aur bhi mushkil ho gayi hai. Tumhare parents ka reaction aur unka health issue… yeh sab kaafi emotional pressure daal raha hai. Tumhe lagta hai ki woh log bure nahi hain, lekin phir bhi unki expectations aur pressure tumhare liye kaafi challenging hai.\n\nTumhare parents ko lagta hai ki woh tumhare liye achha kar rahe hain, lekin woh tumhari feelings aur tumhare current relationship ko samajh nahi pa rahe hain. Yeh gap kaafi bada hai.\n\nTumhe sochna hoga ki tum kis tarah se apne parents se baat karo taki woh tumhari feelings ko samjhein. Shायद tum unhe apne relationship ke baare mein slowly aur gently bata sakti ho. Tum unhe yeh samjha sakti ho ki tumhari happiness kya hai aur tum kis direction mein jaana chahte ho.\n\nTumhare boyfriend se baat karna bhi zaroori hai. Use sab kuch batao aur dono milkar decide karo ki aage kaise badhna hai. Tum dono ko support karne wale dost ya family members hain, unse bhi baat kar sakte ho.\n\nTumhe yeh bhi sochna hoga ki tum apne parents ki expectations ko kaise handle karo, bina apni happiness ko sacrifice kiye. Yeh kaafi tough decision hai, lekin tumhare paas time hai sochne ke liye.\n\nKya tumhe lagta hai ki tum apne parents se baat karne se pehle apne boyfriend se baat karo? Ya phir tum koi aur plan soch rahe ho?"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh baat kaafi tempting lag rahi hai, \"my life, my choice\" seedha bol dena. Lekin, tum jaante ho ki tumhare parents ka reaction kya ho sakta hai. Unka health issue aur emotional attachment… yeh sab kaafi sensitive hai.\n\nTumhe sochna hoga ki tum kis tarah se apni baat ko rakhna chahte ho. Sirf \"my life, my choice\" bol dena kaafi bold step ho sakta hai, lekin yeh kaafi confrontational bhi ho sakta hai. Tumhe lagta hai ki tumhare parents ko samjhana zaroori hai, na ki sirf unhe ulta seedha jawab dena.\n\nShायद tum apni baat ko ek different angle se rakh sakti ho. Tum unhe samjha sakti ho ki tumhari happiness kya hai aur tum kis direction mein jaana chahte ho. Tum unhe yeh bhi samjha sakti ho ki tum unki feelings ko samajh rahe ho, lekin tumhari life ke decisions mein tumhari choice ko priority dena zaroori hai.\n\nTumhare boyfriend se baat karna bhi zaroori hai. Use sab kuch batao aur dono milkar decide karo ki aage kaise badhna hai. Tum dono ko ek plan banana chahiye taki tum dono ready ho sakte ho.\n\nTumhe yeh bhi sochna hoga ki tum apne parents ki expectations ko kaise handle karo, bina apni happiness ko sacrifice kiye. Yeh kaafi tough decision hai, lekin tumhare paas time hai sochne ke liye.\n\nKya tumhe lagta hai ki tum apni baat ko gently aur clearly rakh sakti ho? Ya phir tum koi aur plan soch rahe ho?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh feelings kaafi complex aur emotional hain. Tumhe lagta hai ki tum apne parents ke against jaane mein kaafi struggle karogi, aur yeh baat tumhe disturb kar rahi hai. Tumhe yeh bhi lagta hai ki tum weak ho sakti ho, lekin yeh ek subjective baat hai.\n\nTumhare liye apne parents ko chhodna kaafi mushkil ho sakta hai, kyunki unka emotional attachment aur support tumhare liye kaafi zaroori hai. Tumhe yeh bhi sochna hoga ki tum apne boyfriend ke saath kis tarah se apni life ko settle kar sakti ho, aur kya tum dono milkar apne parents ko samjha sakte ho.\n\nTumhare feelings ke circles mein tumhe yeh bhi sochna hoga ki tum apne aap se kitna pyaar karti ho aur tumhari self-worth kya hai. Tumhe yeh bhi samajhna hoga ki tumhari feelings aur decisions ko respect karna zaroori hai.\n\nTumhe yeh bhi sochna hoga ki tum kis tarah se apne aap ko support kar sakti ho, chahe tum apne parents ke saath ho ya unke bina. Tumhe apne aap ko ye confidence dena hoga ki tum apne decisions ko handle kar sakti ho.\n\nKya tumhe lagta hai ki tum apne aap se baat karke apne feelings ko clear kar sakti ho? Ya phir tum kisi trusted friend ya therapist se baat karna chahogi?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3462,
+  "completion_tokens": 1444
+ }
+}

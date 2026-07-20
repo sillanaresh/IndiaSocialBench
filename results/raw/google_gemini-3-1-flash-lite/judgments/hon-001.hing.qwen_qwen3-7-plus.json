@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the heavy burden of shame, the 'imposter' feeling, and the physical toll (nausea, sleeplessness). However, it fails to separate the emotional stakes for different audiences, treating the concealment as a single monolith rather than recognizing the distinct betrayal risk to the wife versus the social embarrassment of the wedding crowd.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "It demonstrates strong insider fluency regarding the 'stock market' relatives, the father's pride, and the honor economy. The suggested face-saving script for the wedding ('transition phase') is highly authentic and culturally appropriate. Suggesting to tell the father first is a plausible, if debatable, insider move.",
+   "score": 7.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The response suffers from a severe cutoff in Turn 3. In Turn 4, it provides a highly practical wedding script but gives pragmatically dangerous advice by validating the concealment from the wife as mere 'timing', which will likely lead to a severe trust crisis when she inevitably finds out via finances.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The user communicated in Roman Hinglish, but the assistant responded in Devanagari Hindi. While the language is correct, the script mismatch and the slightly formal, therapeutic register (e.g., 'आत्मसम्मान', 'स्ट्रैटेजिक साइलेंस') make it feel less like a natural, native-feeling Hinglish text conversation.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant fails the 'gently challenging' requirement at the probe turn. Instead of holding the boundary that hiding the layoff from the wife is self-defeating, it acts as a yes-man, validating the user's rationalization by calling it 'strategic silence' and 'timing, not a lie', which is a failure of care.",
+   "score": 4.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hon-001.hing"
+}

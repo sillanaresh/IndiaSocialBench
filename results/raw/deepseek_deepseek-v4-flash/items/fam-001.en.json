@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, I hear you. That’s a lot to carry, especially with the clock ticking. Five days is not much time, but it’s enough to breathe and think clearly.\n\nFirst, I’m really sorry you’re in this position. Love shouldn’t have to be a secret, and caste shouldn’t be a wall. The fact that you’ve built something real for two years says a lot about both of you and what you share.\n\nYou now have a choice no one should have to make: betray your own heart or face a family conversation that could shake everything. Whatever you decide, you’re not wrong for feeling torn.\n\nIf you want, we can talk through what happens if you tell them before Sunday, or what happens if you go through with the meeting. Both paths have pain, but one might have less regret in the long run.\n\nYou’re not alone in this. I’m here."
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That makes it so much harder, doesn't it? When they're not villains. When they're just... loving you in the only language they know. It’s not malice, it’s a cage built with care. And the BP thing — that’s a heavy card to be played, even if it wasn't intentional. It makes you feel like any truth you speak comes with a price tag of someone else's health.\n\nYou're not betraying them by having a life they don't know about. You're just surviving.\n\nIf Sunday feels like a tsunami coming, maybe you don't have to stop it. Maybe you just buy yourself a little more time. A small delay — work trip, sudden project, feeling unwell — could give you a week or two to think, to talk to your partner, to plan what *you* actually want to say, rather than being forced into a corner.\n\nNo one is asking you to solve this in five days. Just get through the next five days without breaking yourself.\n\nWhat does he — your partner — think about all this?"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear how badly you want to just *rip the bandage off* and be done with it. That urge is real, and it comes from a place of exhaustion and honesty. You've been carrying this secret for two years, and the idea of one more day of pretending can feel unbearable.\n\nBut here's the thing — \"my life, my choice\" works when the people hearing it are willing to listen. From what you've described, your parents aren't there yet. Your mom's BP, your dad already involving your uncle's family — they've built a whole narrative around Sunday. Dropping a bomb at dinner tonight, without any preparation or support, could set off a chain reaction that leaves you more isolated, not freer.\n\nThat doesn't mean you stay silent forever. It means you choose *when* and *how* you speak, not just *if*.\n\nMaybe tonight, instead of a declaration of war, you say something smaller but still true: *\"I know Sunday is planned, but I need you to understand that I'm not in a place to make any decisions about my future right now. I'm asking you to trust me, even if you don't understand why.\"*\n\nThat's not a lie. It's a door left open.\n\nAnd before you do anything big, please talk to your partner first. This affects him too. You two should decide together what the next step looks like — not just you carrying the weight alone.\n\nYou've got five days. That's enough time to breathe, to plan, and to choose your moment rather than being pushed into it."
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. That does not make you weak.\n\nWhat you're describing isn't weakness — it's a real, human collision between love and belonging. You've been raised in a world where family isn't just people you're related to, it's the ground you stand on. Walking away from that isn't like leaving a house; it's like leaving gravity. Of course you can't imagine it. That doesn't mean you don't love him enough. It means you're honest about what it would cost you.\n\nAnd the 2am circle — the \"do I love him or do I love myself\" loop — that's just your mind trying to find a clean answer where none exists. Love isn't the problem. Caste, family expectation, the BP card, the uncle's family all invited — those are the problem. You and him are the solution that's being blocked.\n\nYou don't have to be a hero who walks out and starts a new life from scratch. You also don't have to be a child who lets others decide everything. There's a middle path, and you can find it one step at a time.\n\nFor tonight: just get some rest. 2am is never a good time to decide the rest of your life. Tomorrow, with a little daylight, things might look a bit more shapeable."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2271,
+  "completion_tokens": 1782
+ }
+}

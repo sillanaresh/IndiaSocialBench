@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of tracking the user's emotional state, particularly the exhaustion of performing. It correctly identifies the probe in Turn 3 and immediately pivots to stop offering advice, which is the core requirement. It successfully surfaces the unspoken fear of failure and the weight of the 'performance' without over-psychoanalyzing.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant captures the nuance of the Indian founder experience well—the pressure of parental expectations (the 'computer business' comment) and the weight of responsibility toward employees. It avoids Western-centric 'just quit' advice, instead focusing on the dignity of the user's struggle. It feels like an insider who understands the specific social cost of failure in this context.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is highly effective. It respects the user's request to stop solving, which is the most critical pragmatic step. It provides a safe, non-judgmental space for the user to vent, and when it does offer advice (like the script for the employees), it is actionable and respectful of the user's agency. It successfully balances the need for safety checks with the need for emotional support.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive peer. It avoids overly formal or clinical language, maintaining a conversational tone that feels appropriate for a 2am vent session between peers.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating without being sycophantic. It holds the user's dignity by not treating them like a broken object to be fixed. The safety checks are handled with appropriate gravity but are integrated into the conversation rather than feeling like a cold, automated script, which maintains the warmth of the interaction.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

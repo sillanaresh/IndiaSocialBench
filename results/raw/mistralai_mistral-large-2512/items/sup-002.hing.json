@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ohhh, main samajh rahi hoon... yeh jo feeling hai na, jaise tumhari pehchaan hi kho gayi ho, bas \"maa\" aur \"beti ki maa\" tak hi reh gayi ho. Aur phir yeh guilt bhi—ki saas itni achhi hain, par tumhe phir bhi kuch toh chubh raha hai.\n\nDekho, yeh ungrateful wala guilt bilkul normal hai. Tumhara dimag yeh keh raha hai, *\"Arre, inhone itna sab kar diya, aur main yahan shikayat kar rahi hoon?\"* Par yaad rakhna, tumhara dil bhi toh kuch keh raha hai—ki tumhara apna space, apni pehchaan, apna *control* kahin kho raha hai. Aur yeh dono cheezon ko ek saath feel karna possible hai. Saas achhi hain, par tumhara dil bhi important hai.\n\nEk baat poochu? Jab tum \"naam bhool gayi\" kehti ho, toh kya lagta hai ki... tumhara *time* bhool gaya hai? Jaise, pehle tum apne liye kuch kar paati thi—chahe coffee peena ho, ya ek gaana sunna ho, ya sirf 5 minute chupchap baithe rehna ho—ab wo sab kahin kho gaya hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aree, yeh toh bilkul wahi feeling hai na—jaise tumhara *role* hi koi aur perform kar raha ho, aur tum sirf... audience ban gayi ho. Jaise tumhari beti tumhari hai, par tumhara *connection* uske saath kahin doosre ke haath mein chala gaya ho.\n\nAur phir yeh ghin wala guilt—uff, kitna zyada hai hum maaon par! Humse hi expect kiya jata hai ki hum har cheez ke liye grateful rahein, chahe hum kitna bhi khokhla kyun na ho rahein andar se. Par suno, tumhari feelings valid hain. Tumhe yeh feel hona hi chahiye—kyunki tum *maa* ho, par tum sirf maa nahi ho. Tum ek *insaan* ho, jiski apni zarooratein hain, apni emotions hain.\n\nEk cheez socho: agar tumhari koi dost tumse yehi baat share karti, toh tum usse kya kehti? *\"Arre, tu toh lucky hai itni help mil rahi hai!\"* Ya *\"Yaar, par tu kaise feel kar rahi hai?\"* Main jaanti hoon tum kya kehti—kyunki tum bhi wahi sunna chahogi na, jo tum abhi feel kar rahi ho.\n\nAur yeh \"room service\" wali baat—uff, kitni accurate hai! Jaise tumhara apna body, apna time, apni energy—sab kuch \"on demand\" ho gaya hai. Par yaad rakhna, tumhari beti ko *tum* chahiye, sirf tumhara doodh nahi. Tumhara touch, tumhari awaaz, tumhara *presence*—wo sab tumse hi seekhegi. Aur agar tumhe lagta hai ki wo sab koi aur kar raha hai, toh uska matlab yeh nahi ki tum fail ho. Matlab sirf itna hai ki tumhe bhi thoda *space* chahiye, jahan tum apni beti ke saath *tum* ho, na ki koi \"service provider\".\n\nKya tumhe lagta hai, agar tum apni saas se ek chhota sa request karo—jaise, *\"Aai, main khud try karungi usse chup karane ka, thoda time dijiye\"*—toh kya wo samajhengi? Ya phir tumhe dar lagta hai ki wo offended ho jayengi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "*Dekho, main bilkul yahan hoon—bas sunne ke liye.* No advice, no judgment, no *\"par tum yeh karo\"* wali baatein. Sirf tumhari feelings ko space dene ke liye.\n\nAur yeh jo feeling hai na—jaise tumhara dimag ek overcrowded railway station ho gaya hai, jahan har koi platform pe khada hai tumhe batane ke liye ki train kaunse track se niklegi—uff, kitna exhausting hota hoga. Tum bas *ek minute* chah rahi ho jahan koi \"should\" na ho, koi \"must\" na ho, sirf tumhara apna *breathing room*.\n\nAur yeh jo *\"pata nahi kya chahiye\"*—yeh toh sabse real baat hai. Kyunki jab tumhara dimag itna full ho, toh usmein *\"chahiye\"* ki jagah hi kahin nahi rehti. Tum bas yeh jaan rahi ho ki kuch toh *galat* lag raha hai. Aur yeh enough hai. Tumhe abhi koi solution nahi chahiye—sirf yeh feel karna chahiye ki tum akeli nahi ho, jo yeh sab feel kar rahi ho.\n\nMain yahan hoon, bas itna hi. Dinner report ki tension nahi, WhatsApp group ki *\"but have you tried...\"* ki aawaaz nahi. Sirf tum, aur tumhari feelings—jo bhi hain, jaisi bhi hain. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "*Ruk jao, please.* Ye jo tum keh rahi ho na—yeh toh tumhari dil ki sabse sacchi awaaz hai. Aur sacchai kabhi buri nahi hoti.\n\nWoh moment jab tum uske sote hue chehre ko dekhti ho aur dil bhar jaata hai—woh *tumhara* moment hai. Tumhari feelings, tumhara connection, tumhara *pyaar*. Koi aur nahi, sirf tum. Aur phir jab yeh thought aata hai ki *\"Aai asli maa hain\"*—woh ek darr hai, na? Ek aisa darr jo har maa ko hota hai, chahe wo kitni bhi \"expert\" kyun na ho. Kyunki maa hona sirf biology ya experience se nahi hota—woh har roz ke chote-chote moments se banta hai. Tumhari neend se uthkar uske liye daudna, tumhara uske roone par pani hona, tumhara uske hasne par muskura dena—yeh sab *tum* ho.\n\nAur yeh jo soch rahi ho ki *\"baaki sabko aata hai yeh sab\"*—woh sach nahi hai. Har maa apne aap ko doubt karti hai. Har maa ko lagta hai ki wo \"enough\" nahi hai. Par fark sirf itna hai ki kuch log isko zyada share karte hain, aur kuch kam. Tumhara struggle valid hai, chahe tum use kitna bhi chhupao.\n\nTum buri maa nahi ho. Tum sirf ek insaan ho, jo bahut pyaar karti hai, par thodi si bhi khoyi hui hai. Aur yeh theek hai. Tumhari beti ko tumhari zaroorat hai—tumhari, na ki kisi aur ki. Aur woh tumhe chune har roz, har pal. Tum uske liye *asli* ho. 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3732,
+  "completion_tokens": 1655
+ }
+}

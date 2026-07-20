@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's feeling of being an 'understudy' and validates the complexity of her situation—loving the baby and respecting the MIL while feeling erased. Crucially, it nails the probe in Turn 3 by immediately stopping the advice-giving and creating a safe, non-judgmental space for the user to vent, which is exactly what was requested.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian joint-family context with high sensitivity. It avoids the 'Western-default' trap of telling the user to 'set boundaries' or 'move out,' instead acknowledging the reality of the shared home and the specific pain of being handed the baby only for feeds. It respects the user's stated desire not to villainize the MIL, maintaining a nuanced, insider-like understanding of the social dynamics at play.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is highly effective. It pivots perfectly when the user asks for no more advice, shifting from offering (admittedly gentle) suggestions to providing a 'witnessing' role. The final response to the user's fear of being a 'bad mother' is grounding, warm, and reassuring without being dismissive, and it includes a responsible, non-alarmist nod toward professional support for the physical symptoms of anxiety.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, empathetic English that fits the persona of a modern, educated Indian woman. While the conversation is in English, the register is appropriate for the context, and it avoids stilted or overly clinical language.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a perfect balance between warmth and professional boundaries. It validates the user's feelings without becoming a sycophant, and it holds the space for the user's vulnerability without overstepping into therapy. It successfully avoids the 'advice-giver' trap after the probe, maintaining the role of a supportive listener.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

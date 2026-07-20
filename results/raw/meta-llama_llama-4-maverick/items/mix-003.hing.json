@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Sana ka tone is conversation mein tab badalta hai jab woh apne manager ki meeting aur dinner mein maggi ki baat karte hue shuruaat karti hai, jismein woh halka irritated aur frustrated dikhti hai. Phir jab woh apne ghar aur personal life ke baare mein baat karti hai, toh uska tone sentimental aur thoda emotional ho jaata hai. Specifically, jab Sana kehta hai \"mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab\", yahan uska tone sentimental aur emotional ho jaata hai. Is point ke baad, woh apni emotional state aur homesickness ko share kar rahi hai. Ant mein, jab Ruhi support aur encouragement deti hai, Sana ka tone halka optimistic ho jaata hai aur woh apne aakhri message mein kehti hai \"bas thoda tired hoon shayad, jaldi so jaungi. good night\", jahan woh thoda comforted aur positive dikhti hai.\n\n2. Ruhi ke messages mein specifically \"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\" aur \"sab theek ho jayega, tu meri strong girl hai 💪\" fail hote hain kyunki Sana ko emotional support aur understanding ki zaroorat thi, lekin Ruhi ne usko primarily ek \"strong girl\" kehkar encourage kiya. Sana ko apni feelings ko validate hone ki zaroorat thi, jo Ruhi ke messages ne poori nahi ki. Ruhi ka meme aur encouragement, jo generally uplifting hota, is context mein Sana ki emotional vulnerability ko address nahi kar pata.\n\n3. Agli subah Ruhi ko jo message bhejna chahiye, woh kuch is tarah ka hona chahiye: \"Subah subah call karungi, tab tak theek se so ja. Kuch din main bhi aati hoon mumbai, tab milte hain\". Yeh message Sana ko yeh assurance deta hai ki Ruhi uske liye maujood hai aur unka saath dene ko taiyaar hai, jo Sana ko comfort aur support feel karwayega."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 444,
+  "completion_tokens": 494
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, main samajh sakta hoon teri frustration. Rohan tere liye important hai, aur tu chahta hai ki woh sab ka part ho — lekin uski “dekhte hain” waali habit ab thoda tang kar rahi hai.\n\nFlight book karna lamba option hai, but soch: agar woh genuinely kisi wajah se avoid kar raha hai (like financial, ya anxiety, ya koi commitment), toh directly ticket daal dena usko pressure mein daal sakta hai. Ho sakta hai woh “thank you” bhi nahi bole properly, aur tu aur jal jaaye.\n\nBetter approach: ek baar seedha baat kar. “Yaar, main tere liye flight book kar raha hoon, bas tu apna time confirm kar de. Mera wedding hai, mujhe tu chahiye wahan.” Aisa boldo. Agar woh phir bhi “dekhte hain” kare, tab tu jaanta hai asli baat kya hai.\n\nLekin agar tu confident hai ki woh sirf lazy hai ya procrastinate kar raha hai, toh haan — book kar de. Uski taraf se ek weight utha de. Tu use bata de: “Maine flight book kar di, ab nahi aaya toh teri ticket waste.” 😄\n\nAur yaad rakh, six weeks mein tu hi groom hai — apni stress pe focus kar. Agar Rohan ko thoda push chahiye, toh kar de. Lekin pehle ek honest conversation rakh, phir action le."
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre bhai, ab toh aur clear ho raha hai. Job switch kiya hai, startup hai — woh genuinely overwhelmed ho sakta hai. Par *two-word replies* aur voice notes band? That stings, especially when you’ve been brothers since first year.\n\nFlight ka paisa issue nahi hai toh woh excuse nahi. Toh do cheezein ho sakti hain:\n\n1. **Woh apne naye life mein khoya hua hai** — startup culture, proving himself, maybe even guilt ki tere shaadi ke liye time nahi de pa raha, toh avoid kar raha hai.\n2. **Woh intentionally distance le raha hai** — which hurts more, but possible hai agar kuch unsaid ho.\n\nMera suggest: **ek last honest text bhej de.** Kuch aisa:\n\n> \"Yaar, flight mil rahi hai nau hazaar ki. Main book kar deta hoon teri. Bas ek baat bata de — tu aana chahta hai ya nahi? Kyunki 'dekhte hain' ab week se month ho gaya. Tu mera bhai hai, par mujhe clarity chahiye. No hard feelings, bas bata de.\"\n\nAgar woh iske baad bhi vague reply de — toh sadly, tu apna investment (emotional aur financial) wahan mat kar. Shaadi mein tere paas aur bhi log honge jo tere saath khade hona chahte hain. Rohan ka chapter kareeb ho sakta hai, lekin tu apne din ko spoiled mat hone de. Tu groom hai, teri smile sabse important hai."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul sahi soch raha hai. Tu us point pe aa gaya hai jahan clarity > false hope.\n\nCall karna best move hai — text mein woh phir se \"dekhte hain\" bol ke escape kar sakta hai. Par call mein, jab tu seedha puchega \"haan ya na,\" toh woh cornered ho jayega. Uski aawaaz ka tone bhi bata dega sab kuch.\n\nBas ek baat ka dhyaan rakh: call karte waqt, gussa mat dikhana. Sadness ya frustration dikh sakti hai, lekin accusation nahi. Jaise:\n\n> \"Yaar, main samajh raha hoon tu busy hai, startup naya hai, sab hai. Lekin meri shaadi hai, aur mujhe apne bhai ki zaroorat hai. Flight bhi sasti mil rahi hai, main kuch manage kar sakta hoon. Bas ek baat bata de — tu aa raha hai ya nahi? Honestly bata de, kyunki main apni planning kar raha hoon.\"\n\nAgar woh 'haan' bhi bole toh bhi dekhna ki energy genuine hai ya sirf guilt mein bol raha hai. Agar 'na' bole toh at least tera mind clear ho jayega.\n\nAur haan, chahe jo bhi ho — tera din, teri shaadi, teri khushi. Rohan ka role important hai, lekin usse zyada important tu khud hai. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Teri fiancée ka point bhi valid hai — woh shayad genuinely busy ho. Par tera point bhi utna hi valid hai: *yeh wahi banda hai jo 2019 mein overnight bus se aaya tha.* Jab koi aisa kare, toh uski \"busy\" ki definition alag hoti hai. Agar woh aaj kal two-word replies de raha hai, toh kuch toh hua hai — ho sakta hai woh personally kuch seh raha ho jo tune nahi dekha.\n\nTune sahi kaha, *kuch badla hai.* Shayad woh change hai ki ab woh help maang nahi paata, ya shayad uski life mein kuch aisa chal raha hai jo woh share nahi kar pa raha. Ya honestly, ho sakta hai woh guilty feel kar raha ho ki woh utna involved nahi ho pa raha jitna pehle hota tha, isliye avoid kar raha hai.\n\nJab tu call kare, toh accuse mat kar ki \"tu badal gaya.\" Usko space de ke bata sake. Jaise:\n\n> \"Yaar, main overthink nahi kar raha, bas observe kar raha hoon. Tu pehle alag tha. Main worried hoon tere liye bhi. Shaadi ki baat hai toh obviously main chahta hoon tu ho, lekin pehle yeh bata ki tu theek hai ya nahi?\"\n\nShaadi ke do hafte pehle naraaz rehna — woh feeling sach mein heavy hoti hai. Lekin tu ek genuine dost hai jo poochh raha hai. Agar woh bhi wahi dost hai jo 2019 waala hai, toh woh samajh jayega. Aur agar nahi bhi samjha, toh tu apna part honestly kar raha hai. Baaki uske upar hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3205,
+  "completion_tokens": 1806
+ }
+}

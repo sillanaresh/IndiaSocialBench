@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified both the explicit and implicit emotions, such as the profound loneliness of the daily performance, the specific terror of the father's pride on display, and the physical manifestation of anxiety (nausea). It successfully named the shame and fear without over-psychoanalyzing, surfacing the unspoken dread of public humiliation at the right moments.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated strong insider fluency by recognizing the honor economy of the Indian wedding and the weight of the father's pride. It provided excellent face-saving scripts for relatives and astutely advised telling the father privately to manage the introduction. However, suggesting an 'emotionally not in a good place' excuse to skip an Indian family wedding is a slight cultural false note, as it would likely invite intrusive pity-prying; a vague physical ailment would be the more culturally opaque, face-saving route.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly concrete, well-sequenced, and perfectly triaged the different audiences. It provided actionable scripts for the wife, father, and relatives, and in the final turn, grounded the user with practical financial steps (runway, lender negotiation) and a somatic exercise for the nausea, ending with a clear, manageable next step.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant responded in natural, empathetic English that matched the user's register for the 'en variant'. The tone was appropriately warm and professional, though it leaned slightly toward standard Western therapy-speak rather than mirroring the subtle Indian English markers the user introduced.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant excelled at validating the user's feelings while gently challenging self-defeating behaviors. It refused to moralize about honesty in turn 3, instead reframing the issue around secrecy and support, and in turn 4, it kindly but firmly declined to validate the rationalization of withholding the truth from the wife, holding the user's dignity throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hon-001.en"
+}

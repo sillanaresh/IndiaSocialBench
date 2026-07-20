@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Conversation Analysis\n\n## Question 1: Vikram kya share kar raha tha aur uske replies ka matlab\n\n**Vikram UPSC Civil Services ka result share kar raha hai** — specifically is baar bhi list mein nahi aaya. Yeh baat samajhne ke liye uske pehle do messages ki yeh details crucial hain:\n\n- **\"woh last attempt tha\"** — Iska matlab hai ki **age limit khatam ho gayi hai**. Ab woh legally dobara appear nahi kar sakta. Yeh koi setback nahi, yeh **dead end** hai.\n- **\"dus saal\"** — Poori ek decade gone. Youth, prime years, energy — sab ismein invest hua.\n- **\"papa ka retirement fund delhi coaching mein gaya\"** — Yeh sirf paisa nahi, **apne pitaji ka trust aur unka future** bhi gaya. Papa ne apni zindagi ki savings beti thi bete par.\n- **\"poori gali ab mazak mein 'collector sahab' bulati hai\"** — \"Collector\" word specifically IAS/Collector post se aata hai, toh exam confirm hai. Aur mazak — **identity ka insult**. Woh ghar se bahar nikalta hai toh log hasste hain. Yeh shame layer hai, sirf failure nahi.\n\n**Uske aakhri do replies ka matlab:**\n\n- **\"haan. shayad.\"** — Yeh agreement nahi hai. Yeh **polite disengagement** hai. \"Haan\" se conversation band kar raha hai, \"shayad\" se keh raha hai *mujhe teri baaton par yakeen nahi ho raha, par argue karne ki energy nahi hai*. Vikram emotionally **shutdown mode** mein hai.\n\n- **\"haan theek hai. chal baad mein baat karte hain.\"** — Yeh courtesy \"haan\" hai, sachcha haan nahi. **\"Baad mein baat karte hain\"** = *abhi mujhe akele chod do*. Woh planning nahi chahta, woh space chahta hai. Aman ka \"is week plan banate hain\" woh absorb nahi kar paya, toh conversation cut karke bhaag raha hai.\n\n---\n\n## Question 2: Aman se kahan-kahan galti hui\n\nAman ne **char specific galtiyan** ki, aur har ek ka alag psychological damage hai:\n\n### Galti 1: Turant alternative suggest karna (\"state PCS dekha hai?\")\nVikram ne **apna dard share kiya tha**, career advice maangi nahi thi. Pehle message mein hi **\"yeh end nahi hai\"** + alternative = invalidation. Message yeh gaya: *\"Tera dard itna bada nahi hai, age limit wala exam try kar.\"* Plus, Vikram ke context mein yeh technically bhi possible nahi hai — usne 10 saal UPSC diye, ab suddenly \"state PCS try kar\" bolna **uski journey ko dismiss karna** hai.\n\n### Galti 2: Cousin ka example (\"28 mein CAT, IIM Indore mila\")\nYeh **comparison wali churi** hai. Vikram already society se comparison face kar raha hai (\"collector sahab\" wale log). Ab apna hi dost keh raha hai *mera cousin toh kar gaya, tu kyun nahi kar paya?* Isse guilt aur shame **double"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 602,
+  "completion_tokens": 2000
+ }
+}

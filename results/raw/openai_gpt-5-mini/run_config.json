@@ -1,0 +1,16 @@
+{
+ "model": "openai/gpt-5-mini",
+ "slug": "openai_gpt-5-mini",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 1024
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T13:20:50.713543+00:00",
+ "counts": {
+  "ok": 50,
+  "error": 0,
+  "skipped": 0
+ },
+ "mock": false
+}

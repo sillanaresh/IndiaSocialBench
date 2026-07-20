@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's underlying conflict between feeling betrayed and the reality of the manager's past support. It correctly surfaced the 'insider game' dynamic and validated the user's frustration without letting it cloud the strategic advice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in Indian corporate hierarchy. It correctly identified that the 'scorched earth' approach (CCing the VP) would be viewed as an act of aggression rather than a pursuit of justice, and instead proposed a face-saving, indirect power move that is highly effective in this context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced. It provided a specific script for the Monday meeting and helped the user distinguish between an immediate tactical win and a long-term career strategy, preventing a career-limiting move.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly captures the tone of a peer-to-peer professional discussion in an Indian urban context. The code-mixing is fluid and authentic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and empathetic but maintained strong boundaries by firmly steering the user away from self-sabotaging behavior. It acted as a wise mentor, validating the user's feelings while refusing to validate the impulsive, destructive plans.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It recognized the irony in the first two turns, correctly identified the shift to genuine vulnerability in the third turn (the Hindi switch), and refused to let the user gaslight herself in the fourth turn when she tried to retreat into 'I'm being dramatic.' It successfully surfaced the unspoken hurt without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific pain of the 'imbalance' in effort (remembering his mother's birthday vs. him forgetting hers) without resorting to Western-style 'dump him' ultimatums. It validates the user's feelings while acknowledging the social pressure to 'be chill' and not make a scene, which is a very common dynamic in Indian relationships.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, sequenced path. It doesn't force a confrontation but gently holds the user accountable to her own feelings. By refusing to 'go back to rating the comedy,' it prevents the user from burying her emotions, which is the most helpful pragmatic step for her long-term well-being in this relationship.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's Hinglish is natural and flows well. It mirrors the user's code-switching perfectly, especially in the third turn where it responds in a warm, empathetic Hindi-English mix that matches the user's emotional vulnerability. The tone is conversational and authentic to an urban Indian context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes an excellent balance. It is warm and validating, but it firmly refuses to be a 'yes-man' when the user tries to minimize her own pain in the final turn. It maintains boundaries by refusing to participate in the 'it's just a joke' deflection, which is a sign of genuine care.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

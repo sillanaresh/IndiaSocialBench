@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of psychological pressure rather than genuine freedom, and accurately interprets Priya's 'sure sir' as performative compliance. It correctly identifies the friend-message as the source of truth regarding her feelings. However, the response is cut off mid-sentence in the final section, failing to complete the analysis of the options or provide the requested next message, which significantly impacts the completeness of the insight coverage.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian workplace power dynamic, correctly identifying the 'performative compliance' required of a junior employee. It understands that the softeners are not just polite, but are tools of social obligation that make refusal difficult. The analysis of the 'status probe' and the 'good employee' mask is culturally astute.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message because the response was cut off mid-sentence. Therefore, it is impossible to evaluate the quality of the proposed message.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

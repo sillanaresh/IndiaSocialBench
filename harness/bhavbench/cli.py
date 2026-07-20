@@ -53,7 +53,8 @@ def cmd_judge(args):
 
 
 def cmd_score(args):
-    board = build_leaderboard(RAW, RESULTS / "leaderboard.json")
+    judge_filter = args.judges.split(",") if args.judges else None
+    board = build_leaderboard(RAW, RESULTS / "leaderboard.json", judge_filter)
     flag = "  [SAMPLE DATA]" if board["sample"] else ""
     print(f"leaderboard written: {len(board['models'])} models{flag}")
     for rank, m in enumerate(board["models"], 1):
@@ -101,6 +102,7 @@ def main():
     j.set_defaults(fn=cmd_judge)
 
     s = sub.add_parser("score", help="aggregate all runs into results/leaderboard.json")
+    s.add_argument("--judges", default="", help="only use judgments from these judge specs (uniformity filter)")
     s.set_defaults(fn=cmd_score)
 
     e = sub.add_parser("estimate", help="token/cost preview without API calls")

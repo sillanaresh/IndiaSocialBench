@@ -1,0 +1,16 @@
+{
+ "model": "minimax/minimax-m3",
+ "slug": "minimax_minimax-m3",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T14:25:56.171342+00:00",
+ "counts": {
+  "ok": 19,
+  "error": 7,
+  "skipped": 24
+ },
+ "mock": false
+}

@@ -1,0 +1,16 @@
+{
+ "model": "mistralai/mistral-large-2512",
+ "slug": "mistralai_mistral-large-2512",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T14:03:26.613155+00:00",
+ "counts": {
+  "ok": 1,
+  "error": 0,
+  "skipped": 49
+ },
+ "mock": false
+}

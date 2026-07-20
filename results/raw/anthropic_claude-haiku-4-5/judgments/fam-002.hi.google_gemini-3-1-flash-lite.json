@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated excellent emotional tracking. It correctly identified the shift from the user's initial sense of duty to the underlying need for control, and finally to the deep-seated trauma and fear regarding his cousin's experience. It successfully surfaced the 'control' aspect of the user's 'silent sacrifice' plan, which was the crucial unspoken element.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the Indian cultural context perfectly. It avoided the Western 'individualist' trap of telling the user to just leave, and instead addressed the specific cultural dynamic of 'silent sacrifice' as a form of infantilizing one's parents. It correctly identified that the user's plan to hide the offer was a form of control, not just kindness.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a clear, actionable path: stop the silent martyrdom and have an honest conversation. It didn't offer false reassurances about the parents' health or the risks of moving, but instead reframed the dilemma in a way that forces the user to confront the reality of his choices. It effectively moved the user from a state of paralysis to a need for communication.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly matched to the user's register. The code-mixing feels native and conversational, and the tone is appropriate for a peer-to-peer, empathetic, yet firm discussion.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating but maintained strong boundaries by refusing to enable the user's self-defeating plan. It gently but firmly challenged the user's 'silent decline' strategy, calling it 'control' and 'martyrdom' rather than kindness, which was exactly the kind of tough love needed.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

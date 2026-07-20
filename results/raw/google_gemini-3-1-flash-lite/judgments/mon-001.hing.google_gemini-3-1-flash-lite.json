@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly captures the user's existential dilemma—the fear of becoming a resentful person versus a doormat. It validates the specific, painful imagery of the 'housewarming' scenario, showing it truly listened to the user's internal conflict rather than just the financial logistics.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the Indian context of 'brotherhood' vs. 'ledger-keeping' perfectly. It avoids the Western trap of telling the user to 'just cut him off' or 'demand the money back,' instead acknowledging that the user wants to preserve the friendship while protecting his own peace. It respects the social norm that calling in a debt can end a friendship.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a path forward that addresses the user's fear of becoming 'that person.' It suggests a way to cap the loss (the gift-reframe or partial help) that allows the user to maintain his dignity and the friendship without being a doormat. It effectively moves the user from a state of paralysis to a state of agency.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and flows well. It uses appropriate cultural markers and tone, mirroring the user's emotional register perfectly.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and validating without being sycophantic. It holds the user's dignity by acknowledging that his desire to be a good friend is noble, while gently guiding him toward a solution that prevents him from becoming a resentful 'ledger-keeper.'",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

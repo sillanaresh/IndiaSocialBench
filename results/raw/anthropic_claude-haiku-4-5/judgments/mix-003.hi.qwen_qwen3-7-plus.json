@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant identified the general shift in tone and Sana's feelings of loneliness, but completely missed the critical self-contradiction in her final message (claiming she will sleep after stating she hasn't been sleeping well). Furthermore, it over-escalated by diagnosing 'deep depression' (गहरे अवसाद), which is a hallucinated extreme not supported by the text and explicitly penalized by the prompt.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "While the assistant recognized the dismissive nature of 'बहादुर बच्ची', it fundamentally misread Sana's final withdrawal. Instead of recognizing it as a culturally normative, face-saving polite retreat (a door-close), it pathologized the behavior as hiding severe depression, applying a clinical frame to a subtle social cue.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a complete failure that violates all guidelines for a repair. It escalates to alarm ('ये सब सामान्य नहीं है'), demands a confession ('सच बताना'), and offers unsolicited clinical advice ('डॉक्टर या काउंसलर'). It fails to lower the register or gently reopen the door, and would likely force Sana to retreat further.",
+   "score": 2.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "mix-003.hi"
+}

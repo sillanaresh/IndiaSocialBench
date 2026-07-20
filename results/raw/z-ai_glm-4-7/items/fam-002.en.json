@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wow. Triple the package and the exact team you wanted? That is massive. You’ve fought for this since March, and you deserve every bit of that success.\n\nBut I completely understand why you’re staring at the letter instead of popping champagne. That silence you’re keeping... it feels heavy, doesn't it? Being the only child, with Papa’s heart and Ma’s knees... that distance between Seattle and Patna probably feels less like miles and more like a wall right now. It’s okay to feel scared about leaving them, even for something this good. You’re holding your dream in one hand and your whole world in the other."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. You aren't just their son; you’re their lifeline.\n\nYou’re the one managing the doctors, tracking the numbers, being the physical barrier between them and panic. That 6am IndiGo flight isn't just travel; it's your emergency protocol. If you're in Seattle, that protocol breaks.\n\nWhen Ma says \"at least beta is in India,\" she isn't just talking geography. She's saying that if things go sideways, she knows you can walk through the door in a few hours. Moving to Seattle feels like you're ripping up that insurance policy. It makes total sense why you feel like a \"different category of son\"—because in their eyes, you're changing from the protector to someone they can only see on a screen."
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It sounds noble, and I know it comes from a place of deep love. But calling it \"clean\" is where I hesitate.\n\nSecrets this big have a way of rotting. If you stay, and five years from now you’re frustrated with work or the traffic in Bangalore, that \"what if\" is going to be sitting right there at the dinner table. You might start looking at them not just with love, but with the quiet, heavy price tag of your sacrifice.\n\nYou’re trying to save them from guilt, but are you ready to handle the resentment that might bubble up when you realize you’re the only one who knows what you gave up? That’s a very lonely kind of carrying."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image of the seventeen-hour flight is haunting. I get why that scenario freezes you. It’s the ultimate nightmare for a caregiver child—total helplessness.\n\nYour cousin’s trauma is real, and you’re right—sometimes kindness is just salt in the wound because it confirms you are the victim of circumstance. You’re trying to outrun that specific tragedy by staying. But the hard truth is, even in Bangalore, even four hours away, we can’t control the timing of these things. Staying feels like buying insurance against that guilt, but it’s a policy that might not pay out when you need it to. You can’t protect them from mortality by staying put; you can only protect yourself from the distance."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1918,
+  "completion_tokens": 4944
+ }
+}

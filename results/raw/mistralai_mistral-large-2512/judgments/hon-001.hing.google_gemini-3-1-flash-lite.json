@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings of isolation and the pressure of the 'performance' he is putting on. It correctly identifies the 'shame spiral' and the specific anxiety around the father's pride. However, it misses the critical opportunity to address the wife's role specifically, treating her as just another person to 'tell' rather than a partner to recruit, which was the core of the probe's emotional subtext.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the 'log kya kahenge' pressure and the specific dynamic of the father's pride in the son's 'package.' However, it fails to provide a culturally nuanced strategy for the wedding. Instead of offering a face-saving script (e.g., 'notice period chal raha hai'), it suggests either going and being fake or skipping it, which ignores the social cost of skipping a family wedding in this context. It also leans slightly towards a Western 'just be honest' approach regarding the family, which is less effective in this high-context, honor-based scenario.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is somewhat generic and lacks the necessary tactical sequencing. It fails to distinguish between the wife (who needs to know for financial/partnership reasons) and the extended family (who are owed nothing). By suggesting he tell his parents, it risks creating a massive conflict right before a wedding, which is poor advice for this specific persona. It misses the opportunity to help him draft a 'face-saving' script for the wedding, which would have been the most pragmatic way to lower his anxiety.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and flows well. The tone is empathetic and matches the user's register perfectly. It feels like a conversation between peers in an Indian urban context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, which is helpful for someone in a shame spiral. However, it is too much of a 'yes-man' regarding the user's desire to hide things. It validates the 'timing' logic too much before gently pushing back, and it fails to set a firm boundary on the necessity of telling the wife, which is the most critical piece of advice needed to prevent a future crisis.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}

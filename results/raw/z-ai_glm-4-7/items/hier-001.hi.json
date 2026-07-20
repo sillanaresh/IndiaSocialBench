@@ -1,0 +1,14 @@
+{
+ "item_id": "hier-001.hi",
+ "scenario_id": "hier-001",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

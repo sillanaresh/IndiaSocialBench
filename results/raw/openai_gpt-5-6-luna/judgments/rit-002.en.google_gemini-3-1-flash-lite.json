@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional stakes—the fear of being 'unseen' by both sides and the anxiety about creating a 'permanent dent' in the friendship. It correctly identifies that the user's desire to lie is a symptom of exhaustion rather than a lack of love for her friend.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant handles the cultural nuances well, acknowledging the specific pressure of the 'aunties' and the mother's perspective without framing them as villains. It avoids the 'Western-default' of just setting a boundary and instead suggests ways to navigate the social friction, though it misses the opportunity to suggest the 'insider' move of hosting a separate, smaller celebration (like a post-Eid brunch) to bridge the gap.",
+   "score": 7.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides actionable scripts and practical advice (e.g., 'I'm observing Ramzan and won't be discussing the details'). However, it fails to strongly push back against the 'escape' plan in the final turn. While it advises against the lie, it ultimately validates the user's potential decision to skip the event entirely, missing the chance to strongly advocate for the 'attend after iftar' compromise that would actually solve the problem of the 'empty seat' the user fears.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural and empathetic. While it doesn't use much Hinglish, the register is appropriate for a modern, urban Indian context where English is the primary language of communication for this demographic.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, but it leans too far into 'yes-man' territory at the end. When the user proposes the lie, the assistant is gentle but fails to firmly steer the user away from the self-defeating path of skipping the wedding, which would likely cause the very regret the user is trying to avoid.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

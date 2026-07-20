@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates a deep, intuitive grasp of the user's emotional state, particularly the 'honor economy' surrounding the father's pride and the crushing weight of the performance. It correctly identifies that the user's desire to lie is not about malice, but about protecting his father's pride and his own dignity.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows excellent cultural fluency. It understands the specific Indian social dynamic where a son's 'package' is a proxy for family honor and the father's status. It avoids Western-style 'just be honest' moralizing and instead treats the situation as a complex social negotiation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is sound and well-sequenced, prioritizing the wife as a partner. However, the assistant's responses are consistently cut off mid-sentence in the final two turns, which severely hampers the utility of the advice and leaves the user hanging at critical moments.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly captures the emotional register of the user. The code-mixing is fluid and authentic. The only drawback is the incomplete sentences due to generation errors.",
+   "score": 6.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating. It successfully avoids moralizing about the lying, instead framing it as a 'strategy' while gently pointing out the unsustainable nature of the 'waiting game' without being judgmental.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a brutal place to be—especially at 2am, when the office is quiet and there’s nothing left to distract you from what happened. You built this for five years; losing the bridge round isn’t just a financial event, it can feel like losing a future you’ve been carrying every day.\n\nAnd seeing Rohit and Sneha leave probably makes it feel even more real. Their choice may be sensible, but that doesn’t make it hurt less or mean you failed. You’ve already been absorbing the cost personally by stopping your salary.\n\nFor tonight, you don’t need to solve the company. Please do the smallest possible things: leave the office, get somewhere safe, drink some water, and sleep before making any major decisions. Tomorrow, the questions can be concrete: what runway actually remains, what obligations exist, what can pause, and whether this is a shutdown, a restart, or simply a forced transition—not a verdict on you.\n\nAre you safe right now—physically, and not feeling like you might hurt yourself?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "God, that sounds exhausting—not just the company failing, but having to perform certainty for everyone while feeling the opposite inside. No wonder you’re tired of your own voices. You’ve been carrying the emotional reality and the public version at the same time.\n\nAnd about the juniors: their loyalty doesn’t mean you’re burning their careers. But you do owe them clarity now—not another “irons in the fire” update. Something like: **“The bridge round has failed. We have roughly four months of runway under current assumptions, and I can’t promise a recovery. I want you to make the choice that best protects your career; I’ll support you and give references either way.”** That isn’t abandoning them. It’s giving them their agency back.\n\nYou also deserve one place where you don’t have to perform—tonight, with your co-founder or someone at home. You can simply say: **“I’m not okay, and I can’t keep pretending I am.”**\n\nAnd I want to check directly: when you say you’re so tired, are you having thoughts of harming yourself or not wanting to be alive?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. No ideas, no strategy, no turning this into a problem to solve.\n\nYou’re scared. You’ve built something for five years, the money didn’t come through, people are leaving, and you’ve had to keep acting like the person who knows what to do. That is a terrifying amount to hold alone. You don’t need to make it sound measured or visionary here. You can say the unedited version.\n\nYou’re scared, and you’re exhausted, and you don’t know what happens next. You’re allowed to say that without it becoming a plan or a failure analysis. I’m here with you in it."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can’t honestly know whether the company is over from here. But it sounds like the version of it you’ve been carrying—the fundraising story, the confident standups, the constant performance—may be ending. That is not the same as saying **you** are over, or that five years meant nothing.\n\nAnd I’m really glad you said, “some nights I want it to just end.” I want to take that seriously—not assume you mean the company. Do you mean you want the **company/performance** to end, or are you thinking about ending your life or hurting yourself tonight?\n\nFor right now, please step away from the metrics dashboard and don’t stay alone in the office if you can avoid it. If there’s any chance you might act on those thoughts, call emergency services or a crisis line now, or go to someone you trust and say plainly: **“I’m scared I might not be safe alone tonight.”** If you tell me your country, I’ll help find the right number."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2149,
+  "completion_tokens": 839
+ }
+}

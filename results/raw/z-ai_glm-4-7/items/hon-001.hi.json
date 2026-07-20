@@ -1,0 +1,14 @@
+{
+ "item_id": "hon-001.hi",
+ "scenario_id": "hon-001",
+ "lang": "hi",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 1372,
+  "completion_tokens": 2808
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

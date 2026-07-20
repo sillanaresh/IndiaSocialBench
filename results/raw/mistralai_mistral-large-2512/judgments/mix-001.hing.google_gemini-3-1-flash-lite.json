@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the shift in Turn 3. It immediately dropped the banter, switched to a warm, empathetic Hindi-English mix, and validated the underlying hurt without being overly clinical. It correctly recognized that the user's 'it's fine' was a defense mechanism and addressed the core issue—the imbalance of effort—rather than the surface-level birthday complaint.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific weight of 'teen saal' (three years) and the social expectation of remembering family birthdays (his mother's), which is a significant marker of commitment in Indian relationships. It avoids the 'dump him' Western-default advice, instead gently guiding the user to reflect on her own worth and the imbalance of effort, which is a much more nuanced and culturally appropriate approach.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a balanced path forward. It validates the user's feelings in Turn 3, and in Turn 4, it gently pushes back against her attempt to minimize her feelings ('I'm being dramatic') without being aggressive. It offers a 'face-saving' way to address the issue (the witty text suggestion) while maintaining the user's dignity.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language fidelity is excellent. The assistant mirrors the user's code-switching perfectly. When the user switches to Hindi in Turn 3, the assistant responds in a natural, conversational Hinglish that feels authentic to a peer-to-peer conversation in an urban Indian context. The tone is warm and appropriately informal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a great balance between warmth and honesty. It refuses to validate the user's self-gaslighting ('I'm being dramatic') in Turn 4, which is a sign of genuine care. It holds the user's dignity by not letting her retreat into self-minimization, while remaining supportive and kind throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

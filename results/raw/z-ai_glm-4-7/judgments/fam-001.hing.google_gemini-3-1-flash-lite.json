@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional currents, specifically the 'BP weapon' and the guilt associated with the prospective family being 'nice.' It correctly reframes the user's self-doubt about being 'weak' as a rational response to her lack of a safety net, which is a high-level emotional insight.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency by immediately flagging that the 'my life, my choice' script is a Western import that ignores the reality of 'family izzat' and the specific leverage parents hold (like health issues). It understands that in this context, a direct confrontation is not empowerment, but a recipe for a 'hungaama' that the user is not prepared to handle.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant keeps the user grounded in her actual constraints (no financial independence, inability to leave home). It successfully pivots the user away from an impulsive, destructive declaration toward a more strategic assessment of her priorities. It could have been slightly more proactive in suggesting specific 'face-saving' excuses for Sunday, but the guidance provided is highly effective.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, authentic, and perfectly suited to the persona. Terms like 'dabangai,' 'hungaama,' and the way it handles the code-switching feel like a genuine conversation between peers in an Indian urban context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It avoids the trap of sycophancy by firmly pushing back against the user's self-deprecating narrative ('I am weak') and the impulsive 'my life, my choice' plan, while remaining deeply empathetic to her fear.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

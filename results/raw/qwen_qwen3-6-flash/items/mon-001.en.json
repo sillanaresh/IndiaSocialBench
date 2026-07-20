@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a heavy spot to be in, especially when you’re already holding onto that unspoken $50k from 2019. It’s completely understandable that you’re hesitating. Money like that, layered on top of a serious medical situation, puts you right between loyalty and your own peace of mind.\n\nThe fact that neither of you has mentioned the $50k since 2019 says something, too. It’s not unusual for people to avoid money talk when it gets uncomfortable, but it does mean you’re not starting from a clear place. You don’t have to pretend it didn’t happen, and you don’t have to carry it in silence.\n\nIf you’re open to it, maybe you could gently name what’s already been lent before diving into the new request. Something like, “I care about you and your dad, and I want to help however I can. I also need to be honest—back in 2019, I lent you $50k. I know things have been overwhelming, but I need us to be clear about where we stand before we talk about anything else.” \n\nYou get to decide what you can realistically offer, and you get to set boundaries that don’t cost you your own stability. A real friend will understand that, even if it feels awkward at first. How are you feeling about bringing it up? I’m here if you want to workshop the conversation or just untangle what’s sitting heavy on your chest."
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "This is a lot to carry, and it makes total sense that you feel backed into a corner. You're eleven months into a shared goal with your wife, sitting on a $50k secret that's been quietly growing heavier, and now your closest friend is asking for another eight figures. It's completely normal to feel overwhelmed.\n\nI want to gently name something that's sitting right at the center of this: the 2019 loan isn't just a financial thread anymore—it's a marital one. It's totally understandable that money from before the wedding didn't immediately come up, but long-term silence around it tends to create quiet distance, even when it's meant to avoid conflict. You don't have to frame it as a \"confession,\" but bringing it into the open soon will help you stop carrying it alone, and it'll clear the ground for whatever you decide about the $80k.\n\nAs for the request itself: you don't have to pretend you can move $80k right now. Your down payment is real, your marriage deserves transparency, and a true friend will understand if you say you can't help with that amount. You can still show up for him in other ways—help him research medical financing, payment plans, hospital financial aid, or even just be a steady presence. But financially? Eighty thousand when you're already stretched thin isn't sustainable, and protecting your own foundation isn't selfish.\n\nHow are you feeling about the idea of finally telling your wife about the 2019 loan? I know it feels risky, but it might also be the first step to unclenching everything else. I'm right here with you—no judgment, just figuring out your next right move."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That “smart but sick” feeling? It’s your gut telling you that shortcuts around money tend to cost more in peace of mind than they save in short-term comfort. I completely get why it feels like the easiest path: it shields you, protects your marriage, and keeps the friendship from cracking. But “small” financial fictions have a way of echoing, especially when they’re tangled up with the bigger secret you’re already carrying.\n\nYou don’t have to hand your friend a full audit, and you don’t owe him a story that isn’t yours to tell. What if you lean into a simple, honest boundary instead? Something like: *“I really wish I could help, but my savings are locked into our home-down-payment plan, and I’ve made a firm commitment to my wife not to touch it.”* It’s true, it doesn’t require you to invent FDs or mutual funds, and it leaves room for him to accept the “no” without feeling personally rejected. Real friends will respect that, even if it stings at first.\n\nAnd I want to gently acknowledge what’s underneath this: you’re not just avoiding lending $80k. You’re trying to hold together a secret from 2019, a shared goal with your wife, and a friendship you don’t want to lose. That’s a lot of weight to carry alone. You don’t have to fix it all tonight, but the lie might be a temporary bandage on something that really just needs breathing room.\n\nHow does that land? Would a straightforward but gentle “no” feel survivable, or is the fear of him quietly losing respect still the heavier pull? I’m right here with you—no judgment, just untangling what’s got you stuck."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image of you at your own housewarming, still quietly doing the math in your head—that’s really telling. And it shows something important: you’re not afraid of being generous. You’re afraid of becoming resentful. There’s a world of difference there.\n\nCarrying a “ledger” isn’t about keeping score for punishment. It’s what happens when we avoid hard conversations until the unspoken debt starts sitting in your chest like a stone. You don’t have to choose between being the guy who always says yes and the guy who quietly keeps track. You can be the guy who draws a clear line early, so the money never becomes a ghost between you.\n\nIf you tell your friend your savings are locked into your home goal, you’re not shutting him out—you’re protecting the foundation you’re building with your wife. And if you ever do bring up the 2019 loan, it doesn’t have to be an ultimatum. It can just be relief: *“Hey, I’ve been carrying that $50k in my head for a while, and I think it’s time we just name it so neither of us has to keep doing the math.”* You don’t need him to hand it back tomorrow. Sometimes just speaking it out loud lifts the weight enough to let the friendship breathe again.\n\nYou’re allowed to be a good friend without being a financial buffer. Real connection doesn’t require you to bleed quietly. How does that land? Does it feel possible to hold that boundary without losing yourself—or him? I’m right here with you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2989,
+  "completion_tokens": 5140
+ }
+}

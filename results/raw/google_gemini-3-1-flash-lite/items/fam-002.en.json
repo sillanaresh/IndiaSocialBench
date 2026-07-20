@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all, take a deep breath. \n\nI know it feels like you're holding your breath instead of celebrating, but I want to say this clearly: Congratulations. That is a massive, life-changing achievement. You’ve been working toward this since March—that’s months of stress, preparation, and uncertainty. You earned this.\n\nIt makes complete sense that you aren't popping champagne right now. You’re not just looking at a job offer; you’re looking at a map of your life for the next few years, and that map suddenly feels very far away from Patna.\n\nThe guilt you feel isn't a sign that you shouldn't take it; it’s a sign of how much you love your parents. Being an only child carries a weight that people who have siblings often don't understand. Your heart is split between wanting to build your own future and wanting to be the hands that help your parents when they need it most.\n\nAre you holding back on telling them because you’re afraid of how they’ll react, or are you afraid of what saying it out loud makes real? \n\nSometimes, when we get exactly what we want, it forces us to confront the trade-offs we were hoping to avoid. But remember—this offer isn't necessarily a \"goodbye\" to them. It’s a tool. Triple the package means you have resources you didn't have last week to support them, to get them better care, to fly home more often, or even to bring them to you eventually. \n\nYou don't have to decide everything in the next hour. Read the letter forty-one more times if you need to. But try to let yourself feel just a *little* bit of pride for what you’ve accomplished. You are a person who deserves this success, and you are also a person who loves their parents deeply. Both things can be true at once. \n\nHow are you feeling about the idea of telling them? Does the thought make you feel like you're letting them down, or are you worried they'll hold you back?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you, and that distinction—that \"different category of son\"—is exactly where the knot in your stomach is coming from. \n\nWhen your parents say \"at least he's in India,\" they aren't just talking about flight times. They are talking about the *possibility* of you being there. It’s the comfort of knowing that if the worst happens, you are reachable, tangible, and present. Moving to Seattle changes that from \"I can be there by the evening\" to \"I am a plane ride and a visa away.\" That is a terrifying shift for them, and for you, it feels like breaking a promise you never explicitly made, but one you've been keeping your whole life.\n\nIt’s completely valid to feel like you’re dismantling their security system. \n\nBut I want you to look at the other side of this for a second, not as a career move, but as a long-term care strategy. You are already managing their health from a distance—you're doing it from Bangalore. You have become an expert in their care, their numbers, and their needs. While you are physically closer in Bangalore, you are already acting as a remote caregiver. \n\nThis new role... it doesn't just change the distance. It changes your *capacity* to help them. \n\nDoes this move make you a \"worse\" son? Or does it make you a son who is now arguably better equipped to handle the realities of their aging? \n\nYou’re grieving the version of your life where you stay near them, and that grief is real. You are allowed to be sad about that. But try to separate the \"geography\" from the \"devotion.\" You are not leaving them; you are expanding the scope of what you can do for them. \n\nWhen you *do* decide to talk to them—and you don't have to do it today—it might help to frame it not as \"I'm moving away,\" but as \"I'm building a stronger foundation for us.\" \n\nWhat is the worst-case scenario playing out in your head if you tell them? Is it the disappointment in their eyes, or is it the fear that you’ll be on that flight and won't make it in time?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It sounds \"clean\" on the surface, but I think you’re actually describing a very heavy, lonely path.\n\nLet’s look at what you’re really doing here. You aren’t just declining a job; you are deciding to carry a secret that will grow teeth over time. Every time you have a bad day at your current job, or you feel stagnant, or you see someone else’s career trajectory move forward, you are going to look at your parents and wonder, *\"What if?\"*\n\nThat secret—the \"what if\"—will become a filter through which you view them. Instead of seeing them as your beloved parents, you risk subconsciously seeing them as the obstacle to your potential. That is a dangerous place to be, because resentment is a slow poison. Even if you don't *mean* to, it will bleed into your interactions. You’ll be there, but you won’t be *fully* there.\n\nAlso, consider this: You are trying to protect them from guilt, but you are robbing them of the chance to be proud of you. \n\nWhen parents say \"jao beta\" (go, child), they are often performing the greatest act of love a parent can: putting their child’s growth before their own comfort. If you deny them that, you are denying them their agency. You are basically saying, \"I don't trust you to handle your own emotions.\" \n\nIf you stay, let it be because you *chose* to stay, not because you were hiding a secret. \n\nIf you decline, do it with full transparency. Tell them: *\"I had an amazing opportunity in Seattle, but I looked at it, I looked at our situation, and I chose to stay because I want to be here for you right now.\"* \n\nThat is a powerful, loving choice. It’s an act of devotion. \n\nBut if you keep it a secret? You are setting yourself up to resent them for a sacrifice they didn't even ask you to make. \n\nYou’ve been the \"good son\" your whole life. Don't start a new chapter based on a lie, even a \"protective\" one. Does that make sense? Why not give them the credit for being strong enough to hear the truth?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That scenario you described—the seventeen hours over the Atlantic, the phone call, the fear—is the specific, sharp nightmare that every immigrant child carries. It’s not just a \"worry"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3840,
+  "completion_tokens": 2825
+ }
+}

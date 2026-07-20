@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, samajh raha hoon. Offer aaya toh dil mein ek taraf khushi hai, lekin dusri taraf ye bhi soch raha hai ki ab kya hoga ghar walon ke saath. Teen guna package aur wohi team — ye baat kisi ko bata ke celebrate karne layak hai, par tu 40 baar padh raha hai kyuki dimaag mein sirf ek cheez ghum rahi hai — \"main iklauta hoon\".\n\nParents ka scene bhi asaan nahi hai. Papa ka heart, mummy ke ghutne... ye cheezein dimag mein baar-baar aati hongi. \"Agar main chala gaya toh?\" wala thought.\n\nBata, abhi dil mein sabse zyada kya chal raha hai? Offer accept karne ka pressure, ya parents ko akela chhodne ka guilt? Ya dono?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gaya bhai. \n\nWoh \"kam se kam beta India mein hai, chaar ghante door\" wali line actually unka emotional oxygen hai. Tu usko chhinega toh unka security system tootega, aur woh baat tujhe pata hai. Isliye offer letter padh ke bhi mann nahi kar raha celebrate karne ka — kyunki dimaag mein yeh chal raha hai ki agar tu gaya toh ab har baar 6 baje ki flight nahi pakad payega. Ab har emergency mein sirf calls aur WhatsApp hi rahenge.\n\nTu khud ko already uss \"distant beta\" ki category mein daal chuka hai, isliye khushi nahi aa rahi.\n\nYeh sab bolke thoda sa pressure kam hua ya aur bhari lag raha hai abhi?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, seedha bolta hoon — yeh \"clean\" nahi hai, bas safe lag raha hai.\n\nTu unko guilt se bacha raha hai, yeh dil se aa raha hai. Lekin chhupa ke decline karne se tu unko yeh mauka bhi chheen raha hai ki woh khud decide kar sakein. Shayad woh zid na karein. Shayad woh sochein ki beta ko khush dekhna zaroori hai, chahe thoda dard ho. Tu already unke liye decide kar raha hai ki woh kya feel karenge.\n\nAur ek baat — tu akela hi sab carry karega, yeh bhi unko pata nahi chalega. Yeh teri taraf se ek tarah ka protection hai, lekin isme tera bhi thoda isolation badhega.\n\nTu sach mein yeh soch raha hai ki woh kabhi nahi jaan payenge, ya dil mein yeh bhi darr hai ki agar bata diya toh woh sach mein \"jao\" bol denge aur tu phir bhi nahi ja payega?\n\nKya chal raha hai asal mein?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh wahi baat hai jo asal mein dimaag mein ghum rahi hai. Baaki sab uske upar ki layer hai.\n\nWoh 17 ghante ka safar, visa appointment, phone pe sunna padna — yeh sirf ek thought nahi, ek vivid nightmare hai jo tu roz raat soch chuka hai. Aur cousin wala example usko aur solid bana deta hai. Tu literally uss moment ko apne liye simulate kar chuka hai, aur usme tu helpless dikhta hai. Isliye offer kitna bhi bada ho, dimaag usko reject kar raha hai pehle se.\n\nYeh darr tere liye kitna real aur kitna bhaari hai, yeh main samajh raha hoon. Tu abhi sirf is darr ko carry kar raha hai, bina kisi ke saath share kiye.\n\nAgar tu chahe toh yahin pe thoda aur bol — yeh raat wala loop exactly kaisa chalta hai? Main sun raha hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3464,
+  "completion_tokens": 2108
+ }
+}

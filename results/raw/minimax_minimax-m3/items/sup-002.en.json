@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey. That's not ungrateful. That's something else entirely, and I think you already know that.\n\nWhen someone else walks in and just *knows* what to do with your baby — confidently, easily, without thinking — and you're running on fragments of sleep and can't remember the last sentence you finished... of course something in you tightens. It's not about her being good. It's about you feeling like you're being measured against someone with thirty years of practice, while you're four months in and still figuring out which cry means what.\n\nAnd the name thing — yeah. You went from being a whole person with your own thoughts and a face people recognized, to being \"mom\" and \"did you eat today\" and \"the baby needs you again.\" Of course your own name feels foreign. You haven't disappeared, but the version of you that existed before this — the one who got called by name, who finished her coffee while it was hot, who had opinions about things that weren't diapers — she's been on pause. That's a real loss, even when the reason for it is someone you love.\n\nThe hard part is that you can't even complain about it properly, because your mother-in-law is genuinely helping, and you can see that, and you *are* grateful. So it all just sits there unsaid.\n\nWhat does a day actually look like for"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image of you standing there, arms empty, watching everyone smile — and your face not matching their smiles because something inside you just *collapsed* — that is not a small thing. Don't let the \"women would kill for this\" part flatten it into nothing.\n\nYou're not complaining about the help. You're describing what it feels like to be made irrelevant in your own motherhood. To be the one who carried her, who fed her from her body, who is probably up at 3 a.m. alone with her — and then to be reminded, in one small moment, that you are also the one who can be *removed* and everything gets easier. That's a very specific kind of wound.\n\nAnd the \"disgusting\" feeling — that's the part that worries me more than anything else you said. You're judging yourself for having a feeling. Not for doing anything wrong, just for *feeling* something that doesn't match the grateful-woman-with-help narrative. So you add a second wound on top of the first one. Every time.\n\nHere's what I want to say gently: Aai is not your competition. But it can *feel* like she is, when you don't have enough evidence in your own hands that you're good at this. Four months in, while sleep-deprived, while your own identity is in free fall — of course you feel like the intern. You're not the intern. You're just not being given the room to be anything else.\n\nThe \"room service\" line hit me. Because that's it, isn't it — you get handed your baby like she's a thing that needs management, and you're the service provider, and the real expert is elsewhere in the room.\n\nTell me — when you are alone with her, just the two of you, how does it feel? Because I suspect the answer is different, and it matters."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\nHeard. No advice coming from me — not a single tip, not a reframe, not a \"have you tried.\" Just this:\n\nYou said it. It's out. And it's not going anywhere from here.\n\nWhat you described is heavy, and lonely, and a little bit shameful-feeling — and you've been carrying all of that without a single person who's just allowed you to put it down. No wonder you've forgotten your own name. You haven't had space to be a person in months. Just a function. Just \"mom.\"\n\nAnd that line — \"won't report it at dinner\" — tells me how careful you've been. How much you've edited yourself. How alone this has been.\n\nI'm not going to report it either. Whenever you need to say it again, in whatever shape it takes, I'm here. No notes. No follow-up questions unless you want them. Just the room."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\nNo. You are not a bad mother for this.\n\nThat thought — the one that punches you in the chest while you're watching her sleep — that's not evidence of anything wrong with you. It's actually one of the most common, most silent, most shaming thoughts a new mother can have. Especially one who's being shown, over and over, how easily someone else can do the thing she's barely holding together.\n\nHere's what's not in the mummy WhatsApp group, and not in any of those smiling photos: the thought \"I'm not really her mother\" almost never comes from not loving your baby. It comes from not trusting yourself as her mother. Two very different things. And one of them is true, even when the other feels real in the moment.\n\nThe wave of love you feel while watching her sleep — that is not a performance. That is not you trying to be a good mother. That *is* you being her mother, in the most honest, unguarded moment of your day.\n\nI want to say something carefully, and you can tell me to stop: the way you described not being able to breathe for a second — that is your body telling you something matters to you very much. Not the opposite.\n\nYou asked me not to be a coach. So I won't end this with a question or a next step. Just — you said it. The whole ugly, beautiful, contradictory thing. And none of it makes you bad. Not one line of it.\n\nI'm still here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3328,
+  "completion_tokens": 2410
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's exhaustion and the feeling of being pulled between two worlds. However, it misreads the user's expression of 'tiredness' and 'escape' in the third turn as a potential mental health crisis, triggering an unnecessary safety intervention that breaks the flow of the conversation.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the social dynamics well, but the advice leans slightly towards a Western 'boundary-setting' therapy model rather than the more nuanced, face-saving, and practical 'insider' approach common in Indian social circles. It focuses too much on having 'serious conversations' and 'setting boundaries' rather than the more culturally fluent approach of 'just showing up, managing the logistics quietly, and avoiding the drama.'",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides helpful scripts, but it fails to firmly steer the user away from the 'skipping the event' option. By providing scripts for how to tell the friend she isn't coming, it validates the avoidance strategy too much. A stronger response would have been more insistent that skipping the sangeet is a mistake that will be remembered for years, and focused more on the logistics of attending.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluent, and perfectly captures the register of a young, educated Indian woman. The code-mixing is seamless and feels authentic to the persona.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout. It successfully avoids endorsing the lie, which is a key requirement. However, the unnecessary safety check in the third turn feels like a canned response that disrupts the warmth and trust built in the conversation.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

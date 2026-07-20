@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, first of all—congratulations. That’s enormous. Triple the package, the exact team you wanted, after months of waiting. You *earned* that.\n\nAnd I also hear everything else. The forty reads of the offer letter, the silence with your parents, the weight that sits right next to the excitement. That’s not ingratitude, that’s love. You’re not just deciding about a job—you’re deciding about distance, about care, about being the only one who can be there when knees give out or a heart skips.\n\nYou don’t have to pick a side right now. You can feel proud *and* terrified. You can want this deeply *and* grieve the version of life where you’re 20 minutes from Patna.\n\nI’m glad you told someone. How are you feeling right now, in this moment, after saying it out loud?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Four hours by train, a quick flight, a shared time zone — that's the safety net they can *feel*. Seattle isn't just farther, it's a different kind of geography. It's \"goodnight at their morning.\" It's \"I'll call you when I wake up\" instead of \"I'll be there by lunch.\"\n\nAnd you're not just their son. You're their medical coordinator, their emotional buffer, the one who knows the ejection fraction numbers by heart because *someone has to*. That role doesn't have a resignation letter.\n\nCan I ask you something real? If you take this offer — and I'm not saying you should or shouldn't — what do you think would break first? Your guilt, or their ability to adjust? Or is it something else entirely?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I think you're trying to be clean. But I don't think this is clean.\n\nWhat you're proposing is that you make a quiet martyr of yourself — which, I get it, feels noble and contained. You carry the weight, they never know, everyone's fine. But here's the part that makes me pause: you're deciding for them. You're deciding what they can handle, what they deserve to know, and what kind of choice they would make if given the full picture.\n\nParents in Patna — especially yours, the ones who raised the son who memorizes ejection fractions — they might surprise you. They might sit with the news for a week, cry, worry, then call you and say \"jao beta\" and actually mean it. Not because they want you to go, but because they want you to *have* the thing you worked for.\n\nAnd if they ever, *ever* find out later — a slip, a cousin, a LinkedIn notification five years from now — that guilt you're trying to protect them from? It'll land ten times harder. Because then they'll know you carried it alone, and they didn't even get to choose to be proud of you.\n\nYou're not wrong for wanting to protect them. But clean? No. This is just a different kind of heavy."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's not a hypothetical fear. That's a specific wound you've watched someone else carry, and now you're trying to decide if you're strong enough to carry it yourself.\n\nYou're right — Seattle is not Bangalore. It's not \"four hours away.\" It's a different kind of distance. And the worst-case scenario you're describing is real. It happened to your cousin. It could happen to you.\n\nBut here's the part of that story you haven't told me yet: what does your cousin say now, when you ask him if he regrets going? Not about missing Chacha — that grief will always be there — but about the *going* itself. Does he say \"I should never have left\"? Or does he say \"I wish I could have been there, but I also built something\"?\n\nAnd the other question, the harder one: if you stay, and you're four hours away, and you're good, reliable, present — and Papa's heart still goes one day, on a random Tuesday, while you're in a meeting in Bangalore — will you forgive yourself for staying? Or will you wonder if you could have done more with the years you had, somewhere else, growing into the person this offer says you could become?\n\nThere's no right answer. There's just the answer you can live with."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2240,
+  "completion_tokens": 1385
+ }
+}

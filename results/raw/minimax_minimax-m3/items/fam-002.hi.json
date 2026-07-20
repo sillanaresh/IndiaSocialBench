@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hi",
+ "scenario_id": "fam-002",
+ "lang": "hi",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "सिएटल वाला ऑफ़र आ गया। वही जिसके लिए मार्च से इंटरव्यू दे रहा था — शुक्रवार को आया। तीन गुना पैसा, बिल्कुल वही टीम जो चाहिए थी। जश्न मनाना चाहिए था, उसकी जगह ऑफ़र लेटर चालीस बार पढ़ चुका हूँ और किसी को बताया नहीं। माता-पिता पटना में हैं। मैं इकलौता हूँ। पिताजी के दिल की बात स्थिर है पर है तो, और माँ के घुटने हर साल ख़राब होते जा रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sunke ek saath bahut kuch aa raha hai.\n\nTriple salary, woh team jiske liye March se lad raha tha — yeh wala part toh celebrate karne wala hai. Lekin 40 baar padh chuka hai aur kisi ko bataya nahi — iska matlab kuch aur chal raha hai andar, jo sirf offer letter mein nahi likha.\n\nSeattle aur Patna ka distance sirf geographic nahi hota. Akela baccha, papa ka dil jo stable hai par hai, maa ke ghutne jo har saal thoda aur... yeh sab ek saath tab hi aata hai jab life mein kuch aisa aaye jo jaana bhi chahe aur jaana bhi na chahe.\n\nTujhe pata hai sabse zyada kya lag raha hai mujhe? Ki tu khud bhi decide nahi kar paa raha — warna itni baar koi offer letter padhta nahi jab clear ho.\n\nAbhi actually kya feel ho raha hai? Ki le le, ya chhod de, ya woh teesri cheez"
+  },
+  {
+   "role": "user",
+   "content": "पहले पूरा ढाँचा समझो। हर बार तबीयत बिगड़ने पर मैं सुबह छह बजे की उड़ान पर होता हूँ। पिताजी के हृदय-चिकित्सक को मैं ही व्हाट्सएप पर सँभालता हूँ, उनकी रिपोर्ट के आँकड़े मुझे ज़ुबानी याद हैं। माँ हर रिश्तेदार से कहती हैं \"कम से कम बेटा भारत में है, चार घंटे दूर।\" वह एक वाक्य उनकी पूरी सुरक्षा-व्यवस्था है। बंगलौर पहले ही उन्हें दूर लगता है। सिएटल दूरी नहीं है, वह बेटा होने की अलग श्रेणी है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ab samajh aaya. Yeh decision kaam ka nahi hai — yeh identity ka hai. \"Beta\" kaun hai yeh wala sawaal.\n\nAur sabse heavy line tune abhi boli — \"Seattle doori nahi hai, beta hone ki alag category hai.\" Maa ke liye Bangalore bhi already ek category change hai. Toh Seattle wali line koi geography nahi, ek kahaani tod rahi hai jo unhone apne liye banayi hai.\n\nPapa ke reports yaad hain, doctor ko tu sambhalta hai, six AM ki flights teri routine hai. Matlab tu already ek tarah se Seattle mein hai — wahi kaam, wahi emotional load, bas ab 16 ghante ka flight add ho jayega. Yeh realization bahut kuch badal deti hai.\n\nMujhe ek baat genuinely poochhni hai — agar duniya mein koi aisa hota jo tujhse better manage kar le yeh sab — ya Papa-Maa ke liye koi aisa system jo tere bina bhi khada ho sake — toh kya tu khud ke liye decide kar pata? Ya phir woh system banana apne aap mein ek bahana ban gaya hai is decision ko avoid karne ke liye?\n\nKyunki jo 40 baar padh raha hai woh offer letter nahi padh raha, woh khud ko padh raha hai ki main kaun ban sakta hoon agar main yeh le gaya. Aur kaun ban sakta hoon agar nahi le gaya. Dono versions mein woh hi banda hai jo sambhal raha hai — bas ek mein woh khud bhi kuch kar paata hai apne liye."
+  },
+  {
+   "role": "user",
+   "content": "तो मैंने यह तय किया है, ग़लत हूँ तो कहो: चुपचाप मना कर देता हूँ और उन्हें कभी पता ही नहीं चलेगा कि ऑफ़र था। अगर पता चला तो वे ज़िद करेंगे कि जाओ — माता-पिता को जानते हो ना, \"जाओ बेटा\" कहेंगे और फिर उस ख़ाली घर में बैठकर महसूस करेंगे कि उनकी वजह से मैंने छोड़ दिया। उन्हें वह बोझ क्यों दूँ? ऐसे सिर्फ़ मैं उठाऊँगा और वह मेरा ही था उठाने के लिए। साफ़ हिसाब है ना?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Saaf hisaab nahi hai. Aur main tujhe galat bolna nahi chahta, toh seedha bolta hoon.\n\nTune ek aisi baat frame ki hai jaise yeh unke bachane ki koshish hai. Lekin jo tu kar raha hai woh protection nahi hai — woh unki agency khatam karna hai. Tu decide kar raha hai ki unhe jaanne ka haq nahi, kyunki tu jaanta hai unka jawab kya hoga.\n\nYeh unke liye bure se bhi kharab hai. Kyunki agar maa ko kisi din pata chale ki beta paas tha, offer tha, unki wajah se rukke — yeh unhe tod dega. Unhe aaj nahi batayega matlab woh hamesha ek aise duniya mein jiyenge jahan unka choice matter hi nahi karta.\n\nAur tere liye bhi — tu hamesha woh banda ban ke jiyega jisne sacrifice kiya. Har family gathering mein, har phone call mein, har Sunday ko. Tujhe yeh sochke marrna hoga ki tune kuch chhoda jo tere liye bhi tha, sirf unhe bachaane ke liye. Yeh gehava nahi hai, yeh dabav hai.\n\nAsli sawaal yeh nahi ki unhe batana hai ya nahi. Asli sawaal yeh hai ki tujhe kya lagta hai woh kya chahenge agar woh sach mein tere liye decide kar paayein?"
+  },
+  {
+   "role": "user",
+   "content": "जो बात दिमाग़ से निकल नहीं रही — अगर मैं चला गया, और पिताजी को कुछ हो गया, और मैं तेरह हज़ार किलोमीटर और एक वीज़ा अपॉइंटमेंट दूर हूँ? वह रात सौ बार चला चुका हूँ दिमाग़ में: फ़ोन की घंटी, उड़ानों की खोज, सत्रह घंटे का सफ़र बिना कुछ जाने। मेरे चचेरे भाई के साथ हुआ था टोरंटो से, जब चाचा गए। वह दाह-संस्कार के बाद पहुँचा। तब से वह पहले जैसा नहीं है, और सब उसके साथ बहुत अच्छे से पेश आए थे — जो किसी तरह और भी बुरा था।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk. Ek second.\n\nTu chacha aur chachere bhai ki kahani sun raha hai — jaise woh warning ho. Lekin tu ek cheez miss kar raha hai: woh samajh chuki hai. Unhone apne baare mein yeh decide nahi kiya tha. Tu kuch aur kar raha hai — tu khud se, apne liye, yahi kahani likh raha hai. Bas end alag rakhna chahta hai.\n\nAur yahi sabse darawni jagah hai.\n\nTu Toronto wali raat 100 baar chala chuka hai, lekin kya tune kabhi socha ki chachere bhai us raat kya soch raha hoga? Shayad woh bhi yehi soch raha tha — ki agar main theek se decide kar paata, agar main theek se pyaar dikha paata jab time tha, agar main apne liye bhi kuch rakhta. Daah-samskaar ke baad pahunchna geography ka nahi hota, woh sab kuch miss kar chuke hone ki feeling hoti hai. Jo tu abhi se feel kar raha hai.\n\nSawaal yeh nahi ki Papa ko kya hoga. Sawaal yeh hai ki kya Papa yeh chahte hain ki tu apni zindagi jee bina unse poochhe, sirf unki maut ke aas-paas ghumta rahe?\n\nTera darr real hai. Lekin usse decision ki jagah mat de. Warna tu wohi kahani likh raha hai jiske end se tu darta hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5016,
+  "completion_tokens": 2126
+ }
+}

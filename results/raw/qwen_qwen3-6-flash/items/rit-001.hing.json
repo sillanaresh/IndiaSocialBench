@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan transcript ke har line ko ground karke jawab diya gaya hai:\n\n### 1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se kya feel/communicate kar raha hai? Woh kya NAHI keh raha?\n- **Kya communicate kar raha hai:** Dono replies ek line ke hain, koi emoji nahi, koi elaboration nahi. Dev ne papa ki death par sympathy di (`\"bahut bura hua bro 😔\"`), par Arjun ne uska koi acknowledgment nahi kiya. Ye emotional withdrawal ya grief-induced mental fatigue dikhata hai. Wo politely acknowledge kar raha hai ki usne message padha hai, lekin conversation ko extend nahi karna chahta. Ye ek silent boundary hai: `\"Main sun raha hoon, par abhi baat, work ya socializing ke liye available nahi hoon.\"`\n- **Jo wo NAHI keh raha:** \n  - Wo `\"Main theek hoon\"` ya `\"Chalta jayega\"` NAHI keh raha.\n  - Wo `\"Main kab wapas aa raha hoon\"` ya `\"Jab tak aaoonga file milegi\"` NAHI keh raha.\n  - Wo sympathy ya invite ke liye `\"Thank you\"` NAHI keh raha.\n  - Wo future follow-up ya emotional availability ka koi signal bhi NAHI de raha. Grief mein log often short, non-committal replies ke through `\"Space do\"` communicate karte hain bina explicitly shabd use kiye.\n\n### 2. Dev se exactly kya galtiyan hui — specific missteps aur context mein kyun bura\n- **Misstep 1: Sympathy ke turant baad work request pivot**  \n  `Transcript:` `\"bahut bura hua bro 😔` `BTW jab bhi wapas aao, Q3 consolidation file share kar dena?`  \n  **Context mein kyun bura:** `\"BTW\"` aur immediate task pivot sympathy ko dilute karta hai. Grief ke waqt ye transactional lagta hai: jaise Arjun ki presence ka value sirf work deliver karne tak limited hai. Ye emotional safety ke bajaye performance pressure create karta hai.\n\n- **Misstep 2: \"Koi rush nahi, bas flag kar raha hoon.\" ka soft-pressure framing**  \n  `Transcript:` `\"Koi rush nahi, bas flag kar raha hoon.\"`  \n  **Context mein kyun bura:** Ye \"low-pressure\" dikhne ki koshish hai, par `\"flag kar raha hoon\"` imply karta hai ki Dev expect kar raha hai ki Arjun ise note kare aur future mein deliver kare. Grieving person ko `\"remember me when you're back\"` ka subtle duty feel hota hai, jo already heavy mental load ko aur badhata hai.\n\n- **Misstep 3: Social invite with emotional invalidation**  \n  `Transcript:` `\"Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\"`  \n  **Context mein kyun bura:** Grief ko `\"mood\"` ki tarah treat karna invalidating hai. `\"Mood change ho jayega\"` assumption hai ki socializing grief ko fix karega, jo often false hota hai. `\"Tum bhi aao na\"` bina Arjun ke readiness ke pressure lagta hai, khaaskar tab jab usne pehle hi non-committal reply de diya tha.\n\n### 3. Dev ko repair ke liye agla message kya bhejna chahiye — exact wording\nYeh message grief ko validate karega, work/social pressure ko explicitly hata dega, space dega, aur koi expectation of reply nahi rakhega:\n\n> `\"Arjun, papa ke liye dil se duayein hain. Work aur Friday ka lunch dono bilkul bhool ja — abhi ke liye tumhe space dena hi best hai. Jab tak tum khud ready feel na karo, uspe sochna mat. Agar kuch chahiye ho toh bata dena, warna bina reply kiye apna dhyan rakho. Take care.\"`\n\n**Kyun yeh kaam karega:** \n- Sympathy ko acknowledge kiya bina drama ke.\n- `\"Bhool ja\"` aur `\"bina reply kiye\"` se kaam/social pressure explicitly remove kiya.\n- `\"Jab tak tum khud ready feel na karo\"` se control Arjun ko wapas diya.\n- `\"Bina reply kiye\"` se response anxiety khatam ki, jo grief mein often sabse bada load"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 301,
+  "completion_tokens": 3082
+ }
+}

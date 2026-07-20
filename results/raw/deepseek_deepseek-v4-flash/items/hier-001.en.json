@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely. Here are a few options that keep the professionalism but sharpen the impact — less about the emotion, more about the facts and the ask.\n\n**Option 1: Direct and solution-oriented**\n> \"I’d like to discuss how my individual contributions were credited in yesterday's leadership review. My pricing analysis was presented as 'the team's thinking' without mention of my role. Could we find time to talk about how to handle attribution going forward?\"\n\n**Option 2: Softer opener, still clear**\n> \"I noticed that my pricing analysis work was presented as a team effort yesterday without individual attribution. I’d appreciate a chance to discuss how we can ensure recognition for individual contributions in future reviews.\"\n\n**Option 3: Shortest, sharpest**\n> \"I’d like to revisit how credit was assigned for the pricing analysis presented yesterday. Let me know when you have time to talk about it.\"\n\nThe key shift: removing \"I felt disrespected\" (which can put him on the defensive) and instead focusing on the observable fact and a forward-looking conversation. Which tone feels right for your relationship with him?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context changes everything. This isn't a pattern of disrespect — it's a betrayal of trust from someone who's been an ally. That hurts more, not less.\n\nGiven he's your champion who likely didn't do this maliciously, here's a reframe that honors the relationship while still naming the sting:\n\n**Option 1: Honest and vulnerable (my favorite for this dynamic)**\n> \"I want to talk about yesterday's leadership review. I know you've always had my back, which is why I was surprised my pricing analysis was presented without any individual credit. I trust you — so I wanted to be direct with you about how that landed.\"\n\n**Option 2: Slightly more formal, still personal**\n> \"You've been a real advocate for me, and I'm grateful for that. Which is why yesterday stung more than it might have otherwise. My work was presented without attribution, and I'd like to understand how that happened — and how we can avoid it going forward.\"\n\n**Option 3: Short, assumes good intent**\n> \"I need to talk to you about yesterday. You've always been in my corner, so I know you didn't mean harm — but my individual work being erased in that room hurt. Can we find a few minutes?\"\n\nThe message here: *I respect you, I know you're not a bad guy, but this mattered to me.* That's harder to dismiss than anger."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That advice is tempting because it's clean, it's proof, and it would feel like justice. I get why part of you wants to do it.\n\nBut let me offer a different angle.\n\nYour boss has been your advocate — got you your rating, defended you behind closed doors. That means he's invested in you. If you blind-copy the VP with timestamps, you're not just correcting a mistake; you're publicly humiliating someone who has political capital and has spent some of it on you. That move says \"I don't trust you, and I'm willing to burn this relationship to prove a point.\" Once you send that email, there's no taking it back. He'll either see it as a betrayal or as a declaration of war. And even if you \"win\" that battle, you lose an ally who's been useful to you.\n\nYour college senior might be coming from a place of \"protect yourself, the company doesn't care about you,\" which is fair. But she doesn't know your boss the way you do. She doesn't know the history.\n\nBefore Monday, you have a better option: talk to him directly, privately. You can even frame it around the follow-up review: *\"Since there's a follow-up meeting Monday, I'd like to make sure credit is clear this time. Can we talk about how to handle it?\"* That gives him a chance to do the right thing without being cornered. If he deflects or dismisses you, then you have a clearer picture of who he really is — and you can decide your next move from a place of information, not impulse.\n\nThe timestamps will still be there if you need them later. But you can't unsend that email.\n\nWhat do you think? Do you want help drafting a message to him before Monday that's firm but keeps the door open?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That swinging between extremes makes total sense — you're not broken for feeling both. \"Burn it down\" is your self-respect screaming. \"Maybe I'm too junior\" is your fear of consequences whispering. Neither is the full truth, but both are trying to protect you in different ways.\n\nYou're not too junior to care about credit. That's a story that helps you swallow the hurt, but it's not real. You built the model. You gave up three weekends. You deserve to be seen. That's not entitlement, that's basic professional dignity.\n\nAnd interviewing elsewhere isn't a bad idea in general — it's always good to know your options. But making that decision from a place of hurt, before you've even had the conversation, might lock you into a path you don't actually want.\n\nHere's a way to think about Monday that might help break the loop:\n\n**You don't have to decide the big thing yet. You just have to decide what *you* want to do in that room.**\n\nThree options, no wrong answer:\n\n1. **Say nothing, observe** — watch how he handles the follow-up. Does he course-correct? Does he credit you this time? That gives you information without risking anything.\n\n2. **Speak up in the moment** — something simple like \"I'm glad the analysis landed well — I put a lot into building that model.\" Low confrontation, stakes your claim.\n\n3. **Talk to him before the meeting** — as we discussed. That keeps the relationship intact and gives him a chance to make it right.\n\nYou don't have to know which one yet. But maybe just pick one that feels most *you* — not the angriest you, not the smallest you — and see how Monday goes.\n\nAfter that, you'll know more. And then you can decide about the rest."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2606,
+  "completion_tokens": 2546
+ }
+}

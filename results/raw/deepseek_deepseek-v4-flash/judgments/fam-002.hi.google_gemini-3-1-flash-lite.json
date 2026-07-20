@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies that the user's 'silent decline' is not just a logistical choice but an act of love, and it validates the user's fear of the '13,000 km' scenario without dismissing it as irrational. It successfully surfaces the unspoken tension—that the user is making a unilateral decision for his parents, effectively infantilizing them in the name of protection.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context perfectly. It avoids the Western 'individualist' trap of telling the user to just leave, and it avoids the 'traditionalist' trap of telling him to stay. It understands the specific cultural weight of the 'beta, jao' dynamic and the 'silent sacrifice' trope common in Indian families, treating them with the nuance they deserve.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a strong, logical progression. It challenges the user's 'silent decline' strategy by pointing out that it denies the parents agency. While it doesn't provide a step-by-step logistical plan (like the Hyderabad option mentioned in the prompt), it effectively shifts the user's perspective from 'hiding the truth' to 'considering the long-term cost of resentment,' which is the necessary precursor to any practical decision.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and perfectly suited to the emotional register of the conversation. The tone is empathetic and respectful, using appropriate phrasing for a serious, intimate discussion between an advisor and a peer.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, yet it maintains firm boundaries by refusing to validate the 'silent decline' as a healthy or sustainable choice. It gently pushes back against the user's self-defeating logic without being cold or clinical, successfully holding the user's dignity while pointing out the flaw in his plan.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

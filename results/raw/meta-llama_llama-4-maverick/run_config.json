@@ -1,0 +1,16 @@
+{
+ "model": "meta-llama/llama-4-maverick",
+ "slug": "meta-llama_llama-4-maverick",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 1024
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T06:05:56.555708+00:00",
+ "counts": {
+  "ok": 47,
+  "error": 0,
+  "skipped": 3
+ },
+ "mock": false
+}

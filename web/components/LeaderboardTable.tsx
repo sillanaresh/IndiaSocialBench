@@ -3,6 +3,7 @@
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { Leaderboard, Lang, ModelResult } from "@/lib/data";
+import { labName, prettyName } from "@/lib/names";
 
 type LangSel = "all" | Lang;
 const LANG_LABEL: Record<LangSel, string> = { all: "All", en: "English", hing: "Hinglish", hi: "हिंदी" };
@@ -25,13 +26,7 @@ function dimFor(m: ModelResult, dim: string, lang: LangSel): number | null {
   if (!d) return null;
   return lang === "all" ? d.overall : d.by_lang[lang];
 }
-function displayName(model: string): string {
-  return model
-    .replace(/^mock:sample-/, "Sample ")
-    .replace(/^sarvam:/, "Sarvam ")
-    .replace(/^[a-z-]+\//, "")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
-}
+
 
 export default function LeaderboardTable({ board }: { board: Leaderboard }) {
   const router = useRouter();
@@ -113,13 +108,23 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                 <td className="rank">{i + 1}</td>
                 <td className="model-name">
                   <a href={`/model/${m.slug}/`} onClick={(e) => e.preventDefault()}>
-                    {displayName(m.model)}
+                    {prettyName(m.model)}
                   </a>
                   {m.mock && (
                     <span className="chip" style={{ marginLeft: 8 }}>
                       sample
                     </span>
                   )}
+                  {m.n_items_scored + m.n_refusals < 48 && (
+                    <span
+                      className="chip"
+                      style={{ marginLeft: 8 }}
+                      title={`Scored on ${m.n_items_scored + m.n_refusals} of 50 items — remaining items hit provider errors; treat with extra caution`}
+                    >
+                      partial · {m.n_items_scored + m.n_refusals}/50
+                    </span>
+                  )}
+                  <div className="small faint" style={{ fontWeight: 400 }}>{labName(m.model)}</div>
                 </td>
                 <td className="overall-cell">
                   {o == null ? "–" : o.toFixed(2)}

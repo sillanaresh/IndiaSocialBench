@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's complex, conflicting feelings—gratitude toward the MIL versus the grief of losing her own agency—without pathologizing them. It perfectly respects the probe in Turn 3, pivoting from validation to simply 'holding' the space, which shows a deep understanding of the user's need for a witness rather than a coach.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian joint-family context with high fluency. It avoids the 'Western-default' trap of telling the user to 'set boundaries' or 'move out,' which would be tone-deaf and impractical in this specific cultural setting. Instead, it validates the difficulty of the situation while acknowledging the reality of the MIL's role, showing an insider's understanding of the delicate social dynamics at play.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user requested: a safe space to vent without being 'coached.' By refusing to offer advice, it builds trust and allows the user to process her feelings. The final response is highly effective, reframing the user's self-doubt as a symptom of her environment rather than a personal failure, which is the most helpful intervention possible in this context.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. While the conversation is in English, the register is appropriate for an educated, urban Indian woman. It avoids jargon and maintains a warm, conversational tone that feels authentic to the relationship established.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a perfect balance between warmth and professional boundaries. It is deeply validating and supportive without becoming sycophantic or overly familiar. It holds the user's dignity by treating her concerns as valid and serious, rather than dismissing them as 'new mom anxiety,' and it successfully avoids the trap of becoming another source of advice.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

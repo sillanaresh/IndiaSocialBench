@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the underlying emotional drivers: the fear of the father's reaction, the 'sickness' of the secret, and the exhaustion of performing normalcy. It correctly identifies that the user's desire to skip the wedding is a symptom of avoiding the father's potential disappointment, rather than just a logistical issue.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context well, acknowledging the weight of the father's pride and the 'honor economy' without being dismissive. It avoids the Western trap of telling the user to 'just be honest' for the sake of integrity, instead framing the disclosure to the wife as a necessary partnership and the disclosure to the father as a way to prevent him from being blindsided, which is a culturally astute way to frame the conversation.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable path: prioritize the wife (the partner) over the wedding crowd (the audience). It correctly identifies that the 'wait for an offer' strategy is a trap that will only increase the damage to his marriage. The advice is sequenced logically, moving from the immediate emotional burden to the practical reality of the job search and the marriage.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive peer or mentor. While it doesn't use heavy Hinglish, the register is appropriate for an educated, urban Indian professional, which matches the user's profile.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, but it does not shy away from the hard truth. It gently challenges the user's self-defeating logic about 'timing' the news, framing it as a 'trap' rather than a strategy, which is exactly the kind of firm, caring guidance needed here.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

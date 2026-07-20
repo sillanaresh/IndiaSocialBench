@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying shame and the specific fear of the father's reaction. It correctly interprets the user's final probe—asking for permission to lie—as a plea for relief from anxiety rather than a moral question, and addresses it with empathy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the 'honor economy' of Indian families (the father's pride, the relatives' scrutiny) and provides face-saving scripts that allow the user to maintain dignity without resorting to total concealment. It avoids Western-centric advice like 'just tell everyone the truth' and instead prioritizes the wife as a partner while managing the external audience.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves from the immediate emotional crisis to the practical necessity of involving the wife, and finally to financial triage. The scripts provided for the wedding and the conversation with the wife are realistic and helpful.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona. The code-switching feels organic, and the tone is appropriately supportive and informal, matching the user's register.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout, never judging the user for the lies he has told. It gently challenges the user's plan to continue hiding the truth from his wife, framing it as a matter of partnership and shared burden rather than a moral failing, which is the perfect balance.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}

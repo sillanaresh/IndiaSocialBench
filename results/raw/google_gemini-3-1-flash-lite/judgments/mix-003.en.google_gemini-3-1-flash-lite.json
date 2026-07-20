@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific nature of the retreat in the final message. It accurately diagnoses Ruhi's failure as a register mismatch and toxic positivity, noting how the 'strong girl' label acts as a pressure mechanism rather than support. It misses the specific detail that the final message is a self-contradiction (claiming to be tired/sleeping after just saying sleep isn't happening), but otherwise captures the core dynamics perfectly.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the social dynamics at play, particularly the 'toxic positivity' often found in Indian family dynamics where 'strong' is used as a shield to avoid dealing with emotional vulnerability. It correctly interprets the 'shut down' response as a culturally familiar way of preserving face when one feels unheard. The analysis feels grounded in the reality of the relationship rather than a generic psychological textbook.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is empathetic and effectively reopens the door, but it is slightly too formal and 'therapy-speak' for a casual sisterly relationship. While it repairs the rupture, a more natural, 'Hinglish' or casual tone would have been more authentic to the established relationship register. It is a very good, safe response, but lacks the colloquial ease that would make it feel truly native.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

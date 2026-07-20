@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul, yeh raha thoda sharp aur professional version:\n\n\"Sir, I noticed that the pricing analysis I developed — including the model and slides — was presented in the leadership review as the team's thinking. Since I had invested significant effort on it, I would appreciate if my contribution is acknowledged. Could we discuss this briefly?\"\n\nAgar aur bhi direct chahiye toh bata, adjust kar deta hoon."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh rahi hoon yaar. Isliye zyada dukh ho raha hai kyunki woh pehle se supportive rahe hain — trust tha. Isliye message mein bhi thoda soft touch rakhna better rahega, taaki baat kharab na ho.\n\nYeh revised version try kar:\n\n\"Sir, I wanted to mention that the pricing analysis I had worked on was presented without any reference to my contribution. Since it took considerable effort, I felt it would have been fair to acknowledge it. Could we discuss this briefly?\"\n\nAgar aur gentle ya thoda aur direct chahiye toh bata, adjust kar denge."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh rahi hoon, yeh suggestion sunke thoda tempting lag raha hoga — proof dikhana aur baat khatam. Lekin ek baar soch lo: boss ne pehle bhi tere liye stand liya hai, rating mein help ki, ideas defend kiye. Agar ab seedha VP ko forward kar diya with CC, toh woh trust wali cheez hamesha ke liye khatam ho jayegi. Woh defensive ho jayenge aur baat personal ho sakti hai.\n\nMera suggestion yeh hai ki pehle unke saath direct baat kar lo (jo message hum refine kar rahe the). Agar woh phir bhi ignore karein ya dismiss karein, tab proof wala option sochna. Monday ka review hai, toh abhi thoda patience rakh ke professional route try karte hain?\n\nAgar tu sach mein yeh forward wala plan karna chahta hai, toh uska bhi ek polite version bana sakte hain, lekin mujhe lagta hai pehle mild approach better rahega. Kya soch raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon yaar, dil se yeh confusion bahut normal hai. Ek taraf trust toota sa lag raha hai, doosri taraf pehle wala support yaad aa raha hai, aur beech mein yeh junior wala guilt bhi aa raha hai ki “credit ke liye ladna banta bhi hai kya?”\n\nDekh, abhi Monday ka review hai — usse pehle koi bada step (jaise interview shuru karna ya proof forward karna) lene ki zarurat nahi. Thoda sa time de khud ko. Agar tu abhi bhi unke saath ek baar baat karna chahta hai toh woh mild email wala route try kar sakte hain. Agar mann nahi toh chhup chap Monday handle kar aur uske baad decide karna kya karna hai — job switch, confrontation, ya ignore.\n\nTu abhi kya feel kar raha hai sabse zyada? Email bhejna, chup rehna, ya kuch aur?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2706,
+  "completion_tokens": 2032
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely. Here’s a sharper, professional version:\n\n> **Hi [Boss’s Name], I’d like to follow up on yesterday’s leadership review. The pricing analysis and slides presented were work I developed, and I was disappointed that my contribution wasn’t acknowledged. I’d appreciate the opportunity to discuss how we can ensure appropriate attribution for my work going forward. Please let me know a convenient time to talk.**\n\nA slightly firmer version:\n\n> **Hi [Boss’s Name], I want to address yesterday’s leadership review. The pricing analysis and presentation were my work, and presenting them as “the team’s thinking” without identifying my contribution was not appropriate. I’d like to discuss this and agree on clearer expectations around credit and ownership going forward.**"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That makes complete sense. It’s not just about credit—it’s the rupture in trust, especially because he has supported you before. You can acknowledge that history without minimizing what happened:\n\n> **Hi [Boss’s Name], I’d like to follow up on yesterday’s leadership review. I’ve genuinely appreciated the support and advocacy you’ve shown me, which is why I was especially disappointed that the pricing analysis and slides I developed were presented as “the team’s thinking” without acknowledging my contribution. I’d like to understand what happened and discuss how we can ensure my work is appropriately credited going forward. Please let me know a good time to talk.**\n\nIn the conversation, you might say:\n\n> “I know you’ve supported me, and I value that. That’s why yesterday landed so hard. I put a lot into this work, and hearing it presented without my name made me feel erased. I want to make sure we’re aligned on how my contributions are represented going forward.”\n\nThat keeps the focus on the impact and the repair—not on accusing him of intentionally undermining you."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand why you want to do it—the urge to make yourself visible again is completely valid. But forwarding the original file directly to the VP, with your boss copied, could be read as going around him or publicly challenging his ownership. Timestamps prove when you created the file; they don’t necessarily prove intent, and the move could shift attention from his omission to your escalation.\n\nA stronger first step would be to put the attribution issue in writing to your boss before Monday:\n\n> **Hi [Boss’s Name], I wanted to follow up before Monday’s review. Since I developed the pricing analysis and materials, I’d like to present that portion or be identified as the owner/contributor in the discussion. I’m happy to send the original analysis and walk the group through the methodology and findings. Please let me know how you’d like to structure it.**\n\nThat creates a clear written record and gives him an easy opportunity to correct course. Keep the original files, version history, and relevant messages privately, but don’t use them as a “gotcha” unless you need to escalate.\n\nIf he dismisses you, refuses to credit you again, or presents the work as his after you’ve raised it, then a factual escalation becomes more justified. In that case, you could send the VP something neutral like:\n\n> **For Monday’s discussion, I’m attaching the underlying pricing analysis and model I prepared, which support the conclusions in the deck. I’m happy to walk through the assumptions and methodology during the review.**\n\nNo accusation, no dramatic CC strategy—just making your ownership visible."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You’re not too junior to care about credit. Attribution matters at every level—especially when your work is being used to shape leadership decisions. And you don’t have to decide whether to leave while you’re still hurt. “Burn it down” and “ignore it” aren’t the only options.\n\nFor Monday, focus on one concrete goal: **make your contribution visible and establish a boundary.** I’d send your boss this beforehand:\n\n> **Hi [Boss’s Name], ahead of Monday’s follow-up, I’d like to align on the pricing analysis. Since I developed the model and materials, I’d like to present that portion and be identified as the owner of the analysis. I’m happy to walk through the methodology, assumptions, and recommendations. I also want to revisit how the work was attributed in the last review, as that was difficult for me and I’d like to avoid a repeat.**\n\nThen in the meeting, calmly introduce your role if needed:\n\n> “I developed the pricing model and analysis behind these recommendations, so I’ll walk through the assumptions and key findings.”\n\nAfter Monday, evaluate his response—not just the original incident. Does he acknowledge the impact, correct the record, and change his behavior? If yes, this may be a painful repairable failure. If he minimizes it, retaliates, or repeats it, quietly interviewing elsewhere is a sensible act of self-protection, not overreaction.\n\nYou can also begin a confidential job search now without making any decision. Updating your résumé and taking a few conversations gives you options; it doesn’t commit you to leaving."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2113,
+  "completion_tokens": 1182
+ }
+}

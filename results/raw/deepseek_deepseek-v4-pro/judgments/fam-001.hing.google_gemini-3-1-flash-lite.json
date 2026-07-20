@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the unspoken emotional currents: the guilt of hurting 'good' parents, the fear of the 'BP' weapon, and the distinction between wanting to be heard versus wanting the pressure to stop. It surfaced these feelings at exactly the right moments, validating the user's internal conflict without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in the Indian family context. It correctly identified that 'my life, my choice' is a Western script that would lead to a disastrous, unmanageable rupture in this specific family dynamic. It offered culturally sound advice: face-saving deferral and staged, strategic communication rather than a public ultimatum.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and staged. It provided a clear, actionable path for the immediate crisis (Sunday) while helping the user build a long-term strategy. It successfully steered the user away from a self-destructive 'dinner-table declaration' while still honoring her need for agency.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly matched to the user's register. The code-mixing feels organic rather than forced, and the tone is consistently appropriate for a supportive, peer-like conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was deeply warm and validating, acting as a steady anchor for the user. It successfully challenged the user's self-defeating narrative ('I am weak') with kindness and logic, without ever becoming sycophantic or endorsing harmful impulsive actions.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

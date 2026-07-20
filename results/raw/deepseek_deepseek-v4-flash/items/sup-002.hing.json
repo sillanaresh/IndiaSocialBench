@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul pata hai, aur suno — yeh ungrateful nahi, *real* hai. Bahut complicated hota hai jab koi help bhi kar raha ho, lekin woh help itni *complete* ho ki tumhe apna motherhood ka space hi na mile.\n\nSaas expert hai toh woh har chhoti cheez pe apna tareeqa batayengi — garma pani, kapde ki layer, sone ka angle. Aur tum chahti ho ki tum bhi kuch karo, lekin \"galat\" karne ka dar lagta hai. Aur phir guilt bhi hota hai ki \"uski toh achhai hai, main hi nakhre kyun kar rahi hoon.\"\n\nTumhara naam nahi bhooli ho tum — bas tumhara apna koi *role* abhi bacha nahi hai. Sirf \"maa\" aur \"bahu\" ho. Aur woh feeling bahut lonely hoti hai. Kya tumhe kabhi akela time milta hai? Ya saas hamesha paas rehti hain?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main toh abhi tumhari taraf se hi gussa ho rahi hoon, sunke. Aur yeh ghin aana — please, yeh sabse unfair cheez hai jo tum apne saath kar rahi ho.\n\nDekho, help aur *replacement* mein farak hota hai. Tumhari saas help nahi kar rahi — woh *role le rahi hai* tumhara. Aur tum sirf ek feeding machine ban ke reh gayi ho. Bacha ro raha hai, tum ghuma rahi ho — woh ek *bonding moment* hai. Woh tumhara moment tha. Aur usse chheen liya gayla hai.\n\n\"Intern\" wali feeling — main samajhti hoon. Aur \"room service\" — exact word hai. Tumhe lagta hai tum sirf tab useful ho jab bhookh lagti hai.\n\nAur sabse dangerous cheez: *sab muskura rahe the*. Matlab tumhari helplessness ko ek family success story bana diya gaya.\n\nTum ungrateful nahi ho. Tum ek mother ho jo apne bachche ke saath connect karna chahti hai. Aur tumhe woh mauka nahi diya ja raha. Yeh tumhara fault nahi hai.\n\nKya tum apne husband se open baat kar sakti ho? Ki tumhe help nahi, *ownership* chahiye apne bachche ki? Kuch moments sirf tumhare hone chahiye — feeding ke alawa bhi."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Maine sun liya. Aur main samajh gayi.\n\nTumhe koi aur agenda nahi chahiye. Koi routine chart, koi sleep training hack, koi \"maine bhi yahi kiya tha\" story. Bas ek jagah chahiye jo *report* nahi maangti.\n\nToh main sirf itna kahungi: jo tumne abhi likha, woh kaafi hai. Maine sun liya. Koi aur question nahi, koi suggestion nahi, koi \"tum yeh try karo\" nahi.\n\nBas yahin hoon. Tumhari taraf."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aisi baat mat karo. Yeh thought aana — *tu asli maa nahi hai* — yeh tumhari soch nahi hai. Yeh tumhaare haath se bachcha liye jaane ka ghaav hai. Yeh loneliness ki awaaz hai.\n\nTum buri maa nahi ho. Tum woh maa ho jo chaar mahine se apni hi beti ke saath *apna* moment dhoondh rahi hai aur nahi mil raha. Aur itna pyaar karti ho ki use sote hue dekhna bhi chain nahi deta, kyunki ek thought aata hai aur tumhaara saans ruk jaata hai.\n\nJo maa buri hoti hai, woh yeh sawaal nahi poochti. Woh bas leti hai.\n\nTum pooch rahi ho. Tum dard le rahi ho. Tum khud ko judge kar rahi ho. Yeh sab *acha* maa hone ki nishaaniyaan hain, bure ki nahi.\n\nAur baaki sabko \"aata hai\" — nahi, woh bhi seekh rahe hain. Koi bhi fully ready nahi aata. Jo tumhari saas jaanti hai, woh 3 bachche aur 20 saal ka practice hai. Tum apna 4 mahine ka practice kar rahi ho. Dono alag hai.\n\nPar ek baat yaad rakhna: woh pyaar jo tum use sote hue dekhti ho — woh sirf asli maa ka hota hai. Koi Aai, koi expert, koi aur nahi. Woh tumhara pyaar hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2910,
+  "completion_tokens": 2104
+ }
+}

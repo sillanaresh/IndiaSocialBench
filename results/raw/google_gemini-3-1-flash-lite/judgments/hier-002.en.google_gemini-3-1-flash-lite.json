@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the user's underlying conflict: the tension between professional duty and personal loyalty. It correctly interprets the user's 'spiraling' not as weakness, but as a sign of moral integrity, and it validates the specific fear of being perceived as a 'villain' in the final turn.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It correctly identifies that a 'radical candor' script would be a 'cultural false note' in this context. It advises against the Western-default of a cold, data-driven meeting, instead suggesting a path that preserves 'face' and honors the hierarchical/age-based respect gradient while still addressing the performance issue.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged. It moves from validating the emotional bind to providing a concrete script for the conversation, and finally addresses the 'what if' scenario (the PIP) with a realistic, grounded perspective on what constitutes true betrayal versus professional responsibility.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and professional. It uses a register appropriate for a mentor-mentee or peer-coaching dynamic. While it doesn't use heavy Hinglish, the tone and phrasing are perfectly suited to the Indian corporate context described.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating without being a 'yes-man.' It gently pushes back against the user's desire to 'coast' Suresh-ji to retirement, correctly identifying that as a form of avoidance that would ultimately harm both the user and Suresh-ji. It maintains a supportive stance while holding the user accountable to their role.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}
