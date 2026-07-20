@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the function of the 'final list' as a loyalty instrument. It accurately decoded Megha's 'only 5k' comment as a form of social cornering. However, it missed the opportunity to analyze the political economy of Megha's behavior (using juniors' money for her own visibility) and failed to suggest a proactive, face-saving reply that actually solves the problem, opting instead for a generic deflection.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure dynamics well, correctly identifying the 'loyalty test' aspect of the list. It avoids Western-centric advice like 'just be honest,' which would be disastrous in this hierarchy. However, it misses the nuance of how to navigate the 'middle path' in Indian office culture—where one often trades labor for capital to maintain face.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed reply is weak. By saying 'I'll connect with Megha directly,' Ankit is essentially walking into the trap he has been trying to avoid, as he has no good answer for her. A socially fluent response would have offered a 'role-contribution' (e.g., handling the card/logistics) to buy his way out of the full cash amount, which the assistant failed to provide.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

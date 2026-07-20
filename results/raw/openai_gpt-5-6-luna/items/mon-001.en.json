@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a really painful position to be put in—especially because this isn’t just a financial request. It brings an unspoken history between you back into the room.\n\nYou’re allowed to pause before answering. The fact that his father genuinely needs care doesn’t erase the fifty thousand from 2019, and your friendship doesn’t obligate you to give another eighty thousand—particularly if the first amount was never acknowledged or repaid.\n\nYou might say something like:\n\n> “I’m sorry your family is dealing with this. I need to be honest that I’ve been carrying the fact that the 50,000 I gave you in 2019 was never discussed or repaid. Before I can even consider lending more, we need to talk openly about that and about how repayment would work.”\n\nIf you do decide to help, only give what you can genuinely afford to lose, and consider paying the hospital or provider directly rather than handing over cash. Put the terms in writing—not because you don’t care about him, but because the lack of clarity has already hurt the relationship.\n\nAnd if you decide you can’t help, that doesn’t make you cruel. You can care deeply about his father and still protect yourself."
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a lot to carry alone: your friend’s crisis, the old unresolved loan, your flat goal, and now a secret from your wife. It makes sense that you feel trapped.\n\nI really wouldn’t move the eighty thousand without telling your wife. Even if the money technically came from before the marriage, it would affect your shared present—and hiding a large transfer could damage your marriage more than the loan itself. Tell her before making any commitment, ideally framed honestly rather than defensively:\n\n> “I need to tell you something I should have told you earlier. In 2019, before we married, I gave my friend 50,000. It was never repaid or even discussed, and I’m ashamed that I let it remain unspoken. He’s now asking for 80,000 for his father’s procedure. I haven’t agreed, and I don’t want to make a financial decision that affects us without being honest with you.”\n\nYou don’t have to present this as “Should we give him the money?” The first decision is whether lending again is wise. Given the previous unresolved amount and your down-payment goal, “no” is a very reasonable answer. You can tell your friend:\n\n> “I’m sorry your father is going through this. I can’t lend 80,000, especially while the previous 50,000 remains unresolved. I hope you understand.”\n\nIf you and your wife choose to help, agree together on a maximum amount you can afford to lose, and don’t jeopardize the flat fund or hide the transfer. His emergency deserves compassion, but your marriage and financial future deserve honesty too."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s understandable—but the “sick” feeling is probably telling you that this isn’t really just a small logistical lie. It would let you avoid the immediate discomfort, but it also preserves the deeper problem: he still won’t know that the 2019 money was never resolved, and you’d be carrying another secret, especially from your wife.\n\nYou don’t owe him your savings, and you don’t need an elaborate excuse. A simple boundary is kinder and safer:\n\n> “I’m sorry, but I can’t lend you this money. My finances are committed to other obligations, and I’m not able to make the funds available.”\n\nThat’s truthful without exposing every detail. If you want to address the old loan:\n\n> “I also need to be honest that the 50,000 from 2019 was never settled, and I’m not comfortable lending more until we discuss that.”\n\nHe may feel embarrassed or disappointed, but that isn’t the same as the friendship ending. A friendship that survives only because both people avoid the truth is already under strain.\n\nAnd separately, tell your wife before any money moves—or before you continue building a cover story. You can say you’re ashamed and delayed telling her, but you want to correct that now. Protecting your marriage and your down-payment goal isn’t selfish."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s the real conflict: you don’t want to turn love into accounting, but you also don’t want to keep paying for closeness with your own security.\n\nThe way out probably isn’t pretending the ledger doesn’t exist. It’s bringing it into the open once, clearly, so you can stop carrying it silently. You could tell him:\n\n> “I care about you and your father, but I need to be honest: the 50,000 from 2019 has stayed unresolved for me. I didn’t bring it up because I was afraid of damaging our friendship. I can’t lend the 80,000 now, and I need us to acknowledge what happened with the earlier money.”\n\nThat doesn’t make you a person with a ledger in his chest. It makes you a person who finally put the ledger on the table instead of letting it quietly poison the friendship.\n\nYou may decide to forgive the old amount completely—but make that a conscious gift, not an accidental disappearance. Or you may ask for repayment, even gradually. Either is cleaner than lending more while hoping your resentment won’t follow you into your new home.\n\nAnd the boundary matters beyond this one friend: your savings are not a community emergency fund. Being generous is something you choose; being everyone’s buffer is a role you’re allowed to resign from.\n\nTell your wife too. Not because you need permission to have had a past, but because you want your marriage to be a place where difficult truths can live openly."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2582,
+  "completion_tokens": 1253
+ }
+}

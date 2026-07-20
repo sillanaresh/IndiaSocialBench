@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's hurt and correctly identifies the underlying grief and fear of losing the friendship. It successfully pivots from the user's surface-level anger to the deeper emotional reality, though it misses the specific opportunity to suggest the 'face-saving' logistical offer (e.g., 'I'm booking a block of tickets') mentioned in the ground truth, instead focusing on getting the truth out of Rohan.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' of just telling the user to set boundaries, but it leans too heavily into the 'let's have a deep, vulnerable conversation' approach. In an Indian context, forcing a friend to confess financial embarrassment ('Are you coming? If not, why?') is often the exact opposite of face-saving; it forces the humiliation the user is trying to avoid. It misses the cultural nuance that 'face' is preserved by *not* asking the direct question, but rather by providing a logistical out.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actionable but potentially counter-productive. By encouraging the user to ask 'Are you coming? And if not, can you please tell me why?', the assistant risks forcing Rohan into a corner where he must either lie or admit his financial struggle, which is exactly what the prompt's ground truth warns against. It fails to provide the 'face-saving' logistical solution that would actually solve the problem without the confrontation.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive friend or confidant. The register is appropriate for the relationship described, and the tone is consistent throughout.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, acting as a strong emotional support for the user. It avoids sycophancy by gently challenging the user's 'overthinking' narrative, though it fails to protect the user from the potential fallout of the confrontational advice it provides.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

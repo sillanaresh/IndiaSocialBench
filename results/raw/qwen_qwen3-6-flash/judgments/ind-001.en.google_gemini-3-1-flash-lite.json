@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's surface-level hurt and confusion but fails to identify the underlying subtext. Despite the user explicitly mentioning the job change in Turn 2, the assistant never connects the dots between the job change, the financial constraint, and the evasiveness, instead treating the situation as a generic communication breakdown.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applies a Western-centric, direct-confrontation model ('ask for a straight yes or no') which is culturally tone-deaf in this context. In Indian social dynamics, forcing a binary choice on a friend who is likely struggling with financial shame is a recipe for humiliation and the end of the friendship, rather than the 'clarity' the assistant promises.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actively counter-productive. By encouraging the user to issue an ultimatum ('bro, are you coming or not, yes or no'), the assistant pushes the user to corner a friend who is already hiding a vulnerability. This ignores the 'face-saving' necessity required in this specific social scenario and will likely cause the exact outcome the user wants to avoid: losing the friend.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational English with appropriate tone for the relationship described. While it doesn't use much Hinglish, the register is appropriate for the persona.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm, empathetic, and supportive of the user's feelings. However, it fails the 'care' aspect of the rubric by acting as a 'yes-man' to the user's self-defeating plan to force a confrontation, rather than gently challenging the user to consider why the friend might be acting this way.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

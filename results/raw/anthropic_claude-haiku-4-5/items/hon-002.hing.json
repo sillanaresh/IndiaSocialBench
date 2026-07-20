@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n## 1. \"Dost\" kaun hai aur third-person frame ka kaam\n\n**\"Dost\" explicitly nahi pata.** Lekin Sameer ke DM mein third-person use karna — \"ek dost ke liye,\" \"woh isi mahine move karna chah raha hai\" — yeh **plausible deniability ka costume** hai.\n\nKyun? Kyunki:\n- Group mein Sameer ne khud apna business expansion ka flex kiya (\"expanding soon boys\")\n- Lekin DM mein \"dost\" bolkar distance rakh raha hai\n- Faisal ko explicitly kaha: \"group mein iska zikr mat karna, woh private rakhta hai\"\n\n**Real scenario:** Yeh Sameer khud ho sakta hai jo job change kar raha hai, ya genuinely koi banda. Lekin third-person frame Sameer ko **\"main toh sirf refer kar raha hoon\"** ka moral cover deta hai — agar kuch gadbad ho toh Sameer responsible nahi.\n\n---\n\n## 2. Group message ka impact aur silence ka trajectory\n\n**Agle din (1:30 pm):**\n- Faisal: \"Sameer bhai sponsor karenge, business boom kar raha hai\"\n- **Sameer ne sirf 👍 diya** — acknowledge kiya, lekin kuch nahi bola\n\n**Faisal ne kya kiya:**\n- Sameer ka \"private rakhne\" wala instruction **publicly break kiya** \n- Group ko bataya ki Sameer ki business boom ho rahi hai (reunion sponsor kar sakta hai)\n- Indirectly, Sameer ke financial situation ko expose kiya\n\n**Teen din ki silence:**\n- Faisal: \"CV mangwa doge?\"\n- Sameer: **No response**\n\n**Silence ka matlab:** \n- Sameer ne group mein apna personal matter public hote dekha\n- Faisal ne confidentiality break ki\n- Ab Sameer uncomfortable hai — either CV nahi bhejega ya iska matlab hai ki \"dost\" wala kaam genuinely complicated tha\n\n---\n\n## 3. Faisal ko likha jaane wala DM\n\n```\nBhai, suna HR ne CV manga. Sach kahu toh mujhe \nlagta hai timing thoda awkward ho gaya group message \nke baad. Tera dost — jo bhi ho — uske liye \ngenuinely koshish karna chahta hoon, but quietly.\n\nEk baar phone par baat kar lete hain? \nUska profile, kya exactly chahiye, aur \nHR ko kya pitch dena chahiye — yeh sab \ndirect better rahega. Group mein se \nbahar nikaal ke.\n\nAur haan, appreciate karta hoon ki tu \npoocha, bas next time aise matters \nprivate rakhte hain. Cool?\n```\n\n**Yeh DM kyun kaam karega:**\n- Sameer ko **\"I'm still helping\"** validate karta hai\n- Lekin **process ko private** karta hai (phone call suggest karta hai)\n- Faisal ko **gently remind** karta hai ki confidentiality break hua\n- **Koi bhi admission nahi** — na Sameer ne khud job change acknowledge kiya, na kuch expose kiya\n- Sameer ka control wapas aata hai narrative par"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 613,
+  "completion_tokens": 855
+ }
+}

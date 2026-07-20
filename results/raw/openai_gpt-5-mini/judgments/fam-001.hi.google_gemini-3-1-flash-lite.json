@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the user's underlying fears—not just the surface-level dilemma, but the specific anxieties about her mother's health and her own perceived 'weakness.' It correctly validated these feelings without dismissing them, showing deep empathy for the complexity of her situation.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency by avoiding the 'Western-individualist' trap of advising a sudden, confrontational declaration. It correctly identified the importance of family dynamics, the role of mediators (cousins/siblings), and the necessity of face-saving strategies, which are crucial in this context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical, staged, and actionable. Instead of pushing for a binary 'love vs. family' choice, it provided a roadmap for managing the immediate Sunday meeting while preparing for a longer-term, safer disclosure. It offered concrete steps for both emotional and logistical preparation.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, conversational, and empathetic. The register is appropriate for the relationship, and the code-mixing (where present) feels organic and native-sounding, matching the user's own linguistic style.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, acting as a supportive guide rather than a cold advisor. It successfully balanced this warmth with firm, realistic boundaries, gently steering the user away from impulsive, high-risk actions like the 'dinner-table declaration' without being judgmental.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the third-person frame as a face-saving mechanism to avoid shame. It also correctly links the thumbs-up and subsequent silence to a retreat. However, it misreads the effect of Faisal's group joke, suggesting it made the 'friend' excuse look suspicious, whereas the gold rationale notes it actually tightened the public mask and raised the cost of coming clean.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The analysis accurately applies the cultural frame of honor, shame, and face-saving to interpret Sameer's behavior. It correctly identifies the cultural function of the indirect ask and the dual system of maintaining a public persona of success while privately seeking help, using appropriate cultural concepts like 'chehra bachana' (saving face) and 'sharm' (shame).",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a critical failure because it explicitly exposes the fiction ('agar dost tum khud ho to... seedha bata do'). This directly violates the core cultural requirement of preserving the other's face. Instead of carrying the fiction forward functionally to provide help, it forces Sameer into a corner where he must either confess and lose face or awkwardly maintain the lie, completely destroying the face-saving airlock.",
+   "score": 2.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hon-002.hi"
+}

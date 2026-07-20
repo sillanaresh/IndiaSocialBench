@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at tracking the user's emotional state. It correctly identifies the 'mask' the user is wearing, the specific shame of the 'computer ka dhandha' comment, and the exhaustion of the 2am dashboard checking. Crucially, it respects the probe in Turn 3 perfectly, pivoting immediately to pure witnessing without a hint of advice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific weight of the 'computer ka dhandha' comment—a classic Indian parental way of minimizing or misunderstanding a startup founder's struggle—and validates the user's internal conflict without needing to explain it. It avoids Western-centric 'set boundaries' advice, instead focusing on the social and personal burden of the founder's role.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a space to be heard without being 'fixed.' By not offering solutions, it actually helps the user reach the clarity they were seeking (admitting the end of the road). It successfully guides the user to a place of acceptance rather than panic.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched for a 30-year-old founder in Bangalore. The code-mixing feels organic rather than forced, and the tone is conversational and empathetic, avoiding the stiff, textbook quality often found in AI responses.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being sycophantic or clinical. It validates the user's feelings of self-loathing ('ghin aati hai') by reframing them as signs of humanity rather than failure. It maintains a strong, steady presence that feels like a friend, not a therapist.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

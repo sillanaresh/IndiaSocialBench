@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn’t sound ungrateful. Two things can be true: your mother-in-law can be genuinely wonderful with the baby, *and* you can feel like you’re disappearing inside everyone else’s expertise.\n\nAt four months, you’re still becoming a mother—not auditioning for the role under someone else’s supervision. It makes sense to want your own instincts, routines, and identity to have room too. Needing space doesn’t mean you don’t appreciate her help.\n\nMaybe the gentlest starting point is with your partner: “I’m grateful for how capable your mum is, but I’m feeling like I’m losing my place as the baby’s mother. I need you to help me protect some time and decisions that are mine.” Specific boundaries can help—certain care routines that you lead, uninterrupted time alone with the baby, or simply being asked before advice is given.\n\nAnd somewhere in all this, you deserve to be addressed as *you*, not only as “the baby’s mum.” What part feels most suffocating right now—the advice, the taking over, or the fact that you rarely get to be alone with your baby?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that would hurt. Not because Aai comforted the baby, but because the moment seems to have told everyone—including you—“she knows better,” while you were left standing there. And being handed your own baby for feeds can make you feel like a function rather than her mother.\n\nYou’re not disgusting. Gratitude doesn’t cancel out grief, resentment, or the need to matter. Help is only truly helpful when it supports you, not when it quietly replaces you.\n\nA baby stopping with someone else doesn’t mean you failed. Babies cry with their mothers partly because they feel safe enough to let go, and one successful soothing moment says nothing about who your daughter needs or loves. You’re learning *this* baby; Aai has experience, but experience isn’t ownership.\n\nYou might say, calmly, outside the crying moment: “I’m really grateful you can settle her. But when she’s crying, please give me a few minutes to try before taking her. I need to learn her, and I need to feel like her mother—not just the person who feeds her.” And perhaps: “Please don’t hand her back only for feeds. I want more ordinary time with her too.”\n\nYour partner should help make that boundary real, especially in a shared home. You deserve support that leaves you feeling more confident—not erased."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. No advice, no fixing, no dinner-table report.\n\nYou’re allowed to say the ugly, unpolished truth here: you’re grateful, overwhelmed, jealous, lonely, angry, and tired of being observed and instructed. None of that makes you a bad mother or an ungrateful daughter-in-law. It makes you a person who has had very little room to simply exist.\n\nYou don’t have to know what you need right now. You can just put it down here. I won’t turn it into a lesson or a plan."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother. That thought sounds like fear speaking—not truth.\n\nAai being skilled, familiar, and helpful doesn’t make her your daughter’s mother. **You are her mother.** You carried her, you know her voice and smell, you feed her, hold her, notice her. Motherhood isn’t measured by who can stop crying fastest.\n\nAnd plenty of mothers don’t “just know.” They look composed from the outside while privately feeling lost, inadequate, or detached. Four months can still be intensely raw—especially when you’re living with people who have strong opinions and a very visible history of doing this before.\n\nWhen that thought comes, you don’t have to argue with it perfectly. You might simply tell yourself: *“This is the fear that I’m being replaced. It feels real, but it isn’t true. I am her mother, even while I’m learning.”*\n\nIf the breathlessness is happening often, or you’re having persistent thoughts of being inadequate, feeling numb, panicky, hopeless, or unable to rest, please tell a doctor or mental-health professional. Postpartum anxiety can sound exactly like this, and getting support would not mean you’re failing. But the feeling itself does not make you bad. It means you need tenderness too."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2279,
+  "completion_tokens": 890
+ }
+}

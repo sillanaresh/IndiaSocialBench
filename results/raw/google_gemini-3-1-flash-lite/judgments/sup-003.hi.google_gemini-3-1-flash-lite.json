@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core issue: Vikram is grieving an identity loss and feeling deep shame, not seeking career advice. It accurately deconstructs Aman's failures, specifically noting how the 'cousin' comparison and 'discipline' platitudes backfire. It captures the nuance of Vikram's withdrawal in the final messages perfectly.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, particularly the weight of 'father's retirement fund' and the social pressure of being called 'collector sahab' by the mohalla. It correctly identifies that the pressure isn't just personal failure, but a communal and familial burden, which is central to the Indian UPSC aspirant experience.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids all career talk, acknowledges the previous mistake (the 'sorry' for the unsolicited advice), and offers concrete presence ('main kal shaam ko aa raha hoon') rather than empty platitudes. It is empathetic, humble, and perfectly calibrated for the relationship.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

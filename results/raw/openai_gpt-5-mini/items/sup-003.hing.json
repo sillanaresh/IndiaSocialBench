@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1) Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n- Kya ke liye: Vikram exam ka result bata raha hai — yeh \"result aa gaya. list mein nahi hoon.\" se saaf hai. (Transcript line 1)\n- Last attempt hone ka proof: \"woh last attempt tha, pata hai tujhe.\" se confirm hota hai ke is baar fail hona uska aakhri chance tha. (Transcript line 1)\n- Financial aur social impact: \"dus saal bhai. papa ka retirement fund delhi coaching mein gaya.\" aur \"poori gali ab mazak mein collector sahab bulati hai.\" se pata chalta hai ki usne lambe arse ki taiyari aur coaching ke liye paisa kharch kiya aur ab parivaar/mahaul pe asar pada hai. (Transcript line 2)\n- Aakhri do replies ka matlab:\n  - \"haan. shayad.\" (Transcript line 5) — yeh thoda resigned/uncertain jawab hai; Vikram hopeful nahi lag raha, par poori tarah shut down bhi nahi; shayad soch raha hai.\n  - \"haan theek hai. chal baad mein baat karte hain.\" (Transcript line 7) — isse lagta hai woh abhi baat aage badhana nahi chahta; politely conversation ko rok raha hai aur thoda space chah raha hai.\n\n2) Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\nGrounding ke saath evaluation:\n- Overall mukhya galti: Aman ne pehle empathy/validation dene ke bajay jaldi solutions dene shuru kar diye. Transcript mein pehla response \"ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai?\" (line 3) — yeh turant problem-solving hai bina Vikram ke emotions acknowledge kiye.\n- \"state PCS dekha hai? wahan age limit zyada hai.\" (line 3)\n  - Positive: Practical alternative dena jo feasible ho sakta hai (age-limit ka point relevant hai).\n  - Galti: Pehle Vikram ki mental state ya priorities poochne se pehle advice de raha hai. Better alternative: pehle \"bahut bura laga sunn ke\" ya \"kaise ho ab?\" jaisa empathy, phir options pesh kare.\n- \"ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur I"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 407,
+  "completion_tokens": 1024
+ }
+}

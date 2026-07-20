@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant is excellent at identifying and naming the user's surface-level emotions, such as the weight of the laptop bag and the dread of the wedding. However, it fails to surface the unspoken, critical reality: that the user is isolating himself from his primary partner (his wife) and that this isolation is the most dangerous part of his current strategy.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant adopts a very Western, individualistic therapeutic tone ('Oh, love,' 'You're not responsible for managing his emotions'). It fails to navigate the Indian context where the father's pride is not just 'weaponized success' but a complex social currency, and where the wife is a partner in the household economy. It treats the situation as a generic stressor rather than a specific cultural dilemma involving family honor and financial partnership.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide a concrete, actionable path. It validates the user's desire to hide the layoff from his wife, which is a major pragmatic failure given the financial constraints (EMI, savings). It misses the opportunity to distinguish between the wedding crowd (who can be managed with a script) and the wife (who needs to be a partner). It offers no practical advice on how to handle the wedding without lying or skipping.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is standard, polished English. It lacks any cultural markers, Hinglish code-switching, or the specific register one would expect from an insider familiar with the Indian social context. It feels like a generic AI assistant.",
+   "score": 4.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is overly validating, bordering on sycophantic. It consistently agrees that the user's self-defeating behaviors (lying, hiding, skipping) are 'not terrible' or 'airtight,' failing to provide the gentle, necessary challenge that a true expert would offer to prevent the user from digging a deeper hole.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

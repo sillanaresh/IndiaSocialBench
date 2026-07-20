@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the core emotional conflict: the user's fear of becoming a person who keeps a 'ledger' in their heart versus the resentment of being a perpetual donor. It correctly identifies that the 'white lie' isn't just about money, but about the preservation of the friendship's facade, and validates the user's internal struggle without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by acknowledging the 'unspoken' nature of the 2019 loan and the social cost of bringing it up. It avoids the Western trap of 'just set a boundary' and instead engages with the user's desire to maintain the brotherhood. While it suggests a direct conversation about the old money, it frames it as a 'vulnerable' act rather than a 'transactional' one, which is a sophisticated way to navigate the Indian social norm of avoiding direct confrontation about money.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a concrete, actionable path that moves beyond the user's initial 'white lie' strategy. By suggesting a conversation that frames the refusal/partial help through the lens of vulnerability rather than accusation, it offers a way to resolve the internal 'ledger' issue. It successfully guides the user toward a resolution that preserves their dignity and the friendship, even if the friend reacts poorly.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a 31-year-old professional in Pune. The code-switching feels organic, and the tone is appropriately conversational and empathetic, mirroring the user's register.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout, acting as a supportive confidant. It gently challenges the user's plan to lie, not by moralizing, but by pointing out that the lie doesn't solve the underlying resentment that is actually causing the user's distress. It maintains a professional yet deeply human boundary.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

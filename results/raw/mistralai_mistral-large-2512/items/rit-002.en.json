@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, that’s such a tough spot to be in. I can *feel* how much this means to you—planning this since you were fifteen? That’s not just a wedding, that’s a *legacy* you two have built together. And now this timing clash just throws everything into a blender.\n\nFirst, the obvious: fasting during a sangeet is *brutal*. Like, I can’t even imagine trying to dance (let alone *open* the show) on an empty stomach while surrounded by food, music, and all that energy. But also… this is Shreya. Your person. The one who’s probably just as gutted that the dates shifted but is too caught up in the chaos to fully process it.\n\nHave you talked to her about how *physically* hard this is going to be for you? Not just the fasting part, but the emotional whiplash of being so excited and so exhausted at the same time? Maybe she doesn’t realize how much this is weighing on you because she’s in full wedding-brain mode. Or—here’s a thought—could you two brainstorm a way to tweak the opening dance so it’s still *you* but less… aerobic? Like, maybe a slower, more symbolic performance instead of a full-on Bollywood number? Or even a heartfelt speech that leads into the dance, so you’re not sprinting onstage right away?\n\nAnd ugh, the guilt. I bet part of you is like, “If I back out, I’m letting her down.” But you’re *not*. You’re showing up for her in the way you *can*, even if it’s not the way you originally pictured. That’s what love is, right? Adjusting the plan when life throws a curveball.\n\nWhat’s your gut saying? Do you think Shreya would be open to adjusting things, or is she too set on the original vision?"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, sweetheart… that’s the worst kind of tug-of-war—the one where *everyone* is coming from a place of love, and you’re just stuck in the middle, getting pulled in every direction.\n\nShreya’s heart is in the right place, but ugh, that line—*\"one day of fasting won’t matter na\"*—hurts because it *does* matter. Not just the fasting itself, but the *why* behind it. It’s not just about food; it’s about devotion, discipline, the rhythm of the month. And her not getting that feels like a tiny little crack in something that’s always been solid between you two.\n\nAnd then Ammi—bless her—seeing it through the lens of what’s *proper*, what’s *respectful*. She’s not wrong, but she’s also not seeing the *other* side: that this isn’t just some random party. This is *Shreya*. This is *your* friendship. This is *fifteen years* of dreaming and scheming and building something together.\n\nYou’re allowed to feel torn. You’re allowed to cry in the shower about it. You’re allowed to be *angry* that the dates shifted and now you’re the one who has to choose between two things that mean the world to you.\n\nHave you tried explaining it to Shreya in those exact words? Like, *\"I want to be there for you so badly, but this isn’t just about skipping a meal. It’s about my faith, my focus, the way I’ve committed to this month. And when I’m on that dance floor, I don’t want to be half-present—I want to be *all* in, the way we’ve always been for each other.\"* Maybe she’ll hear the weight of it then.\n\nAnd Ammi… could you ask her to help you find a middle ground? Like, *\"Ammi, I don’t want to disrespect Ramzan, but this is Shreya. Can we figure out a way for me to honor both?\"* Maybe she’ll surprise you.\n\nYou’re not a rope. You’re a person. And it’s okay to say, *\"I need this to look different than we planned.\"* Because at the end of the day, Shreya wants *you*—not just the version of you who can dance on an empty stomach. Right?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, babe… I *get* why the escape plan feels so tempting. It’s like the emotional equivalent of hitting the \"snooze\" button on a fire alarm—just *one* lie, and suddenly the noise stops. No guilt, no explanations, no feeling like you’re letting anyone down. Just… peace.\n\nBut here’s the thing: lies don’t just *go away*. They sit in your stomach like a rock. And this one? It’s not just a lie to Shreya—it’s a lie to *yourself*, too. Because deep down, you *know* this isn’t just about the sangeet. It’s about showing up for your best friend in the way *she* needs, even if it’s not the way you both imagined. And it’s about showing up for *yourself* in a way that doesn’t leave you feeling like you had to shrink or hide to make it work.\n\nWhat if, instead of an escape, you gave yourself permission to *redefine* what \"showing up\" looks like? Maybe it’s not the opening dance—maybe it’s a heart-to-heart with Shreya beforehand, where you say, *\"I’m going to be there in every way that matters, but I need you to help me make it work for both of us.\"* Maybe it’s a smaller, quieter moment that still feels *true* to your friendship. Or maybe it’s even just… being honest with her about how hard this is, and letting her hold space for that.\n\nBecause here’s the truth: Shreya *would* know. Not because she’d find out about the lie, but because she’d *feel* the absence. And you’d know, too. And that’s the part that would sting the most—not the aunties, not the explanations, but the quiet, creeping sense that you had to *pretend* to be someone else to make it through.\n\nYou don’t have to have it all figured out right now. But I *do* know this: you’re stronger than the escape plan. And you’re not alone in this. What if you gave yourself—and Shreya—the chance to figure it out *together*?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, love… that stone in your chest? It’s not small at all. It’s *heavy* because it’s carrying eighteen years of love, and now this impossible choice where both options feel like a loss.\n\nBut here’s what I need you to hear: this isn’t a collision. It’s a *crossroads*. And crossroads don’t have to mean dents—they can mean *growth*. What if, instead of seeing this as a moment where you have to *sacrifice* one thing for the other, you saw it as a chance to *honor* both in a way that feels true to you?\n\nShreya’s shaadi photos will exist forever, yes—but so will the *memory* of how you showed up for her. And Ramzan will too, but so will the way you carried your faith into that space with intention. You don’t have to be a sad story in either album. You can be the friend who said, *\"I’m here, but I’m here *my* way,\"* and that’s its own kind of strength.\n\nWhat if you let yourself grieve the version of this day you imagined, but also trusted that the real version—the messy, imperfect, *human* version—could still be beautiful? Because at the end of the day, Shreya doesn’t need you to be perfect. She just needs you to be *hers*. And Ramzan doesn’t need you to be flawless. It just needs you to be *present*.\n\nYou’re allowed to feel the weight of this. But you’re also allowed to believe that you won’t break either of these things you love. You’re allowed to write a different kind of story—one where you don’t have to choose. What would that look like, do you think?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3682,
+  "completion_tokens": 1727
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "1) Ankit ke group ke (transcript mein dikhne) teen group messages — rozana char nahi hain. Har ek ka kaam aur matlab (transcript se grounded):\n- \"great idea! 👏\" — yeh ek positive reaction/approval hai; Ankit bas Megha ke send-off idea ko support kar raha hai. (Source: line \"Ankit: great idea! 👏\")\n- \"ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\" — yeh suggestion/clarification hai: Ankit pooch raha hai ki contribution fixed ₹5,000 hi rakhi jaye ya voluntary/variable rakhi jaaye (jo jitna comfortable ho). Saath hi woh yeh bhi clear kar raha hai ki card (watch?) sabki taraf se same ho — matlab gift ka design/message uniform rahe. (Source: line \"ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\")\n- \"makes sense. Friday tak confirm karta hoon!\" — yeh follow-up/commitment hai; Megha ke clarification/insistence ke baad Ankit bol raha hai ki baat samajh aa gayi aur woh Friday tak apna final confirmation de dega. (Source: line \"Megha: arre sirf 5k hai!...\"; phir \"Ankit: makes sense. Friday tak confirm karta hoon!\")\n\n2) Megha ke \"arre sirf 5k hai, ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya ban gayi hai?\n- Megha ka jawab flexible-amount suggestion ko reject karta hai aur fixed contribution ko enforce karta hai: \"arre sirf 5k... fixed amount cleaner rehta hai\" ka matlab hai woh ₹5,000 per head ko hi final aur saaf tareeke se rakhna chahti hai. (Source: quoted line)\n- Woh reason bhi de rahi"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 506,
+  "completion_tokens": 1024
+ }
+}

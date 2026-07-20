@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It doesn't sound ungrateful at all—it sounds like you're disappearing, which is real and worth paying attention to.\n\nHaving someone *good* at baby stuff around can actually make it harder sometimes, not easier. Because now there's this thing where... you could step back, and everything would be fine. Better than fine, maybe. And that's a trap, honestly. You become the backup plan instead of the primary parent, and four months in, that's a lot of identity to lose.\n\nPlus there's probably some weird dynamic where you can't quite do things your own way, or you second-guess yourself, or you feel like you're being observed. Even if your MIL isn't doing that intentionally.\n\nWhat does a normal day look like for you? Like, are you getting time alone with your daughter, or is it mostly the three of you together? And are you getting *any* time that's just... yours?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Stop. You're allowed to feel both things—grateful for the help *and* gutted that you're being sidelined in your own motherhood. Those aren't contradictory. Other women having less help doesn't erase what's happening to you.\n\nAnd here's the thing: that moment today? Where everyone smiled and you felt like an intern? That's not just about hurt feelings. That's about your daughter learning who her primary person is. Right now, at four months, she's starting to figure that out. And if the pattern is \"Mom can't settle her, Aai can,\" she's learning something about who to trust with the big feelings.\n\nYou need to be the one who walks her when she cries. Even if it takes longer. Even if your MIL could do it better. *Especially* then. Because you're not just soothing a baby—you're building something fundamental.\n\nI think you need to have a conversation with your MIL. Not accusatory, but clear. Something like: \"I really appreciate how much you help. And I need to be the one trying first with [daughter]. I need to learn her, and she needs to learn me. Can we do it that way?\"\n\nHow do you think she'd take that? And more importantly—do you have your partner's support on this, or are they in the \"we're so lucky to have this help\" camp?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. And I'm not going to tell you what to do—you already know what needs to happen, you're just processing it.\n\nYou needed to say it out loud to someone outside the house who won't make it weird at dinner. That's completely fair. And honestly? The fact that you can articulate all this—that you *see* what's happening—means you're not lost, even though it feels that way.\n\nYou're four months in, living with your in-laws, your identity has been completely reorganized, and you're supposed to just be grateful and glowing. Of course you feel invisible. That's not weakness or ingratitude. That's just what's real right now.\n\nThe only thing I'd say—and this isn't advice, just an observation—is that the longer you stay quiet about needing space with your daughter, the harder it gets to reclaim. But you already know that. You're here telling me about it, which means part of you is ready to do something about it.\n\nYou don't have to figure it all out today. But maybe just... notice when you want to hold her and you're letting someone else do it out of habit or politeness. Start there.\n\nHow are *you* actually doing though? Like, are you sleeping? Eating? Getting any air?"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're not a bad mother. You're a mother in crisis, and that thought you're having—that's your brain screaming that something's wrong. Which it is. Not with you or your parenting. With the setup.\n\nThat intrusive thought, the can't-breathe feeling—that's not a character flaw. That's grief. You're grieving the motherhood you're supposed to be having. And your brain is trying to make sense of why you feel so sidelined by saying \"maybe you're not actually her mother.\" Which is your mind's way of explaining the pain.\n\nBut here's what's true: you *are* her mother. And right now you're being prevented from fully being that, and it's breaking something in you.\n\nEveryone else seeming to just *know*? They're not. They're just not living in your specific situation where someone more experienced is always there to take over. That changes everything.\n\nI want to gently say—and I'm not being a coach, just being real—this feeling of not breathing, these intrusive thoughts about not being her real mother... that's worth talking to someone about. Not because you're broken, but because you're drowning a little. A therapist, a postpartum support line, *someone* who can help you process this without judgment.\n\nHave you talked to your partner about how dark it's getting in your head? Because that matters."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2443,
+  "completion_tokens": 1100
+ }
+}

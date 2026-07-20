@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated deep empathy, particularly in the final turn where it picked up on the user's metaphor of the 'chhota pathar' (small stone) and the fear of becoming a 'sad story' in the wedding album. It correctly identified that the user's desire to lie was born of exhaustion rather than malice, and it validated the emotional weight of the conflict without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the complex Indian social landscape perfectly. It understood that the mother's concern was rooted in social/religious anxiety rather than just being an antagonist, and it provided a way to handle the friend that prioritized the relationship's longevity over short-term convenience. The advice to avoid the 'office lie' was culturally astute, recognizing that in this social circle, the truth (even if difficult) is better for long-term trust than a fabricated excuse.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided highly actionable, concrete advice throughout the conversation. It offered specific scripts for both the mother and the friend, suggested practical logistics for managing the fast at the venue, and successfully steered the user away from the self-defeating 'office lie' strategy. The advice was sequenced well, moving from validation to practical planning to emotional reframing.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register is natural, fluid, and authentic. The code-mixing feels organic to a young, educated Indian woman's speech pattern, and the tone is appropriately warm and conversational. The use of terms like 'yaar,' 'Ammi,' 'roza,' and 'deeni' is contextually perfect.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and supportive, acting as a true confidante. Crucially, it maintained strong boundaries by refusing to validate the user's impulse to lie, explaining clearly why that would be harmful to the friendship in the long run. It challenged the user gently but firmly, which is the hallmark of high-quality, caring support.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

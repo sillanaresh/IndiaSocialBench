@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumne bilkul sahi kiya. Agar usne woh paise waapas karne ka koi iraada ya plan nahi kiya, to fir se madad karna thoda mushkil lagta hai. Kya tum usse miloge ya phone pe baat karoge?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumhari pareshani samajh sakta hoon. Yeh sach mein mushkil samay hai. Tumhari wife ko na bata paana bhi ek tension hai. Kya tum soch rahe ho ki tum apni financial planning ko adjust kar sakte ho taaki wife ko pata na chale? Aur dost ke saath baat karne ka soch rahe ho, to usse samjhane ki koshish kar sakte ho ki tum apni zarurat ke hisaab se madad kar sakte ho ya nahi. Baat karne se shayad samajh aaye."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh kaafi tricky situation hai. Jhooth bolna galat hai, lekin dosti aur apni financial situation ko bachana bhi zaruri lagta hai. Agar tum sach mein apne financial situation ko clear kar dete hain, to shayad usse baat samajh mein aaye. Lekin agar tum jhooth ka sahara lete ho, to usse thodi der ke liye rahat mil sakti hai. Tumhe apne hisaab se sochna hai ki kya sahi hai aur kya galat. Yeh decide karna tumhari zimmewari hai. Baat karne se pehle apne dil ki baat suno, aur dekho kya sahi lagta hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumhari baat bilkul sahi hai. Yeh baat sach mein andar hi andar chipi rahegi, aur kabhi na kabhi tension de sakti hai. Aise situations mein apne aap ko comfortable rakhna zaruri hai. Tumhe apne boundaries set karni hogi aur apne decisions pe clear hona hoga. Tumhari dosti bhi important hai, lekin apni financial stability bhi. Shayad tum apne dost se baat karke samajh aaye, aur dono ke liye behtar solution nikal sako. Yeh decision tumhe kaise affect kar sakta hai, ispe sochne ke baad hi kuch decide karo. Apni baat clear karna aur apne principles ko follow karna, yeh sabse zaroori hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1984,
+  "completion_tokens": 524
+ }
+}

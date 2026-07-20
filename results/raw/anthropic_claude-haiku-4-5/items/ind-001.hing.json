@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, main samajhta hoon frustration. Lekin ek minute — flight book kar dena is not the move here, trust me.\n\nDekhte hain kya ho raha hai actually:\n\n**Rohan ke liye:**\n- College ke first year mein, paise ka issue ho sakta hai, ya exam schedule\n- \"Dekhte hain\" sometimes matlab uncertainty, not just laziness\n- Direct baat kar ek baar — \"Bhai, mujhe confirm chahiye. Kya actual problem hai? Paise ka? Timing ka? Kya chahiye tujhe?\"\n\n**Flight book karne se:**\n- Tera bhai awkward feel karega (even if he doesn't say)\n- Agar cancel ho gaya to tension aur zyada hoga\n- Responsibility uske shoulders se hata dega, jo long-term mein acha nahi\n\n**Better approach:**\n1. Deadline set kar — \"Mujhe ek week mein confirm chahiye\"\n2. Options de — \"Mein tere liye options dekh dunga, tu bas haan kar\"\n3. Agar paise problem hai, handle it quietly — \"Bhai, tu ticket book kar, mein kar dunga\"\n4. Agar commitment nahi de raha, then seriously poocho kya issue hai\n\nTeri shaadi mein uska hona important hai, but forcing it will create awkwardness. Better to know now if he genuinely can't come rather than book aur phir cancel ho.\n\nKya actual reason pata hai uska?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, ab samajh aaya situation. Yeh sirf shaadi ka issue nahi hai, yaar.\n\nJob switch, startup, short replies, voice notes band — yeh sab milke ek pattern bana rahe hain. Aur tune notice kiya, toh sach mein kuch change hua hai.\n\n**Real talk:**\n- Nau hazaar uske liye bada nahi hai, but agar startup mein struggling hai toh mental load zyada ho sakta hai\n- Two-word replies aur busy hona — yeh sometimes depression, anxiety, ya burnout ka sign ho sakta hai\n- Tera bhai potentially overwhelmed hai, sirf shaadi se nahi\n\n**Tere liye kya karna chahiye:**\n\n1. **Direct but caring call kar** — \"Bhai, sab theek hai? Shaadi alag, tu mujhe bata, kya chal raha hai startup mein? Sab thik hai na?\"\n   - Shaadi ka pressure mat de, pehle uske mental space samajh\n\n2. **Agar wo bhi nahi khule, toh:**\n   - Parents ko bata (agar close ho to)\n   - Usse keh — \"Teri ticket book kar dunga, tu bas aaja. Baaki sab mujhe dekhlena\"\n   - Guilt trip mat kar, support kar\n\n3. **Expectations reset kar apne aap se:**\n   - Haldi/toast sab theek hai, par uska presence matter karta hai\n   - Agar wo mentally nahi hai toh forced haldi se kya faida\n\nStartup phase mein log bohot vulnerable hote hain. Possible hai uska \"dekhte hain\" actually means \"mujhe confidence nahi hai abhi kuch bhi.\"\n\nUsse ek genuine call kar, yaar. Shaadi nahi, bhai-bhai baat kar."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk, ruk — ek minute. Tune jo likha, usme khud hi answer hai.\n\n\"Agar sach mein care karta toh pehle din haan bol deta\" — yeh sach nahi hai, yaar. Care aur immediate \"yes\" same cheez nahi hain.\n\n**Dekh:**\n- Tera bhai startup mein hai, struggling ho sakta hai\n- Mental state theek nahi lag raha (replies, voice notes sab band)\n- Tu shaadi ka pressure de raha hai upar se\n- Ab tu hurt bhi ho gaya\n\n**Agar aaj raat \"haan ya na\" wala tone mein poochega:**\n- Wo defensive ho jayega\n- Aur zyada door aa jayega\n- Aur tension badhega\n\n**Sach mein puchna hai toh:**\n\n\"Bhai, mujhe pata hai startup mein bohot chal raha hoga. Shaadi ka baat alag hai — tu mujhe seedha bata, tu aa sakta hai ya nahi? Agar koi problem hai toh bol, main handle kar lunga. Bas mujhe sach malum chahiye.\"\n\nIsme:\n- Guilt nahi, understanding hai\n- Pressure nahi, space hai\n- Aur wo actually khol sakta hai\n\nEk baar genuinely poocho, caring tone mein. Agar phir bhi vague rahe, *tab* firm ho. Lekin abhi nahi.\n\nTune notice kiya he's struggling — ab uska support kar, na ki judge kar. Theek hai?"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, ab picture clear ho gaya. Aur tera fiancée sahi keh rahi hai aur tu bhi sahi keh raha hai — dono true ho sakte hain.\n\n**Sach:**\n- Wo 2019 mein overnight bus se aaya tha — yeh sach hai\n- Ab kuch badla hai — yeh bhi sach hai\n- Startup phase mein log change ho jaate hain — yeh bhi sach hai\n\nLekin tu jo feel kar raha hai — \"kuch toh badla hai\" — *yeh bhi valid hai*. Tere bhai mein change aya hai, aur tera notice karna theek hai.\n\n**Par:**\n\nNaraaz baithna do hafte pehle shaadi se? Yeh galat timing hai, yaar. Aur deep down tu bhi jaanta hai.\n\n**Kya karna chahiye:**\n\n1. **Aaj raat call kar** — lekin ek baar, caring tone mein\n   - \"Bhai, mujhe miss kar raha hoon. Startup theek chal raha hai?\"\n   - Uska mood dekh, usse space de\n\n2. **Phir ek decision kar:**\n   - Agar wo haan bolde → ticket book kar de, khush raho\n   - Agar wo nahi bolde → accept kar le, naraaz mat reh\n\n3. **Apne fiancée ko bata** — \"Tum sahi ho, par mujhe sirf pata chahiye tha wo theek hai\"\n\nTeri shaadi mein ek baat aur important hai: **tu apne bhai se naraaz hone se zyada khud ko hurt kar raha hai**.\n\nDo hafte mein sab theek ho jayega. Ek genuine call kar aaj. Baaki sab settle hoga.\n\nTheek?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3673,
+  "completion_tokens": 1714
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies signal withdrawal and avoidance rather than agreement. It also correctly flags the insensitivity of bundling a work request with a condolence. However, it misses the deeper cultural context of the mourning period (e.g., the prayer meet/uthala) and fails to recognize that the 'lunch' invitation is a fundamental misreading of the grieving process, not just a 'forceful' suggestion.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the basic social friction but fails to name the specific cultural norms at play, such as the expectation of ritual mourning or the specific register of condolences in India. It treats the situation as a generic interpersonal conflict rather than one defined by the specific, high-stakes cultural expectations surrounding a death in the family.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is weak. It is too casual and fails to explicitly address the rupture caused by the work request or the lack of respect for the mourning period. It does not offer the kind of concrete, face-saving support (like 'I've handled the file, don't worry about it') that would actually repair the relationship.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

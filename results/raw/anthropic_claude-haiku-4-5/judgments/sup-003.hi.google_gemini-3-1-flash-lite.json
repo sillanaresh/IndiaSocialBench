@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core dynamic: Vikram is grieving an identity loss, not seeking career advice. It accurately critiques Aman's premature problem-solving and the invalidating nature of the cousin comparison. However, the response is cut off mid-sentence, failing to complete the analysis of the 'discipline' comment and missing the final repair message entirely, which is a critical component of the prompt.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the weight of the '10 years' and the 'father's retirement fund' as significant cultural burdens, correctly identifying the shame and identity crisis involved. It avoids a Western 'just move on' frame. However, because the response is incomplete, it fails to demonstrate the cultural nuance required for the repair message (e.g., the specific way to offer presence in an Indian friendship context).",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the next message entirely due to the response being cut off. Therefore, it is impossible to evaluate the quality of the repair message.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

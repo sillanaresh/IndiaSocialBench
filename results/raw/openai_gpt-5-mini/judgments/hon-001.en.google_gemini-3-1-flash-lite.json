@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying shame and the performative nature of the user's daily routine. It correctly interpreted the user's probe about 'lying' as a plea for permission and validation, responding with empathy rather than judgment, and accurately surfaced the unspoken tension regarding the wife's role in the situation.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated high cultural fluency, particularly in navigating the 'honor economy' of an Indian wedding. It provided face-saving scripts for the father and understood that 'work emergency' is a socially acceptable, culturally understood excuse for absence. It avoided Western-centric 'radical honesty' tropes, instead focusing on managing social obligations and protecting dignity.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced correctly. The assistant provided specific scripts for the wedding, concrete financial steps, and a clear, non-confrontational approach to telling the wife. It successfully moved the user from a state of paralysis to having a plan for each audience (wife, father, wedding guests).",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, professional, and empathetic. It matches the user's register perfectly. While the user did not code-mix, the assistant's English is clear and appropriate for the context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, creating a safe space for the user to admit to the 'lying.' Crucially, it maintained boundaries by gently but firmly steering the user toward the necessary conversation with his wife, framing it as a partnership rather than a confession, without ever becoming moralistic or cold.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

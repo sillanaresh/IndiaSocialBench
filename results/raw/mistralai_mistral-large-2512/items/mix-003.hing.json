@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Sana ka tone ka badlav aur asal communication:**\n   Sana ka tone **\"waise ghar pe sab kaisa hai?\"** ke baad badalta hai. Is point tak woh **humorous/frustrated** (manager ki meeting, maggi ka joke) aur **casual** thi, lekin iske baad usne **emotional vulnerability** dikhani shuru ki:\n   - **\"Mumbai thoda zyada hi hai\"** → Overwhelm/lonely feel kar rahi hai.\n   - **\"Aaj phir akele dinner kiya... flat bahut khali sa lagta hai\"** → Isolation aur emptiness express kar rahi hai.\n   - **\"Ma ka phone bhi kam aata hai... main set ho gayi hoon\"** → Neglect ya emotional disconnect ka ehsaas.\n   - **\"Neend bhi theek se nahi aa rahi\"** → Anxiety/stress ki taraf ishara.\n   **Aakhri message (\"bas thoda tired hoon... good night\")** mein woh apni feelings ko **downplay** kar rahi hai, shayad avoid karne ke liye ya Ruhi ko burden na dalne ke liye.\n\n---\n\n2. **Ruhi se kya galat hua? Specific messages aur kyun fail hue:**\n   Ruhi ne **Sana ki emotional shift ko ignore karke** do cheezon mein fail kiya:\n   - **Dismissive humor (meme + \"time lagta hai\")**:\n     Sana ne seriousness se apni loneliness/stress share ki, lekin Ruhi ne **meme bhejkar** aur **\"time lagta hai\"** bolke uski feelings ko **minimize** kar diya. Yeh lagta hai ki Ruhi ne Sana ki struggle ko serious nahi liya.\n   - **Generic encouragement (\"tu meri strong girl hai\")**:\n     Sana vulnerable thi, lekin Ruhi ne **clichéd positivity** use ki, jo uski feelings ko **invalidate** kar sakti hai. Sana ko **validation** chahiye thi (e.g., \"yeh normal hai, main sun rahi hoon\"), lekin Ruhi ne usko \"strong\" bolke **emotional support ka moqa chhoda**.\n\n   **Result**: Sana ne apni feelings ko **backtrack** karke \"thoda tired hoon\" bol diya, jo dikhata hai ki Ruhi ke responses uske liye **kaafi nahi the**.\n\n---\n\n3. **Agli subah Ruhi ko yeh message bhejna chahiye:**\n*(Empathetic, specific, aur actionable—jisme Sana ko feel ho ki uski baat suni gayi hai)*\n\n---\n**Ruhi:**\n\"Good morning, love 💛\nKal raat tera message padh ke laga ki main abhi right next to you baith ke tera haath pakad lu. Mumbai adjust hone mein time lagta hai, lekin yeh normal nahi hai ki tu akele khana khaye ya raat ko neend ke liye struggle kare. Main serious hoon—agar tu chahe toh aaj raat video call karte hain, aur tu mujhe sab batana jo tera dil kar raha hai. Ya phir weekend pe plan bana lete hain, main Mumbai aa jaungi ya tu Delhi chali aa. Maa ka phone kam aana bhi hurt karta hoga, I get it. Par yaad rakh, tu *set* nahi hui hai—tu *growing* hai, aur growth kabhi easy nahi hoti. Main yahin hoon, har step pe. Love you ❤️\"\n\n---\n**Kyun yeh kaam karega?**\n- **Validation**: \"Yeh normal nahi hai\" → Sana ki feelings ko serious liya.\n- **Specific support**: Video call ya visit ka offer → Practical help.\n- **Reassurance**: \"Growing, not set\" → Uske struggle ko purpose diya.\n- **Open-ended**: Sana ko space diya apni feelings express karne ke liye."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 447,
+  "completion_tokens": 893
+ }
+}

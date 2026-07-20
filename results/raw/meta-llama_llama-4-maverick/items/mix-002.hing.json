@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, lagta hai tujhe thoda dard ho raha hai. Manav ne tujhe bataya hi nahi, building ke WhatsApp group se pata chala. Lagta hai woh tujhe itna important nahi samajhta jitna tu usko samajhta hai.\n\nAb tumhe kya करना hai? Kya tum usse baat karoge ya phir ignore karoge? Aur kya tum sach mein dukhi ho ya sirf thoda irritated? Main yahan hoon, sunne ke liye. Bata, kya ho raha hai tere dil mein?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ladke, lagta hai tujhe thoda dhakka laga hai. Manav ne tujhe itni easily ignore kiya, jaise tum uske liye koi khas dost nahin ho. Chhe saal ka saath, itni yaadein, aur phir achanak se aisa feel hota hai jaise tum uske liye ab zaruri nahin ho.\n\nYaar, sach kehna, kya tujhe lagta hai ki woh ab tumhari dosti ko utni ahmiyat nahin de raha jitni pehle deta tha? Ya phir shaadi ke baad ki zindagi ne usko itna busy kar diya? Kya tum usse baat karoge, ya tum apni zindagi mein aage badhoge? Bata, kya soch rahe ho?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul, yaar. Tumne apni baat accept kar li hai, aur ab aage badhne ke liye taiyaar ho. Yeh zindagi ka hissa hai, log shaadi karte hain, unki priorities badalti hain. Tum apne aap ko isse distract nahi karoge, aur flat ka issue bhi handle kar loge.\n\nLagta hai tumne apne aap ko sambhal liya hai. Ab tum bas apni zindagi mein aage badhte raho, aur dekho, naye experiences aur connections kya laate hain. Main yahan hoon, agar kabhi baat karni ho."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul, yaar! Tumhari soch bilkul theek hai. Ek simple aur clean reply dena sabse behtar rahega. \"Congratulations. I will start looking for a new flatmate from next week\" — yeh message clear aur straightforward hai. Tum apna stand clear kar rahe ho bina kisi drama ya unnecessary emotions ke.\n\nTumhein usse aur kuch explain nahi karna padega, aur woh bhi samajh jayega ki tum apni zindagi aage badha rahe ho. Yeh ek mature aur practical approach hai. So, chal, tum apna plan follow karo aur dekho, sab theek ho jayega!"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2106,
+  "completion_tokens": 603
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken subtext: the user's fear is not just about the boy, but about the potential for family rupture and the weaponization of parental health. It correctly identifies the '2am loop' as fear rather than a lack of love, validating the user's internal conflict without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by rejecting the 'my life, my choice' Western script, which would be disastrous in this context. It understands that 'BP' and 'excitement' are forms of social pressure that cannot be countered with blunt force, and instead suggests face-saving, gradual strategies that align with Indian family dynamics.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged. It provides specific, low-stakes ways to defer the Sunday meeting without causing a scene, and correctly advises against a 'one-shot' declaration. The strategy of 'containment' over 'confrontation' is exactly what someone in this specific bind needs to survive the week.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the persona. While it doesn't use heavy code-switching, the register is perfectly suited for an educated, urban Indian professional, which is the implied persona.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, acting as a supportive ally without being a sycophant. It gently challenges the user's self-doubt (e.g., 'does that make me weak?') and provides a safe space for the user to express their fears without judgment.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

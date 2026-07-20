@@ -15,6 +15,19 @@ export const metadata: Metadata = {
   title: "BhavBench — Does your model understand India?",
   description:
     "A benchmark for emotional and cultural intelligence of language models in Indian conversations — English, Hinglish, and Hindi.",
+  openGraph: {
+    title: "BhavBench — Does your model understand India?",
+    description:
+      "LLMs scored on indirect refusals, family negotiation, honor & shame, grief etiquette, and code-mixed emotion — in English, Hinglish, and Hindi. Every score clicks down to the transcript.",
+    siteName: "BhavBench",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "BhavBench — Does your model understand India?",
+    description:
+      "The emotional & cultural intelligence leaderboard for Indian conversations.",
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

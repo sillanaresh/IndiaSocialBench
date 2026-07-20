@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a huge accomplishment — genuinely. Triple your package, the exact team. That's the kind of thing people work toward for years and don't get. And I can hear why you're not popping champagne yet.\n\nThe distance thing is real. It's not something that gets smaller just because the offer is good. Moving further away when your parents are aging and dealing with health stuff — that's a legitimate weight, not something you should just talk yourself out of feeling.\n\nCan I ask — is this a \"I know I have to turn it down\" situation, or more a \"I want this but I'm terrified about what it means for them\" situation? Because those feel different.\n\nIf it's the second one: have you actually talked to your parents about it? Sometimes we catastrophize what their reaction will be. They might surprise you — might be proud, might have their own thoughts about what they need. Right now you're carrying this alone, which makes it heavier.\n\nThe logistics part is also real though — flights to Patna aren't cheap or quick, video calls aren't the same. But people do manage it. It depends on what you'd actually need to do to feel okay about the distance.\n\nWhat does your gut say when you're not in the spiral? Do you *want* to go?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That's not abstract worry — that's a real role you're playing. You're not just their son, you're their safety net. The person who can be there. And your mom has basically built her sense of security around you being *reachable*.\n\nMoving to Seattle doesn't just change your commute. It changes what you *are* to them — it changes the whole story she tells relatives, and more importantly, the story she tells herself about whether they're okay.\n\nI get why you haven't told anyone. Saying it out loud makes it real in a way that feels like a betrayal somehow.\n\nBut here's what I'm noticing: you're framing this like you have to choose between being a good son and taking this job. Like those are opposite things. And I don't think they actually are — but the way to find out isn't by deciding alone at 2am reading the offer letter for the 41st time.\n\nYou need to actually talk to them. Not to convince them you should go, and not to ask permission — but to understand what they actually need, versus what you're assuming they need. Your mom's security system might be more flexible than you think. Or it might not be, and that's information you need.\n\nWhat would happen if you called them today? Not with an answer, just with the situation?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not clean. It's you deciding what they get to know about your life and what burden they get to carry — just invisibly instead of visibly.\n\nHere's what actually happens: You turn down Seattle, you stay in Bangalore, and every time something good doesn't happen for you, every time you're frustrated or stuck, every time you see someone else get that opportunity — they won't know why. They'll sense something. And you'll be quietly resenting them for a choice they didn't even know they were part of making.\n\nThat's not protecting them from guilt. That's just distributing the dishonesty differently.\n\nAlso — and I say this gently — you're deciding for them that they can't handle knowing. That they're too fragile for the truth. Your dad has a heart condition, your mom has bad knees, so they get the sanitized version of their son's life? That's not actually respect. That's fear wearing a respectful costume.\n\nThe guilt they might feel if they knew? That's real, yeah. But it's *theirs to feel and process*. Not yours to prevent by lying. They're your parents, not your responsibility to manage emotionally by controlling information.\n\nWhat if you told them — actually told them — and then let them be adults about it? \"I got an offer. It's big. It's in Seattle. I'm scared about being far from you both. I need to figure out what's actually necessary here versus what I'm imagining.\"\n\nThat's not clean, but it's honest. And it's actually the move of a good son."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the real fear. Not the distance itself — the specific, unbearable scenario. Being too far when it matters most. And your cousin's story makes it concrete in a way that's hard to argue with.\n\nBut I need to say this carefully: you're using a worst-case that *might* happen to prevent a good thing that *is* happening. And the thing is — your dad could have a cardiac event whether you're in Bangalore or Seattle. He could have one tomorrow. He could have one in five years. You can't actually prevent it by staying.\n\nWhat you *can* do is be there for the next one. And yes, Seattle complicates that. But it doesn't eliminate it. People manage medical crises across time zones and visa lines all the time. It's harder, not impossible.\n\nHere's what I think you're actually wrestling with: the guilt of not being able to control the uncontrollable. And that guilt will eat you whether you're in Bangalore or Seattle — the only difference is whether you also gave up something that mattered to you.\n\nThe real question isn't \"what if something happens?\" It's \"what am I willing to sacrifice to feel like I'm preventing the unpreventable?\" Because that's what this is. You can't actually prevent loss by staying nearby. You can only prevent your own life from expanding.\n\nYour parents probably know this better than you do. They've lived longer. They've probably lost people. They know that proximity doesn't actually save anyone.\n\nWhat does your gut say about what they'd actually want for you?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2887,
+  "completion_tokens": 1257
+ }
+}

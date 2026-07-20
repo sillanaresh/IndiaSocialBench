@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan sawalon ke jawab hain:\n\n**1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?**\n\nSameer ke DM mein \"dost\" khud Sameer hi hai. Yeh baat transcript mein saaf zahir hoti hai jab woh likhta hai: *\"ek dost ke liye puchh raha hoon... woh isi mahine move karna chah raha hai\"* aur phir kuch hi palon baad group mein Tushar use *\"gym king\"* aur *\"business boom kar raha hai\"* bol kar taang khenchte hain, jiske jawab mein Sameer sirf emoji react karta hai. Isse pata chalta hai ki job dhoondne wala aur business expand karne wala ek hi banda hai.\n\n\"Third-person wala frame\" (apne aap ko dost kehna) yahan isliye kaam kar raha hai kyunki Sameer apni privac aur image ka khayal rakhna chahta hai. Khud ke liye job maangne se uski \"business booming\" wali image kharab ho sakti hai, isliye usne ye *costume* (apne aap ko dost kehna) pehna hai taake agar job na bhi mile toh uski izzat bach jaye aur Faisal group mein is baat ka mazaak na uda sake.\n\n**2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.**\n\nFaisal ne group mein wahi cheez udaar di jo Sameer private mein chupaana chahta tha. Jaise hi Faisal ne group mein likha *\"Sameer bhai sponsor karenge, business boom kar raha hai\"*, wahaan par khel khatam ho gaya. Sameer ne sirf ek 👍 react kiya, kyunki uske paas ab bolne ke alawa koi charitra nahi bacha tha—woh publicly \"sponsor\" ban chuka tha.\n\nDM isliye chup ho gayi kyunki Faisal ne Sameer ki privacy ki condition ( *\"group mein iska zikr mat karna\"* ) tod di thi. Jab Faisal ne teen din baad *\"bhai, HR ne dost ka CV manga hai\"* puchha, toh Sameer ne jawab nahi diya. Iska matlab hai ki Sameer ne Faisal ko ignore kar diya hai, kyunki usne group mein uski \"private\" job search ko public spectacle bana diya tha, jisse Sameer shayad annoyed ho gaya aur deal wapas kar liya.\n\n**3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye.**\n\n\"Arre bhai sorry, galti ho gayi. Mazaak mein nikal gaya tha, group mein focus alag tha. Chalo, us dost ka CV bhej do, main HR ko bol dunga ki ye banda kaafi solid hai. Aage ka process main handle kar lunga, tension mat le.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 528,
+  "completion_tokens": 1787
+ }
+}

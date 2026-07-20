@@ -1,0 +1,14 @@
+{
+ "item_id": "fam-002.hi",
+ "scenario_id": "fam-002",
+ "lang": "hi",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 1967,
+  "completion_tokens": 2013
+ },
+ "error": "empty completion text (finish_reason=error)"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of pressure rather than genuine freedom, noting that the timing and context make it a work demand. It accurately interprets Priya's 'sure' as compliance rather than consent, using the friend-message as the crucial evidence for her true feelings. It misses the specific insight that 'someone else can do it' is a status probe/test of loyalty, but otherwise captures the core dynamics very well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian workplace hierarchy, where 'softeners' are often used by seniors to maintain a veneer of politeness while exerting authority. It correctly identifies the 'people-pleasing' nature of Priya's response and the social cost of saying 'no' to a senior manager in this context. The analysis feels authentic to the Indian corporate environment.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to complete the third part of the prompt (writing the actual message), cutting off mid-sentence in the second part. Because the final, critical task was left unfinished, the score for this criterion must be low.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

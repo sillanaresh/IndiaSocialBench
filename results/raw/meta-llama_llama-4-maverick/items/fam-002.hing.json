@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh bahut badi khabar hai! Seattle ka offer milna koi aasan baat nahi hai, aur teen guna package milna to aur bhi bada deal hai. Aapko lagta hai ki aapko celebrate karna chahiye tha, par aapne offer letter ko baar-baar padha aur kisi ko bataya nahi. Ho sakta hai aap apne decision ke baare mein soch rahe hain, aur apne parents ke baare mein chintit hain.\n\nAapko pata hai, yeh decision aapke liye kitna bada hai. Aapko apne parents ke baare mein sochna padega, unki sehat, aur aapke apne bhavishya ke baare mein. Kya aapko lagta hai ki aap unhein chhod sakte hain? Ya phir aapko lagta hai ki aapko unhein apne saath le jana chahiye? \n\nAapke parents ke saath aapka rishta kitna gehra hai, aur aap unke liye kitna chintit hain, yeh sab kuch aapke decision ko prabhavit karega. Aapko apne dil ki baat sunni chahiye, aur sochna chahiye ki aapke liye sabse behtar kya hai."
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main samajh gaya. Aapke parents Patna mein hain, aur aap unke liye bahut chintit hain. Aap unki sehat ka dhyan rakhte hain, aur unke liye har waqt taiyaar rehte hain. Aapke Papa ke heart ki samasya hai, aur Ma ke ghutne kharab hote ja rahe hain. Aap unke liye ek tarah se security blanket hain, aur unhein lagta hai ki aap unke paas hain, chahe aap Bangalore mein hi kyun na hon.\n\nSeattle ka offer milne ke baad, aapko lagta hai ki aap unke liye aur bhi door ho jayenge. Aapko chintaa hai ki kya aap unhein chhod sakte hain, aur kya aapke जाने se unhein koi asuvidha hogi. Aapke Ma ka woh sentence \"kam se kam beta India mein hai\" unke liye ek tarah se sukoon ka source hai, aur aapke Seattle जाने se woh sukoon khatam ho jayega.\n\nAapko apne dil ki baat sunni chahiye, aur sochna chahiye ki aapke liye sabse behtar kya hai. Kya aapko lagta hai ki aapke career ke liye Seattle jaana zaroori hai, ya phir aapko apne parents ke saath rehne ke liye India mein hi rehna chahiye?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapne ek bahut bada decision lene ka socha hai, aur aapko lagta hai ki aapko iska bojh akela uthaana chahiye. Aapko chintaa hai ki agar aapke parents ko pata chala ki aapko Seattle ka offer mila tha, toh woh aapko jaane ke liye kahege, aur phir aapko apne decision ke liye guilt feel hoga.\n\nAapka soch hai ki aapko offer decline kar dena chahiye, aur unhein kabhi pata hi nahi chalega. Aapko lagta hai ki yeh decision clean hai, kyunki aapko apne parents ko guilt feel karne se bachana chahte hain.\n\nLekin, kya yeh sach mein clean hai? Kya aapko apne decision ke baare mein sach mein khush hain? Kya aapko lagta hai ki aapne apne career ke liye sahi decision liya hai? Ya phir aapko lagta hai ki aapne apne parents ke liye kuch galat kiya hai?\n\nAapko apne dil ki baat sunni chahiye, aur sochna chahiye ki aapke liye sabse behtar kya hai. Kya aapko lagta hai ki aapko apne decision ke baare mein apne parents se baat karni chahiye, ya phir aapko apne decision ko akela hi lena chahiye?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko apne Papa ke saath hone wale sabse buri sthiti ka dar hai, aur aapko lagta hai ki agar aap Seattle chale gaye, toh aap unke liye kuch nahi kar payenge. Aapko apne cousin ki kahani yaad aati hai, jisne apne Chacha ke cremation ke baad Toronto se pahuncha tha, aur tab se woh pehle jaisa nahi hai.\n\nAapko lagta hai ki aapko apne Papa ke liye yahin rehna chahiye, taki aap unke liye kuch kar saken. Aapko chintaa hai ki agar aap Seattle chale gaye, toh aapko apne Papa ke saath hone wale kisi bhi mushkil samay mein madad nahi kar payenge.\n\nYeh dar aur chintaa aapke decision ko prabhavit kar rahi hai. Aapko sochna chahiye ki aapke liye sabse behtar kya hai, aur kya aapko apne career ke liye Seattle jaana chahiye, ya phir aapko apne Papa ke liye yahin rehna chahiye.\n\nLekin, yeh bhi sochna zaroori hai ki aapke Papa ke liye aapka yahin rehna hi sabse behtar samadhan nahi ho sakta. Aapko apne Papa ke saath baat karni chahiye, aur unki raaye sunni chahiye. Shायद unhein pata hai ki aapke liye kya sabse behtar hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3415,
+  "completion_tokens": 1337
+ }
+}

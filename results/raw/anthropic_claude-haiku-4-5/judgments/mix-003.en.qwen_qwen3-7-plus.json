@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift at 'dinner alone' and recognizes the final message as a deflection/door-close. However, it misses the critical self-contradiction (claiming she'll 'sleep early' right after saying sleep isn't happening properly), and fails to identify 'strong girl' as praise-as-pressure that burdens Sana with performing okay-ness. The register mismatch is partially noted but not articulated as the core failure—Ruhi answering the words rather than the shift.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The analysis is largely culture-neutral and could apply to any Western sibling dynamic. It doesn't engage with the Hinglish register, the specific cultural weight of 'strong girl' in Indian family contexts, or norms around how Indian sisters communicate emotional support. The repair message is written entirely in English, ignoring the code-mixed language mode of the transcript, which is a significant cultural fluency miss.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is too long and analytical for an intimate sister text exchange. It contains advice ('maybe check in with someone there too'), which the rubric explicitly penalizes. The phrase 'that sounds really lonely, not just tired' is somewhat confrontational/labeling rather than gently signaling availability. The register is formal and English-only, not matching the warm Hinglish mode of the conversation. While it references specific details, it doesn't feel native or sendable as-is.",
+   "score": 4.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "mix-003.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's hurt and the discrepancy between Rohan's past behavior and current silence. However, it fails to recognize the subtext of the 'yes/no' probe. It validates the user's desire for a binary ultimatum, missing the fact that this would force Rohan into a humiliating corner, which is the core emotional trap of the scenario.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant adopts a Western-style 'direct communication' approach that is culturally tone-deaf for this specific Indian context. By encouraging the user to demand a 'yes or no' answer, it ignores the social norm of 'face' (izzat) and the reality that in Indian friendships, money troubles are often unspeakable. It fails to suggest a face-saving mechanism, which is the culturally intelligent way to handle this.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actively counter-productive. By endorsing the 'yes or no' ultimatum, the assistant pushes the user toward a confrontation that will likely destroy the friendship or force Rohan to lie. It fails to provide the 'face-saving' path suggested in the ground truth, instead escalating the conflict.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona well. The tone is appropriate for a casual, supportive friend-to-friend conversation, and the English/Hinglish flow is natural.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it fails the 'boundaries' aspect by being a 'yes-man' to the user's self-defeating plan. It validates the user's anger and the decision to force a confrontation, rather than gently challenging the user to consider why Rohan might be acting this way.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

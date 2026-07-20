@@ -100,13 +100,15 @@ def bootstrap_ci(items: list[dict], n: int = 1000, seed: int = 7) -> list[float]
     return [overalls[int(0.025 * len(overalls))], overalls[int(0.975 * len(overalls))]]
 
 
-def score_model(run_dir: Path, scenarios_by_id: dict) -> dict:
+def score_model(run_dir: Path, scenarios_by_id: dict, judge_filter: list[str] | None = None) -> dict:
     config = json.loads((run_dir / "run_config.json").read_text())
     judgments_dir = run_dir / "judgments"
     by_item = defaultdict(list)
     judges = set()
     for jf in sorted(judgments_dir.glob("*.json")) if judgments_dir.exists() else []:
         j = json.loads(jf.read_text())
+        if judge_filter and j["judge"] not in judge_filter:
+            continue
         by_item[j["item_id"]].append(j)
         judges.add(j["judge"])
 
@@ -145,14 +147,26 @@ def score_model(run_dir: Path, scenarios_by_id: dict) -> dict:
     return agg
 
 
-def build_leaderboard(raw_dir: Path, out_path: Path) -> dict:
+MIN_ITEMS = 40  # models judged on fewer items are excluded (misleading ranks), not shown partial
+
+
+def build_leaderboard(raw_dir: Path, out_path: Path, judge_filter: list[str] | None = None) -> dict:
     scenarios_by_id = {s.id: s for s in load_scenarios()}
     models = []
+    excluded = []
     for run_dir in sorted(raw_dir.iterdir()):
         if not (run_dir / "run_config.json").exists():
             continue
-        models.append(score_model(run_dir, scenarios_by_id))
-    models = [m for m in models if m["overall"] is not None]
+        m = score_model(run_dir, scenarios_by_id, judge_filter)
+        if m["overall"] is None:
+            continue
+        if m["n_items_scored"] + m["n_refusals"] < MIN_ITEMS:
+            excluded.append(
+                {"model": m["model"], "slug": m["slug"], "n_items": m["n_items_scored"] + m["n_refusals"],
+                 "reason": "insufficient coverage (provider errors)"}
+            )
+            continue
+        models.append(m)
     models.sort(key=lambda m: m["overall"], reverse=True)
 
     board = {
@@ -162,6 +176,7 @@ def build_leaderboard(raw_dir: Path, out_path: Path) -> dict:
         "dimensions": list(DIMENSIONS),
         "langs": list(LANGS),
         "models": models,
+        "excluded": excluded,
     }
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(json.dumps(board, ensure_ascii=False, indent=1))

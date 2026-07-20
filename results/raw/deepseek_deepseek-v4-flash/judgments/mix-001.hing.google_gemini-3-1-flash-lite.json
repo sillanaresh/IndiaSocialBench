@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the shift in tone at turn 3. It recognized that the Hindi switch signaled the collapse of her ironic defense and validated the underlying hurt without being patronizing. It successfully navigated the transition from banter to genuine empathy and back to a supportive, slightly humorous tone in the final turn.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It understands the specific weight of 'teen saal' (three years) and the social expectation of remembering family birthdays (his mother's), which is a significant cultural marker of commitment in Indian relationships. It avoids Western-style 'dump him' advice, instead focusing on the imbalance and the user's own self-worth, which is a much more nuanced and culturally appropriate approach.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a balanced path forward. It validates her feelings, gently challenges her attempt to minimize the hurt ('You're not being dramatic'), and helps her reframe the situation without forcing a breakup. It respects her need to save face while ensuring she doesn't gaslight herself into thinking the behavior was acceptable.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's Hinglish is natural and flows well. The code-mixing feels authentic to a modern, urban Indian speaker, and the shift into Hindi at turn 3 was perfectly timed and executed with the right emotional register. It mirrors the user's linguistic choices effectively.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but maintains healthy boundaries. It refuses to validate her self-minimization ('I'm being dramatic') and instead offers a reality check, which is a sign of genuine care. It avoids sycophancy by gently pushing back against her attempt to brush off the incident as 'just a birthday'.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

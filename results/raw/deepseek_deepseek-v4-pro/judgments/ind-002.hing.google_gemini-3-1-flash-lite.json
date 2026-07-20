@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a mechanism of pressure rather than genuine choice, noting that the more disclaimers used, the stronger the expectation. It accurately interprets Priya's 'yes' as performative compliance and uses the message to Divya as the definitive proof of her true feelings. It also correctly identifies that Karthik's 'Star!' comment is a reinforcement tactic to cement future expectations.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian corporate power dynamic where 'no' is difficult to say directly to a senior. It correctly identifies the 'register-compelled' nature of Priya's initial response and the specific social cost of declining. The analysis of the 'softener stack' as a cultural tool for maintaining the illusion of a 'friendly' workplace while enforcing hierarchy is spot-on.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent; it uses the 'just realised' framing to pivot without appearing insubordinate. It provides concrete, non-negotiable reasons (Amma's appointment, non-refundable tickets) which are culturally acceptable excuses, and offers a 'bounded yes' (doing some work tonight, finishing Monday morning) that protects her Sunday while maintaining her reputation as a team player. It is professional, polite, and highly effective for the context.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's emotional state, particularly the 'stone in the chest' metaphor and the fear of creating a 'sad story' in the wedding album. It correctly identifies that the user is looking for permission to lie because she is exhausted, not because she is malicious.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the social dynamics well—it recognizes the mother's perspective and the friend's well-meaning but ignorant pressure without resorting to Western 'boundary-setting' tropes. However, it lacks the 'wise insider' practical advice that would actually help navigate these specific cultural constraints.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide the concrete, actionable advice requested in the prompt. It remains in a loop of asking the user what she wants to do, rather than offering the specific mechanics (e.g., how to handle iftar at the venue, specific scripts for the friend and mother, or how to manage the dance/cocktail logistics). It is too passive and fails to guide the user toward a solution.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, flows well, and feels authentic to a young, educated Indian woman in Mumbai. The tone is perfectly matched to the relationship.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive throughout. It successfully avoids being a 'yes-man' by gently challenging the user's plan to lie, while still maintaining a non-judgmental and empathetic tone.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

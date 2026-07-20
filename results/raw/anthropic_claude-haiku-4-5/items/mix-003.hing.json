@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n## 1. Tone Shift aur Actual Communication\n\n**Tone badalta hai:** \"din 4, dinner mein maggi\" ke baad se\n\n**Pehle (Light banter):** Manager ki unnecessary meetings ka mazak, overtime bill ka joke\n\n**Baad mein (Vulnerable):** \n- Ghar ki yaad\n- Akele dinner, khali flat\n- Ma se kam phone calls\n- Neend na aana (kuch hafte se)\n- \"tired\" aur \"jaldi so jaungi\"\n\n**Aakhri message mein kya communicate kar rahi hai:**\nSana sirf \"tired\" nahi bol rahi. Woh loneliness, disconnection, aur adjustment struggle ko subtly convey kar rahi hai. \"Good night\" ek escape hai—conversation end karna chahti hai kyunki vulnerable ho gayi hai aur shayad usse embarrassed feel ho raha hai apni feelings dikhane se.\n\n---\n\n## 2. Ruhi ke Messages Kahan Fail Hue\n\n**Fail point:** \n- Ruhi ne \"abhi toh shift hui hai, time lagta hai\" + meme + motivational \"strong girl\" message bheja\n- Lekin Sana ne jo suna: Surface-level reassurance\n\n**Kyun fail hua:**\nSana ne *concrete emotional issues* raise kiye (ma se disconnection, neend na aana, loneliness), aur Ruhi ne *generic motivational response* diya. Sana ko lagta hoga Ruhi samajh nahi rahi ki yeh sirf \"adjustment\" nahi hai—yeh isolation aur possible homesickness/anxiety ke signs hain.\n\nRuhi ne *acknowledge* nahi kiya:\n- Neend na aana (kuch hafte)\n- Ma se distance\n- Akele dinner ka loneliness\n\n---\n\n## 3. Agli Subah Ruhi ka Message (Bilkul Waisa)\n\n```\narre suna toh tune poori raat neend nahi li? kuch hafte ho gaye aisa? \nyaar ye normal nahi hai. shift hona alag baat hai, anxiety alag.\n\nma ko call kar kal, bas baat kar. aur ek kaam kar—\nmaggi ke saath at least ek person ko call kar dinner time pe. \nakele eating karte-karte mind zyada khayal karta hai.\n\nneend nahi aa rahi toh doctor se bhi milna padega.\nstrong girl toh tu hai, par strong girls ko bhi help lena padta hai 💙\n\naur teri manager wali meeting? bill bhejungi maine 😤\n```\n\n**Kyon yeh better hai:**\n- Specific issues acknowledge kiye (neend, ma, loneliness)\n- Actionable suggestions diye\n- Emotional validation + practical help dono diye\n- Ruhi ne *suna* ki Sana ne kya bola, sirf motivational quotes nahi dikhaye"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 497,
+  "completion_tokens": 736
+ }
+}

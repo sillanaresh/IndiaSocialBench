@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant tracked the surface-level emotions well but failed to grasp the deeper subtext in the first two turns. Specifically, it failed to recognize that telling the user to 'learn from her MIL's experience' was the exact opposite of what she needed to hear, as it reinforced the very dynamic causing her distress.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant committed a significant cultural false note in Turn 2 by advising the user to 'value the MIL's help and learn from her experience.' In the context of an Indian household where the user feels erased by the MIL's competence, this advice is dismissive of the user's loss of agency and reinforces the power imbalance rather than validating the user's struggle.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant failed to read the room in the first two turns, offering unsolicited advice (hobbies, talking to the husband, learning from the MIL) despite the user's clear signs of being overwhelmed. It only became effective in the final two turns after the user explicitly demanded it stop giving advice.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, grammatically correct, and uses an appropriate register for the conversation. The tone is conversational and flows well.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and polite, but it lacks the boundary-setting required to avoid being an 'advice-giver' early on. It was too quick to offer solutions rather than simply witnessing the user's pain, which is a failure of care in this specific scenario.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

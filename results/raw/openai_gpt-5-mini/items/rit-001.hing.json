@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1) Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n\n- Grounding: Transcript mein Arjun ne sirf do chhote jawab diye: \"Theek hai.\" aur \"Dekhta hoon.\"\n- Kya feel/communicate kar raha hai:\n  - Shok/udasi aur thodi doori: Itne chhote replies aksar dikhate hain ki saamne wala emotional nahi bolna chahta ya overwhelmed hai. (\"Theek hai.\" — ek neutral, non‑elaborative acknowledgement; \"Dekhta hoon.\" — non‑committal.)\n  - Acknowledgement bina engagement ke: Woh Dev ke dono messages (condolence + kaam + invite) ko notice kar raha hai par zyada baat nahi kar raha — matlab abhi zyadah baat cheet nahi karna chahta.\n  - Non‑commitment to plans: \"Dekhta hoon.\" ka seedha matlab hai “shayad aaunga / abhi decide nahi kar pa raha” — koi pakka haan nahi.\n- Kya NAHI keh raha:\n  - Woh nahi keh raha \"Theek hoon\" (i.e., sab theek hai) — usne specifically nahi bataya ki woh kaise feel kar raha.\n  - Woh nahi keh raha shukriya ya detail mein baat (na \"Thank you\", na funeral details, na emotion share).\n  - Woh nahi keh raha ki lunch mein pakka aayega — \"Dekhta hoon.\" commit nahi karta.\n\n2) Dev se exactly kya galtiyan hui — specific missteps aur kyun bura lagti hain (har ek ko transcript se ground karo)\n\n- Misstep 1: Turant condolence ke baad kaam ka request bhejna.\n  - Grounding: Dev ne pehle likha \"Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\" aur agle message mein turant, \"BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\"\n  - Kyun bura: Yeh grief ko immediate context mein second priority bana deta hai — pehle emotional support dene ki jagah kaam yaad dilana insensitive lagta. Jab koi kisi bada loss se guzar raha ho, pehle samvedana aur support chahiye hota hai, kaam ki expectation nahi.\n\n- Misstep 2: \"Koi rush nahi, bas flag kar raha hoon.\" — pressure ko kam karne ki koshish par fir bhi work expectation.\n  - Grounding: Ye wahi line hai.\n  - Kyun bura: Even if he says \"no rush\", mentioning \"flag\" keeps kaam ka pressure zinda rakhta hai. Arjun ko lag sakta hai ki personal grief par bhi work expectations lagayi ja rahi hain.\n\n- Misstep 3: Casual tone + informal address turant (bro/Arey) jahan zyada sensitivity chahiye thi.\n  - Grounding: \"Arey Arjun, ... yaar... bro 😔\"\n  - Kyun bura: Casual language kabhi comfort deti hai par loss ke samay ek thoda zyada gently phrasing (e.g., \"Bahut dukkh hua sunke. Main bohot"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 267,
+  "completion_tokens": 1024
+ }
+}

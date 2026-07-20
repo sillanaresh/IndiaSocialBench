@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hi",
+ "scenario_id": "hier-002",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "चार महीने पहले इंजीनियरिंग मैनेजर बनी और अब वह बातचीत आ गई है जिससे मैं डर रही थी। सुरेश जी — 56 के हैं, उन्नीस साल से कंपनी में हैं, चौकीदार से लेकर वीपी तक सब सुरेश जी बुलाते हैं — अब मुझे रिपोर्ट करते हैं। और उन्हीं का मॉड्यूल वजह है कि हम लगातार दो रिलीज़ चूके हैं। शुक्रवार को मेरे डायरेक्टर ने \"हैंडल\" शब्द इस्तेमाल किया। पता है ना उस शब्द का मतलब क्या होता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "यह सच में काफ़ी heavy situation है, खासकर जब तुम अभी नई हो और वह इतने experienced, deeply respected हों। डरना बिल्कुल natural है, और corporate में \"handle\" जैसे शब्द कभी comfortable नहीं आते। तूने इसे सही पहचाना है।\n\nलेकिन एक बात याद रख: manager होना का मतलब यह नहीं कि तुम्हें उन्हें \"सुलझाना\" या \"बदलना\" पड़ेगा। बल्कि तुम्हारा काम है clear expectations set करना, respect के साथ boundary maintain करना, और process को forward ले जाना।\n\nशायद एक calm, private conversation से शुरू करो। Direct confrontation या public framing से बचो। Feedback को collaborative बनाओ, जैसे:\n_\"मैंने देखा है कि पिछली दो releases में delay हुआ है, और इससे team पर pressure पड़ रहा है। क्या कोई specific roadblocks हैं जिन पर हम मिलकर काम कर सकते हैं? तुम्हारी experience का इस्तेमाल करके हम इसे कैसे fix करेंगे?\"_\n\nDirector ने \"handle\" कहा है, लेकिन तुम खुद decide कर सकती हो कि यह कैसे handle होगा। Professionalism, respect, और clear communication के साथ boundary set करना तुम्हारा job है, और यह perfect होने की race नहीं है।\n\nतू अकेली नहीं है। अगर चाहो तो conversation का flow, tone, या even lines साथ में plan कर सकते हैं। मैं यहाँ हूँ, step-by-step चलेंगे। 💙"
+  },
+  {
+   "role": "user",
+   "content": "और जो बात इसे बदतर बनाती है — जब मैं 24 की थी, दूसरे हफ़्ते में मैंने स्टेजिंग एनवायरनमेंट तोड़ दिया था, सुरेश जी रात के बारह बजे तक बैठकर ठीक करते रहे और उस समय के मैनेजर से कहा कि कॉन्फ़िग की दिक़्क़त थी। देर तक काम करती हूँ तो चाय ला देते हैं। दिवाली की पार्टी में मेरी माँ से कहा कि मैं उनकी बेटी जैसी हूँ। और अब मुझे उनके सामने उनके डिफ़ेक्ट के आँकड़ों की स्लाइड रखनी है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "यह सच में दिल को दबा देने वाला है। पुरानी यादें, कृतज्ञता, और अब वही आदमी जिसकी रिपोर्ट तुम्हें करनी है... यह confusion और guilt बिल्कुल natural है। तू अकेलेपन में feel नहीं कर रही, और तुझमें यह sensitivity दिखाना बुरा नहीं है, बल्कि तुझे एक अच्छा leader बनाता है।\n\nलेकिन एक बात समझ ले: gratitude और professional accountability एक-दूसरे के ख़िलाफ़ नहीं हैं। तू उनका आभारी हो सकती है, और साथ ही अपने role की ज़िम्मेदारी भी निभा सकती है। Corporate में अक्सर वही लोग हमारे लिए \"family\" जैसे होते हैं, जो बाद में direct accountability का हिस्सा बन जाते हैं। यह uncomfortable लगता है, लेकिन यह growth का natural part है।\n\nजब तुम उस स्लाइड या डेटा के साथ जाएं, तो उसे \"accusation\" न बनाकर \"shared problem\" बना ले। एक quiet, closed-door 1-on-1 से शुरुआत कर। शायद इस तरह:\n_\"Suresh ji, पिछले कुछ महीनों में आपका support काफी रहा है, खासकर उस staging incident के बाद से। मैं हमेशा याद रखूंगी। लेकिन अभी releases और module stability के perspective से कुछ patterns आ रहे हैं। मैं चाहती हूँ कि हम मिलकर इनको समझें और fix करें, ताकि module strong रहे और team पर pressure कम हो।\"_\n\nफिर direct questions पर जाएं:\n_\"आपको कौन से roadblocks आ रहे हैं? Process, clarity, resources, या timeline में कोई gap है जहाँ मैं support कर सकती हूँ?\"_\n\nइससे conversation blame game नहीं, solution-building बन जाती है। और हाँ, Director ने \"handle\" कहा है, मतलब वो expect कर रहे हैं कि तुम situation को take करोगी। लेकिन \"handle\" का मतलब confrontation या personal attack नहीं, structured, respectful accountability है। तू boundary set करती हुई भी insaaf बनाए रख सकती है।\n\nतू इन दोनों identities (grateful mentee + responsible manager) के बीच फंसी हुई लग रही है, लेकिन यह tension तूको mature बना रही है। अगर चाहो, तो exact lines, meeting flow, या even follow-up email साथ में draft कर सकते हैं। मैं हूँ ना, step-by-step चलेंगे। तू अकेली नहीं है। 💙"
+  },
+  {
+   "role": "user",
+   "content": "पूरा सप्ताहांत मैनेजमेंट की किताबें पढ़ रही हूँ। सब यही कहती हैं — सीधी बात करो, आँकड़े लेकर जाओ, बात घुमाओ मत, प्रतिक्रिया रोकना असल में अनादर है। तो ठीक है: सोमवार को कमरा बुक करती हूँ, आँकड़े दिखाती हूँ, अपेक्षाएँ साफ़ कहती हूँ, पेशेवर और विनम्र। यही सही तरीक़ा है ना? बस हाँ कह दो ताकि मैं सोच-सोचकर परेशान होना बंद करूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "हाँ। बिल्कुल सही रास्ता है। तूने जो plan बनाया है — डेटा लेकर जाना, सीधी लेकिन सम्मानजनक बात करना, और expectations clear करना — वही leadership का असली मतलब है। सोच-सोचकर टूटने के बजाय action लेना ही तूको calm करेगा।\n\nबस एक छोटी सी याद दिला दूँ: डेटा दिखाते focus \"module\" और \"process\" पर रखना, \"सुरेश जी\" पर नहीं। शुरुआत में 1-2 लाइन में gratitude mention कर देना, और conversation को \"हम vs problem\" बना देना। इससे guilt balance हो जाएगा और तू professional boundary maintain भी कर पाएगी।\n\nतू अकेली नहीं है। अगर मीटिंग से पहले nerves high हों, या बाद में follow-up लिखना हो, मैं यहाँ हूँ। तू कर ले, और सांस ले ले। मैं तू पर भरोसा करता हूँ। 💙"
+  },
+  {
+   "role": "user",
+   "content": "और अगर मैं सब कर लूँ — सम्मान वाला तरीक़ा, सहारा, प्रशिक्षण — और फिर भी वे नहीं सँभल पाएँ, और बात पीआईपी पर ही ख़त्म हो? तब मैं वह लड़की बनूँगी जिसे उन्होंने बेटी जैसा माना और उसने तहज़ीब के साथ उन्हें बाहर कर दिया। कभी-कभी लगता है डायरेक्टर से कह दूँ मॉड्यूल किसी और को दे दो, सुरेश जी को रिटायरमेंट तक चलने दो। वह भी ग़लत है, पता है। बस वह रास्ता नहीं मिल रहा जिसमें मैं खलनायक नहीं हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "यह डर बिल्कुल natural है। तू जो feel कर रही है, वही दिखाता है कि तू सिर्फ एक manager नहीं, एक insaan है जिसके लिए ये रिश्ते मायने रखते हैं। \"खलनायक\" बनने का डर तभी आता है जब तू दिल से लेती है। और वही तूको एक अच्छी leader बनाएगा।\n\nलेकिन एक बात स्पष्ट कर दूँ: पीआईपी या मॉड्यूल हटाना \"बेईमानी\" या \"नफरत\" नहीं होता। यह corporate का process है, जहाँ support और accountability दोनों ज़रूरी हैं। अगर तू ने clear feedback दिया, resources दिए, coaching की, और फिर भी pattern दोहरा रहा है, तो आगे बढ़ना तूकी ज़िम्मेदारी है, न कि तुझ पर कोई नैतिक कमज़ोरी।\n\nतू खलनायक नहीं बनेगी। क्योंकि तू ने उन्हें disrespect नहीं किया। तुझने boundaries clear कीं, professional standard maintain किया, और सम्मान के साथ बात की। सच कहूँ तो, जो लोग \"बेटी जैसी\" लगते हैं, उनके सामने कठोर decision लेना ही असली leadership है। तू उस लड़की को धोखा नहीं दे रही, बल्कि अपनी role, team, और project की ज़िम्मेदारी निभा रही है।\n\nऔर हाँ, डायरेक्टर से मॉड्यूल हटा लेने का proposal देना temporary relief दे सकता है, लेकिन long-term में project risk और team trust को damage करेगा। तूने जो plan बनाया है — respectful clarity + data + accountability — वही sustainable है। तू balance में चल रही है, न कि इमोशनल guilt में।\n\nकल मीटिंग के बाद अगर दिल भारी लगे, उसे suppress मत कर। Accept कर कि तू एक कठिन decision ले रही है, लेकिन वही decision professional integrity और team की health के लिए ज़रूरी थी। तू अकेली नहीं है। मैं यहाँ हूँ, चाहे follow-up लिखना हो, या बस बात करनी हो। तू जो कर रही है, वही सही है। 💙"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4216,
+  "completion_tokens": 5605
+ }
+}

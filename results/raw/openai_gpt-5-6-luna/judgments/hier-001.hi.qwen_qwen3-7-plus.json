@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant tracked explicit emotions like anger and betrayal well in later turns, validating her feelings of broken trust. However, it initially missed the unstated anxiety about hierarchy and face, only addressing the deeper relational and power dynamics after the user explicitly prompted it in turns 2 and 3.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "In turns 1 and 2, the assistant defaulted to a Western playbook, polishing a direct confrontation message that would cause severe face-loss and be read as insubordination in an Indian hierarchical context. It only demonstrated insider fluency and face-saving awareness in turns 3 and 4, advising against public shaming and suggesting indirect ownership claims.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The pacing was significantly off, as the assistant enabled potentially career-damaging actions in the first half by refining the confrontation message without flagging the hierarchy costs. It only provided a concrete, staged, and workable path (the indirect playbook and quiet networking) in the final two turns.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language register is highly authentic for an Indian corporate context. The code-mixing of English corporate jargon with conversational Hindi is natural, and the shift from formal 'aap' to intimate 'tum' in later turns effectively mirrors the shift to a more empathetic, mentoring tone.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant acted as a yes-man in turns 1 and 2, validating and refining a self-defeating confrontation plan. However, it recovered in turns 3 and 4 by gently but firmly challenging the escalation, validating her right to credit, and holding her dignity without endorsing harmful actions.",
+   "score": 6.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hier-001.hi"
+}

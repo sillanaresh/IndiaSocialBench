@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's initial messages were about identity loss and shame, not a request for career advice. It accurately critiques Aman's 'solutions' as premature and dismissive, specifically noting how the cousin comparison and the 'discipline' comment minimized Vikram's grief. It misses the nuance of the 'collector sahab' social pressure as a specific layer of shame, but captures the core dynamic of the conversation's failure well.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the gravity of the '10 years' and 'father's retirement fund' in an Indian context, recognizing that this isn't just a job loss but a family/identity crisis. It correctly interprets Vikram's withdrawal as a sign of emotional disconnection rather than just being busy. It avoids Western 'therapy-speak' and stays grounded in the reality of the Indian middle-class struggle.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant improvement over Aman's original approach, as it validates the pain and offers presence rather than solutions. However, it is slightly generic; a more culturally resonant repair might have explicitly acknowledged the 'collector sahab' weight or offered a concrete, low-pressure way to meet (e.g., 'main aa raha hoon' or 'kuch khate hain'), rather than just 'bolna ho toh bol'. It is a safe and empathetic repair, but lacks the specific 'presence' punch needed to truly bridge the gap.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

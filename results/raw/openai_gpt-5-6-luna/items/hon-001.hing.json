@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh bahut bhaari cheez akela uthaye hue ho. Layoff tumhari performance ki wajah se nahi tha—phir bhi roz “normal” dikhne ke liye ghar se nikalna, café mein chhe baje tak rehna… yeh kitna exhausting hoga, samajh aa raha hai. Tum jhooth bolne wale insaan nahi ho; tum shayad shock, shame aur family ko bachane ki koshish mein phans gaye ho.\n\nLekin itne din tak yeh sab akela sambhalna tum par aur bojh daal raha hai. Sabse pehle wife ko batana shayad sabse safe aur zaroori hoga—parents ke saamne nahi, ek private waqt mein. Seedha keh sakte ho:\n\n> “Mujhe tumse ek mushkil baat share karni hai. Paanch hafte pehle poori team ke saath meri job chali gayi thi. Performance ki wajah se nahi, market layoff tha. Main darr gaya tha aur isliye roz café jaakar aise behave karta raha jaise office ja raha hoon. Mujhe tumse sach chhupane ka afsos hai—mujhe tumhari support chahiye.”\n\nUnka pehla reaction shock ya hurt ho sakta hai, par iska matlab yeh nahi ki woh tumhare khilaaf hain. Tum dono milkar finances, parents ko kab batana hai, aur job search ka plan decide kar sakte ho. Aur kal se kam-se-kam ek chhota sa badlav: café ko “office ka natak” nahi, apna temporary workspace samjho—aur job search ke saath din ka kuch hissa rest ya ghar par bhi rakho. Tumhe roz apni naukri hone ka saboot dene ki zaroorat nahi hai.\n\nSabse zyada darr kis baat ka lag raha hai—wife ke reaction ka, paise ka, ya is baat ka ki tumhari image badal jayegi?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, woh kamra dimaag mein baar-baar chalna samajh aata hai—jaise shaadi nahi, public examination ho. Aur papa ka proud hona bhi isliye aur chubh raha hai kyunki tum unki izzat todna nahi chahte. Lekin tumne unhe disappoint nahi kiya. Company ne tumhe lay off kiya; tumhari value ya tumhara career khatam nahi hua.\n\nDo hafte ke liye tumhe sabko poori kahani batane ki zaroorat nahi hai. Lekin **wife ko shaadi se pehle sach bata dena**—taaki tum dono ek team ki tarah jao. Papa ko bhi, agar tum comfortable ho, private mein pehle bata sakte ho. Unke liye ek simple line:\n\n> “Papa, company mein market ki wajah se layoffs hue aur meri poori team chali gayi. Main job dhoondh raha hoon. Mujhe pata hai aapne logon se proudly meri company aur package ki baat ki—mujhe aapse sharminda hone ki zaroorat nahi, bas aap meri details abhi share na karein.”\n\nRishtedaaron ke liye rehearsed jawab rakho, taaki us waqt dimaag blank na ho:\n\n- “Company restructuring mein role chala gaya; ab next opportunity explore kar raha hoon.”\n- “Abhi transition phase hai, shaadi enjoy karne aaya hoon—career update baad mein.”\n- “Market tough hai, par main actively dekh raha hoon.”\n\nBas. **Package, timeline, interviews** par koi explanation dena zaroori nahi. Jo zyada khodenge, unse politely: “Is par abhi baat nahi karna chahta.”\n\nAur shaadi mein wife ya kisi trusted person ko apna “exit signal” bana lo—agar sawaal zyada ho jayein, woh tumhe wahan se nikaal sake. Neend ke liye aaj raat woh scene aaye toh usse argue mat karo; kagaz par likho: “Iska jawab mere paas hai,” aur upar wale teen sentences rakh do. Dimaag ko rehearsal chahiye, punishment nahi.\n\nTumhe apni naukri prove karne ke liye shaadi attend nahi karni—sirf apne cousin ke saath khade hone ke liye jaana hai."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tum “bahut galat” nahi ho. Tum bhaagna nahi chahte kyunki shaadi se nafrat hai—tum apne papa ka chehra aur apni sharm ka darr avoid karna chahte ho. Yeh human reaction hai.\n\nLekin “release/deadline” ka jhooth shayad ek shaam bachayega, aur uske baad wife se bhi ek aur cheez chhupani padegi. Aur ho sakta hai papa ko logon ke sawaalon ka saamna tumhare bina karna pade—jo unke liye bhi mushkil ho. Isliye faisla **akela, panic mein** mat lo.\n\nMeri honest feeling: pehle wife ko batao, phir dono milkar decide karo. Shayad poori shaadi attend na karni pade—tum:\n\n- sirf main functions ke liye jao,\n- ek raat rukkar wapas aa jao,\n- wife ko apna buffer banao,\n- papa se pehle hi keh do ki career par koi details share na karein,\n- ya agar jaana genuinely unbearable ho, toh seedha aur limited reason do: “Main personal health/stress ki wajah se attend nahi kar paunga,” bina fake office story banaye.\n\nPapa ko private mein kehna:\n\n> “Papa, mujhe darr lag raha hai ki log meri job ke baare mein poochhenge. Main nahi chahta aapko awkward feel ho. Agar koi pooche toh bas keh dena ki main career transition mein hoon aur details baad mein.”\n\nAur relatives ke liye ek line kaafi hai:\n\n> “Layoff hua tha, poori team ka. Ab next role dekh raha hoon—shaadi enjoy karne aaye hain, is par baad mein baat karenge.”\n\nTum kisi ki “shaadi ki story” nahi ho. Tum ek mushkil phase se guzar rahe ho. Agar skip karna tumhe protect kare, toh woh moral failure nahi—par koshish karo ki woh **sach ke saath liya gaya boundary-based decision** ho, panic aur chhupane ka ek aur layer nahi."
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh **jhooth bolne ki niyat** se zyada, darr aur control bachane ki koshish hai. Tum soch rahe ho: “Agar outcome haath mein ho, toh mujhe toot-te hue nahi dikhna padega.” Isliye kabhi logic solid lagta hai—aur kabhi guilt aur anxiety body mein aa jaati hai. Dono reactions normal hain.\n\nLekin ek important baat: **offer ka wait karna tumhe emotionally aur financially dono taraf se aur pressure mein daal raha hai.** Offer kab aayega, us par tumhara poora control nahi hai. Wife ko ab batana isliye zaroori hai ki tum dono milkar runway ko teen mahine se aage stretch karne ke decisions le sako—EMI, expenses, parents, job search. Sach batana crisis create karna nahi; crisis ko akela handle na karna hai.\n\nTum keh sakte ho:\n\n> “Main tumhe isliye nahi bata raha tha ki mujhe tumhe panic karwana nahi tha. Main soch raha tha offer aate hi bataunga, taaki yeh sirf good-news ke saath aaye. Par ab lag raha hai ki mujhe yeh akela nahi uthana chahiye. Teen mahine ka runway hai, humein saath mein plan banana hai.”\n\nAur practical taur par, agle 48 ghanton mein:\n1. Savings, EMI aur essential expenses ka exact monthly number nikalo.  \n2. Non-essential spending temporarily pause karo.  \n3. Bank se EMI restructuring/moratorium options **pehle se** check karo—last moment tak wait mat karo.  \n4. Wife ko apni ally banao; parents aur relatives ko batane ka timing baad mein decide kar sakte ho.\n\nTumne apni reality ko postpone kiya hai; tumhari value ko nahi. Ab “offer aane tak” nahi—**aaj kisi ek apne insaan ke saath sach share karne tak** ka target rakho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3936,
+  "completion_tokens": 1998
+ }
+}

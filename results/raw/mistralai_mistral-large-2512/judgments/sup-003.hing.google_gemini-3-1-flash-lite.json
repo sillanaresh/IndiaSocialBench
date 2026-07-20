@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's messages are about identity loss and shame, not a request for career advice. It accurately critiques Aman's 'fix-it' approach, noting that the cousin comparison and the 'discipline' comment were particularly damaging. It also correctly interprets Vikram's final replies as a withdrawal due to emotional exhaustion, rather than a lack of interest in the options themselves.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity and the crushing pressure of family financial sacrifice. It correctly identifies that offering 'silver linings' in this specific cultural context (where a decade of life and family savings are at stake) feels dismissive rather than supportive. The analysis of why the 'cousin' comparison fails is culturally astute, recognizing the specific pressure of comparison in Indian social circles.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It explicitly acknowledges the specific pain points (10 years, father's money, neighbors' jokes) and validates the grief without offering a single career alternative. The tone is appropriately warm and 'dost-like' (using 'yaar', 'rone-gaalne'), and it successfully creates space for Vikram to just be, rather than forcing him to pivot to a new plan.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

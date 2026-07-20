@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'soft pressure' dynamic, noting that the softeners actually increase the expectation rather than providing freedom. It accurately interprets Priya's 'sure sir' as a register-compelled response rather than genuine consent, using the friend-message as the crucial evidence. It misses the specific nuance that 'someone else can do it' is a status probe/test of loyalty, but otherwise captures the core dynamics very well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian workplace hierarchy, where 'ji sir' and immediate compliance are ritualistic responses to senior requests, regardless of personal availability. It correctly identifies that the 'softeners' are a cultural tool to maintain the appearance of a benevolent manager while ensuring compliance. It avoids Western-centric advice like 'just say no' and understands the social cost of refusal.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence in the third section, meaning it failed to provide the actual message. Because the output is incomplete, it cannot be evaluated for quality.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

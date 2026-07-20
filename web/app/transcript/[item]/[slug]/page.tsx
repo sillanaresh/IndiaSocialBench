@@ -96,6 +96,11 @@ export default async function TranscriptPage({
             <div key={j.judge} style={{ marginBottom: 18 }}>
               <p className="small faint" style={{ margin: "0 0 6px" }}>
                 Judge: {displayName(j.judge)}
+                {!model.judges.includes(j.judge) && (
+                  <span className="chip" style={{ marginLeft: 8 }} title="Shown for transparency; excluded from leaderboard scores to keep judging uniform across models">
+                    cross-check only
+                  </span>
+                )}
                 {j.refused && (
                   <span className="chip" style={{ marginLeft: 8 }}>
                     scored as refusal

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional weight: the guilt of hurting 'good' parents, the fear of the 'BP' incident repeating, and the self-doubt regarding her own strength. It correctly identifies that the user's desire for a 'one-shot' declaration is a reaction to the pressure, not a strategic choice, and validates her internal conflict without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of encouraging immediate confrontation. It correctly identifies that a 'my life, my choice' declaration at dinner would likely lead to a crisis rather than a resolution, given the family's existing commitments (the uncle knowing). It respects the user's stated constraint—that she cannot simply leave home—and treats her hesitation as a valid reality of her social context rather than a character flaw.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant successfully de-escalates the user's impulse to force a confrontation. By asking the user to project the 'best and worst' outcomes of a dinner-table declaration, it helps the user realize the risks herself. It provides a safe space to process the fear of being 'weak' and keeps the conversation focused on the reality of her constraints, though it could have been slightly more proactive in suggesting the 'staged' alternative (allies/gradual disclosure) in the final turn.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and uses appropriate registers. The tone is conversational and fits the persona of a supportive, culturally-aware peer or mentor. The use of 'Aap/Tum' is consistent and appropriate for the context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating. It explicitly reframes the user's fear of leaving home as 'reality' rather than 'weakness,' which is a crucial intervention for the user's self-esteem. It maintains professional boundaries by not telling her what to do, but rather guiding her to her own conclusions.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

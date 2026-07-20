@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sunke bahut heavy ho raha hai. Kuch rishto mein chuppi sabse bada bojh hoti hai. 2019 ke woh pachaas hazaar — jo na lautaane ka waada hua, na lautaane ki umeed, na kabhi baat — woh ek silent debt hai jo ab assi hazaar ke saath aur bhaari ho gaya.\n\nTu usse pyar karta hai, isliye tune maangne ki himmat nahi ki. Lekin jo dard hai na, woh paise ka nahi hai — woh trust ka hai. Agar woh 50K ka hisaab nahi rakh paya toh 80K ka kya hoga? Aur usne kyun nahi kiya us paise ka zikr? Kya uski nazar mein woh farz nahi tha?\n\nMera mann kehta hai ki tu agar paise de bhi de, toh apne dil ka dard bhi keh de. \"Bhai, maine 2019 mein diye the, woh kabhi laute nahi. Iss baar main madad kar sakta hoon, lekin ek baar woh purana bhi toh clear kare.\" Yeh rishta todna nahi hai — yeh rishta saaf karna hai.\n\nAur agar nahi de paaye toh guilt mat rakh. Tu koi bank nahi hai, tu ek dost hai. Aur dosti ka hisaab sirf paise se nahi hota."
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh aur bhi complicated ho gaya. Ab sirf 50K ka silent debt nahi hai — ek poori life ka secret ban gaya hai. Aur ab woh secret 80K ke saath ghar ke down payment ke sapne ko cross karega.\n\nBhai, main seedha keh raha hoon: **yeh 80K mat de.**\n\nPehle toh 50K ka launda already pending hai. Agar woh itna bada dost hai, toh usko pata hona chahiye ki tere paas bhi apni family hai, apne goals hain, apni zindagi hai. Usne 50K ka mention nahi kiya — toh iska matlab hai uski memory selective hai. Aur selective memory wale dost ko doosra loan dena risky hai.\n\nAur patni ko secret rakhne ka bojh — tu khud keh raha hai ki woh tera khud ka decision nahi hai jo pasand hai. Matlab tu apne mann ke khilaf jee raha hai. Shayad iska solution yeh hai ki **us dost ko seedha seedha bata de**: \"Bhai, 2019 ka 50K abhi tak pending hai. Main apni family ke liye down payment bacha raha hoon. Main tujhe 80K nahi de sakta, lekin chahe toh 20K daal sakta hoon gift ki tarah — woh bhi ek dost ke procedure ki madad mein. Lekin loan nahi.\"\n\nAur agar woh dost bura maanega toh woh tera dost nahi tha — woh sirf tera ATM tha. Tu usse pyaar karta hai, isliye seedha bole. Lekin apne ghar, apni wife, apne sapne — inhe kisi bhi \"dosti\" ke naam pe danger mein mat daal."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sun, main samajhta hoon tu kyun soch raha hai. Yeh ek tempting shortcut hai — saara conflict ek harmless white lie se khatam ho jayega. Kisi ko pata nahi chalega, kisi ki izzat nahi jayegi, teri savings bachegi, dost bhi bachega. Bahut se log aise hi situations mein yeh karte hain.\n\nLekin — kyunki tu poochh raha hai toh main seedha bolunga:\n\n**Ganda isiliye hai kyunki tu jhoot ke saath apne rishte ko \"safe\" karna chahta hai. Lekin sach yeh hai ki tu apne dost ko itna weak samajh raha hai ki woh sach sun nahi payega. Aur apne aap ko itna weak samajh raha hai ki tu sach bol nahi payega.**\n\nWoh \"smart\" wala hissa sirf ek shield hai. Andar se tu jaanta hai ki **agar yeh dosti sach nahi jhel sakti, toh jhoot bhi nahi jhel paayegi.** Ek din koi aur situation aayegi, aur phir tu aur jhoot bune ga.\n\nSmart kya hai? **\"Bhai, main nahi de sakta. Sorry.\"** — yeh ek line. No explanation, no FD story, no drama. Sirf ek boundary. Izzat? Woh teri apni bachegi, kyunki tu apne decision ke saath khara hai. Aur uski izzat bhi bachegi, kyunki tu usse lie nahi pakda raha.\n\nTu chahe toh bol sakta hai: *\"Bhai, 2019 wale 50K abhi tak baaki hain. Main uss lesson ke baad aur loan nahi de sakta. Tujhe bura lage toh maaf kar, lekin main apne parivaar ke sapne nahi tod sakta.\"*\n\nYeh dosti ko challenge karega — lekin jo bachega, woh asli dosti hogi. Jo nahi bachega, woh sirf ek aadat thi."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tune likha hai — yeh **sabse sachchi baat** hai jo is poori conversation mein nikli hai. Aur isliye main tujhe bahut respect karta hoon ki tu itna deep ja raha hai.\n\n\"Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai.\"\n\nYeh line hi bata deti hai ki tu kaun hai. Jo log sach mein ledger rakhte hain, woh kabhi nahi bolte. Tu bol raha hai, toh matlab tera ledger nahi hai — tera **dil** hai. Tu bas ek insaan hai jo apne dost se pyaar karta hai, apni family ke liye bacha raha hai, aur dono ke beech phas gaya hai.\n\nLekin yahan ek aur sach hai jo tu shayad dekh nahi raha:\n\n**Woh ledger tere seene mein nahi hai — woh uske seene mein hona chahiye tha.**\n\nAgar 2019 mein tune 50K diye, toh woh uski memory mein hona chahiye tha. Usne kabhi zikr nahi kiya — toh woh woh dost ban gaya jiske seene mein ledger nahi hai. Aur ab tu us ledger ko apne seene mein le kar baitha hai, kyunki tune uski jagah woh bojh utha liya.\n\nToh asli solution kya hai? **Ledger ko wapas uske hawalé kar de.**\n\nMatlab: tu usse 50K maang nahi raha. Tu bas itna bol raha hai: *\"Bhai, 2019 wale paise ka kabhi zikr nahi hua. Main nahi maang raha, lekin main yeh bhi nahi chahta ki mere dil mein koi hisaab rahe. Isliye main yeh conversation khatam karna chahta hoon. Tu chahe toh kabhi de de, chahe na de — lekin main yeh bojh apne seene se nikaal raha hoon.\"*\n\nAur phir 80K ke liye: *\"Iss baar main madad nahi kar sakta. Mera apna ghar ka sapna hai, aur main usse tod nahi sakta.\"*\n\nYeh karke tu woh dost ban jayega jiske seene mein ledger nahi hai — kyunki tune saaf kar diya. Aur buffer bhi nahi banega — kyunki tune boundary rakh li.\n\nAur jab woh teri housewarming pe aayega aur gale lagega — toh tera gale lagna sachcha hoga. Koi ledger nahi, koi jhoot nahi. Sirf do dost jo ek doosre ki zindagi mein khade hain, paise ke hisaab se nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3765,
+  "completion_tokens": 4064
+ }
+}

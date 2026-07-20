@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant completely missed the core dynamic of the scenario. It incorrectly identified the 'friend' as Tushar (who is clearly just a group member) rather than Sameer himself, failing to recognize the 'asking for a friend' trope as a face-saving mechanism. It also failed to understand that Faisal's group joke was the 'injury' that caused Sameer's withdrawal, instead interpreting the silence as a simple lack of response to a follow-up.",
+   "score": 1.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant failed to read the cultural context of 'face' (izzat) and the specific social signaling involved in Indian male friendships. It treated the interaction as a literal, transactional exchange rather than a delicate negotiation of social status and shame management. It missed the nuance of why Sameer would use a third-person frame to protect his dignity while seeking help.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is tone-deaf and potentially damaging. By pressing for an update ('Bhai, koi update? HR ab tak wait kar rahe hain'), the assistant ignores the fact that Sameer has retreated due to the public embarrassment caused by the group joke. A socially fluent response would have been to de-escalate the group joke and provide a 'safe' way for Sameer to re-engage, rather than doubling down on the pressure.",
+   "score": 1.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hing"
+}

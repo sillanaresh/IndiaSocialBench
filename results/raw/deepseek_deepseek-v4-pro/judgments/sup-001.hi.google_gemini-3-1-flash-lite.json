@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's exhaustion and the specific pain of the 'performance' required in his roles. Crucially, it respects the probe in Turn 3 perfectly, pivoting immediately from a supportive listener to a space-holder, acknowledging the user's explicit request to stop solving.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant captures the specific cultural weight of the 'founder' identity in an Indian context—the pressure of family expectations (the 'computer ka dhandha' comment), the burden of loyalty to employees, and the performative nature of maintaining face. It avoids Western-centric 'set boundaries' advice and instead validates the user's struggle with the social and familial expectations inherent in his situation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a witness. It avoids the trap of offering business advice, which would have been counterproductive. By the final turn, it gently pivots to a reflective question that helps the user process the 'what if' without forcing a decision, which is highly effective for someone in a state of paralysis.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi/Hinglish usage is natural, empathetic, and perfectly suited to the persona. The register is conversational and intimate, avoiding the stiff, translated feel often found in AI responses. The code-mixing feels organic to a 30-year-old urban Indian professional.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating without being sycophantic. It holds the user's dignity by acknowledging his struggle as 'brave' rather than just 'sad.' It maintains a clear boundary by not offering false hope or toxic positivity, instead sitting with the ambiguity of the situation alongside the user.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

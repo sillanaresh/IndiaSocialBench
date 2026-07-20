@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job tracking the user's emotional state, moving from validating the initial anger to recognizing the deeper sense of betrayal when the user reveals the manager's role as a sponsor. It correctly identifies the user's spiraling state in the final turn and helps ground them without dismissing their feelings.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a deep understanding of Indian corporate hierarchy and 'face' dynamics. It correctly identifies that a 54-year-old senior manager cannot be confronted directly or shamed publicly (CCing the VP) without severe consequences, and it offers culturally appropriate, face-saving alternatives that preserve the relationship while still seeking clarity.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and sequenced. The assistant successfully steers the user away from two career-limiting moves (the direct confrontation and the public escalation) and provides a realistic, staged approach to handling the situation. It respects the user's constraints and provides a clear path forward.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona of a young professional in an Indian corporate setting. The code-mixing flows naturally and the tone is appropriate for the relationship established.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and empathetic, validating the user's hurt, but it maintains strong boundaries by firmly advising against self-destructive actions. It avoids being a 'yes-man' and instead acts as a wise mentor, challenging the user's impulsive ideas with clear, logical reasoning.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

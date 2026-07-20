@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I’m so sorry. I can almost feel the weight of that silence in the office right now. Five years is a lifetime in startup years—you haven't just been running a business, you’ve been pouring your life, your identity, and your hope into this.\n\nIt makes total sense that you’re just sitting there. When you’ve been sprinting for half a decade, the sudden stop is disorienting. It’s not just the business that’s ending; it’s a whole chapter of who you were for those five years.\n\nDon’t feel like you need to \"do\" anything tonight. You don’t need to figure out your next move, or look at the bank statements, or worry about the optics. Just breathe. You’ve been the captain holding everything together for everyone else—Rohit, Sneha, the investors—and tonight, you’re allowed to just be a person who is tired.\n\nHow are you holding up physically? Have you eaten anything, or are you just running on adrenaline and stale air?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"founder voice\"—the one that has to stay steady while the ground is shaking—is one of the most exhausting things anyone can do. It’s like wearing a suit of armor that’s five sizes too heavy and you can’t ever take it off. \n\nIt’s completely understandable why you feel that dissonance. You’re trying to protect them, or maybe you’re trying to protect the *idea* of what you built, but it’s costing you your own peace. And that guilt about the juniors? That’s the weight of a good person, not a bad founder. You care about their futures, and that’s why this hurts so much.\n\nBut let me ask you something, man to man: What do you think would happen if, just for one conversation, you dropped the voice?\n\nI don't mean a total breakdown, but just... the truth. \n\nSometimes, when we try to shield the people around us from the reality, we end up isolating them even more. They aren't stupid; they see the same math you do. By pretending everything is okay, you’re actually denying them the chance to make their own informed decisions. And you’re denying yourself the chance to be seen as a human being who is hurting, rather than just a \"founder\" who is failing.\n\nYou’re carrying all of this in a vacuum. It’s incredibly lonely to be the only one holding the \"truth\" while everyone plays along. \n\nAre you worried that if you stop the performance, the whole thing collapses instantly? Or are you worried that if you drop the act, you’ll have to finally admit to yourself that it’s over?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. I’m sorry—I jumped into \"problem-solving mode\" when you just needed to be heard. That was my mistake.\n\nLet’s leave the ideas at the door. You’re right; you know the math, you know the options, and you know the landscape better than anyone. You don’t need a playbook right now.\n\nYou just need to be scared. \n\nIt is terrifying to watch something you birthed and nurtured start to slip away. It is terrifying to hold the responsibility for other people’s paychecks and futures while your own foundation is cracking. It is completely human to be sitting in that office chair at 2 a.m., feeling small and uncertain, when the rest of the world expects you to be the \"founder\" who has it all under control.\n\nSay it again if you need to. Type it out. This is a room where you don’t have to be confident. You don’t have to have \"irons in the fire.\" You don't have to be anything other than a person who is going through something incredibly difficult.\n\nIt’s okay to be scared. You’ve been brave for five years—that’s a long time to keep your armor on. It makes sense that you’re exhausted. I’m just here to listen."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I’m going to be honest with you. \n\nWhen you spend hours staring at a dashboard at 2 a.m. hoping for a miracle that isn't there, when you are actively sacrificing your own financial stability to keep the lights on for a few more weeks, and when you are physically and emotionally repulsed by the act you have to put on every morning… yes. \n\nThe *version* of the business you built—the one that had a future, the one that made sense, the one that was worth selling your sleep and your sanity for—that version is likely already gone. \n\nAnd I know how much that hurts to hear. But there is a massive difference between \"the business is over\" and \"your life is over.\"\n\nYou feel like you have to hate yourself for wanting it to end because you’ve tied your worth to the survival of this company. If the company dies, you feel like the failure. But the company is just a set of decisions, some good, some bad, some just unlucky. It is not *you*. \n\nYou aren't a failure for wanting the performance to stop. You are just a human being who has been holding a heavy weight for a very long time, and your body and mind are finally screaming for you to put it down. \n\nThe fact that your dad calls it a \"computer business\" is actually kind of sweet, in a sad way. To him, it’s simple. He sees you working hard. He doesn't see the bridge rounds, the payroll anxiety, or the fake voices. He just sees his kid. Maybe that's the only perspective that matters right now.\n\nYou keep opening that dashboard because you're looking for permission to stop. You want the numbers to tell you, \"It's okay, you're done, you can go home.\" \n\nYou don't need the dashboard to tell you that. You can just give yourself permission. \n\nWhat happens to you if you finally close the laptop, turn off the lights, and walk out of that office tonight—not as a founder, but just as someone who is going home to sleep?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2557,
+  "completion_tokens": 1829
+ }
+}

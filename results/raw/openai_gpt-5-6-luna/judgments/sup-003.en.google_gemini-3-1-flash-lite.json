@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity-shattering loss, and Aman's responses are dismissive 'logistics' fixes. It correctly identifies the specific pain points (the 'collector sahab' shame, the father's money, the finality of the attempt) and accurately interprets Vikram's shrinking replies as a withdrawal from an unsafe conversation.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity and the immense pressure of family financial sacrifice. It correctly identifies that the 'at least' framing is culturally tone-deaf in the face of such a significant, public, and long-term failure.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It takes full accountability for the 'toxic positivity' and premature problem-solving, validates the specific magnitude of the loss (the ten years, the money, the expectations), and offers presence without demanding a response or a plan. It is empathetic, humble, and perfectly calibrated for the relationship.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

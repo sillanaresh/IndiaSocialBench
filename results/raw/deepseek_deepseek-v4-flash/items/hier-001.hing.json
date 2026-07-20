@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Sir, I noticed yesterday that my pricing analysis was presented under 'team's thinking' without any mention of my work. I put significant effort into the model and slides over multiple weekends. I'd appreciate if we can discuss giving credit where due in future reviews.\""
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Got it — this changes the tone completely. It's not just about credit; it's about feeling erased by someone you trusted. That stings more. The message should reflect that disappointment without sounding accusatory or ungrateful for his past support.\n\nHere's a sharper, professional version that balances both:\n\n---\n\n\"Sir, I need to be honest — yesterday's leadership review stung. You presented my pricing analysis as 'team's thinking,' and my name wasn't mentioned anywhere. I've always trusted you, and you've been a strong advocate for me in the past, which is why this felt especially disappointing. I'd like to understand what happened, because the work meant a lot to me, and I want us to be able to handle this kind of thing better going forward.\"\n\n---\n\nIt's direct, but it shows vulnerability and respect for the relationship. It also leaves the door open for him to explain (maybe he didn't intend to erase you, or maybe he'll realize the impact). If you want it even shorter, let me know."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get why that sounds satisfying — \"proof toh proof hai\" — but ruko zara, yeh woh emotional nuclear button hai jo daba ke pachtana padta hai.\n\nTumhari senior jo bol rahi hain, woh *technically* sahi hain, but *strategically* dangerous. Agar tum VP ko original file forward kar do, timestamps ke saath, boss ko CC — toh kya hoga?\n\n- Haan, credit mil jayega.\n- Lekin tumhara boss publicly embarrassed ho jayega. 54 saal ke, 20 saal company mein — uska reputation, his legacy, and his ego, all take a hit. In front of *his* boss.\n- Woh tumhe kabhi maaf nahi karega. Bhale hi woh smile kare, but trust khatam. Tumhari next rating? Tumhara next promotion? Woh door hote chale jayenge.\n- Aur VP bhi sochega — \"yeh toh apne hi boss ko nanga kar rahi hai.\" That's not a good look for anyone.\n\nTumne khud kaha — usne pehle tumhara support kiya hai, tumhari rating aayi hai, ideas defend kiye hain. Toh yeh ek *mistake* hai, pattern nahi. Isliye uska bhi haq hai ki tum use ek chance do — *pehle* use batao, *then* decide.\n\nMonday ke follow-up review se pehle, tum use ek baar private mein bula sakti ho. Coffee ke time, ya message. Kuch aisa:\n\n*\"Sir, I want to be honest with you. I noticed in the leadership review that my work was presented as 'team's thinking.' I know you've always supported me, which is why I'm coming to you directly. Can we find a way to set the record straight in Monday's review — maybe by mentioning my contribution specifically? I trust you, and I just want us to be on the same page.\"*\n\nAgar woh usme bhi tumhe ignore kare, ya dismiss kare — *then* tumhara next step file forward karna ho sakta hai. But tab bhi, alone nahi, balki pehle use ek warning: \"Sir, if this isn't addressed, I'll have to loop in senior leadership.\"\n\nProof is power — but kab use karna hai, woh smarter move hai. Ek baar use bolo. Dekho kya jawab aata hai."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sunn, pehle toh ek baat clear kar lo — *tu junior nahi hai isliye credit nahi maang sakti.* Junior hone ka matlab yeh nahi ki teri mehnat ka koi value nahi. Junior hone ka matlab hai ki tu *abhi* boundaries set karna seekh rahi hai — aur yeh best time hai. Teen saal baad nahi, jab habit ban chuki ho.\n\nJo tujhe lag raha hai — *\"shayad ladna hi nahi banta\"* aur *\"sab jala doon\"* — dono extremes hain, aur dono *pain* se aati hain. Ek side self-doubt hai, doosri side anger. Aur dono valid hain. Lekin decision dono mein se koi bhi nahi hona chahiye. Decision *middle ground* se aata hai.\n\n---\n\n**Monday review se pehle — ek simple plan:**\n\n1. **Aaj ya Sunday, usse private mein baat kar.** Direct, calm, trusting tone mein — jaise humne pehle likha tha. Use chance de. Dekh woh kya karta hai.\n\n2. **Agar woh acknowledge kare, correct kare, Monday ko mention kar de — kaam khatam.** Trust restore. Tu aage badh.\n\n3. **Agar woh dismiss kare ya gaslight kare — *tab* tu decision le.** Interview process start karna, ya file forward — but tab bhi cool head se.\n\n4. **Aur agar woh maan bhi jaye, lekin tujhe lagta hai ki yeh pattern hai, toh interview dena shuru kar de *side by side*.** No need to quit in anger, but no need to stay if trust is broken.\n\n---\n\nAur haan — *\"credit ke liye ladna nahi banta\"* yeh soch apne aap ko chhota kar rahi hai. Teri mehnat hai. Tera model hai. Tere teen weekend hain. Tu lad nahi rahi — tu apna stand le rahi hai. Aur woh professional growth ka part hai.\n\nMonday tak decide karna hai toh aaj ek kaam kar: **usko ek mauka de.** Fir dekh."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2291,
+  "completion_tokens": 2216
+ }
+}

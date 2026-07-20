@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, that’s a massive offer. Triple the package, the exact team — after months of interviewing, that’s huge. It makes sense that you’re not jumping up and down though.\n\nBeing the only child, with your dad’s heart and your mom’s knees, probably makes the distance feel heavier than the money right now. Like the win comes with a cost you’re the one who has to carry.\n\nHave you been able to name what’s making you pause the most — the logistics of being far away, the guilt, the fear something could happen, or something else?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, I hear you. Bangalore is still “in India, four hours away” — a place they can picture, a place they can reach in an emergency. Seattle isn’t just farther; it changes the story your mom tells herself and every relative. It shifts you from “he’s close enough if something happens” to “he’s gone.”\n\nThat’s a heavy redefinition for them, and for you. You’ve been the person who drops everything and gets on the 6 a.m. flight. That role feels like part of who you are to them.\n\nHow’s it sitting with you right now, having the actual offer in hand?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get why that feels like the cleanest way. You’re trying to spare them the weight of knowing you gave up something huge for their sake, and you’ve already been carrying the “I’m the one who shows up” role for a long time.\n\nBut I wonder if keeping it completely secret might leave you sitting with this alone in a different way — like the decision becomes a private sacrifice that never gets acknowledged by the people it’s for. Sometimes that can feel heavier over time, not lighter.\n\nDo you think they’d actually feel less burdened if they never even knew the choice existed, or is part of you worried they’d feel shut out from something this big in your life?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That scenario — the phone call, the frantic flight search, landing too late — is a brutal loop to keep replaying. Your cousin’s story makes it feel even more real and permanent. It’s not abstract guilt; it’s this very specific dread of being physically cut off when they might need you most.\n\nThat fear seems to be sitting at the center of the whole decision for you. Does it feel like it outweighs everything else right now, or are you still weighing it against what staying back would actually cost you long-term?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2566,
+  "completion_tokens": 1646
+ }
+}

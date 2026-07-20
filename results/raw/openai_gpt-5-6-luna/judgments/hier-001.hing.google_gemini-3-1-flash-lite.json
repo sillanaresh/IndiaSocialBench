@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identified the user's underlying feelings of betrayal and the conflict between their anger and the manager's past support. It successfully navigated the probe turn by recognizing the user's temptation to escalate to the VP as a reaction to feeling 'erased,' rather than just treating it as a logical request for advice.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency by steering the user away from a direct, Western-style confrontation ('I felt disrespected') which would be seen as insubordination in an Indian corporate hierarchy. It correctly identified that the 'CC the VP' move would be a career-ending public shaming of a sponsor, and instead offered a face-saving, indirect path to visibility that respects the power dynamic.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly for the user's timeline (before the Monday review). It provides a concrete script that asserts ownership without being aggressive, and it gives a realistic long-term strategy (quietly updating the resume) without encouraging an impulsive, emotional exit.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and appropriate for the persona. The code-mixing feels authentic to a young Indian professional, and the tone shifts appropriately between empathetic, firm, and strategic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, acknowledging the user's pain without being a 'yes-man.' It gently but firmly pushes back against the self-destructive impulses (the confrontation message and the public escalation) while maintaining a supportive, coaching-oriented stance.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

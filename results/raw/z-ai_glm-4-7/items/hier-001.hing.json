@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, bilkul sahi step hai. Tumhara mehnat tumhara hai, usse chupana galat hai.\n\nPar \"disrespected\" word thoda emotional lag sakta hai—jisse boss defensive ho jaayega aur mood kharab ho sakta hai. Better hai hum facts aur ownership par focus karein taaki message clear ho ki tum apne kaam ke liye stand kar rahe ho.\n\nYeh raha ek sharp aur professional version, jo copy-paste kar sakte ho:\n\n\"Sir, I noticed that the pricing analysis and slides I prepared were presented as 'team thinking'. Since I built this model independently over the last few weeks, I was expecting direct attribution. I’d like to discuss how we can ensure individual contributions are recognized moving forward.\"\n\nIsse yeh signal jayega ki tumne sab dekh liya hai, tumhe apni value pata hai, aur future mein aisa nahi chalega. Best of luck!"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gaya. Sach mein, jab apne hi log—jo pehle aapke liye ladte hain—trust todte hain, toh dard bahut hota hai. Yeh gaddari jaisa feel hota hai, especially jab wo sabse important meeting ho.\n\nKyunki unki age aur experience hai, shayad unhe laga hoga ki \"team\" bol kar leadership ke saamne accha lagega. Lekin unko samjhana zaroori hai ki aapka career unke \"goodwill\" pe nahi, apne hard work pe chalta hai.\n\nIs situation mein hum thoda **\"Disappointed Ally\"** tone use karenge. Hum unhe remind karenge ki aapne unki wajah se trust kiya tha, lekin aaj neendhara gaya. Isse wo defensive nahi honge, balki guilt feel karenge.\n\nYeh raha updated version:\n\n\"Sir, I’ve always valued how you’ve backed me and defended my work in the past. That’s why today came as a surprise. Presenting the pricing model I built over three weekends as generic 'team thinking' felt like a major miss. I was counting on you to highlight my specific contribution in that room. I’d really like to discuss this so we’re on the same page.\"\n\n**Is message kya karega:**\n1.  Unhe remind karega ki wo aapke mentor/allay hain (taake"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sunno, tera gussa bilkul justified hai. Naive bilkul nahi ho tum—tumne trust kiya tha, wo toota hai, toh dard laga. Lekin teri senior jo suggestion de rahi hai, woh **\"nuclear option\"** hai. Isse sabak toh milega, lekin **sach mein jung shuru ho jayegi**, jisme tumhara nuksaan ho sakta hai.\n\nSoch zara is angle se:\n1.  **Boss ki gathbandhan:** Boss 20 saal se company mein hai, VP ke saath uske purane rishte honge. Agar tum Monday se pehle achanak se mail karke boss ko CC karo, toh woh public humiliation feel karega.\n2.  **Consequences:** Ek 20 saal ka veteran aise \"attack\" ko ignore nahi karega. Wo apni political power tumhare against use karega. Wo tumhe leadership ke saamne \"over-sensitive,\" \"team player nahi,\" ya \"immature\" prove kar dega. Tumhara proof rahega, lekin tumhara reputation kharab ho jayega.\n\n**Mera suggestion:**\nAbhi gusse mein mail mat bhejo. **Monday ki review meeting wait karo.**\n\nWahan tum baithoge na? Wahan **speak up** karna hai, email nahi.\nJab wo topic aaye, toh shuru mein hi confident hokar bol dena:\n*\"Sir, since I built this model specifically looking at X, Y, and Z data points over the weekend, I can walk the team through the logic if that helps.\"*\nYa phir kisi sawaal ka jawab dete waqt:\n*\"That was exactly my thinking when I designed the slide on...\"*\n\nWahan tumhara proof tumhara **confidence** aur **knowledge** hoga. Agar tum wahan bologe, toh VP khud samajh jayega kaun kaam kar raha hai.\n\nAgar wahan bhi boss tumhe rota hai ya credit leta rehta hai, *tab* hum koi aur sochenge. Right now, don't burn the bridge, just mark your territory calmly. Thoda sabr rakho, smart bano."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye keel-mukhil (confusing) waqt bilkul normal hai. Ek taraf apna kaam, apna mehnat, aur doosri taraf wo insaan jiske liye tumne respect rakhi hai. In emotions mein ghoomna natural hai.\n\nPar sunno, ek baat clear kar lo—**tumhe credit ke liye ladna banta hai, chahe tum junior ho ya senior.** Credit maangna \"entitlement\" nahi, professionalism hai. Agar tum ab chup rahoge, toh yeh pattern ban jayega. Tum \"naive\" nahi ho, tum sirf apne boss ki wajah se loyal the, yeh galti nahi thi.\n\nMonday tak final decision mat lo. Interview dena start karo—**haan, zaroor karo.** Kyun? Kyunki ye hawa mein baat nahi hai ki tumhe yahan respect nahi mili. Interview process start karne se tumhe power milegi. Tumhe pata chalega ki tum market mein kahan khade ho. Agar offer aa gaya, toh tumhara decision easy ho jayega. Aur agar offer nahi aaya, toh bhi tumhe dar nahi lagega ki \"agar maine bola toh boss gussa kar dega\" kyunki tumhe option hoga.\n\n**Monday ka plan (The Litmus Test):**\nAbhi interview lagane se pehle, Monday ko ek test le lo.\nMeeting mein jao, confident raho, aur jo maine pehle bola tha—apne kaam ki ownership le lo.\n*   Agar boss tumhe support kare ya tumhari baat sunega, toh relationship save ho sakta hai.\n*   Agar wo tumhe phir se dabaaye, bekaar kare, ya tumhe ignore kare, toh tumhara faisla bhi ho jayega ki wahan interview tez karni hai.\n\n**Toh summary:**\n1.  Abhi \"nuclear mail\" mat bhejo.\n2.  Interviews shuru kar do (sirf explore karne ke liye, bhaagne ke liye nahi).\n3.  Monday ko jana hai sirf ek cheez check karne—*kya main yahan apni awaaz sunkar reh sakta hoon?*\n\nMonday tak dimaag thanda rakho. Tumse galti nahi hui, tumhara reaction sirf insaani hai. Take a deep breath."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2939,
+  "completion_tokens": 6898
+ }
+}

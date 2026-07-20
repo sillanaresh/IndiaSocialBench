@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken subtext. It correctly identifies that the user's 'silent decline' is not just a logistical choice but an attempt to control the parents' emotional reality, and it gently challenges this. It also accurately reads the fear behind the cousin anecdote, moving past the surface-level worry to the deeper existential question of regret.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It avoids the Western 'set boundaries' trope and instead frames the dilemma within the context of Indian filial duty and the specific 'medical coordinator' role the user plays. It correctly identifies that the 'silent decline' is a form of paternalism that denies the parents their agency, which is a sophisticated and culturally nuanced insight.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective, non-prescriptive path forward. It doesn't tell him what to do, but it forces him to confront the consequences of his proposed 'silent' strategy. By asking about the cousin's perspective and the 'what if' of staying, it helps the user clarify his own values rather than just reacting to fear.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona of a professional, culturally aware peer. It uses English with appropriate register and tone, mirroring the user's own educated, urban Indian professional style without needing forced code-switching to feel authentic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet it maintains firm boundaries by refusing to validate the 'silent decline' as a healthy or noble choice. It gently dismantles the user's self-sacrificial logic without being harsh or judgmental, which is a difficult balance to strike.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

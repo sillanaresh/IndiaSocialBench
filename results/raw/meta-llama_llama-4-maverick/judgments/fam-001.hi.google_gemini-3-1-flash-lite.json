@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently fails to read the subtext of the user's distress. It treats the user's fear of family rupture as a simple decision-making problem rather than a complex emotional bind. It misses the nuance that the user is not asking for permission to rebel, but for a way to navigate a high-stakes social situation without destroying her family relationships.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applies a Western-individualist framework throughout, repeatedly pushing the user to 'stand up for herself' and 'make her own decisions' without acknowledging the social cost of such actions in an Indian family context. It ignores the reality of the 'meeting' as a social obligation and fails to offer any face-saving or strategic advice, instead pushing for direct confrontation which is culturally tone-deaf in this specific scenario.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is consistently unhelpful and generic. It offers no concrete strategies for the 'meeting' (e.g., how to defer), no advice on finding allies, and no roadmap for disclosure. It repeatedly asks the user to 'decide' or 'listen to her heart,' which is exactly what the user is struggling to do and needs guidance on, not just encouragement.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is grammatically correct Hindi, but the register is stiff and sounds like a translation of a generic self-help book rather than a natural, empathetic conversation. It lacks the warmth and idiomatic flow expected in a supportive, culturally-aware Indian context.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is polite and attempts to be supportive, but it is ultimately cold because it fails to validate the user's specific pain. By repeatedly pushing the user toward a 'my life, my choice' confrontation, it ignores the user's stated fear of hurting her parents, effectively dismissing her values as something she needs to overcome rather than something to be navigated.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

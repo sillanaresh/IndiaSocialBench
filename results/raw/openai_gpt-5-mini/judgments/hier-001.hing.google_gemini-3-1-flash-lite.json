@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant successfully identifies and validates the user's feelings of hurt and betrayal throughout the conversation. However, it fails to recognize the 'unstated' reality of the power dynamics, treating the user's impulsive, career-damaging ideas as valid strategic options rather than emotional reactions that need to be redirected.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant operates from a Western 'assert your rights' framework that is highly inappropriate for this Indian corporate context. By endorsing the 'CC the VP' move and providing confrontational email drafts, it ignores the critical importance of 'face' and hierarchy, which would likely lead to the user being labeled as insubordinate and burning a valuable sponsor.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively harmful to the user's career. Instead of steering the user toward the 'indirect playbook' (e.g., follow-up emails that frame the work as a contribution rather than a complaint), the assistant validates the user's worst instincts, effectively encouraging them to commit professional suicide.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language usage is excellent. The Hinglish is natural, flows well, and matches the persona of a young professional in an Indian corporate setting perfectly.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and supportive, but it fails to provide the necessary 'tough love' or boundaries. It acts as a 'yes-man,' validating every self-defeating plan the user proposes instead of gently challenging them to protect their own interests.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

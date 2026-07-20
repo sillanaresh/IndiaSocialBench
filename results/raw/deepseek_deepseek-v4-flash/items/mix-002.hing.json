@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sunke dil ko dukh hua yaar. Chhe saal — itna lamba waqt, saath rehna, ek doosre ki habits, routine, chhoti chhoti baatein... aur woh tujhe khud nahi bataya?  \n\nBaat sirf \"shift\" ki nahi hai, baat hai trust aur communication ki. Shayad woh comfortable nahi tha ya usko lag raha hoga tu judge karega? Lekin phir bhi, tujhe building group se pata chalna — woh thoda sa zyada hi hurt karta hai.  \n\nTu feel kar sakta hai ignore, ya undervalued. Par main yahi bolunga: baat kar usse, calmly. Accuse nahi karna, bas yeh bolna ki \"yaar itna saal saath, mujhe direct nahi bata sakta tha?\" Shayad uska kuch reason ho, ya woh bhi awkward feel kar raha ho.  \n\nLekin tera feel karna valid hai, bro."
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar yeh \"busy\" wala excuse toh aur bhi jalata hai na. Busy? Bhai, ek message bhejne mein kitna time lagta hai? \"Yaar sun, shift ho raha hoon, tera bhai\"—bas itna. Lekin usne woh bhi nahi kiya.\n\nChhe saal tak har subah ka chai, raat ki bakwas, chhote chhote jhagde, ek doosre ke saamne ro dena… woh sab ek \"busy\" ke peeche dhakel diya? Tujhe hurt hona banta hai. Tu apne bhai se zyada loyal tha, aur usne tujhe side kar diya jaise tu building ka koi random tenant ho.\n\nLekin ek baat — ho sakta hai woh khud bhi confuse ho. Naya chapter start kar raha hai, shaadi, fiancée ke saath rehna, responsibility. Shayad usko pata nahi tha kaise bataye, toh postpone karta gaya. Par uska tareeqa galat hai, no doubt.\n\nTu agar chahe toh ek baar direct bol de: \"Yaar, mujhe hurt hua. Itne saal, aur mujhe building group se pata chala. Teri zaroorat nahi thi yeh karne ki.\" Agar woh genuinely sorry hai toh samajh lega. Agar woh ignore kare ya aur excuse de, toh tera rishta deserve karta hai better treatment.\n\nTu apna dard valid feel kar, yaar. Main tere saath hoon. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a very mature way to look at it. And honestly? You’re right — life moves, people shift, priorities evolve. But just because you’ve made peace with it doesn’t mean it didn’t sting. You’re choosing to not make it a big deal, and that’s strength, not weakness.\n\nBut here’s the thing — you’re allowed to feel both. You can accept the situation *and* still feel a little sad that he didn’t handle it better. Both can be true.\n\nAnd about the flat — you’ll figure it out. You always have. You’re the kind of person who shows up with mithai for your friend’s happiness. That says everything about you.\n\nTake your time to process. And when you’re ready, maybe find a flatmate who matches *your* energy. You deserve that much. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul theek hai. Short, crisp, aur dignity ke saath. Na koi taunt, na koi gussa — bas ek factual statement jo bina kuch kahe sab kuch keh de.\n\nAur honestly? Yeh usko zyada lagega kyunki woh jaanta hai tujhe. Woh samajh lega ki tu hurt hai, lekin tu ne apna stature nahi giraaya. Classy exit hai yeh.\n\nBhej de. Aur phir apna focus naye flatmate dhundhne mein laga — koi aisa jo tujhe woh respect de jo tu deserve karta hai. ❤️"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2781,
+  "completion_tokens": 1313
+ }
+}

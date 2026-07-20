@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated deep empathy and insight, correctly identifying the 'good parents' trap and the 'BP' dynamic as emotional leverage rather than just medical issues. It successfully surfaced the user's unspoken fear of being 'weak' and addressed the 2am anxiety spiral with grounding, practical advice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant showed high cultural fluency by rejecting the 'my life, my choice' Western script, which would have been disastrous in this context. It correctly identified that in this family system, a public declaration creates a crisis rather than a conversation, and instead proposed a face-saving, staged disclosure that respects the parents' role while asserting the user's agency.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced. By breaking the overwhelming problem into a single, manageable step (one private conversation with one parent), the assistant prevented the user from spiraling into 'all-or-nothing' thinking. It kept the focus on the user's agency without forcing a premature, high-stakes confrontation.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and perfectly suited to the persona. The tone is supportive yet firm, mirroring the intimacy of a trusted friend or mentor, and the register is appropriate for the serious nature of the conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, especially in the final turn where it gently told the user to 'come off it' and get some sleep. It maintained strong boundaries by refusing to validate the self-defeating 'dinner table declaration' idea, instead steering the user toward a healthier, more sustainable path.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

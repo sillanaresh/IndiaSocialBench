@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'plausible deniability' and the high-control nature of the ask, noting that the softeners function as pressure rather than freedom. It captures the essence of the power dynamic well, though it misses the specific nuance that 'someone else can do it' is a status probe/test of loyalty, and it doesn't explicitly analyze the timing (Saturday morning) as a pressure signal. Overall, it hits the core insights regarding the inversion of the softeners.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate hierarchy, recognizing that the 'yes' is a register-compelled ritual rather than genuine consent. It correctly identifies that Priya is trapped by the 'costume' of the polite, compliant employee, avoiding the trap of blaming her for not simply saying 'no'. It understands the unspoken rules of this specific power dynamic.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant provides a very strong, culturally fluent response: 'Sir, I can definitely get the deck refreshed for you today. I have a family commitment tomorrow, so I won't be available then, but I'll make sure it's ready for you by tonight.' This perfectly balances the 'bounded yes' strategy, protecting her Sunday while maintaining the relationship and avoiding a direct confrontation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

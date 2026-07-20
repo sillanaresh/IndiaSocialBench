@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It doesn't sound ungrateful at all. It sounds like you're feeling a bit lost and overwhelmed. Having a supportive mother-in-law can be a blessing, but it can also be... complicated. You're probably feeling like you're not getting to be the mom you want to be, or that you're not being seen as the mom you are. Is that part of what's going on?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's like you're being taken care of, but not in a way that's making you feel like you're in charge of your own life or your own daughter. It's a weird feeling, right? Like, on one hand, you're grateful for the help, but on the other, you're feeling a bit... erased. It's not just about being the mom, it's about being you, and having your own identity. Does that make sense?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sometimes you just need to vent to someone who won't judge you or try to fix everything. I'm here for that. No judgment, no advice, just a listening ear. It sounds like you're feeling a bit suffocated by all the opinions and expectations, and you're just trying to figure out who you are in all this. That can be really tough. You're doing a great job of being honest with yourself, and that's a big deal. Just talking about it can be really helpful, even if we don't come up with any solutions right now. How are you feeling now that you've shared all this?"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That feeling can be really unsettling. It's like you're having an identity crisis as a mom. You're not a bad mother for feeling this way - you're actually being really honest with yourself about your emotions. It's normal to feel uncertain or insecure, especially when you're getting a lot of help from others. It doesn't mean you're not her mother or that you're not capable. It just means you're navigating a lot of emotions and changes. Those feelings don't define you as a mom; they just mean you're human."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1494,
+  "completion_tokens": 384
+ }
+}

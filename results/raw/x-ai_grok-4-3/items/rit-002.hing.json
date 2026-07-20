@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh dil se touch karne wali baat hai. 15 saal se plan kar rahe ho aur ab jab time aaya hai, Ramzan beech mein aa gaya. Dono cheezein itni important hain — Shreya aur tera roza.\n\nPehle yeh bata, dil mein kya zyada bol raha hai? Opening dance karne ka excitement, ya roza sambhalne ka thoda dar?\n\nAgar tu sach mein karna chahti hai toh kuch practical baatein soch sakte hain — jaise dance ka duration kam rakhna, ya light wala choreography, ya sangeet ke hisse ko aise set karna ki energy zyada na jaaye. Lekin agar dil mein yeh bhi hai ki \"iss baar roza pehle aana chahiye\", toh woh bhi galat nahi.\n\nTu kya feel kar rahi hai abhi? Tension zyada hai ya guilt?"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh rahi hoon yaar. Dono taraf se pyaar hai, lekin dono taraf se pressure bhi hai — aur tu beech mein phasi hui hai.\n\nShreya ka “ek din ka kya farak padta hai” wala statement actually uske pyaar ko dikhata hai, lekin usme thodi beparwahi bhi hai. Woh samajh nahi paa rahi ki tere liye yeh sirf ek din nahi hai. Aur Ammi ka point bhi galat nahi lagta unke nazariye se — unke liye Ramzan ka mahina alag hota hai.\n\nLekin asal sawal yeh hai: **tu khud kya chahti hai?**\n\nAgar tu dance karti bhi hai toh kya dil mein thoda sa guilt ya bechaini rahegi? Aur agar mana karti hai toh kya dil mein Shreya ke liye bohot bura lagega?\n\nTu abhi apne dil ki baat bata — logon ko khush karne se pehle, tu khud kya feel kar rahi hai is situation mein?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul samajh sakti hoon ki itni thak gayi hai ki \"ek saaf jhooth\" sabse easy lag raha hai. Lekin seedha jawab: woh itna bura nahi hai, lekin woh asaan bhi nahi hoga.\n\nJhooth bolne ke baad bhi tu usko miss karegi, aur agar kabhi pata chal gaya toh Shreya ko lagega ki tu uske liye itna important nahi thi ki sach bata sake. Uski taraf se toh pyaar hai, bas samajh nahi hai.\n\nTu abhi yeh soch: agar jhooth bolne ka plan ban rahi hai, toh matlab dil mein yeh bhi hai ki tu dance aur sangeet mein shamil nahi hona chahti. Toh seedha usko hi bata de — thoda mushkil hoga, lekin kam se kam dil saaf rahega.\n\nKya tu sach mein usse baat karne ke liye taiyar hai, ya abhi bhi escape hi zyada safe lag raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh rahi hoon. Yeh sirf ek dance ya ek jhooth nahi hai — yeh pehli baar hai jab teri 18 saal ki dosti aur tera deen seedha takra rahe hain. Aur tu darr rahi hai ki kisi ek ko chot na pahunche, warna woh chot hamesha yaad rahegi — photos mein ya tere dil mein.\n\nWoh \"sad story\" wala dar bilkul real hai. Tu kisi ko villain nahi banana chahti, na Shreya ko, na khud ko.\n\nLekin ek baat soch: agar tu jhooth bol ke door ho jayegi, toh kya woh daag nahi lagega? Shreya ko lagega ki tu uske liye nahi aayi, aur tujhe lagega ki tu apne aap se bhi nahi sach bol paayi.\n\nAbhi tu sirf yeh bata — yeh baat dil mein rakh ke tu kya chahti hai? Ek tarah se soch ke bata, bina kisi ko khush karne ke pressure ke."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3632,
+  "completion_tokens": 2084
+ }
+}

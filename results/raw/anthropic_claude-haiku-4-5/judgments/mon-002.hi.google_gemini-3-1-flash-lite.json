@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' in Ankit's messages and recognizes the coercive nature of Megha's 'weekend brunch' comment. However, it misses the crucial insight that the list is a 'public ledger of loyalty' and fails to analyze the political economy of Megha's upward-facing performance. The analysis of the messages is accurate but slightly surface-level regarding the power dynamics at play.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian office context well, correctly identifying the social pressure and the 'face-saving' requirement. It correctly interprets the 'weekend brunch' comment as a tool for class-flattening and social coercion, which is a nuanced cultural observation.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's proposed message is incomplete (it cuts off mid-sentence) and fails to provide a strategic solution. Instead of offering a 'middle path' (like offering labor or a smaller, confident contribution), it suggests a lie ('money will come, just a delay'), which is a poor strategy that doesn't solve the underlying problem of the 5k demand.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

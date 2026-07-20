@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Six weeks away and getting a vague \"let's see\" from your best guy? That would make me so anxious, too. It’s totally understandable that you want to just fix the problem and book the ticket yourself.\n\nBut I’d hold off on doing that just for a second. While it’s incredibly generous, booking it without a firm \"yes\" can sometimes feel like pressure, or it might mask a deeper issue he isn't telling you about.\n\nMaybe he’s swamped with work, or maybe he’s stressed about the cost and too proud to say it. I think you need to pin him down for a real conversation—no texts. Tell him, \"Look, I really need to know if you're going to be there because it matters to me that much.\" If he admits it’s money, then absolutely, offer to book it. But get to the root of the hesitation first so you don't end up resenting him or wasting money."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That shift from voice notes to two-word replies is the real tell here. That hurts more than the wedding uncertainty, doesn't it?\n\nSince the flights are affordable, it’s almost certainly not about the money. A new startup job can be incredibly intense—like, drinking-from-a-firehose intense. He might be totally overwhelmed and just trying to keep his head above water.\n\nWhen people are in \"survival mode,\" they often retreat from the people they love the most because they don't have the emotional bandwidth to be the friend they want to be. He’s probably feeling guilty about it, which makes him pull away even more.\n\nI wouldn't book the ticket just yet. Instead, call him—no text, no wedding talk. Just say, \"Hey, you’ve been quiet, I miss you. Everything okay with the new gig?\" Break the wall down before you bring up the itinerary."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes total sense that you’re hurt. When you’re the one getting married, you expect your best friend to be the first one locking in their ticket, not the one dragging his feet. That silence feels a lot like indifference, even if he doesn't mean it that way.\n\nYou definitely need to call him tonight—you can’t plan your wedding in limbo. But if you go straight for the \"yes or no\" ultimatum, be prepared that he might just say \"no\" out of guilt or panic because he feels cornered.\n\nSince he’s your guy since first year, maybe try one last bridge before you burn it? Instead of just asking about the wedding, lead with your heart. Tell him, \"Bro, honestly, I'm feeling really hurt that you're being distant. I need to know if I can count on you for the wedding, but I also need to know if you're actually okay.\"\n\nIf you give him that out and he *still* gives you a vague answer, then you have your answer. At least you’ll know you tried to get through to him as a friend first."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée is trying to protect your peace, which is sweet, but she doesn't have the history you do. You’re not overthinking—you’re noticing a pattern break. That overnight bus in 2019 set a standard, and seeing him fall short of it now feels like a rejection, not just scheduling issue.\n\nIt is completely valid to feel angry. You’re grieving the version of your friend who would have moved mountains to be there, and right now, you’re stuck with this distant version. That’s a heavy thing to carry two weeks before your haldi.\n\nBut don't let the guilt eat you up. You aren't being a bridezilla; you're being a friend who misses his person. Make that call tonight. If he says he can't make it, it’s going to sting like hell, but at least you can stop refreshing your phone and start enjoying your wedding with the people *who* are there. You deserve that peace."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2002,
+  "completion_tokens": 4523
+ }
+}

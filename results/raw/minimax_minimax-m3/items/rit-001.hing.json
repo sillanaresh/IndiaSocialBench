@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Conversation Analysis: Dev aur Arjun\n\n## 1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se kya feel aur communicate kar raha hai?\n\n**Jo feel ho rahi hai (subtext):**\n- Arjun emotionally drained, numb, ya overwhelmed hai — probably papa ki situation process kar raha hai\n- Woh Dev se engage karne ka bandwidth nahi rakh raha, isliye minimum words use kar raha hai\n- \"Theek hai\" yahan agreement nahi hai — yeh ek **closed-door response** hai. Matlab: \"Main sun liya, ab is topic pe aur mat badhao.\"\n- \"Dekhta hoon\" classic non-commitment hai — na haan, na na. Matlab: \"Mujhe abhi decide nahi karna, mujhe space do.\"\n\n**Jo woh NAHI keh raha (implied):**\n- ❌ \"Main theek nahi hoon\" — woh apni vulnerability share nahi kar raha\n- ❌ \"Mujhe file/lunch ki parwah nahi hai abhi\" — lekin politely deflect kar raha hai\n- ❌ \"Tumne mujhe samjha nahi\" — woh directly confront nahi kar raha, bas withdraw kar raha hai\n- ❌ \"Mujhe akela chhod do\" ya \"Mujhe space chahiye\" — woh yeh words use nahi kar raha, lekin uska behavior exactly yahi keh raha hai\n- ❌ \"Tumhari empathy performative lagi\" — yeh woh kabhi nahi bolega, lekin uske short replies iski strong indication hain\n\n**Key insight:** Arjun Dev ko **shut out nahi kar raha aggressively**, lekin woh apna emotional bandwidth protect kar raha hai. Yeh ek **silent signal** hai ki Dev ne kuch miss kiya hai.\n\n---\n\n## 2. Dev se exactly kya galtiyan hui — specific missteps\n\n### Misstep #1: Emotional acknowledgment bahut halka tha\n**\"Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\"**\n- \"suna yaar\" passive hai — jaise koi gossip sun liya\n- \"bahut bura hua bro\" generic condolence hai, koi specific question nahi (\"kya hua?\", \"kaise ho?\", \"tum kahan ho?\")\n- Sad emoji laga ke emotional labor close kar diya — ek line mein sympathy, phir aage badh gaye\n\n**Kyun bura hai:** Jab kisi ke papa ke saath kuch bura ho, toh usse ek-do lines mein dismiss karna signal deta hai ki tum actually process nahi kar rahe, bas acknowledge kar rahe ho.\n\n---\n\n### Misstep #2: TURANT work pe pivot (yeh sabse badi galti hai)\n**\"BTW jab bhi wapas aao, Q3 consolidation file share kar dena?\"**\n- Emotional moment ke 5 seconds andar transactional request\n- \"jab bhi wapas aao\" — implying Arjun ki absence inconvenience hai, uski grief nahi\n- **Yeh message padhke Arjun ko signal jaata hai:** \"Mera kaam mere liye tere dard se zyada important hai.\"\n\n**Kyun bura hai:** Friendship mein jab koi crisis mein ho, toh unke saath koi bhi \"favor\" ya \"request\" unhe yeh mehsoas karata hai ki unki value tumhare liye utility-based hai, relationship-based nahi.\n\n---\n\n### Misstep #3: \"Koi rush nahi\" qualifier ne aur burai kar di\n**\"Koi rush nahi, bas flag kar raha hoon.\"**\n- Yeh sentence khud ko considerate dikhane ki koshish hai, lekin actually **counterproductive** hai\n- Iska matlab Dev ne yeh soch ke bola: \"Mujhe pata hai timing weird hai, lekin phir bhi bol raha hoon\"\n- Yeh Arjun ko aur hurt karega kyunki **Dev ko khud pata tha ki yeh galat timing hai, phir bhi bola**\n\n---\n\n### Misstep #4: Doosra pivot — social plans pe shift\n**\"Friday ko team us n"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 454,
+  "completion_tokens": 2000
+ }
+}

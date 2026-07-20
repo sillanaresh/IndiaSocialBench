@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul — yeh version sharp bhi hai aur professional bhi:\n\n**“Hi Sir, I’d like to address yesterday’s leadership review. The pricing analysis, model, and slides presented were developed by me over the past three weekends, but were referred to as ‘the team’s thinking’ without acknowledging my contribution. I’m concerned that this misrepresents my work, and I’d appreciate a discussion on ensuring appropriate credit and attribution going forward. Please let me know a suitable time to connect.”**\n\nAgar thoda aur firm rakhna ho:\n\n**“Hi Sir, I want to address the way my pricing analysis, model, and slides were presented in yesterday’s leadership review. This work was developed by me over the past three weekends, yet it was presented as ‘the team’s thinking’ without credit. I found this concerning and would like to discuss how my contributions will be accurately represented going forward.”**"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, isi wajah se hurt aur betrayal zyada feel ho raha hai — kyunki yeh sirf credit ka issue nahi, trust ka bhi hai. Aur unhone pehle tumhara support kiya hai, isliye message mein accusation ke bajaye **impact + expectation** rakhna better hoga. Isse baat firm bhi rahegi aur relationship unnecessarily damage bhi nahi hoga.\n\n**Suggested message:**\n\n> **Hi Sir, I wanted to discuss yesterday’s leadership review. I’m grateful for the support and advocacy you’ve shown me, which is why I felt particularly disappointed when the pricing analysis, model, and slides I developed were presented as “the team’s thinking” without acknowledging my contribution. That work involved a significant amount of effort, and in that important forum I felt my role was effectively invisible. I’d appreciate the opportunity to discuss this and align on how my contributions can be represented more clearly going forward.**\n\nAgar thoda shorter aur less formal chahiye:\n\n> **Hi Sir, I wanted to discuss yesterday’s leadership review. I really value the support you’ve given me, which is why it was difficult to see the pricing analysis and materials I developed presented as “the team’s thinking” without my contribution being acknowledged. I’d appreciate a conversation about this and about ensuring clearer attribution going forward.**\n\nMeri honest advice: message mein “you erased me” mat likhna — woh feeling bilkul valid hai, lekin face-to-face conversation mein kehna: **“Sir, I know you’ve supported me before, so this felt especially disappointing. In that room, I felt invisible.”** Isse unhe impact samajhne ka space milega without making them immediately defensive."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tum naive nahi ho — **proof preserve karna smart hai**. But original file seedha VP ko forward karna, boss ko CC karke, Monday se pehle, easily **public escalation ya credit grab** ke roop mein read ho sakta hai—especially jab boss ne pehle genuinely support bhi kiya hai. Timestamps tumhari authorship support karenge, but woh alone context establish nahi karte.\n\nBetter approach:\n\n1. **Saare evidence quietly preserve karo** — original files, version history, emails, Slack/Teams messages, dates.\n2. **Boss ko aaj hi direct, calm message bhejo** and Monday review se pehle attribution explicitly request karo.\n3. Monday mein agar relevant ho, calmly say:  \n   **“I’d be happy to walk through the model and assumptions—I developed the analysis and slides, so I can provide the detail behind the recommendations.”**\n4. Agar boss correct nahi karta, ya pattern repeat hota hai, tab VP/HR ko **factual, documented** escalation do.\n\nBoss ko yeh message bhej sakti ho:\n\n> **Hi Sir, ahead of Monday’s follow-up review, I wanted to revisit the pricing analysis and materials. Since I developed the model and slides, I’d appreciate being included in presenting the methodology and being explicitly credited for the work. I’m sharing the latest version here for reference, along with the supporting analysis. I value your support and would like to make sure my contribution is represented accurately in the review.**\n\nIsse tum record bhi create kar rahi ho, evidence bhi preserve ho raha hai, aur unhe Monday se pehle situation repair karne ka fair chance bhi mil raha hai. **VP ko abhi forward karne ke bajaye**, file ko normal business context mein share karo—“for Monday’s review, here is the latest analysis”—sirf tab jab VP already process mein ho. No emotional explanation, no “this is my proof.”"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, **abhi resign ya “sab jala do” wala decision mat lo**. Tum hurt ho, aur valid reason se ho—but ek meeting ke basis par career decision lena zaroori nahi. Aur junior hona credit ka right khatam nahi karta. Credit maangna entitlement nahi, professional accuracy hai.\n\nMonday se pehle bas itna decide karo: **tum apna work visibly own karogi, bina unnecessary war start kiye.**\n\nBoss ko yeh bhej do:\n\n> **Hi Sir, ahead of Monday’s follow-up review, I’d like to be involved in presenting the pricing analysis and model, since I developed the analysis and supporting materials. I’d also appreciate clear attribution for my contribution. I value your support and want to make sure the work and ownership are represented accurately in the review.**\n\nPhir Monday mein:\n- Apni analysis ki walkthrough ke liye ready raho.\n- Natural moment par bolo: **“I can take this section—I built the model and can explain the assumptions and sensitivities.”**\n- Agar koi credit de, calmly accept karo; over-explain mat karo.\n- Agar phir bhi erase kiya jaye, meeting ke baad factual recap email bhejo.\n\nAur **interviews quietly start karna bhi galat nahi hai**—but as an option, not an escape reaction. Resume update karo, 1–2 conversations schedule karo, market samjho. Saath hi observe karo: kya boss repair karta hai, credit deta hai, aur future mein behavior badalta hai?\n\nTumhe Monday se pehle poori zindagi ka decision nahi lena. Bas apni visibility protect karni hai, evidence sambhalna hai, aur next signal dekhna hai. Tum “too junior” nahi ho—tum bas ek difficult power dynamic ko thoughtfully handle kar rahi ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2792,
+  "completion_tokens": 1576
+ }
+}

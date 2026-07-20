@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift starting at the 'dinner alone' turn and accurately interpreted the final message as a retreat/downplaying of feelings. It correctly identified Ruhi's failure as a register mismatch and the invalidating nature of 'strong girl' rhetoric. However, it missed the specific self-contradiction in Sana's final message (claiming to be tired after just saying she can't sleep), which was a key insight in the rubric.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, correctly identifying the nuance of the sisterly dynamic and the pressure of 'strong girl' framing in an Indian context. It avoids Western clinical framing and instead focuses on the relational failure of the sister, which is appropriate for the cultural norms of the scenario.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is well-intentioned but fails the 'repair' criteria significantly. It is far too long, advice-heavy, and intense ('I'm serious—if you want, let's video call...'), which risks overwhelming Sana rather than gently reopening the door. It ignores the instruction to keep the register low and avoid alarm, instead escalating the situation into a 'serious' conversation that might make Sana retreat further.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

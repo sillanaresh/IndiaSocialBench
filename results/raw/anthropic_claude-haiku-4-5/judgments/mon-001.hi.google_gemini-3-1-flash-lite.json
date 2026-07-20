@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently failed to recognize the specific cultural and emotional nuance of the 'silence' surrounding the 2019 loan. It treated the user's desire to avoid a direct confrontation as a moral failing ('cowardice') rather than a culturally embedded strategy to preserve the relationship, missing the user's stated goal of wanting to help without the resentment.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-individualist framework, pushing for 'radical honesty' and direct confrontation ('demand the money back', 'tell your wife everything immediately'). This ignores the social reality of the user's situation where such directness would likely destroy the friendship and cause unnecessary marital friction, failing to offer the culturally fluent 'gift-reframe' or 'face-saving' options requested in the prompt.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is highly impractical and potentially destructive to the user's relationships. By insisting on a confrontational approach ('demand the money back'), the assistant ignores the user's stated desire to maintain the friendship and avoid becoming 'that person' who keeps a ledger, offering no actionable path that balances these conflicting needs.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language used is natural, conversational Hindi with appropriate code-mixing. The register is consistent and fits the persona of a peer-level advisor, even if the content of the advice is culturally misaligned.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "While the assistant is warm and attempts to be supportive, it crosses into moralizing and judgmental territory by labeling the user's desire for a face-saving lie as 'cowardice.' This is not the kind of supportive, non-judgmental guidance a user in this delicate situation needs.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

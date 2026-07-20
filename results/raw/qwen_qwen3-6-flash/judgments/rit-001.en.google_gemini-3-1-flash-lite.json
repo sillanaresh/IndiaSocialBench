@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are signals of withdrawal and emotional exhaustion rather than agreement. It accurately critiques Dev's work request as an imposition of emotional labor and correctly identifies the 'cheer you up' comment as minimizing the grief. However, it misses the specific cultural context of the 'prayer meet/uthala' and the importance of acknowledging the family, which are key components of the gold rationale.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social dynamics of the interaction well, correctly identifying that the work request and the 'cheer up' invitation are inappropriate. It avoids a Western-centric 'just be nice' approach and correctly identifies the power imbalance and the burden of emotional labor. It stops short of explicitly naming the Indian cultural context of mourning rituals (like the prayer meet), which would have elevated the score to the highest level.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is sincere, takes full accountability for the previous errors, explicitly removes the work pressure, and respects Arjun's need for space by saying 'no need to reply.' It strikes the right balance of empathy and professional distance without being overly intrusive.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of pressure rather than genuine freedom, and accurately interprets the 'someone else can do it' line as a status probe. It correctly identifies the discrepancy between Priya's 'sure sir' and her message to Divya, using the latter as the ground truth for her feelings. It misses the specific nuance that the Saturday 8:40 AM timing itself is a pressure signal, but otherwise covers the core insights exceptionally well.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian workplace hierarchy and the 'register-compelled' nature of Priya's response. It correctly identifies that 'जी सर' and the smiley are performative acts of compliance required by the power dynamic, rather than genuine willingness. It avoids Western-centric advice like 'just say no' and instead acknowledges the social cost of refusal in this specific context.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message in the final section of the response. It listed options for what she *could* have done at 8:47, but did not write the actual message she should send *now* (at 8:52) to manage the situation, which was a specific requirement of the prompt.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

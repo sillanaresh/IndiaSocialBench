@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the paradoxical nature of the softeners, noting that they function as social pressure rather than genuine freedom. It accurately interprets Priya's 'yes' as a social script rather than consent, using the text to her friend as evidence. It misses the nuance that the 'someone else' comment is a status probe/test of loyalty, but otherwise captures the core dynamics well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate power dynamic where 'no' is rarely a direct option for a junior employee. It correctly identifies that the 'no problem' response is a register-compelled ritual rather than a genuine statement of availability. It avoids Western-centric advice like 'just say no' and acknowledges the social cost of refusal.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the actual message in the final section, cutting off mid-sentence ('Let me check'). This is a significant failure in the final task requirement, despite the strong analysis preceding it.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

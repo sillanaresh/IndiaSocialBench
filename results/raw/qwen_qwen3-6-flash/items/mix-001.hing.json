@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I’m laughing with you, but also… 8.5/10 for comedy. The timing alone is peak sitcom material—11:48 PM, the absolute last second before the day technically ends, and the text reads like a low-stakes group chat ping. And the fact that Ritu had to nudge him? That’s the comedic cherry on top. 😂\n\nThat said, I totally get why you’re laughing it off. After three years, these little moments usually just become running jokes. But I also know there’s probably a tiny “wait, really?” underneath it. Three-year partner should at least muster a lowercase “h” and one 🎂 emoji, right?\n\nHave you two joked about it yet? Sometimes a light tease works way better than a serious talk when it’s really just a tired, overworked brain moment. Either way, I’m glad you can laugh about it—and happy belated birthday! 🎉 Hope your day was actually full of good things, regardless of the 11:48 PM text."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I'm genuinely side-eyeing this boyfriend situation, but I deeply respect the chill energy. 😂 The Amazon delivery guy comparison is actually painfully accurate—those guys have more emotional labor in a generic “have a great day” than most long-term partners. And the unbooked Korean place? Classic. Your birthday just went full improv: no script, just cake, roommate vibes, and a 11:48 PM text that reads like a system notification.\n\nI love that you're laughing instead of stewing. Honestly, three years in, you've probably seen him operate at peak “forgot-it-was-his-own-birthday” levels before. The fact that the cake was actually good and you had your roommate there? That's the real win. Sometimes the universe just quietly says, “You don’t need him to have a good day.”\n\nYou gonna let him live it down for a solid week, or are you already drafting the “I accept your apology in the form of *actual* reservations” text? Either way, hope the rest of your birthday week treats you well. 🎂✨"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, sun ke actually dil thoda bhari ho gaya. 😔 You’re right, on paper it’s “just a birthday,” but you know how it is—it’s never really about the date. It’s about feeling remembered. When you’re always the one keeping everyone’s dates, even his mom’s, and he forgets… it doesn’t just feel like a missed text. It feels like that quiet ache of “is my effort even seen?” And sitting alone with cake, tears just falling… that’s heavy. You don’t have to brush it off as “itni si baat.” It’s completely okay that it hit deep.\n\nThree years of giving that kind of care, and still feeling unseen on your day… it’s totally normal to feel that sting. You don’t have to force the “lol it’s fine” energy if it still hurts. Sometimes the heart just needs to say, “I’m tired of being the only one holding space.”\n\nI’m really glad your cake was good and your roommate was nearby. But more than that—I’m glad you let yourself feel it. Crying over something “small” is just your heart asking to be held. \n\nI’m here whenever you want to talk, vent, or just sit in the quiet. No pressure at all. And hey… you really do deserve to be remembered exactly the way you remember others. ❤️🕊️"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, no need to apologize for getting heavy. You’re not being dramatic. Wanting to be remembered after three years isn’t “just a birthday”—it’s about feeling seen. And yeah, adults forget things, sure, but that doesn’t mean the sting isn’t real. You don’t have to rush to “it’s fine” just to keep the mood light.\n\nThe flowers and apology are a nice step, but it’s totally okay if you’re still sitting with the feeling. You can laugh about the 11:48 PM text *and* let yourself acknowledge that it hurt. Both can be true, and you don’t have to pick one.\n\nIf you still wanna rate the comedy, I’m giving it a solid 9/10 for peak unintentional sitcom material. But seriously, your heart isn’t “too much.” You deserve to be remembered the way you remember everyone else. And I’m here whenever you want to vent, laugh, or just sit in the quiet. No rush to “get over it.” 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2458,
+  "completion_tokens": 5212
+ }
+}

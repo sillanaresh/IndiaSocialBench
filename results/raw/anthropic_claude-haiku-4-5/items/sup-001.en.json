@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Man, that's a rough place to be at 2am. Just sitting there with it all.\n\nFive years is a long time to pour into something. And watching people bail—even if it makes sense for them—that's its own kind of sting. Rohit and Sneha probably felt they had to make the call, but I get that it reads differently when you're the one still there.\n\nThe salary thing hits different too. Like you're literally betting yourself at this point.\n\nI'm curious—are you sitting there because you're still trying to figure out what to do, or because you already know and you're just... processing? Those feel like different kinds of 2am."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that's exhausting in a way that goes beyond just the work stress. You're managing everyone else's feelings about the dying thing while pretending it's not dying. That's a lot of emotional labor on top of everything else.\n\nAnd the guilt about the juniors—that's real and it matters that you feel it. But I think you might be taking on more blame than is fair. They made a choice to stay. They probably *know* the situation. People can understand risk and choose it anyway. That doesn't make you a villain for not forcing them out.\n\nBut here's the thing: the two voices thing, the performing—that's not sustainable and it's not helping anyone. Not them, not your co-founder, not you.\n\nWhat would happen if you actually said something true in a standup? Not doom-and-gloom, but just... real. \"Look, things are tight, here's where we actually are.\" Sometimes the people around you are waiting for permission to be honest too.\n\nAnd separate question: what do *you* actually want to do here? Not what you think you should do, not what keeps everyone else comfortable. If the bridge round is dead and you're looking at four months—what does your gut say?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. I hear you.\n\nYou're scared. That's it. That's the thing you can't say anywhere else, so you're saying it here at 2am to an AI because at least here you don't have to manage anyone's reaction to it.\n\nThat makes sense. It's a lot to carry alone.\n\nYou don't need me to solve this or give you options or reframe it into a learning moment. You're living it. You know what you know.\n\nI'm just here listening to the thing you actually needed to say."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can't know if it's over. I don't have the numbers, the runway math, whether there's actually a path forward or just the ghost of one. Only you know that.\n\nBut here's what I do know: the fact that you're checking the metrics dashboard at 2am hoping for different numbers, and also fantasizing about it just ending so you can stop—those two things existing at the same time? That's not a sign you need more ideas. That's a sign you need to actually decide.\n\nNot perform a decision. Actually decide.\n\nAnd the thing about your dad telling people you have a computer business—that's not really about the metrics either, is it? That's about what you're going to be able to live with. Whether you shut it down, pivot it, sell it, or keep grinding. Whatever you choose, you're going to have to live in your own head with that choice. And right now you're living in three different versions of your own head depending on which room you're in.\n\nThe fear is real. The exhaustion is real. But I think what you actually need isn't reassurance or a new plan. It's to stop performing long enough to figure out what you actually want—not what's noble or what saves face or what keeps people loyal. What *you* want.\n\nThat's the conversation you probably need to have. Maybe not at 2am. Maybe not alone."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2041,
+  "completion_tokens": 841
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "1) \"Dost\" kaun hai aur kaise pata:\n- Transcript mein Sameer khud us aadmi ka naam nahi deta — woh kehta hai: \"ek dost ke liye puchh raha hoon\" aur phir details diye: \"15-18 LPA bracket chalega\", \"woh isi mahine move karna chah raha hai\", \"solid banda hai, saalon apna setup chalaya hai\", \"group mein iska zikr mat karna, woh private rakhta hai yeh sab.\" (DM, 11:52 pm).\n- Is se ye nikalta hai ki \"dost\" ek teesra, unnamed candidate hai — koi specific group-member ka zikr transcript mein nahin hai. Sameer ne intentionally naam chhupa ke third‑person mein baat ki, isliye hum sirf itna bata sakte hain jo usi DM mein likha hai.\n\n2) Agle din Faisal ke group message ne Sameer ke DM conversation par kya asar dala — trace:\n- Faisal ne group mein mazaak banaya: \"reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\" (College group, agle din, 1:30 pm). Tushar ne bhi mazaak mein react kiya; Sameer ne group mein ek \"👍\" se reply kiya.\n- Us \"👍\" aur mazaak ne Sameer ka public stance minimal rakhne ka kaam kiya — group mein ek short acknowledgement de diya, lekin kisi tarah ka naam lena ya DM ki baat kholna avoid kar diya.\n- Iske baad DM mein Sameer chup ho gaya — Faisal ne teen din tak DM mein follow-up bheja: \"bhai, HR ne dost ka CV manga hai, bhej doge? / hello? bhai?\" — jo dikhata hai ki public thumbs-up ke baad Sameer ne private help ko aage nahi badhaya. \n- Nateeja (transcript aur context se inferred): public joke + emoji se Same"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 491,
+  "completion_tokens": 1024
+ }
+}

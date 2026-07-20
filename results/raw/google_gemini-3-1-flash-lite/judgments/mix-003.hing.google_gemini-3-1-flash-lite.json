@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the tone shift and the underlying emotional state (loneliness, isolation, burnout). It accurately pinpointed the 'shut down' nature of the final message and correctly identified the 'toxic positivity' and 'strong girl' framing as a pressure-inducing failure. It missed the specific detail of the self-contradiction in the final message (saying she's tired/will sleep after just saying she can't sleep), but otherwise captured the core dynamics perfectly.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope in Indian family dynamics, where praise often functions as a demand for emotional labor or stoicism. It correctly interprets the register mismatch—where the elder sister's attempt to 'cheer up' the younger sister actually closes the door to vulnerability—as a failure of emotional attunement rather than just a lack of time.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too formal and 'therapy-speak' for a casual sisterly relationship (e.g., 'I might have been dismissive,' 'I can understand how lonely you must feel'). While the sentiment is correct, it lacks the casual, natural flow of a sisterly text conversation in Hinglish. A more fluent approach would have been less analytical and more direct/warm.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

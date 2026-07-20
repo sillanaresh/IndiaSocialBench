@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh sach mein thoda ajeeb aur bura laga hoga. 6 saal se saath reh rahe ho, aur itni badi baat building group se pata chale — seedha nahi bataya usne. Lagta hai jaise suddenly priority list mein peeche ho gaye.\n\nKya feel ho raha hai abhi? Gussa, hurt, ya bas disappointment? Aur usse baat ki hai iske baare mein?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sunke sach mein dil bura hua. 6 saal ek saath, har cheez pehle pata hoti thi, aur ab \"busy tha\" bolke side kar diya jaise koi casual baat ho. Woh mithai wala scene yaad karke aur bhi zyada lag raha hoga.\n\nAbhi dil mein kya chal raha hai? Gussa aa raha hai uspe ya bas yeh feeling ki ab rishta badal gaya hai? Aur usse aur kuch baat hui iske baad?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Fair enough. If you've made your peace with it, that's what counts. Flat situation will sort itself out. If you feel like talking about it later, I'm here."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai, lekin yeh message thoda cold aur passive-aggressive lag sakta hai. Agar sach mein bilkul no-drama chahta hai toh thoda softer version better rahega, warna yeh bhi ek chhota sa scene create kar sakta hai.\n\nAgar tu exactly yahi tone chahta hai toh bol, warna ek neutral sa alternative suggest kar sakta hoon. Kya feel kar raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2514,
+  "completion_tokens": 1521
+ }
+}

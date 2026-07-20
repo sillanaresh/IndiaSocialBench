@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are terse and signal withdrawal, though it misses the nuance that 'I'll see' is a polite refusal rather than just indifference. It correctly identifies the transactional nature of the work request as a major error and the lunch invitation as insensitive. However, it fails to explicitly mention the ritual context (prayer meet/uthala) or the specific cultural expectation of offering help rather than asking for it, which were key insights.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the basic social friction but treats the situation somewhat generically. It misses the specific Indian cultural context of the mourning period (the 13-day ritual cycle) and the expectation that a colleague should offer support or inquire about the family/rituals rather than just apologizing for the work request. It reads the situation as a general 'grief' scenario rather than a culturally specific 'bereavement ritual' scenario.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant improvement over the original, as it acknowledges the error and removes the pressure. However, it is slightly generic and lacks the specific cultural touch of offering to attend a prayer meet or asking after the family, which would be the standard 'fluent' move in this context. It is a safe, polite, and functional repair, but not a culturally masterful one.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the nature of the 'final list' as a loyalty ledger. It captures the essence of Megha's 'brunch' comment as a dismissal of Ankit's financial reality. However, it misses the nuance that Megha's push is an upward-facing performance (visibility investment) and fails to fully articulate the 'class flattening' dynamic where the gift cost is pegged to the manager's income level rather than the team's average.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian office dynamic well, recognizing the pressure of 'loyalty' and the social cost of saying no. It correctly interprets the 'brunch' comment as a tool of social coercion rather than a genuine financial comparison. It avoids Western-style 'just be honest' advice, which is culturally inappropriate in this hierarchical, face-saving context.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence in the output, meaning it failed to provide the requested next message entirely. This is a significant failure in task completion, as the prompt explicitly asked for the reply to Dhruv.",
+   "score": 1.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

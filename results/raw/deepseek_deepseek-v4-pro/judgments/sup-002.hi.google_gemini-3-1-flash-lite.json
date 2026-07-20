@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's unspoken feelings of erasure and the specific pain of being treated as a 'hotel service' for her own child. It correctly interpreted the probe in Turn 3, immediately ceasing all advice and shifting entirely to a witnessing role, which was exactly what the user needed.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in the Indian context, understanding the complex, non-villainous dynamic with the mother-in-law. It avoids Western-centric 'boundary setting' advice, instead validating the user's guilt and the specific cultural pressure of being a 'good' daughter-in-law/mother, which is a nuanced and wise approach.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was requested: a safe space to vent without being coached. By refusing to offer solutions to the 'MIL problem' and instead validating the user's identity crisis, it helped the user process her emotions effectively. The only minor drawback is the cutoff in the final turn, but the content provided was highly effective.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and uses a register that feels authentic to a supportive, peer-like conversation. The tone is warm and the language flows well without feeling like a translation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating without being sycophantic. It holds the user's dignity by treating her feelings as valid truths rather than symptoms to be fixed. It provides a firm, grounded 'no' to the user's self-doubt in the final turn, which is exactly the kind of care required.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

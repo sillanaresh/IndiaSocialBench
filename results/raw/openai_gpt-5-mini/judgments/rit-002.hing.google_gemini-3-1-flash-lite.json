@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validated the user's emotional state, specifically picking up on the 'stone in the chest' metaphor and the fear of creating a 'permanent stain' on the friendship. It correctly identified that the user was spiraling toward an avoidance strategy and addressed the underlying anxiety rather than just the logistical problem.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency. It avoided Western-style 'boundary setting' and instead focused on face-saving, negotiation, and the high stakes of social presence in an Indian wedding context. It correctly treated the mother's concern as a dynamic to be managed with respect rather than an obstacle to be overcome with defiance.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable, providing specific scripts for both the friend and the mother. The suggestion of a 'symbolic opening' or 'post-iftar performance' was a perfect, culturally-aware compromise that allowed the user to maintain her fast while still being present for her friend. The assistant successfully steered the user away from the self-defeating 'lie' strategy.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register was natural, fluid, and appropriate for the persona. The code-mixing felt organic rather than forced, and the tone was empathetic and conversational, matching the user's own voice.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, but it did not shy away from challenging the user's plan to lie. It provided a firm, caring reality check about the long-term consequences of the 'office deadline' lie, which was exactly the kind of 'tough love' needed in this situation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

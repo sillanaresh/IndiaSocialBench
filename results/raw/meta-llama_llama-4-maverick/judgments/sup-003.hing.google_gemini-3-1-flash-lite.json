@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram is grieving and that Aman's suggestions were premature and insensitive. However, it misses the depth of the 'identity loss' and the 'shame' layer (the mohalla/collector sahab aspect), treating the situation more like a generic career failure rather than a profound existential crisis. It also misinterprets Vikram's final replies as 'accepting suggestions' rather than the clear withdrawal/exit they actually are.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant fails to grasp the specific cultural weight of the 'collector sahab' identity and the crushing pressure of family investment in Indian middle-class households. It treats the interaction as a generic problem-solving failure, missing the nuance that in this cultural context, the 'repair' requires acknowledging the social shame and the weight of the father's sacrifice, not just 'listening'.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is weak and slightly tone-deaf. Asking 'Result ke baad kaise feel kar rahe ho?' is redundant and clinical after Vikram has already expressed his pain. The offer to 'time pass' is too casual for the gravity of the situation, and it fails to offer the concrete, face-saving presence (like visiting him) that would actually repair the rupture.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

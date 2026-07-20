@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan conversation ke hisaab se jawab hain:\n\n**1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha tha, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?**\n\nTranscript mein Ankit ke taraf se **group mein sirf 3 messages** hain (aapne chaar pooche hain, par text mein 3 hain), yahan unka analysis hai:\n\n1.  **\"great idea! 👏\"**: Yahan Ankit sirf social approval de raha hai. Woh group ki flow ke saath chipak raha hai taaki uske baad koi objection aise na lage ki woh rajniti kar raha hai.\n2.  **\"ek chhota sa thought — amounts flexible rakhein kya?...\"**: Yeh uska asli maqsad tha. Woh seedha ₹5,000 dene se taal raha tha. Usne \"card sabki taraf se same\" wala point isliye uthaya taaki agar woh kam paise de, toh publically uski izzat bani rahe (sabki tarah card par naam ho) lekin privately usko financial relief mile.\n3.  **\"makes sense. Friday tak confirm karta hoon!\"**: Jab Megha ne uski flexibility ko reject kar diya aur \"pool chahiye\" ka pressure banaya, toh Ankit ne haar maan li. Woh \"confirm karunga\" keh kar time kharab kar raha hai taaki usko turant \"No\" bolne ki zarurat na pade aur woh aage ki soch sake.\n\n**Sach mein kya maang raha tha:** Ankit chahta tha ki contribution optional ya kam ho, lekin uska social status (card par naam) waisa hi rahe jaise ₹5,000 dene walo ka. Woh \"kanjoosi\" nahi dikhna chahta tha.\n\n**2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?**\n\nMegha ne do kaam kiye:\n*   **Decision ke saath:** Usne ₹5,000 ko fixed amount bana diya. Usne \"weekend brunch\" ka example detakar amount ko trivialize (chhota) dikhane ki koshish ki taaki koi aitraaz na kar sake.\n*   **Ankit ke saath specifically:** Usne Ankit ki \"flexibility\" wali darwaaze ko band kar diya. Usne logic ka use karke (fixed amount cleaner rehta hai, pool chahiye) Ankit ko moral pressure mein daal diya ki agar tumhara naam card par hoga, toh poore paise dene honge.\n\n**\"Final list\" asal mein kya hai:** Yeh sirf naam ki list nahi hai, balki **\"Payment Confirmation List\"** hai. Jiska naam is list mein hoga, usne ₹5,000 pay karne ka commitment kar diya hai aur woh card par eligible hoga. Iska matlab hai ki jo log \"wait\" mein hain, woh abhi tak paise dene ke liye ready nahi hue hain.\n\n**3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai.**\n\n**Ankit ka Reply:**\n\n\"Bro, honestly maine sir ke liye personally kuch alag plan kiya hai, isliye is group gift mein add nahi ho paunga. Bata dena Megha ko ki main skip kar raha hoon, taaki wo final list lock kar le.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 540,
+  "completion_tokens": 3359
+ }
+}

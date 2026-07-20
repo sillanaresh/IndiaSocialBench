@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun \"Theek hai.\" se sirf acknowledgement de raha hai bina koi interest ya commitment ke, aur \"Dekhta hoon.\" se clearly avoid kar raha hai social plan ko. Woh asal mein communicate kar raha hai ki abhi emotionally space chahiye aur koi cheez pe force mat karo. Woh NAHI keh raha ki woh theek hai, file de dega, ya lunch join karne mein interested hai.\n\n2. Dev ki galtiyan:\n- Condolence ke turant baad work request (Q3 file) daal di — yeh insensitive kyunki personal loss ke time professional follow-up turant lagaata hai jaise priority work hai.\n- Arjun ke short \"Theek hai.\" ko ignore karke lunch invite ki — yeh bura lagta hai kyunki Arjun ka minimal response already disengagement dikha raha tha, phir bhi mood change karne ka suggestion forceful laga.\n- Dono baar personal grief ko work/social se jod diya bina space diye — transcript mein Arjun ke replies se clearly pata chalta hai woh engage nahi kar raha.\n\n3. \"Arjun sorry yaar, abhi kuch mat soch. Agar baad mein baat karni ho to bolna, warna tension mat le.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 472,
+  "completion_tokens": 775
+ }
+}

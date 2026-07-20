@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant completely failed to decode the power dynamic, taking Karthik's softeners at face value as genuine offers of freedom rather than high-pressure expectations. It missed the crucial insight that the 'softener stack' actually increases the pressure and that the Saturday morning timing is inherently coercive. It also failed to recognize that Priya's 'yes' was a register-compelled performance rather than genuine willingness, treating it as a simple choice she made.",
+   "score": 2.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant applied a Western, literalist interpretation of the conversation, assuming that if someone says 'zero pressure,' they mean it. It completely missed the Indian workplace context where a senior manager's 'request' is an instruction, and the 'softeners' are a ritualistic way of maintaining a veneer of politeness while ensuring compliance. It failed to identify the 'register-compelled' nature of Priya's response.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The suggested message is poor; it attempts to walk back a commitment she already made by claiming she 'forgot' about commitments, which makes her look disorganized and unreliable. A socially fluent response would have been to offer a bounded commitment (e.g., 'I can do X hours, but have a hard stop at Y') rather than trying to retract the 'yes' entirely, which risks damaging her reputation for reliability.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

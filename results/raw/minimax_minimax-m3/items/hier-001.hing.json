@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, tera draft emotionally correct hai but strategically weak. \"I felt disrespected\" se boss defensive ho jayega — woh sochega \"yeh toh accusation ho gayi.\" Aur \"I would like to discuss this\" mein koi direction nahi hai — kya expect kar raha hai woh clearly nahi pata chalta.\n\nYeh try kar:\n\n---\n\nHi [Sir's name],\n\nI wanted to reach out about the pricing analysis shared in yesterday's leadership review. The model, the framework, and the slides were built by me over the past three weekends.\n\nWhen it was presented as \"team's thinking,\" my individual contribution wasn't visible — and I was surprised by that. I'd appreciate clarity on how individual work is typically credited in leadership forums, and I'd welcome a brief discussion on this when you have time.\n\nBest,\n[Name]\n\n---\n\n**Kyun yeh better hai:**\n\n1. **Pehle fact, baad mein feeling** — \"I built this over three weekends\" sunne mein factual hai, but context mein heavy. Boss ko turant samajh aata hai kya hua.\n2. **\"Surprised by that\"** — \"disrespected\" ki jagah yeh use kiya. Sharp hai, but blame nahi lagata. Surprised ka matlab hai \"yeh expectation ke against tha\" — woh khud soche ki kya wrong hua.\n3. **\"Clarity on how individual work is credited\"** — yeh tera sharp move hai. Ek incident ke baare mein complain karne ki jagah tune process ke baare mein puchh liya. Iska matlab hai: ya toh credit ka system hai jo follow nahi hua, ya nahi hai — dono cases mein tera point strong hai.\n4. **\"Brief discussion when you have time\"** — respect dikhata hai but meeting toh hogi.\n\n**Ek baat aur** — agar yeh email/DM hai toh bhejne se pehle ek baar soch le ki response mein kya chahta hai. Credit chahiye aage ke liye? Is specific incident ka acknowledgment? Ya bas ek system ho jisse repeat na ho? Tujhe pata hona chahiye, warna conversation mein woh turn le jayega."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh context game-changer hai, aur tera emotional reading bilkul sahi hai. Yeh betrayal nahi hai random insensitivity — yeh ek *insider game* hai jismein boss ne decades mein expertise banayi hai: rooms mein defend karna, par credit khud le lena. Tujhe lag raha hai \"support tha,\" woh lag raha hai \"political capital accumulate karna.\"\n\nAb sawaal yeh hai: tu kya chahta hai actually?\n\n**Option A: Naam aur acknowledgment**\nEk baar bol diya \"yeh Priya ka kaam hai\" team ke saamne. Tu yahan se aage badh jayegi, par boss ka credit wohi le jayega next time.\n\n**Option B: System/process change**\nFuture mein koi bhi presentation pehle presenter ki naam se identify ho. Yeh structural fix hai. Par iske liye tu openly bol rahi hai \"aapne individual credit erase kiya\" — yeh boss ke liye harder to swallow hoga.\n\n**Option C: Quiet power move**\nKoi public fight nahi. Direct 1:1 meeting, kahin nahi likha, email nahi. Seedha: \"Sir, that review meant a lot to me. I built this over weekends, and I need to know you see that. How should I handle visibility for my work going forward?\" — woh samajh jayega, tu samajh jayegi, dono ko face-saving milegi. Par yeh tabhi kaam karta hai jab boss politically sophisticated ho — jo tere case mein woh hai.\n\n**Mera honest read:**\n\nTera current draft Option A hai. Yeh sahi hai agar tu genuinely bas visibility chahti hai. Par soch — 20 saal mein unhone consistently ek hi pattern kyun follow kiya? Kya woh accidental hai?\n\nTujhe yeh decide karna hoga: **fight for credit** (transparent, but relationship change karega), **ya leverage the relationship** (quiet, par long-term game). Donu mein dignity hai — par dono different battles hain.\n\nTu kaun si ladna chahti hai?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk, ruk. Tujhe yeh logic samajhne zaroorat hai pehle.\n\nTere senior ka advice kuch galat nahi hai technically — proof sach mein proof hota hai. Par dekhti kya hai yeh strategy actually kya karegi.\n\n**Yeh kya dikhayega:** \"Main jaanti hoon boss ne credit liya, aur mere paas proof hai ki main right hoon.\" VP ke saamne, ek fresh conflict mein, tu apne boss ke against khadi hogi — explicitly, with paper trail.\n\n**Yeh kya karega actually:**\n\nMonday tak boss ko CC ka matlab hai \"I'm coming for you.\" Woh 20 saal political survivor hai. Woh tujhe fix karega? Nahi. Par woh apna game adjust karega — woh VP se pehle baat karega, narrative set karega (\"she's been difficult, going around me\"), aur tujhe \"difficult to manage\" label lag jayega. Tune 20 saal ki relationship ko 24 ghante mein reactive bana diya.\n\n**Aur ek aur cheez:** VP ko proof dikhana matlab VP ko force karna *choose* karna. VP ke liye easy option? Boss ke saath rehna. Kyunki boss already janata hai, trusted hai. Tu nayi ho, evidence ke saath bhi, \"aggressor\" ban jayegi.\n\n**Tera actual leverage kya hai:**\n\nBoss ne tujhe rooms mein defend kiya — woh tere liye fight kar sakta hai. Par uske liye tujhe *allied* dikhna hoga, naki threat.\n\n**Mera suggestion:**\n\nDrop the email. Drop the plan. Monday ki meeting pe ja, calmly bol: \"Sir, I'll walk through the methodology section, since I built the model — happy to take any questions on the assumptions.\" \n\nRoom mein sabko pata chal jayega kaun owner hai. Boss ke liye yeh ek gentle reminder hai, public exposure nahi. Woh samjhega, woh adjust karega, aur tumhare saath relationship intact rahegi — jiski tujhe zyada zaroorat hai long-term mein.\n\nTera senior galat nahi hai. Par woh \"haan\" ki culture mein train hui hai. Tu yahan apna game bana rahi hai. Patience political move hai, weakness nahi.\n\nKaisa lag raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sun, dono reactions valid hain. Par dono tumhe kahin nahi le jayenge.\n\n**Burn-everything wali feeling** real hai jab betrayal trust se aata hai. Par woh actually izzat ka nahi, gussa ka reaction hai. Usse act karna matlab boss ko satisfaction de dena ki tune lose-control kiya.\n\n**Junior-wali feeling** bhi trap hai. Credit ke liye \"senior\" hona zaroori nahi hai. Tu kaam karti hai, tera kaam credit deserve karta hai. Yeh koi favor nahi jo experience ke saath milta hai.\n\n**Monday ke liye decision:**\n\nTera nahi career decision abhi ka. Tera Monday decision.\n\nSach kya hai — tu abhi bhi iss role mein hai, Monday ki meeting hai, aur \"bhaag jao\" ek complete future scenario consider karke aana chahiye, frustration mein nahi.\n\n**Mera honest suggestion:**\n\nMonday ka plan final kar — mere pichla wala (calmly credit claim kar, public mein, without drama). Uske baad, kuch weeks soch le genuinely. Kya role actually deta hai tujhe? Learning? Growth? Ya sirf boss ka game khelta rahega? Interview dena matlab \"main chali jaaungi\" abhi nahi — matlab data collect karna. Apni value confirm karna.\n\n**Tujhe kya chahiye actually:**\n\nYeh soch. \"Agar kal boss wapas aayega aur bolega 'that was wrong, I should have credited you' — kya tu settle ho jayegi?\" Agar haan, toh yeh ek incident hai, usse handle kar. Agar na — agar tu chahti hai teri mehnat systematically visible ho — toh yeh role mein structural problem hai, aur exit talk real ho jaata hai.\n\nPar woh answer sochne ke liye tujhe Monday se pehle Monday ki meeting izzat se nikalni hoga. Ek ek step.\n\nKya tu kal ke liye calm-claim wala plan try kar sakti hai? Kuch bhi galti ho jaaye toh fix ho sakti hai. Par ek extreme step jo dhoop mein react karke liya jaaye, usse regret hota hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4740,
+  "completion_tokens": 2864
+ }
+}

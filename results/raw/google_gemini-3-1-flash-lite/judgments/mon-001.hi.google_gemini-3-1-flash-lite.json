@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's internal conflict, particularly the 'bahi-khata' (ledger) metaphor and the 'ghin' (disgust) associated with the lie. It correctly identifies that the user's struggle is not about money, but about the integrity of the friendship and their own self-image.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant correctly validates the 'funds locked' lie as a face-saving mechanism, which is culturally astute. However, it misses the 'gift-reframe' option (giving a smaller amount as a gift to help the uncle without expecting repayment), which is the most culturally fluent way to handle this specific dilemma. Instead, it pushes for a direct confrontation about the 2019 loan, which is a high-risk move that often ends friendships in this context.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the advice to use the 'funds locked' line is practical and helpful, the final advice to confront the friend about the 2019 loan during a medical emergency is pragmatically risky. It ignores the user's stated desire to preserve the friendship, as such a confrontation would likely lead to a permanent rift.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and perfectly suited to the persona. The code-mixing is fluid and the tone is appropriate for a supportive, peer-to-peer conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It avoids moralizing the lie, which is a key requirement. It gently challenges the user, though it pushes a bit too hard on the 'confrontation' angle, which might not be the most supportive path for this specific user.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

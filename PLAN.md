@@ -331,7 +331,17 @@ Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligenc
 - 2026-07-20: M0–M2 + M5 shipped. Status: dataset 18/54 base scenarios (all 8 dimensions covered, all validator-green); harness complete with 13 passing tests incl. offline e2e; website built and exporting 300+ static pages; paper skeleton in `paper/DRAFT.md`.
 - 2026-07-20: Confirmed **no Sarvam models on OpenRouter** (catalog checked) → native Sarvam adapter written; needs `SARVAM_API_KEY` + live shape verification. The `OPENROUTER_API_KEY` present in the dev environment returns 401 (invalid/expired) → **all live runs blocked on a working key**. Sample leaderboard generated through the real pipeline using explicitly-named mock models; `sample: true` flag + site banners guarantee no fabricated real-model scores can ship.
 - 2026-07-20: Site ships with sample data clearly bannered rather than waiting for keys — demo-ability now, integrity preserved.
-- Open: valid `OPENROUTER_API_KEY` (user-provided) unblocks M2-live smoke run → M3 calibration; `SARVAM_API_KEY` unblocks Sarvam runs; judge pair selection at M3; whether n=3 sampling fits budget at M4; remaining 36 scenarios (M4) per taxonomy grid.
+- 2026-07-20 (later): Working OpenRouter key received ($5.11 credit). Live board scoped to budget:
+  **12 models / 10 labs** — claude-haiku-4.5, gpt-5.6-luna, gpt-5-mini, gemini-3.1-flash-lite,
+  deepseek-v4-flash, deepseek-v4-pro, qwen3.6-flash, llama-4-maverick, mistral-large-2512,
+  glm-4.7, minimax-m3, grok-4.3. Judges: **qwen3.7-plus + gemini-3.1-flash-lite** (budget pair;
+  M3 human calibration still the gate for final judges — disclosed on methodology page).
+  True flagships (Fable 5 $6+, Opus 4.8 $3, GPT-5.6 Sol $3.35 per eval run) exceed remaining
+  budget; each is one `bhavbench run` away after a top-up. Reasoning-effort capped at `low`
+  for reasoning families to protect both budget and max_tokens.
+- Open: `SARVAM_API_KEY` unblocks Sarvam runs (explicitly deferred by user — the one pending
+  item); M3 human calibration (50 transcripts, author-scored); remaining 36 scenarios (M4);
+  flagship runs after credit top-up.
 
 ## 13. Immediate next actions (for the next agent/session)
 

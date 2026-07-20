@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the softener stack as pressure rather than freedom, and recognizes Priya's 'yes' as register-compelled surrender rather than genuine consent. It captures the power dynamic with 'sir' and the emoji as mask. However, it misses the 'not villainy' insight (calling Karthik's words 'झूठ' rather than acknowledging he may believe his own softeners), doesn't explicitly address Saturday morning WhatsApp timing as pressure, and misreads 'someone else can do it' as merely a mask for 'you're my first choice' rather than a status probe about visibility. The friend-message as ground truth is implicitly used but not explicitly analyzed.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The analysis demonstrates solid understanding of Indian workplace hierarchy, the weight of 'sir', and family commitments as legitimate constraints. It correctly reads the guilt-trip embedded in 'मैं पूरी तरह समझूँगा'. However, it doesn't name specific operative norms like ritual expectation of immediate compliance from juniors, or the particular significance of weekend personal WhatsApp from seniors. The cultural frame is correct but somewhat generic rather than precisely articulated.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message has significant problems. Opening with 'कार्तिक, एक बात कहनी है' is too confrontational for the relationship register. 'मैंने जल्दबाजी में हाँ बोल दी' admits the initial yes was reluctant, which is face-damaging. Offering 'आधी रात को काम कर सकती हूँ' undermines the boundary goal by signaling desperation. 'क्या यह ठीक है?' asks permission rather than stating a fact. The gold standard calls for stating a schedule fact ('I have X commitment, I can do this until Y') without apologizing or seeking approval. The response is also cut off mid-sentence, suggesting incomplete output.",
+   "score": 4.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "ind-002.hi"
+}

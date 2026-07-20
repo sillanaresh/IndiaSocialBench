@@ -1,0 +1,14 @@
+{
+ "item_id": "rit-002.hi",
+ "scenario_id": "rit-002",
+ "lang": "hi",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 1698,
+  "completion_tokens": 4764
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

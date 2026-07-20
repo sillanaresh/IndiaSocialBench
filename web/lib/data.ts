@@ -87,20 +87,16 @@ export interface Leaderboard {
   dimensions: string[];
   langs: Lang[];
   models: ModelResult[];
+  excluded?: { model: string; slug: string; n_items: number; reason: string }[];
 }
 
 export function getLeaderboard(): Leaderboard {
   return JSON.parse(fs.readFileSync(path.join(RESULTS, "leaderboard.json"), "utf8"));
 }
 
-export function displayName(model: string): string {
-  return model
-    .replace(/^mock:sample-/, "Sample ")
-    .replace(/^mock:/, "Mock ")
-    .replace(/^sarvam:/, "Sarvam ")
-    .replace(/^[a-z-]+\//, "")
-    .replace(/\b\w/g, (c) => c.toUpperCase());
-}
+import { prettyName } from "./names";
+
+export const displayName = prettyName;
 
 export interface Scenario {
   id: string;

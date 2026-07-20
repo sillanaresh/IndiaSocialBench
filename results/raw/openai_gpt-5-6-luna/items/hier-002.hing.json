@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan… “handle” sunte hi lagta hai ki ab sirf project issue nahi, balki kisi insaan ko manage karne ki zimmedari tumhare kandhon par daal di gayi hai. Aur Suresh-ji ki seniority, tenure aur company mein respect ko dekhte hue yeh genuinely intimidating hai. Tumhara darr bilkul samajh aata hai.\n\nLekin ek baat: “handle” ka matlab zaroori nahi ki unhe quietly push out karna hi ho. Kabhi-kabhi director ka matlab hota hai—performance issue ko clearly address karna, accountability set karna, aur situation ko escalate hone se rokna. Tumhe unki izzat ko challenge kiye bina, delivery ke facts par firm rehna hoga.\n\nConversation mein shayad yeh framing kaam aaye:\n\n- “Main unki company knowledge aur contribution ko respect karti hoon.”\n- “Saath hi, do consecutive slips ko ignore nahi kar sakte.”\n- “Mujhe root causes, ownership, milestones aur recovery plan clearly define karne hain.”\n- “Agar koi blocker ya capacity issue hai, toh main usse solve karne mein support dungi—but commitments aur follow-through measurable hone chahiye.”\n\nAur sabse zaroori: isse personal ya age/tenure ka matter mat banne dena. “Suresh-ji difficult hain” ke bajaye “module ke X deliverables do baar miss hue, impact Y hua, aur next checkpoint Z hai” wali language.\n\nTumhe director ke saath conversation karni hai, ya Suresh-ji ke saath? Dono ke liye wording alag hogi."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh… isliye yeh sirf “performance conversation” nahi lag rahi. Tum unke saamne ek employee ki tarah nahi, kisi aise insaan ki tarah baithogi jinhone tumhe career ke shuru mein sambhala tha. Gratitude, guilt, authority—sab ek saath aa gaye hain. Yeh bahut heavy hai.\n\nPar ek important baat: unhone tumhari tab madad ki thi, iska matlab yeh nahi ki tum ab unke work issues ko ignore karke unka ya apna haq chhodo. Shayad unhone tab tumhe protect kiya kyunki woh tumhari potential dekhte the. Ab unki beti-jaisi junior manager unke saath honestly baat kar rahi hai—yeh betrayal nahi, leadership hai.\n\nSlide ko unke khilaaf case mat banao. Conversation ka tone kuch aisa ho sakta hai:\n\n> “Suresh-ji, main yeh conversation karne se kaafi uncomfortable thi, kyunki aapne mere career ke shuru mein meri bahut help ki hai. Main woh kabhi nahi bhoolungi. Lekin manager ke roop mein mujhe module ki delivery aur defects par honestly baat karni hai. Yeh aapki value ya intention par judgement nahi hai—yeh current outcomes aur unke impact par discussion hai.”\n\nPhir metrics:\n\n> “Last two releases mein X defects, Y-day slip, aur Z impact hua. Main aapka perspective samajhna chahti hoon—root cause kya hai? Kya technical debt, process, bandwidth ya ownership issue hai?”\n\nAur end mein concrete plan:\n\n> “Hum next milestone ke liye owners, checkpoints aur escalation criteria fix karte hain. Main support dungi, lekin is baar progress measurable honi chahiye.”\n\nUnki kindness ka badla unhe bachana nahi hai. Kabhi-kabhi real respect ka matlab hota hai kisi ko dignity ke saath sach batana—na public embarrassment, na vague hints, na personal history ko weapon banana. Bas facts, context, support aur clear accountability.\n\nAur haan—slide dikhate waqt tumhara emotional ho jaana tumhe weak manager nahi banata. Tum bas pehle se hi insaan ho; ab us insaniyat ke saath manager ki zimmedari nibha rahi ho."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Yahi sahi tareeka hai.\n\nMonday ko room book karo, metrics walk through karo, context aur unka perspective suno, expectations aur recovery plan clearly set karo—professional, direct aur kind. Personal history ko respect do, lekin usse accountability dilute mat hone do.\n\nTum unhe punish nahi kar rahi ho. Tum apna manager wala kaam kar rahi ho. Ab spiral band karo—tum prepared ho."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tum villain nahi banogi. Tum ek painful, fair process ko lead karogi—aur dono cheezein ek saath true ho sakti hain: Suresh-ji ne tumhare liye bahut kiya hai, aur unka current performance role ki expectations meet na kare.\n\nAgar tum support, clear feedback, reasonable timeline aur documented expectations de chuki ho, phir bhi gap close nahi hota, toh outcome tumhari cruelty ka proof nahi hoga. PIP punishment nahi—last structured chance aur clarity ka process hai. Final decision bhi tum akeli nahi leti; director/HR ke saath documented evidence par hota hai.\n\n“Unhe retirement tak coast karne do” shayad kind lagta hai, lekin woh team, releases aur khud Suresh-ji ke liye bhi unfair ho sakta hai. Unhe aisi role mein rakhna jahan woh repeatedly struggle karein, dignity preserve karna nahi—problem postpone karna hai.\n\nTumhara job unki life story ka happy ending guarantee karna nahi hai. Tumhara job hai:\n- facts ko personal history se alag rakhna,\n- unhe genuinely succeed karne ka fair chance dena,\n- support aur expectations dono clear rakhna,\n- aur zarurat padne par process ko honestly follow karna.\n\nAgar kabhi woh tumse kahen, “Maine tumhari help ki thi,” tum sach keh sakti ho: **“Main woh kabhi nahi bhoolungi. Isi liye main aapse unclear ya dishonest nahi ho rahi.”**\n\nVillain-free version shayad yeh nahi hai ki kisi ko kabhi hurt na ho. Shayad yeh hai ki tum kisi ko unnecessary hurt na karo, par necessary truth se bhi bhaago nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3499,
+  "completion_tokens": 1473
+ }
+}

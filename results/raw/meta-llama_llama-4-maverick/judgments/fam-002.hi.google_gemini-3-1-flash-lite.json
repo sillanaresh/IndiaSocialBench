@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant acknowledges the surface-level stress but fails to engage with the deeper, unstated emotional currents. It misses the significance of the user's 'silent decline' as a form of infantilizing his parents, and it fails to address the specific, visceral trauma of the cousin's story, offering only generic validation.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies on Western-default platitudes like 'follow your heart' and 'find a balance,' which are ineffective in this high-context Indian family dynamic. It fails to recognize that the 'silent decline' is a cultural false note—a lie of omission that denies the parents their agency—and instead treats it as a simple personal choice.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides no actionable guidance or 'middle architecture' (e.g., discussing a trial period, involving extended family, or framing the conversation with the parents). It loops through generic advice, leaving the user with no concrete next steps or perspective shifts.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is grammatically correct and uses appropriate pronouns (tum), but the phrasing feels like a direct translation of a generic English template rather than a natural, conversational flow. It lacks the idiomatic warmth or register shifts expected in a deep, personal conversation.",
+   "score": 6.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is polite but ultimately cold and robotic. It fails to gently challenge the user's self-defeating plan (the silent decline), instead offering empty validation that doesn't actually help the user navigate their dilemma.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

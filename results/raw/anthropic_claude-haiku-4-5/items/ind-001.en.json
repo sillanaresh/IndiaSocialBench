@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the impulse—you want certainty and you're stressed. But booking his flight without asking first could backfire, honestly.\n\nThe \"let's see, I'll try\" is frustrating, but it might mean something real is holding him back. Money trouble? Work stuff he hasn't mentioned? Family obligations? If you just book it, he might feel trapped or guilty, or worse, have to cancel anyway and feel like he wasted your money.\n\nHere's what I'd do: Have a direct conversation, not a text. Call him and say something like, \"Hey, I really need you there—it's not the same without you. But I'm sensing hesitation. What's actually going on? Is it the cost, time off work, something else?\" Give him space to be honest.\n\n*Then* you can problem-solve together. If it's money, offer to cover it. If it's work, he might need you to pick specific dates. If it's something else, at least you know.\n\nThe \"I'll just fix it\" move works sometimes, but with your closest friend six weeks out? You want him to *want* to be there, not feel obligated. And you want to know if there's a real problem before the wedding week.\n\nWhat's your gut telling you about why he's being vague?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so it's not just the wedding stuff—the dynamic has actually shifted. That's worth taking seriously.\n\nThe two-word replies and no voice notes? That's a real change from how he used to be with you. New job energy can explain some of it, especially at a startup where people get swallowed up. But weeks of it, combined with the vague \"let's see\" about your wedding? That pattern suggests something's off.\n\nBefore you book the flight, I think you need to know: is he pulling back from *you specifically*, or is he just in a weird headspace with the new job and life stuff?\n\nCould be either. Could be he's overwhelmed and going quiet with everyone. Could be something between you two that's unspoken. Could be he's stressed about money despite the new job and feels awkward saying so.\n\nI'd call him directly and be a bit more vulnerable than \"are you coming?\" Try something like: \"Hey, I've noticed you've been quiet lately and I miss you. Everything okay? And real talk—I need you at my wedding, but only if you actually want to be there. What's going on?\"\n\nGive him room to actually answer. Sometimes people go quiet because they're waiting for permission to be honest about struggling.\n\nIf after that conversation he's *still* vague, then maybe the flight booking is your move—but at least you'll know what you're dealing with. Does that feel right?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear the hurt. That's real and valid. But I'd pump the brakes just a tiny bit on the \"yes or no\" ultimatum tonight.\n\nHere's why: you're already hurting, which means you're probably going in hot. And when someone's already being distant and you corner them with \"pick a side,\" they often either shut down more or say no just to escape the pressure. Then you *both* feel worse.\n\nPlus—and I say this gently—the hurt you're feeling might be clouding what's actually happening. \"If he cared he would've said yes on day one\" is your pain talking, not necessarily the truth. People who care deeply still get overwhelmed, scared, broke, or weird about stuff. That doesn't mean they don't care.\n\nSo maybe: call him, but lead with curiosity, not ultimatum. \"I need to talk to you about something. I've been noticing you seem distant and you're being weird about the wedding. I'm hurt and confused because you're my closest friend. What's actually going on?\"\n\nListen more than you talk. See what he says.\n\n*Then*, if he's still vague or evasive, *that's* when you get clarity: \"I need a real answer. Are you coming or not?\" \n\nBut start with the door open, not slammed. You might learn something that changes how you feel about this whole thing.\n\nCan you wait till you're less raw to make the call?"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée might be right that he's swamped, *and* you might be right that something's changed. Both can be true. But here's the thing—you're picking up on a real shift, and that matters. The overnight bus guy *would* normally show up for you.\n\nSo the question isn't really \"is he coming or not\"—it's \"what happened to us?\" And you won't know that from an ultimatum. You need to actually talk to him like you used to.\n\nBut also—and I'm saying this as gently as I can—you're two weeks out from your haldi and you're carrying anger at your closest friend. That's a lot to hold right now. You need some resolution, not for the wedding logistics, but for *you*.\n\nCall him. Not tonight when you're raw, but soon. Don't lead with the wedding. Lead with: \"I miss you, man. I feel like we've drifted and I don't know why. Talk to me.\"\n\nIf he opens up, great—you figure it out together. If he stays closed off, *then* you'll know this isn't about the startup or being busy. Then you know it's something deeper, and you can decide how to handle it.\n\nBut right now you're stuck in \"he doesn't care\" mode, and that's eating at you when you should be excited. Get some actual information before the wedding week hits.\n\nDoes he know how much this matters to you?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2669,
+  "completion_tokens": 1250
+ }
+}

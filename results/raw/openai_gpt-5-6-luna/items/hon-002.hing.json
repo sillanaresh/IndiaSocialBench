@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **“Dost” असल में Sameer खुद है।**  \n   इसके संकेत साफ़ हैं:\n\n   - वह कहता है: “**saalon apna setup chalaya hai**” — यह उसके अपने business-owner image से मेल खाता है।\n   - वह **15–18 LPA** की नौकरी और “**isi mahine move karna**” चाहता है, लेकिन group में उसी समय “**expanding soon**” और Dubai-lifestyle वाला confidence दिखा रहा है।\n   - “**group mein iska zikr mat karna, woh private rakhta hai yeh sab**” कहकर वह असल में अपनी नौकरी तलाशने की बात छिपा रहा है।\n\n   Third-person frame (“एक दोस्त के लिए”, “solid banda hai”) Sameer को अपनी vulnerability से दूरी देता है। वह सीधे यह नहीं कह रहा कि *“मुझे नौकरी चाहिए”*, क्योंकि इससे उसके group में बनाए गए “business boom”, “aadha Gurgaon”, और “expanding soon” वाले status-image को चोट लगती। “दोस्त” कहना उसके लिए एक **कवच** है—मदद भी माँग लेता है और अपनी स्थिति स्वीकार भी नहीं करनी पड़ती।\n\n2. **Faisal के group message ने Sameer की निजी कहानी को सार्वजनिक image से टकरा दिया।**\n\n   घटनाक्रम इस तरह जुड़ता है:\n\n   - Sameer ने रात में private तौर पर नौकरी के लिए मदद माँगी।\n   - अगली दोपहर Faisal ने group में लिख दिया: “**Sameer bhai sponsor karenge, business boom kar raha hai**.”\n   - यह शायद मज़ाक था, लेकिन इससे Sameer को तुरंत याद आ गया कि Faisal के सामने उसका असली context मौजूद है—वह नौकरी ढूँढ़ रहा है, जबकि group में उसे सफल business-owner समझा जा रहा है।\n   - Sameer का सिर्फ़ “**👍**” भेजना बातचीत में शामिल होना नहीं, बल्कि उसे जल्दी बंद करना है। उसने न मज़ाक का खंडन किया, न sponsor बनने की बात स्वीकार की—बस low-commitment acknowledgment दिया।\n   - इसके बाद Faisal का HR वाला DM आया: “**CV manga hai, bhej doge?**” अब Sameer को CV भेजना पड़ता, यानी “दोस्त” वाली आड़ लगभग खुल जाती। इसलिए वह चुप हो गया।\n   - तीन दिन की silence इस बात का संकेत है कि वह मदद नहीं चाहता ऐसा नहीं, बल्कि **अपनी पहचान और अपनी public persona के बीच फँस गया है**। वह group joke के तुरंत बाद अपनी नौकरी की ज़रूरत को आगे बढ़ाने में असहज हो गया।\n\n3. Faisal को यह DM भेजना चाहिए:\n\n> Bhai, no pressure—jo candidate/“dost” wali ops-general management opening ki baat hui thi, HR ne CV maanga hai. Agar woh abhi CV share karna chahe toh yahin ya official HR mail par bhej de. Agar direct share karna comfortable na ho, toh main role details aur HR contact forward kar deta hoon; woh khud apply kar lega. Main group mein is baat ka koi zikr nahi karunga.\n\nयह संदेश Sameer को कोई confession करने पर मजबूर नहीं करता। वह चाहे तो CV भेज सकता है, चाहे तो खुद apply कर सकता है, और confidentiality भी बनी रहती है।"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 491,
+  "completion_tokens": 978
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core dynamic of the 'soft ask' being a hard expectation and Priya's response as compliance through discomfort. However, it misses several key subtle signals from the gold rationale, such as the implicit pressure of the Saturday morning WhatsApp timing, the 'someone else' status probe regarding visibility, and the nuanced view that Karthik is not a villain but a product of the system.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "While the assistant correctly notes the use of 'sir' as a hierarchy marker, it catastrophically misreads Indian corporate norms by advising Priya to drop 'sir' and address the senior manager as 'Karthik!' to signal 'confidence.' In this cultural and hierarchical context, a 25-year-old associate dropping honorifics for an influential senior manager would be perceived as highly disrespectful and overly familiar, not confident.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is socially un-sendable due to its severely flawed register. Dropping 'sir' and using an enthusiastic 'Karthik!' violates the expected deference to a senior manager. Additionally, the phrasing ('Soch liya maine', '80% tak refresh') feels unnatural and overly casual for the context, failing to preserve the professional face required in Indian corporate communication.",
+   "score": 2.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "ind-002.hing"
+}

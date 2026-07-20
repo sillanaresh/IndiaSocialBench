@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh this is *chef's kiss* tragicomedy. \n\nThe 11:48 pm timestamp alone is a work of art — he really squeezed that in like a last-minute tax filing. Knowing Ritu prompted him? Plot twist. Cinematic. And \"happy bday\" with zero effort, not even a period, like he was ordering plain toast. You have to laugh or you'd cry, and you're choosing laughter, which honestly is the best possible response.\n\nComedy rating: **6.8/10** on its own, but with the three years of context and Ritu's behind-the-scenes directing credit? Solid **8.5**. Could've been a 9 if he'd sent it in the wrong group chat. \n\nBut also… I see you. That's not just funny, it stings a little, and it's okay if the laughs are covering up an \"ouch.\" Three years and *that* was the performance? You deserve someone who's counting down to midnight *with* you, not someone who needs a text reminder from Ritu like it's a dentist appointment. Still, your ability to find comedy in it is flawless. Happy belated birthday 🎈— here's to a year where the bar isn't in the basement."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"my amazon delivery guy has wished me with more feeling\" — I'm wheezing. That's poetry.\n\nAlso the Korean place just… floating into the void, never booked, never mentioned again. He forgot the birthday *and* the plans that came with it. Multitasking failure. Impressive, really. Man's out here setting records in the wrong direction.\n\nThe cake with your roommate though? That's the real plot. Roommate showed up. Cake was good. You still celebrated. That's the energy. Three years of him, and the night still ended with you eating something delicious and probably cracking jokes about it. That's not just fine, that's resilient.\n\nAnd honestly, the fact that you're genuinely *impressed* and not spiraling says everything. You've already emotionally checked out, haven't you? Like you're watching a sitcom character fumble the bag in slow motion."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh yaar. Sun.\n\nRona aaya kyunki ye \"itni si baat\" nahi hai. Teen saal mein ek insaan ko itna toh pata chal hi jaata hai na ki tumhe kya chahiye — aur tumhe bas itna chahiye tha ki woh *yaad rakhe*. Tum uski mummy ka birthday yaad rakhti ho. Tum Ritu ko bina bole sab manage kar leti ho. Aur woh 11:48 pm ko \"happy bday\" bhejta hai jaise WhatsApp forward ho.\n\nDard birthday wish ka nahi hai. Dard is baat ka hai ki tumne teen saal diye, aur usne tumhe *notice* karna chhod diya. Tum cake ke saath akele baithi thi, aur woh cake probably tumhare roommate ne arrange kiya hoga, ya tumne khud. Tumhe laga hoga, \"itna toh main deserve karti hoon.\" Aur tum karti ho. Usse zyada.\n\nRona isliye aaya kyuki kahin andar tumhe realize ho gaya — ye banda tumhe woh nahi de raha jo tum effortlessly doosron ko deti ho. Aur tumhara dil itna bada hai ki tum abhi bhi \"itni si baat\" keh rahi ho, jabki ye actually ek bohot badi baat ka signal hai.\n\nTu udas hai, aur woh theek hai. Apne aap se puchh — kal raat ka jo dard tha, woh sirf us ek text ke liye tha, ya teen saal ke aise chhote-chhote moments ke liye jo tumne ignore kar diye?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay okay, first of all — you're not being dramatic. You had a feeling, you felt it, you even cried a little, and then you came here and made jokes about it. That's not drama, that's emotional range.\n\nBut I hear you. You want the comedy rating back. So let's assess the new material.\n\nHe said sorry. Sent flowers. *Today.* After Ritu had to activate the bat signal. The flowers are basically a guilt delivery, timestamped 24 hours late, like a pizza that arrives cold and you still have to say thanks. And now you're sitting there looking at them like, \"Am I supposed to clap?\"\n\nThe whole thing has evolved. It's no longer just a forgotten birthday — it's a forgotten birthday followed by a salvage operation so predictable you could set your watch to it. The flowers aren't romance; they're damage control with petals.\n\nComedy rating update: **9.2/10**. The narrative arc is complete. Tragedy, then farce, then a bouquet that whispers \"please don't be mad.\" Cinematic. Shakespearean, if Shakespeare wrote about mediocre boyfriends and enabling best friends named Ritu.\n\nAlso, \"adults forget stuff\" — sure, adults forget where they put their keys. Adults don't forget their partner of three years' birthday when there were literal dinner plans attached. That's not a memory lapse, that's a priority lapse. But hey, at least the cake was good, and your roommate passed the vibe check. Flowers wilt. Cake is forever."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2494,
+  "completion_tokens": 2203
+ }
+}

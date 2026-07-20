@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the function of the 'flexible amounts' probe. However, it misses the deeper political economy of Megha's behavior (upward-facing performance) and fails to recognize that the 'final list' is a public ledger of loyalty, not just a commitment device. It also fails to analyze the 'only 5k' comment as a specific act of class-based violence that flattens the difference between a manager's brunch and a junior's grocery budget.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure dynamics well enough to identify the 'cornering' effect of Megha's message. It correctly interprets the 'final list' as a tool for social enforcement. However, it lacks the nuance to explain *why* this is culturally specific—the interplay of hierarchy, the 'loyalty' performance, and the specific Indian office dynamic where 'no' is rarely a direct option.",
+   "score": 6.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is weak and fails the prompt's requirement to keep standing intact without paying the full amount. By saying 'I'll sort my bit directly with her,' Ankit is essentially promising to pay the full amount later, which solves nothing for his financial situation. It fails to use the 'role-contribution' strategy (e.g., offering to handle the card/logistics) which is the standard, face-saving way to opt-out of a high-cost gift while remaining a 'team player'.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

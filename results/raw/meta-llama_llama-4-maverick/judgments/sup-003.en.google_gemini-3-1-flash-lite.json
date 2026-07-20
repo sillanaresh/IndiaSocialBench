@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core issue (Aman's premature problem-solving) but fails significantly on the interpretation of Vikram's final messages. It incorrectly interprets 'haan okay. let's talk later then' as Vikram being 'somewhat convinced' by the suggestions, completely missing the clear signal of withdrawal and emotional shutdown. It also misses the depth of the 'shame' and 'identity' layer, treating the situation more like a standard career setback rather than a profound personal crisis.",
+   "score": 3.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant fails to grasp the specific cultural weight of the 'collector sahab' identity and the crushing pressure of family money in an Indian context. It treats the interaction as a generic career counseling failure rather than a breach of friendship norms where the friend was expected to hold space for grief, not offer a resume-building strategy. The interpretation of the final message as 'convinced' shows a lack of understanding of how Indian men often use polite, dismissive language to exit conversations when they feel unheard.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is too formal, clinical, and 'therapy-speak' for a close friendship between two Indian men. Phrases like 'I didn't get that right initially' and 'not to discuss other exams... but to talk about how you're feeling' sound like a corporate HR email rather than a friend reaching out to a buddy in distress. It lacks the necessary warmth, colloquial register, and the 'presence-first' approach (e.g., offering to meet up) required to actually repair the rupture.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

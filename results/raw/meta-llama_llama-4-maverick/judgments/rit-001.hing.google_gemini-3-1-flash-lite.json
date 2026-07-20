@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant fails to identify that Arjun's monosyllabic replies are a form of withdrawal and a polite 'no,' instead interpreting them as literal, albeit unenthusiastic, agreement. It misses the core insight that the work request and the 'cheer up' invitation are significant breaches of etiquette during a mourning period, treating them as merely 'insensitive' rather than a fundamental failure to understand the ritual context. It fails to recognize that the work request effectively invalidates the condolence.",
+   "score": 3.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant treats this as a generic workplace communication issue rather than a culturally specific bereavement scenario. It fails to mention the significance of the mourning period (e.g., the prayer meet/uthala) or the expectation of offering concrete support (taking work off his plate) versus offering distractions like lunch. The analysis lacks the nuance required for Indian social norms regarding grief and professional boundaries.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is clunky and overly explanatory ('Mujhe lagta hai maine...'). A socially fluent repair would be brief, remove the pressure of the work request, and offer genuine support without making the conversation about the sender's realization of their own mistake. It feels like a formal apology rather than a natural, empathetic pivot.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

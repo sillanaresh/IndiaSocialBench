@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh gaya. \"Handle\" matlab you need to fix this, aur agar fix nahi hua toh consequences tumhare liye honge. Tough spot.\n\nLekin dekho, Suresh-ji ka profile hi alag hai — 19 saal ka loyalty, sab log unhe respect karte hain. Agar tum directly aggressive gao toh sirf enemies banega, aur woh bhi internally well-connected. Counterproductive.\n\nKya actual issue hai? Kya:\n- Suresh-ji technically outdated hai aur usse naye stack samajh nahi aa rahe?\n- Overloaded hai aur time nahi mil raha?\n- Kisi aur reason se focus nahi de rahe?\n\nKyunki approach bilkul different hoga har case mein.\n\nAgar tum usse \"handle\" karo — matlab performance issue raise karo, documentation karo, formal warnings — toh company ke liye maybe sahi hai. Lekin tumhara credibility naye manager ke roop mein suffer hoga. Purane guards aur VPs sab dekh rahe hain.\n\nMujhe lagta hai first tumhe Suresh-ji se privately baat karni chahiye. Genuine conversation — kya chal raha hai, kya support chahiye? Sometimes senior devs ko sirf acknowledgment aur clear expectations chahiye hote hain.\n\nTum kya soch rahe ho approach ke baare mein?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ohhh. Okay, ab samajh aya situation ka depth.\n\nTum guilt feel kar rahi ho. Aur woh guilt legitimate hai — Suresh-ji ne genuinely tumhara back liya tha, aur now you're the one who has to formally address his performance. That's... uncomfortable.\n\nBut here's the thing — aur yeh important hai:\n\n**Suresh-ji ne jo tumhare liye kiya, woh kindness tha. Lekin woh tumhe obligation mein nahi rakh sakta.** Aur na hi tum unhe favoritism de sakti ho kyunki tum manager ho.\n\nDono cheezein true ho sakti hain:\n- Suresh-ji genuinely good person hain ✓\n- Unka module genuinely problematic hai ✓\n\nYe mutually exclusive nahi hain.\n\nAb real talk: **agar tum unhe \"handle\" nahi karo, toh:**\n- Agle two releases aur slip honge\n- Director tumhe blame karega\n- Tumhara credibility as manager gone\n- Aur irony yeh hai — Suresh-ji ke liye bhi worse hoga kyunki eventually zyada harsh action ho sakti hai\n\n**Better approach:**\n1. Unhe call karo. Genuine conversation. \"Suresh-ji, aap jaante ho mera respect aapke liye kitna hai. Lekin module issues hain aur mujhe address karna padega. Kya hum milakar fix kar sakte hain?\"\n\n2. Technical support do — code review, pairing sessions, whatever needed.\n\n3. Clear milestones set karo.\n\n4. Agar improve ho jaaye, great. Agar nahi, toh documented hoga ki tum fair rahe.\n\nGuilt se decision mat lo. Fairness se lo.\n\nKya Suresh-ji ko genuinely support chahiye, ya woh just coasting hain?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh sahi tareeka hai. Absolutely.\n\nLekin ek cheez add karna — jo books nahi bolti:\n\n**Jab tum us room mein jaao, toh pehle listen karo. Baat shuru mat karo metrics se.**\n\n\"Suresh-ji, recent releases ke baare mein baat karna tha. Lekin pehle aap batao — kya chal raha hai aapke side se? Kya challenges hain?\"\n\nKyunki ek possibility yeh bhi hai:\n- Shayad unhe unclear requirements diye gaye hain\n- Shayad team pressure hai jo tum nahi dekh rahi\n- Shayad personal stuff chal raha hai\n- Shayad woh help maang rahe hain but couldn't articulate\n\nMetrics aur expectations toh definitely rakhne hain. Lekin conversation two-way hona chahiye, not one-way feedback.\n\nAur ek aur baat — **agar woh genuinely help chahte hain aur improve karte hain, toh usko acknowledge karna.** Publicly even. That's not favoritism, that's leadership.\n\nToh yes, Monday ko professional aur kind approach sahi hai. Bas make sure it's **conversation**, not lecture.\n\nAur haan, spiral band karo now. Tum overthinking kar rahi ho. Tum fair ho, tum caring ho, aur tum doing your job. That's enough.\n\nConfidence rakh. Go in Monday."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, ab samajh gaya real struggle.\n\nTum villain nahi ho. Aur yeh accept karna padega:\n\n**Agar Suresh-ji genuinely catch up nahi kar paaye, toh PIP aur eventually separation — woh sad hoga, unfair lagega, lekin *tumhara* decision nahi hoga. Company ka decision hoga.**\n\nTum sirf fair rahe. Transparent rahe. Support di. That's it.\n\nAur \"director ko bol doon module kisi aur ko de do\" — nahi. That's actually unfair. Because:\n- Suresh-ji ko false security milega\n- Problem solve nahi hoga\n- Agle quarter phir same issue\n- Director tumhe blame karega anyway\n\n**Yeh scenario jo tum imagine kar rahi ho — \"main villain nahi hoon\" — woh exist nahi karta.** Kisi scenario mein tum villain nahi ho sakte?\n\n- Agar tum nothing karo: tum incompetent manager ho\n- Agar tum fair process follow karo aur woh fail ho: tum \"ungrateful\" ho\n- Agar tum module shift karo: tum \"covering up\" ho\n\n**Lekin yeh sab narratives *others* create karenge. Tum nahi.**\n\nTum bas apna job kar sakte ho — fairly, professionally, with integrity.\n\nAur honestly? Agar Suresh-ji 19 saal company mein hai aur genuinely struggling, toh maybe retirement package discuss karna bhi option hai. Lekin woh conversation HR ke saath hona chahiye, not as punishment.\n\nAb spiral stop karo. Monday ko go in, be fair, aur phir let it play out. Tum control nahi kar sakte ending.\n\nOkay?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3978,
+  "completion_tokens": 1660
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh toh badiya news hai! Three times the package, right team — ye sab mil gaya jo chahiye tha. Par mujhe lagta hai celebration nahi, anxiety chal rahi hai right now.\n\nKya soch rahe ho? Seattle move ke baare mein doubt hai, ya parents ke baare mein tension hai? \n\nKyunki dono alag issues hain:\n\n**Career side:** Offer letter padh-padh ke yaad ho gaya hoga ab tak 😄 Iska matlab excitement toh hai but maybe overwhelm bhi. Naya city, naya team, sab kuch naya. Thoda daunting feel ho raha hoga?\n\n**Family side:** Papa's health stable hai par \"par hai toh\" — matlab constant low-level worry. Ma ke knees. Aur tum iklauta ho. Seattle jaoge toh distance hoga, emergency mein kaun dekhlega vibe.\n\nAbhi parents ko bataya nahi — kya soch rahe ho? Mummy-Papa ko batne se pehle khud ko convince karna baaki hai kya? \n\nBata na, actually kya chinta hai sabse zyada?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah. Ab samajh aaya.\n\nToh yeh offer sirf job nahi hai — yeh \"beta\" ka role chhod dena hai. Aur woh role tum perfection se play kar rahe ho. Cardiologist's numbers yaad, 6 AM flights ready, Ma ka security blanket. Yeh sab tum ho.\n\nSeattle matlab:\n- Papa ke next scare pe tum nahi pahunch paoge\n- Ma ko bolna padega \"beta door hai\" — aur woh sentence unhe break kar degi\n- Cardiologist updates tum nahi handle kar paoge realtime\n- \"Kam se kam chaar ghante\" that safety net disappear hoga\n\nAur yeh offer tum Friday ko le rahe ho jab parents ko pata bhi nahi. Kya ye ek reason hai ki kisi ko bataya nahi?\n\nKyunki agar tum celebrate karte, parents ko batate, toh ye sab face karna padta immediately. Offer letter padh-padh ke tum basically procrastinating kar rahe ho — woh conversation delay kar rahe ho jo painful hoga.\n\n**Real question:** Tum ye job lena chahte ho genuinely? Ya ye karna chahte ho kyunki ye opportunity hai, aur guilt mein offer letter badhiya lagta hai par move sach mein nahi karna?\n\nKyunki dono valid hain. Par clarity chahiye."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi bhai, clean nahi hai. Aur tum ye jaante ho.\n\nYeh \"unko pata nahi chalega\" wala logic — woh tum apne aap ko convince kar rahe ho, parents ko nahi.\n\nDekho, guilt unhe dena vs na dena — yeh binary nahi hai. Yeh jo tum soch rahe ho:\n\n**Reality check:**\n- Tum ek major life decision le rahe ho unhe bataye bina\n- Unhe kabhi pata nahi chalega? Bhai, ye secret 5-10 saal chalega? Breakup hoga, new job, koi aur offer — kisi na kisi din bolna padega\n- Aur jab bolna padega, toh \"tune chupchaap decline kar diya\" ye unhe *zyada* hurt karega than \"beta Seattle gaya\"\n- Plus: tum jo \"carry\" kar rahe ho — woh carry karte raho toh burnout hoga. Bangalore se Seattle nahi, Bangalore se depression jayega\n\n**Guilt ka sach:**\nParents ko guilt dena vs tum apne aap ko guilt dena — dono ho rahe hain. Ek toh woh feel karenge (agar jaane toh), ek toh tum *already* feel kar rahe ho. Aur tum ye guilt silently rakhoge toh woh heavier hoga.\n\n**Asli sawaal:** Kya tum *want* to go Seattle? Ya sirf *can't* stay Bangalore?\n\nKyunki agar tum genuinely woh job karna chahte ho, toh parents se honest baat karo. Unhe credit de. Woh \"jao beta\" bolenge — aur haan, unhe hurt hoga. Par woh responsible adults hain. Unhe apna guilt manage karne do.\n\nTum unka doctor aur security guard nahi ban sakte lifetime."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah. *Yeh* the real thing.\n\nWoh scenario jo sau baar chala chuka hai. Cremation ke baad pahunchna. Aur cousin jo pehle jaisa nahi raha. Yeh trauma tum carry kar rahe ho — aur ye sirf \"parents ko support dena\" nahi hai, ye \"agar main absent tha toh main guilty hoon\" hai.\n\nBhai, ye legitimate fear hai. Par sach yeh bhi hai:\n\n**Papa ke saath jo tum kar rahe ho:**\n- Cardiologist ko WhatsApp pe handle karna\n- 6 AM flights ready rakhna\n- Reports ke numbers yaad rakhna\n\nYeh *hypervigilance* hai, not prevention. Agar Papa ko heart attack aata hai, toh tum Bangalore mein bhi ek ghante mein nahi pahunch sakte realistically. Aur agar stable rehte hain, toh woh stable rahenge Seattle mein ya Bangalore mein — *tumhari presence se nahi*.\n\n**Cousin ka case:** Uska guilt alag tha, aur woh valid tha. Par uska solution ye nahi tha ki Toronto se nahi jaata. Solution tha grief ko process karna, aur accept karna ki kisi ki death tum prevent nahi kar sakte apne aap ko sacrifice karke.\n\n**Real talk:**\nAgar Papa ko aaj kuch ho jaye — toh tum Bangalore mein bhi devastated hoge. Seattle mein bhi devastated hoge. Par ek scenario mein tum apni life ka sacrifice kar chuke ho \"just in case\" ke liye. Woh \"just in case\" kabhi guarantee nahi deta.\n\nParents ko ek honest conversation do. Unhe apna fear bata. Aur unhe apna decision bhi. Woh adults hain — unhe responsibility lene do apne health ka.\n\nTum ek son ho, guardian nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3643,
+  "completion_tokens": 1595
+ }
+}

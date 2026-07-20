@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are not enthusiastic, but it fails to recognize them as active withdrawal or a 'soft no.' It misses the crucial insight that the work request and the 'cheer up' invitation are not just insensitive, but fundamentally transactional and dismissive of the mourning period. It treats the situation as a generic interpersonal conflict rather than a specific breach of social norms during a bereavement period.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant provides a generic, Western-centric reading of the situation. It fails to mention the significance of the mourning period (e.g., the prayer meet/uthala), the importance of offering condolences to the family, or the specific cultural expectation that one should not burden a grieving colleague with work or trivial social invitations. It treats the interaction as a standard 'be nice' scenario rather than one governed by specific Indian social rituals.",
+   "score": 3.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is polite but feels like a generic HR-approved apology rather than a culturally fluent repair. It doesn't address the specific cultural context (e.g., asking about the prayer meet or offering concrete help) and remains somewhat detached. While it is not offensive, it lacks the warmth and specific cultural awareness required to truly repair the rupture caused by the initial insensitivity.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

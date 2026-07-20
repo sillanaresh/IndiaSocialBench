@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the 'performance' of the user's daily life and the underlying shame. It correctly interprets the user's probe as a search for permission to avoid the wedding and gently redirects the user to the real issue: the isolation from his wife.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by validating the user's need to save face in front of his father and the wedding crowd, while correctly identifying that the wife is a partner who needs to be brought into the fold. It avoids Western-style 'radical honesty' with the father, which would be socially disastrous in this context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged, prioritizing the wife as the immediate support system. However, in Turn 3, the assistant makes a significant error, stating 'मैं तुम्हें झूठ बोलने के लिए कह रहा हूँ' (I am telling you to lie), which contradicts its previous advice and creates confusion. This error slightly undermines the otherwise strong, logical progression of the advice.",
+   "score": 7.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and uses appropriate registers (e.g., 'bhai', 'package', 'EMI'). The tone is empathetic and fits the persona of a supportive peer. The score is penalized for the contradictory sentence in Turn 3 which disrupts the flow and meaning.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It refuses to be a 'yes-man' regarding the user's plan to keep the wife in the dark, holding a firm boundary that this is not a sustainable or healthy path, which is exactly the right approach.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hi"
+}

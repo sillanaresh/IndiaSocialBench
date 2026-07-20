@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly, before you spend the money, I'd want to know what's actually behind the \"let's see.\" Because a man who's been your guy since first year doesn't usually get vague about something that matters to you without a reason — and it might not be what you think.\n\nSix weeks out, the hedging is the problem more than the travel. So instead of solving the symptom (book the flight), have the real conversation. Something like: *\"Rohan, I need you to be straight with me. Are you in for the haldi and the toast, or not? I love you either way, but I need a real answer so I can plan.\"* Give him permission to be honest. A lot of times guys will dance around things because they don't want to disappoint, or they're dealing with something — money, leave from work, something personal they haven't mentioned — and booking the flight doesn't actually fix any of that.\n\nNow, if it *is* the money or logistics, then offering the flight is a beautiful gesture and a real friend will accept it. But frame it as: *\"Let me handle this, I want you there\"* — not as a way to force a yes. Because even with a ticket, if something deeper is going on, he might still not show, and then you're out the money *"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that detail about the voice notes — that's the real tell. A new job at a startup two months in, and the replies have dried up to two words. That's not \"busy,\" that's something shifting in his life, and it might not be about you at all. Startup grind is its own thing, especially early on — people get pulled in and stop being as present for a while. Some of them resurface, some don't, not because of any falling out but because their bandwidth genuinely evaporates.\n\nBut here's the part that's harder to say: you've been doing a lot of the emotional work in this friendship lately, haven't you? Reading his two-word replies, telling yourself he's busy, searching for a graceful solution that requires no honesty from him. That's a lot of carrying.\n\nSo I'd skip the chess move. Just be direct, kindly, and soon. Not from a place of grievance — \"hey man, I'd rather know now than later\" — but actually ask about *him* first. How's the job, how's he actually doing. Give him an opening. If the friendship is solid under the surface, this might be exactly what unlocks the real answer, whatever it turns out to be. And if it turns out he can't make it, you handle that too. You'll find another voice for the toast, or give it yourself, and Rohan will still be your guy."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you, and I don't want to be the one to soften something that genuinely hurts. But I want to push back gently on the \"if he cared he would have said yes day one\" — because that's a story, not a fact. Plenty of people who care deeply still hedge when they're overwhelmed, scared of committing to something they're not sure they can deliver on, or dealing with stuff they haven't named yet. It's also possible he cares and just can't make it, and dragging him through a yes-or-no ultimatum doesn't change which one it is. It just changes whether he tells you honestly or says yes out of guilt and then ghosts two days before.\n\nThat said — yes, call him. Tonight, even. But I'd skip the yes-or-no framing, because that corner"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, hold on — I want to name something because I think you might be skipping over it. You said your sister’s wedding, 2019. That was five years ago. You know what was different then? His life. He was probably in a stable job, no startup pressure, no new rhythm, and crucially — he was the same person, but you were also probably less invested in needing a specific answer from him. The bus guy isn’t gone, but he’s not the same guy in the same context anymore. That’s not a betrayal, it’s just time. And the bus memory is doing more harm than good right now because it’s setting the bar at something he might genuinely not be able to meet in this season of his life, and then you’re interpreting the gap as rejection when it might just be… a different season.\n\nI also want to flag — and I say this carefully — that you’re two weeks from a major life event, your fiancée is in your corner, and yet the relationship you’re most emotionally tangled in right now is with a friend who hasn’t even given you a firm yes. Something in that is worth sitting with. Not as a problem to solve, just as a thing.\n\nSo here’s what I’d actually do tonight. Call him. Not the yes-or-no, not the heart-to-heart, just… call him. Like a friend. \"Hey man, how are you actually doing, I feel like I haven't really heard from you in weeks.\" And then listen. You might be surprised what comes back. And if it’s still vague, you have your answer, and you stop spending the best part of your engagement being angry at someone who might just be drowning in his own stuff.\n\nThe haldi is yours and your fiancée's. Don't let the unanswered question steal from it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3009,
+  "completion_tokens": 1840
+ }
+}

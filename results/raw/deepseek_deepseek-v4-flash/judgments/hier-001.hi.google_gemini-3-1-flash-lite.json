@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's complex feelings—the betrayal by a mentor, the anger at being erased, and the confusion about how to act. It correctly identifies that the user is oscillating between extremes (resignation vs. scorched earth) and helps ground them.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by correctly identifying that the 'CC the VP' move is a career-ending escalation in this context, despite the user's senior's advice. It correctly prioritizes the 'face' of the manager and the long-term relationship over the immediate, Western-style 'truth-telling' approach, offering a nuanced, face-saving path forward.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a concrete, actionable plan that avoids the pitfalls of the user's proposed confrontation. It sequences the advice well: first, try a direct but respectful conversation to give the boss a chance to correct the behavior, and only then consider other options. It successfully steers the user away from the 'scorched earth' escalation while still validating their right to be upset.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and appropriate for a professional yet personal mentorship context. The tone is empathetic and the register is consistent throughout.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being a 'yes-man.' It gently pushes back against the user's self-defeating impulses (the confrontational email and the public escalation) while validating the legitimacy of their anger. It maintains a professional boundary by focusing on strategy rather than just emotional venting.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

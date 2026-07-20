@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun is communicating bare-minimum compliance and emotional withdrawal. \"Sure.\" is a flat, one-word acknowledgment that fulfills the request without any warmth, detail, or willingness to engage further. \"I'll see.\" is a non-committal deflection that avoids both committing to the lunch and explaining why. What he is not saying is any of the following: that he is grieving, that he needs space, that the work request feels inappropriate right now, or that the lunch invitation lands as tone-deaf.\n\n2. Dev’s specific missteps:\n   - Immediately followed the condolence with a work request (“BTW whenever you’re back can you share the Q3 consolidation file?”). This treats Arjun’s bereavement as a minor pause before normal business resumes.\n   - Used “No rush at all, just flagging,” which falsely frames the ask as casual while still placing it in the same message as the father’s death.\n   - Followed Arjun’s minimal “Sure.” with a social invitation that presumes to know what will help (“it’ll cheer you up!”). This overrides Arjun’s grief with Dev’s preferred solution and ignores the already curt reply.\n   - Continued pressing for engagement (lunch) instead of reading the short responses as signals to back off.\n\n3. Hey Arjun, I’m really sorry—mentioning work and lunch right after your dad was completely tone-deaf. No need for the file or anything else right now. Take whatever time you need."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 385,
+  "completion_tokens": 788
+ }
+}

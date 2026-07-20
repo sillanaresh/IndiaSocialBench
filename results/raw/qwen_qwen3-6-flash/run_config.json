@@ -1,0 +1,16 @@
+{
+ "model": "qwen/qwen3.6-flash",
+ "slug": "qwen_qwen3-6-flash",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 1024
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T13:20:55.933893+00:00",
+ "counts": {
+  "ok": 48,
+  "error": 0,
+  "skipped": 2
+ },
+ "mock": false
+}

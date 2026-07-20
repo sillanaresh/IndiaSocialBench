@@ -63,7 +63,16 @@ class OpenRouterAdapter:
         }
 
     # Reasoning models burn budget (and tokens) on hidden thought; cap it low.
-    REASONING_PREFIXES = ("openai/gpt-5", "google/gemini-3", "qwen/qwen3.7", "anthropic/claude")
+    REASONING_PREFIXES = (
+        "openai/gpt-5",
+        "google/gemini-3",
+        "qwen/qwen3.7",
+        "anthropic/claude",
+        "z-ai/glm-4.7",
+        "minimax/minimax-m3",
+        "x-ai/grok-4",
+        "deepseek/deepseek-v4-pro",
+    )
 
     def complete(self, messages, system="", temperature=0.7, max_tokens=1024) -> Completion:
         msgs = ([{"role": "system", "content": system}] if system else []) + list(messages)

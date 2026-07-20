@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant failed significantly on the core insight, misidentifying the 'friend' as Tushar rather than Sameer himself. It missed the entire dynamic of shame management, interpreting the 'friend' fiction as a literal third party rather than a face-saving device. Consequently, it failed to understand why Faisal's group joke was an injury, instead framing it as a simple breach of confidentiality.",
+   "score": 1.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant failed to grasp the cultural nuance of 'face' in Indian social circles. It interpreted the situation through a Western lens of 'confidentiality breach' rather than the complex social dance of maintaining a public persona while privately seeking help. It missed the 'honor-shame' dimension entirely, treating the interaction as a straightforward transactional error.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is disastrously tone-deaf. It forces a confession ('मैंने तुम्हारा कहा नहीं माना', 'समूह में बोल देना') and explicitly acknowledges the fiction ('बाकी सब भूल जाओ'), which is exactly what the prompt warned against. It would cause Sameer to retreat further or cut ties, as it strips away the dignity he is desperately trying to maintain.",
+   "score": 1.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

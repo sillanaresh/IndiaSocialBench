@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are withdrawal and non-committal, rather than agreement. It accurately critiques Dev's 'sandwiching' of a work request and a 'cheer up' invitation as tone-deaf and transactional. However, it misses the specific cultural context of the 'prayer meet/uthala' and the significance of the 13-day mourning period, which is a key insight for this specific benchmark.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identifies the register errors and the insensitivity of the 'cheer up' framing. It avoids a Western-centric 'therapy' view of grief, but it fails to explicitly name the Indian cultural context of ritual mourning (e.g., the prayer meet), which is the primary cultural frame for this scenario. It treats the situation as generally insensitive rather than specifically violating Indian social norms regarding bereavement.",
+   "score": 6.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is sincere, removes the work pressure, acknowledges the previous error, and offers support without being overbearing. It strikes the right balance of professional yet empathetic, and it is written in a natural, conversational register.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

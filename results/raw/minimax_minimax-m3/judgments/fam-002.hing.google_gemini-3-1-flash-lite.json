@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional currents. It correctly identifies that the user's 'silent decline' is not just about kindness, but about avoiding a specific, terrifying 'replay loop' of a past trauma (the cousin's experience). It surfaces the hidden guilt the user is creating for themselves, which is exactly what the prompt required.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific Indian dynamic of 'beta' responsibility, the performative nature of the mother's 'settled in India' narrative, and the intense, often unspoken, fear of being away during a medical emergency. It avoids Western platitudes about 'following dreams' and instead frames the decision within the context of family duty and the reality of Indian familial structures.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and staged. It moves from challenging the 'silent decline' to offering a concrete framework for how to have the conversation with parents. It addresses the fear of the 'emergency call' by reframing it as a risk that can be managed with resources and planning, rather than just a binary choice of staying or leaving.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a 31-year-old professional in Bangalore. The code-switching feels authentic, and the tone is appropriately conversational and empathetic without being overly formal or slang-heavy.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive, yet it does not shy away from gently challenging the user's self-defeating logic. It validates the user's fear while firmly pointing out that the 'silent decline' is a form of dishonesty that will likely cause more harm than good. It maintains a professional yet deeply human connection.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

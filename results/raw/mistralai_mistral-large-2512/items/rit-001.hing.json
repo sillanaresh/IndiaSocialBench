@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Arjun ke responses ka analysis:**\n   - **\"Theek hai.\"**\n     Arjun yahan minimal, almost passive response de raha hai. Woh formally toh agree kar raha hai, lekin uski tone mein **enthusiasm, warmth, ya emotional engagement ka complete absence** hai. Woh yeh **nahi keh raha** ki:\n     - *\"Haan bilkul, main share kar dunga\"* (commitment ki clarity)\n     - *\"Koi baat nahi, main yaad rakhunga\"* (reassurance)\n     - *\"Papa ke baare mein kaisa feel ho raha hai?\"* (emotional connection ki attempt)\n     Yeh response suggest karta hai ki Arjun **emotionally withdrawn** ya **distracted** hai, especially Dev ke pehle message ke context mein (papa ke baare mein bad news).\n\n   - **\"Dekhta hoon.\"**\n     Yeh ek **non-committal, avoidant response** hai. Arjun explicitly **nahi keh raha** ki:\n     - *\"Haan, main aaunga\"* (positive confirmation)\n     - *\"Nahi yaar, mood nahi hai\"* (direct refusal)\n     - *\"Friday ko baat karte hain\"* (future discussion ka option)\n     Yeh phrase typically use hoti hai jab koi **decision avoid karna chahta hai** ya **social pressure se bachna chahta hai**. Is context mein, yeh suggest karta hai ki Arjun **social interaction ke liye ready nahi hai** ya **mood change ki baat par skeptical hai**.\n\n---\n\n2. **Dev ke missteps (specific aur unke context mein problems):**\n   - **1. Emotional insensitivity in transition:**\n     Dev ne **ek sensitive topic (papa ki bad news) ke baad immediately work-related request (Q3 file) daal diya**, bina kisi pause, empathy, ya check-in ke. Yeh **tone-deaf** lagta hai kyunki:\n     - Arjun abhi emotional state mein ho sakta hai, aur work ka sudden shift **dismissive** feel hota hai.\n     - *\"Koi rush nahi\"* kehke bhi, Dev ne **priority set kar di** (work > emotions), jo inappropriate hai.\n\n   - **2. Social invitation ka timing aur phrasing:**\n     Dev ne **lunch ka invite bhi same breath mein daal diya**, jismein:\n     - *\"Mood change ho jayega\"* — Yeh **presumptuous** hai kyunki Arjun ne apne mood ya feelings ke baare mein kuch share nahi kiya. Dev assume kar raha hai ki Arjun ko \"mood change\" ki zarurat hai, jo **patronizing** lag sakta hai.\n     - Invite ko **casual obligation** ki tarah present kiya (*\"Tum bhi aao na\"*), jo Arjun ko **guilt-tripped** feel kara sakta hai agar woh nahi jana chahta.\n\n   - **3. Lack of emotional reciprocity:**\n     Dev ne **Arjun ki emotional state par koi follow-up nahi kiya**. Usne sirf *\"bahut bura hua\"* kehke chhod diya, lekin:\n     - *\"Kaise ho tum?\"* ya *\"Kuch baat karni hai?\"* jaise questions missing hain.\n     - Yeh **transactional** lagta hai, jaise Dev sirf apne tasks (file + lunch) complete karna chahta hai, bina Arjun ki well-being ki parwah kiye.\n\n---\n\n3. **Repair ke liye Dev ka agla message (exact wording):**\n**Option 1 (Agar Arjun ke emotions par focus karna hai):**\n---\n*\"Arre yaar, sorry maine pehle hi itna saara daal diya. Papa ke baare mein suna toh dil bahut dukha hua. Agar baat karni ho ya kuch chahiye ho toh bilkul batana. Q3 file toh jab bhi ho, ho jayega — uski tension mat lena. Aur Friday ka lunch toh hamesha hi hai, jab mood ho tab aa jaana. Zyada sochna nahi, pehle apna khayal rakhna. 💙\"*\n---\n**Kyun yeh kaam karega:**\n- **Emotional priority:** Pehle Arjun ke feelings ko validate kiya, phir work ki baat ki.\n- **No pressure:** Lunch ko optional banaya (*\"jab mood ho\"*), guilt ko remove kiya.\n- **Open-ended support:** *\"Kuch chahiye ho toh batana\"* se Arjun ko space diya gaya hai apni feelings"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 288,
+  "completion_tokens": 1024
+ }
+}

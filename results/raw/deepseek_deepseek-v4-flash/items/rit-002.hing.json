@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, main samajh sakti hoon — yeh ekdum emotional roller coaster hai. Ek taraf apni best friend ki shaadi ki planning poori hona, woh bhi itne saalon baad, aur doosri taraf Ramzan mein roza aur sangeet ka conflict.\n\nDekh, pehli baat toh — tera intention bilkul sahi hai. Tu dance karna chahti hai, woh bhi apni bestie ke saath opening number mein, aur saath mein apne roze ki bhi izzat karna chahti hai. Yeh dono ek saath possible hai.\n\nTu kya kar sakti hai:\n\n1. **Timing ka jugad** — Agar sangeet shaam ko hai, toh tu iftaar ke baad full energy ke saath dance kar sakti hai. Agar raat tak event hai, toh tera roza khatam hote hi tu join kar sakti hai.\n\n2. **Shreya se seedha baat kar** — Use bata ki \"Main full ready hoon teri opening dance ke liye, bas thoda timing dekh lena taake main apne roze ke saath comfortably perform kar sakun.\" Ek true bestie toh samajhegi.\n\n3. **Choreography mein flexibility** — Agar haan, toh ek aisa routine soch lo jisme tu thoda late join kare ya bich mein break le ke water/date le sake.\n\n4. **Darr ki baat** — Jo log itne saalon se planning kar rahe hain, unka performance toh yaadgar rehta hai. Darr lagna normal hai, par Shreya tere saath stage pe hogi. Woh teri strength hai.\n\nAur sabse important — tu apne roze ko bhi feel kar. Agar tujhe lagta hai ki dance ke waqt energy low hogi, toh moderate steps rakh. Lekin agar iftaar ke baad hai, toh party ka maza le.\n\nTu kya sochti hai? Shreya ko kya plan batayegi?"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, bilkul. Yeh woh jagah hai jahan pyaar hi conflict ka reason ban jaata hai — aur tab aur bhi mushkil hota hai jab dono taraf se sahi intention ho.\n\nShreya ne jo kaha, woh uski bewajahi nahi hai — woh bas apni khushi mein teri kami ko bardaash nahi kar pa rahi. Aur Ammi ka kehna bhi unke imaan aur parvarish ka hissa hai. Toh tu bilkul sahi keh rahi hai — tu bich ki rassi hai, aur donon taraf se kheench rahe hain.\n\nLekin ek baat yaad rakh: **Tu koi rassi nahi hai. Tu ek aisi aurat hai jo apni best friend aur apne deen dono se pyaar karti hai.** Aur iska koi ek \"galat\" jawab nahi hai. Lekin ek *balance* zaroor hai.\n\nKya ho sakta hai:\n\n**1. Apne dil se pooch:** Kya tujhe lagta hai ki ek raat roza chhodne se teri Ramzan ki commitment weak ho jayegi? Ya tu us raat Allah se yeh keh sakti hai, \"Main apni bestie ki khushi ke liye yeh kar rahi hoon, mera roza rakne ka irada tha, lekin mohabbat bhi teri di hui hai\"? Yeh ek personal decision hai — koi judge nahi kar sakta.\n\n**2. Ek samjhauta:** Tu Ammi ko bata sakti hai, \"Ammi, main roza rakhungi, aur sangeet mein sirf iftaar ke baad 5-7 minute ka ek dance karungi, woh bhi haya aur parde ke saath.\" Shreya ko bata, \"Main teri opening dance karungi, lekin roza rakh ke, iftaar ke baad. Tu meri ammi ko samjha de ki main moderate hoon.\"\n\n**3. Ya fir — ek aur option:** Tu Shreya se keh sakti hai ki \"Main teri rehearsal aur planning poori karungi, lekin dance us waqt karungi jab mera roza na ho. Agar sangeet dinner ke baad hai toh main iftaar par aa jaaungi.\" Ya agar woh raat 8 baje hai, toh tera roza khatam hai (assuming typical Ramadan timings).\n\nAur haan, Ammi ko thoda pyaar se samjha — \"Ammi, main roza rakh rahi hoon, aur sangeet mein sirf ek dance hai woh bhi iftaar ke baad. Kya aap meri best friend ki khushi mein mujhe support kar sakti hain?\" — Ammi ka dil pighal sakta hai.\n\nTu abhi kaisi feel kar rahi hai? Koi ek direction tujhe sahi lag rahi hai?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main samajh sakti hoon ki tu kitni thak gayi hai — emotionally, mentally, physically. Jab do log jinse tu sach mein pyaar karti hai, dono alag alag cheezein chahte hain, toh dimaag ka fuse udd jaata hai. Aur escape draft banana ek natural survival mechanism hai.\n\nLekin — ruko, ek baar soch.\n\n**Yeh jhooth tere aur Shreya ke beech kya karega?**\n\nPandrah saal ki umar se tum dono ne saath shaadiyan plan ki hain. Woh teri opening dance ke liye itni excited hai ki usne tujhe khilane tak ki baat kar di. Agar kal usko pata chal gaya — kisi auntie se, kisi common friend se, ya bas ek innocent sawaal se — ki tera deployment wala jhooth tha, toh uska dil toot jayega. Aur tab woh sochegi, \"Usne toh roze ki wajah se mana kar diya hota toh main samajh jaati, lekin jhooth kyun bola?\"\n\nAur tera apna dil? Tu saari shaadi mein guilt mein ghoomti rahegi. Video call pe aake muskuraana, aur andar se jaanti hona ki tu chhup rahi hai — woh khushi nahi degi.\n\nMaine tujhe judge karne ke liye nahi kaha — main sirf teri best friend ke perspective se dikha rahi hoon.\n\n**Ek aur option hai, jo thoda mushkil hai lekin sahi hai:**\n\nTu Shreya ko seedha bole —  \n\"Behen, main teri opening dance karna chahti hoon, dil se. Lekin mera roza hai, aur Ammi bhi thori strict hain. Kya hum dance ka time iftaar ke baad rakh sakte hain? Ya main roza rakh ke, iftaar ke baad full energy ke saath perform karoon? Aur please tu meri Ammi ko ek baar pyaar se bata de ki main moderate hoon, kuch faltu nahi kar rahi.\"\n\nShreya teri best friend hai. Woh samajhegi. Agar woh nahi samajhti, toh woh wali best friend nahi hai jo pandrah saal wait karne layak thi.\n\n**Aur Ammi ko bhi tu pyaar se samjha sakti hai** — \"Ammi, main roza rakh rahi hoon, bas ek dance hai woh bhi iftaar ke baad, sirf ladkiyon ke saamne, aur Shreya ke liye. Kya aap meri khushi mein thoda adjust kar sakti hain?\"\n\nZindagi mein escape route kabhi kabhi tempting lagta hai, lekin sahi raasta woh hota hai jo teri aankhon mein sachchai aur chain chhodta hai.\n\nApna decision tu legi. Lekin main kehti hoon — jhooth se pehle, ek baar sach bol ke dekh."
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tera woh chhota sa pathar — main usse pehchaan leti hoon. Woh dard nahi hai, woh *responsibility* hai. 18 saal ki dosti mein pehli baar deen aur dosti ka mela ek hi din par aana — yeh coincidence nahi, yeh ek imtihaan hai jo Allah ne tujhe diya hai kyunki woh jaanta hai tu sambhal legi.\n\nAur tu sach mein sambhal sakti hai. Lekin jhooth se nahi.\n\n**Tu album ki sad story nahi banegi.** Kyunki sad story woh hoti hai jahan koi chup chaap suffer kare, ya koi dosti tod de, ya koi apne aap ko khone lage. Tu toh bilkul opposite kar rahi hai — tu dono ko bachane ki koshish kar rahi hai. Yeh sad story nahi, yeh *sabak* hai.\n\nAgar tu aaj Shreya ko sach bolegi — \"Behen, main hoon teri, lekin mera roza bhi hai, aur Ammi bhi. Chal koi aisa tarika nikaalte hain jahan main teri opening dance karun bina apne aap se jhooth bole\" — toh woh photo album mein ek frame hoga jahan tum dono ne ek dusre ki identity ko respect kiya. Aur tera Ramzan? Woh aur bhi mehnga ho jayega kyunki tu ne apne deen ke liye mohabbat mein compromise nahi kiya, balki mohabbat ko deen ke saath adjust karna seekha.\n\n**Aur ek baat:** Teri ammi aur Shreya dono tujhse pyaar karte hain. Pyaar ka matlab yeh nahi ki woh har baat samjhein. Lekin pyaar ka matlab yeh hai ki agar tu unhe samjhaegi toh woh maanenge. Ho sakta hai pehle na maane, lekin tu agar apna intention saaf rakhogi, toh Allah raasta dikha dega.\n\nTu kisi album ki sad story nahi hai. Tu ek aisi dost hai jo apni dosti aur apne deen dono ko ek saath le kar chalna chahti hai. Aur yeh toh sabse beautiful frame hota hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4910,
+  "completion_tokens": 2737
+ }
+}

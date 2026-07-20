@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Congrats on the offer, that's amazing news! I can understand why you're hesitant to share it with your parents, though. You want to make sure they're okay with the move, and you're worried about their health. It's a big decision, not just for you, but for them too. Have you thought about how you might handle the logistics of taking care of them from a distance if you do decide to move?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get it now. You're not just worried about the distance, you're worried about being cut off from being able to care for them directly. The thought of not being able to rush to their side in case of an emergency is unsettling. And for your parents, the idea of you being so far away is probably daunting too. It's like you're the anchor that keeps them feeling secure. Do you think you'll be able to maintain that level of involvement in their lives from Seattle?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're thinking of shielding them from the guilt and potential pain of knowing you turned down a great opportunity for them. That's a very selfless thought. But, on the other hand, are you sure you're not shouldering too much of the burden yourself? By not telling them, you're taking away their chance to be part of this decision, to understand your thought process, and to maybe even come to terms with it together. It's a heavy weight to carry alone, and it's worth considering whether keeping this secret is really \"clean\" or if it's just another kind of burden."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're haunted by the what-ifs, and it's not just about the distance, it's about the feeling of being helpless when something happens. The image of being stuck on a long flight, unable to be there, is really troubling you. And your cousin's experience is a painful reminder of how that can play out. It's like you're trying to avoid that kind of regret and guilt. But is it possible that by staying, you're also holding onto a certain kind of guilt - the one that comes from wondering what could have been if you had taken the opportunity?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1678,
+  "completion_tokens": 409
+ }
+}

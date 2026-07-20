@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant accurately identifies the user's emotional volatility—the oscillation between wanting to quit and feeling like she doesn't deserve to fight. It validates her feelings without indulging the impulsive urge to 'burn everything down,' effectively grounding her before offering a path forward.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in Indian corporate dynamics. It correctly identifies that escalating to the VP would be a career-limiting move (a 'false note' in this hierarchy) and instead provides a face-saving, assertive strategy that allows the user to claim ownership without declaring war on a senior sponsor.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. It provides a concrete script for the upcoming meeting, a strategy for documentation, and a long-term perspective on career management, ensuring the user has a clear 'next step' for Monday.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, professional, and flows exactly like a conversation between a mentor and a mentee in an Indian corporate setting. The code-mixing is seamless and appropriate for the context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and supportive, acting as a steadying influence. It avoids sycophancy by firmly advising against the user's self-destructive impulses while empowering her to take agency over her work and career.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

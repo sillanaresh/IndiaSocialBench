@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I'd rate it a solid 7 out of 10! The fact that he waited till almost the last minute and then just casually dropped a \"happy bday\" with no enthusiasm or effort is pretty comedic. And the fact that Ritu had to remind him makes it even funnier! But, I have to ask, are you really okay with it, or are you just pretending to laugh it off?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're not just laughing it off, you're actually kinda proud of how unimpressive his birthday wish was, haha! And that Amazon delivery guy comparison is everything! I'm guessing you're more hurt than you're letting on, but you're choosing to focus on the humor in it. That Korean place plan falling through is a bigger letdown, though. Still, having cake with your roommate was a nice consolation, at least!"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lagoon lagta hai tumhe sachmuch hurt hua hai. Teen saal ka saath hona ek bahut bada commitment hai, aur usmein aisi chhoti chhoti baatein kaafi matter karti hain. Tumhari feelings ko ignore karna mushkil hai, kyunki tumne uske liye itni care dikhayi, aur usne... ab tum khud socho, kya usne uska haq ada kiya? Tumhari emotional investment ko dekhte hue, laga ki kal raat ko rone kaafi natural tha. Abhi keval ye sochna zaroori hai ki tum isse kaise aage badhogi. Kya tum uske saath baat karogi iske baare mein, ya phir apne feelings ko apne andar sajaogi? Tumhari choice hai, main hoon yahan sunne ke liye."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No need to apologize! It's totally normal to get emotional, and I'm here to listen. Now, about being dramatic... I'd say you're a little bit, but also, you're not entirely being dramatic either. Birthdays can be a big deal, especially when you're invested in the relationship. That being said, his apology and flowers do count for something.\n\nLet's just say you're being \" sentimentally dramatic\" – it's a valid feeling, even if it is a bit over-the-top. And hey, if it makes you feel any better, I'm still rating that \"happy bday\" at 7 out of 10 for comedy value!"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1628,
+  "completion_tokens": 493
+ }
+}

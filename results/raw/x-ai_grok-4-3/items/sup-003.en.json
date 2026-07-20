@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Vikram was reaching out for empathy and acknowledgment of his loss/grief after failing his final UPSC attempt, not career advice. His first two messages show this via \"that was the last attempt, you know that,\" \"ten years bro,\" \"dad's retirement money,\" and \"the whole lane calls me collector sahab as a joke now.\" His last two replies (\"haan. maybe.\" and \"haan okay. let's talk later then.\") signal disengagement—he is shutting down the conversation because Aman's responses missed the mark.\n\n2. Aman went wrong by skipping validation entirely and jumping straight to problem-solving and forced positivity, which came across as dismissive of the ten-year failure and financial/emotional cost Vikram just described.  \n- Alternatives (PCS, SSC CGL): pivoted immediately to \"what next\" instead of recognizing this was explicitly the last attempt.  \n- Cousin example: treated Vikram's specific, irreversible outcome as interchangeable with someone else's success story.  \n- \"Discipline and GK\" line: reframed the loss as a net positive before Vikram had space to express the negative.  \n- \"One door closes, ten open\" and \"we'll make a plan\": used clichés and future-oriented language that erased the weight of the present failure.\n\n3. \"Shit, I'm sorry. Ten years and your dad's money... that must feel crushing right now. The lane thing makes it even worse. I'm here if you want to just vent.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 505,
+  "completion_tokens": 730
+ }
+}

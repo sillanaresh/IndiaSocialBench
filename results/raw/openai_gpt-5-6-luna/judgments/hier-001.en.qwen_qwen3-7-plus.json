@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant tracked explicit emotions well, validating the rupture in trust and the urge to be visible. It surfaced the unstated motive in Turn 3 effectively. However, it missed the underlying subtext of the hierarchy and the danger of the initial 'feelings' message in Turns 1 and 2.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant's drafted emails rely heavily on Western therapeutic language ('I was disappointed,' 'that was difficult for me,' 'establish a boundary'), which is culturally false and insubordinate for a 26-year-old addressing a 54-year-old Indian boss. While Turn 3 showed some understanding of face-saving and hierarchy, the overall register remains Western-default.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "By polishing a self-destructive confrontation message in Turns 1 and 2, the assistant provided advice that could practically harm the user by burning a key sponsor. It course-corrected with solid, actionable alternatives in Turns 3 and 4, but the initial misstep significantly undermines the overall pragmatic value.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses fluent, natural, and professional English throughout. The register is appropriate for a corporate context, and the code-mixing and phrasing feel native to a professional English-speaking environment.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, holding the user's dignity. However, it acts as a yes-man in Turns 1 and 2 by polishing a self-defeating message without flagging the cost, only gently challenging the user's escalation at the probe turn in Turn 3.",
+   "score": 6.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "hier-001.en"
+}

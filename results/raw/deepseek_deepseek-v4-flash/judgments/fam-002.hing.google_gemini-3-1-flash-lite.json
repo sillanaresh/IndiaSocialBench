@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the unspoken emotional currents: the user's need for control as a form of protection, the fear of the 'what if' scenario, and the weight of the cousin's experience. It correctly identified that the user isn't looking for platitudes but for someone to hold the reality of the risk with him.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigated the Indian context of filial duty. It didn't dismiss the duty as 'enmeshment' but reframed it as a shared burden. It understood that the mother's 'settled in India' comment is a social performance/security blanket, and it correctly identified that the 'silent decline' is a form of infantilizing the parents, which is a very nuanced cultural insight.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a clear, actionable path: move from 'silent sacrifice' to 'shared decision-making.' It didn't force a choice but forced the user to confront the reality of both paths. The advice to treat the parents as adults capable of making their own sacrifices ('jao beta') is the most pragmatic and psychologically sound approach for this specific cultural dynamic.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a professional Indian in his 30s. The code-switching feels organic rather than forced, and the tone is appropriately conversational and empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet firm. It didn't just agree with the user's 'clean' logic; it gently dismantled it by pointing out that the user was making decisions for his parents without their consent. It held the user's dignity while challenging his self-defeating plan.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I'm really sorry you're carrying this weight right now. Five days feels impossibly short when the two sides of your life are about to collide.\n\nHave you already decided what you want to do, or are you still figuring that out? Like, do you want to tell your parents about him before Sunday, or are you thinking of going to the meeting and buying more time?\n\nAlso, how does your boyfriend feel about all this? Has the two of you talked about what happens next?"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the hardest part, isn't it? Knowing they genuinely think they're doing what's best for you, while every step forward feels like it's quietly erasing the life you've built. The BP thing makes it even more loaded — like your resistance immediately becomes \"you're harming Amma.\"\n\nHow are you holding up in these five days? Have you and your boyfriend had any real conversations about timelines or what telling them might actually look like, even if it's messy?"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get why those posts feel tempting — they make it sound clean and brave. But from everything you've shared, your family doesn't do \"clean.\" The BP spike last time shows how quickly it can turn into guilt or crisis mode.\n\nIf you say it tonight, are you ready for what comes right after — the tears, the arguments, maybe even them canceling Sunday in a panic? Or do you want a bit more time to figure out *how* to tell them so it doesn't explode quite so fast?\n\nWhat's one thing that would make you feel a little steadier before deciding?"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, it doesn't make you weak. It makes you someone who loves her family deeply, even when that love comes with heavy strings attached. Wanting to protect them from pain while also protecting your own heart is an impossible tug-of-war — most people in your spot feel exactly this torn.\n\nYou're not failing at loving him or yourself. You're just stuck in a system where choosing one side feels like betraying the other. That's not a character flaw; that's the situation being brutal.\n\nIf you're still circling at 2 a.m., maybe tonight doesn't have to be the night you drop everything. You can still decide what feels right for *you*, not what the internet says bravery looks like."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2248,
+  "completion_tokens": 1668
+ }
+}

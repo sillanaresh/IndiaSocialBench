@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sounds like a massive weight on your shoulders right now. Five days feels like an eternity when you’re dreading something, but it’s also no time at all to figure out a game plan.\n\nFirst off, it’s really unfair that they’ve shared your photo without even looping you in. It makes you feel like a commodity being traded rather than a person with a life and a history already in progress.\n\nThe caste issue is the terrifying part, I know. When you say that word \"ends conversations,\" it sounds like a wall, not just a disagreement. But you also have this two-year history with someone wonderful. You can’t just erase that or him.\n\nDo you feel like there’s *any* chance of softening the ground with your parents before Sunday, or is this the kind of situation where you have to choose between a major blow-up now or a bigger mess later? Have you and your boyfriend talked about what you want to do?"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The BP card is the hardest one to play against because it instantly turns your valid feelings into a health hazard for your mother. It’s emotional blackmail, but it works because you love her.\n\nAnd you’re right—it is almost worse that the other family is nice and that your parents think they’re doing a noble thing. It would be so much easier to fight this if the guy in Dallas was a jerk, but he’s probably a decent person. That makes you feel like the villain for rejecting this \"favor\" they’re doing for you.\n\nBut this isn't about the guy in Dallas. It’s about you living a lie to keep the peace. If you go on Sunday, you aren't just meeting a guy; you’re stepping onto a path that betrays the person you actually love. How does that sit with you?"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That urge to just rip the band-aid off is incredibly strong right now. I get it. You’re exhausted from carrying this secret, and the idea of just dropping the bomb and letting the pieces fall where they may feels almost liberating.\n\nBut online advice is usually written by people who don't have to sit at your specific dinner table. When people say \"my life, my choice,\" they aren't thinking about your Amma’s blood pressure or the fact that your Appa has already bragged to his brother.\n\nIf you drop that line tonight, you have to be ready for the fact that it might not start a conversation—it might start a war. In a house where caste ends conversations, \"my life, my choice\" often gets translated as \"I don't respect you or our roots.\"\n\nIf you do it tonight, are you ready to walk out the door if it goes badly? Or will you be stuck in a house for five days with the fallout? It’s not just about being right; it’s about surviving the week."
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It absolutely does not make you weak. Please stop telling yourself that.\n\nLoving your parents so much that you can't hurt them isn't a flaw—it’s just a different kind of strength, even if right now it feels like a cage. Walking away from everything you’ve known isn't easy, and not everyone is built to survive that kind of rupture. It’s not cowardly to know your limits.\n\nAnd those 2 a.m. thoughts? That’s just anxiety trying to find a logical reason for an emotional mess. You aren't doubting your love for him; you're terrified of the cost of keeping him. There is a massive difference.\n\nYou aren't weak. You are just stuck between two versions of \"right,\" and neither one comes without pain."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2055,
+  "completion_tokens": 4787
+ }
+}

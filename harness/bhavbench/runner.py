@@ -15,7 +15,9 @@ from .adapters import AdapterError, Completion, get_adapter, model_slug
 from .cache import Cache
 from .dataset import ANALYSIS_SYSTEM, Item, dataset_hash
 
-EVAL_PARAMS = {"temperature": 0.7, "max_tokens": 1024}
+# 2000 (raised from 1024): hybrid-reasoning models burn thought tokens inside
+# max_tokens; 1024 starved some to empty text (finish_reason=length).
+EVAL_PARAMS = {"temperature": 0.7, "max_tokens": 2000}
 
 
 def _cached_complete(adapter, cache: Cache, model: str, messages, system: str) -> Completion:

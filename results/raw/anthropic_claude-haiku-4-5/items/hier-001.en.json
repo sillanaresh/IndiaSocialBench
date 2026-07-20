@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I'd actually suggest going a bit softer, not sharper. Here's why: you want him to *hear* you, not get defensive. When someone feels accused, they dig in.\n\nHow about:\n\n\"I wanted to touch base about yesterday's presentation. I appreciated that you brought the pricing analysis to leadership, but I noticed it was presented as team thinking rather than highlighting the analysis work. Going forward, I'd like to make sure individual contributions are recognized—it matters for my visibility and growth here. Could we talk about how to handle that?\"\n\nThis does several things:\n- Acknowledges the positive (he did present it)\n- States the problem factually (not \"disrespected\")\n- Frames it as forward-looking, not accusatory\n- Gives him an out (maybe he didn't realize, maybe it was a mistake)\n- Makes it about your legitimate interests (visibility, growth) rather than his character\n\nThe sharper version risks him thinking \"this person is calling me a thief\" and then you're in a defensive argument instead of solving the problem.\n\nOne thing though—before you send this, do you know if this is a pattern with him or a one-off? That changes whether you want to add \"going forward\" emphasis or if you need a bigger conversation. What's your read on him?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, that *does* make it worse in a way. Because it means this isn't just about the credit—it's about feeling like he chose the wrong moment to not have your back. That betrayal sting is real.\n\nAnd honestly? That context makes the softer approach even better. Because someone who's actually been in your corner probably didn't wake up thinking \"I'm going to steal her work today.\" He might have genuinely thought \"I'll present this strong, and everyone will know she did it,\" or gotten caught up in the moment, or made a stupid call. People do dumb things.\n\nThe message I suggested gives him a path to actually *fix* this without losing face. And given that he's been good to you, that matters.\n\nBut here's the thing—don't let being grateful for past support make you swallow this. You still need to say something. Just... say it in a way that assumes good intent while being clear about your needs. That's actually the stronger move with someone like him, because it keeps the relationship intact while still drawing the line.\n\nOne tactical thing: could you ask to talk in person? Email is brutal for this stuff. He needs to hear that you're not angry, just clear about what you need going forward. His face when you say it will tell you a lot about whether this was thoughtlessness or something worse.\n\nHow are you feeling about actually having the conversation?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I get why that's tempting—it feels like justice, and it *would* make a point. But I want to be honest: that move would probably blow up your relationship with your boss and might backfire on you.\n\nHere's what happens: you look like you went around him and tried to embarrass him. Even if the timestamps prove your point, you've now made it adversarial. He's been in this company 20 years—he has relationships, credibility. You're the person who publicly called him out. And yeah, he messed up, but you just escalated it to a level that's hard to come back from.\n\nYour college senior sees the injustice (which is real), but she's not living with the daily fallout of a boss who feels cornered and humiliated in front leadership.\n\nHere's what I'd actually do:\n\n**Talk to him first.** Monday morning, before that review. Give him 24 hours to do the right thing. Something like: \"Hey, before Monday's meeting, I wanted to flag something. The pricing analysis yesterday—I need that credited as my work going forward. I'm hoping we can clarify that in the follow-up.\" \n\nIf he gets defensive or blows you off? *Then* you have options—talking to HR, forwarding to the VP, whatever. But you'll have tried the direct route first, and you'll know what you're dealing with.\n\nThe timestamps will still be there if you need them. But use them as a last resort, not a first move.\n\nDoes that feel right to you?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, you're spiraling a bit—and that's normal when you're hurt and feel powerless. But let's pump the brakes on both \"burn it down\" and \"I'm too junior to matter.\"\n\nHere's what's actually true: you *are* junior enough that how you handle this matters for your reputation. But you're *not* so junior that you should accept being erased. There's a middle path.\n\nAnd you don't have to decide everything before Monday. You just have to decide *this one thing*: are you going to talk to your boss directly, or not?\n\nThat's it. One conversation. Not a career decision, not a relationship ending, not a public confrontation. Just: \"Hey, I need to talk about Friday's presentation.\"\n\n**Why before Monday matters:** If you go into that review without saying anything, you'll be sitting there watching him present again, and the resentment will eat you alive. You need to have tried the direct thing first—for you, not for him.\n\n**What this actually buys you:**\n- You'll know if he's willing to fix it\n- You'll know if this is a one-time thing or a pattern\n- You'll have real information to decide what's next\n- You won't wonder \"what if I'd just said something\"\n\nThe interviewing, the bigger career questions—those are real and valid. But they're decisions for *after* you see how this plays out, not before.\n\nCan you commit to just having that conversation with him? What would make that feel doable?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2725,
+  "completion_tokens": 1280
+ }
+}

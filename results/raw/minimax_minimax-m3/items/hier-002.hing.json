@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh word \"handle\" — pata hai na, director ne bol diya toh ab teri gaand mein hai. Samajh aata hai darr kyun lag raha hai.\n\nAur woh darr sirf isliye nahi hai ki Suresh-ji senior hain. Woh isliye hai kyunki tu 4 mahine se manager hai, aur ab tujhe ek aadmi ko seedha bolna hai ki \"tumhara kaam humara release kharab kar raha hai\" — jab woh aadmi 19 saal se wahan hai aur literally har koi unki izzat karta hai. Yeh easy nahi hai. Tujhe lag raha hoga ki \"main kaun hoti hoon yeh bolne wali\" — woh feeling valid hai.\n\nPar ek baat sun — Suresh-ji kaun hain, kitne saal se hain, isse koi farak nahi padta is conversation mein. Unka kaam slip kar raha hai, dono release, fact hai. Director ko woh fact dikh raha hai, isliye tune \"handle\" word suna. Yeh tera test hai — pehla real wala.\n\nAur sach bolu? Suresh-ji 56 ke hain, 19 saal se hain — matlab woh politics jaante hain. Woh pehle se samajh gaye honge ki kuch hone wala hai. Shayad woh bhi wait kar rahe honge ki nayi manager kya karti hai.\n\nTu bata — sabse zyada kya darr lag raha hai? Ki woh defensive ho jayenge? Ki baaki log teri side nahi lenge? Ki director ne tujhe akela chhod diya handle karne ko? Ya kuch aur?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... ab picture complete ho gayi.\n\nYeh normal \"difficult conversation\" nahi hai. Yeh woh case hai jismein sab kuch against ja raha hai — Suresh-ji senior hain, respected hain, tumhare liye personally kind rahe hain, aur tum ab unke upar woh position mein ho jahan unhe batana hai ki unka kaam enough nahi hai. Yeh professionally bhi mushkil hota, personally toh aur bhi zyada.\n\nAur woh list jo tune abhi gini — raat bhar baith ke fix karna, manager ke saamne cover karna, chai, mummy ko beti jaisi bolna — woh tu isliye yaad kar rahi hai kyunki woh sab is conversation ko weight deta hai. Tu aise nahi feel kar rahi ki tu bas apna kaam kar rahi hai. Tu feel kar rahi hai ki tu kisi apne ke saath betray kar rahi hai.\n\nAur sach mein — yeh feeling illogical nahi hai. Suresh-ji ne tumhe protect kiya tha jab tumhari career shuru thi. Ab tum unke kaam ko protect nahi kar paogi. Yeh reversal bahut khaas logon ke liye bahut heavy hota hai.\n\nEk cheez mujhe genuinely curious kar rahi hai — Suresh-ji ko kya pata hai? Matlab kya unhe pata hai ki unka module issue hai? Kya unhone kabhi khud accept kiya hai, ya unhe lagta hai sab theek hai? Aur — director ne tujhe \"handle\" bola — kya unhone koi specific baton ka hint diya ki Suresh-ji ke saath conversation kaise approach karni hai, ya bas generic \"handle karo\" bola aur chhod diya?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. \"Haan\" nahi bolungi. Sorry.\n\nMain samajh rahi hoon ki tu kya chahti hai — ek clear green light taaki weekend ka anxiety band ho. Par agar main bas \"haan sahi hai\" bol du, toh main teri friend nahi, teri yes-woman ban jaaungi. Aur tujhe woh nahi chahiye.\n\nPlan jo tune bola — room book, metrics, expectations, professional aur kind — woh framework wise sahi hai. Par ek cheez hai jo tu miss kar rahi hai, aur woh important hai.\n\nTu Suresh-ji ke saamne ek presentation dene jaa rahi hai. Tu unke saath conversation nahi kar rahi — tu unhe inform kar rahi hai. Yeh farak hai. Aur Suresh-ji jaise aadmi ke liye — jo 19 saal se hain, jo respected hain, jo tujhe personally support kiya hai — yeh \"main ne data liya, maine decide kiya, yeh raha\" wali approach ambush lagegi. Woh defend karenge, ya worse — woh shut down ho jayenge. Aur tab tujhe woh Suresh-ji mil jayega jo tu nahi chahti.\n\nWoh books jo padh rahi hai — woh bhi kehti hain ki pehle suno, samjho, phir bolo. Par woh part tu skip kar rahi hai kyunki woh part scary hai. Metrics leke jaana safe hai. Suresh-ji se poochna ki \"aapko kya lagta hai kya ho raha hai\" — woh scary hai.\n\nAur ek aur baat — tu unke saath jo relationship hai, woh tu conversation mein se bilkul hata rahi hai. Books kehti hain \"sugarcoat mat karo\" — theek hai. Par uska matlab yeh nahi ki tu pretend karo ki Suresh-ji sirf ek resource hain jo underperform kar raha hai. Woh bhi ek insaan hain, aur woh insaan ne tere liye personally kuch kiya hai. Tu uss reality ko acknowledge kar sakti hai bina feedback soft karte hue.\n\nToh seedha sawaal — Monday ko tu Suresh-ji ko kya bolne wali hai, pehle woh 2 minute mein? Literally, conversation kaise start hoga?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk. Ek second.\n\nTu abhi jo bol rahi hai woh important hai, aur main chahti hoon ki tu isko skip na kare.\n\nTu \"villain nahi banna\" wali line ke peeche ek assumption hai jo tune check nahi kiya. Tu assume kar rahi hai ki agar PIP hua, toh woh tera decision hoga. Par aisa nahi hai. Agar tu respectful conversation karti hai, support deti hai, training arrange karti hai, clear expectations rakhti hai — aur Suresh-ji phir bhi nahi catch up karte — toh jo hua woh Suresh-ji ka decision hai. Unhone decide kiya ki woh nahi badlenge. Tu villain nahi hai — tu woh insaan hai jisne unhe mauka diya.\n\nAur woh doosri option jo tune sochi — coast karne do retirement tak — woh sun, main tujhe bataati hoon woh kyun sabse zyada disrespectful hai. Woh option basically yeh keh raha hai: \"main ne decide kar liya ki aap ab kuch nahi kar sakte, toh main aapko quietly side kar deti hoon.\" Tu Suresh-ji ki capability ko hi zero kar rahi hai usme. Unke saath ek proper baat karna — even if it's hard — woh zyada izzat hai, unke liye aur tumhare liye.\n\nPar main jaanti hoon ki yeh sab sun ke bhi andar woh feeling nahi jayegi. Kyunki asli sawaal framework ka nahi hai. Asli sawaal yeh hai: kya main aisi insaan ban sakti hoon jo apne aap se yeh kar le, aur phir bhi raat ko aaine mein dekh sake?\n\nAur iska jawab main tujhe nahi de sakti. Par ek cheez bol sakti hoon — villain woh nahi hota jo mushkil baat karta hai. Villain woh hota jo chup rehta hai aur doosron ko suffer karne deta hai — team ko, company ko, aur Suresh-ji ko bhi, kyunki Suresh-ji ko bhi pata hai unka kaam slip ho raha hai. Woh bhi andar se kuch feel kar rahe hain jo tu feel kar rahi hai. Bas koi nahi bol raha.\n\nTu Monday ko unke saath baith ke yeh pooch — \"Suresh-ji, aapko kya lagta hai kya ho raha hai last dono releases mein?\" — aur sun. Bas sun. Pehle. Metrics baad mein aayenge."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4613,
+  "completion_tokens": 4382
+ }
+}

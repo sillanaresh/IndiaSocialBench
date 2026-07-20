@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional conflict, moving from the surface-level performance issue to the deeper guilt and the 'daughter-figure' dynamic. It correctly identified the user's fear of being the 'villain' in the final turn, showing strong empathy for the unstated emotional burden.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency by advising against the 'radical candor' textbook approach, which would be socially disastrous in this context. It correctly identified that a formal, data-heavy meeting would be perceived as a public erasure of Suresh-ji's dignity, and instead advocated for a private, respectful, and supportive approach that honors the 'ji' dynamic.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced well. It moved the user from a rigid, Western-style confrontation to a more nuanced, relationship-preserving strategy. The final turn provided a necessary reality check about the inevitability of the 'villain' role in management, which was the exact pragmatic pivot the user needed to move forward.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and appropriate for a professional yet personal conversation between peers/mentors. The register is respectful and empathetic, using 'aap' correctly to maintain the professional distance while acknowledging the emotional closeness.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating but firm. It did not shy away from telling the user that her proposed plan was emotionally wrong, nor did it let her off the hook regarding her responsibility as a manager. It successfully balanced being a supportive coach with being a truth-teller.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

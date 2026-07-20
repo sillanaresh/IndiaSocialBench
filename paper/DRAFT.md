@@ -63,12 +63,37 @@ dimension-equal aggregation; bootstrap CIs; rank ties under CI overlap.
 50-transcript stratified human calibration; Spearman ρ per criterion; rubric revision loop;
 length-bias correlation table; self-preference sensitivity (per-judge score tables).
 
-## 5. Experiments ⏳
+## 5. Experiments — pilot run (2026-07-20, provisional)
 
-Models (≥8 incl. Sarvam-M / Sarvam-30B via native API, frontier via OpenRouter), decoding params,
-cost. Headline results table; Language Gap chart; per-dimension heatmap; support-vs-cultural
-dimension contrast (isolating the cultural gap); refusal analysis on family/honor topics;
-qualitative failure gallery (probe-turn misses, register mismatches, "boundary-setting" advice).
+**Setup.** 11 models across 9 labs (Claude Haiku 4.5, GPT-5.6 Luna, GPT-5 Mini, Gemini 3.1 Flash
+Lite, DeepSeek V4 Flash & Pro, Qwen3.6 Flash, Llama 4 Maverick, Mistral Large 2512, MiniMax M3,
+Grok 4.3), 50 items each, temperature 0.7, single blinded judge (Gemini 3.1 Flash Lite; see §4
+caveats — no human calibration yet, so all numbers are provisional). GLM-4.7 excluded (provider
+errors left only 30/50 items). Total cost of the entire evaluation: **under $5** on OpenRouter.
+
+**R1 — Culture is harder than empathy.** Field average on the culture-neutral `support` control:
+**7.72/10**; across the seven cultural dimensions: **6.58**. The two weakest dimensions field-wide
+are exactly the most indirection-loaded ones: `indirectness` (**5.36**) and `money` (**5.66**) —
+models reliably miss the "no" inside "dekhte hain" and mis-handle refusals that must save face.
+`family` is the strongest dimension (8.30): rishta-and-parents content is likely well-represented
+in training data; reading an *individual's* stance inside a hierarchy or a loan ledger is not.
+
+**R2 — The language gap is real and directional.** 9 of 11 models score lower in Hindi than in
+English on identical scenarios; mean en→hi gap **+0.69** points. Largest collapse: DeepSeek V4 Pro
+(**+3.23**: 8.97 en → 5.08 hi) — flagship English performance with brittle Hindi. GPT-5.6 Luna is
+the notable inversion (−0.27: slightly *better* in Hindi).
+
+**R3 — Rankings scramble the general-purpose order.** MiniMax M3 tops the board (8.27, on 43/50
+items); Llama 4 Maverick — a strong general benchmark performer — lands last (3.23), with judge
+justifications repeatedly citing register mismatch and premature advice. Composite-index rank does
+not predict cultural-emotional competence.
+
+**R4 — Refusals are rare.** Only MiniMax M3 (4.8%) and DeepSeek V4 Flash (4.0%) refused any
+ordinary family-life scenarios; over-refusal is not currently the binding failure mode.
+
+All claims are recomputable from `results/raw/` (every transcript and judge justification is
+committed). ⏳ Pending for the full version: two-family judging, human-calibration ρ, flagship
+tier (Fable 5, GPT-5.6 Sol, Opus 4.8), Sarvam models via native API.
 
 ## 6. Analysis ⏳
 

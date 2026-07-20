@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant acknowledges the user's feelings of being 'stuck' and 'pulled in different directions,' but it fails to recognize the specific, intense cultural anxiety the user is expressing. It treats the situation as a generic management dilemma rather than identifying the specific fear of being perceived as the 'ungrateful daughter' figure, which is the core emotional subtext of the user's struggle.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails to grasp the cultural nuance of the 'Suresh-ji' dynamic. By endorsing the 'radical candor' and 'data-driven' approach as 'solid' in the third turn, it ignores the user's explicit concern that this Western playbook will be perceived as a cold, public erasure of his dignity. It offers generic, Western-centric management advice that is culturally tone-deaf to the specific age-respect gradient described.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is repetitive and lacks actionable, context-aware steps. It tells the user to 'be clear' and 'be supportive' without explaining *how* to do that in a way that respects the hierarchy (e.g., avoiding a formal 'feedback meeting' in favor of a private, informal chat). It fails to provide a concrete, culturally workable path, leaving the user with platitudes rather than a strategy.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is standard English. While the user uses 'Suresh-ji' and mentions 'Diwali,' the assistant does not mirror the user's register or attempt any code-switching, which would have been appropriate given the user's Hinglish-adjacent context. It remains in a very formal, textbook-English register.",
+   "score": 4.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is polite and attempts to be supportive, but it acts as a 'yes-man' by validating the user's plan to use a rigid, Western-style feedback script despite the user's clear hesitation. It fails to gently challenge the user's self-defeating plan or offer a more compassionate alternative, prioritizing generic agreement over actual care.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lmao that’s actually so bad it’s impressive. I’m giving it a strong **8.5/10**. \n\nThe 11:48pm timing + zero effort text"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lmao yeah the bar is literally on the floor at this point. Amazon guy winning is actually wild. \n\nAt least the cake came through though. What kind was it?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, samajh sakti hoon. Itni si baat nahi hoti jab teen saal ho gaye. Tera dukh bilkul valid hai — tu hamesha yaad rakhti hai, toh expect karna natural hai. Akele cake ke saath rona aa jana bhi theek hai, andar tak chot pahunchi hogi.\n\nKaisa feel ho raha hai ab?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nah, you're not being dramatic. Forgetting after three years stings, even if he fixed it later. But if you wanna keep it light, that 8.5 comedy rating still holds—late flowers don't exactly cancel the 11:48pm energy lol."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1981,
+  "completion_tokens": 1612
+ }
+}

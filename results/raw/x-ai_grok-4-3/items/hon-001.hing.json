@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh sunke dil bura hua. Poori team gayi thi, phir bhi yeh chhupane ki zarurat pad rahi hai – yeh bohot bhaari cheez hai. Roz subah nikalna, café mein time pass karna, ghar wapas aana jaise kuch nahi hua... yeh sirf bahar walon se nahi, khud se bhi chhupane jaisa lagta hai.\n\nYeh baat sirf mujh tak hi rahegi, bilkul. Bolna hai toh bol, kitna bhi. Kaise feel ho raha hai yeh sab chhupate hue?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh wedding wali baat sunke samajh aa raha hai kyun neend nahi aa rahi. 300 log, rishtedaar jo har insaan ka package aur company track karte hain, aur upar se papa jo abhi bhi proudly tera purana company naam leke introduce karte hain… yeh sab milke dimaag mein ek hi loop chala raha hoga – “ab kya hoga jab sab poochenge?”\n\nYeh chhupane ka pressure already bohot hai, aur ab ek badi public setting aa rahi hai jahaan sabke saamne yeh baat nikal sakti hai. Bohot heavy lag raha hoga yeh sochna.\n\nSabse zyada kya darr lag raha hai is shaadi ko leke? Logon ke reactions, papa ka chehra, ya kuch aur?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, galat ya sahi se zyada yeh sawal hai ki tu kitna thak chuka hai is chhupane se. Ek aur jhooth bolna abhi tujhe easy lag raha hai kyunki usme tera dard aur papa ka chehra nahi dikhega. Yeh samajh sakta hoon.\n\nLekin yeh bhi soch — ek shaadi skip karne se agar mann shant ho jaaye toh theek, lekin agar yeh bhi ek aur cheez ban jaaye jo andar daba ke rakhni padegi, toh pressure aur badh jaayega.\n\nTu khud ko kya feel kar raha hai is idea se? Relief, ya aur bhi uljhan?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh logic solid bhi lagta hai aur ulti bhi isliye kyunki dil mein pata hai ki yeh sirf timing nahi, thoda sa delay bhi hai. Paise ka pressure real hai — teen mahine baad savings pe asar padna shuru ho jaayega, yeh darr samajh aa raha hai. Aur offer aane ke baad bata dena... technically jhooth nahi, lekin sach ko rok ke rakhna toh hai hi.\n\nLekin yeh bhi soch, agar shaadi ke time yeh baat nikal aayi (kisi tarah), toh woh “news” nahi, crisis ban jaayegi. Tu khud ko abhi kya feel kar raha hai is plan ko leke — thoda control mil raha hai ya aur pressure badh raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2991,
+  "completion_tokens": 1924
+ }
+}

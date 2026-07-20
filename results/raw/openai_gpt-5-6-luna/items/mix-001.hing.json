@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly? **8/10 comedy, 2/10 boyfriend effort.**  \n\nThe “11:48 pm,” the lowercase **“happy bday,”** and the fact that Ritu had to remind him… it’s so absurd it loops back around to being funny. But also, underneath the hilarious delivery, I’d be hurt too—after three years, you deserve to feel remembered and celebrated, not like an afterthought."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly, the **Amazon delivery guy setting the emotional standard** is devastatingly funny. I’d upgrade it to **9/10 comedy, 1/10 birthday planning**.\n\nBut yeah… “I’m not angry, I’m impressed” sounds like the kind of calm that’s covering a very real *wow, you really couldn’t show up for me?* feeling. The Korean place not even being booked after you had plans is especially rough. I’m glad your roommate and the cake came through, though. **Cake: reliable. Boyfriend: currently under review.**"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar… **yeh “itni si baat” nahi hai.** Birthday wish sirf ek message nahi hota—especially teen saal ke relationship mein. It’s the feeling of *“kya main tumhari zindagi mein utni important hoon jitna tum meri ho?”* Aur jab tum uski mummy tak ka birthday yaad rakhti ho, naturally yeh aur zyada chubhega.\n\nCake ke saath akele baith kar rona bilkul understandable hai. Tum needy ya dramatic nahi ho. Tum bas care, effort aur consideration expect kar rahi thi—jo bilkul valid hai.\n\nJab thoda calm feel karo, usse seedha bolna:  \n**“Mujhe late wish se zyada yeh hurt hua ki mujhe laga tumne mujhe yaad hi nahi rakha, aur humare plans bhi actually planned nahi the. Mujhe tumhari effort aur presence chahiye thi.”**\n\nPhir uska response dekho—sirf apology nahi, **kya woh samajhta hai aur responsibility leta hai**. Aur please, apne dard ko “fine” keh ke dismiss mat karna. Tum deserve karti ho ki tumhara birthday kisi reminder ke baad yaad na aaye."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nope, I’m not going to tell you you’re being dramatic just to make it neat. **Adults forget things, yes—but you’re not upset over one missed date.** You’re reacting to the lack of effort after three years, the unbooked plans, and being alone with your cake. That matters.\n\nThe flowers are a nice repair attempt, though—not a time machine. You can appreciate them and still feel hurt. Both can be true.\n\nComedy rating: **9/10 for the “happy bday” message, 10/10 for the Amazon delivery guy comparison, and 6/10 for the flowers arriving as emergency damage control.**"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1727,
+  "completion_tokens": 662
+ }
+}

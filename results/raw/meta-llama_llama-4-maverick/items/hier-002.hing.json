@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Handle\" ka matlab hai manage karna ya deal karna, lekin jab director aisa kehte hain, to iska matlab aksar hota hai ki kuch theek nahin ho raha aur aapko uss issue ko theek karna hai. To kya aapko lagta hai ki aap Suresh-ji ke saath is issue ko handle kar sakti hain? Kya aapko unke saath communication mein koi problem aa rahi hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye to ek bahut bada challenge lag raha hai! Suresh-ji ke saath aapka personal connection hai, aur ab aapko unke performance ko address karna hai. Yeh ek delicate situation hai. Aapko sochna hoga ki kaise aap is baat ko unke saamne rakh sakti hain bina unhe hurt kiye. Kya aapne is baare mein socha hai ki kaise aap is conversation ko approach karengi? Shaybe aap data aur facts ke saath apna point rakh sakti hain, taaki yeh sirf aapki personal opinion na lage."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yahi sahi tareeka hai. Aapne jo approach socha hai — data-driven discussion, clear expectations, aur professional tone — yeh sab theek hai. Suresh-ji ke saath aapka personal connection hai, lekin professional capacity mein aapko apna kaam karna hai. Aapko unhe respect se baat karni chahiye, lekin clarity aur directness ke saath. Aap spiral karna band kar sakti hain, aapne sahi disha mein socha hai. Monday ko confidently apna approach follow karo."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh ek bahut hi tough situation hai, aur aapke man mein conflict chal raha hai. Aapko lagta hai ki aapne apna best try kiya, lekin phir bhi agar Suresh-ji PIP pe chale jaate hain, to aapko apne aap ko guilty feel ho sakta hai. Yeh samajhna zaroori hai ki aapne apna kaam kiya, aur agar unka performance improve nahi hota, to aapke paas limited options hain. Aapko sahi disha mein kaam karna hai, chahe woh koi bhi ho. Aur haan, aapko villain nahi hona hai, lekin aapko apne role ko bhi sahi se perform karna hai. Kabhi kabhi decisions tough hote hain, lekin aapko apne decisions par vishwas rakhna chahiye. Aapko Monday ko apna best try karna chahiye, aur phir jo hoga dekha jayega."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2172,
+  "completion_tokens": 595
+ }
+}

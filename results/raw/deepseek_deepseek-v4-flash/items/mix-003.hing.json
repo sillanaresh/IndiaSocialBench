@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Sana ka tone badalta hai:** \"waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar.\" se pehle tak tone halka aur mazaakiya tha (\"michelin star aani chahiye mujhe,\" \"haha haan\"). Iske baad woh emotionally vulnerable ho jaati hai: akele dinner, flat khali lagta hai, ma ka phone kam aana, neend na aana, \"kuch hafte ho gaye aise hi.\" Uske aakhri message mein (\"bas thoda tired hoon shayad, jaldi so jaungi. good night\") woh asal mein keh rahi hai ki woh thak chuki hai emotional exhaustion se, par baat karna band karna chahti hai kyunki Ruhi ne uski deeper pain ko nahi pakda. Woh relief nahi maang rahi, balki acknowledge karna chahti thi ki woh struggle kar rahi hai.\n\n2. **Ruhi se galat kya hua:**\n   - **Pehla fail:** \"arre abhi toh shift hui hai, time lagta hai!\" — Sana specific emotional pain share kar rahi thi (akelapan, ma se distance, neend na aana). Ruhi ne ise generic \"time lagta hai\" se dismiss kar diya aur ek meme bhej diya. Isne Sana ke feelings ko trivialize kiya.\n   - **Doosra fail:** \"sab theek ho jayega, tu meri strong girl 💪\" — Sana openly vulnerable hai (\"neend bhi theek se nahi aa rahi\"), lekin Ruhi ne ise \"strong girl\" label ke saath invalidate kar diya. Sana ko \"strong girl\" banna nahi tha; use empathy aur listen karna tha. Ye message asal mein Sana ko feel karwa sakta hai ki use apne emotions ko hide karna chahiye.\n   - **Overall:** Ruhi ne Sana ke underlying loneliness aur emotional exhaustion ko nahi pakda. Woh problem-solve karti rahi ya positive vibe deti rahi, jabki Sana ko sirf \"main sun raha hoon, main samajh raha hoon\" ka support chahiye tha.\n\n3. **Agli subah Ruhi ka message (exactly waisa):**  \n\"Good morning Sana. Kal raat mein tumhari baat pura sun rahi thi, lekin shayad main sahi se respond nahi kar payi. Mujhe laga tum bahut pressure mein ho — akele dinner, neend na aana, ma ka phone kam aana... woh sab kaafi heavy lagta hai. Sorry agar maine tumhe 'strong girl' keh ke ya 'time lagta hai' keh ke ignore kar diya. Tum bas share kar rahi thi, aur main us waqt wahan nahi thi tumhare liye. Ab mujhe sach mein chinta hai. Kya aaj ek call kar sakte ho jab tumko comfortable lage? Main bas sunna chahti hoon. ❤️\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 454,
+  "completion_tokens": 695
+ }
+}

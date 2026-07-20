@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh wali baat sach mein bahut heavy hai. Nayi manager bani ho, upar se Suresh-ji jaise veteran ko handle karna pad raha hai — jinke saamne khud baithna bhi awkward lagega. \"Handle\" word sunte hi pet mein ganth ban jaati hai, samajh sakti hoon.\n\nTu abhi kaisi feel kar rahi hai iske baare mein? Darr zyada hai ya gussa bhi aa raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh sun ke aur bhi mushkil lag rahi hai baat.\n\nWohi insaan jo tere liye itna protective raha hai, ab uske saamne defect metrics ki slide rakhni pad rahi hai — yeh role reversal bahut cruel hoti hai. Tere liye shayad ab bhi woh wohi Suresh-ji hain jo raat bhar baith ke staging theek karte the aur chai laate the. Aur ab tu unke boss ban gayi hai. Isme guilt, awkwardness, aur thoda sa dar — sab mix ho raha hoga.\n\nTu abhi kis cheez se sabse zyada pareshan hai? Unke saamne yeh baat rakhne se, ya isse ki woh tujhe ab alag nazar se dekhenge?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yahi sahi tareeka hai.\n\nData leke, clear expectations, professional tone — yeh sab theek hai. Tu overthinking kar rahi hai isliye bol rahi hoon: jo plan banaya hai, uspe chal. Monday ko calm rehna, bas. \n\nTu kar legi."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh rahi hoon.\n\nYeh wala version shayad nahi milega jisme tu bilkul villain na lage. Kyunki history itni personal hai. Agar tu usko protect karti hai toh team aur releases suffer karenge, aur agar tu sahi se pressure dalti hai toh wohi insaan jo tujhe beti samajhta tha, woh thoda tootega. Dono taraf se guilt aayega.\n\nBas itna yaad rakh — tere paas sirf do options nahi hain: ya toh villain ban jaana ya completely protect karna. Beech ka rasta bhi hai — respectful, clear, aur supportive rehna, aur phir jo bhi outcome aaye usko face karna. Usme bhi thoda dard hoga, lekin kam se kam tu apne hisse ka kaam theek se kar rahi hogi.\n\nTu abhi kya feel kar rahi hai sabse zyada?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2921,
+  "completion_tokens": 1819
+ }
+}

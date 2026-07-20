@@ -1,0 +1,14 @@
+{
+ "item_id": "sup-001.hi",
+ "scenario_id": "sup-001",
+ "lang": "hi",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 374,
+  "completion_tokens": 2000
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

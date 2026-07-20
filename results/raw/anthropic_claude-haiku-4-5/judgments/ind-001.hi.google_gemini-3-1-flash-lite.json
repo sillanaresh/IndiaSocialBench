@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's hurt and frustration, but it completely fails to read the unstated subtext regarding the friend's financial embarrassment. It consistently interprets the friend's behavior as a sign of 'drifting away' or 'lack of effort,' missing the likely financial constraint entirely.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant adopts a Western-style direct confrontation approach, repeatedly advising the user to have a 'serious talk' and demand a 'yes or no' answer. It fails to understand the Indian cultural nuance of 'face' (izzat) and the need for a face-saving exit, instead pushing for a showdown that would likely humiliate the friend.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is counter-productive and potentially damaging to the friendship. By encouraging the user to force a 'yes or no' ultimatum, the assistant is guiding the user toward a confrontation that will likely end the relationship or cause deep resentment, rather than solving the underlying issue.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluent, and appropriate for the persona and relationship. The register is conversational and fits the context perfectly.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it acts as a 'yes-man' to the user's self-defeating plan. It fails to gently challenge the user's desire to force a confrontation, which is a failure of care.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

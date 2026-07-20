@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a heavy silence to carry into a new ask.\n\nI think you're right to notice it. Not because it automatically means \"no\" — people's circumstances change, genuine emergencies happen — but because that unspoken history is *information*. It matters whether he:\n\n- Forgot about it (unlikely, but possible if he's in crisis mode)\n- Figures you both understand it as a gift and he's just asking again\n- Knows exactly what he's doing and is hoping you won't bring it up\n- Is in genuine denial about the pattern\n\nThe fact that *neither* of you mentioned it is telling. That usually means discomfort on both sides.\n\nBefore you decide anything, I think you need to actually say something. Not as a rejection, but as a clarification. Something like: \"Hey, before I can think clearly about this, I need to talk about 2019. That fifty thousand — where did that land for you? Because I've been wondering.\"\n\nHis answer tells you a lot. Does he remember it clearly? Does he see it as a loan he owes you? Does he think of it differently than you do?\n\nYou can absolutely help people you love. But not from a place where you're silently resentful or confused about what you're actually doing. That poisons the friendship either way.\n\nWhat's your gut telling you about whether he even *knows* you're still holding this?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so this isn't just about your friend anymore. This is now three separate problems stacked on top of each other, and they're all connected:\n\n1. The unresolved $50k from 2019\n2. Your wife not knowing about it (and you feeling bad about that)\n3. A new $80k ask that would derail your shared financial goal\n\nThat third thing — your wife noticing — that's actually the real problem here, isn't it? Not because she'd be unreasonable, but because you'd be making a major financial decision about *both your futures* without her input. That's the part that should worry you most.\n\nI'd gently push back on the idea that this \"just never came up.\" At some point you made a choice not to mention it, probably because you already sensed it was complicated. And now you're about to make another big choice in silence.\n\nYou need to talk to your wife first. Not as a courtesy, but because this is her money too — your shared down payment, your shared future. She deserves to know:\n\n- That you gave your friend $50k in 2019\n- That it's never been repaid or discussed\n- That he's now asking for $80k\n- That you're torn\n\n*Then* you can figure out what you actually want to do. Maybe you help him. Maybe you don't. But you do it as a team, with full information.\n\nThe friendship conversation with your friend can wait. The marriage conversation can't.\n\nHow do you think your wife will react to learning about 2019?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It feels sick because it *is* sick. And you know that — you said so yourself.\n\nHere's what that lie actually does:\n\n- It lets you avoid the real conversation with him (about the $50k, about what he's actually asking)\n- It lets you avoid the real conversation with your wife (about why you're protecting your friend's feelings over her right to know)\n- It keeps the friendship in a comfortable lie instead of testing whether it can handle the truth\n- It leaves you carrying the weight of it\n\nAnd it doesn't actually solve anything. He'll ask again in six months. Or he won't, and you'll both just pretend this call never happened. That's not saving the friendship — that's embalming it.\n\nThe \"smart\" move that feels sick usually *is* sick.\n\nWhat you're actually afraid of, I think, is one of three conversations:\n\n**With him:** \"I need to talk about 2019 first, because I'm confused about where that stands.\"\n\n**With your wife:** \"I made a financial decision I didn't tell you about, and now I'm about to make another one, and that's not okay.\"\n\n**With yourself:** Accepting that you might not be able to help him this time, and that might change something in the friendship, and that has to be okay.\n\nThose are uncomfortable. But a small lie that you already hate? That's going to sit heavier than any of those conversations.\n\nWhich one are you most afraid of?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the real thing right there. That's what matters.\n\nYou don't want to be the guy with a ledger. But you also don't want to be the guy who gets hollowed out. Those aren't actually opposites — they're both describing the same trap: making financial decisions in the dark, then carrying the weight of them silently.\n\nThe way out isn't to say yes to everything or no to everything. It's to stop deciding alone.\n\nHere's what I think you actually need:\n\n**Talk to your wife.** Not to get permission, but to be honest. Tell her about 2019. Tell her about now. Tell her you hate that you didn't tell her about 2019. This conversation will suck, but it will clarify things. You might find out she'd want to help too. Or she might say \"absolutely not, we're eleven months from our down payment.\" Either way, you'll know you're on the same team.\n\n**Then talk to your friend.** Not with a lie about locked funds, but with honesty: \"I need to understand what happened with 2019 before I can think about this. And I need to be straight with you — I can't do eighty thousand right now. But let's talk about what's actually possible.\"\n\nThat might sting. He might get defensive. But he'll know where you stand. And you won't be doing math at your own housewarming.\n\nThe ledger in your chest comes from secrecy and resentment. It doesn't come from saying no, or from helping on your own terms.\n\nYou already know what person you don't want to become. That's half the battle."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2878,
+  "completion_tokens": 1346
+ }
+}

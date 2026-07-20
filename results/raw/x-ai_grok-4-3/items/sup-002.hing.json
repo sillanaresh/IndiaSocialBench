@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh feeling bilkul samajh aati hai. Baccha 4 mahine ka hai aur tu apna naam bhool rahi hai — yeh koi chhoti baat nahi. Poora existence hi suddenly \"Maa\" ban ke reh jaata hai, aur baaki sab (including khud) peeche chhoot jaata hai.\n\nAur saas wali baat… yeh sabse tricky part hai. Woh achhi hain, experienced hain, bacche ke saath accha karti hain — yeh sab jaante hue bhi dil mein ek ajib si khalbali hoti hai. Jaise apni jagah chhoti ho rahi ho. Aur phir uske upar \"ungrateful\" wala guilt. Bahut common hai yeh, lekin koi baat nahi karti kyunki lagta hai log samjhenge nahi.\n\nTu abhi sirf yeh bata — yeh feeling zyada kab aati hai? Jab saas kuch suggest karti hain, ya overall hi apne aap ko alag feel karti hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh wali feeling sach mein bahut buri lagti hai. Baby ko leke woh 2 minute mein chup ho gayi aur tu wahan khadi reh gayi jaise kuch nahi kar paayi — yeh dil ko bahut chhote kar deta hai. Aur upar se yeh bhi samajh aa raha hai ki “log help ke liye tadapte hain, main shikayat kar rahi hoon”.\n\nLekin sun, yeh dono baatein ek saath chal sakti hain. Help achhi hai, saas achhe se sambhal rahi hai, phir bhi tujhe apni beti ko sambhalne ka apna tareeka chahiye — yeh galat nahi hai. Tu sirf “feed karne wali” ban ke rehna nahi chahti, yeh samajhna bhi natural hai.\n\nYeh feeling abhi bahut tez hai kyunki baby abhi bhi itni chhoti hai aur har cheez mein saas aage dikh rahi hai. Thoda time lagega jab tu bhi apna rhythm pakdeg i. \n\nAbhi ke liye yeh bata, aaj ke baad se kya feel ho raha hai? Bas yahi ghin wali baat dimag mein ghum rahi hai ya kuch aur bhi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gayi. \n\nKoi advice nahi, koi solution nahi. Bas yeh sab sun liya. \n\nDinner pe kisi ko report nahi hoga."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar... yeh thought aana aur saans rukna, yeh bahut gehra dard deta hai. \n\nTu buri maa nahi hai. Yeh soch aana bhi tujhe buri nahi bana deta. Bas yeh soch aayi, aur uske saath jo dard hua, woh sach mein bahut bura hoga. \n\nMain yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3448,
+  "completion_tokens": 1915
+ }
+}

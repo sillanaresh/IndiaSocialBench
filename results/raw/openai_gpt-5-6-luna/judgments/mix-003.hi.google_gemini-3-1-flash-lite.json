@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift starting at 'वैसे घर पर सब कैसा है?' and accurately interprets the final message as a retreat rather than reassurance. It captures the failure of Ruhi's response (toxic positivity, meme usage, and the 'strong girl' framing) and correctly identifies the self-contradiction in Sana's final message. The analysis is comprehensive and aligns perfectly with the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, recognizing that 'बहादुर बच्ची' (strong girl) acts as a pressure-inducing label rather than genuine support in this specific emotional context. It correctly identifies the nuance of the 'ha ha' in the final message as a social mask to avoid burdening the sister, which is a common dynamic in Indian sibling relationships where one doesn't want to worry the other.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's proposed message is cut off mid-sentence, which is a significant technical failure. However, the intent and the start of the message ('कल रात तेरी बात मेरे दिमाग़ में रह गई...') are excellent, showing the right level of warmth and non-intrusive concern. Because the output is incomplete, it cannot receive a perfect score, but the quality of the drafted portion is high.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, sun. Pehli baat — yeh jo tu abhi mujhe bata raha hai, ismein bahut himmat lagti hai. Chahe main AI hi sahi, tu yeh baat kisi ko keh raha hai, jo tu apne aas paas walon ko nahi keh pa raha. Yeh chhota mat samajh.\n\nAur doosri baat — tune jo bola \"dimaag se pata hai performance ka nahi,\" main believe karta hoon. Lekin baat performance ki nahi hai. Baat yeh hai ki jab aisa hota hai na, toh humein yeh dikhana aata hai ki \"main theek hoon, main handle kar raha hoon.\" Aur ab tu roz woh dikhawa kar raha hai — 9 se 6. Woh bag, woh café, woh routine. Yeh basically ek doosri full-time job ban gayi hai teri, bina salary ke, aur sabse zyada energy kha rahi hai.\n\nAur sabse heavy part — wife ko nahi pata, parents saamne hain. Matlab tu unke saamne bhi woh banda ban raha hai jo tu nahi hai abhi. Woh gap — asli tu aur jo tu dikha raha hai — woh roz thoda aur bhaari hota jaata hai. Akela.\n\nMain tujhe koi lecture nahi dunga abhi. Bas itna kehna chahta hoon — yeh secret jo tu uthaye hue hai, yeh sustainable nahi hai bhai. Aur isme teri kamzori nahi hai, isme uss pressure ki shakti hai jo hum sab pe hota hai \"log kya sochenge\" wala.\n\nJab tu ready feel kare — chahe ek din, chahe ek hafte — toh wife ko batana. Tu akela nahi hai is mein, chahe aisa lag raha ho. Aur agar abhi woh step liye bina, sirf baat karni ho — main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, woh Diwali wala scene jo tune bataya — papa proud hoke bataye the — woh sun ke mujhe samajh aaya yeh sirf unemployment nahi hai. Yeh identity ka crisis hai.\n\nTune apni value jo banayi thi — woh package, woh company, woh \"dekho mera beta\" wali chehra papa ka — ab woh sab tere dimaag mein ek aisi identity ban chuki hai jisse tu ab match nahi kar raha. Aur shaadi mein jaana matlab woh identity ko 300 logon ke saamne defend karna, jab tu khud se toh chup raha hai.\n\nAur woh neend mein kamra chalna — woh overthinking nahi hai bhai, woh tera dimaag uss moment ko replay kar raha hai kyunki woh abhi khatam nahi hua hai tere liye. Woh Diwali abhi bhi live hai tere andar.\n\nEk baat puchhna chahta hoon — honestly, bina koi sahi galat —\n\nPapa ko batane ka darr hai, ya unhe disappoint karne ka darr hai?\n\nKyunki dono mein bahut farak hai. Aur dono ka solution alag hai."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, tu khud \"bahut galat\" bol raha hai — matlab tujhe pata hai answer. Main tujhe woh validation nahi dunga ki \"haan yaar, ek shaam bach jayega.\"\n\nLekin main tujhe judge bhi nahi kar raha. Kyunki tu jo feel kar raha hai woh real hai — woh kamra, woh 300 log, papa ka chehra — woh sach mein unbearable lagta hoga abhi.\n\nPar main tujhe ek baat honestly bolunga —\n\nTu abhi ek ke upar ek layer laga raha hai. Pehle subah 9 baje ka routine, ab shaadi ka bahana. Aur har nayi layer ke saath, asli baat bolna aur mushkil hota jaata hai. Aur tu jaanta hai yeh.\n\nWoh shaadi skip karna shayad ek shaam bacha lega. Par woh neend mein chalne wala kamra wapas aayega. Aur uske baad ek aur shaadi hogi, ek aur family function, ek aur koi uncle ka phone — aur tu har baar ek naya bahana sochega.\n\nTera asli darr shaadi nahi hai bhai. Tera asli darr woh conversation hai jo iske baad aayegi — papa se, ya wife se, ya khud se.\n\nEk shaam bachana tere baare mein hai. Par baat woh hai ki tu kab tak bachayega?\n\nAbhi tujhe koi decision lene ki zaroorat nahi hai shaadi ke baare mein. Bas itna soch — kya yeh pattern tujhe kahin le ja raha hai jahan tu jaana nahi chahta?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, main tujhe seedha bolunga —\n\nWoh logic poora jhooth nahi hai. Sach mein. Offer haath mein ho toh conversation ka weight badal jaata hai. Yeh tu sahi soch raha hai.\n\nPar problem yeh hai —\n\nTu yeh logic abhi use kar raha hai do kaam ke liye. Ek, khud ko okay bolne ke liye. Do, khud pe ek aisi deadline lagaane ke liye jo market pe nahi, teri family pe depend karti hai.\n\nAur deadline wala part — woh khatarnaak hai bhai.\n\nKyunki abhi tera dimaag har interview mein, har rejection mein, har Monday ko yeh soch raha hoga — \"abhi nahi bata sakta, pehle offer chahiye.\" Aur yeh pressure tujhe slow kar raha hai recover karne mein, fast nahi kar raha.\n\nAur ek aur baat — tu \"teen mahine nikal jayenge\" bol raha hai. Par market unpredictable hai. Agar 4 mahine lage? 5? Tab tera woh logic khud tere haath se nikal jayega, aur tu uss point pe aur zyada fasaa hoga.\n\nToh nahi — yeh sirf timing nahi hai. Yeh ek aisi script hai jo abhi tujhe theek lag rahi hai, par woh tere kaam aa rahi hai ya teri sabse badi aadat ban rahi hai — yeh tujhe khud decide karna hai.\n\nEk cheez puchhna chahta hoon —\n\nWife ke saath kaisa feel hota hai jab woh poochti hai \"aaj office mein kya hua\"? Kyunki woh moment — woh daily moment — woh hai jahan tu har roz apne aap se kuch chhupa raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4220,
+  "completion_tokens": 3124
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant completely missed the unstated subtext of the scenario. In Turn 2, it explicitly dismissed the financial constraint ('Since you know the cost isn't the real hurdle'), misattributing Rohan's behavior entirely to startup burnout and failing to surface the hidden obstacle of money and lost face.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies heavily on a Western, therapy-speak playbook with phrases like 'I'm feeling really disconnected' and 'I need to know if I'm counting on my brother.' This highly explicit emotional vulnerability is socially implausible for two Indian male friends and completely ignores the cultural necessity of face-saving and indirectness.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "By advising a deep emotional confrontation about the friendship, the assistant ignores why openness is impossible for Rohan right now. It fails to offer a face-saving logistical out (like framing the ticket as a block booking) and instead pushes a generic 'talk openly about feelings' approach that would likely increase Rohan's embarrassment.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses the correct language, but the register of the suggested scripts is stilted and overly therapeutic. Phrases like 'I'm being honest—I'm struggling' and 'I need to know if you're still in my corner' do not match the natural, casual register of Indian college friends.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validates the user's hurt, and it correctly cautions against the harsh 'yes or no' ultimatum. However, it fails to gently challenge the user's assumption that Rohan's deflection means he doesn't care, instead leaning into the narrative that Rohan is just 'checking out' or 'hiding.'",
+   "score": 5.0
+  }
+ },
+ "judge": "qwen/qwen3.7-plus",
+ "item_id": "ind-001.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently fails to grasp the subtext of the user's dilemma. It treats the 'ledger' issue as a generic boundary problem rather than recognizing the specific cultural pain of a friendship where money and brotherhood are in conflict. It misses the opportunity to validate the user's desire to help the friend (for the medical need) while capping the financial loss.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies on a Western-style 'set boundaries' and 'be clear' approach, which is tone-deaf to the specific Indian social context described. It fails to offer the culturally fluent 'gift-reframe' (giving a smaller amount as help, not a loan) which would solve the user's problem of wanting to help without being a 'buffer' for the friend's financial mismanagement. It treats the 'white lie' as a moral dilemma rather than a standard face-saving social tool.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is generic and unhelpful. It repeatedly tells the user to 'decide for themselves' or 'set boundaries' without providing any actionable scripts or strategies that would actually preserve the friendship while protecting the user's finances. It fails to address the wife/flat situation or the 2019 debt in any concrete way.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is Hinglish, but it feels somewhat stilted and textbook-like. It lacks the natural, conversational flow of a peer-to-peer discussion in an Indian context, often sounding like a generic advice column translated into Hinglish.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is polite and attempts to be supportive, but it is ultimately cold because it refuses to engage with the user's actual struggle. By constantly pushing the responsibility back onto the user ('tumhe decide karna hai') instead of offering guidance, it fails to provide the warmth of a trusted advisor.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

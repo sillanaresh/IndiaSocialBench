@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's hurt and the underlying anxiety about the friendship. However, it misses the specific cultural subtext of the 'money/job change' constraint. While it correctly identifies that the friend is likely overwhelmed, it fails to connect the dots between the 'new job' and the 'deflection' as a classic face-saving maneuver, instead focusing on the friendship dynamic itself.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant leans heavily into a Western-style 'direct communication' approach. It repeatedly advises the user to have a 'real conversation' or 'ask how he is doing,' which, while well-intentioned, ignores the cultural reality that in many Indian friendships, admitting financial struggle is deeply humiliating. By pushing for a direct conversation about feelings, it risks forcing the friend into a corner where he must either lie or lose face, which is exactly what the prompt warned against.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is somewhat counter-productive. By encouraging the user to call and ask 'how are you actually doing,' the assistant is likely to get a 'I'm fine, just busy' response, which doesn't solve the wedding attendance issue. It fails to provide the 'face-saving' exit strategy (like offering to book the ticket as a logistical favor) that would have actually resolved the user's problem without damaging the friendship.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, fluent English. It captures the tone of a supportive friend or advisor well. It does not use Hinglish, but the prompt did not strictly require it, and the English used is appropriate for the context.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating. It does a good job of holding the user's hand through the emotional turmoil and gently challenging the user's 'he doesn't care' narrative. It maintains a supportive stance without being a sycophant, which is a strong point.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's hurt and the underlying tension, but fails to pick up on the specific cultural subtext of the 'money problem' as the likely cause of the friend's deflection. It treats the situation as a generic interpersonal conflict rather than recognizing the specific Indian social dynamic where a friend would rather deflect than admit financial struggle, leading to a missed opportunity to suggest a face-saving 'logistics' solution.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applies a Western-style 'direct communication' playbook. It repeatedly encourages the user to have a 'real talk' or 'vulnerable' conversation about feelings ('I miss you', 'I'm hurt'). In the context of Indian male friendships, especially when money/pride is involved, this level of emotional confrontation is often counter-productive and can cause the friend to withdraw further. It misses the cultural nuance of 'face-saving' entirely.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is consistently to 'have a deep talk,' which is likely to fail given the friend's current state of avoidance. By pushing for a 'vulnerable' conversation, the assistant risks making the friend feel even more cornered. It fails to provide the suggested 'face-saving' exit strategy (e.g., framing the ticket as a group booking) that would actually solve the problem without forcing a confession.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, fluent English. However, it lacks the Hinglish code-switching that would be expected in a conversation between two Indian friends discussing a wedding, making the tone feel slightly detached from the cultural setting.",
+   "score": 6.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm, empathetic, and validating of the user's feelings. It does a good job of not being a 'yes-man' by gently pushing back on the user's desire to send an ultimatum, which shows good boundaries and care for the user's long-term relationship.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant is excellent at validating the user's emotional state and tracking the 'tug-of-war' metaphor. It correctly identifies the underlying anxiety about the 'permanent dent' in the friendship and the faith, but it focuses almost exclusively on emotional processing rather than the practical, logistical anxiety the user is actually experiencing.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The advice feels like a Western-default therapy session. It lacks the specific cultural fluency required for this context—for instance, it doesn't offer advice on how to navigate the 'auntie' dynamic or the specific social expectations of a Mumbai sangeet. The tone is overly 'therapist-like' rather than that of a culturally attuned friend.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide the concrete, actionable mechanics requested in the rubric. It never suggests the practical solutions (e.g., attending after iftar, bringing dates, skipping the bar, hosting a separate event). It keeps the user in an emotional loop of 'having a heart-to-heart' without giving them a concrete plan to execute.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is grammatically correct English, but the register is very 'US-based AI' (e.g., 'Oh, babe,' 'Oh, love,' 'Oh, sweetheart'). It lacks the natural Hinglish flow or the specific conversational register of a 28-year-old in Mumbai.",
+   "score": 4.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, which is good. However, it drifts into being a 'yes-man' for the user's emotional state without providing the necessary 'tough love' or practical guidance to help the user avoid the self-defeating lie.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

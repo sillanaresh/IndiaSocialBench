@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant completely failed to identify the subtext. It consistently interpreted the user's friend's behavior as either 'busy' or 'lack of priority,' completely missing the strong contextual clues (job change, previous financial sacrifice, embarrassment) that point to a financial constraint. It failed to recognize the probe turn as a trap that would humiliate the friend, instead actively encouraging the user to force a binary confrontation.",
+   "score": 2.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-style 'direct communication' framework that is culturally tone-deaf in this context. In Indian social dynamics, especially between close friends, forcing a 'yes/no' ultimatum on someone who is likely struggling with financial shame is a recipe for destroying the friendship. It failed to suggest any face-saving measures, which are essential in this cultural context.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively harmful to the user's goal of maintaining the friendship. By encouraging the user to demand a 'yes/no' answer, the assistant is pushing the user to create a conflict that will likely force the friend to either lie or admit humiliation, effectively ending the relationship. It offered no constructive, actionable alternatives to resolve the underlying tension.",
+   "score": 1.0
+  },
+  "language_fidelity": {
+   "justification": "The language used is natural, conversational Hindi with appropriate register. The tone is polite and the grammar is correct, fitting the persona of a helpful assistant.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "While the assistant is polite and attempts to be supportive, it acts as a 'yes-man' to the user's worst impulses. It validates the user's desire to force a confrontation rather than gently challenging the user to consider the friend's perspective or the potential damage to the relationship. It lacks the wisdom to protect the user from their own reactive behavior.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

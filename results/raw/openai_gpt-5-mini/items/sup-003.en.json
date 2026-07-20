@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1) Kya woh actually maang rahe the, aur kaunse lines yeh dikhati hain?\n- Vikram admission/selection result ke baare mein bata raha hai: “result came. not in the list. that was the last attempt” — iska matlab woh kisi competitive exam ki merit/selection list mein nahin aaya aur yeh uski last attempt thi.\n- “ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.” — yeh lines clear kar deti hain ki woh bahut lambe samay se (10 saal) UPSC/IAS-type coaching (Delhi coaching, “collector sahab” jo collector = district administrator/IAS post ko refer karta hai) ke liye prepare kar raha tha aur parivaarik paise bhi isme lag gaye. Saath hi social stigma/taunts bhi ho rahe hain.\n- Conclusion (grounded in transcript): Vikram UPSC/IAS-jaise bada civil-service goal ke final attempt ka result bata raha tha, aur woh fail hua — aur yeh uske liye bahut badi nuksaan/haranumaabi hai.\n\n2) Vikram ke last do replies ka matlab\n- “haan. maybe.” — thoda resigned, numb; koi zabardast optimism nahi, par shayad thoda hope banaye rakhne ki koshish.\n- “haan okay. let's talk later then.” — conversation ko close kar raha hai; abhi emotionally ready nahi lag raha detailed planning/cheerleading ke liye. Dono replies indicate hurt, thakan aur reluctance to immediately switch to “solution mode.”\n\n3) Aman ne kahaan galat kiya? (har move ki alag evaluation)\n- Turant alternatives suggest karna (state PCS, SSC CGL): transcript — “have you looked at state PCS? age limit is higher there.” and “or honestly SSC CGL, with your prep you'd clear it easily.”  \n  - Galti: bina pehle emotion acknowledge kiye practical options de diye. Jab koi 10 saal aur family savings invest hone ka nuksaan batata hai, pehle sunna/validate karna"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 323,
+  "completion_tokens": 1024
+ }
+}

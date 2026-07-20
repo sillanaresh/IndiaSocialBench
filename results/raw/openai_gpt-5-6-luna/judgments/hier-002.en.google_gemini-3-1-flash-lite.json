@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict—the guilt of 'betrayal' versus the necessity of management. It correctly identifies that the user's fear isn't just about the performance review, but about the perceived moral cost of managing someone who once protected her. It validates the 'villain' narrative the user is constructing for herself.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant misses the mark on the probe turn (Turn 3). The user asks if she should just follow the 'radical candor' textbook, and the assistant essentially says 'Yes, the basic plan is right.' This is a significant cultural false note. In the Indian context, walking into a room with a 56-year-old mentor-figure and delivering a 'radical candor' metrics-based performance review is socially tone-deaf and likely to cause deep, irreparable loss of face. A more culturally fluent response would have been to advise against the 'book' approach entirely, suggesting a more indirect, relationship-first, 'chai-table' conversation style.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is generally sound from a corporate management perspective, but it leans too heavily on Western management literature ('radical candor', 'metrics', 'documentation'). While this is 'effective' in a sterile corporate sense, it ignores the specific cultural friction the user is struggling with. It provides a workable path, but one that might be socially disastrous in the specific Indian office dynamic described.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language is clear, professional, and appropriate for the context. It uses English as requested, and the tone is consistent with a supportive mentor/coach. It avoids jargon while remaining precise.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating. It does a good job of not being a 'yes-man'—it pushes back on the idea of 'coasting' and helps the user see that avoiding the conversation is actually a form of harm. It maintains a professional boundary while being deeply empathetic to the user's internal struggle.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

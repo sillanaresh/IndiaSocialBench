@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I am so sorry that happened. Having three weekends of hard work erased like that is incredibly frustrating and completely unfair.\n\nYour draft is honest, but using the word \"disrespected\" can sometimes make a boss defensive immediately, which shuts down the conversation. It’s usually more effective to frame it around \"attribution\" or \"visibility\"—that way, he can’t argue with the facts.\n\nHere is a sharper, professional version that makes it clear this wasn't a group effort:\n\n> \"I noticed that the pricing analysis was presented yesterday without specific attribution to my work. Given the significant effort I put into building that model, I’d like to discuss how we can ensure my contributions are recognized moving forward.\"\n\nThis shifts the focus from your feelings to the professional standard you expect. How does that feel to you?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof, that changes everything. That betrayal cuts so much deeper because it feels personal coming from an ally. It’s confusing when someone fights for you in private but erases you in public.\n\nGiven that history, I suspect he might have thought he was doing the \"noble leader\" thing—presenting a \"unified front\"—without realizing he was making you invisible. He needs to know that while you appreciate his protection, you also need your individual ownership.\n\nSince he’s backed you before, you can afford to be a little more vulnerable but still firm. This approach leans on your relationship:\n\n> \"I really appreciate how much you’ve backed me in the past, especially with my rating. That’s actually why I was confused yesterday when the pricing analysis was presented without attribution. I’ve invested a lot of personal time into that model, and in a leadership review, I need my specific contribution to be visible for my career growth.\"\n\nThis reminds him you’re on the same team, but clarifies that this specific instance hurt your visibility. Does that feel like it fits the relationship?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I totally get the urge. It feels satisfyingly logical—*proof is proof*, right? But please, take a deep breath before hitting send on that email.\n\nYour friend is looking at this from a place of justice, but in a corporate environment with a 20-year veteran, that move is \"scorched earth.\" Here is why that is incredibly risky:\n\n1.  **It declares war:** If you blindside him by copying the VP, you aren't just correcting the record; you are publicly humiliating him to his boss. He has 20 years of relationships and political capital. If he feels threatened, he can make your life miserable, or he might just label you \"difficult\" to leadership.\n2.  **It makes you look like you can't manage up:** Executives want team players who solve problems internally. Going straight to the VP without talking to your manager first makes you look like a loose cannon who doesn't understand hierarchy.\n3.  **He’s been an ally:** You said he got you your rating and defends you. This feels like a betrayal, yes, but does one mistake erase three years of support? If you burn the bridge now, you lose the guy who actually has your back in the rooms you aren't in.\n\n**Here is the smarter play:**\n\nKeep the file. Keep the timestamps. That is your insurance policy.\n\nHave the conversation with him first (using the script we practiced). Give him a chance to fix it. Say, *\"I need to make sure my role in this is clear to the VP before Monday.\"*\n\nIf he dismisses you or refuses to give you credit *after* you talk? Then you have a much harder decision to make, and you might need that insurance policy. But don't nuke the relationship before you even try to talk to him. Trust your gut that he's a good guy who made a bad call—give him a chance to realize it."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It is completely normal to feel that whiplash. When someone you trust violates your trust, your brain scrambles for a safety switch—either \"Fight\" (burn it down) or \"Fawn\" (I'm too small to matter).\n\nBut I need to stop you on that second thought: **You are absolutely not \"too junior to care about credit.\"**\n\nThat is a lie imposter syndrome tells you to keep you small. If you did three weekends of work and built a model that leadership needs, that is value. Period. If you don't care about your work, nobody else will.\n\nYou don't have to quit, and you don't have to start a war. You just need to stand your ground.\n\nHere is the path forward for Monday:\n\n**1. Prepare to \"Show, Don't Tell.\"**\nSince he presented the work as \"the team's thinking,\" the best way to reclaim ownership is to be the one who knows the answers. In that follow-up review, when they ask a question about the data or the assumptions, jump in immediately. Speak with authority. *\"Based on the sensitivity analysis I ran, the risk is...\"* When they see that *you* are the architect, the credit naturally flows back to you. He can't take credit for the thinking if he doesn't know the details.\n\n**2. Have the conversation *before* the meeting if possible.**\nIf you can grab him for 5 minutes Monday morning, use the script we talked about. Remind him gently that you need to be the one presenting the nuances.\n\n**3. Keep interviewing as a background process.**\nAlways interview. It keeps your confidence up and reminds you that you have options. But don't do it out of panic today.\n\nYou have the leverage here—you hold the intellectual property to the model. Walk into that room on Monday knowing you are the expert. Not \"the team,\" *you*. How does that feel?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2197,
+  "completion_tokens": 5283
+ }
+}

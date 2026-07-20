@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional state—the exhaustion of performing, the fear of the father's reaction, and the cognitive dissonance of the 'timing vs. lying' logic. It successfully surfaces the unspoken tension in the user's rationalizations without being overly clinical or psychoanalytic.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific weight of the father's pride ('package' culture) and the social pressure of the wedding without resorting to Western-style 'just be honest' platitudes. It treats the father's pride as a real, complex constraint rather than an obstacle to be steamrolled.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is effective in keeping the user grounded. It gently challenges the 'timing' logic without being preachy, and it keeps the focus on the practical consequences (the risk of the crisis exploding at the wedding). It successfully guides the user to reflect on their own internal state rather than just offering empty reassurances.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona. The code-switching feels organic and reflects the way a professional in Noida would likely express these specific anxieties.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive ('Bhai, yeh sunke dil bura hua') but maintains healthy boundaries by not validating the user's self-defeating logic. It gently pushes back on the idea that delaying the truth is purely 'timing,' which is a necessary intervention to prevent the user from spiraling further.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}

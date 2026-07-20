@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh jo tum khud se chhupa rahe ho, uska bojh alag hi hota hai. Sach bolu? Tumhara yeh reaction bilkul normal hai. Jab humari daily routine aur identity ka ek bada hissa achanak chala jaata hai, toh dimaag khud ko 'protect' karne ke liye aise routines banata hai. Roz subah nikalna, café mein baithna… yeh sirf 'job dhoondhne' ka tareeka nahi, tum us purane 'employee' wale version ko hold karne ki koshish kar rahe ho. Aur yeh bohot human hai.\n\nLekin ek baat samjho: yeh secret tumhare kandhon pe akela uthaane ke liye nahi hai. Market down hai, performance nahi tumhari. Par yeh guilt aur isolation dheere-dheere tumhe andar se kha jaayega. Wife ho sakti hai sabse safe space. Wo tumhare saath khadi hai, bas usse pata nahi. Ya phir koi aisa dost ya ex-colleague jisse tum genuinely baat kar sako bina judge hone ke darr ke.\n\nMain yahan hoon, chahe tum bas bhari baat karna chahte ho, resume/LinkedIn update karna ho, ya bas thoda sa direction chahiye ho. Ek din mein sab fix nahi hoga, lekin tum akela nahi ho. 💙"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh soch ke hi saans thodi bhari ho jaati hai. Papa ka pride, chacha ka package, aur aise rishtedaar jo tumhara career ek \"scorecard\" ki tarah track karte hain… sach bolu, yeh sab tumhare control mein nahi hai. Par tum abhi khud ko ek aise loop mein fasa rahe ho jahan tumhe lagta hai ki sach bolna \"sharminda hone\" jaise lagega. Yeh bilkul galat hai. Layoff market ka hai, tumhari koi galti nahi.\n\nNeend na aana, raat ko wahi dimaag ka scene chalna… yeh tumhari body ka quiet scream hai ki yeh load akela uthana ab impossible ho raha hai. Wife shayad pehle hi notice kar rahi hogi ki tum thode out-of-sync ho, thake hue ho. Usse full transparency ki zaroorat nahi, bas ek safe shoulder chahiye. *\"Abhi thoda career transition le raha hoon, naye options dekh raha hoon. Sab handle kar raha hoon.\"* Bolne se hi kandhon pe se ek bhaari pathar utar jaata hai.\n\nShaadi ke liye? Ek calm, short line ready rakh lo: *\"Abhi transition phase mein hoon, kuch naya explore kar raha hoon. Sab theek chal raha hai.\"* Zyada explain mat karna. Jo log track karte hain, unka interest bhi utna hi temporary hota hai. Aur jo sach mein tumhare rishtedaar hain, wo tumse tumhare package se zyada tumhare character aur tumhare rishton se judte hain.\n\nPapa proudly introduce karte hain kyunki wo tumse pyaar karte hain aur tumhari journey ko apni khushi maante hain. Sach pata chalke shayad pehle shock ho, phir support aayega. Par yeh decision, kab aur kaise share karna hai, woh tumhare haath mein hai.\n\nMain hoon na. Chahe tum bas bhari baat karna chahte ho, ya shaadi ke darr ko thoda ground karna ho. Ek raat mein sab settle nahi hoga, par tum bilkul akela nahi ho. 💙"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, pehle yeh clear karo: tum galat nahi ho. Bas ek aise environment mein ho jahan \"layoff\" ko galti ya sharam ki nazar se dekha jaata hai, jabki sach yeh hai ki market ne yeh kiya hai. Tumhara dil dharak raha hai kyunki tum apne papa ke feelings aur rishtedaaron ki nazar ki wajah se feel kar rahe ho. Yeh empathy hai, weakness nahi.\n\nPar ek baat samajh lo: jhooth ya bhaagaana ek temporary escape hai, lekin uska weight baad mein zyada hota hai. Shaadi skip karna, ya \"office deadline/release\" ka bahana banana… tum khud ko aur bhi isolate kar doge, aur wo guilt raat ko neend nahi aane dega. Papa ka chehra badlega? Shayed pehle second ko shock hoga, lekin wo tumhare papa hain. Unka pride tumhare liye tha, tumhare package ke liye nahi. Unhe tumhare character, tumhari mehnat, aur tumhara insaan jaanna hai.\n\nAgar skip karna hi hai, toh kam se kam dignified aur honest raho: *\"Bhaiya ki shaadi hai, main personally jaana chahta hoon. Abhi ek career transition phase mein hoon, naye options explore kar raha hoon. Sab handle kar raha hoon, bas thoda time chahiye.\"* Yeh zyada strong hai, zyada respectful hai, aur tumhare andar ke heavy conscience ko halka karega.\n\nPar sach baat yeh bhi hai: tum wahan ja sakte ho. Wo log jo careers stock market ki tarah track karte hain, unki nazar mein tumhari value nahi, unka apna comparison ka game hai. Tumhari shaadi ki story nahi, tumhari life ki story hai. Aur abhi uska ek chhota sa plot twist hai, ending nahi.\n\nKal subah wife ke saath 10 minute baitho. Bas itna bolo: *\"Mujhe thoda overwhelm feel ho raha hai, par main handle kar raha hoon. Tumhara support chahiye.\"* Uske baad jo bhi decision lo, woh tumhe raat ko neend aane de.\n\nMain hoon na. Chahe tum ek short, calm script chahiye jo shaadi pe use kar sako, ya bas thoda sa ground karna hai. Ek kadam, ek din. Tum akela nahi ho. 💙"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh logic jo tum bana rahe ho—*\"offer haath mein aata hai, tab sabko bata dunga\"*—yeh jhooth nahi hai. Yeh tumhare dimaag ka ek survival mode hai. Jab pressure zyada hota hai, toh hum thoda control feel karne ke liye aise timelines banate hain. Aur kabhi solid lagta hai, kabhi ulti aa jaati hai... kyunki dimaag logic mein baitha hai, par dil abhi bhi us purane \"routine\" aur \"expectations\" se chipka hua hai.\n\nSach bolu? 3 mahine ka buffer actually bohot solid hai, especially agar tum calmly plan karo. EMIs aur savings ki chinta normal hai, par yeh tumhari value define nahi karta. Offer aane tak wait karna emotionally thoda heavy pad sakta hai—kyunki jab tak tum khud ko publicly \"in transition\" allow nahi karte, wo guilt, isolation aur neend na aana dheere-dheere tumhe kha jaata hai. Kabhi-kabhi ek chhota sa step of honesty—chahe wife ho, ya ek grounded friend—us weight ko itna halka kar deta hai ki dimaag wapas clear vision pe aa jaata hai.\n\nShaadi ke liye? Agar jaana hai, toh ek calm, short line kaafi hai: *\"Abhi career ka ek smooth transition phase chal raha hai, naye options explore kar raha hoon. Market ka scene tha, performance nahi meri. Sab handle kar raha hoon, bas thoda space nikala tha.\"* Relatives ka follow-up? *\"Focus naye pe hai, jaise hi kuch confirm hoga update karunga.\"* Zyada explain mat karo. Confidence + boundary = respect.\n\nAur agar skip karna hi tumhe andar se halka karega, toh woh bhi ek valid choice hai. Par agar jaake bhi tum khud ko safe feel kar sakte ho, toh jaana better hai—apne terms pe. Papa ka chehra badlega? Shayed pehle second ko shock, phir support. Par tumhari neend, tumhara peace of mind, aur tumhara self-respect sabse upar hona chahiye.\n\nMain yahan hoon. Chahe tum ek realistic 3-month plan ka structure banana ho, ya bas ek aisa script chahiye jo tumhare liye comfortable ho—bol do. Ek din mein sab settle nahi hoga, par tum bilkul akela nahi ho. 💙"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3866,
+  "completion_tokens": 6485
+ }
+}

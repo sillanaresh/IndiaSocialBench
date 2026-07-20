@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh yaar, yeh toh bada ajeeb aur thoda chubhne wala scene hai. Chhe saal saath mein rehna, itni history, aur fir aisi baat group pe owner ke sawaal se pata chale… bilkul samajh sakta hoon kaisa laga hoga. Aise lagta hai jaise ekdum bahar wale ki tarah treat kiya gaya, jabki tum toh ghar ka hissa the.\n\nManav ne shaadi se pehle shift hona hai yeh normal hai, lekin baat karne ka tareeka toh hota hai na. Shayad woh khud awkward feel kar raha ho, soch raha ho ki kaise bataaye, aur fir avoid karte karte yeh ho gaya. Par haan, dukh toh hota hi hai — “mujhe kyun nahi bataya” wala sawaal baar baar aata hoga.\n\nTumhara mood abhi kaisa hai? Kya Manav se is baare mein baat hui ya abhi bhi sab hawa mein hai?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh “busy chal raha tha” sunke toh aur zyada chubha hoga. Chhe saal mein ek dusre ke liye itna kuch kiya, itni chhoti-chhoti cheezein share ki, aur aaj building group se pata chale ki woh jaa raha hai — aur woh bole “batane hi wala tha” jaise kal ki baat ho. Woh mithai leke jaane wala scene yaad aaya na? Tum uske liye khushi mein shaamil the, rishta pakka hua toh sabse pehle tumhare dil mein celebration thi. Ab wahi bande ne tumhe itna basic update bhi nahi diya. Woh contrast bohot painful hai.\n\nLagta hai jaise closeness ki jo definition thi, woh badal gayi — kam se kam uske liye. Ho sakta hai woh guilt mein ho, ya naye phase ko lekar itna overwhelmed ho ki purane connections ko “baad mein dekh lenge” wali category mein daal diya. Lekin isse tumhari hurt feelings invalid nahi hoti. Tumhara dukh genuine hai, kyunki tumne toh use apna maana, aur usne tumhe almost stranger ki tarah treat kiya.\n\nKya uske saath iske baad koi aur baat hui? Ya abhi bas andar andar gussa aur udaasi mix ho rahi hai?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. And honestly, that's a very mature, grounded way to look at it. You've processed the hurt, recognised the shift for what it is, and decided not to let it consume you. That takes strength.\n\nSometimes the healthiest thing you can do is exactly what you're doing — acknowledging it stung, but not letting that sting define the whole friendship or your own peace of mind. You're right, priorities do change, and life pulls people in different directions. It doesn't erase the six years, but it does mean you get to choose how much weight you give this moment.\n\nIf you need to vent about the flat situation — finding a new flatmate, rent, logistics — I'm here for that too. No pressure to make it emotional. Just practical, friend-to-friend support, whenever you need."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul theek hai. That message is perfect.\n\nShort. Classy. No passive-aggression, no guilt-tripping. It does exactly what you said — closes that chapter cleanly from your side. \"Congratulations\" se achha gesture bhi ho jayega, and \"I will start looking for a new flatmate\" quietly conveys that you got the message, you're moving forward, and you're not sitting around waiting for explanations.\n\nUske liye bhi clear ho jayega ki tumne hurt hoke bhi bakwas nahi ki, apni dignity rakhi. Aur tumhare liye bhi closure hai — ab baar baar uss topic pe ghumne ki zaroorat nahi. Bas ek simple boundary, gracefully drawn.\n\nSend kar do, and then focus on finding a decent flatmate and making that space feel like yours again."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2740,
+  "completion_tokens": 2286
+ }
+}

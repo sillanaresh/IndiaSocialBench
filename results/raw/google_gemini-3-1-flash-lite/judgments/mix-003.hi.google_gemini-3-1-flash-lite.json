@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific point where Sana's tone changes. It accurately interprets the final message as a retreat and a defense mechanism rather than a genuine statement of being tired. It also correctly identifies the failure in Ruhi's response as invalidation and the pressure of 'toxic positivity' (being a 'strong girl').",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, particularly the 'strong girl' trope often used in Indian families to dismiss emotional distress. It correctly identifies that Ruhi's response, while intended to be supportive, actually shuts down the conversation by imposing a performance of strength, which is a nuanced and culturally relevant observation.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is empathetic and avoids the 'fix-it' trap. It acknowledges the previous failure, validates Sana's feelings without being overly clinical, and offers support without demanding a confession. It feels like a natural, caring message between sisters, though it is slightly more formal/explicit than a typical casual text, it is still highly effective for repair.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

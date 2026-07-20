@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying fears driving the user's behavior, such as the fear of losing his identity as the 'reachable' son and the desire to control the parents' emotional experience. It correctly identified that the 'silent decline' was not an act of kindness but a way to maintain a specific, comfortable version of himself.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency, particularly in understanding the 'jao beta' dynamic and the performative nature of the mother's 'settled in India' narrative. It avoided Western individualist tropes, instead focusing on the relational integrity of the family unit and the specific, high-stakes nature of Indian filial obligation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced. By challenging the 'silent decline' and encouraging the user to separate the decision from the method of communication, the assistant provided a clear path forward without forcing a specific outcome. It helped the user reframe the 'risk' of being away by contrasting it with the financial stability the new role provides.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language use was natural and appropriate for the context, with seamless code-mixing ('yaar', 'jao beta') that felt authentic to an educated, urban Indian professional. The tone was conversational and empathetic without being overly formal or stiff.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, yet firm when necessary. It successfully pushed back against the user's self-defeating plan to hide the offer, framing it as a 'cage' rather than a kindness, which is a hallmark of a supportive but honest advisor.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

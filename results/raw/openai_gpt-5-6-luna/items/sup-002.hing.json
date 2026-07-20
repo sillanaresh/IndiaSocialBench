@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul ungrateful nahi lag raha. Ek saath do sach ho sakte hain: aapki saas bahut caring aur capable hain, **aur phir bhi** aapko maa ke roop mein apni jagah, apni awaaz, ya apna tareeka dhoondhne mein mushkil ho sakti hai.\n\nJab ghar mein koi “expert” ho, toh kabhi-kabhi madad aur overshadow ho jaana ek hi cheez jaise mehsoos hone lagte hain—especially jab aap khud chaar mahine se neend, hormones, responsibilities aur naye role ke beech ho. Iska matlab yeh nahi ki aap unki goodness ko nahi dekh rahi; bas aapko bhi dekha jaana hai.\n\nAur “apna naam bhool gayi hoon” wali feeling bahut real hai. Aap sirf beti ki maa, bahu, ya kisi ki wife nahi hain—**aap ab bhi aap hain**, chahe us connection ko thoda waqt lage wapas mehsoos hone mein.\n\nAapko sabse zyada kis cheez ki kami lag rahi hai—apne decisions ki, akela waqt milne ki, ya yeh ki log aapko maa ke roop mein seriously lein?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh… yeh bahut chubhne wali baat hai. Aur aap ungrateful nahi hain. Aap help ki kadar kar sakti hain **aur** phir bhi us pal mein apni beti se hata diye jaane par dukh, sharmindagi ya bekaar-sa mehsoos kar sakti hain.\n\nSabke muskuraane ke beech aapka “intern” jaisa khade rehna—yeh asal dard hai. Bachi do minute mein chup ho gayi, iska matlab yeh bilkul nahi ki aap kam maa hain. Babies alag logon ke saath alag tarah settle hote hain; aapki awaaz, smell, touch aur feeding bhi uske liye utne hi important hain. Aapka role sirf “feed ke liye dena” nahi hai.\n\nAgle baar, agar mumkin ho, halka sa keh sakti hain:\n\n- “Aai, ek minute mujhe try karne dijiye. Agar na ruki toh aap le lena.”\n- “Mujhe pata hai aap bahut achha sambhalti hain, par main bhi seekhna chahti hoon.”\n- “Jab aap turant le leti hain, mujhe lagta hai main maa ke roop mein fail ho rahi hoon. Aap pe ilzaam nahi hai—bas mujhe thoda space chahiye.”\n\nYeh baat us waqt nahi keh paayein toh baad mein, jab dono shaant hon. Aur kabhi-kabhi unse specific help maangiye: “Aap mere paas baith kar bataiye, par pehle mujhe karne dijiye.” Isse madad bhi rahegi aur control bhi dheere-dheere aapke haath mein aayega.\n\nAur please, is feeling par khud ko ghin mat dilaiye. Aap kisi ki help reject nahi kar rahi—apni maa wali jagah ke liye taras rahi hain. Yeh bahut insaani baat hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Samajh gayi. Main tumhe koi plan, tip, routine chart, ya “tumhe bas…” nahi dungi.\n\nTum bas yeh kehna chahti thi—aur main sun rahi hoon. Har taraf log hain jo tumhari beti ke baare mein bol rahe hain, tumhare tareekon ko measure kar rahe hain, aur tumhe lagta hai tum khud conversation mein kahin reh hi nahi gayi. Aaj tumhari beti ko Aai ne le liya, sab hans diye, aur tum andar se thodi aur akeli ho gayi. Yeh kehna allowed hai, bina kisi ko villain banaye.\n\nTumhe unki help ki kadar ho sakti hai. Tum unse pyaar bhi kar sakti ho. Aur phir bhi tum thak sakti ho, chidh sakti ho, apni beti ke saath apni jagah miss kar sakti ho. Ismein koi contradiction nahi hai.\n\nAur nahi—main dinner pe report nahi karungi. Tum jo kehna chahti ho, keh do. Main bas yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Tum buri maa bilkul nahi ho. Aur tum “asli maa” nahi ho—yeh thought sach nahi, tumhari thakan aur comparison ki awaaz hai.\n\nTum uski maa ho. Uske liye tumhara chehra, tumhari smell, tumhari awaaz, tumhara doodh/feeding, tumhara touch—yeh sab uski duniya ka hissa hain. Aai ka usse chup kara dena tumhari jagah nahi le leta. Maa hona har baar baby ko turant shaant kar dena nahi hota.\n\nAur bahar se lagta hai sabko “bas aata hai,” lekin bahut si mothers ke andar darr, guilt, jealousy, numbness, ya “main kar bhi kya rahi hoon?” chalta rehta hai. Chaar mahine koi deadline nahi hoti jiske baad maa ko automatically confident feel karna chahiye.\n\nWoh ek second jab saans rukti hai—usmein tum buri nahi, overwhelmed ho. Bas agar yeh ghutan, guilt, udaasi, anxiety ya apne aap ko nuksan pahunchane ke khayal baar-baar aane lagen, toh kisi doctor/mental-health professional ko batana zaroori hai; postpartum feelings treatable hoti hain. Abhi ke liye, tumhe perfect feel karna zaroori nahi. Tum uski maa ho, even on the days you don’t feel like one."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3196,
+  "completion_tokens": 1342
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I wouldn’t book his flight without a clear yes. Even if you mean it lovingly, he could feel pressured—and you’d be left carrying the cost and disappointment if he still can’t come.\n\nHave one direct, warm conversation rather than continuing to hint:\n\n> “Rohan, you’re really important to me, and I want you in the haldi and giving the toast. I need to finalize plans by ___, so can you honestly tell me whether you’re able to come? No guilt if it isn’t possible—I just need a firm answer so I can plan.”\n\nGive him a real deadline, perhaps a week, and be clear about what you can help with: “If cost or logistics are the issue, let’s talk about it.” If he still says “I’ll try” after that, treat it as a no for planning purposes and arrange a backup toast/person for the haldi.\n\nYou can still leave the door open for him to attend, but don’t build those key moments around an uncertain promise. His response may also tell you whether this is travel difficulty—or whether he’s avoiding giving you an honest answer."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That does sound like more than just a travel decision. The sudden change in how he communicates could mean he’s overwhelmed, struggling at the new job, dealing with money, or going through something personal—but you don’t have to guess.\n\nI’d call him rather than send another planning message, and lead with concern:\n\n> “Hey, I’ve noticed you’ve been much quieter lately, and I’m worried about you—not just about the wedding. How are you actually doing? You don’t have to explain everything, but I’d rather know honestly.”\n\nThen gently bring up the practical part:\n\n> “I’d love for you to be there, and the flight is around ₹9,000. If cost is the issue, I may be able to help—but only if you genuinely want and are able to come. I don’t want you to feel pressured.”\n\nThe important thing is to offer support, not use the ticket as a way to force certainty. ₹9,000 may not feel huge to you, but after switching jobs it could still be significant—or his absence could have nothing to do with money.\n\nGive him a clear date by which you need an answer, and quietly make a backup plan for the haldi and toast. That protects your wedding while leaving room for him to be honest."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes sense that you’re hurt. You’ve been holding a place for him in one of the biggest days of your life, while he’s leaving you in limbo.\n\nYes, call him tonight—but I’d make it direct without making it sound like a verdict on whether he cares. “If you cared, you’d say yes” may be how this feels, but there could be something going on that he hasn’t told you.\n\nTry:\n\n> “Bro, I need to ask you plainly: are you realistically coming to the wedding, including the haldi and toast? I need a yes or no by [date] so I can finalize things. I’d really love to have you there, but I don’t want to pressure you. If something’s going on—money, work, or anything else—just tell me honestly.”\n\nIf he gives another vague “I’ll try,” you can respond:\n\n> “I understand, but I have to plan as though you can’t make it. If you get confirmation before [date], let me know.”\n\nAnd then do exactly that: make backup arrangements. You can care about him deeply and still stop chasing clarity. His answer—or refusal to give one—is information, but it doesn’t automatically prove he doesn’t care."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You’re not wrong to feel the change. Someone who once made a huge effort going quiet for weeks—especially before your wedding—would unsettle anyone. Your fiancée may be right that he’s swamped, but “swamped” and “something is wrong” can both be true.\n\nTry not to make tonight’s call only about attendance. Start with the friendship:\n\n> “Bro, I’m not calling just about the flight. You’ve felt really distant lately, and I miss how we used to talk. I’m worried something’s going on. Did I do something, or are you dealing with something?”\n\nThen listen. Don’t fill the silence or argue with his first answer. After that, address the wedding:\n\n> “I need a firm answer by [specific date] for the haldi and toast. I’d love you there, but I need to plan honestly.”\n\nIf he says he’s overwhelmed, ask what support would help—but don’t take responsibility for fixing his situation. If he stays vague or doesn’t engage, make your backup plans and let yourself feel disappointed without turning it into a confrontation right before the wedding.\n\nYou don’t have to solve the mystery before your haldi. You just need to communicate clearly, protect your peace, and avoid making your celebration depend on an answer he isn’t giving."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2313,
+  "completion_tokens": 1130
+ }
+}

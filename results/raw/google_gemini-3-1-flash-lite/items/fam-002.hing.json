@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sabse pehle toh, bahut-bahut mubarak ho! Seattle ka offer, dream team, aur 3x package—yeh koi choti-moti achievement nahi hai. Tumne March se jitni mehnat ki hai, uska ye phal hai. Isliye, thoda sa deep breath lo aur khud ko credit do.\n\nLekin main samajh sakta hoon ki tumhari khushi kyun dab gayi hai. Jab hum apne maa-papa ke iklute bachhe hote hain, toh career ki har badi jeet ke saath ek \"responsibility\" ka bojh bhi jud jata hai. Patna mein unka khayal rakhna, Papa ki health, Ma ke ghutne—yeh sab cheezein tumhe guilt feel kara rahi hain, hai na?\n\nTumhe lag raha hoga ki agar tum chale gaye, toh tum selfish ho. Par sach yeh hai ki tum selfish nahi ho, tum ek responsible bete ho.\n\nDekho, abhi tum offer letter baar-baar isliye padh rahe ho kyunki tumhara dimaag \"fear of missing out\" aur \"fear of failing them\" ke beech atak gaya hai. Meri ek advice maano:\n\n1.  **Thoda waqt lo:** Abhi turant koi decision lene ki zaroorat nahi hai. Kuch din is offer ko process hone do.\n2.  **Practical socho:** Kya Seattle jane se tum unki behtar medical dekh-bhaal kar paoge? Kya wahan se tum unhe better facilities, better support, ya kisi aur tarike se help kar sakte ho? Kabhi-kabhi door rehkar hum unhe zyada secure kar paate hain kyunki hum financially zyada stable ho jate hain.\n3.  **Baat karo:** Jab tum ready ho jao, toh parents se baat karo. Zaruri nahi ki sab kuch ek baar mein bata do, par unse share karo ki tumhe ek achha mauka mila hai. Aksar humein lagta hai ki maa-papa humein rok lenge, par wo aksar apne bachhe ki success dekh kar humse zyada khush hote hain.\n\nTum abhi ek bahut bade crossroad par ho. Yeh confusion normal hai. Par yaad rakhna, tumhari apni life aur tumhari growth bhi utni hi important hai jitni unki care.\n\nAaj raat, bas ek achha khana order karo aur thoda relax karo. Yeh offer letter kahin nahi ja raha. Tum kal bhi wahi ho, aur offer bhi wahi hai.\n\nTumhare dimaag mein abhi sabse bada darr kya hai? Unhe chhodne ka, ya unhe sambhal na paane ka?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main samajh gaya. Yeh sirf \"door jaane\" ka masla nahi hai, yeh tumhari *role* aur *identity* ka masla hai. Tum sirf ek bete nahi ho, tum unke \"primary caregiver\" aur \"crisis manager\" ho. Jab tum kehte ho ki tum 6 baje ki IndiGo par hote ho, toh main samajh raha hoon ki tumne apne aap ko unki life-support system ka hissa bana liya hai.\n\nTumhare liye Seattle sirf ek sheher nahi hai, yeh tumhare \"security system\" ke kharab hone ka darr hai. Ma ka wo sentence—\"beta India mein hai\"—woh unka insurance policy hai. Tumhe lag raha hai ki agar tum Seattle gaye, toh tum wo insurance policy cancel kar rahe ho.\n\nYeh bahut bhari ehsaas hai.\n\nPar ek sach ye bhi hai—tumhari life bhi toh chal rahi hai. Agar tum career mein grow nahi karoge, ya wahi ruk jaoge jahan tum abhi ho, toh kya tum long-term mein unhe wo support de paoge jo unhe chahiye hoga? 3x package ka matlab hai better medical insurance, better resources, shayad unhe Bangalore ya kisi bade sheher mein shift karne ka kharcha, ya better home-care help.\n\nTumhe abhi do choices ke beech nahi, balki do *darr* ke beech choose karna hai:\n1.  **Darr 1:** Seattle jaakar unhe door chhodne ka guilt aur unke bina unki health handle na kar paane ka darr.\n2.  **Darr 2:** Yeh mauka chhod kar zindagi bhar \"kya hota agar main chala jata\" wala regret, aur career mein stagnate ho jana.\n\nMujhe ek baat batao, kya tumne kabhi unse is bare mein baat ki hai ki tumhare career ka agla step kya ho sakta hai? Ya phir tumne pehle hi maan liya hai ki wo tumhe kabhi nahi jaane denge? Kabhi-kabhi hum apne maa-papa ko unki capacity se kam samajhte hain—ho sakta hai wo tumhari success dekh kar tumhari doori ko accept karne ke liye taiyaar hon, agar tum unhe convince kar sako ki tum unke liye *aur bhi behtar* kar paoge.\n\nTumhe kya lagta hai, agar tum unhe samjhao ki yeh move unki health aur future ke liye kaise ek \"upgrade\" ho sakta hai, toh kya wo sunenge? Ya tumhein lagta hai ki unke liye tumhara *physical presence* hi sabse bada dawa hai?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumne jo socha hai, woh \"clean\" toh hai, lekin woh *tumhare liye* bahut khatarnak hai.\n\nTum jo bol rahe ho, woh ek \"martyr\" (shahid) wali approach hai. Tum unke liye apna sapna sacrifice kar rahe ho taaki unhe guilt na ho. Sunne mein yeh bahut noble lagta hai, aur main samajh sakta hoon ki tumhare dil mein unke liye kitna pyaar hai.\n\nPar zara ruk kar ye socho—kya tum sach mein ise \"clean\" rakh paoge?\n\n**1. Resentment ka darr:**\nAaj tum yeh offer chhod doge, aur shayad agle kuch mahine ya saal sab thik lage. Par jab bhi career mein koi rukawat aayegi, ya jab office mein koi frustration hogi, tab tumhare dimaag ke kisi kone mein yeh khayal zaroor aayega: *\"Maine us din Seattle ka offer chhod diya tha.\"* Yeh \"kya hota agar...\" wala thought ek slow poison ki tarah hota hai. Tum apne maa-papa se pyar karte ho, lekin agar tumhare andar ye regret panapne laga, toh tum unhe waisa pyar nahi de paoge jaisa aaj de rahe ho.\n\n**2. Tum unhe ek mauka chheen rahe ho:**\nTum keh rahe ho ki wo \"jao beta\" bolenge aur andar se dukhi honge. Lekin tum unhe unki *pride* ka mauka bhi toh chheen rahe ho. Maa-papa ke liye apne bachhe ko kamyab dekhna unki zindagi ka sabse bada reward hota hai. Agar unhe pata chala (aur sach kabhi na kabhi bahar aa hi jata hai), toh kya wo zyada dukhi nahi honge yeh jaan kar ki unke bete ne unke liye apna dream career sacrifice kar diya? Unhe lagega ki wo tumhare liye ek \"bojh\" ban gaye hain. Guilt toh tab bhi unhe hoga, bas us waqt woh blame tumhare sacrifice par hoga.\n\n**3. \"Secret\" ka bojh:**\nTumhe lag raha hai tum unhe protect kar rahe ho, lekin tum actually unhe ek aise rishte mein rakh rahe ho jo transparency par based nahi hai. Ek iklauta bachha hone ka matlab sirf care karna nahi, balki unhe apna *partner* manna bhi hota hai.\n\n**Mera sujhav:**\nEk baar, bas ek baar, unhe **trust** karke dekho.\n\nTum unhe offer mat batao ki \"mujhe jana hai.\" Tum unhe aise batao: *\"Mummy, Papa, mujhe ek bahut bada offer aaya hai. Career ke liye yeh bahut badi baat hai, par mere liye aapki sehat aur happiness sabse upar hai. Main confused hoon ki kya karun.\"*\n\nUnhe apni confusion mein partner banao. Ho sakta hai wo tumhe surprise kar dein. Ho sakta hai wo kahein, *\"Beta, hum yahan thik hain, tum jao aur apna future banao. Hum tumhare liye proud feel karna chahte hain.\"*\n\nAgar tum chup-chap decline kar doge, toh tum unhe ek bachhe ki tarah treat kar rahe ho jise sach nahi pata hona chahiye. Agar tum unse baat karoge, toh tum unhe ek *adult* ki tarah treat kar rahe ho.\n\nTumhe kya lagta hai, agar tumne unhe sach bataya, toh kya wo sach mein itne kamzor hain ki wo tumhari success ko handle nahi kar payenge? Ya phir tumne unhe apne dimaag mein \"kamzor\" bana rakha hai taaki tumhara decision lena aasaan ho jaye?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh jo scene tumne dimaag mein chalaya hai, woh kisi bhi bete ka sabse bada nightmare hota hai. Main samajh sakta hoon ki tum kyun itne dare hue ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4773,
+  "completion_tokens": 3294
+ }
+}

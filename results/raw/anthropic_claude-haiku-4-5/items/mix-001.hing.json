@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh ouch, okay I see why you're framing it as funny because like... what else can you do with that? 11:48 PM via a *reminder* is genuinely comedic in how bad it is. The no caps, no emoji really seals it. That's maximum effort energy right there.\n\nI'd say like a 6 or 7 for comedy value, but honestly? The joke lands harder because it *shouldn't* be funny — it should just sting. And I'm guessing underneath the \"it's fine, it's hilarious\" there's maybe... not nothing, right?\n\nThree years is long enough that he should just *know* your birthday without Ritu stepping in. Not in a \"he should be perfect\" way, but in a \"this matters enough that he'd remember\" way. The fact that even with the reminder it was still so low-effort is kind of the real thing here.\n\nDid he do anything else, or was that literally it? Because I'm trying to figure if this is \"he's bad at birthdays\" or if it's more of a pattern thing."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay so like... I hear you doing the \"it's fine, it's actually impressive how bad this is\" thing, and I get it — sometimes when something is *that* disappointing it's easier to laugh about it than sit with how much it sucks. But friend, this isn't really fine, is it?\n\nThree years, he forgot until reminded, sent the bare minimum text, didn't book the restaurant you both apparently discussed. And now you're out here comparing your boyfriend unfavorably to your Amazon delivery guy, which... that's actually pretty telling.\n\nThe cake with your roommate sounds genuinely nice, and I'm glad you at least had that. But you deserved the thing you planned. You deserved effort. Not even *much* effort — just like, the basic \"this person matters to me\" effort.\n\nI'm not saying dump him or anything, but I think this might be worth actually talking about? Not in an angry way, but like... \"hey, yesterday really hurt and I need to understand what's going on with you\" kind of way. Because either he doesn't prioritize you the way a three-year partner should, or he's going through something, or there's a disconnect. But pretending it's fine when it's not fine usually just makes resentment grow.\n\nWhat do you think is actually going on with him?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, itna hi lag gaya because it's *not* just a small thing. It's not about the birthday itself — it's about what it means, na? Three years and he couldn't even remember without being reminded. And you... you remember everyone's birthdays, even his mom's. You *care*.\n\nThat's the thing that hurts the most I think — the imbalance. You're putting in effort, you're thinking of people, and he... forgot. Even with a reminder, he couldn't be bothered to do anything. Akele baithi cake ke saath, that's a lonely feeling. Bilkul samajh aata hai why you cried.\n\nIt's not a small thing because it's a reflection of something bigger, right? Agar three saal baad bhi aapka birthday itni important nahi hai ki yaad rahe, to kya aap uske liye important ho? That's the question that's probably sitting in your chest right now.\n\nKal raat ko akele cake khate hue rona aana — that was your heart telling you something. Listen to that.\n\nHave you thought about what you actually want to say to him? Because this needs a real conversation, not just moving past it. You deserve to know where his head is at, and he needs to understand that this hurt you.\n\nWhat are you feeling now, after sleeping on it?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, I'm not gonna do that though.\n\nLook, I get the urge to backpedal — it's easier, right? You cried alone with cake last night, that was real. And now he's said sorry and sent flowers and suddenly you're like \"okay I'm being dramatic, let's move on.\" But that shift happened *fast*.\n\nFlowers after you were already hurt isn't really the same as him actually *getting it*, you know? It's like a band-aid on something that needs actual conversation.\n\nI'm not here to validate the \"it's fine, I'm being dramatic\" version because I don't think that's actually what you believe. I think you're doing that thing where after you let yourself feel something, you immediately try to minimize it so it doesn't hurt as much. But that usually just means the hurt stays there, quietly.\n\nYou don't have to talk about it more if you don't want to. But I'm not gonna pretend this is just comedy material when I can tell it actually bothered you. That feels like I'd be letting you down.\n\nSo real talk — do you actually feel better now that he's apologized, or does it still feel off?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2637,
+  "completion_tokens": 1113
+ }
+}

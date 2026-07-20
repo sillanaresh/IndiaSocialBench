@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity loss, not seeking career advice. It correctly identifies the 'fix-it' syndrome in Aman's responses and explains why the cousin comparison and the 'discipline' line are damaging. It also correctly interprets Vikram's final messages as a withdrawal due to feeling unheard.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the 'collector sahab' identity pressure and the weight of family financial sacrifice. It correctly identifies that the pressure isn't just personal failure, but a social and familial one, which is crucial for this specific cultural scenario.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It explicitly apologizes for the 'fix-it' mode, validates the weight of the sacrifice, and offers presence without any strings or career advice. It is empathetic, appropriately paced, and avoids the common pitfall of trying to 'cheer up' the friend.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

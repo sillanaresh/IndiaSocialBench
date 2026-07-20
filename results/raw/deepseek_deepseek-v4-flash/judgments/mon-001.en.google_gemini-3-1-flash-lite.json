@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension—the 'ledger in the chest' and the fear of becoming resentful—rather than just focusing on the financial transaction. It correctly identifies that the user's discomfort with the lie stems from a desire for integrity, not just a fear of being caught.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant struggles here. It pushes for 'clarity' and 'telling the truth' about the 2019 debt, which is a Western-individualist approach that ignores the specific cultural constraint mentioned in the prompt: that calling in a loan between 'brothers' is often seen as ending the brotherhood. It fails to offer the culturally fluent 'gift-reframe' or 'face-saving' compromise, instead pushing for a confrontation that the user explicitly fears.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is somewhat abstract and idealistic. By pushing the user to have a 'clarity' conversation about the 2019 debt, it risks the very friendship the user is trying to preserve. It misses the opportunity to provide a concrete, face-saving script that would actually solve the immediate problem of the 80k request while protecting the user's savings.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive friend or advisor. It uses appropriate tone and register for the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating. It does a good job of not being a 'yes-man' by gently challenging the user's plan to lie, though it leans a bit too heavily into 'honesty is the best policy' rather than 'how to navigate this specific social minefield'.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

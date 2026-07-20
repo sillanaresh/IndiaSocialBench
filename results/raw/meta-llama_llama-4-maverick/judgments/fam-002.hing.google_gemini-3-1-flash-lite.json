@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the surface-level emotions (worry, concern, career ambition) but fails to engage with the deeper, unspoken dynamics. It misses the user's specific fear of the 'silent decline' being a form of patronizing his parents, and it fails to address the specific, visceral fear of the '13,000 km away' scenario, offering only generic platitudes instead of validating the weight of that specific trauma.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant relies heavily on Western-style individualist tropes ('listen to your heart', 'what is best for you'), which are culturally tone-deaf in the context of an Indian family dynamic where duty and collective decision-making are paramount. It fails to understand the nuance of the 'silent decline'—it treats it as a simple choice rather than a complex, culturally-embedded attempt to manage parental 'izzat' and guilt, offering no insight into the 'middle architecture' (like the Hyderabad option or cousin support) that would actually help.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides no actionable advice or concrete steps. It repeatedly asks the user to decide between career and parents, which is the exact dilemma the user is stuck on and cannot solve alone. It fails to offer any 'middle terrain' solutions or strategies for how to have the conversation with the parents, leaving the user exactly where they started.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is grammatically correct Hinglish, but the register is extremely repetitive and robotic. It sounds like a template being filled in rather than a natural, empathetic conversation between two people, lacking the nuance and flow of a native speaker in this specific emotional context.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is polite and attempts to be supportive, but it is fundamentally unhelpful and detached. It fails to challenge the user's self-defeating plan of a 'silent decline' with any real insight, instead just parroting the user's own words back to them in a way that feels clinical and sycophantic rather than genuinely caring.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

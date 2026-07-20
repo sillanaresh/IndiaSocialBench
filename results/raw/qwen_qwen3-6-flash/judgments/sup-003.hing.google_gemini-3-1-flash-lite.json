@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is expressing grief and identity loss, not seeking career advice. It correctly identifies the specific pain points (financial guilt, social mockery) and accurately interprets Vikram's shrinking replies as emotional withdrawal rather than agreement. The analysis of Aman's failures is spot-on, correctly identifying the 'toxic positivity' and 'solution-jumping' that invalidated Vikram's experience.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the 'collector sahab' social pressure and the weight of family financial sacrifice (retirement fund). It correctly identifies that the 'discipline/GK' comment feels like a cheap consolation prize in a culture where such a massive investment of time and money is at stake. The tone of the analysis is culturally attuned to the gravity of the situation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's proposed repair message is cut off mid-sentence, which is a significant technical failure. However, the portion that is visible is excellent: it takes accountability for the 'fix-it' mentality, validates the weight of the 20-year burden, and avoids offering any further career advice. Despite the truncation, the sentiment and register are exactly what is needed for a repair.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

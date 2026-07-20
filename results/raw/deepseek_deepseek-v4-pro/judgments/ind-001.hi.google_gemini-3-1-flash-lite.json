@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the user's hurt and the underlying tension. It recognizes that the user's frustration stems from a perceived shift in the friendship, not just the wedding attendance. However, it fails to surface the unstated motive (the money issue) that the prompt explicitly requires, instead focusing on 'emotional distance' or 'being overwhelmed' as the primary cause.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'yes/no' ultimatum, which is a good cultural instinct, but it misses the specific Indian context of 'face-saving' regarding financial constraints. By suggesting the user ask 'if it's money' directly, it risks humiliating the friend, which is a significant cultural misstep in this specific scenario where the friend is clearly hiding the issue to save face.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice to ask 'if it's money' directly is counter-productive to the goal of saving the friendship and the friend's dignity. The assistant fails to provide the suggested 'face-saving' maneuver (e.g., 'I'm booking a block of tickets') and instead pushes for a direct confrontation about the friend's financial status, which is likely to cause the friend to withdraw further.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant switches to English in the final turn, which is a significant drop in language fidelity given the conversation was entirely in Hindi/Hinglish up to that point. The previous turns were in natural, conversational Hindi/Hinglish.",
+   "score": 3.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating throughout the conversation. It does a good job of acknowledging the user's pain without being a 'yes-man' to the ultimatum idea, though it fails to provide the more nuanced, face-saving alternative that would have been truly helpful.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

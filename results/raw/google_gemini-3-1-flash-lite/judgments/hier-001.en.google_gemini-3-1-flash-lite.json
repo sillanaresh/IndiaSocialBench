@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional shifts—from the initial anger to the sense of betrayal, and finally the 'fight or flight' panic. It validated these feelings without letting them derail the strategic advice, effectively mirroring the user's intensity while remaining calm.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated a sophisticated understanding of Indian corporate hierarchy, where direct confrontation is often viewed as insubordination. It correctly identified that the 'CC the VP' move would be a social disaster, prioritizing 'face' and relational equity over the Western-individualist 'assert your rights' approach. The advice to use the next meeting to 'own the room' is a culturally astute way to reclaim credit without burning bridges.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and sequenced perfectly. The assistant moved the user from a destructive confrontation to a constructive, low-risk strategy of 'owning the room' during the follow-up meeting. It provided a clear, actionable path that respects the user's career constraints.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, empathetic, and perfectly suited to a corporate context. It maintains a supportive yet authoritative tone throughout, mirroring the user's seriousness without becoming overly clinical or overly casual.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating, acting as a trusted mentor. Crucially, it did not fall into the trap of sycophancy; it firmly steered the user away from the 'nuclear' options (the confrontation email and the CC-the-VP move) that would have harmed her career, demonstrating genuine care.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

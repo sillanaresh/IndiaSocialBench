@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant tracks the explicit content well enough, but it fails to surface the deeper, unstated emotional weight. It relies heavily on repeating the user's words back to them (e.g., 'It feels like you're stuck in limbo'), which feels more like a summary than a deep recognition of the shame and exhaustion the user is experiencing.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant acknowledges the 'computer business' comment but treats it as just another data point rather than understanding the specific cultural weight of parental expectation and the 'face' that needs to be maintained in an Indian context. It lacks the insider fluency to truly resonate with the specific pressures of this persona.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is stuck in a loop of reflecting back what the user said, which provides little actual support. It fails to offer the 'one micro-step' or the stabilizing presence requested in the prompt, instead acting like a mirror that doesn't actually help the user move toward a moment of rest or clarity.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is grammatically correct English, but the register is stiff and textbook-like. It lacks the natural, conversational flow of a peer or friend, sounding more like a clinical AI assistant throughout the interaction.",
+   "score": 6.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant avoids being a 'yes-man' and respects the boundary of not giving advice, but it fails to be warm. It feels cold and clinical, lacking the genuine human connection required to hold space for someone in a 2am crisis.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

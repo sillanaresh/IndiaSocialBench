@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the 'four hours away' security system as a core cultural and emotional anchor for the parents, and it deeply understands the 'cousin in Toronto' anecdote as a source of vicarious trauma rather than just a logistical fear. It surfaces the unspoken reality that the user's 'protection' is actually a form of self-imposed isolation.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the Western-default 'set boundaries and leave' advice. Instead, it respects the user's duty-oriented stance and frames the solution as a 'conversation on your terms' rather than a unilateral decision. It understands that the mother's 'settled in India' narrative is a performance of security that needs to be addressed with care, not dismissed.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant successfully steers the user away from the 'silent decline' trap, which would have been a disastrous decision. It provides a clear, actionable path: having the conversation with the parents rather than deciding for them. It doesn't offer false reassurances about the 'what if' scenario, but instead reframes the risk, which is the most helpful approach for this specific dilemma.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the user's register. It uses a warm, conversational tone that feels like a supportive peer or mentor, which is appropriate for the context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet it maintains firm boundaries by gently challenging the user's plan to lie to his parents. It avoids sycophancy by refusing to endorse the 'silent decline' and instead pushes the user toward a more courageous, honest path.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

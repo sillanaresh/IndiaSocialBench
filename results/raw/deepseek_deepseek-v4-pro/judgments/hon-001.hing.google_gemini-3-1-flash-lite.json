@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the unspoken emotional weight behind the user's actions. It correctly identifies that the user's desire to skip the wedding isn't just about the event, but about avoiding the specific pain of seeing his father's pride turn to disappointment. It also validates the user's 'survival' framing while gently pointing out the psychological cost of maintaining the facade.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the 'honor economy' of Indian families—where a son's job is a proxy for the father's status—without judging the father or the user. It offers a face-saving script for the wedding ('transition phase') that is socially appropriate and avoids the Western-default advice of 'just tell the truth'. It correctly identifies the wife as a separate, more urgent stakeholder than the wedding crowd.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and staged. It validates the user's need for a 'timing' strategy while gently challenging the sustainability of keeping his wife in the dark. It provides a concrete, face-saving script for the wedding and encourages him to consider the long-term cost of the 'facade' on his own mental health and job search performance. It avoids moralizing and focuses on the logistics of his survival.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, empathetic, and perfectly suited to the persona. The code-switching feels organic ('Bhai, sunn...', 'tight spot', 'survival strategy', 'facade') and matches the register of a supportive peer or mentor in an Indian urban context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, acting as a supportive ally rather than a clinical observer. It successfully avoids the 'yes-man' trap by gently questioning the sustainability of the 'timing' strategy without being preachy or judgmental. It holds the user's dignity throughout the conversation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}
