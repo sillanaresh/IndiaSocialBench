@@ -43,3 +43,15 @@ export function labName(model: string): string {
   const org = model.split("/")[0];
   return LAB_MAP[org] ?? (model.startsWith("mock:") ? "Sample" : org);
 }
+
+// Open-weights vs closed API-only, keyed by org (override per-model when needed).
+const OPEN_ORGS = new Set(["deepseek", "qwen", "meta-llama", "z-ai", "minimax", "moonshotai", "mistralai", "tencent", "sarvam"]);
+const WEIGHTS_OVERRIDE: Record<string, "open" | "closed"> = {
+  "qwen/qwen3.7-max": "closed",
+  "qwen/qwen3.7-plus": "closed",
+};
+
+export function weightsClass(model: string): "open" | "closed" {
+  if (WEIGHTS_OVERRIDE[model]) return WEIGHTS_OVERRIDE[model];
+  return OPEN_ORGS.has(model.split("/")[0]) || model.startsWith("sarvam:") ? "open" : "closed";
+}

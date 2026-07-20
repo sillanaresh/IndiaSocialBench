@@ -1,5 +1,5 @@
 {
-  "what_is_this": "Condensed log of the founding conversation between Naresh Silla and Claude (Fable 5) that produced BhavBench, 2026-07-19 to 2026-07-20. Tool calls and internal reasoning omitted; each entry preserves the intent of the user's message and the substance of the assistant's response. Future agents: read PLAN.md first (it is the authoritative build spec); this file explains how and why decisions were made in sequence.",
+  "what_is_this": "Condensed log of the founding conversation between Naresh Silla and Claude (Fable 5) that produced BhavBench, 2026-07-19 to 2026-07-20. Tool calls and internal reasoning omitted; each entry preserves the intent of the user's message and the substance of the assistant's response. Future agents: read PLAN.md first (it is the authoritative build spec); this file explains how and why decisions were made in sequence. MAINTENANCE RULE: any agent doing a working session on this project MUST append a turn entry summarizing the user's asks and what shipped, in the same commit as the work.",
   "project": "BhavBench — emotional & cultural intelligence benchmark for Indian conversations",
   "repo_state_at_log_end": "Merged to main: 18 scenarios (50 items, en/hing/hi), harness, live 11-model leaderboard, Next.js site, paper draft with first results. OpenRouter credits exhausted (~$4.97 spent).",
   "turns": [
@@ -57,6 +57,11 @@
       "n": 11,
       "user": "Save the process for future agents (MD) and this conversation as JSON (no tool noise). If I add $10-15, run the big models. Honest opinion: is this really a solid project worth taking to the next level? And I need to UNDERSTAND everything you built — why each decision, the test sets, the domain knowledge — since you did the work and I gave the idea.",
       "assistant": "Wrote this file (docs/conversation-log.json) and docs/owners-guide.md — a decision-by-decision explainer written for the user to internalize and defend in interviews. Opinion delivered: genuinely solid with three conditions — (1) the user must do the M3 human-calibration pass himself (it converts 'agent built me a benchmark' into 'I validated my own judge'), (2) scenario count and a Dravidian language must grow before public launch, (3) flagships + Sarvam models must land on the board for the story to be complete. Next steps on top-up: uv run bhavbench run --model anthropic/claude-fable-5 (etc.), judge, score — no code changes needed."
+    },
+    {
+      "n": 12,
+      "user": "Keep this conversation JSON continuously updated. If I add $10-15 OpenRouter credit, can you run all 30 models from my list? Once they're on, add a closed/open filter. And when a new model launches in future — do I have to ask you, or can I trigger it from some UI?",
+      "assistant": "Made the append rule part of this file. Cost truth for the top-30 list: ~20 of the 30 are on OpenRouter; $15 buys the top flagship tier (~8-10 models: Fable 5, GPT-5.6 Sol/Terra, Opus 4.8, Kimi K3, Grok 4.5, Sonnet 5, Gemini 3.5 Flash), ~$30-35 buys everything available; a handful (Muse Spark, MiMo-V2.5-Pro, Nex-N2-Pro, Inkling, GLM-5.2) are not on OpenRouter at all. Shipped: open/closed weights filter on the leaderboard, and .github/workflows/evaluate-model.yml — a GitHub Actions workflow_dispatch so the user can evaluate any new model from the GitHub UI (phone-friendly): enter model id, it runs eval+judge+score with the repo secret OPENROUTER_API_KEY, commits results to main, Vercel redeploys. One-time setup: add the key as a repo Actions secret."
     }
   ]
 }
