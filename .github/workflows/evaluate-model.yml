@@ -1,0 +1,62 @@
+# Evaluate a new model on BhavBench — triggered from the GitHub UI.
+#
+# How to use (works from a phone):
+#   1. One-time setup: repo Settings → Secrets and variables → Actions →
+#      New repository secret: OPENROUTER_API_KEY = <your key with credits>
+#   2. GitHub → Actions tab → "Evaluate a model on BhavBench" → Run workflow →
+#      type the OpenRouter model id (e.g. anthropic/claude-fable-5) → Run.
+#   3. ~15-30 min later a commit lands on main with the transcripts, judgments,
+#      and regenerated leaderboard. If the site is on Vercel, it redeploys itself.
+#
+# Cost guard: the run aborts before judging if the eval phase produced errors,
+# and the whole job is capped at 90 minutes.
+
+name: Evaluate a model on BhavBench
+
+on:
+  workflow_dispatch:
+    inputs:
+      model:
+        description: "OpenRouter model id (e.g. anthropic/claude-fable-5) or sarvam:<model>"
+        required: true
+        type: string
+      judge:
+        description: "Judge model (keep default for board consistency)"
+        required: false
+        default: "google/gemini-3.1-flash-lite"
+        type: string
+
+concurrency: bhavbench-eval  # one eval at a time; runs queue up
+
+jobs:
+  evaluate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Run evaluation
+        working-directory: harness
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
+        run: |
+          uv sync
+          uv run bhavbench run --model "${{ inputs.model }}"
+          uv run bhavbench judge --model "${{ inputs.model }}" --judges "${{ inputs.judge }}"
+          uv run bhavbench score --judges "${{ inputs.judge }}"
+
+      - name: Commit results
+        run: |
+          git config user.name "bhavbench-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add results/
+          git commit -m "Board update: evaluate ${{ inputs.model }}" || echo "nothing to commit"
+          git push origin main

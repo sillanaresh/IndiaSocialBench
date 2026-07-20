@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { Leaderboard, Lang, ModelResult } from "@/lib/data";
-import { labName, prettyName } from "@/lib/names";
+import { labName, prettyName, weightsClass } from "@/lib/names";
 
 type LangSel = "all" | Lang;
 const LANG_LABEL: Record<LangSel, string> = { all: "All", en: "English", hing: "Hinglish", hi: "हिंदी" };
@@ -31,10 +31,11 @@ function dimFor(m: ModelResult, dim: string, lang: LangSel): number | null {
 export default function LeaderboardTable({ board }: { board: Leaderboard }) {
   const router = useRouter();
   const [lang, setLang] = useState<LangSel>("all");
+  const [weights, setWeights] = useState<"all" | "open" | "closed">("all");
   const [sortKey, setSortKey] = useState<string>("overall");
 
   const rows = useMemo(() => {
-    const sorted = [...board.models];
+    const sorted = board.models.filter((m) => weights === "all" || weightsClass(m.model) === weights);
     sorted.sort((a, b) => {
       const va =
         sortKey === "overall"
@@ -55,7 +56,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
       return (vb ?? -1) - (va ?? -1);
     });
     return sorted;
-  }, [board.models, lang, sortKey]);
+  }, [board.models, lang, sortKey, weights]);
 
   return (
     <div>
@@ -64,6 +65,13 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
           {(Object.keys(LANG_LABEL) as LangSel[]).map((l) => (
             <button key={l} aria-pressed={lang === l} onClick={() => setLang(l)}>
               {LANG_LABEL[l]}
+            </button>
+          ))}
+        </div>
+        <div className="seg" role="group" aria-label="Weights filter">
+          {(["all", "open", "closed"] as const).map((w) => (
+            <button key={w} aria-pressed={weights === w} onClick={() => setWeights(w)}>
+              {w === "all" ? "All models" : w === "open" ? "Open weights" : "Closed"}
             </button>
           ))}
         </div>
