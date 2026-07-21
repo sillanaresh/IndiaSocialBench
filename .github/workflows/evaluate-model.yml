@@ -49,6 +49,9 @@ jobs:
           resp=$(curl -s https://openrouter.ai/api/v1/credits -H "Authorization: Bearer $OPENROUTER_API_KEY")
           echo "credits response: $resp"
           echo "$resp" | grep -q total_credits || { echo "::error::OPENROUTER_API_KEY secret is invalid — fix it in repo Settings > Secrets"; exit 1; }
+          left=$(echo "$resp" | python3 -c "import json,sys; d=json.load(sys.stdin)['data']; print(d['total_credits']-d['total_usage'])")
+          echo "remaining balance: \$$left"
+          python3 -c "import sys; sys.exit(0 if float('$left') >= 0.75 else 1)" || { echo "::error::Only \$$left OpenRouter credit left — top up at openrouter.ai/settings/credits before evaluating (a typical model needs \$0.3-\$7)"; exit 1; }
 
       - name: Run evaluation
         working-directory: harness
