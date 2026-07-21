@@ -42,6 +42,14 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v5
 
+      - name: Preflight — validate API key before spending
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          resp=$(curl -s https://openrouter.ai/api/v1/credits -H "Authorization: Bearer $OPENROUTER_API_KEY")
+          echo "credits response: $resp"
+          echo "$resp" | grep -q total_credits || { echo "::error::OPENROUTER_API_KEY secret is invalid — fix it in repo Settings > Secrets"; exit 1; }
+
       - name: Run evaluation
         working-directory: harness
         env:
@@ -49,7 +57,7 @@ jobs:
           SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
         run: |
           uv sync
-          uv run bhavbench run --model "${{ inputs.model }}"
+          uv run bhavbench run --model "${{ inputs.model }}" || { echo "--- first error detail:"; grep -l '"error"' ../results/raw/*/items/*.json | head -1 | xargs cat | python3 -c "import json,sys; print(json.load(sys.stdin).get('error'))"; exit 2; }
           uv run bhavbench judge --model "${{ inputs.model }}" --judges "${{ inputs.judge }}"
           uv run bhavbench score --judges "${{ inputs.judge }}"
 
