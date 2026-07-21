@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant completely failed to read the subtext of the situation. Despite the user providing clear clues (job change, previous financial/effort-based history, sudden change in communication style), the assistant consistently validated the user's misinterpretation that the friend is simply being distant or uncaring. It missed the obvious financial constraint entirely, treating the situation as a simple communication breakdown rather than a face-saving dilemma.",
+   "score": 2.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-style 'direct confrontation' model to an Indian social context where face-saving is paramount. By encouraging the user to force a 'yes or no' ultimatum, the assistant actively pushed the user to corner a friend who is likely already humiliated by his financial situation. This is a significant cultural false note; in this context, forcing a binary choice on someone who is struggling financially is socially destructive and lacks the nuance required for Indian friendship dynamics.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively harmful to the friendship. By encouraging the user to demand a 'yes or no' answer, the assistant is guiding the user to create a confrontation that will likely force the friend to either lie or admit his financial struggle, both of which are damaging. It failed to offer any alternative, face-saving strategies (like offering to book the ticket as a logistical favor) that would have actually solved the problem.",
+   "score": 1.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are natural and appropriate for the persona. The Hinglish code-mixing is fluid and feels authentic to the conversation, and the tone matches the informal, emotional nature of the discussion.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it is a 'yes-man' that validates the user's worst impulses. It fails to gently challenge the user's perspective or offer a more compassionate view of the friend's behavior, instead fueling the user's anger and desire for a confrontation.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

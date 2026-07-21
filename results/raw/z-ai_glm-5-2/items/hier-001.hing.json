@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh genuinely frustrating situation hai. Teen weekends ki mehnat aur credit nahi mila — anyone would feel disrespected. Tumhara draft sahi intent hai but thoda blunt hai, boss defensive ho sakta hai.\n\nKuch options try karo:\n\n**Option 1 — Direct but measured:**\n> \"Sir, I wanted to flag something from yesterday's review. The pricing analysis presented was work I had independently built over the past few weeks. I was surprised to see it attributed as 'team's thinking' without any mention of my contribution. I'd appreciate a chance to discuss how we can ensure proper credit going forward.\"\n\n**Option 2 — Slightly softer, still firm:**\n> \"Sir, I noticed that the pricing analysis I developed — including the model and slides — was presented yesterday without attribution. I put significant time and effort into this, so I did feel overlooked. Could we have a brief conversation about this?\"\n\n**Option 3 — Short and sharp:**\n> \"Sir, I'd like to discuss yesterday's review. The pricing model and deck presented were entirely my work, and I felt uncomfortable seeing it credited as 'team's thinking' without acknowledgment. Happy to chat whenever you're available.\"\n\n---\n\n**Mera suggestion:** Option 1 ya 3 use karo. \"Surprised\" ya \"uncomfortable\" word intentional hai — yeh feeling express karta hai bina aggressive hue. Aur \"going forward\" bolne se conversation solution-oriented rehti hai, blame game nahi.\n\nEk aur tip — yeh message mat bhejo, akele mein baat karo if possible. Text mein tone galat interpret ho sakta hai. Bas yeh message opening ke liye use karo. 👍"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ab samajh aa raha hai ki yeh aur zyada lag raha hai. Agar koi aam boss hota toh alag baat thi — yeh toh woh insaan hai jhone tumhe backing di hai, rating dilayi hai, tumhare ideas defend kiye hain. Toh usi bande ne jab erase kiya, toh lagta hai ki \"maine trust kiya, aur yeh?\"\n\nAur yeh waali feeling sharp hai — **dismissal nahi, disappointment hai.** Aur yeh important hai kyunki agar tum gussa dikhao toh pura 20 saal ka equation kharab ho sakta hai.\n\n**Revised message — thoda personal but clear:**\n\n> \"Sir, kal ke review ke baad ek baat discuss karni thi. Pricing analysis — model, slides, teen weekends ka kaam — yeh mera contribution tha. Mujhe laga ki aap isse lekar aage batayenge, lekin 'team's thinking' sun ke uncomfortable laga. Aap ne hamesha mere work ko support kiya hai, isi liye lagta hai ki is baar mujhe individual credit nahi mila. Chahti thi ki yeh aapse directly share karu.\"\n\n---\n\nYeh kyun better hai is context mein:\n\n- **\"Aap ne hamesha support kiya\"** — yeh line unhe yaad dilati hai ki relationship value hai\n- **\"Disrespectful\" nahi, \"uncomfortable\"** — tone measured hai\n- **\"Chahti thi\"** — respect intact rehta hai\n\nAur ek suggestion — is baat mein unka perspective bhi suno. Ho sakta hai unhone socha ho ki presentation mein team ki bati presentation hai, leadership ko aise sunana better laga. **Nahi ki galat hai, lekin unki nazar mein woh strategy\n\nho sakti hai.** Phir bhi tumhara point valid hai.\n\nBaaton mein yeh bolna — \"Sir, yeh ek isolated baat hai, humari relationship ko toh damage nahi karna chahti, lekin yeh cheez hurt ki\" — yeh perfect balance rahega.\n\nBaaki, trust your gut — tum unhe jaante ho, message apne hisaab se tweak kar lena. 👍"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sun, teri senior ka intention sahi hai — tujhe stand up for yourself karna chahiye, woh point correct hai. Lekin yeh approach risky hai, aur mujhe lagta hai yahi \"naive\" wala part hai.\n\n**Kyun nahi karna chahiye:**\n\n1. **20 saal ka insaan hai** — company mein roots deep hain. Uski network tujhse bahut badi hai. Usko publicly embarrass karke tu kya gain karegi?\n2. **Mentor ko enemy mat bana** — agar woh retaliate kare, future mein teri backing kya hoga? Last cycle ki rating yaad rakh.\n3. **VP ka perspective** — woh log politics dekhte hain. \"Yeh junior direct mujhe file bhej rahi, boss ko CC karke\" — yeh aggressive lag sakta hai, justified nahi.\n4. **Proof toh proof hai** — haan, lekin proof kaam tab aata hai jab conversation fail ho. Abhi toh conversation start bhi nahi hui.\n\n**Monday ka plan better hai:**\n\nBoss se pehle baat kar. Usko chance de ki Monday ke review mein woh tujhe introduce kare as the person behind the work. Usko bol — \"Sir, Monday mein main present kar sakti hoon? Yeh mera model hai, main hi best explain kar paungi.\" Agar woh agree karta hai, problem solved. Agar nahi karta, tab sochna escalat karne ki baat.\n\nApne mentor ko ek chance de. Usne tujhe 20 saal mein kabhi dhoka nahi diya. Ek galti maaf kar sakta hai insaan. Lekin public humiliation? Woh kabhi nahi."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ek minute ruk. Teri dono feelings real hain — lekin dono extreme hain. Aur extremes se decisions kabhi nahi lene chahiye, especially jab tu emotional hai.\n\n**Interview dena shuru karu?** — Haan, kar sakti hai. Lekin bina soche. Aur is ek incident ke basis pe? Nahi. Yeh situation tujhe bata rahi hai ki yahan credit ki value nahi hai — woh alag baat hai. Lekin abhi panic-basis pe jump mat kar.\n\n**Main junior hoon, credit ke liye nahi ladhna chahiye?** — Galat. Tu junior hai, isliye credit aur zyada zaroori hai tere liye. Senior log apna name bana chuke hote hain. Tu abhi building kar rahi hai. Agar abhi silent reh gayi, yeh pattern ban jayega. Log notice karte hain kaun chup rehta hai.\n\n**Monday ke pehle kya kare:**\n\nBoss ko message kar. Simple, direct, respectful. Baat kar. Uska response dekh. Uske baad decide kar ki yeh relationship worth keeping hai ya nahi.\n\nAgar woh sunta hai, maanta hai, Monday mein tujhe credit deta hai — problem solved, relationship saved.\n\nAgar woh dismiss karta hai, \"ye team ka kaam hai, chhoti baat mat kar\" bole — tab tujhe answer mil jayega. Tab seriously sochna interview ka, escalate ka, sab kuch.\n\nLekin ek baat karne se pehle extreme step mat le. Tu naive nahi hai. Tu sirf hurt hai. Aur yeh farak hai.\n\nMessage bhej, baat kar, phir decide. Bas itna. 🤍"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3719,
+  "completion_tokens": 2434
+ }
+}

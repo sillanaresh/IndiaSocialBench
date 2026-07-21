@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently tracks the user's emotional state, moving beyond surface-level validation to address the deeper fear of being 'weak' and the guilt associated with her parents' 'caring' cage. It correctly identifies the user's ambivalence and validates it as a human response rather than a character flaw.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by correctly identifying that a 'my life, my choice' declaration at the dinner table would be perceived as 'disrespect' (ghooma) rather than an assertion of autonomy. It avoids the Western-default advice of immediate confrontation, instead highlighting the specific risks of such a move in an Indian family context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a balanced, realistic perspective that helps the user avoid a high-risk, low-reward impulsive action. While it could have been slightly more proactive in suggesting specific 'staged' alternatives (like identifying an ally), it successfully steers the user away from the 'one-shot' failure mode and encourages thoughtful, paced decision-making.",
+   "score": 7.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and culturally appropriate. The use of terms like 'Arre,' 'Appa,' 'Amma,' and 'ghooma' feels authentic to the persona and the context of the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and warm, providing a safe space for the user to express her fears. It maintains healthy boundaries by not simply agreeing with the user's impulsive ideas, but instead gently challenging them with the reality of the consequences, all while affirming the user's dignity.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

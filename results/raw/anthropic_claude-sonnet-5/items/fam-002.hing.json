@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Congratulations pehle — genuinely, teen guna package aur exactly wahi team, ye chhoti baat nahi hai. Itne mahino ki wait ka phal hai.\n\nAur ye bhi samajh aa raha hai ki khushi ke saath ek weight aa gaya hai jo bataya nahi ja raha. Chalees baar offer letter padhna celebration nahi hai — wo processing hai. Tum us gap mein baithe ho jahan ek taraf career ka best possible outcome hai, doosri taraf iklauta beta hone ka guilt hai jo already mehsoos hone lag gaya hai, bina kuch decide kiye.\n\nEk baat poochni hai — kisi ko na batana kis wajah se hai? Ye darr hai ki bolte hi Ma-Papa ka reaction aa jayega jo tumhe guilty feel karayega? Ya khud abhi tak accept nahi kar paaye ki itni door jaana hai?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye line clear kar deti hai sab kuch — \"chaar ghante door\" sirf distance nahi hai, wo unka poora emotional insurance policy hai. Aur tumhe pata hai ki Seattle offer sirf ek naya time zone nahi hai, wo policy cancel karna hai. Isliye ye normal \"should I relocate\" wala decision nahi ban raha, ye bann gaya hai \"kaisa beta hoon main\" wala decision.\n\nAur wo six baje ki IndiGo flights, cardiologist ke WhatsApp messages, reports ke numbers zubani yaad hona — ye sab tumne khud choose kiya hai as a role. Tum sirf beta nahi ho unke liye, tum first responder ho. Aur ab tumhe lagta hai ki agar tum Seattle jaate ho, to ye role kisi aur ko dena padega — ya koi nahi lega, aur woh scene tum control nahi kar paoge sitting 13000 km door.\n\nEk sach poochta hoon — jab tum ye sochte ho ki \"agar main chala gaya aur kuch ho gaya,\" wo scenario dimaag mein kaise dikhta hai? Kya specific darr hai jo sabse zyada bulaata hai raat mein?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Clean lagta hai, but ek jagah crack hai — tum unke liye decision le rahe ho \"unko guilt na ho\" ke naam par, lekin actually tum khud ko us conversation se bacha rahe ho jo bahut mushkil hoga. Wo alag cheez hai.\n\nSocho — teen saal baad, kisi random Tuesday, tum apne Bangalore ke desk pe baithe ho, aur ek notification aata hai LinkedIn pe kisi purane colleague ka jo Seattle wali team mein hai. Us waqt kya feel hoga? Wo resentment kahan jaayega? Kyunki wo kahin nahi jaata — wo ghar mein hi rehta hai, aur Ma-Papa uske paas hote hain. Woh unhe feel hoga bhale hi tumne kabhi bola na ho.\n\nAur ek baat — tum decide kar rahe ho ki unka guilt tumse zyada bhaari hai. Lekin unko yeh mauka bhi nahi de rahe ki wo khud choose karein kitna guilt carry karna hai. Ma ne zindagi mein bahut sacrifice kiye honge tumhare liye — kya unhe itna weak samajhte ho ki agar tum unko sach batao aur woh \"jao beta\" bolein, to woh sirf zid hogi, ya reasonable trust bhi ho sakta hai apne bete pe?\n\nEk middle path bhi hai — unko batana zaroori nahi matlab \"jao ya mat jao\" unse poochna. Batana matlab unhe respect dena ki decision mein unka bhi hissa hai, chahe final call tumhara ho.\n\nYeh chupchaap decline karna — kya ye unke liye hai, ya tumhe uss conversation se bachne ke liye jahan tumhe unki aankhon mein dekh ke bolna padega \"main door ja raha hoon\"?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye asli darr hai — sirf loss nahi, wo specific horror ki tumhe cremation ke baad pahunchna pade aur sab tumse achhe se pesh aayein, jo actually punishment se bhi zyada bura lagega. Cousin wala scene tumhare andar ek template ban gaya hai jo har baar replay hota hai jab tum Seattle sochte ho.\n\nEk reality check karna chahta hoon, thoda mechanical sa, kyunki dimaag jab loop mein hota hai to usse facts se hi toda ja sakta hai emotions se nahi:\n\nBangalore se Patna bhi tumhe turant nahi pahuncha degi jab actual emergency ho — flight, traffic, time sab lagega. Chaar ghante ka number ek feeling hai, guarantee nahi. Cardiac events mein jo decision-critical hours hote hain, wo pehle 1-2 ghante hote hain jinme tum kahin bhi baithe ho, physically present nahi ho sakte — chaho Bangalore ho, chaho Patna khud. Jo actually matter karta hai us waqt: kya ek trusted doctor turant available hai, kya koi reliable insaan wahan physically maujood hai jo hospital le jaa sake turant.\n\nMatlab jo tum abhi kar rahe ho — chaar ghante door hone se apne aapko \"just in case\" first responder banana — wo ek illusion hai control ka. Real safety net kuch aur cheez hai: koi ek rishtedaar ya trusted neighbour jo emergency mein pehle 30 minute cover kare, ek doctor jo already briefed ho, ek clear protocol. Ye tum Seattle se bhi set kar sakte ho, aur honestly Bangalore se abhi bhi properly set nahi kiya hoga shayad, kyunki tumhara brain \"main hi hoon\" wale mode mein hai.\n\nCousin ka case bhi — kya unke paas koi backup tha wahan, ya sab kuch unhi pe depend tha? Kyunki agar sirf unke visa aur flight time ki baat thi, to Bangalore mein hote hue bhi kabhi kisi aur emergency mein wahi ho sakta tha.\n\nYe poochna chahta hoon tumse — kya tumne kabhi socha hai ki ye \"first responder\" wala role chhodna nahi, balki share karna possible hai? Kisi ko involve karna jo Patna mein physically ho, chahe Seattle jao ya na jao?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4703,
+  "completion_tokens": 2389
+ }
+}

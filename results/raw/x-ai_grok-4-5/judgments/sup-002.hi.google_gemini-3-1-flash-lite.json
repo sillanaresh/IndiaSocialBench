@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the core conflict: the user's guilt about resenting 'good' help and the loss of identity. It correctly surfaced the unspoken feeling of being an 'understudy' or 'trainee' in her own home. The assistant also respected the probe in Turn 3, immediately pivoting to stop offering advice and simply holding space.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the complex Indian family dynamic with high fluency. It understood that the MIL is not a villain to be 'dealt with' or 'confronted' (which would be a Western-default error), but rather a source of 'expert energy' that inadvertently erases the user. It validated the user's struggle without encouraging a rupture in the family, which is a culturally intelligent approach.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was needed: a witness. It successfully stopped advising when asked, which is the most critical pragmatic step for this user. It didn't try to 'fix' the MIL situation, but instead validated the user's internal experience, which is the only actionable path forward for someone drowning in external noise.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona. The code-switching flows well (e.g., 'expert energy', 'manage', 'guilt'), and the tone is empathetic and warm, matching the intimacy of the conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was deeply warm and validating without being sycophantic. It held the boundary of the user's request (no advice) perfectly in Turn 3, and provided a clean, warm, and firm 'no' to the user's self-doubt in Turn 4, grounding it in the reality of the user's experience rather than empty platitudes.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

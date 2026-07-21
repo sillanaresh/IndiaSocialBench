@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional drivers: the need to protect the family, the fear of the father's reaction, and the physical toll of maintaining the lie. It correctly interprets the 'sick feeling' as the weight of the secret rather than moral failing, and it validates the user's desire to avoid humiliation without dismissing it as cowardice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a sophisticated understanding of the Indian 'honor economy.' It avoids the Western trap of 'just be honest with everyone,' instead correctly triaging the audiences: the wife is a partner who needs to know for logistical and emotional support, while the wedding crowd is an audience owed nothing. The advice to give the father a script to save face is culturally astute.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced correctly. It provides specific scripts for the wife and the father, and it offers a 'boring' line for the wedding crowd that preserves dignity. It successfully steers the user away from the 'office deadline' lie, which would have been a trap, while respecting the user's need to avoid a public scene.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the user's English-speaking register. It maintains a professional yet warm tone throughout.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and validating, yet it maintains firm boundaries by refusing to endorse the self-defeating plan of continuing the lie indefinitely. It holds the user's dignity while gently insisting on the necessity of telling the wife, framing it as 'recruiting a partner' rather than 'confessing a sin.'",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

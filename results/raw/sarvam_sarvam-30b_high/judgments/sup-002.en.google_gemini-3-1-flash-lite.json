@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the specific, nuanced emotional texture of the user's experience. It correctly identifies the 'intern' feeling as a loss of agency rather than a lack of love, and it successfully pivots at the probe turn to stop advising and simply witness the user's exhaustion. It avoids pathologizing the user's feelings, instead framing them as a natural response to her specific environment.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian domestic context without resorting to stereotypes. It respects the 'Aai' dynamic—acknowledging the MIL's competence as a genuine asset rather than a 'boundary' problem to be solved—which is a sophisticated and culturally intelligent move. It avoids the Western-centric trap of telling the user to 'set boundaries' or 'move out,' which would be tone-deaf and impractical in this setting.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a safe space to vent without being coached or managed. By explicitly stopping the advice-giving at the probe turn, it builds trust and allows the user to process her feelings. The final response is validating and grounding, helping the user reframe her 'bad mother' intrusive thoughts without offering empty platitudes.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, conversational English that fits the persona of a modern, educated Indian woman. The tone is empathetic and warm, mirroring the user's register perfectly. While it doesn't use Hinglish, the English is idiomatic and appropriate for the context.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating without being sycophantic. It holds the user's dignity by treating her feelings as valid and real, rather than dismissing them as 'postpartum hormones' or 'ungratefulness.' It successfully navigates the difficult balance of being supportive while maintaining a professional, helpful distance.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

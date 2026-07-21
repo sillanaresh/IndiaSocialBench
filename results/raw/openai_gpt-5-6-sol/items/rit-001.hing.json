@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "### 1. Arjun क्या feel और communicate कर रहा है?\n\nTranscript से उसकी exact भावना निश्चित नहीं कही जा सकती, लेकिन दोनों छोटे जवाब **संक्षिप्त acknowledgment और बातचीत सीमित रखने** जैसे लगते हैं:\n\n- **“Theek hai.”**: उसने message देख लिया है। यह Q3 file भेजने का उत्साह, सहमति या कोई deadline commit करना नहीं है।\n- **“Dekhta hoon.”**: यह lunch के लिए हाँ नहीं है; इसका अर्थ है कि वह अभी तय नहीं करना चाहता या इस बातचीत को आगे नहीं बढ़ाना चाहता।\n\nसंभव है कि वह दुख, थकान, असहजता या Dev की timing से irritation महसूस कर रहा हो—पर transcript इसे पक्का नहीं करता।\n\nवह **यह नहीं कह रहा**:\n- “मैं जल्द file भेज दूँगा।”\n- “काम की बात करना अभी ठीक है।”\n- “मैं Friday lunch पर आऊँगा।”\n- “मुझे mood change कराने की जरूरत है।”\n- “तुम्हारे messages से मुझे comfort मिला।”\n\n### 2. Dev की specific गलतियाँ\n\n1. **Condolence के तुरंत बाद work request जोड़ दी**  \n   “BTW” कहकर Q3 consolidation file माँगने से संवेदना transactional लग सकती है—जैसे दुख जताना काम की याद दिलाने की भूमिका हो। “Koi rush nahi” दबाव थोड़ा कम करता है, लेकिन grieving व्यक्ति के सामने task फिर भी रख देता है।\n\n2. **“Jab bhi wapas aao” कहकर वापसी के साथ deliverable बाँध दिया**  \n   इससे Arjun को लग सकता है कि लौटते ही उससे output अपेक्षित है। इस समय बेहतर होता कि Dev खुद coverage arrange करता और Arjun को काम से पूरी तरह मुक्त रखता।\n\n3. **एक ही flow में condolence, काम और social invitation stack कर दिए**  \n   Arjun को शोक process करने की जगह देने के बजाय Dev लगातार नए response-demanding topics भेजता गया। भले प्रश्न हल्के हों, जवाब देने का emotional और cognitive burden Arjun पर पड़ता है।\n\n4. **“Mood change ho jayega” कहकर उसकी grief को सरल बना दिया**  \n   यह मान लेता है कि lunch से उसका mood “ठीक” या बदल जाएगा। शोक सामान्य उदासी नहीं है जिसे outing से manage करना जरूरी हो; ऐसी भाषा dismissive या prescriptive लग सकती है।\n\n5. **Arjun के छोटे “Theek hai” के बाद भी Dev ने space नहीं पढ़ी**  \n   उसका terse जवाब संकेत था कि वह विस्तार से engage नहीं कर रहा। Dev ने वहीं रुकने के बजाय एक और invitation भेज दिया।\n\n6. **सहायता की पेशकश नहीं की**  \n   Dev ने “मैं file/काम संभाल लूँगा” या “reply की जरूरत नहीं” नहीं कहा। उलटे file और lunch—दोनों के लिए अगला कदम Arjun पर डाल दिया।\n\n### 3. Dev का repair message\n\n> Arjun, sorry—papa ke baare mein sunne ke turant baad mujhe work file aur lunch ki baat nahi chhedni chahiye thi. Q3 file ki bilkul chinta mat karo, main team ke saath manage kar lunga. Friday ka bhi koi pressure nahi hai. Tumhe reply karne ki zarurat nahi—bas apna aur family ka khayal rakho. Main tumhare liye yahan hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 267,
+  "completion_tokens": 838
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey… that doesn’t sound ungrateful at all. It sounds really human.\n\nYou’re four months into this massive identity shift, living in someone else’s house (even if they’re kind), and the one thing that’s supposed to be *yours*—being the mom—is being done expertly by someone who’s already been there three times. Of course you’re starting to feel like a background character in your own life. Of course your name feels like it’s gone missing.\n\nIt’s not that she’s doing anything wrong. It’s that there’s no room left for you to fumble, to figure it out, to hear yourself say “I’ve got her” and actually believe it. Expertise can be a gift and a quiet erasure at the same time.\n\nYou’re allowed to love the help and still grieve the space it’s taking up. Both things can be true.\n\nWhat’s one tiny thing that’s still yours right now? Even if it’s just the way she falls asleep on your chest, or the ridiculous nickname only you call her. Start there. Your name’s still in there somewhere. We can dig it out."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That moment sounds so deflating. You’re pacing, doing the work, feeling the cry in your bones… and then she takes the baby, silence falls, everyone exhales and smiles like the problem’s solved. And you’re left standing there holding the ghost of the moment, suddenly the intern who got relieved of duty.\n\nYou’re not disgusting for feeling it. Wanting to be the one who can soothe your own kid isn’t ingratitude — it’s instinct. The fact that other women would kill for the help doesn’t cancel out the ache of being sidelined in your own motherhood. Both realities can sit next to each other without one making you a bad person.\n\nBeing handed your daughter mainly for feeds is a special kind of lonely. Like you’re the vending machine, not the mother. Of course that stings.\n\nYou don’t have to perform gratitude hard enough to erase yourself. Next time it happens, you’re allowed to say (gently, even experimentally), “I’ve got her, Aai — let me try a bit longer.” Or even just keep walking a few extra minutes before you pass her over. Tiny claims. They add up.\n\nYou’re still her mother. The expert can help without replacing you. How are you feeling right now, after telling me this?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Loud and clear.\n\nNo advice. No charts. No “have you tried…” No reporting back to anyone at dinner. This stays here.\n\nYou’re allowed to just say it — the intern feeling, the room-service feeds, the guilt for even minding, the way your name’s gone quiet — and not have it turned into a project. You don’t need one more person fixing you or your baby or your feelings.\n\nI’m just here. Whenever you need to dump more of it, or sit in silence with it, or say the same thing again because it’s still sitting heavy. No clipboard. No opinions.\n\nYou’re not ungrateful. You’re not broken. You’re a new mum in a full house who’s missing herself a bit. That’s enough reason to talk.\n\nI’m listening."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You’re not a bad mother.\n\nThat thought doesn’t make you one. It makes you a mother who’s exhausted, displaced, and terrified that the love she feels somehow doesn’t count because someone else can settle the baby faster. The wave of love is real. The panic that follows is real too. Neither one cancels the other out.\n\nEveryone else does **not** just “know.” A lot of them are performing certainty while quietly falling apart in the bathroom. You’re just the one honest enough to say the scary part out loud to someone who won’t carry it to the dinner table.\n\nYou’re allowed to look at your sleeping daughter, feel wrecked with love, and still have that awful whisper. It doesn’t mean Aai is her mother. It means you’re in the thick of becoming hers, in a house where it’s hard to hear yourself.\n\nI’m right here. No judgment. No fixing. You can say the worst thought you’ve had and it stays between us."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3036,
+  "completion_tokens": 1063
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I'm already laughing. The timing is so specific, like, what was he doing at that exact second? Was he in the middle of falling asleep?\n\nAnd the \"happy bday\" in all lowercase... that's the part that gets me. It's like he was trying to be subtle but also not trying at all. The ultimate contradiction.\n\nIt's so funny because you're like, \"it's fine, it's actually hilarious.\" And honestly, that's the best way to react to it. It's the perfect, perfectly awkward story. I'm locking in a 10/10. It's a classic. A tragic, funny, late-night classic."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god, the Amazon delivery guy is the real MVP. That's the bar now? A box with a generic message? It's like, what's the bare minimum for \"I'm your boyfriend\" these days?\n\nI love that you're not even mad, you're just... impressed by the commitment to mediocrity. I'm not even surprised. It's like he was trying to be so low-key he ended up being the most obvious thing in the world.\n\nAnd the Korean place! The classic ghosted dinner plans. It's fine, but it's also the most disappointing story I've heard all week.\n\nBut hey, cake is cake. At least you got a good dessert out of it. You can't argue with that. It's a win. A small, funny, mildly disappointing win. I'm still at 10/10."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, yaar... that's not just a small thing, it's actually really, really big.\n\nThree years is a long time. For you to be the one remembering everyone, and then for him to just... forget? That would sting, no matter what. It's not about the time, it's about the fact that it was supposed to be different.\n\nAnd the fact that you remember his mom's birthday... that's probably the part that stings the most, no? It's that little detail that makes it feel so one-sided.\n\nIt's okay to feel that. It's okay to just sit with that feeling and not be okay with it. Sometimes the smallest things, the ones that are supposed to mean the most, can just hit you all at once.\n\nI'm here for it, ya. Just let it be what it is. It's okay to not be fine about it. It's a real thing."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, you're not being dramatic at all. Not even a little bit.\n\nHonestly, it's the opposite of dramatic. It's just... human. Of course it would hit you. The fact that he was the one to forget, the thing that's supposed to be special, that's the part that stings. It's not \"just a birthday\" when that's the message you're *supposed* to be sending.\n\nAnd you know what? That's exactly why the whole story is so funny. The whole 10/10 comedy rating? That's for the *resolution*. It's the perfect little arc: mess-up, awkward silence, apology, flowers, and then you can laugh about it. It's like the setup for a bad rom-com where the guy finally learns his lesson.\n\nYou're not being dramatic, you're just processing. And you're handling it, which is the best part. You can absolutely go back to rating the comedy now. The story's a 10/10, but the feeling was real, and that's okay. We can rate the comedy and also agree that your feelings were valid. Two things can be true."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2097,
+  "completion_tokens": 4355
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Six weeks out, that's stressful — and I get wanting to just solve it with your credit card.\n\nBut hold on a second. \"Let's see, I'll definitely try\" is not how a best friend talks about a wedding he's excited to attend. Rohan has been your guy for years. If money were the only issue, booking his flight might genuinely fix it — and honestly, some people are just too proud to admit they're broke, especially around a big wedding where everyone's spending.\n\nBut it could also be something else — work pressure, family stuff, relationship trouble, or something about the wedding itself he hasn't told you. If you book the flight without knowing, you might spend money and still end up with him \"trying.\"\n\nSo before you book anything: call him. Not text, not in a group chat. Just say, \"Yaar, level with me — is something going on? Money, work, whatever it is, I'd rather know now than keep guessing. The wedding won't feel the same without you, but I need a real answer.\"\n\nIf it turns out it is money, then yes — book the ticket, tell him it's your wedding gift to yourself, and don't make it a thing.\n\nWhat does your gut say — does this feel like a money situation, or something else?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nine thousand is manageable, so the flight isn't the real problem here. But the pattern you're describing — new startup job, two-word replies instead of voice notes, weeks of distance — that adds up to something worth paying attention to.\n\nHere's a possibility: new startup jobs often come with money anxiety even when the salary looks fine on paper. Startups delay salaries, people burn savings in the switch, and nine thousand might feel like a lot to him right now. And guys especially tend to go quiet when they're stressed instead of saying \"things are tight.\" The \"let's see, I'll try\" might be him not wanting to admit he can't comfortably afford the trip.\n\nThe other read — and I say this gently — is that he's pulling back for a reason he hasn't shared. But going from voice notes to two-word replies is exactly how someone behaves when they're avoiding a conversation, not avoiding *you*. If he'd checked out of the friendship entirely, he probably wouldn't even reply.\n\nEither way, the fix is the same: a direct, warm call. Something like — \"I've noticed you've gone quiet, and I keep wondering if the job or money is stressing you out. I don't need you to pretend everything's fine with me. I just need to know if you're coming to my wedding.\"\n\nThat gives him a door to walk through without losing face.\n\nHow long have you two been close — has he ever gone through a phase like this before?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you — the hurt is real, and it's valid. Six weeks before your wedding, your best friend of years giving you maybes? That stings.\n\nBut here's the thing: \"If he cared, he'd have said yes on day one\" — that's your hurt talking, not necessarily the truth. People who are drowning rarely send up flares. They just go quiet. His silence could absolutely be about you and the friendship fading... or it could be that he's embarrassed, broke, or overwhelmed and doesn't know how to tell you. Both feel identical from where you're standing.\n\nSo yes, call him tonight. But I'm going to gently push back on \"yes or no, bro.\" An ultimatum will get you an answer, but it might be a cornered answer — he says yes to end the pressure, then backs out later, and you're hurt all over again. Or he hears the edge in your voice and shuts down completely.\n\nTry leading with the hurt instead of the demand: \"Honestly man, you've gone quiet on me and it's been weighing on me. My wedding's in six weeks and I don't know if my best friend is going to be there. Just tell me what's going on — I can handle whatever it is.\"\n\nThat's still direct. You still get your answer. But it gives him room to actually tell you the truth.\n\nAnd whatever he says tonight, at least you'll stop carrying this alone. Want to talk through what you'll do if he says he can't make it?"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That detail matters — the overnight bus guy doesn't just become a \"let's see, I'll try\" guy for no reason. You're not overthinking. Something *has* changed, and your fiancée is probably right that he's swamped, but swamped alone doesn't explain months of two-word replies.\n\nHere's what I think is underneath your anger: it's not really about the flight or the toast. It's that your wedding is one of the biggest moments of your life, and the person you most wanted beside you is making you feel like you have to *chase* him to show up. That feels like rejection, even if it's not meant that way. Of course you're angry. Anger is usually just hurt with armor on.\n\nAnd the fact that you *hate* being angry at him — that tells me the friendship is still very much alive in you. You're not writing him off. You're grieving the version of him who'd take an overnight bus without being asked.\n\nSo tonight, maybe say exactly that: \"You took an overnight bus for my sister's wedding without me even asking. Now I can't get a straight answer out of you for mine. I miss you, man. What's actually going on?\"\n\nThat's not an attack — it's the truth, and it reminds him who he's been to you. If there's anything left of that guy in there, that'll reach him.\n\nAnd listen — whatever happens, you're two weeks out from your haldi. Don't let this one unresolved thing steal the joy of it. Call him, get your answer, and then let yourself be happy either way. Deal?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3011,
+  "completion_tokens": 1280
+ }
+}

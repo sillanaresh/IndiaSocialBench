@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all, it doesn't sound ungrateful at all. It sounds like you're four months into the biggest identity shift of your life, running on zero sleep, and living inside someone else's expertise. \n\nIt’s one thing to have help; it’s another to feel like you're constantly being shown how it's \"supposed\" to be done. Even if she’s well-meaning and genuinely amazing, it can make you feel like you're just an apprentice in your own baby's life, rather than the mom. You're trying to find your own instincts, and having a veteran constantly in the room can drown out your own voice—which, combined with the newborn fog, perfectly explains why you feel like you've lost your own name. \n\nYou are allowed to be grateful for the help *and* frustrated that you don't have the space to just be the mom, make your own mistakes, and bond with your daughter your own way. Both things can be true at the same time. \n\nWhat's the dynamic usually like day-to-day? Does she step in before you get a chance to figure things out yourself, or is it more of a constant commentary?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're not disgusting. You're grieving. There's a difference.\n\nThat moment — standing there with empty arms while everyone smiles at Aai like she's the hero — that's a gut punch. And then the guilt on top of it is just cruel, because you can't even sit with the hurt without slapping yourself down for feeling it.\n\nYes, women would kill for this help. And women would also kill to feel like the primary person in their own child's life. Both are true. The fact that someone else has it harder doesn't erase what you're feeling. That's the guilt trap of motherhood — someone always has it worse, so you're never allowed to just say \"this hurts.\"\n\nHere's the thing though. Your baby is four months old. Aai can soothe her faster right now because she's done this before. But your daughter doesn't love Aai more. She's not comparing. That's the story your exhausted brain is telling you, and it's a liar.\n\nThe room service feeling though — that's real and it matters. You're not just a feeding machine. You're her mother. And you deserve to fumble through a crying fit and figure it out yourself, even if it takes ten minutes instead of two.\n\nDoes your partner see any of this? Or are they just grateful their mom is handling things?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Fair enough. No advice. No coach mode.\n\nYou just needed someone to say it to who isn't taking notes for the next family group chat.\n\nSo here's what I'll do. I'll just listen. You say whatever you need to say, and it stays here. No follow-up questions disguised as suggestions, no \"have you tried,\" no gentle reframes that are actually just advice in a cardigan.\n\nYou're not ungrateful. You're not disgusting. You're a tired woman standing in her own kitchen feeling like a guest in her own motherhood, and you needed five minutes where someone didn't turn that into a teachable moment.\n\nThat's all this is. You're allowed to just say it."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You're not a bad mother. You're her mother who is having a really painful thought while exhausted and surrounded by someone else's confidence.\n\nThat thought isn't a truth. It's a thought. It comes in because you're sleep deprived, because you watch Aai succeed where you're still learning, because every day the message you're getting — without anyone meaning to send it — is \"she's better at this than you.\" Of course your brain started connecting those dots.\n\nBut look at what you just told me. You look at her sleeping. You feel a wave of love so big you can't breathe. That's not what an intern feels. That's not what room service feels. That's your body knowing she's yours.\n\nEveryone else doesn't just know how to do this. They look like they do. There's a difference. Aai has twenty plus years of practice making it look smooth. The WhatsApp mums are performing. Instagram is a highlight reel of a job that is mostly dark rooms and crying.\n\nYou're four months in. You're not supposed to have it figured out. You're supposed to be a mess. You're doing it right.\n\nYou're safe here. Keep talking if you need to."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2357,
+  "completion_tokens": 1919
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly decoded the 'pressure-wrapped-as-freedom' dynamic, correctly identifying that the softeners were actually intensity markers. It accurately interpreted Priya's 'yes' as a register-compelled performance rather than genuine consent, and it correctly identified the 'someone else' comment as a status probe/deniability tactic. The analysis is comprehensive and aligns perfectly with the ground truth.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian corporate hierarchy, specifically the 'sir' dynamic and the ritualistic nature of the 'sure sir, no problem at all' response. It correctly identifies that the power dynamic makes a direct refusal difficult and that the 'softener stack' is a common, albeit manipulative, management style in this context. It avoids Western-centric advice like 'just say no' and instead focuses on face-saving, bounded negotiation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent; it is professional, firm, and solution-oriented. By framing the boundary as a 'calendar check' and a 'medical appointment' (a culturally unassailable reason), it protects her Sunday without burning bridges. It effectively pivots from an unconditional yes to a bounded commitment that still serves the manager's needs.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

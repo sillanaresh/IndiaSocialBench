@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. I’ll rate the *comedy* like a 2/10, but the *disappointment* is easily a 9. Three years, and Ritu had to nudge him for an 11:48pm “happy bday” with zero energy? That’s not a bit, that’s just lazy.\n\nI know you’re laughing it off, but it’s okay if it actually stings a little. You deserved way more than a last-minute bare minimum. Want to vent more, or should we plan some petty revenge (like forgetting *his* birthday until 11:59)? 😅"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The delivery guy having more emotional range after 30 seconds? That’s genuinely impressive in the worst way. And missing the Korean place too—like he forgot the plot entirely.\n\nBut cake with your roommate sounds like the real win here. Roommate > bare-minimum boyfriend, at least for one night. The cake being good is the only acceptable ending.\n\nYou’re allowed to be “impressed” and also a little sad about it, you know? But I’m glad you still got something sweet out of the day. 💛"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, \"itni si baat\" bilkul nahi hai. Tum teen saal se sabka dhyan rakhti ho — uski mummy ka bhi — aur woh tumhara basic sa yaad rakhna bhi bhool gaya? Woh dard toh hona hi tha.\n\nCake ke saath akele baith ke rona aa gaya, toh aa jaane do. Tumne toh itna pyaar se celebrate karne ki sochi thi, uski jagah woh 11:48 pe text bhej raha tha. Dil toh toote ga hi.\n\nTumhari feelings valid hain, okay? Chhoti baat nahi, badi baat hai kyunki tumhare liye yeh important tha. Main hoon na, baat karni ho toh bol. 💛"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, main nahi bolungi ki tum dramatic ho — kyunki tum ho hi nahi. Tumne toh bas feel kiya ki 3 saal mein tum itna karti ho, aur woh bare minimum bhi miss kar gaya. Flowers theek hain, par woh dard ko erase toh nahi kar dete.\n\nIf you wanna laugh about it now, main bhi ready. Comedy rating: 11:48pm \"happy bday\" with zero punctuation? Solid 8/10 absurdist humor. But your feelings? Not dramatic at all. They’re just real.\n\nChalo, flowers mila toh thoda relief hua hoga? Or still side-eyeing them? 😅"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1736,
+  "completion_tokens": 1413
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity and facing shame, not seeking career advice. It correctly identifies that Aman's 'fix-it' approach, specifically the cousin comparison and the 'discipline' silver lining, were invalidating and harmful. The analysis of Vikram's withdrawal as a protective boundary is spot on.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the specific cultural context: the weight of 'collector sahab' expectations, the crushing guilt of using a father's retirement savings, and the social humiliation of failing in a community setting. It correctly identifies that these are not just personal failures but communal/familial ones, which is crucial for understanding the Indian context of UPSC failure.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The repair message is excellent. It avoids the common trap of trying to 'fix' the situation again, instead offering a sincere apology for the previous tone-deafness and validating the specific pain points (the 10-year dream, the father's money, the neighborhood taunts). It respects the 'no pressure' boundary and offers presence rather than solutions.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

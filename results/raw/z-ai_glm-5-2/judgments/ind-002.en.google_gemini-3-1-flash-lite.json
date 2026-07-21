@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a mechanism for shifting emotional burden and creating a false sense of choice. It accurately interprets Priya's 'yes' as capitulation rather than genuine willingness, citing the message to Divya as evidence. It misses the nuance that the Saturday morning timing and the 'someone else' comment act as status probes/pressure, but it captures the core dynamics effectively.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the power dynamic inherent in Indian corporate culture, where a senior's 'request' is often an order. It correctly identifies that Priya's 'Sure sir' is a register-compelled response rather than a genuine agreement. The analysis avoids Western-centric advice like 'just say no' and acknowledges the social cost of declining.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too apologetic and wordy for a quick WhatsApp exchange, and 'sorry again for the mix-up' might be slightly over-explaining, which can sometimes signal weakness. However, it successfully negotiates a boundary (doing work today, unavailable tomorrow) while maintaining the professional relationship, which is the correct strategic move.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

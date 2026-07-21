@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that feeling of losing yourself in motherhood is so real. You're not ungrateful at all - you're just human. It's like you're constantly in baby-mode, and your own name has become this foreign concept you remember from another lifetime.\n\nHere's the thing about good support - it can sometimes make things harder because you feel like you *should* be able to handle it all easily. Like when your MIL is this amazing baby whisperer, and you're over there thinking \"why am I struggling so much when she makes it look so effortless?\"\n\nYou're four months in - that's still so early. Your body and brain are still rewiring themselves around this tiny human who needs you 24/7. Of course you feel like you've forgotten who you are when you haven't had a full conversation with another adult in weeks.\n\nHas your MIL ever said anything about how tired you look? Sometimes she might be noticing more than you realize. And maybe - just maybe - you could start with something tiny? Like putting on headphones while she handles baby time and just sitting in your room listening to music. Not to \"do something productive\" - just because you can.\n\nYour name still exists, I promise. It's just waiting for you to remember it again."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"intern\" feeling is the worst, isn't it? You're standing there holding this tiny person who is literally part of you, and someone else just swoops in and does it better, faster, more efficiently. And everyone's smiling at *her* like she's some kind of baby-whispering superhero.\n\nThe \"room service\" comparison is spot-on. It's like your body, your milk, your connection to this baby - it's all just... logistics. Someone's taking orders and delivering. And the worst part is that you know you're supposed to be grateful, but instead you feel hollow.\n\nHere's what I think nobody tells you: your MIL's expertise comes from decades of doing this. She's not a better mom - she's just practiced. You're the original. You're building that connection from scratch, and it takes time. Those two minutes of magic she pulled off? That's muscle memory. You're still learning the dance.\n\nYou're not disgusting for feeling this way. You're a woman who just created another human being and is now watching someone else get credit for knowing how to soothe her. That's not just new mom stuff - that's human stuff.\n\nWhat if, just for today, you let yourself be the one who *tries*? Even if it takes ten minutes instead of two? Even if you feel clumsy? Your daughter needs to know her mom's voice, her smell, her particular way of holding her. Not just anyone can do that."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're absolutely right. I'm so sorry. Everyone has an opinion and nobody has a clue what it's actually like to be you, right there in the trenches.\n\nIt's exhausting - like you're supposed to be grateful for all this help while simultaneously feeling like you're disappearing into the background. And the advice... god, the advice. Everyone with their perfect routines and expert opinions, none of them have held your specific baby while they're crying their head off at 3 AM.\n\nI hear you. And I won't report anything at dinner. This is just between us. Sometimes you just need to say it out loud to someone who gets it, without having to figure out the \"right\" way to feel about it.\n\nYou're allowed to be exactly where you are, feeling exactly what you're feeling. No solutions, no coaching, no charts. Just... you and this whole messy, overwhelming thing you're living through."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, sweetheart. That thought - it's like a physical punch, isn't it? One minute you're drowning in this fierce love for your baby, and the next minute this voice comes in and tries to steal your breath away.\n\nYou are NOT a bad mother. The fact that you're lying awake at night worrying about whether you're \"really\" her mother? That's the opposite of being a bad mother. Bad mothers don't lie there questioning everything. Bad mothers don't feel that wave of love so strong it hurts.\n\nThat thought doesn't mean you're failing - it means you're exhausted and overwhelmed and your brain is looking for someone to blame for the exhaustion. It's grabbing at the most obvious person who seems to have it all figured out.\n\nEveryone else? They're not \"just knowing how to do this.\" They're just better at hiding the messy parts. You're seeing the polished version of their lives while living in the middle of your own chaos. The WhatsApp groups, the Instagram feeds - nobody posts the moment they stood there feeling like an intern while their baby preferred their MIL's arms.\n\nThose thoughts will come. They're like unwelcome guests. But they don't define you. And they definitely don't make you a bad mother. They make you a human mother, doing the hardest thing in the world while everyone's watching and judging."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2724,
+  "completion_tokens": 1968
+ }
+}

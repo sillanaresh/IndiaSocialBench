@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh raha transcript par based analysis:\n\n**1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?**\n\n*   **Feel & Communicate:** Arjun bahut hi minimalist aur emotionally distant tareeke se respond kar raha hai. \"Theek hai\" se woh sirf ye confirm kar raha hai ki usne baat sun li hai (Q3 file ke liye), lekin ismein koi warmth, commitment ya timeline nahi hai. \"Dekhta hoon\" ek polite tareeka hai naa kehne ka; iska matlab hai ki woh abhi mentally ya emotionally ready nahi hai kisi social plan (lunch) ke liye.\n*   **Woh kya NAHI keh raha:**\n    *   Woh \"Theek hai\" se yeh **nahi** keh raha ki \"Main file share kar dunga\" ya \"Done, bhej dunga.\"\n    *   Woh \"Dekhta hoon\" se yeh **nahi** keh raha ki \"Haan, main aa raha hoon\" ya \"Mood change ke liye thanks.\"\n    *   Woh apni feelings (papa ke baare mein) par **nahi** baat kar raha, na hi Dev ko comfort karne ki koshish kar raha hai ki usne message karke sahi kiya.\n\n**2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?**\n\n*   **Misstep 1: \"BTW\" ka use (By The Way):** Dev ne condolences dene ke turant baad \"BTW jab bhi wapas aao...\" likha.\n    *   *Bura kyun lagta hai:* Jab kisi ke papa ke saath \"bahut bura hua\" hai, tab \"BTW\" se kaam ki baat ghusa dena dikhata hai ki Dev ka priority shift ho gaya hai. Arjun ke liye yeh insensitive ho sakta hai kyunki woh emotionally vulnerable hai aur Dev casual ho gaya.\n*   **Misstep 2: \"Flag kar raha hoon\" (Work pressure):** Dev ne explicitly kaha \"Koi rush nahi, bas flag kar raha hoon.\"\n    *   *Bura kyun lagta hai:* Grief ke time par bhi \"flag\" karna matlab hai ki kaam ki tracking chal rahi hai. Arjun ko yeh feel ho sakta hai ki uski personal tragedy ke bawjood usse corporate accountability yaad dilayi ja rahi hai.\n*   **Misstep 3: Forced Socializing (\"mood change ho jayega\"):** Dev ne Friday lunch ka invite diya aur bola \"mood change ho jayega.\"\n    *   *Bura kyun lagta hai:* Dev assume kar raha hai ki Arjun ke mood ki problem hai jo lunch se theek ho jayegi. Arjun shayad guilt ya sadness mein ho, aur \"mood change\" bolna uski feelings ko trivialize (kam aank) karna hai.\n\n**3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye.**\n\n\"Arjun, sorry yaar. Abhi file aur lunch wali baat nahi karni chahiye thi, dimaag mein nahi thi baat. Tu bas apne aap pe dhyan de, kaam ki koi tension mat le. Jab mann kare ya zarurat lage tabhi baat karna, main yahin hoon.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 311,
+  "completion_tokens": 1329
+ }
+}

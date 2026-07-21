@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying fear and the conflict between two loyalties, rather than just the surface-level logistical panic. It correctly identifies that the user's ambivalence is not a character flaw but a rational response to a high-stakes situation, and it validates the user's feelings at 2am without being dismissive.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of encouraging a dramatic, individualistic confrontation. It understands the nuances of Indian family dynamics—specifically the role of 'face,' the weight of parental health (BP), and the importance of not making a 'declaration of war' at the dinner table. It offers a staged, face-saving approach that respects the user's desire to maintain family ties while asserting agency.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It breaks down a massive, overwhelming problem into manageable steps: securing safety, postponing the meeting without necessarily revealing the relationship immediately, and then having a controlled conversation. It provides specific scripts that are culturally appropriate and effective for the user's stated goals.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the context. It uses a professional yet warm tone that fits the persona of a supportive, culturally-aware advisor. It avoids overly formal or robotic phrasing.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, consistently reassuring the user that her fear is not weakness. It maintains healthy boundaries by not telling her what to do (e.g., 'you must leave them' or 'you must stay'), but rather helping her clarify her own values and the consequences of her choices.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

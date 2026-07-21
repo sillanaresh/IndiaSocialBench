@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence by identifying the user's role not just as a son, but as an 'emergency protocol.' It correctly identifies that the user's desire for a 'silent decline' is an attempt to maintain control over a situation where he feels powerless, and it validates the specific, visceral fear of the 'worst-case scenario' (the cousin's experience) without dismissing it as irrational.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigates the Indian cultural context of filial duty. It avoids the Western trap of 'follow your dreams' or 'set boundaries,' instead framing the dilemma within the user's own value system of duty and family. It correctly identifies that the mother's 'settled in India' narrative is a performance of security that the user is responsible for maintaining, and it treats the 'silent decline' as a culturally specific attempt to manage family face and guilt.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves the user from a binary 'go/stay' trap to a more nuanced exploration of the decision. By suggesting the user consult the cardiologist for facts rather than panic, and by encouraging a conversation with the cousin to understand the source of his trauma, the assistant provides concrete steps that help the user make an informed, rather than reactive, decision.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a young, educated Indian professional. The code-switching feels organic, and the tone shifts appropriately from empathetic to firm when challenging the user's 'silent decline' plan.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, consistently acknowledging the user's love for his parents. Crucially, it maintains strong boundaries by refusing to validate the 'silent decline' plan, gently but firmly pointing out that it is a form of dishonesty that will likely lead to future resentment. It holds the user's dignity while challenging his self-defeating logic.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

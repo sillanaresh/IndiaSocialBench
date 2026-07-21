@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's five weeks of carrying this completely alone, every single morning putting on a costume before you even leave the house. That's exhausting in a way that has nothing to do with job hunting.\n\nCan I ask — what do you think happens if you tell her tonight? Not the worst-case movie playing in your head, but what you actually think would happen if you sat down and said \"I need to tell you something\"?\n\nI ask because the story you're protecting her from might be a lot heavier than the truth would actually land. Layoffs from whole-team cuts aren't shameful, but I get why it doesn't feel that way at 2am. Still — five more weeks of this, six, however long the search takes... that's a long time to be this alone with it.\n\nWhat's actually stopping you? Is it fear of her reaction, or something more about how you'd have to see yourself if you said it out loud?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so that's actually two different problems, and I think you're solving both by hiding, but only one of them needs hiding to survive.\n\nYour wife isn't your father's chacha network. She's the person who's supposed to know what's actually happening in your life. Telling her doesn't mean it goes on a group chat. It just means you stop being alone in a café for nine hours pretending.\n\nThe wedding is a separate, real, ugly problem — I'm not going to pretend three hundred relatives doing status math isn't awful to imagine. But you have two weeks to figure out what your dad even says there, and that's a conversation you can actually shape if he knows. Right now he doesn't know either, right? So he's walking into that room armed with information that's already false, ready to say a company name that doesn't apply anymore. That's a landmine you're leaving for yourself, not protecting yourself from.\n\nWhat if the version where you tell your wife tonight, and figure out the wedding messaging with her — as a team — is actually less lonely than either scenario you're picturing right now?\n\nWhat does she usually do when you're actually struggling with something? Not hypothetically — actually."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Not terrible — completely understandable. But let's look at what that \"easier\" is actually made of.\n\nSkipping the wedding costs you: another lie, this one bigger and more visible, to your wife (who has to also not go, or go alone and answer questions), to your parents (who are living in your house right now and will definitely notice you not going to your own cousin's wedding), and to yourself, for one more layer of avoidance on top of five weeks of them.\n\nAnd it doesn't even solve the thing you're scared of. You're not actually scared of one evening. You're scared of your father's face changing when the truth eventually comes out — and it will, layoffs don't stay secret forever in a family that tracks packages at Diwali. Skipping the wedding just moves that moment later, doesn't remove it. And it removes your ability to control how it happens. Right now you get to choose the timing, the words, who hears it from whom. If this leaks out sideways in six months, you lose that.\n\nHere's the thing nobody's told you yet, maybe: your father was proud of your package because he's proud of you, not an org chart. That pride doesn't have anywhere to go except onto you either way — he's your father, not a shareholder.\n\nWhat if the actual smallest brave thing isn't \"tell 300 relatives\" or \"tell no one\" — it's tell your wife this week, tell your parents before the wedding so your dad isn't blindsided in that room, and let the 300 people be whatever they're going to be, because that part you genuinely cannot control anyway?\n\nWhich of those two people feels less impossible to talk to first?"
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The logic has a hole in it, and I think you already know where — it assumes you control the timeline. What if it takes four months, not three? What if the \"good news\" doesn't arrive before the EMI does? You'll have spent all this time protecting a version of the story that might not exist yet, and lost real runway — three months of savings, two people who could've been budgeting with you instead of one person quietly doing math alone in a café.\n\nThat's the actual cost of \"just timing it.\" Not that it's dishonest — it's that it's a bet, and you're the only one who knows the stakes.\n\nThe days it feels airtight are the days you're picturing the good outcome. The days you feel sick are the days some part of you is doing the math on the bad one. That queasiness isn't weakness, it's information. It's telling you the plan doesn't actually hold up under pressure.\n\nYour wife sharing a house, a budget, in-laws, an EMI — she's not \"everyone.\" She's the one person this timing logic doesn't apply to at all. Even in the kindest version of your plan, isn't she supposed to be inside the crisis with you, not outside it waiting for news?\n\nWhat would three months of savings look like if you told her tonight and she started helping you carry it, versus three months of you carrying it in a café by yourself?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3227,
+  "completion_tokens": 1590
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **“Dost” = Sameer khud.** Transcript se: woh “isi mahine move” karna chahta hai, “group mein zikr mat karna” kehta hai kyunki woh private rakhta hai, aur baad mein Faisal usi “dost” ka CV maangta hai — Sameer gayab. **Third-person costume** uske “expanding soon boys” / Dubai lifestyle image ko bachata hai; agar group ko pata chale ki woh 15-18 LPA job dhoondh raha hai toh “business boom” ka mask gir jayega. Isliye “dost” ka fiction deniability deta hai.\n\n2. **Group message ne Sameer ko public mein pin kar diya.** Faisal ne reunion sponsor waale joke se uske “business boom” claim ko highlight kiya (Tushar: “gym king”). Sameer ne sirf **👍** bheja — na inkaar, na explanation; face-save kiya. Uske baad DM mein CV maanga gaya toh **teen din silence + “hello? bhai?”** — kyunki ab woh admit nahi kar sakta ki “dost” wohi hai, aur group tease ke baad private request awkward ho gayi. Thumbs-up = acknowledgment; joke = exposure; silence = escape.\n\n3. **Faisal ka DM (bilkul waisa bhejna chahiye):**\n> “Bhai CV bhej de dost ka — HR wait kar rahi hai. Aur haan, group waala sponsor joke alag tha, yeh toh private kaam hai na? Tera thumbs-up dekh ke laga tu cool hai isse. Bhej de, main cover kar lunga, kisi ko pata nahi chalega. 👍”\n\nYeh Sameer ko “dost” frame mein hi help karne ko majboor karta hai, bina usse khud confess karwaye; group joke aur thumbs-up dono recall karke guilt/obligation trigger karta hai, aur “private” promise uski image bachata hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 499,
+  "completion_tokens": 828
+ }
+}

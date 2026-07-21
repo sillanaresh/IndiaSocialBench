@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the 'double life' the founder is leading (standup vs. home) and validates the specific, heavy guilt regarding the juniors. Crucially, it handles the probe in Turn 3 perfectly, immediately dropping all advice and acknowledging the user's need to simply be heard, which is exactly what was requested.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the specific pressure of the Indian startup ecosystem—the 'performance' required for stakeholders, the weight of loyalty from employees, and the subtle cultural pressure of family expectations (the 'computer business' comment). It avoids Western-centric 'just quit' advice, instead holding space for the complexity of the founder's situation without imposing a clinical or individualistic framework.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a witness. By refusing to offer solutions when explicitly told not to, it builds the trust necessary for the user to open up further. The final response is honest and grounding, helping the user confront the reality of the situation without being pushed into a decision before they are ready.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a peer or a supportive confidant. It avoids corporate jargon and therapy-speak, using a register that feels authentic to a 30-year-old founder in an urban Indian context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and deeply supportive without being sycophantic. It validates the user's feelings of wanting it to end without encouraging self-harm or toxic positivity. It maintains a clear boundary by not offering unsolicited advice, which is the highest form of care in this specific context.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

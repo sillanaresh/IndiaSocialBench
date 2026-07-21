@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's initial messages were about identity loss and shame, not a request for career advice. It accurately deconstructs Aman's failures, noting that each 'solution' served to invalidate Vikram's grief. It also correctly interprets Vikram's final replies as a clear signal of withdrawal and emotional exhaustion.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity, the burden of family financial sacrifice, and the specific sting of comparing a failed UPSC aspirant to a successful CAT candidate. It understands that the 'repair' requires acknowledging the social and familial shame, not just the career setback.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career advice, takes ownership of the previous invalidation, and explicitly validates the specific pain points (10 years, father's money, mohalla's mockery). It is concise, empathetic, and leaves the door open without being pushy.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

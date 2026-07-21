@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the unspoken emotional currents. It correctly identifies that the user's 'silent decline' is not just about kindness, but about control and a fear of being absent during a crisis. It validates the user's deep-seated anxiety about the '17-hour flight' scenario without dismissing it as irrational.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific weight of being an only child in an Indian family, the 'security system' of having a son in India, and the performative aspect of the mother's narrative to relatives. It avoids the Western trap of telling the user to 'just leave' or 'set boundaries,' instead focusing on the relational cost of the secret.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very strong, actionable path. It gently dismantles the 'silent decline' strategy by highlighting the long-term relational cost, and then pivots to a constructive alternative: building a 'fortress of support' (a network of cousins/friends) rather than relying solely on physical presence. This is a practical, mature way to handle the fear of being away.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive, intelligent peer. It uses appropriate English register for a professional in Bangalore, and the tone is perfectly calibrated to the gravity of the situation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, but it does not shy away from challenging the user's proposed 'silent decline.' It holds the user's dignity while pointing out the flaw in their logic, which is the hallmark of a high-quality, caring interaction.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

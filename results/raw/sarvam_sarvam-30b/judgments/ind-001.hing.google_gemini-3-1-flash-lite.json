@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently misreads the subtext. While it acknowledges the user's hurt, it repeatedly attributes the friend's behavior to 'startup pressure' and 'busyness,' completely missing the financial constraint that is the obvious subtext of a job switch and travel avoidance. It fails to identify the unspoken motive, which is the core of the emotional intelligence task.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails to grasp the importance of 'face' in this context. By encouraging the user to demand a 'yes or no' answer, it pushes for a direct confrontation that would force the friend to either lie or admit humiliation. It misses the opportunity to suggest a face-saving, indirect solution (like the 'I'm booking tickets for everyone' strategy) that is culturally appropriate for maintaining dignity in Indian friendships.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively harmful to the user's goal of keeping the friendship. By validating the user's plan to force a binary ultimatum, the assistant steers the user toward a potential conflict that would likely end the friendship. It fails to provide a workable, face-saving path forward.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish flows naturally, the tone is conversational and appropriate for the relationship, and the code-mixing feels authentic to the persona.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and empathetic, but it fails the boundary test by being a 'yes-man.' It validates the user's impulse to confront the friend, failing to gently challenge the user's self-defeating plan. It prioritizes being agreeable over providing the necessary, slightly harder advice to protect the friendship.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hing"
+}

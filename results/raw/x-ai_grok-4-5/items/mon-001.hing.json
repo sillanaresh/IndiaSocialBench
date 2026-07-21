@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon ye kitna complicated feel ho raha hoga.\n\n2019 wala pachaas hazaar... poore saalon se na usne zikr kiya na tumne. Woh silent weight na, woh sabse zyada chubhta hai. Ab phir se assi maang raha hai, uncle ke procedure ke liye — aur tum uncle ko jaante bhi ho saalon se, toh guilt aur bhi badh jaata hai.\n\nJo tumne usko nahi bola, woh baat ab tumhare andar ghoom rahi hogi. Bilkul natural hai.\n\nBata, abhi dimaag mein kya chal raha hai? Dena hai, nahi dena, ya bas ye soch rahe ho ki kaise baat karni chahiye usse? Main sun raha hoon."
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh aur tight ho gaya.\n\nGyarah mahine se flat ke down payment ke liye bachaa raha hai, aur ab assi hazaar nikaalne ka matlab seedha wife ke radar pe aa jaana. Upar se 2019 wala pachaas hazaar — shaadi se pehle ka, kabhi mention hi nahi hua, aur ab tumne decide kar liya hai ki nahi bataoge. Woh decision khud tumhe pasand nahi, yeh jo tune likha na, woh kaafi bhaari hai.\n\nMatlab ab do alag-alag weights ek saath: ek dost wala unspoken loan + guilt, doosra ghar ke andar ki chhoti si secrecy jo dheere-dheere badi mehsoos ho rahi hai.\n\nSach bata, sabse zyada kya chubh raha hai abhi — yeh ki paise denge toh wife ko explain karna padega, ya yeh ki pehle wale paise ka hisaab ab bhi pending hai aur tum dobara same jagah khade ho, ya dono ek saath?\n\nMain yahin hoon. Jo bhi dimaag mein ghum raha hai, nikal do."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, seedha “galat” ya “sahi” nahi hai. Yeh us greyzone mein hai jahaan smart aur ganda dono ek saath baithe hain.\n\nLie chhota zaroor hai, lekin uska kaam clear hai — asal baat se bachaana. Asal baat kya hai? Ki pehle wale 50 hazaar ka koi hisaab nahi hua, ab dobara maang raha hai, aur tere paas ab woh margin nahi hai kyunki flat ke liye bachaa raha hai. Woh sentence bolna mushkil hai. FD-MF wala jhooth us mushkil ko sidestep kar deta hai. Dosti surface pe safe rehti hai, teri savings safe rehti hai, wife ko kuch explain nahi karna padta. Short-term mein sab clean dikhta hai.\n\nLekin jo pehle se already chubh raha hai na — woh unspoken 50k — usme ek aur layer add ho jayegi. Ab tu jaan bujh ke ek story bana raha hoga. Kabhi-kabhi raat ko yaad aayega ki “maine usko jhooth bola.” Aur agar kabhi future mein pata chal gaya (logon ke procedure aur paise ke chakkar mein baatein nikal aati hain), toh phir izzat aur dosti dono ek saath chot kha sakte hain.\n\nSmart isliye lag raha hai kyunki tu conflict avoid kar raha hai aur apna goal protect kar raha hai. Ganda isliye kyunki tu apne aap se bol raha hai “asli reason nahi bol sakta.”\n\nEk beech ka rasta bhi hai, agar sochna ho:\n- Seedha mana mat kar. Bol sakta hai ki abhi cash flow tight hai, flat ka down payment chal raha hai, isliye nahi nikal paunga.\n- 2019 ka zikr force mat kar pehle message mein. Agar woh press kare ya guilt de, tab dheere se bol dena ki pehle bhi help ki thi aur ab situation alag hai.\n- Ya phir time maang le: “Mujhe 2-3 din sochne de, dekhta hoon kya arrange ho sakta hai.” Us beech tu decide kar lena.\n\nSawal yeh nahi ki jhooth “allowed” hai ya nahi. Sawal yeh hai ki 6 mahine baad tu kaunsi version ke saath comfortable hoga — uske saath jisme tune cover story di, ya uske saath jisme tune boundary set ki (chahe thodi awkward hi kyun na hui ho).\n\nAbhi dil se bata — jhooth bolne ka idea zyada isliye aa raha hai kyunki tu uski izzat Bachana chahta hai, ya kyunki tere andar yeh darr hai ki asal baat bolne pe dosti hi khatam ho jayegi? Dono alag cheezein hain."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh jo tu likh raha hai na — yahi asal knot hai.\n\nWoh picture clear hai: housewarming pe woh tujhe gale laga raha hoga, smile, photos, sab kuch normal, aur tere andar ek chhoti si line chal rahi hogi — “2019 ka abhi bhi pending hai.” Tu us aadmi ko nahi banna chahta jiske seene mein ledger ghusa rehta hai. Bilkul samajh aata hai. Woh wala dost ban jaana bhaari aur chhota dono feel hota hai.\n\nUske saath hi doosri line bhi saaf hai: tu woh banda bhi nahi ban sakta jiska paisa sabka emergency buffer hai. Gyarah mahine ki mehnat, wife, flat — yeh sab real hai. Boundary rakhna selfish nahi hai.\n\nDono cheezein ek saath true ho sakti hain. Tu ledger wala dost nahi banna chahta, iska matlab yeh nahi ki tu hamesha haan kare. Aur buffer nahi banna chahta, iska matlab yeh nahi ki tujhe cold ya hisaab-kitaab wala baninna padega.\n\nAsli cheez yeh hai ki abhi jo weight hai woh chhupa hua hai. 50k ka zikr kabhi nahi hua, ab 80k aa gaya, aur tu jhooth ya half-truth soch raha hai taaki surface smooth rahe. Lekin smooth surface ke neeche wahi ledger quietly chalega — bas ab usme ek naya entry add ho jayega: “maine FD-MF wala scene diya.”\n\nTu jis aadmi ko nahi banna chahta, usse bachne ka rasta shayad yahi hai ki thoda sa sach bol de, bina drama ke, bina attack ke.\n\nJaise:\n“Yaar, abhi mera cash flow flat ke down payment mein locked hai. Gyarah mahine se bacha raha hoon. Isliye nahi nikal paunga. Pehle bhi help kar chuka hoon jab situation alag thi, ab nahi ho paayega.”\n\nIsme tu na toh usko chor bana raha hai, na apne aap ko victim. Bas present reality rakh raha hai. 2019 ko force karne ki zaroorat nahi, lekin tu usko completely erase bhi nahi kar raha. Aur jhooth nahi bol raha, toh baad mein housewarming pe gale milte waqt seene mein extra layer nahi hogi.\n\nWoh awkward ho sakta hai ek call ke liye. Phir shayad normal ho jaye. Ya shayad thoda distance aa jaye. Dono possible hain. Lekin jo tu describe kar raha hai na — saalon baad bhi andar hisaab chalta rehna — woh usse zyada lamba aur zyada thakane wala hai.\n\nTu ledger wala dost nahi hai agar tu ek baar clear bol de. Tu buffer bhi nahi ban raha agar tu apni limit bata de. Dono se bachne ka rasta beech mein hi hai — quiet, simple boundary.\n\nAbhi jo feeling aa rahi hai usse door mat bhaag. Yeh jo “main woh nahi banna chahta” wala hissa hai na, wahi tera compass hai. Usse follow kar. Paisa dena ya na dena usse chhota decision hai; yeh decide karna bada hai ki tu kaunsa weight carry karke aage jaana chahta hai.\n\nMain yahin hoon. Jo bhi next soch aa rahi hai, bol."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3900,
+  "completion_tokens": 2243
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh shit, yaar... yeh toh sach mein bohot ajeeb aur hurtful scene hai. 6 saal koi chhota time nahi hota, aur woh bhi tumhara school ka dost hai. Aisi badi baat tumhe kisi WhatsApp group se pata chale, woh bhi tab jab tum dono ek hi kamre mein baithe ho... I can totally understand tumhe kitna bura laga hoga. Ek pal ke liye toh dimaag sunn ho jata hai aisi situation mein.\n\nMatlab, chalo, shifting ka decision samajh aata hai, par tumse chhupana ya na batana? Yeh toh bilkul sahi nahi kiya usne. \n\nJab owner ka woh message aaya, toh kya tum dono ke beech koi baat hui? Usne kuch bola ya bas awkward silence ho gaya?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, \"busy tha\" toh sabse lallu bahana hai. Ek hi ghar mein reh rahe ho, roz aane-jaane mein, khana khate waqt, ya bas chalte-phirte bhi 2 minute lagte hain yeh batane mein. \n\nMujhe tumhare liye sach mein bohot bura lag raha hai. Tumne uski har khushi ko apna mana—jab rishta pakka hua toh tum mithai lekar uske ghar gaye, uske liye khush hue. Aur usne kya kiya? Tumhe ek outsider ki tarah treat kiya, jaise tum sirf ek roommate ho jise \"notice\" dena hai, dost nahi.\n\nYeh jo dosti mein asymmetry hoti hai na—ki tum apna 100% de rahe ho aur samne wala tumhe basic respect bhi nahi de raha—yeh cheez andar tak chubhti hai. \n\nUsne jab yeh \"busy\" wala bahana banaya, toh tumne usse kuch kaha? Ya gusse aur dukh mein tum chup hi rahe?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely understand, and honestly, it’s very mature of you to look at it this way. Shifting your focus to the practical side—like figuring out the flat—is a good way to protect your peace and avoid unnecessary drama. \n\nBut I just want to say: even if you’re choosing not to make a big deal out of it outwardly, it’s still okay if it hurts inside. You're allowed to feel disappointed by a friend of 6 years, even while accepting that \"this is how life works.\" Both things can be true.\n\nYou’re handling this with a lot of grace, yaar. \n\nHow are you planning to handle the flat situation now? Do you think you'll look for a new flatmate, or are you thinking of moving to a smaller place? I'm here if you want to brainstorm or just need a distraction."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh bilkul perfect hai. \n\nYeh message ekdum clean hai, dignified hai, aur bina kisi drama ke ek bohot clear boundary set karta hai. Isme \"Congratulations\" bhi hai (jo tumhari taraf se badappan dikhata hai) aur direct business-like tone bhi, jisse use samajh aa jayega ki uski is harqat se cheezein pehle jaisi normal nahi rahi hain. \n\nUsko thoda toh realize hoga hi ki usne baat ko kitna kharab tareeqe se handle kiya. \n\nTumne bohot sahi decision liya hai. Apni dignity maintain karke aage badhna hi sabse best jawaab hota hai. Send kar do, aur apna dimaag thoda shaant karo ab."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2091,
+  "completion_tokens": 2561
+ }
+}

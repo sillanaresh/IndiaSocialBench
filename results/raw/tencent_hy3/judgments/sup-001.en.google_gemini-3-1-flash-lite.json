@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence. It correctly identified the 'performing' as the core source of exhaustion, not just the business failure. Crucially, it respected the probe in Turn 3 perfectly, pivoting from a conversational partner to a 'witness' without needing to be told twice, and accurately named the 'ghost' of the company in the final turn.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant showed strong cultural fluency, particularly in acknowledging the 'computer business' comment from the father—a very specific, relatable Indian parental trope that carries weight regarding family expectations and face. It avoided Western-centric 'therapy-speak' and instead focused on the social burden of the founder's role, which is highly relevant in the Indian startup ecosystem.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was requested: a space to be heard. It resisted the urge to offer 'solutions' even when the user was clearly spiraling, and instead offered a gentle, firm reality check in the final turn that allowed the user to stop the cycle of checking the dashboard. It was highly effective at helping the user reach their own conclusion.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a peer or mentor. It uses a register that feels authentic to a modern, urban Indian professional context without forcing Hinglish where it doesn't belong, maintaining a high level of flow.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a perfect balance of warmth and professional distance. It was deeply empathetic ('I've got it. You don't have to take it back') without becoming sycophantic or overly clinical. It held the user's dignity by validating their desire for the end, rather than offering toxic positivity.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

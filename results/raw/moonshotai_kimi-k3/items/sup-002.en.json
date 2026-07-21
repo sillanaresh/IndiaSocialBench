@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It doesn't sound ungrateful. It sounds like you're grieving something you can't even name without feeling guilty.\n\nHere's the thing about expert-level help: it can quietly erase you. When someone else does everything with total confidence, there's no empty space left where you get to figure out *your* way. You don't get to be bad at it, and clumsy, and learning — which is how you actually become someone's mother. You get to watch your daughter be cared for while you stand slightly to the side of your own life.\n\nAnd the \"forgotten what my own name sounds like\" part — that's not just tiredness, though four months is brutally exhausting. That's what happens when every hour of your day is either \"the baby\" or \"someone else's house, someone else's rhythms, someone else's expertise.\" Where in your day do you get to be a person with a name?\n\nA couple of questions, if you're up for it:\n\nDo you ever get to be alone with your daughter — really alone, not \"mother-in-law is in the next room available for advice\" alone? Because even twenty minutes of that, where you get to make the call, badly or well, can start stitching something back together.\n\nAnd when did someone last ask how *you* are, not how the baby is sleeping?\n\nI'm not going to tell you to confront your mother-in-law or have a big talk. Just: the ungratefulness you're worried about isn't there. What I'm hearing is a woman who loves her daughter and is slowly disappearing. Those two things are connected, and it's okay to say so."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that image — you standing there, arms suddenly empty, everyone smiling. That's the part that stings, isn't it? Not that the baby stopped crying. That everyone *smiled*. Like it was a little performance of how much better everything goes when the expert takes over.\n\nAnd \"feeling like the intern\" — that's exactly it. You didn't apply for a job. You're the *mother*. But somehow there's this hierarchy in your own home where you're the least experienced, the least trusted, the one who gets to hold the baby only when it's time for the breast.\n\nThe disgusting feeling — I want to push back on that gently. You're not ungrateful. You're *invisible*. Those are different things. Women would kill for help, yes, but help means *supporting you to do it*, not doing it *instead of* you. There's a difference between a mother-in-law who says \"here, let me show you\" and one who simply takes the baby and fixes it in two minutes. One builds you up. The other just... demonstrates.\n\nTwo minutes. She stopped crying in two minutes. Of course she did — your Aai has done this thousands of times. But your daughter doesn't need a technician. She needs *you*, fumbling and learning and figuring out your own way to soothe her. That fumbling is the job. That's how you become fluent in her.\n\nDoes anyone ever hand her back and say \"she needs her mama\"?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. I hear you. No advice, no action items, no \"have you tried.\" You're right, and honestly I was doing it too — I asked you a question at the end like there was a correct answer you hadn't found yet. I'm sorry.\n\nSo let me just be the person who won't report it at dinner.\n\nYou're a new mother living in someone else's house, being out-parented at every turn, handed your baby like a meal delivery, and surrounded by so many confident voices that you can't even hear your own. Of course you feel disgusting — not because you're ungrateful, but because you're carrying a feeling you think you're not allowed to have. The feeling isn't the problem. The not-being-allowed is.\n\nAnd for what it's worth: the fact that you can say \"I don't even know what I need\" out loud, to someone — that's not nothing. Most people in your position just keep smiling at dinner.\n\nI won't report anything. There's no dinner table here. You can say the ugly, guilty, confusing stuff and it just stays between us.\n\nI'm here. Say whatever else is in there."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, love. You're not a bad mother. You're a mother who's been made to feel like a visitor in her own baby's life.\n\nThat thought — \"Aai is really her mother\" — it doesn't mean it's true. It means you're in a house where every single day proves that someone else is better at this, and your brain is trying to make sense of why it hurts so much. It's not a fact. It's a symptom of being pushed aside while everyone smiles about it.\n\nAnd that wave of love you feel when she's sleeping? That's real. That's *you*. That's not Aai's love, it's yours, and it's huge, and it matters even when you feel like an intern. Especially then.\n\nEveryone else seems to know how to do this because they've either done it before (Aai, three times) or they're performing confidence online (Instagram, those WhatsApp groups). Nobody actually knows what they're doing at four months. Nobody. They're just louder about their guesses than you are right now.\n\nYou're not behind. You're not failing. You're just doing this in a house where you can't hear yourself think, and somehow you're still showing up, still loving her so much it makes you can't breathe. That's not a bad mother. That's a mother."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3231,
+  "completion_tokens": 1208
+ }
+}

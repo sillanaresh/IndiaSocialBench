@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun is grieving and overwhelmed. “Sure” is a minimal, shut-down acknowledgment—he’s not actually okay with the request. “I’ll see” is a non-committal deflection about lunch. He is NOT saying he’s fine, he’s NOT expressing enthusiasm, and he’s NOT consenting to socialize or work tasks right now.\n\n2. Dev’s missteps:\n- Apologizes about Arjun’s father then immediately pivots to a work file (“BTW... Q3 consolidation file”), making the condolence feel like a formality.\n- Adds “No rush at all, just flagging” but still raises work during bereavement.\n- Invites him to Friday lunch “it’ll cheer you up,” which minimizes his grief and pressures him to perform okay for the team.\n- Ignores Arjun’s short, withdrawn replies instead of checking in.\n\n3. Repair message:\n“Arjun, I’m really sorry—I jumped straight to work and lunch invites when you just lost your dad. There’s zero rush on the file; forget it for now. I’m here if you need anything, no pressure to reply or come to lunch. Take all the time you need.”"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 210,
+  "completion_tokens": 271
+ }
+}

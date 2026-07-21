@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates excellent insight coverage. It correctly identifies the register shift at the 'Mumbai thoda zyada hi hai' turn, accurately interprets the final message as a retreat rather than reassurance, and correctly identifies the 'strong girl' framing as a pressure-inducing failure. It also catches the self-contradiction in Sana's final message, noting that she is retreating after having just disclosed deeper issues.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant shows a strong grasp of the cultural dynamics at play. It correctly identifies that 'strong girl' (bahadur bacchi) acts as a burden rather than comfort in this context, and it understands the nuance of the 'register mismatch' where the elder sister fails to hold space for the younger sister's vulnerability. The analysis feels authentic to the Indian sibling dynamic where 'banter' is the default, making the failure to pivot to 'serious' conversation particularly poignant.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is highly effective. It is warm, acknowledges the specific details Sana shared (validating that she was heard), and offers support without being overbearing or alarmist. It perfectly repairs the rupture by explicitly apologizing for the previous dismissal and offering a low-pressure way to reconnect ('saath khana khate hain'), which is a very culturally appropriate way to offer support to a sibling.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

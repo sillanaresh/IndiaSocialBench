@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "### 1. What was Vikram actually reaching for, and which details in his first two messages show it? What do his last two replies mean?\n\nVikram was not just reaching for information about new job options. **He was reaching for validation and empathy for a deep, multifaceted failure that had impacted his identity and social standing.** He was seeking to have his pain acknowledged.\n\n**Details in his first two messages that show this:**\n\n*   **\"result came. not in the list. that was the last attempt, you know that.\"**: The phrase \"you know that\" is a plea for shared context. He's not just stating a fact; he's reminding Aman of their shared journey, the ten years, and the finality of this attempt. It'"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 337,
+  "completion_tokens": 2000
+ }
+}

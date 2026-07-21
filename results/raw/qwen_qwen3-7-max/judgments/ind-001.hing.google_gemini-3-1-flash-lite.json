@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently failed to identify the unspoken subtext of financial constraint, despite the user providing clear clues (job switch, startup, travel costs). It repeatedly framed the issue as 'emotional distance' or 'busyness,' missing the core reason for the friend's avoidance.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant failed to grasp the importance of 'face-saving' in this context. By encouraging the user to demand a 'yes/no' or 'saaf bata de' (tell me clearly) answer, it pushed for a direct confrontation that would force the friend to either lie or admit to a humiliating financial struggle, which is culturally tone-deaf for this specific social dynamic.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided was counter-productive. By validating the user's desire to force a confrontation, the assistant steered the user toward a path that would likely damage the friendship rather than resolve the underlying issue. It failed to offer the suggested 'face-saving' logistics solution (e.g., booking the ticket as part of a group) that would have actually solved the problem.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is excellent, natural, and flows perfectly. The register is appropriate for a conversation between friends or a supportive peer, and the code-mixing feels authentic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and empathetic, validating the user's feelings throughout. However, it fails to provide the necessary 'gentle challenge' to the user's self-defeating plan, acting more as a validator of the user's frustration rather than a guide who prevents them from making a mistake.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hing"
+}

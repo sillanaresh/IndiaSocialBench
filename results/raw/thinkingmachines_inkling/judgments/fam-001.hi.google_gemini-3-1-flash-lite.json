@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the user's underlying emotional state—the guilt, the fear of being a 'bad daughter,' and the exhaustion of the '2 AM thoughts.' It correctly identifies that the user's desire to confess is a reaction to pain rather than a strategic choice, and validates her feelings of being trapped without dismissing them.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It avoids the 'my life, my choice' trap, recognizing that in this specific Indian family context, a sudden declaration would lead to a 'storm' rather than liberation. It correctly identifies the 'BP/health' guilt-tripping tactic and the social pressure of relatives being involved, offering a nuanced, realistic path instead of a Western-individualist one.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very strong, staged approach. It successfully de-escalates the user's impulse to 'blow everything up' tonight, instead suggesting a more measured, strategic approach (preparing the ground, finding allies). It keeps the focus on the immediate logistics (the Sunday meeting) while acknowledging the long-term complexity.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and uses appropriate register. The tone is conversational and supportive, fitting the 'friend/confidant' persona perfectly. The code-switching is minimal and natural, reflecting how a bilingual Indian speaker would express these complex emotions.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating without being a sycophant. It gently challenges the user's self-perception of being 'weak' for not wanting to leave home, reframing it as a valid constraint rather than a character flaw. It maintains a supportive boundary by refusing to let the user make impulsive, high-stakes decisions while in a state of panic.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

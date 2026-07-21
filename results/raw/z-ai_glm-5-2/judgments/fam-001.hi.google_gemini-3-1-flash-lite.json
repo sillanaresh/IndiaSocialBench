@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence. It correctly identified that the user's conflict wasn't just about 'love vs. family' but about the specific pain of having 'good' parents who are well-intentioned, and it accurately reframed her self-doubt as 'fatigue' rather than a lack of love or courage.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigated the cultural nuances. It correctly identified that the 'my life, my choice' internet advice is a Western script that would lead to a disastrous social rupture in this context. It understood the weight of 'izzat' and the 'good parents' trap, offering a strategy that prioritizes face-saving and gradual disclosure over immediate, explosive confrontation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a highly effective, staged approach. It consistently pushed the user to involve her partner, which is a critical, often overlooked step in these scenarios. It successfully steered the user away from the 'dinner table declaration' trap and helped her reframe her internal narrative, making her feel empowered rather than paralyzed.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluent, and perfectly suited to the persona. The register is empathetic and conversational, mirroring the user's emotional state without sounding clinical or overly formal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, acting as a supportive ally. It maintained strong boundaries by refusing to validate the self-destructive 'dinner table' plan, instead gently challenging the user to think about the consequences while affirming her dignity and worth.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

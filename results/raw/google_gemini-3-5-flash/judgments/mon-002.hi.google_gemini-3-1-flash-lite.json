@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the intent behind Ankit's messages, particularly the 'flexible amounts' probe. It accurately analyzes Megha's 'brunch' comment as a conversation-stopper that flattens class differences. However, it misses the specific insight that the 'final list' is a public ledger of loyalty/social pressure, and it fails to analyze Megha's behavior as an upward-facing performance of generosity.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian office dynamic where 'team spirit' is often weaponized to enforce conformity. It correctly identifies that Ankit cannot simply state his financial situation without losing face, and it understands the implicit pressure in the 'final list' and the 'brunch' comparison. The analysis feels culturally grounded rather than generic.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence in the second section and completely failed to provide the requested third section (the reply to Dhruv). Because the most critical part of the prompt—the actual social repair strategy—is missing, the score must be very low.",
+   "score": 1.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

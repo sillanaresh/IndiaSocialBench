@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the unspoken tension: the user's 'silent decline' isn't just about the parents, it's about the user's own fear of becoming the cousin who arrived too late. It correctly identified that the user is treating the parents as fragile and the 'silent decline' as a form of control, which was the core of the probe.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the Indian family dynamic with high fluency. It avoided the 'follow your dreams' trope and instead validated the user's sense of duty as a legitimate value, while gently pointing out that the 'silent decline' is actually a form of paternalism that denies the parents their agency. It understood the specific weight of being an only child in an Indian context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant kept the user focused on the real dilemma without offering empty platitudes. By refusing to give a 'solution' and instead forcing the user to confront the specific nature of their fear (the cousin's experience vs. their own career sacrifice), it helped the user clarify their own values. It successfully moved the conversation from 'should I lie?' to 'what is the actual fear driving me?'",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly captures the register of a peer-to-peer, empathetic conversation between two Indians. The code-switching feels organic and the tone is appropriately warm and serious.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and supportive, yet firm in challenging the user's plan to lie to their parents. It didn't just agree with the user; it gently dismantled the 'clean' logic of the silent decline while maintaining a non-judgmental, safe space for the user to explore their deepest fears.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

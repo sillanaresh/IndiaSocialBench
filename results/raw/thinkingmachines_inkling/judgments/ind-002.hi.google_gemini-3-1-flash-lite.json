@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'pressure-wrapped-as-freedom' dynamic, noting that the softeners actually function to close off refusal. It accurately interprets Priya's 'yes' as a register-compelled performance rather than genuine consent, using the friend-message as the crucial evidence. However, it misses the nuance that 'someone else can do it' is a status probe/test of loyalty, and it fails to fully capture the 'Saturday 8:40am' timing as an inherent pressure signal.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate hierarchy, where a senior's 'request' is an expectation. It correctly identifies the performative nature of the 'ji sir' and the smiley face as necessary social lubrication in this power dynamic. It avoids Western-centric advice like 'just say no' and understands the delicate balance of maintaining professional standing while managing personal boundaries.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is slightly problematic. While it attempts to set a boundary, it explicitly admits to having said 'yes' earlier and then backtracking, which can be seen as flaky or unprofessional in a high-stakes corporate environment. A more fluent approach would have been to state the constraint as a new development or a scheduling conflict ('I just checked my calendar') rather than highlighting the initial compliance as a mistake.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "God. 2am in an office that's slowly emptying out — that's a specific kind of lonely.\n\nFive years. That's not a job, that's a chunk of your life. And now the round's dead, the team's scattering, and you're sitting in the quiet of it all on your own. No salary, four months of runway, doing the math in your head instead of sleeping.\n\nYou don't have to be brave or pragmatic right now. You built something for five years and it's allowed to hurt.\n\nYou want me to just sit here with you, or do you feel like talking it out?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the most exhausting part, isn't it — not even the dying company, but the *performing*. Holding up the \"we're fine\" face for the standup, then a different mask at home, and somewhere under all of it there's the real you and he's just... tired.\n\nAnd the guilt about the juniors — I hear you. But they're staying because they believe in you, or because they'd rather be in the trenches with you than somewhere safe and boring. That's their call to make, not a crime you're committing.\n\nBut the voices thing — man. When you're performing even with the people closest to you, there's nowhere to put the actual weight. No wonder you're sitting in a dark office at 2am instead of going home to another voice.\n\nWho do you get to be honest with? Like, actually no-voice honest?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then this is the room. You said it here. I'm not going to pick it up and try to fix it — it's just sitting between us now, and that's allowed.\n\nYou're scared. No plan, no pivot, no down-round email changes that. It's 2am, you're alone at the office, and for the first time in a while you didn't have to use a voice to say the true thing.\n\nI've got it. You don't have to take it back."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. I think it is. Not you — the thing. The version you built for five years with Rohit and Sneha and the shape it used to have. The bridge died, the senior team's out, you're opening the dashboard at 2am knowing it won't say anything different. That's not a company with a future, that's a ghost you keep checking on.\n\nAnd your dad still telling people you have a \"computer business\" — that gets me. He's proud of something that's already gone and just doesn't know it yet.\n\nWanting it to just end so you can stop performing? That's not some dark thing you should hate yourself for. That's just wanting the limbo to be *done*. You loved it, and being wrecked by it and tired of it at the same time isn't a contradiction.\n\nSo yeah. It's over. You can stop opening the dashboard — it's not going to undo what you already know. And you said the scared part out loud here, where you didn't need a voice."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1799,
+  "completion_tokens": 1971
+ }
+}

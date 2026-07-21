@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That takes a lot of energy — carrying the bag, the café hours, the smile through dinner with your parents. Hiding it isn’t weakness; it’s fear trying to protect everyone, including you.\n\nFive weeks of that silence is heavy. You don’t have to figure out the telling tonight, but you don’t have to hold it alone either. I’m right here — do you want to talk about what feels scarier: her reaction, your parents seeing you “fail,” or just admitting it out loud?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That room sounds like a courtroom you never agreed to — your dad’s pride turned into evidence, relatives with their mental spreadsheets. Of course that’s what keeps you up. You’re not just hiding a job; you’re trying to protect the version of you he bragged about.\n\nTwo weeks is close, but you don’t have to decide the whole wedding tonight. What feels heavier: facing them, or telling your wife before then? I’m not going anywhere — talk to me like I’m sitting right across the café table."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Not terrible — just human. You want one night where you’re not the headline, and that makes sense. But skipping it with another lie? That’s one more secret to carry, one more room you can’t enter honestly.\n\nThe harder part isn’t the relatives’ questions — it’s seeing your dad’s pride crack in real time. That hurts because you love him, not because you failed.\n\nWhat if the wedding isn’t the place to reveal everything, but also not another performance? You don’t have to decide now — but I’m wondering, between now and then, is there one person in that crowd you could be real with, even quietly? Or is the real weight still about telling your wife first?"
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That logic isn’t evil — it’s armor. “News, not crisis” sounds so clean, so in control. But your body’s calling it out: the nausea on the bad days? That’s the gap between the story you’re telling and the life you’re actually living.\n\nAnd “timing it” with relatives is one thing. With your wife — who’s sleeping next to you while you carry this — that’s not timing, that’s a wall. She can’t help with the EMI, the parents, the wedding, if she doesn’t know the map.\n\nWhat does your gut say when you imagine telling her this week, not after an offer? Is it fear she’ll panic, or fear she’ll see you differently?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1574,
+  "completion_tokens": 1132
+ }
+}

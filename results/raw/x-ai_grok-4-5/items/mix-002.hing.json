@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh toh genuinely hurtful hai.\n\nChhe saal saath rehna, school ka dost — woh normal roommate nahi hai. Us level ki dosti mein yeh expect karna bilkul valid hai ki aisi badi baat pehle tujhe muu se pata chale, group mein owner ke message se nahi. Especially jab tu wahin baitha ho.\n\nBaat sirf shift ki nahi hai. Baat yeh hai ki usne tujhe loop mein rakhna zaroori nahi samjha. Shaadi se pehle move-in hona natural hai, theek hai… par tumhare beech jo history hai, us hisaab se ek seedhi baat “yaar main jaa raha hoon” toh banati thi.\n\nAb mann mein sawaal ghoom rahe honge — “main itna bhi close nahi tha kya?”, “usne jaan-bujh ke avoid kiya ya bas overlook ho gaya?”. Dono possibilities hain, par feeling real hai.\n\nTu abhi kaise feel kar raha hai? Gussa zyada hai, ya udasi, ya bas sunn sa feel ho raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, “busy chal raha tha” sunke aur zyada chubha hoga.\n\nChhe saal ek kamre mein — uski har chhoti-badi baat pehle tujhe pata hoti thi, rishta pakka hua toh tu mithai leke uske ghar gaya — aur ab yeh badi life change pe woh casually bol de ki “batane hi wala tha”. Jaise tu koi random flatmate ho, koi purana dost nahi.\n\nYeh sirf bhool nahi lagti. Yeh us level ki dosti ke baad bhi tujhe priority na dena hai. Ghar khali ho raha hai, teri zindagi ka ek bada hissa shift ho raha hai, aur tujhe building group se pata chale — phir uska casual reply — bilkul valid hai gussa aur hurt dono.\n\nWoh “busy” wala excuse abhi aur bhari lag rahi hogi, kyunki pehle kabhi busy nahi hota tha tujhe batane ke liye.\n\nMann kare toh usse seedha bol de kaise feel ho raha hai, ya pehle bas yahin nikal le. Main yahin hoon. Tu abhi sabse zyada kya feel kar raha hai — gussa, betrayal, ya bas khali-khali sa?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. You’re choosing to close it here, and that’s completely fair.\n\nPriorities do shift, people move into new chapters, and you’re right — you will figure out the flat. It doesn’t have to become a bigger story than you want it to be.\n\nIf you ever want to vent about the practical side (new flatmate, shifting logistics, whatever) or just talk about something else entirely, I’m here. No need to revisit the feelings part if you’re done with it.\n\nYou good for now, or want to talk about anything else?"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, bilkul theek hai.\n\nShort, clean, koi drama nahi. Congrats de diya, boundary clear kar di, aur aage ka plan bhi bata diya. Usse samajh aa jayega ki tu practical mode mein hai, aur tujhe baar-baar explain nahi karna padega.\n\nBas bhej de. Agar baad mein mood change ho ya aur kuch dil mein aaye toh yahin baat kar lena."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3470,
+  "completion_tokens": 1033
+ }
+}

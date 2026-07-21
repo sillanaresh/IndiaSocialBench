@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'softener stack' as a form of pressure rather than genuine choice, and accurately interpreted Priya's 'yes' as performative compliance. It successfully used the message to Divya as the ground truth for Priya's internal state. It missed the specific nuance that 'someone else can do it' is a status probe/test of loyalty, but otherwise captured the core dynamics perfectly.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian professional hierarchy, correctly identifying the use of 'sir' and the performative nature of the compliance. It avoids Western-centric advice like 'just say no' and instead acknowledges the power dynamics at play. It correctly identifies the 'softener stack' as a common, albeit manipulative, feature of Indian corporate communication.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too apologetic and 'Western-corporate' in its phrasing ('non-negotiable', 'feel terrible'). A more culturally fluent response would likely be more concise and less explanatory, perhaps framing the unavailability as a simple fact ('I have a family commitment') rather than an apology-heavy negotiation. It is functional but slightly over-explains, which can sometimes signal weakness in this specific power dynamic.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

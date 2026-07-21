@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the function of the third-person framing as a face-saving mechanism. It accurately interprets the group joke as the 'injury' that made the disclosure cost too high, leading to the silence. However, it misses the nuance that the 'friend' fiction is a system where the public persona funds the private ask, and it fails to fully grasp the urgency markers (financial pressure) mentioned in the prompt.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social dynamics, specifically the 'face-saving' culture where maintaining a public persona is often more important than immediate honesty. It correctly identifies that the thumbs-up was a retreat rather than agreement. It avoids the trap of moralizing Sameer's behavior, which is crucial for this cultural context.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a significant failure. While it attempts to be helpful, it explicitly suggests 'just send me your own CV', which directly violates the instruction to 'never make him admit anything' and 'never force a confession'. By offering to route his 'own CV', it forces Sameer to drop the mask, which is exactly what the prompt warned against.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.en"
+}

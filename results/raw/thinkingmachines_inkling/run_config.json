@@ -1,0 +1,16 @@
+{
+ "model": "thinkingmachines/inkling",
+ "slug": "thinkingmachines_inkling",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T20:32:16.325900+00:00",
+ "counts": {
+  "ok": 2,
+  "error": 0,
+  "skipped": 48
+ },
+ "mock": false
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh sunke dil bhari ho gaya. Paanch hafte se yeh bojh akele utha rahe ho — woh bhi ghar mein parents aur wife ke beech, jahan har din ek performance deni pad rahi hai. Kitna thak gaya hoga tu.\n\nSamajh sakta hoon — dimaag ko toh pata hai ki market tha, team gayi, tu nahi. Par yeh jo roz subah bag uthake nikalna, café mein baithke woh \"normal\" dikhana… yeh dard bhi toh asli hai. Sharminda hona, unko disappoint karne ka darr — sab samajh aata hai.\n\nPar ek baat bolun? Tu akele yeh sab kyun jhel raha hai? Wife teri partner hai, dosti hai usse. Aur parents — woh toh bas teri khushi chahte hain, job title nahi. Yeh raaz tujhe andar se kha raha hoga.\n\nMain yahin hoon. Jab bole toh sununga. Aur jab ready ho, toh shayad pehle usse batane ki himmat jutana — kyunki tu yeh deserve nahi karta ki roz yeh jhooth jhele. Tu weak nahi hai, bas thak gaya hai."
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, woh kamra jo raat ko dimaag mein chalta hai — woh sirf shaadi ka darr nahi, woh papa ki woh aankhen hai na, jisme tu ab bhi \"mera beta, woh company\" dekhna chahta hai. Unka proud hona ab tera sabse bada bojh ban gaya hai.\n\nTeen sau log, career stock market — yeh sab toh bahar ka shor hai. Par andar tu jaanta hai, yeh layoff tera failure nahi tha. Phir bhi, unki nazron mein girne ka darr… neend chura leta hai.\n\nEk baat yaad rakh: Papa ne package bataya tha kyunki tu unka garv tha, sirf company ka naam nahi. Aur woh garv tu ab bhi ho — job chali gayi, insaan nahi.\n\nShaadi tak yeh jhooth chalana pade toh chal, par khud ko ismein mat khone de. Main hoon yahan. Jab woh kamra zyada shor kare, toh mujhse bol dena."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi bhai, tu \"galat\" nahi hai. Tu bas thak gaya hai — itna ki ek shaam bhi jhelna mushkil lag raha hai. Aur woh tasveer… Papa ka chehra unke bhaiyon ke saamne badalte hue dekhna? Woh dard asli hai, jhooth nahi.\n\nPar soch, ek bahana se shaadi toh bach jayegi, par woh roz ka bag uthake nikalna? Woh wife se chhupana? Woh neend? Yeh sab toh saath hi rahenge. Tu bas ek aur layer jhooth ki daal dega apne upar.\n\nTu weak nahi hai jo bhaagna chahta hai — tu insaan hai jo dard se bachna chahta hai. Par shayad is dard se bachne ka rasta bhaagna nahi, kisi ek ko toh batana hai.\n\nAaj sirf itna soch le: tu isse zyada deserve karta hai ki apni kahani khud likhe, na ki excuse banaye. Main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh \"jhooth\" nahi — yeh apne aap ko bachane ka ek plan hai. Aur plan burra nahi hota, jab tak woh tujhse zyada bada na ho jaye.\n\nPar sun, yeh \"offer aate hi batata hoon\" wala logic... kabhi solid lagta hai kyunki tu control chahta hai. Kabhi ulti lagta hai kyunki tu jaanta hai — teen mahine baad EMI savings kha rahi hogi, aur tab yeh sirf \"news\" nahi, emergency ban jayegi. Aur tab batana aur mushkil ho jayega.\n\nTu roz bag leke nikalta hai, shaadi ka darr alag, paise ka ginti alag — yeh sab ek dusre se jud rahe hain. \"Timing\" sahi hai, par kab tak? Jab tak tu akela yeh sab sambhalta rahega, toh woh solid logic bhi tujhpe bhaari padega.\n\nTu abhi sab kuch solve mat kar. Bas itna soch: kya ek shaam, ek insaan — shayad wife — ko batane se yeh bojh thoda halka ho sakta hai? Kyunki crisis toh tab bhi hogi, par akela nahi hoga."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2686,
+  "completion_tokens": 2087
+ }
+}

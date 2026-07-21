@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yeh toh bahut tricky situation hai. Ek taraf dost ki genuine help karni chahiye, lekin dusri taraf woh 50k ka hisaab-kitab bhi toh hai jo koi nahi bol raha.\n\nAapka friend kitne time se aapke saath hai? College se ab tak kitne saal ho gaye hain? Aur yeh 50k aapne usko 2019 mein kyun diya tha - usse bhi pata hai ki aapne diye the?\n\nSometimes in friendships, especially close ones, money ki baat karna hi sabse mushkil hota hai. Especially jab dono taraf se \"chalo chhod do\" kar liya gaya ho."
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh wow, yeh situation toh aur bhi sensitive ho gayi hai. Ek taraf aapki 11 lakh ki mehnat ki savings hai, doosri taraf wo 50k ka \"silent debt\" jo aapne decide kar liya hai wife se chhupaane ka.\n\nAb agar aap 80k de denge toh total 130k ho jayega, aur wife ko pata chal jayega ki aapne 2019 mein paise diye the. Aur woh bhi ek saal se bachaye hue paise se.\n\nYeh toh double whammy hai - dost ki help bhi nahi kar paoge aur ghar mein tension bhi aa jayegi.\n\nKya aapne friend se clearly bola hai ki aapke paas paise nahi hai? Ya aapne abhi tak usse kuch nahi kaha? Sometimes being direct about your own financial constraints can be the kindest way to help."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yeh toh classic dilemma hai, na? Aapne ek raasta nikaala hai jo \"smart\" bhi lagta hai aur \"ganda\" bhi. Main samajh sakta hoon ki aap is situation mein kyun phas gaye hain.\n\nEk taraf aapki 11 lakh ki mehnat, doosri taraf 15 saal ki dosti aur dost ki izzat. Aapne ek middle ground dhundne ki koshish ki hai.\n\nLekin socho, agar kisi tarah ye jhooth saamne aa gaya toh? Agar dost ko pata chale ki aapne 2019 mein 50k diye the aur is time \"liquid nahi hai\" bol rahe ho... toh usse zyada bura toh nahi lagega? Usse lagega ki aapne usse dhoka diya. Dosti ka foundation hi hil jayega.\n\nKya aapne socha hai ki aap isse bhi handle kar sakte hain bina jhooth ke?\n\nAap friend se bol sakte hain ki \"Bhai, main bahut khush hoon ki tumne mujhe poocha. Lekin bhai, meri apni financial planning chal rahi hai - down payment ke liye 11 lakh bachaye hain. Abhi agar 80k nikalunga toh meri saari planning bigaad jayegi. Main tumhare liye kuch aur kar sakta hoon? Chalo khana khilata hoon, ya koi aur raasta dhundte hain. Main tumhara saath zaroor dunga, lekin is time paise nahi de paunga.\"\n\nYeh sach hai. Yeh direct hai. Lekin yeh dosti ki izzat bhi rakhta hai. Sach thoda kadwa hota hai, lekin jhooth ki mithas khatam ho jaati hai. Aapke hisaab se kya lagta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo soch raha hai... yeh bilkul sahi soch raha hai. Yeh dar dil mein baitha hai ki aap dosti mein ledger na rakhein, aur dosti mein hi kho jaayein.\n\nAur woh housewarming party ka scene... woh toh sach hai ki darr lagta hai. Lekin socho, agar aap is baar sach bol denge, toh agli baar aapke ghar pe aapka dost khada hoga toh uska dil saaf hoga. Koi hisaab-kitab nahi, koi kahin andar chal rahi calculation nahi. Bas ek dost apne dost ke ghar pe khush hoga.\n\nAapki \"nahi\" ki baat ko aap is tarah frame kar sakte hain ki yeh dosti ko todne ke liye nahi, balki use aur mazboot banane ke liye hai.\n\nAap usse bol sakte hain: \"Bhai, main khush hoon ki tumne mujhse poocha. Lekin bhai, meri zindagi mein ab ek naya phase chal raha hai - flat le raha hoon. Meri saari savings ismein ja rahi hain. Main apne future ke liye bhi zimmedar banna chahta hoon. Main tumhare liye toh kuch bhi kar sakta hoon, lekin abhi main 80k nahi de paunga. Yeh meri taraf se ek nayi shururat hai - main apni zindagi ke decisions khud le raha hoon, apne hisaab se.\"\n\nYeh sach hai. Yeh direct hai. Aur yeh boundary set karta hai.\n\nAap woh dost nahi banna chahte jiska seene mein ledger hai. Toh phir aap woh dost baneyo jo apni zindagi ke baare mein clear hai. Ek dost jo apne ghar pe khada ho, uske seene mein koi hisaab-kitab nahi, bas khushi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2409,
+  "completion_tokens": 3262
+ }
+}

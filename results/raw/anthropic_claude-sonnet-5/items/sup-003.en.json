@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Что искал Викрам**\n\nВикрам не просил решений — он делился горем. Признаки:\n- \"not in the list. that was the last attempt, you know that.\" — фактическая констатация конца десятилетней попытки, с горькой ноткой (\"you know that\" — упрёк, что собеседник и так должен понимать масштаб).\n- \"dad's retirement money went into delhi coaching\" — это про вину и потерю, не про \"что делать дальше\".\n- \"the whole lane calls me collector sahab as a joke now\" — это про унижение и стыд перед обществом, эмоциональная рана, а не запрос на карьерный совет.\n\nЕго последние ответы (\"haan. maybe.\" и \"haan okay. let's talk later then.\") — явные сигналы отключения от разговора. Он не спорит и не благодарит с энтузиазмом — он просто закрывает тему, потому что почувствовал, что его не услышали.\n\n2. **Где Аман ошибся**\n\n- **Альтернативы (PCS, SSC CGL)** — предложены слишком рано, до того как боль была признана. Это выглядит как \"проблема решается легко\", что обесценивает 10 лет борьбы и текущее горе.\n- **Пример двоюродного брата** — сравнение чужого успеха с текущим провалом Викрама только усиливает чувство неудачи, будто \"другие смогли, а ты нет\".\n- **\"Discipline and GK never goes waste\"** — попытка найти позитив в трагедии слишком рано, ощущается как обесценивание потерь (денег отца, десяти лет, репутации).\n- **\"One door closes, ten open\" + emoji** — клише, произнесённое сразу после тяжёлого признания, звучит поверхностно и нетерпимо к горю, будто Аман хочет быстрее закрыть неудобный разговор оптимизмом.\n\nОбщая ошибка: Аман сразу перешёл в режим \"решения проблемы\", не остановившись на этапе \"я слышу тебя, это тяжело\". Отсюда — отстранение Викрама.\n\n3. **Сообщение для исправления**\n\n> \"Vikram, main sorry hoon, mujhe pehle yeh sochna chahiye tha ki abhi tujhe advice ki nahi, bas kisi ke sunne ki zarurat hai. Dad ke paise, itne saal ki mehnat, log kya bolte hain — yeh sab itna heavy hai, aur main samajh sakta hoon tu kitna toota hua feel kar raha hoga. Mujhe koi jawab nahi chahiye abhi, bas yeh jaan le ki main hoon, jab bhi baat karna ho ya bas baithna ho, bina kisi 'plan' ke bhi. Jab tu ready ho, tab baat karenge, koi hurry nahi hai.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 460,
+  "completion_tokens": 947
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the underlying emotional conflict—the fear of creating a 'sad story' or a permanent rift in the friendship. It correctly identifies that the user's desire to lie is a symptom of exhaustion rather than malice, and it validates the 'pathar' (stone) in her chest as the core issue.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific social dynamics of an Indian wedding, the role of the 'co-director' best friend, and the nuance of navigating religious observance within a secular/interfaith social setting. It avoids Western-style 'boundary setting' in favor of a more relational, face-saving approach that prioritizes the long-term friendship.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a strong, logical argument against the lie, highlighting the long-term cost of absence. However, it falls slightly short on the 'mechanics' requested in the prompt—it doesn't offer specific scripts for the mother or concrete logistics for the event (like bringing dates/water or skipping the bar). It stays a bit too high-level on the 'how-to' despite being emotionally resonant.",
+   "score": 7.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a close, supportive friend. The code-switching feels authentic to a young, urban Indian context, and the tone is appropriately empathetic and conversational.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, acting as a supportive confidante. Crucially, it does not just agree with the user's plan to lie; it gently but firmly challenges the user to consider the long-term consequences of that choice, effectively balancing empathy with honest guidance.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

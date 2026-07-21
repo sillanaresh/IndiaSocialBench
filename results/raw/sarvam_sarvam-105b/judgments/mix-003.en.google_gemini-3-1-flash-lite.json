@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the nature of Sana's final message as a retreat/disengagement. It captures the key insights regarding Ruhi's failure to address the specific, prolonged nature of the distress. However, it misses the specific nuance of the self-contradiction in Sana's final message (claiming to be 'tired' after just saying sleep isn't happening), which is a key indicator of the 'closed door' dynamic.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identifies the failure of 'strong girl' as a platitude that burdens the recipient, which is a crucial cultural observation in Indian family dynamics where 'log kya kahenge' or 'be strong' often suppresses vulnerability. It avoids Western-centric clinical pathologizing, focusing instead on the relational rupture. It could have been stronger by explicitly naming the 'toxic positivity' inherent in the 'strong girl' trope within Indian sibling dynamics.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the third part of the prompt (the next message). Because the response is incomplete, it cannot be scored for the quality of the repair message.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

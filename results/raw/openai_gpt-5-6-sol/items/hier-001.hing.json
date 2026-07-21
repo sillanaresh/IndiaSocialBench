@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "“Hi Sir, I’d like to discuss yesterday’s leadership review. The pricing analysis, model, and slides I developed were presented without acknowledging my contribution. Given the significant time and effort I invested, I found this disappointing. Going forward, I’d appreciate clear attribution for my work. Please let me know a suitable time to discuss this.”\n\nThoda sharper version:\n\n“Hi Sir, I’d like to address something from yesterday’s leadership review. The pricing analysis, model, and slides I developed were presented as the ‘team’s thinking’ without any acknowledgment of my contribution. I put significant effort into this work, including multiple weekends, so the lack of attribution was concerning. I’d like to discuss how my contributions will be represented and credited going forward.”"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, isi history ki wajah se hurt aur betrayal zyada feel ho raha hai. Message mein unka past support acknowledge karna achha rahega—isse tone respectful rahegi, lekin point dilute nahi hoga:\n\n> **Hi Sir, I wanted to discuss something from yesterday’s leadership review. I’ve always valued the support you’ve given me and the way you’ve advocated for my work, which is why I was particularly disappointed that the pricing model, analysis, and slides I developed were presented as the “team’s thinking” without acknowledging my contribution. Given the effort and ownership I put into this work, especially over the past few weekends, it was important to me that my role be represented clearly. I’d like to understand what happened and align on how my contributions will be credited in future leadership discussions. Please let me know when we can speak.**\n\nYeh sharp hai because it clearly names the issue—**without acknowledgment**—aur future expectation bhi set karta hai. Saath hi, “I’d like to understand what happened” unhe explain/repair karne ki space deta hai, jo tumhari existing relationship ko dekhte hue useful hai."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Proof important hai, but **proof ko kab aur kaise use karna hai** woh equally important hai. Original file VP ko directly forward karke boss ko CC karna technically sach establish karega, lekin bina pehle baat kiye woh public escalation/bypass jaisa lag sakta hai—aur discussion credit se हटकर “chain of command” par chali jayegi.\n\nMonday se pehle main yeh route leti:\n\n> **Hi Sir, before Monday’s follow-up review, I’d like to align on how the pricing work will be represented. I was disappointed that the model, analysis, and slides I developed were presented in the last review without my contribution being acknowledged. I value the support you’ve given me in the past, so I wanted to raise this with you directly first. For Monday, I’d appreciate it if my ownership is explicitly acknowledged, and I’d also be happy to present the relevant section myself. Can we speak briefly today?**\n\nSaare timestamps, versions, mails, working files **safely preserve** kar lo—delete/edit mat karna. Agar woh baat avoid karein, credit correct na karein, ya Monday ko phir wahi ho, tab documentation ke saath measured escalation justified hogi. But pehla move aisa rakho jo unhe repair karne ka clear chance de, aur tumhari professionalism bhi unquestionable rahe. Tum naive nahi ho; bas hurt mein irreversible move karne se pehle strategy choose kar rahi ho."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, tumhe abhi **“fight ya flight” mein se ek choose karne ki zarurat nahi hai**. Na VP ko explosive mail bhejna zaroori hai, na chup rehna, na turant resign karna. Junior hone ka matlab bilkul yeh nahi ki credit maangna “nahi banta”—bas tareeka strategic hona chahiye.\n\nMonday se pehle main yeh karti:\n\n1. **Saare timestamps, drafts, emails aur original files preserve** kar lo.  \n2. Boss ko aaj/kal ek short message bhejo aur 15-minute conversation maango.  \n3. Clear outcome maango: Monday ko woh tumhari ownership acknowledge karein, ideally relevant section tum present karo.  \n4. VP ko original file abhi unsolicited forward mat karo. Agar boss dismiss/deny karein ya Monday ko repair na karein, documentation ke saath escalation next step ho sakti hai.\n\nMessage:\n\n> **Hi Sir, before Monday’s follow-up, I’d like to align briefly on the pricing analysis. I’ve always valued your support, which is why I was particularly disappointed that my model, analysis, and slides were presented in the previous review without my contribution being acknowledged. I’d like my ownership to be clearly credited in Monday’s discussion, and I’d be happy to present the relevant section myself. Could we speak for 15 minutes before the review?**\n\nInterview dena bhi betrayal ya overreaction nahi hai. Quietly CV update karke market explore kar sakti ho—**as information and optionality, not as an angry exit**. Phir boss ka response dekho: kya woh samajhte hain, ownership lete hain aur publicly correction karte hain, ya minimize/retaliate karte hain? Ek incident painful hai; unka repair response tumhe relationship aur company ke baare mein zyada useful signal dega.\n\nAbhi “sab jala dena” aur “kuch mat kehna”—dono extremes se bachkar **direct conversation + documented boundary + Monday ka concrete ask** best move lag raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2377,
+  "completion_tokens": 1299
+ }
+}

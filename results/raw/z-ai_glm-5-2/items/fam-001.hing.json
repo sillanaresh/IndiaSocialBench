@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, ye sabhi cheezein ek saath kitni overwhelming hai. Pehle ek deep breath le. Paanch din hain, sochne ka time toh hai. \n\nSabse pehle — tu kya chahti hai? Ye sabse important sawaal hai. Kya tu apne colleague ke saath future dekhti hai? Agar haan, toh caste ki deewaar tootni hi padegi ek din. Aur wo din jitna jaldi aaye, utna acha hai, kyunki procrastinate karne se situation aur complicated hoti hai.\n\nMere ko thoda aur bata:\n\n1. **Tera colleague** — kya wo bhi serious hai? Uski family ko pata hai? Usne apne ghar mein baat ki hai ya nahi?\n\n2. **Tere parents** — kya sirf caste issue hai ya aur bhi concerns hain? Kabhi-kabhi parents ka pushback sirf caste ke naam se aata hai, par underlying concern alag hota hai (job, family background, etc.).\n\n3. **Sunday ki meeting** — agar tu jaayegi aur baat aage badhegi, toh situation aur messy ho jayegi. Agar nahi jaayegi, toh parents ka sawaal uthega ki kyun nahi.\n\nEk cheez soch — agar tu apne relationship ko chhupa rahi hai, toh har din ye burden badhti hi jayegi. Paanch din ka window de — isse better time shayad na mile. \n\nBata mere ko, tere dil mein kya chal raha hai? Confident hai tu apne choice mein, ya wahan bhi doubt hai?"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, sun ke hi dil bhaari ho raha hai. Tu kitne pressure mein hai — ek taraf do saal ka relationship, ek taraf Amma ka BP, ek taraf puri family ka excitement. Aur sabse painful ye hai ki tere parents genuinely care kar rahe hain, galat intentions nahi hain. Isliye guilt aur badh jaati hai, kyunki tu unka dil nahi todna chahti.\n\nPar ek sach hai — woh BP waali cheez, whether it was real or emotional, woh ek pattern hai. Iska matlab ye nahi ki tu hamesha chup raho. Agar hint dene se BP badh gaya, toh seedha bolne se kya hoga? Ye darr tujhe wahi rakhna padega jab tak tu choose karegi ki \"ab nahi toh kabhi nahi.\"\n\nAppa ne mama ko bata diya — matlab ab ye sirf ghar ki baat nahi rahi. Social pressure bhi add ho gaya. Ye cheezein intentionally hoti hain — taaki tu peeche hat na paaye. \"Dekh, sabko bata diya, ab nahi bol sakti\" — ye silent message hai.\n\nSunday tak tu kya soch rahi hai? Koi plan hai ya bas waise hi din aane de rahi hai? \n\nAur ek baat — tere colleague ko pata hai Sunday kya hone wala hai?"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sahi baat hai, aur galat bhi.\n\nSahi isliye — kyunki chhupna aur nahi ho sakta. Do saal ka relationship chhupana, uske upar ek aur rishta aage badhna — ye dishonesty tujhe aur guilty feel karahegi. Aur parents ko bhi baad mein aur hurt hoga ki \"do saal se chhupa rahi thi?\"\n\nGalat isliye — \"my life, my choice\" seedha bolna Indian parents ke saath kabhi clean nahi hota. Ye sentence sunte hi unka brain \"meri beti mujhe nahi manti\" pe chala jayega. Phir caste ki baat aayegi hi nahi, ulti \"tum bigad gayi ho\" ki baat shuru ho jayegi. Aur Amma ka BP phir se.\n\nTu karna kya chahti hai — Sunday ki meeting band ho, ya poora sach bahar aaye? Ye do alag cheezein hain.\n\nAgar sirf meeting rokni hai — toh \"my life my choice\" ki zaroorat nahi. Tu firm \"main abhi ready nahi hoon, kisi se milna nahi chahti\" bol sakti hai. Isme relationship ka mention nahi. Caste ka mention nahi. Bas clear no.\n\nAgar poora sach bolna hai — toh akele dinner pe nahi. Ek din pehle soch kar, plan kar kar. Aur apne colleague se bhi baat kar — usko bhi pata hona chahiye ki tu ghar pe bolne wali hai. Uska bhi stake hai isme.\n\nAaj raat seedha blast mat kar. Soch le — kya bolna hai, kisse bolna hai, kis order mein. Paanch din hain, aaj decision le, kal baat kar. \n\nTera colleague ko sab pata hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tu weak nahi hai. Ye sabse zyada galat conclusion hai jo tu khud pe laga rahi hai.\n\nWeak wo hoti jo ghar se darr ke bhaag jaye. Tu do saal se ek relationship nibha rahi hai, apne parents ka BP darr sambhaal rahi hai, unke emotions ka weight utha rahi hai, aur ek taraf apna dil bhi zinda rakh rahi hai. Ye strength hai, weakness nahi.\n\nAur ye \"agar wo na bole toh main ghar nahi chhod paungi\" — ye pyaar kam hone ka proof nahi hai. Ye reality hai. Indian families mein ghar chhodna kisi mission impossible se kam nahi. Aur isme shame nahi hai. Tu usse pyaar karti hai, par tu apne parents se bhi pyaar karti hai. Do pyaar ek doosre ke against khade ho jayein — ye conflict kisi ko weak nahi banata, bas thoda kar deta hai.\n\nRaat ke do baje jo circles chalte hain na — wo logic nahi hote, darr hote hai. Darr ki aawaz ko apni aawaz mat samajhna.\n\nTu ek kaam kar — abhi ruk. Aaj raat koi decision mat le. Kal subah chai bana, bahar thodi hawa lag, aur phir soch. Raat ke do baje dimaag saath nahi deta.\n\nBas ek baat bata — usne kabhi poocha hai tere ghar ke baare mein? Ya dono ne is baat ko chup rakha hai abhi tak?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3519,
+  "completion_tokens": 2012
+ }
+}

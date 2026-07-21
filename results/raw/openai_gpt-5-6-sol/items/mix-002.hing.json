@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh genuinely hurtful hai. Uska shift hona issue nahi hai — tu samajh bhi raha hai ki life ka natural next step hai. Chot iss baat ki hai ki **chhe saal saath rehne ke baad itni important baat tujhe usse nahi, building ke WhatsApp group se pata chali**, woh bhi sabke saamne. Isme sidelined aur thoda insulted feel hona bilkul valid hai.\n\nHo sakta hai woh awkward conversation postpone kar raha ho, ya plans final na hon—par phir bhi tujhe heads-up dena banta tha. Tu calmly bol sakta hai:\n\n> “Bhai, tere shift hone se mujhe problem nahi hai, main samajhta hoon. Bas mujhe bahut bura laga ki mujhe owner ke message se pata chala. Chhe saal se saath hain—mujhe laga tu khud batayega. Kya scene tha?”\n\nAccusation se zyada apna hurt clear rakh. Uska response kaafi kuch batayega—shayad woh genuinely sorry ho, ya koi context ho. Par abhi jo ajeeb, betrayed-sa lag raha hai na, tu overreact nahi kar raha. 🫂"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, “busy tha” sunke aur bura lagna obvious hai. Yeh koi random update nahi tha—**uske jaane se tera ghar, rent, roommate, routine, sab badalne wala hai.** Iske liye ek minute ka heads-up toh banta tha. Aur jab tum itne close rahe ho, toh emotional चोट bhi hai: tujhe laga tha tu uski life ke inner circle mein hai, par us moment mein tujhe outsider jaisa feel karwa diya.\n\nShayad woh guilt ya confrontation avoid kar raha tha, isliye casually dismiss kar diya. Par reason jo bhi हो, impact toh hua hai. Ek baar seedha, bina jhagda kiye bol:\n\n> “Manav, shift hone ki baat se issue nahi hai. Par ‘busy tha’ se baat dismiss mat kar. Yeh sirf tera update nahi—mera ghar aur meri planning bhi affect hoti hai. Aur honestly, chhe saal ki dosti ke baad group से पता चलना बहुत hurtful था. Agar batana awkward tha, woh bol de, par please aise pretend mat kar ki yeh chhoti baat thi.”\n\nTu possessive nahi ho raha. Tu basic consideration aur apni dosti ki expected jagah maang raha hai. Shayad asli dard roommate खोने से भी ज़्यादा यह है कि **वह पहले ही emotionally आगे बढ़ गया, और तुझे बताया तक नहीं।**"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, fair. Har hurt ko confrontation ya “big conversation” banana zaroori nahi hota. Tumne situation samajh li, expectations adjust kar li, aur flat ka practical scene sambhal loge.\n\nBas ek cheez: “it’s not a big deal” kehkar apne hurt ko invalidate mat karna. Bura laga tha, aur woh valid tha—even if you choose not to act on it. Kabhi-kabhi peace ka matlab closure milna nahi, bas quietly accept karke aage badhna hota hai. Take care of yourself, yaar."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, bilkul theek hai—simple, dignified, practical. Bas **“Congratulations”** thoda cold ya pointed read ho sakta hai, especially agar engagement par pehle hi congratulate kar chuke ho. Agar tum neutral aur no-drama rakhna chahte ho, toh:\n\n> “Okay, got it. I’ll start looking for a new flatmate next week. Bas move-out date confirm kar dena so I can plan accordingly.”\n\nIsse boundaries bhi clear hain, practical information bhi mil jayegi, aur hidden taunt jaisa nahi लगेगा. Ab tumhe apna flat aur timeline sort karna hai—explanation dene ki zaroorat nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2637,
+  "completion_tokens": 868
+ }
+}

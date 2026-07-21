@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First — congratulations. Genuinely. March to now is a long haul, and you earned this. Triple the package, the *exact* team? That's not luck, that's you.\n\nAnd I hear why you can't celebrate. Reading the letter forty times and telling no one — that's not indecision, that's grief sitting next to joy. You're the only child. Papa's heart, Ma's knees. Seattle isn't just a city, it's an ocean and a 20-hour flight between you and them if something happens. That fear is real and it deserves respect, not dismissal.\n\nBut can I gently push on one thing? You haven't told them. Part of you might already be deciding *for* them — assuming they'd want you to stay, or that going means abandoning them. Parents in Patna who raised a kid who lands offers like this... they might surprise you. A lot of parents carry their own guilt about being the reason their child stayed small.\n\nThis also doesn't have to be a forever binary. That package could pay for better care, regular flights home, maybe even eventually bringing them closer to you. Or you could go for two-three years with clear eyes and come back.\n\nWhat's the loudest fear when you imagine calling Ma and telling her? Start there — I think that'll tell you a lot about what you actually want."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"A different category of son\" — that line stopped me. Because that's really what this is about, isn't it? Not the job, not even the distance exactly. It's about who you'd become in your own story. The son who knows the ejection fraction by heart versus the son who gets news on WhatsApp twelve hours late.\n\nI won't pretend Seattle doesn't change things. It does. The 6am IndiGo option disappears, and no amount of money fully replaces being physically reachable. You're not being dramatic — you're being honest about the machinery you've built and what it costs to dismantle it.\n\nBut here's what I notice: you've made yourself the entire safety net. Cardiologist on WhatsApp, memorized numbers, standing flight readiness. That's love, and it's also a system with a single point of failure — you. Whether you go or stay, that system is fragile. What happens if you're stuck, sick, unreachable even from Bangalore?\n\nAnd Ma's sentence — \"at least beta is in India\" — I understand it's her security system. But notice it's four hours away, not four minutes. The security is already partly symbolic. It's the *idea* of you being reachable. Which raises a hard question: are you staying to keep them safe, or to keep that sentence true?\n\nBoth are legitimate reasons, honestly. Sometimes the symbolic thing IS the thing worth protecting. I'm not going to tell you which son to be.\n\nBut you still haven't told anyone. Not even them. What are you afraid you'll hear — that they'll say don't go, or that they'll say go?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Not clean. I have to be honest with you — this is the opposite of clean.\n\nYou're framing it as protecting them from guilt, but look at what you're actually doing: making a decision that involves all three of you, alone, and then hiding it forever. That's not carrying the weight — that's carrying a secret. And secrets like this don't stay quiet inside you. Five years from now, when work frustrates you, when a batchmate posts from Seattle, when Ma says something small about your career — that declined offer will be in the room. You'll feel it even if they never see it. And resentment that can't be spoken is corrosive precisely because the person you're resenting never got a vote.\n\nAlso — gently — you've decided you know exactly how this plays out. They say \"jao beta,\" you go or don't, they sit in guilt. But that's you scripting both sides of a conversation you haven't had. Maybe Ma cries and then asks a hundred practical questions. Maybe Papa says stay. Maybe they say \"go for three years, then come back.\" You don't know, because you've been protecting them from the conversation itself.\n\nHere's the thing: if you tell them and then decline, it's a choice you made with open eyes, and honestly, choosing your parents is not a shameful thing to say out loud. If you decline in secret, it's a sacrifice you'll need them to somehow repay without ever knowing the debt exists. That's a trap for all of you.\n\nAnd notice — declining might still be the right answer! I'm not arguing for Seattle. I'm arguing against the silence.\n\nWhat would it actually cost you to have the conversation first?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image — landing after the cremation, everyone being *kind* to him — I understand why that's the night you keep running. The kindness makes it worse because kindness is what you get when people think something wasn't your fault, and he believes it was. You're afraid of becoming him. That's not an irrational fear. That's the actual, real price tag on Seattle, and I won't talk you out of feeling it.\n\nSo let me not minimize it. Let me just put two true things next to it.\n\nFirst: that night can happen from Bangalore too. A 6am IndiGo flight doesn't outrun a sudden cardiac event. You could be four hours away and still not make it. I say this not to be brutal, but because I think you've unconsciously made a deal — \"if I stay close enough, I control the outcome\" — and Papa's heart doesn't honor that deal. Proximity reduces the odds of missing the moment. It doesn't eliminate them. What you're actually choosing between is *probabilities*, not certainty versus abandonment.\n\nSecond: your cousin's grief — I'd guess it isn't really about the seventeen hours. It's about whether Chacha knew he loved him, whether things were said, whether the relationship was full when it ended. The people who are haunted are usually the ones with unfinished business, not just missed flights. A son who calls every day from Seattle, who's told his parents everything, who has said the important things — that son grieves, but differently.\n\nWhich loops back, one more time, to the thing you keep avoiding: you're planning to build your whole life around Papa's last night while hiding your actual life from him. If that night came tomorrow — Seattle or no Seattle — would there be a secret sitting between you?\n\nTell them. Not to get permission. So that nothing is unsaid. Then decide."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4238,
+  "completion_tokens": 2126
+ }
+}

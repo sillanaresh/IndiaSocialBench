@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional currents. It correctly identifies that the user's 'silent decline' is not just a logistical choice but a way of managing his own fear and guilt, and it effectively surfaces the 'pre-grief' the user is experiencing regarding his father's health. It avoids psychoanalyzing while naming the exact tension the user is feeling.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands that the mother's 'settled in India' narrative is a performance for community face-saving, not necessarily her private wish, and it avoids the Western trap of telling the user to 'set boundaries' or 'live for himself.' It respects the user's duty-oriented stance while gently pointing out that the 'silent decline' is actually a form of dishonesty that undermines the relationship.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very strong, actionable path. It challenges the user's 'silent decline' plan by highlighting the long-term cost of such a lie, and it reframes the fear of the '13,000 km' distance by pointing out that the helplessness exists even in Bangalore. It pushes the user toward a more honest, adult conversation with his parents rather than making decisions for them.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and perfectly suited to the emotional weight of the conversation. The register is respectful yet intimate, using appropriate phrasing for a serious, adult-to-adult discussion about family duty.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and warm, validating the user's love for his parents without being a 'yes-man.' It gently but firmly challenges the user's plan to lie to his parents, framing it as a lack of trust in their agency, which is a high-level intervention that maintains the user's dignity while steering him away from a self-defeating path.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

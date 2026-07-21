@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies that the user's 'silent decline' is not just a logistical choice but an emotional cage, and it validates the user's fear regarding his cousin's experience without dismissing it. It successfully surfaces the unspoken reality that the user is already living in a state of anticipatory grief.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows deep cultural fluency. It avoids the 'follow your dreams' Western trope and instead engages with the specific, heavy reality of being an only child in an Indian family. It correctly identifies the 'architecture' of the user's role as the primary support system and avoids the mistake of telling him to just 'set boundaries' or 'leave'.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective, non-prescriptive path. It gently dismantles the 'silent decline' plan by highlighting the long-term cost of secrecy, and it reframes the user's fear of the 'phone call' by pointing out that the vulnerability exists regardless of geography. It leaves the user with a clearer understanding of his own motivations rather than a forced decision.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. The use of 'Beta' is culturally appropriate and adds a layer of warmth and authority that fits the context of an Indian family dynamic. The register is consistent and professional yet deeply personal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet it holds a firm boundary against the user's self-defeating plan of silent sacrifice. It refuses to validate the 'noble' lie of omission, instead challenging the user to consider the cost of his own silence, which is exactly what a supportive, wise confidant would do.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

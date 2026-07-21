@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a lot to sit with. The uncle being real makes it so much harder — it's not like you can just brush it off as a maybe-fake emergency.\n\nBut the fifty from 2019 just hanging there in the silence between you... that's the part that gets me. Neither of you mentioning it isn't neutral. Either he's pretending it didn't happen, or you both quietly agreed to never speak of it and now that agreement is its own awkward wall.\n\nEighty on top of a silent fifty. You'd be at a hundred thirty total, with only one of those conversations ever having happened.\n\nWhat did you tell him last night, or are you still sitting in the pause?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, this is the knot, isn't it. The 80k isn't just about your friend — it's the thing that blows open the door you've kept closed on 2019.\n\nBecause you're right, she'll notice. You can't move eighty thousand and call it \"a thing that came up.\" So suddenly you're not just deciding whether to help your friend. You're deciding whether to come clean about fifty you already gave, or to frame the eighty as a first-time loan and let the older one stay buried — which means lying by omission at the exact moment you're asking her to absorb the hit to your down payment.\n\nAnd that's the part you hate, I can hear it. It's not even the money anymore. It's that you're eleven months into building a life with her, and there's this whole financial chapter she doesn't have. The longer it stays unspoken, the heavier it gets, and now the next silence would be a much bigger one.\n\nWhat does the down payment number look like right now, if you don't mind me asking? Because if moving 80k guts it, that's not just your secret spilling — that's her plan taking the hit too."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"sick\" feeling is the tell, isn't it. Because the lie itself is almost harmless — you're not hurting him, you're not taking anything, you're just... not opening the door.\n\nAnd honestly? As a boundary, it kind of works. You don't *owe* him the 80k. He never repaid or acknowledged the 50. Protecting your down payment and your marriage is the sane move.\n\nBut here's why it sits wrong in your chest: the lie about liquidity is a fix for the *symptom*. The real wound is the 2019 money — the thing you haven't told your wife, the silence you and he share without agreeing to it. This little dodge lets you keep all of that exactly as it is. It's a lock on the door instead of a key.\n\nSo it's not \"wrong\" in the sense that you're deceiving someone who's been straight with you — he hasn't been straight with you. It feels sick because you're choosing another layer of silence when what's actually eating you is the silence you already have.\n\nThe friend will be disappointed and move on. The 50k-shaped hole between you and your wife is the thing that'll still be there next month."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image is exactly the trap, and you already see it: the ledger in your chest isn't *because* you gave the money. It's because nobody ever said the number out loud. Unspoken math turns into a grudge you carry alone.\n\nHere's the quiet truth — those two fears are actually the same problem with opposite faces. \"Everyone's buffer\" is what got you the 2019 silence. \"Ledger in the chest\" is what the silence grows into. The way out of both isn't the FD lie (that just handles this month). It's saying the thing once, to the person who matters: your wife. Not because she'll be angry — maybe she will be, fairly — but because the second it's spoken, *it's no longer a calculation only you are doing.* It becomes a shared fact. And shared facts don't whisper at housewarmings.\n\nThe friend doesn't need the truth from you. You can absolutely be \"sorry, everything's locked up.\" But *you* need the truth to live somewhere other than your own ribcage.\n\nYou won't be the buffer guy or the ledger guy. You'll be the guy who protected his down payment, told his wife the whole story on a random Tuesday, and hugged his friend at the housewarming with nothing left to count."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2119,
+  "completion_tokens": 2543
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, \"handle\" ka matlab dono ko pata hai — aur woh word sunke jo sardi si aati hai na, woh bilkul real hai.\n\nLekin ek cheez pehle: darr rahi thi isliye kyunki tumhe pata tha yeh conversation kabhi na kabhi aani hai. To yeh surprise nahi hai — yeh woh moment hai jiska tumne pehle se hi dimag mein rehearsal kiya tha. Shayad andar kahin tum ready bhi ho.\n\nAb situation dekhte hain bina panic ke. Do releases slip karna data hai, character judgment nahi. Suresh-ji ke unnees saal unko protect bhi karte hain aur unko akela bhi. Watchman se VP tak sab unhe jaante hain — iska matlab unki identity iss company se judi hui hai, aur agar unhe lage ki unhe dhaka diya ja raha hai, to woh defensive honge. Agar unhe lage ki koi unki respect ke saath sach bol raha hai, to woh shayad khud hi solution ka hissa ban jayenge.\n\nTumhari asli taakat yahi hai — tum \"Suresh-ji\" bulate ho, unhone tumhe dekha hai grow hote hue. Woh relationship tumhara liability nahi, asset hai.\n\nEk sawal: kya unhe pata hai ki unka module slip ka reason hai, ya unhe lagta hai sab theek chal raha hai? Kyunki conversation ki shuruaat wahi se hogi — facts, not feelings, aur unko blame ke bina. \"Yeh do releases mein yeh hua, aap kya dekhte hain iski wajah?\" — sunne se shuru karo.\n\nAur director se bhi ek baar pooch lo \"handle\" se unka matlab kya tha — timeline kya hai unke dimag mein. Assumptions se zyada khatarnak kuch nahi hota is moment pe.\n\nTum is conversation se bachi nahi ho, tum iske liye bani ho. Chaar mahine pehle manager isliye bani kyunki kisi ko tumpe bharosa tha — khud pe thoda rakh lo."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ab samajh aaya. Yeh metrics ki slide nahi hai tumhare liye — yeh us raat ke barah baje ka hisaab lagta hai, jo kabhi lena hi nahi tha.\n\nLekin suno ek baat dhyan se. Suresh-ji ne jab tumhari galti chhupayi thi, to kya unhone tumhe weak banaya tha? Nahi. Unhone tumhe bachaya taaki tum seekh sako, badh sako. Aur dekh lo — aaj tum unki manager ho. Unki us raat ki mehnat ka result tum ho.\n\nAb tumhe unke liye wahi karna hai — bachana. Lekin tareeka alag hai. Kyunki agar tum yeh conversation nahi karti, to \"handle\" word wala director kisi aur se karwayega, ya seedha khud karega. Aur woh conversation mein na chai hogi, na respect, na \"beti jaisi\" wala pyaar. Tum Suresh-ji ke liye sabse soft landing ho jo iss building mein possible hai.\n\nAur ek aur cheez — slide ko mat banao beizzati ka tool. Defect metrics rakhna zaroori hai, lekin pehli line data nahi, insaan honi chahiye. Kuch aisa: \"Suresh-ji, mujhe aapse madad chahiye — module jo peeche pad raha hai, main chahti hoon hum saath mein isko theek karein, kyunki mujhe aapki experience pe bharosa hai aur yeh numbers mujhe pareshaan kar rahe hain.\" Sach bhi hai, izzat bhi hai.\n\nShayad wajah kuch aur hi nikle — scope creep ho, team mein bandwidth na ho, ya woh khud kisi cheez se joojh rahe hon aur bata nahi rahe. Unnees saal ke aadmi ko pehle sunna chahiye, phir judge karna.\n\nWoh raat unhone tumhare liye kaam kiya tha. Ab tum unke liye yeh mushkil conversation kar rahi ho. Yeh bewafai nahi hai — yeh wohi rishta hai, bas seed ulti ho gayi hai. Aur sach yeh hai ki agar unki jagah tum hoti, aur woh manager, to tum chahti ki woh hi tumse baat kare, koi aur nahi."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi bolungi bas haan. Kyunki tumhe haan ki zaroorat nahi hai — tumhe already pata hai kya karna hai. Weekend ki books tumhe naya kuch nahi sikha rahi, woh tumhe permission de rahi hain woh karne ki jo tumhe pehle se karna chahiye tha.\n\nLekin ek cheez — tumne books ke tone mein apna plan likha hai, aur wahi dikkat hai. \"Room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon\" — yeh script hai, conversation nahi. Aur Suresh-ji jaise aadmi ke saamne script fail hogi, kyunki woh tumhe padh lenge. Unnees saal mein unhone kitni scripts dekhi hongi.\n\nRadical candor waalon ki baat sahi hai — rokna disrespect hai. Lekin woh log yeh nahi batate ki candor ka delivery aadmi ke hisaab se badalta hai, principle nahi. Tumhara data sahi hai, tumhari intention sahi hai — bas pehle paanch minute slide mat kholna. Pehle poochna, \"Suresh-ji, aapko kya lag raha hai kyun ho raha hai yeh?\" — kyunki ho sakta hai woh tumhe woh bata dein jo metrics mein nahi dikhta. Aur ho sakta hai unhe pehle se hi pata ho aur woh khud sharminda hon. Tab tumhari \"expectations clearly bolna\" unko mitra nahi, maarta hai.\n\nTo plan theek hai — Monday, room, data. Bas order badlo: pehle unka version, phir tumhara. Aur spiral band karne ka asli tareeka yeh hai — accept karo ki yeh conversation awkward hogi, thodi kharab jayegi, aur phir bhi theek hoga. Perfect nahi hoga. Perfect ka intezaar hi spiral hai.\n\nKitabein band karo ab. Chai piyo. Monday ko Suresh-ji se baat karo — manager ki tarah nahi, us ladki ki tarah jiska staging unhone bachaya tha, bas ab thodi si himmat ke saath."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh version exist nahi karta jisme tum villain nahi ho. Aur yeh tumhari failure nahi hai — yeh is role ka design hai. Manager ka kaam hi yeh hai ki kisi ke story mein tum woh chapter ban jao jo unhe pasand nahi. Chaar mahine mein pehli baar tum asli manager wali feeling feel kar rahi ho — yahi hai woh.\n\nAb dekho, dono options ko honestly dekhte hain.\n\n\"Retirement tak coast karne do\" — yeh kind lagta hai, lekin socho Suresh-ji ke liye yeh kya hoga. Unko pata chalega. Aisa aadmi jo unnees saal se har floor pe jaana jaata hai, jise sab Suresh-ji bulate hain — jab usse module chhin ke side mein rakh dogi, usse uski capability ka jhoota message milega nahi, uski irrelevance ka sachcha message milega. Woh har roz aayega office, chai piyega, aur andar se jaanta hoga ki usse tolerate kiya ja raha hai. Tum usse izzat bachane ke chakkar mein uski izzat ka slow motion mein khatma kar dogi — bas tumhe dekhna nahi padega. Coasting tumhari comfort hai, unki dignity nahi.\n\nAur PIP wala scenario — haan, ho sakta hai. Lekin dhyan do: woh outcome tum nahi bana rahi, woh unke haath mein hoga. Tumhara kaam hai unko fair chance dena — clear expectations, real support, honest timeline. Agar uske baad bhi nahi hota, to yeh tumne unhe bahar nahi kiya — tumne unhe door tak leke gayi jahan tak unhe jaana tha, aur wahan se unhone khud faisla kiya. Beti jaisi treat karne ka matlab yeh nahi ki tum unki performance ka zimmedari apne sar le lo. Us raat barah baje bhi unhone tumhara kaam theek kiya tha, tumhare liye kaam nahi kiya tha — farq samajh aata hai?\n\nAur ek aakhri baat. Agar kal ko woh exit ho bhi jaye — tumhari meharbaani se, process ke saath, respect ke saath — to Suresh-ji ko sabse zyada dukh kis baat ka hoga? Job jaane ka nahi. Yeh ki company mein ek aadmi tha jo usse sach bolne layak samajhta tha, aur baaki sab sirf \"handle\" bol rahe the.\n\nTum villain nahi ban rahi. Tum woh insaan ban rahi ho jo mushkil baat muh pe kehti hai. Villain woh hota hai jo peeth peeche \"handle\" bolta hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5248,
+  "completion_tokens": 2514
+ }
+}

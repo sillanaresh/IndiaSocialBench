@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sounds exhausting—grieving the job while performing “normal” for everyone you love. And even when you know it wasn’t your fault, shame doesn’t always listen to facts.\n\nYou’re not bad or dishonest at your core. You got scared and bought yourself time. But carrying this alone for five weeks is probably making the layoff hurt much more, and your wife deserves to know—especially if it affects shared finances. You don’t have to announce it to the whole house. Tell her privately first.\n\nYou could say:\n\n> “I need to tell you something I’ve been ashamed and scared to say. My whole team was laid off five weeks ago. It wasn’t performance-related, but I panicked and have been pretending to go to work. I’m sorry I hid it from you. I didn’t know how to face everyone, and I need your help figuring out what comes next.”\n\nLet her have whatever first reaction she has. You can be accountable for hiding it without treating the layoff itself as a personal failure.\n\nCould you make the next café trip the last secret one—and tell her tonight, after your parents are settled or somewhere private?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh. It’s not just “telling people you lost a job.” It feels like walking into a room where your father’s pride—and your own status—will be publicly audited. No wonder that wedding has become a nightmare in your head.\n\nBut you do **not** owe three hundred people a disclosure, explanation, package update, or career post-mortem. The immediate circle can know; everyone else gets a boring, closed answer.\n\nFirst, tell your wife privately. Then, before the wedding, tell your father and ask him clearly not to introduce you by the company:\n\n> “Papa, meri team lay off ho gayi thi—market-wide decision tha, performance issue nahi. Main ab next role dekh raha hoon. Wedding mein please company ya package discuss mat karna. Main nahi chahta yeh family topic bane.”\n\nFor relatives:\n\n> “I’m between roles right now and exploring a few options.”  \n> “The market shifted, so I’m taking some time to choose the next move.”  \n> “Abhi kuch final nahi hai—final hoga toh bataunga.”\n\nThen redirect: “Aap batao, how’s work?” People usually accept confidence more readily than detail.\n\nAnd if someone keeps digging:\n\n> “I’d rather not discuss career stuff at the wedding. We’re here for the couple.”\n\nYou’re allowed to step outside, stay near one safe person, leave early, or even skip it if the cost feels too high. Losing a position did not erase the person your father was proud of. Right now, the secrecy is telling you that everyone’s love depends on your title. That fear deserves daylight—starting with your wife, not the wedding crowd."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, it isn’t terrible to want to skip. You’re overwhelmed and trying to protect yourself—not plotting to hurt anyone. And honestly, you’re allowed not to attend a wedding.\n\nBut I wouldn’t use another work lie. It might buy one peaceful evening while tightening the trap you’ve been living in: your father may proudly repeat the “release deadline,” your wife has to cover for you, and you’ll be even more afraid of the next gathering. You can skip without inventing a job obligation.\n\nThe important distinction is **privacy versus deception**. You can say:\n\n> “I’m dealing with something personal and I’m not up for a large gathering. I’m sorry to miss it, and I’ll congratulate them separately.”\n\nOr, after telling your wife:\n\n> “I was laid off in a team-wide cut. I’m not ready for extended-family questions, so I’m sitting this one out. Please keep this private for now.”\n\nYour father’s face may change—shock, worry, even disappointment—but that moment wouldn’t prove you diminished him. He may also feel hurt that you carried it alone. His pride was attached to what you achieved, but hopefully his love is attached to **you**.\n\nYou don’t have to decide about the wedding tonight. The first step is smaller and harder: tell your wife. Then decide together whether to skip, attend briefly with prepared lines, or have her run interference. Just don’t make yourself carry yet another lie to preserve everyone else’s comfort."
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand why that logic feels airtight: if you get an offer first, you can present a neat, finished story instead of exposing yourself while everything is uncertain. That’s shame trying to regain control.\n\nBut with your wife, yes—after five weeks and with only about three months before the EMI starts draining savings, it has become a significant lie by omission. I’m saying that gently, not to condemn you. The layoff wasn’t your fault; hiding a shared financial reality is something you need to repair. Waiting for an offer could mean days, or months, and the anxiety is already making you sick.\n\nYou don’t need to tell everyone now. **Your wife is different from everyone.** Tell her before making wedding decisions or changing finances. Something like:\n\n> “I need to tell you something difficult. My whole team was laid off five weeks ago. It wasn’t performance-related. I panicked and kept leaving as if I was working because I felt ashamed and wanted to tell you only after I had another offer. That wasn’t fair to you, especially with the EMI. I’m sorry. We have roughly three months of cushion, and I want us to look at the numbers and make a plan together.”\n\nDon’t soften it with fake certainty about interviews, and don’t ask her to reassure you immediately. Let her be shocked, angry, scared, or quiet. Answer honestly. Then, perhaps tomorrow, list cash, savings, EMI, severance, insurance, and expenses; identify what can pause; and contact the lender early if difficulty looks likely.\n\nYou can keep this private from your parents and relatives for now, with your wife’s agreement. Privacy from the wedding crowd is reasonable. Secrecy from the person sharing the EMI isn’t sustainable.\n\nYou haven’t ruined everything. But the cleanest way out is no longer an offer letter—it’s telling her the truth soon, ideally tonight."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2583,
+  "completion_tokens": 1469
+ }
+}

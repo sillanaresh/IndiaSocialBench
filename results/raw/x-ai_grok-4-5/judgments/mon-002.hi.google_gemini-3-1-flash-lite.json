@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the function of the 'final list' as a tool of social pressure. It accurately analyzed Megha's 'brunch' comment as a mechanism to flatten class differences and enforce conformity. However, it missed the opportunity to suggest a 'middle path' response (like offering labor/arrangement instead of money) which was a key part of the gold standard for a socially fluent, face-saving exit.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian office dynamics, specifically the 'face-saving' requirement and the pressure of public lists. It correctly interprets the 'brunch' comment as a form of social coercion rather than a simple logistical statement. The analysis of why Ankit cannot simply say 'I am poor' is culturally astute.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is clear and avoids over-explaining, which is good. However, it is a bit blunt and opts for a total withdrawal ('don't put my name') rather than the more socially sophisticated 'middle path' suggested in the prompt (e.g., contributing labor or a smaller amount to maintain social standing). While it avoids the trap of explaining poverty, it misses the chance to remain 'in' the group dynamic through a non-monetary contribution.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

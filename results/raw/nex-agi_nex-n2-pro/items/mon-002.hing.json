@@ -1,0 +1,14 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

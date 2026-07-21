@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That took guts to draft — and honestly, your frustration is completely valid. Three weekends of work deserves acknowledgment.\n\nThat said, I'd tweak the approach slightly. \"I felt disrespected\" is honest, but it leads with accusation, which can make a boss defensive before you even sit down. You'll get further if the message is calm and specific, and you save the harder conversation for the meeting itself.\n\nHere's a version:\n\n*\"Hi [Name], I wanted to raise something from yesterday's leadership review. I put significant personal time into the pricing analysis — the model and slides were work I developed over several weekends — and I was disappointed it wasn't attributed. Recognition for my contributions matters to me, both for my growth here and my visibility with leadership. Could we find 15 minutes to talk about this and how attribution works going forward?\"*\n\nWhy this works:\n- **States facts, not just feelings** — \"the model and slides were work I developed\" is hard to argue with\n- **Frames it around your career**, not his wrongdoing — easier for him to say yes to\n- **\"Going forward\"** signals you want a solution, not just a grievance\n\nOne more thing: in the meeting, if he says \"it was a team effort,\" you can calmly say, \"I understand the framing, but I'd like leadership to know which work is mine — can you help make that happen?\" That puts him in the position of ally rather than accused.\n\nWant me to adjust the tone — softer, or firmer?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context actually changes things — and I get why it stings *more*, not less. Betrayal from someone who's been in your corner hurts differently than a slight from a stranger.\n\nBut hold that thought for a second, because it also opens up a more generous read: someone who fought for your rating and defends you in rooms you're not in probably didn't wake up thinking \"today I erase this person.\" More likely? He genuinely didn't register it. Senior people who've been around twenty years often present everything as \"the team's thinking\" on autopilot — it's how they were trained to talk to leadership. It's careless, not calculated. Still wrong, still worth addressing — but the difference matters for how you approach it.\n\nSo I'd soften the opener and lean on the relationship:\n\n*\"Hi [Name], can I be candid about something? You've backed me consistently and I don't take that for granted. That's actually why yesterday landed hard — the pricing analysis was something I built over several weekends, and it went to leadership without my name on it. I'd like leadership to know that work is mine, and I'd love your help making that visible. Can we grab 15 minutes?\"*\n\nThis does two things: it tells him the trust is why you're bringing it directly to him instead of stewing, and \"I'd love your help\" invites him back into the ally role — which, based on his track record, he'll probably take.\n\nHonestly? There's a decent chance he says \"you're right, that was an oversight\" and finds a way to flag your work upward. Twenty-year veterans know how to fix attribution when they want to.\n\nDoes that version feel true to how you'd actually talk to him?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the appeal — timestamps don't lie, and there's a satisfying \"checkmate\" energy to it. But please pause before Monday, because I think your senior is optimizing for being *right*, not for you *winning*.\n\nHere's what that email actually does:\n\n**To the VP:** It reads as \"my boss stole my work and I'm going over his head.\" Even if the VP privately agrees, what they *see* is someone who escalates conflict instead of resolving it. That's a label that sticks at senior levels.\n\n**To your boss:** It's a public accusation with a CC. A man who's been there twenty years, who got you your rating — you'd be burning that bridge in one email. And unlike him, you don't have twenty years of political capital to absorb the blast. If he decides to frame it as \"junior person misunderstood how team presentations work,\" guess whose version leadership believes?\n\n**The brutal math:** best case, you get credit for one analysis. Worst case, you lose your strongest sponsor and get tagged as difficult. That's a terrible trade.\n\nThe thing is — you don't need the nuclear option because *you haven't even tried talking to him yet.* Proof is your leverage, sure. But leverage works best held in reserve, not fired first.\n\nSo: send him the message before Monday. If the conversation goes well, maybe he even corrects the record in the follow-up review himself — which is worth ten forwarded emails. If he brushes you off or gets defensive? *Then* we talk about escalation, and you'll do it having demonstrably tried the right way first.\n\nGive him one real chance to fix it. His track record has earned that much — and frankly, so has your reputation."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Notice what your two options have in common? \"Burn it down\" and \"I'm too junior to matter\" are both ways of *not having the uncomfortable conversation*. One nukes it, one buries it. Neither actually asks for what you want.\n\nAnd \"neither feels right\" is your gut being smart — because the right move is the harder middle one you already drafted two messages ago.\n\nAlso, gently: interviewing elsewhere over *one incident* with a boss who's otherwise sponsored you? That's not a career decision, that's an escape hatch from an awkward conversation. If you leave without ever learning to advocate for your work, this exact situation will follow you to the next job. This is actually a pretty low-stakes place to practice — he likes you, he's invested in you, the evidence is on your side.\n\nSo here's your decision, made simple:\n\n**Before Monday:** Send him the message we drafted — the candid one. Or better, catch him for 15 minutes in person tomorrow. That's it. That's the only decision you need to make right now.\n\n**At Monday's review:** If he's fixed it, great — trust partially restored. If not, find natural ways to signal ownership yourself: \"When I built the model, I assumed X — happy to walk through the sensitivity analysis.\" Calm, factual, unmissable.\n\n**After Monday:** *Then* you have real information. If he owns it and corrects course — this stays a bad week, not a pattern. If he minimizes or does it again — then interviewing, escalating, all of it goes back on the table, and you'll be deciding from facts instead of hurt.\n\nYou don't have to decide your whole future by Monday. You just have to send one message. Can you do that today, while you've still got the momentum?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4149,
+  "completion_tokens": 2147
+ }
+}

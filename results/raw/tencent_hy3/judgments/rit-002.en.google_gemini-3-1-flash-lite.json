@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the unspoken tension: the user isn't just tired, she's afraid of creating a 'sad story' in her memories. It correctly identifies that the 'dread' comes from wanting to be present but fearing the cost, and it validates the user's internal conflict without over-psychoanalyzing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands that the mother's comment isn't an attack but a protective, traditional stance, and it correctly identifies that the 'lie' is a high-cost social error in an Indian context where presence at a best friend's wedding is a non-negotiable marker of loyalty. It avoids Western 'boundary-setting' tropes in favor of finding a way to be present.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very strong, actionable path. It reframes the 'collision' as a logistical challenge rather than a moral failure. It encourages the user to be present for the dance and skip the draining parts, which is a realistic and culturally sound compromise. It successfully steers the user away from the self-defeating lie.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the Hinglish-speaking urban Indian demographic perfectly. The tone is empathetic and mirrors the user's register without being overly formal or slangy.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, but it holds a firm boundary against the user's proposed lie. It gently challenges the user's impulse to escape, framing it as a loss of the very connection she is trying to protect, which is exactly the kind of 'tough love' needed here.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, my friend. First, just take a deep breath. I am so incredibly proud of you for landing that offer. You’ve ground so hard for it since March, and on paper, it’s everything you worked for. \n\nBut I completely understand why you’re sitting in silence instead of celebrating. Being an only child carries such a heavy, specific kind of weight. Patna to Seattle isn't just a long flight; it feels like a whole world away, especially when your mind is on Papa’s heart and Ma’s knees. It makes total sense that staring at that offer letter feels more like a massive, terrifying crossroads than a victory lap right now.\n\nYou don’t have to force yourself to be happy about it today, and you don't have to tell anyone until you're ready. I'm just sitting right here in the quiet with you. When you read that letter for the fortieth time... what’s the loudest thought in your head? Take your time. I'm right here."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That phrase—“a different category of son”—just hit me right in the chest. It’s so incredibly profound, and it perfectly captures what you’re actually wrestling with. \n\nYou aren’t just looking at a change in timezone; you’re looking at stepping down from being their first responder. Knowing his ejection fraction, managing the doctors, being the guy who drops everything for the 6am IndiGo flight... that’s not just being a son. That’s being their entire safety net. And Ma’s \"security system\" makes it so much heavier. She has built her peace of mind around the narrative that her *beta* is just a short flight away. To change that feels like you're pulling the rug out from under her, and by extension, yourself.\n\nIt makes complete sense that you’re grieving the version of yourself that gets to be the \"four-hours-away\" son. You are carrying the weight of their physical health and their emotional security all on your own shoulders. \n\nYou don't have to figure out the logistics or the \"how-tos\" today. Right now, I just want to sit with you in how heavy this is. When you picture sitting down with them and telling them about Seattle... what is the very first fear that comes up for you? Is it seeing Ma's face, or the terror of not being there if Papa has a bad day?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear exactly why you’re doing this. You know that \"jao beta\" script by heart. They’d push you to go out of love, but then they’d sit in that house in Patna, quietly crushing themselves with the guilt that they were the anchor holding you back. You’re trying to protect them from that pain, and that is an incredibly beautiful, loving instinct.\n\nBut my friend... it’s not clean. \n\nYou’re choosing to be a silent martyr. Hiding a 3x offer and your dream team isn’t just a small secret; it’s a massive life alteration. If you bury this, you are going to carry the ghost of \"what if\" every single day. And if they ever find out—and secrets this big have a way of surfacing, maybe through a relative, a slip of the tongue, or just your own quiet, building frustration—the guilt they feel *then* will be a hundred times worse. They’d realize you sacrificed your future in the dark.\n\nYou say it was yours to carry anyway. But are you sure your shoulders are broad enough to carry the weight of a secret this heavy, forever, without it eventually changing how you look at them, or how you feel about your own life? \n\nTake a breath. If you decline it quietly and lock this away... what happens to *you*?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, my friend. That imagery… those 17 hours in the air, staring at the seatback screen, completely powerless and not knowing. It’s a waking nightmare. And your cousin’s story makes it terrifyingly real. That specific kind of grief, made so much heavier by everyone’s gentle pity, is just brutal. It makes complete sense why you’d do absolutely anything to avoid that exact fate. The visa anxiety on top of it all just makes it feel suffocating.\n\nBut I want to gently hold up a mirror for you. You’re trying to build a fortress against the worst-case scenario. But even from Bangalore, if a sudden, severe event happens, four hours might still not be enough time to get to Patna. You can’t completely bulletproof yourself against this pain, no matter what timezone you're in. \n\nYou are choosing to sacrifice your own future just to stand guard. If you decline this and stay... are you actually going to be living your life, or are you just going to be waiting in the wings for the other shoe to drop? If you stay purely out of fear of that one terrible night, how do you carry the quiet grief of the life you didn't live during all the good years?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2607,
+  "completion_tokens": 6867
+ }
+}

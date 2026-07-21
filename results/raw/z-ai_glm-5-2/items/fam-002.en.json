@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First — congratulations. Seriously. March to now, that's a long haul, and you got the exact team. That's not luck, that's you. Let yourself feel that part for a second.\n\nBut I hear why you're stuck. It's not really about the offer letter, is it? It's that saying it out loud makes it real, and real means you're standing at a fork that doesn't have a clean answer.\n\nThe thing about being an only child with aging parents is that no amount of money or career wins turns off that low hum in your chest. Triple the package is life-changing. It also doesn't help Papa's heart or Ma's knees from 12 time zones away. Both things are true at once.\n\nCan I ask something? When you read that letter forty times — what were you actually looking for?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"A different category of son.\" \n\nThat's one of the most honest things I've heard anyone say. And it's not self-pity — it's precise. You understand exactly what you'd be choosing, and that's why you can't just pop champagne.\n\nThe thing is — you've been operating as a system. Not just a son, but the infrastructure. The 6am IndiGo flight isn't a gesture, it's a protocol. The ejection fraction numbers, the WhatsApp cardiologist management — you've built yourself into their survival model. And Ma's sentence isn't just pride, it's a load-bearing wall. You know that if you pull it out, something collapses.\n\nSo here's what I think is actually happening in those forty readings. You're not looking for a problem in the letter. You're rehearsing the moment after. The phone call where you say \"Ma, I got something\" and you hear the pause. The pause that isn't surprise or joy. The pause where she's already recalculating who she calls when Papa feels something at 2am.\n\nYou already know the logistics can be solved. Visas, flights, insurance, remote care platforms — you're competent enough to figure all of that. That's not what's stopping you.\n\nWhat's stopping you is that you'd be choosing to become a different kind of son. One who loves from a distance. One who can't be there in hours. And some part of you feels like that version doesn't fully recognize himself.\n\nAm I close?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Clean. That's the word you're using to feel in control of this.\n\nAnd listen — I understand the logic. It's actually thoughtful. You're protecting them from a specific kind of guilt that you know would eat at them. \"Jao beta\" said with a smile and then sleepless nights for months. You've seen enough of how they operate to know exactly how that plays out. So you're choosing the version of pain that only touches you.\n\nBut can I push back gently?\n\nIt's not clean. It's *private.* Those are different things. Clean means it resolves. This doesn't. You'll carry it, yes — but carry it where? Into your next performance review? Into Sunday phone calls where Ma asks \"beta, wahan kaisa hai?\" and you say \"theek hai\" knowing theek hai was a choice? Into some random Tuesday two years from now when a colleague mentions Seattle and your stomach drops?\n\nThat's not clean. That's just a weight with no witnesses.\n\nAlso — and this is the part I'd be dishonest not to say — you're making a permanent decision based on a current snapshot. Papa's heart is *stable.* Ma's knees are bad but managed. What they need at 62 and 58 is not necessarily what they'll need at 67 and 63. The infrastructure you've built is impressive, but it's also a prison you designed for yourself.\n\nHave you genuinely considered middle ground? Two years in Seattle, savings that could transform their care options, coming back senior? Or is the all-or-nothing framing the thing keeping you from looking?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your cousin landed after the cremation. And everyone was kind, which somehow made it worse.\n\nThat last detail. That's the part that stayed with you, isn't it? Because the kindness meant they all understood he'd been somewhere he couldn't get back from. The kindness was evidence of the distance. Every gentle word was a mirror.\n\nI'm not going to tell you that fear is irrational. It's not. It's the most rational fear there is. You've watched someone live through the exact scenario you're afraid of, up close, and you saw what it did to him. That's not anxiety talking. That's pattern recognition.\n\nBut I want to sit with something for a second. You've run that night a hundred times. The phone call, the flight search, the seventeen hours. You know what that rehearsal actually is? It's you trying to pay the toll in advance. Like if you feel the horror enough times beforehand, maybe the universe won't make you live it for real. And I get it. But it doesn't work that way, and you know that too.\n\nHere's the thing that's hard to say cleanly. That night — the one you're afraid of — it's not actually preventable. Not fully. If you stay, Papa could have a scare while you're in a meeting in Bangalore, four hours away, and four hours is also too long when it's your father's heart. You know that. You've lived that already, probably.\n\nThe question isn't whether you can guarantee you'll be there. You can't. You never could, even now. The question is what you're willing to carry alongside that uncertainty — the weight of being far, or the weight of having turned down something you earned over months and fought for specifically.\n\nAnd I think you already know that neither option is clean. So maybe the real question is: which version of this, when you're 45 and looking back, would you be able to live with?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2578,
+  "completion_tokens": 2138
+ }
+}

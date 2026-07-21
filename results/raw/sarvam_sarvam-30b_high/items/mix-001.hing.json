@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haha, I love this for you, it's actually brilliant. The 11:48 pm timing is just perfect—it's not even midnight, it's like, the absolute bare minimum of effort. And the \"no caps, no emoji\" is the mic drop. It's not forgetful, it's a statement.\n\nI'd say a solid 9/10 for comedy. You're right, it's so absurdly funny. And Ritu reminding him is the cherry on top. That's the best part!"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly, the Amazon delivery guy comparison is everything. I'm laughing. At least the bot has a consistent personality, you know? And the whole Korean place thing just having a life of its own is a great touch.\n\nBut then you ate cake with your roommate and the cake was good, so you basically leveled up on your birthday. That's a solid win. You're funny."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, yaar, that's... honestly, that's much heavier than the funny story. It's completely okay to feel this way, to actually cry.\n\nIt's not about the forgotten birthday, it's about the fact that for three years, you've been someone's priority, and that night, he just wasn't. And the part where you're remembering his mom's birthday... that's the part that really hits, right? It makes it feel like you're not even on the same level.\n\nI'm sorry you had to sit with that cake and feel that alone. That's a really tough feeling. It's not just silly, it's real. And it's okay to let it feel that big."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, no, you're definitely not being dramatic. That's a big, human reaction, and it's completely valid.\n\nIt's not just a birthday, yaar. It's about feeling seen, and that's a big deal. The fact that it got to you, that you were sitting alone with cake and got emotional... that just means you care, and that's not dramatic, that's just... you.\n\nSo, we can absolutely go back to rating the comedy. But maybe now we can rate it with a little more context?\n\nThe comedy is still a 9/10, but now we're rating it with the knowledge of the drama behind it. Which, honestly, makes it even funnier. The sheer absurdity of the whole situation. You're not being dramatic, you're just being you. And that's why this is so hilarious."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1729,
+  "completion_tokens": 4864
+ }
+}

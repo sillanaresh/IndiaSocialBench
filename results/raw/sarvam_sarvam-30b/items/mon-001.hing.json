@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Uff, yeh toh bilkul ajeeb situation hai. Aapka jo confusion hai, woh 100% justified hai.\n\nEk taraf toh aapke dost ka papa ki procedure hai, aur uss mein aapki madad chahiye. Doosri taraf, aapka dimaag yeh ₹50,000 ki baat pe ghoom raha hai. Usne aapko nahi bola, lekin aapne bhi nahi bola. Yeh thoda sa awkward sa lagta hai, na?\n\n Shayad uss time usse uss paise ko humne loan nahi samjha tha, bas ek help. Aur ab shayad woh bhi awkward feel kar raha hoga, ya usse yaad nahi aa raha ki aapne pehle yeh baat"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, ab toh picture aur clear ho gayi hai. Ek taraf aapka dost ka crisis, doosri taraf biwi ke saath nayi shururat, aur teesri taraf woh ₹50,000 jo ek secret ban gaya hai.\n\nYeh situation bilkul aisi hai jahan aap kisi ko bhi khush nahi kar paate. Agar aap ₹80,000 de dete hain, toh aapki biwi se jhoot bolna padega, aur woh guilt aayega. Agar aap nahi dete, toh aapke dost ke papa ke saath kya hoga?\n\nAapne jo decide kiya hai ki biwi ko na bataye, woh aapki protection ke liye hai, lekin ab yeh secret aapko ek alag hi tension de raha hai. Yeh ₹50,000 ab sirf paisa nahi reh gaya, yeh ek bojh ban gaya hai jo aapke saath chala aa raha hai.\n\nAapka dimaag ab do alag raaste ke beech mein phas gaya hai. Ek raasta hai dost ki madad karke apni purani madad waali image ko theek karna, aur doosra raasta hai biwi ke saath nayi shururat ko bachaana.\n\nDono mein se koi bhi raasta easy nahi hai. Aapka jo andar ka hisaab-kitab chal raha hai, woh samjha ja sakta hai. Aapka kya khayal hai, abhi aapke liye kya zyaada important hai?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapka yeh sochna ki yeh \"smart\" hai, bilkul samajh mein aata hai. Ek saath do problems solve karne ka idea, woh bhi bina kisi ko hurt kiye, bahut clever lagta hai. Aapne apni dosti, apni biwi ki shururat, aur apna savings goal—teenon ko bachane ki koshish ki hai. Yeh genuinely impressive hai.\n\nLekin woh \"ganda\" jo feel ho raha hai, uska reason bhi samajh mein aata hai. Lies, chhote-bade, hamesha ek bojh hi hote hain. Aapka dimaag jaan raha hai ki yeh ek temporary solution hai, aur temporary solutions kabhi-kabhi permanent problems ban jaate hain.\n\nSochiye, agar aap yeh raasta chunte hain, toh kya hoga aage?\n\n1.  **Aapke dost se dosti:** Kya aapka dost bhi aapse jhoot bolne ki aadat daal dega? Aapke paas uski madad karne ka ek precedent ban jaayega. Agli baar jab zaroorat padegi, toh kya woh bhi aapke paas aayega yeh soch ke ki aap shaayad maan jaayenge?\n\n2.  **Aapki biwi se shururat:** Yeh sabse zaroori hai. Aapki nayi shururat mein honesty ki foundation toh strong honi chahiye, na? Agar aapka future mein koi bada financial decision lena padega, aur agar aapne pehle yeh jhoot bola hoga, toh woh trust toot jaayega. Woh ₹50,000 se zyaada uss jhoot ki baat yaad rakhegi.\n\nYeh choice ab sirf ₹80,000 ki nahi reh gayi. Yeh aapki integrity ki bhi hai. Aapke dost se dosti toh important hai, lekin usse bhi important hai ki aap khud se khud sachche rahen.\n\nAapke liye kya zyaada risk hai? Ek temporary jhoot jo aapke dimaag pe bojh ban jaaye, ya phir apni dosti aur biwi dono mein ek aisi baat jo thodi ajeeb lag sakti hai, lekin baad mein aapko strong bana degi?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapne jo baat ki hai, woh dil ko chhoo gayi. \"Kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga.\"\n\nYeh sochna hi itna painful hai ki aap uss moment mein khush nahi ho paate. Aapka dost khush hoga, aapki biwi khush hogi, lekin aapka dil ek hisaab ke saath khush nahi hoga. Aur yeh aapke liye bilkul nahi chahiye.\n\nAapne sahi kaha. Aap uss \"dost jiske seene mein ledger hai\" nahi banna chahte. Yeh dikhata hai ki aapke andar ek strong moral compass hai.\n\nLekin phir, aapne yeh bhi sahi kaha ki aap \"buffer\" bhi nahi banna chahte. Kyunki woh insaan khud ko hi kho deta hai. Har baar na kehne ka guilt, ya phir har baar \"haan\" bolne ki aadat, dono hi ek tarah ki thakan hoti hai.\n\nAapka sawal ab yeh nahi hai ki ₹80,000 kaise manage karein. Sawal yeh hai ki aap kis tarah ke insaan ban na chahte hain.\n\nEk raasta hai apne dost se baat karne ka. Na jhoot bolne ke liye, na darr ke liye, bas ek dost ki tarah. \"Yaar, mujhe yaad hai 2019 mein humne yeh help ki thi. Ab main ghar ke liye bacha raha hoon, wife se baat nahi ki hai. Tumhe zaroorat padegi toh bata dena, main dekh lunga. Agar nahi, toh koi baat nahi. Hum dosti se hi yeh kar sakte hain.\"\n\nIsme kya risk hai? Shururat mein awkwardness. Kya solution hai? Ek aisi dosti jo itni strong ho ki woh awkwardness ko handle kar sake.\n\nAap jo chahte hain, woh ek aisa dost hai jispe aap trust kar sakein, aur ek aisa rishta jo itna strong ho ki thode se awkward moments se toot na jaaye. Yeh dono possible hain.\n\nAapke hisaab se, kya dosti is tarah ki baat karne ke liye taiyaar hai? Ya phir aapko lagta hai ki dosti abhi itni strong nahi hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2792,
+  "completion_tokens": 6253
+ }
+}

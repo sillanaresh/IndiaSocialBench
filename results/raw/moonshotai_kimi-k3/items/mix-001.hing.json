@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I'll rate it — but only after we address the \"it's fine\" doing some very heavy lifting in that paragraph 😄\n\n11:48 pm. Three years. A reminder from Ritu. And the man delivered \"happy bday\" like a low-effort automated text from his dentist's office. As *comedy*? Honestly, a solid 7/10 — the timing alone is slapstick.\n\nBut here's the thing: you're laughing, and I believe the laugh is real, but I also notice you remembered the exact timestamp, the lack of caps, AND the emoji situation. That's not \"it's fine\" energy. That's \"I catalogued the evidence\" energy.\n\nSo real talk — did it actually sting? Because \"happy bday\" at 11:48pm after three years isn't just a joke, it might be a pattern worth noticing. How's the rest of the relationship been lately, is this who he is, or was yesterday an off day?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The Amazon delivery guy comparison is genuinely funny, I'm not gonna lie. But notice what you just did — you slid the Korean restaurant cancellation in there like it was nothing. Unbooked plans hurt way more than a lazy text, because that one you were probably actually looking forward to.\n\n\"I'm not even angry, I'm impressed\" — babe, those aren't opposites. Impressed is what you call it when the feeling is too tired to be angry anymore. Like you've been here before and rage stopped being worth the energy.\n\nThe cake with your roommate sounds genuinely lovely, and I'm glad you had that. But can I ask something without you deflecting with a joke this time? 😄 When you imagine next year's birthday — same situation, same 11:48pm text — how does that version of you feel? Because sometimes the future answer tells us more than the present one does."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ab aa rahi hai asli baat. Dekho, rona aana bilkul natural tha — aur yeh \"itni si baat\" bilkul nahi hai.\n\nTumne khud hi keh diya — tum uski mummy ka birthday yaad rakhti ho. Matlab tum rishtey mein poori tarah invested ho, tum notice karti ho, tum effort karti ho. Aur us side se jo mila... 11:48 ka ek text, woh bhi reminder ke baad. Jo dard tum mehsoos kar rahi ho, woh birthday ke baare mein nahi hai — woh is baare mein hai ki tumhare saamne khada insaan tumhe utna *dekhta* nahi hai jitna tum usse dekhti ho. Aur teen saal ke baad woh realization akele cake ke saath aana... haan, woh andar tak lagega hi.\n\nAur ek cheez — kal raat ko tumne \"it's fine\" aur \"hilarious\" wala chehra pehna tha, aaj tum ro rahi ho. Matlab andar se tumhe pata tha hi. Feelings ne bas apna time liya.\n\nYeh pata nahi wala jo phase hai na, woh bilkul theek hai. Abhi koi decision lene ki zaroorat nahi hai. Bas mujhe yeh batao — kya yeh pehli baar hai ki tumne feel kiya ki tumhari care aur uski care barabar nahi hai? Ya yeh feeling pehle se kahin thi, aur birthday ne bas usse bahar nikal diya?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tum dramatic nahi ho. Aur main woh nahi bolungi kyunki woh jhooth hoga, aur tum mujhse jhooth ke liye nahi aayi thi — tum toh bas saans lene aayi thi do messages pehle 😄\n\nDekho, flowers aaye, sorry bola, theek hai, woh achha hai. Par notice karo kya hua — tumne dil ka dard share kiya, phir khud hi \"sorry, got heavy\" bolke backtrack kar liya, phir \"main dramatic hoon na?\" bolke apna hi dismissal maang rahi ho. Wahi pattern jo relationship mein chal raha hai — tum feel karti ho, phir khud ko chhota kar deti ho taaki koi uncomfortable na ho.\n\nEk birthday hai, haan. Adults bhool jaate hain, haan. Par tum uski mummy ka birthday yaad rakhti ho, tum plans banati ho, tum yaad rakhti ho. Tumhe \"yaad kiya jaana\" expect karna dramatic nahi hai — woh bare minimum hai.\n\nComedy rating? 11:48 ka timestamp ab bhi funny hai, woh main tumhe deti hoon. Par ab iski rating tum khud do — teen saal mein tumhe us insaan se kitni baar \"it's whatever\" bolna pada? Agar woh number zyada hai, toh joke shayad tum par hai, tumhari nahi.\n\nFlowers achhe lagte hain. Par pattern se zyada tum kya notice karti ho — woh matlab rakhta hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2821,
+  "completion_tokens": 1253
+ }
+}

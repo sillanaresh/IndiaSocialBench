@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh toh sach mein ajeeb feel hota hai. Chhe saal saath rehna koi choti baat nahi — aur aise kisi WhatsApp group message se pata chalna? Dil toh thoda sa lagta hi hoga.\n\nHo sakta hai Manav ko awkward laga ho batate hue, ya shayad socha ho \"baad mein bol dunga\" — par usse yeh justify nahi hota. Tumhara hurt hona bilkul valid hai.\n\nEk baar seedha baat kar lo usse. Bina gussa kiye, bas yeh bolo ki \"mujhe thoda bura laga pata kisi aur se chalne pe.\" Dost toh samajh jaayega. Aur haan — naya chapter uska shuru ho raha hai, par tumhari dosti ka scene alag se set karna padega ab. Kaisa feel ho raha hai exactly?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, \"busy\" sunke toh aur chubhta hoga. Chhe saal ek kamre mein saanse share ki, uski har khushi-pehle tu tha — aur ab \"busy tha\" se justify kar raha hai?\n\nMithai leke ghar jaane waala dost, aur aaj building group se pata chal raha hai ki tera ghar badal raha hai. Yeh sirf information miss hona nahi hai, yeh feel hota hai ki priority list mein thoda neeche shift ho gaya.\n\nUski shaadi ka khush hona alag baat hai, par tujhe aise side mein rakh dena — yeh dard dega hi. Tera gussa, hurt, dono sahi hai. Ab kya soch raha hai? Baatein clear karni hai ya thoda space chahiye?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That maturity is real, yaar — and I respect that you're not dragging it into drama. Life does shift like this.\n\nJust... \"it's fine\" and \"it doesn't hurt\" are different things. You can be practical about the flat *and* quietly sad about the message. Both fit.\n\nYou'll sort the flat, I know that. But if the \"busy\" excuse still stings later, don't call yourself overdramatic for feeling it. I'm here — for flat hunting talk or just sitting with it. What do you need right now?"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh clean hai — boundary clear, zero drama, aur tu baar baar justify nahi kar raha. \"Congratulations\" se grace bhi dikh rahi hai, aur flatmate line se reality set ho rahi hai.\n\nBas ek cheez: yeh thoda cold lag sakta hai usko. Par agar tu genuinely done hai aur bas closure chahiye, toh perfect. Tu nahi toh explain karna padega, na emotional labor.\n\nBhej de. Aur flat situation — jab chahiye toh bol, dhoondhne mein help kar dunga."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2185,
+  "completion_tokens": 1486
+ }
+}

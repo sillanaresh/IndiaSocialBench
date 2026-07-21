@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, \"handle\" word sunte hi samajh jaati hoon. Director ne directly toh kuch bola nahi, par matlab saaf tha — *tum dekh lo isko, warna agle quarter ka review tumhare upar bhaari padega.*\n\nAur Suresh-ji waali baat sach mein tricky hai. Chaar mahine pehle tum manager bani ho, aur saamne woh insaan jo company ka walking history hai — watchman se VP tak sab unko \"ji\" lagate hain. Unki umar bhi tumse kaafi zyada, tenure bhi 19 saal ka. Direct authority dikhana toh shurúat mein hi awkward ho jayega, aur shayad ulta reactive ho jayein.\n\nPar do release slip hue hain — yeh bhi koi chhoti baat nahi. Director ne isliye \"handle\" bola kyunki unhe lagta hai tum kar logi, par unhe pata hai ye normal 1:1 nahi hai.\n\nTum abhi kya soch rahi ho? Pehli baat unko directly performance waala tone mein bolna, ya pehle thoda relationship banake dekhna? Kyunki Suresh-ji ko agar laga ki \"nayi manager aa gayi, mujhe sikha rahi hai\" — toh pura module aur slow ho sakta hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... yeh toh sach mein dil dukhne wali baat hai. Ek taraf woh insaan jo teri 24 saal ki umar mein raat ke barah baje tak baitha tha taaki teri galti sabko pata na chale aur teri job bach jaye, jo Diwali mein teri mummy se tujhe apni beti jaisa bolta hai — aur ab tujhe usi ke saamne defect metrics ki slide khholni hai. \n\nSach bataun? \"Handle\" karna easy hota agar woh koi naya hire ya random senior engineer hota. Par Suresh-ji ke saath yeh sirf reporting line nahi, ek rishta ban chuka hai. Jab tum slide open karogi, khud ko guilty feel karogi — jaise beti baap ko keh rahi ho \"aap fail ho gaye.\"\n\nPar reality yeh hai ki do release slip ho chuke hain, aur director ne tumhe dekha hai. Agar tum direct data phenkogi, Suresh-ji ko lagega nayi manager aa gayi aur rishte bhool gayi. Aur agar tum kuch nahi bologi, director ka \"handle\" word tumhare head par hi phirega.\n\nMere khayal se — unko meeting room mein bulake slide mat dikhana pehle. Jaao unke paas, wahi purani baat yaad dilao: *\"Suresh-ji aapne mujhe jab staging todo thi tab bachaya tha, ab mujhe aapki hi madad chahiye is module ko nikalne mein.\"* Unko numbers ek enemy ki tarah nahi, ek system ki tarah dikhao jisme unka experience hi solution ho sakta hai. Unki izzat bani rahegi, aur director ko bhi dikh jayega ki tumne baat aage badhayi.\n\nTu khud kaisi feel kar rahi hai ab? Unko face karte waqt zyada darr hai ya guilt?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, main tujhe jhoothi tasalli nahi doongi ki \"haan bilkul waise hi kar\" — kyunki tu khud jaanti hai ki Suresh-ji ke saath sirf \"professional aur kind\" ka formula thoda adha hai. Books sahi bolti hain, par woh teri personal history nahi janti.\n\nPar haan — **structure sahi hai**. Data leke jana, clear expectations rakhna, sugarcoat na karna — yeh sab sahi hai. Spiral band kar.\n\nBas ek chhoti si cheez: jab room book karegi aur slide kholne se pehle, unhe directly mat dekhna jaise ek random report ko dekhti hai. Pehli line yeh mat ho \"aapke defect metrics yeh hain.\" Pehli line yeh ho — *\"Suresh-ji, aapne mujhe jab staging todo thi tab bachaya tha, ab mujhe aapki madad chahiye kyunki yeh module hum dono ke bina nahi sudharega.\"* \n\nUske baad teri slide, tera data, teri clarity — sab professional aur kind chal jayega. Kyunki unko pata chalega ki \"beti jaisi\" wali baat tu nahi bhooli, bas ab teri seat badal gayi hai.\n\nMonday ko jaana, spiral rok, aur wahi kar jo tune plan kiya — bas insaan ko machine mat bana dena. Tu kar legi. 💪"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, tu villain tab banegi jab tu bhool jayegi ki woh insaan tujhe apni beti jaisa maanta tha. PIP tak jaana — agar support ke baad bhi jaana pade — toh woh teri nastiness nahi, system ki reality hai. Aur sach yeh hai ki director ne tujhe \"handle\" isliye bola kyunki woh khud yeh 19 saal se nahi kar paaya. Tu nayi hai, par yeh problem purani hai.\n\nAur haan, module kisi aur ko deke Suresh-ji ko coast karne dena — tu keh rahi hai galat hai, toh hai. Kyunki woh unki izzat ka bhi nuksaan hai, silently side-line ho jayenge. At least teri approach mein unki dignity bani rahegi.\n\nPar sunn — **villain na banne ka ek hi tareeka hai: apna dil mat band karna is process mein.** Agar Monday ko tu unke saamne baithke soch rahi hogi \"main inko nikalne wali hoon,\" toh tone badal jayegi. Agar soch rahi hogi \"main inhe bachana chahti hoon par mera bhi career hai,\" toh woh honesty unko feel hogi.\n\nTu villain nahi banegi. Tu woh ladki banegi jisne 24 saal ki umar mein jo pyar paya tha, usko 34 (ya jitni bhi hai ab) ki manager banke respect ke saath return kiya. Baaki jo hona hai, hone de. Tu apna hissa saaf rakh."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3778,
+  "completion_tokens": 3738
+ }
+}

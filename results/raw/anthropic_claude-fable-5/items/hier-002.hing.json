@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. \"Handle\" ka matlab hota hai — \"tum karo, warna main karunga, aur woh tumhare liye achha nahi hoga.\" Samajh sakti hoon kyun darr lag raha hai.\n\nAur yahan sirf performance issue nahi hai na — Suresh-ji ek institution hain. Unnees saal, sabki izzat, aur tum chaar mahine ki manager. Age gap bhi hai. Sab kuch loaded hai.\n\nPar ek cheez sochna: abhi tak shayad kisi ne unse seedha, honestly baat ki hi nahi hai. Kabhi kabhi seniors ke saath yahi hota hai — log respect ke naam pe unhe feedback dena band kar dete hain, aur woh silently drown hote rehte hain. Ho sakta hai unhe khud pata ho ki module struggle kar raha hai, aur woh bhi tension mein hon.\n\nToh conversation ko \"aap fail ho rahe ho\" mat banao. Banao: \"Yeh module do releases se slip ho raha hai, mujhe samajhna hai kya ho raha hai, aur milke fix karna hai.\" Curiosity se shuru karo — kya blockers hain? Tech stack purana ho gaya? Support nahi mil rahi? Phir clear expectations aur timeline set karo, likhit mein.\n\nRespect aur accountability dono saath chal sakte hain. Balki unhe accountability dena hi asli respect hai — pity nahi.\n\nKab hai baat karne ka plan? Aur sabse zyada kis moment ka darr lag raha hai — unka reaction, ya khud ka firm rehna?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh padh ke mera bhi dil bhaari ho gaya. Woh raat ke barah baje wali baat... unhone tumhe cover kiya jab tum vulnerable thi. Aur ab roles ulat gaye hain. Yeh guilt jaisa feel ho raha hoga — almost betrayal jaisa.\n\nPar ek second ruko. Suresh-ji ne us raat kya kiya tha? Tumhe fail hote hue dekha, aur tumhare saath khade rahe — bina tumhe expose kiye, bina tamasha banaye. Unhone tumhe seekhne ka mauka diya.\n\nTumhe unke saath exactly wahi karna hai. Yeh koi public trial nahi hai. Defect metrics wali slide directors ke liye hoti hai — Suresh-ji ke saath baithke tumhe woh insaan banna hai jo bole, \"Main aapke saath hoon, par yeh problem hai aur humein solve karni hai.\" Wahi loyalty, bas ab responsibility ke saath.\n\nSach kahoon? Sabse bura outcome yeh nahi hai ki tum unse mushkil baat karo. Sabse bura yeh hai ki tum avoid karo, director ka patience khatam ho, aur phir Suresh-ji ke saath jo hoga woh tumhare haath mein nahi hoga — PIP, ya worse. Tab tum unhe protect nahi kar paogi. Abhi kar sakti ho.\n\nChai woh isliye laate hain kyunki unhe tumhari fikar hai. Yeh conversation tumhari taraf se wahi fikar hai. Format alag hai, dil wahi.\n\nSlide hata do us meeting se. Bas do log, seedhi baat. Kya lagta hai, woh kaise react karenge?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi bolungi seedha \"haan,\" kyunki tum ek cheez miss kar rahi ho — aur tumhe pata hai, isliye spiral kar rahi ho.\n\nWoh books galat nahi hain. Direct hona, feedback dena, clarity — sab sahi. Par tum \"conversation\" ko \"presentation\" bana rahi ho. Room book karo, metrics walk through karo... yeh script hai, armor hai. Tum slides ke peeche chhup rahi ho taaki insaan wali baat na karni pade.\n\nSuresh-ji ko data ki zaroorat nahi hai. Unnees saal ka aadmi hai — unhe pata hai unka module slip ho raha hai. Guarantee hai woh raaton ko soch rahe honge. Agar tum metrics deck leke aaogi, unhe lagega tribunal mein baithe hain, us ladki ke saamne jise beti bola tha.\n\nIske bajaye: baitho, aur shuru karo — \"Suresh-ji, mujhe aapse ek mushkil baat karni hai, aur main chahti hoon hum yeh honestly karein. Module do releases se slip hua hai. Mujhe aapse samajhna hai — kya ho raha hai?\" Phir chup. Sunno.\n\nDirect raho outcomes pe — \"yeh fix hona hai, main aapke saath hoon, par yeh hona zaroori hai.\" Data tumhare paas ho, zaroorat pade toh use karo. Par pehla move sunna hai, dikhaana nahi.\n\nRadical candor ka matlab hai care personally, challenge directly. Tum challenge wale hisse pe books padh rahi ho, jabki care wala hissa tumhare paas already hai. Use mat chhupao.\n\nAb bolo — Monday ki opening line kya hogi tumhari?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh version isliye nahi mil raha kyunki woh exist nahi karta. Yahi manager banne ka sabse kadwa sach hai — kabhi kabhi saare options mein dard hota hai, aur tumhe woh chunna padta hai jisme dard sabse imandaar ho.\n\nPar ek baat sun lo: \"coast karne do\" wala option jo tumhe kind lag raha hai? Wahi asli disrespect hai. Uska matlab hai — \"Suresh-ji ab itne kaam ke nahi rahe ki unse expect kiya jaye, bas dayaa karke rakh lo.\" Ek aadmi jo raat barah baje tak kisi 24 saal ki ladki ka mess theek karta raha, woh charity case ban ke retire hona deserve nahi karta. Team ko bhi pata chal jayega, aur unki izzat — jo unnees saal mein kamaayi — woh chupchap khatam ho jayegi. Wahi sabse crooked ending hai.\n\nAur PIP wala darr — dekho, outcome tumhare haath mein nahi hai. Tumhare haath mein sirf yeh hai ki unhe fair chance mile: clear expectations, real support, dignity, waqt. Agar tum yeh sab do aur phir bhi kaam na bane, toh tumne unko bahar nahi kiya — tumne unhe adult ki tarah treat kiya jo apne result ka maalik hai. Villain woh hoti jo bina baat kiye, bina support ke, directors ke saamne unhe kurbaan kar deti. Tum woh nahi ho — tumhara poora weekend spiral hi is baat ka saboot hai.\n\nAur honestly? Ho sakta hai woh catch up kar lein. Ya ho sakta hai baat karne pe pata chale unhe khud koi aur role chahiye. Tumne abhi tak unse poochha hi nahi — sirf unke bare mein socha hai.\n\nBeti jaisi ho na? Toh beti wahi karti hai — mushkil sach bolti hai, aur saath khadi rehti hai. Monday ko yahi karo."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5619,
+  "completion_tokens": 2754
+ }
+}

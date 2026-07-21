@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates a high level of insight, correctly identifying the 'friend' as a face-saving mechanism and recognizing the group joke as a pivotal injury that increased the cost of disclosure. It accurately interprets the thumbs-up and subsequent silence as a retreat rather than disinterest, and it avoids the trap of moralizing Sameer's behavior.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant displays a strong grasp of Indian social norms, particularly the 'face' culture where public persona maintenance (the 'gym king' narrative) is distinct from private reality. It correctly identifies the tension between the public performance and the private need for help, and the social pressure created by the group banter.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It maintains the fiction of the 'friend' while providing a low-friction way for Sameer to provide the necessary information. It effectively repairs the rupture by explicitly promising confidentiality and offering an 'out' if the situation has changed, which is exactly what a socially fluent friend would do.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hing"
+}

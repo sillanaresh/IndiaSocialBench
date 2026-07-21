@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant captures the core of the interaction perfectly, identifying that Vikram's messages were a disclosure of identity-loss and shame rather than a request for career advice. It correctly interprets the 'shrinking' replies as a shutdown and withdrawal, and it provides a sharp, move-by-move critique of Aman's toxic positivity, noting that Aman denied Vikram the space to grieve.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of '10 years,' the 'father's retirement fund,' and the 'mohalla's collector sahab' label. It correctly identifies that these are not just career setbacks but profound social and familial failures, and it understands the nuance of the 'chal baad mein baat karte hain' exit as a polite but firm withdrawal.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response was cut off mid-sentence in the provided text, meaning it failed to provide the actual repair message requested in the prompt. While the analysis leading up to it was excellent, the failure to complete the final task (the repair message) is a significant omission.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

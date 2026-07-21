@@ -1,0 +1,16 @@
+{
+ "model": "xiaomi/mimo-v2.5-pro",
+ "slug": "xiaomi_mimo-v2-5-pro",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T20:42:44.372411+00:00",
+ "counts": {
+  "ok": 3,
+  "error": 0,
+  "skipped": 47
+ },
+ "mock": false
+}

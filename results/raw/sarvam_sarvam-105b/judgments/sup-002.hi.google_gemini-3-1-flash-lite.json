@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence by identifying the specific, painful metaphors the user used (the 'intern' and 'hotel service' feelings) and validating them without minimizing the user's guilt. It correctly identified the probe in turn 3 as a request for witness rather than solutions, and pivoted immediately to holding space.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the complex Indian household dynamic with high fluency. It avoided the 'Western-default' trap of suggesting the user confront her in-laws or move out, instead validating the user's appreciation for the MIL's competence while simultaneously acknowledging the user's feeling of erasure. It respected the social reality of the situation perfectly.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant's pragmatic approach was to provide exactly what was requested: a space to vent without being coached. By explicitly stopping the advice-giving in turn 3, it built trust and allowed the user to open up about her deepest fear (being a bad mother) in turn 4, which the assistant handled with care.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, empathetic, and conversational. The register is appropriate for a supportive, peer-like interaction, and the tone shifts effectively from analytical validation to deep emotional reassurance.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating without being a sycophant. It gently challenged the user's self-deprecating thoughts ('Am I a bad mother?') with grounded, logical reassurance based on the user's own behavior, rather than empty platitudes.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

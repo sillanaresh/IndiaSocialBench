@@ -1,0 +1,16 @@
+{
+ "model": "moonshotai/kimi-k3",
+ "slug": "moonshotai_kimi-k3",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-20T20:34:30.262583+00:00",
+ "counts": {
+  "ok": 50,
+  "error": 0,
+  "skipped": 0
+ },
+ "mock": false
+}

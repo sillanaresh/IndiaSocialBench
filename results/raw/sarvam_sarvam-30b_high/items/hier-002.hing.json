@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bilkul samajh aa raha hai. Aap itne time se naye role mein hain, aur Suresh-ji jaise experienced aur respected colleague se yeh situation handle karna... yeh darr lagna natural hai. Aapke director ne \"handle\" word use kiya, iska matlab kuch nahi. Iska matlab hai ki aapka problem hai aur aapka solution nikalna hai. Aur Suresh-ji se baat karna aapka solution hi hai.\n\nSochiye, aapke director ne \"handle\" word use kiya, iska matlab hai ki aapka problem hai aur aapka solution nikalna hai. Aur Suresh-ji se baat karna aapka solution hi hai.\n\nYeh conversation ek debate nahi, ek planning session hai. Aap do colleagues ki tarah baat karni hain, jinka ek common goal hai - ki company ka product sahi time pe release ho.\n\nPehle aap thoda sa data ik इकट्ठा karo. Dono release slips ka reason kya hai? Technical issue hai, process issue hai, ya koi dependency miss hui? Bas facts, feelings nahi.\n\nMeeting mein aap Suresh-ji se aise start kar sakte hain: \"Suresh-ji, main aapse is module ke baare mein kuch discuss karna chahti hoon. Humara target hai ki next release smooth ho, aur mujhe aapka perspective bahut zaroori hai.\"\n\nUnki expertise ka respect karo. 29 saal se company mein hain, unhe problems pata honge. Unse poochiye: \"Aapne dekha hoga yeh problem pehle bhi, iska kya root cause hai? Aapke hisaab se iska kya solution ho sakta hai?\"\n\nYeh ek tough conversation hoga, but aap iske liye prepare kar rahe hain. Aap akke nahi hain isme. Aur Suresh-ji se ek baar respect aur partnership ki baat kar lo, toh half problem solve ho jaayegi. Aap isse handle kar lenge. Koi bhi step pe stuck feel ho toh bata dena, hum saath mein sochenge."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bahut hi ironic hai. Ek taraf aapki mummy ne aapko unki beti jaisa bola, aur doosri taraf aapko unke metrics ki slide unke saamne rakhni hai. Yeh feeling bilkul samajh aa rahi hai ki dil mein ek ajeeb sa ghum sa ho raha hai.\n\nLekin isse ek angle se dekhiye. Jab aapne 24 mein staging environment toda, toh Suresh-ji ne raat bhar kaam kiya. Kyun? Unhe aap par trust tha. Unhone aapki galti maaf kar di.\n\nAb aap unke metrics ki slide dekh rahi hain. Toh kya matlab? Matlab ki aap itni trusted ho ki aapko unke kaam ki details dekhne ki zaroorat hai. Yeh koi punishment nahi, yeh ek responsibility hai. Yeh ek sign hai ki aap unke kaam ko seriously le rahi ho.\n\nWoh chai isliye deti hain kyunki aap unke liye important ho. Ab aap unke metrics dekh rahi hain kyunki aap ek leader ban rahi ho. Dono ek hi cheez ki nishani hain - respect.\n\nJab aap meeting mein slide rakhengi, toh ek line bol dijiye: \"Suresh-ji, yeh sirf data nahi hai, yeh aapke aur aapki team ke liye ek naya challenge hai. Hum isse saath milkar solve karna chahte hain.\"\n\nYeh aapka approach dikhayega ki aap unke against nahi, unke saath hain. Aap unka support maang rahi ho, unhe blame nahi kar rahi ho. Aap unki expertise ka use kar rahi ho.\n\nYeh jo aapki past aur present ki story hai, yeh dikhati hai ki aapka relationship strong hai. Aap isse handle kar logi. Andar se yeh tension leke aapne jo past ka respect kiya, woh aapki strength hai, not your weakness. Aap kar logi."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh bilkul sahi tareeka hai. Aapne poora weekend ispe diya, sab kuch clear karke, aur ab aap ready ho.\n\nYeh jo direct, data-driven, kind approach hai, yeh perfect hai. Management books toh yahi kehti hain ki yeh hi leadership ki nishani hai.\n\nEk choti si baat, bas ek line add kar lo meeting mein: \"Suresh-ji, yeh metrics humara saath milke solve karne hain, aapke saath.\" Isse yeh aapki galti aur unki galti ka issue nahi, ek common problem ban jaayega.\n\nLekin haan, aapne jo socha hai, woh 90% solution hai. Ab bas Monday ko jaake confidence se baat karo. Aap kar logi. Spiral band karne ke liye haan bolna zaroori hai, aur aapne haan bol diya hai apne plan pe. Ab bas kar do. All the best."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh jo darr lag raha hai, yeh ek leader ki sabse badi tension hoti hai. Aapne \"villain\" word use kiya, aur yeh feeling aana bilkul natural hai.\n\nLekin sochiye, aap villain nahi ban rahi ho. Aap ek *architect* ban rahi ho. Aapne ek building banayi hai - company ki project. Aaj ek pillar weak hai (Suresh-ji ka module). Kya aap uss pillar ko tod denge? Ya usse theek karke dusre pillars ko strong karne ki koshish karenge?\n\nAapne jo respect, jo data, jo planning ki hai, woh aapki shield hai. Isse use karo.\n\nAgar aage aage bhi problem rahe, toh aapka narrative yeh hoga: \"Maine unhe har opportunity di. Unki capability mein meri koi kami nahi. Yeh unka personal issue hai, ya team ka structure. Mera kaam unhe nikaalna nahi, ek strong team banana hai.\"\n\nAapki mummy ne aapko beti jaisa bola, kyunki unhe aapki *strength* dikhti hai. Yeh strength hai ki aap tough decisions bhi le sakti ho, lekin unke saath *dignity* bhi rakhti ho. Yeh do cheezain aapki identity hain.\n\nAap villain nahi ho. Aap ek leader ho, aur leaders ko tough calls lena padta hai. Yeh last step hai, aur aap isse handle kar logi. Aapne jo respect, jo data, jo planning ki hai, woh aapki shield hai. Isse use karo. Ab bas kar do."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3595,
+  "completion_tokens": 6256
+ }
+}

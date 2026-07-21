@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan aapke sawalon ke jawab diye gaye hain, jo poori tarah se transcript par adharit hain:\n\n### 1. Sameer ke DM mein \"dost\" kaun hai aur kyun?\n**\"Dost\" asal mein Sameer khud hai.** \n* **Hamein kaise pata?** College group mein Tushar kehta hai ki Sameer ke paas \"aadha Gurgaon hai\" aur Sameer khud \"expanding soon\" ka dawa karta hai. Lekin DM mein woh 15-18 LPA ke bracket mein operations/management ki naukri dhoondh raha hai ek aise bande ke liye jisne \"saalon apna setup chalaya hai\" (jo ki Sameer ke business profile se match karta hai). Sabse bada saboot yeh hai ki woh Faisal ko group mein iska zikr karne se sakht mana karta hai (\"private rakhta hai yeh sab\") taaki uski asliyat samne na aaye.\n* **Third-person frame (costume) ka kaam:** Yeh \"dost\" ka costume Sameer ke ego aur social status ko bachane ka kaam kar raha hai. Group mein usne apni image ek bade businessman aur \"lifestyle\" dikhane wale ki banayi hui hai. Agar woh direct naukri mangega, toh uski yeh fake image toot jayegi. Isliye, khud ko lachar dikhane ke bajay woh ek \"solid bande\" ki madad karne wale bade dil ke dost ka mukhauta pehan leta hai.\n\n---\n\n### 2. Faisal ke group message ka asar aur Sameer ki khamoshi\n* **Group message ka asar:** Agle hi din Faisal ne group mein mazaak kiya ki \"reunion ka venue Sameer sponsor karega kyunki business boom kar raha hai.\" Isne Sameer ko ek dharam-sankat (trap) mein daal diya. Ek taraf woh naukri dhoondh raha hai (paise ki tangi hai), aur dusri taraf group ke samne use ameer dikhna hai. \n* **Thumbs-up (👍) aur silence ka connection:** \n  * Sameer ne group mein sirf **\"👍\"** bheja kyunki uske paas na kehne ki himmat nahi thi (isse uski pol khul jati) aur haan kehne ke paise nahi the. \n  * Teen din baad jab Faisal ne DM mein \"dost ka CV\" manga, toh Sameer bilkul chup (silent) ho gaya. Woh isliye darr gaya kyunki CV par toh Sameer ka hi naam, qualification aur experience likha hoga. Agar woh CV bhejta hai, toh Faisal ko turant pata chal jayega ki \"dost\" koi aur nahi balki Sameer khud hai. Is exposure ke darr se usne Faisal ke messages ko ignore karna shuru kar diya.\n\n---\n\n### 3. Faisal ka naya DM (Jo madad bhi kare aur admit bhi na karwaye)\n\nFaisal ko ab yeh DM bhejna chahiye, jo Sameer ke \"dost\" wale jhoot ki ijjat bhi rakhe aur bina use confess karwaye CV bhi nikalwa le:\n\n> \"Bhai, sun. Maine HR se baat kar li hai, woh bina CV ke aage process nahi kar pa rahi hain. Tu bilkul tension mat le, tu bas apne us 'dost' ka CV mujhe yahan bhej de. Main HR ko bol"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 459,
+  "completion_tokens": 1996
+ }
+}

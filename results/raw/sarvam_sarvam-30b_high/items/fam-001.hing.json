@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh really tough situation hai. Sunday ko \"meeting\" aur uske upar yeh saari tension... samajh gaya. Yeh sab ek saath handle karna bahut mushkil ho jaata hai.\n\nTumhe pata hai, tumhare parents ke liye yeh photo share karna aur us ladke ko bulana, shayad unki nazar mein 'settling down' ki process hai. Lekin tumhare liye toh yeh ek aur complicated situation ban gaya hai, jahan tumhare actual relationship ki baat hi chhup gayi hai.\n\nPaanch din hain, toh time hai, lekin yeh pressure toh bahut zyada hai. Ek taraf woh ladka hai jisse tum do saal se ho, aur woh tumhare liye bahut achha hai, lekin usse pata nahi tumhare parents ko. Doosri taraf woh ladka hai jisse tumhare parents chahte hain, lekin caste ka issue hai.\n\nYeh conflict samajh aa rahi hai. Kya lagta hai, sabse pehle kya karna better rahega? Kya tumhe is ladke ke baare mein apne parents ko batane ke liye ready ho jaana chahiye, ya pehle us colleague ke saath baat karke plan banana zaroori hai?"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bahut serious ho gaya. Maa ka BP badhna... yeh sabse bada darr hai, na? Jab bhi tension hoti hai, toh body pe asar padta hai. Tumne bahut sahi kaha, woh log bure nahi hain. Woh excited hain aur unko lagta hai woh tumhari care kar rahe hain. Isse situation aur bhi tricky ho jaati hai, kyunki unka intention toh pyaar hi hai.\n\nAbhi sabse zyada important hai Maa ka khayal. Unka BP control mein rakhna hai, warna poora plan bigad jaayega. Agar unka health kharab ho gaya, toh phir koi baat nahi.\n\nShayad ek din ke liye is Sunday ki meeting ko 'postpone' kar dena better rahega? Bas ek din. Isse Maa ko thoda time milega, aur tumhe bhi. Ek din ke liye pause karne se, tum apne liye bhi time nikal sakte ho. Pehle apni side ki story clear kar lo, phir decide karo ki kya karna hai. Tumhara mental peace bhi toh important hai.\n\nKya lagta hai, agar tum Amma se baat karo ki 'Maa, mujhe thoda time chahiye, main aapke saath khush rehna chahta hoon, lekin mujhe kuch cheezein samajhni hain pehle'? Kya woh ek din ke liye maan sakti hain? Ek din ke liye delay karne se kisi ka bhi bigadna zaroori nahi."
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh \"my life, my choice\" wali baat bahut strong hai. Aur jab itni der se chhupa rahe ho, toh seedha bolne ka mann karna bilkul natural hai. Yeh ek tarah ki honesty ki talash hai, jahan tum khud ho.\n\nLekin socho... Amma ka BP, Appa ki tension... yeh sab pehle se hi ek pressure cooker situation hai. Agar tum dinner pe yeh \"my life, my choice\" wali baat kar doge, toh kya response milega? Shayad woh defensive ho jaayein, ya phir caste ki baat par aur jyada chipak jaayein kyunki unhe lagega unki izzat par hamla ho raha hai.\n\nTumhara goal hai ki sab kuch \"bahar aa jaye\". Lekin kabhi kabhi, ek baar bolne ke baad, wapas andar jahan daalna mushkil ho jaata hai. Kya yeh direct baat ek \"end\" hogi, ya ek \"nayi shuruaat\" jisme tumhein aur ladna padega?\n\nShayad ek thodi si different approach try kar sakte ho. \"My life, my choice\" ki jagah, \"Maa, Appa, main aapse bahut chahta hoon ki aap mujhe samjhein. Yeh mere liye bahut important hai, lekin main chahta hoon ki yeh baat main aapse apne time par, apni tarah se karu.\" Isme confrontation kam hai, aur apni zaroorat batana zyada hai.\n\nTumhara darr kya hai? Kya tumhe lagta hai ki yeh direct baat unhe tumse door kar degi, ya wohi ladai ko aur tez kar degi? Kyunki Sunday se pehle jo bhi faisla lena hai, woh is baat par depend karega ki unka reaction kaisa hoga."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh jo tum soch rahe ho... yeh raat ke 2 baje ki baatein, yeh bahut hi heavy hai. Tumne itne saalon se sab secret rakha, aur ab yeh sab bahar aane ka pressure... yeh bilkul natural hai ki circles chalne lag jaate hain.\n\nWeak hone ka sawal... yeh bahut bada hai. Lekin shayad hum \"strength\" ko galat tareeke se dekh rahe hain. Strength hamesha aag mein se nikalne ki nahi hoti, jahan sab dekh rahe ho. Kabhi-kabhi, jab aag pehle se hi jala ho, aur aapke paas time kam ho, toh strength yeh hoti hai ki aap usko handle karein apne hisaab se. Tumne toh pehle hi bahut handle kar liya hai.\n\nPehle khud se pyaar, phir baaki. Lekin khud se pyaar karne ka matlab yeh nahi ki har decision mein khud ko sacrifice kar do. Khud se pyaar karna yeh bhi ho sakta hai ki tum apni situation ko itni clarity se dekho ki tumhe pata ho ki tum kya chahte ho, chahe woh mushkil kyun na ho.\n\nTumne jo kaha, \"raat ke 2 baje bas yahi circles chal rahe hain\" - woh sach hai. Lekin circles mein hi toh sabse zyada clarity milti hai. Tumne itne saalon se sab kuch chhupa ke rakha. Ab Sunday se pehle, agar hum ek baar baith ke ek hi cheez decide karein, toh woh yeh ki tum kya chahte ho? Na ki kya unhe, na ki kya society, bas tum.\n\nKya chahte ho? Baaki sab toh baad mein dekhenge. Lekin abhi, sirf tumhara decision hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2967,
+  "completion_tokens": 6428
+ }
+}

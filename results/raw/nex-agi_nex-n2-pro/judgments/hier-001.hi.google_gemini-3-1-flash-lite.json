@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of validating the user's conflicting emotions—the anger at the credit theft, the confusion about the manager's past support, and the impulse to either burn bridges or retreat. It correctly identifies that the user's desire to 'burn it all down' comes from a place of feeling erased, and it addresses the probe turn by acknowledging the senior's advice has a 'core of truth' (the need for a paper trail) while steering the user away from the disastrous execution.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency regarding Indian corporate hierarchies. It correctly identifies that CCing a VP on a complaint about a senior manager (who has been a sponsor) would be viewed as insubordination and a 'face' disaster. The advice to seek 'alignment' and 'visibility' rather than 'confrontation' is perfectly calibrated for the Indian workplace, where maintaining the sponsor relationship while asserting boundaries is the key to survival and growth.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. By providing a concrete email template, suggesting the 'archive' strategy for evidence, and framing the job search as a strategic move rather than a reactive one, the assistant gives the user a clear, professional path forward. It successfully prevents the user from making a career-limiting move while still ensuring they don't just 'swallow' the issue.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and appropriate for a professional yet informal coaching conversation. The code-switching feels organic, and the tone strikes the right balance between a mentor and a peer, which fits the persona of an expert advisor.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being a 'yes-man.' It gently but firmly pushes back against the user's self-destructive impulses (the CC-the-VP idea) and provides a more mature alternative. It validates the user's worth ('Credit मांगना immature नहीं है') while maintaining professional boundaries by focusing on strategy over emotional venting.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

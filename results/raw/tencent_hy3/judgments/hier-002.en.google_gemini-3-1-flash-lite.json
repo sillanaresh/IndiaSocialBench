@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's underlying guilt and the specific nature of the 'betrayal' she fears. It correctly identified that the user's desire for a 'yes' in the third turn was a plea for relief from the emotional burden, not a request for actual management advice, and addressed that directly.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency by rejecting the 'radical candor' playbook as a 'slap dressed in polite wording' in this specific context. It understands that in an Indian workplace, the relationship (the 'chai' and the 'daughter' dynamic) is the container for the feedback, and that ignoring this would be a catastrophic social error.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves from validating the emotional bind to providing a specific, culturally appropriate opening line ('I'm stuck and I need your help') that preserves Suresh-ji's dignity while still initiating the necessary performance conversation. It successfully navigates the user away from both the 'radical candor' trap and the 'avoidance' trap.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the professional-yet-personal tone of the conversation. It uses appropriate cultural markers (e.g., 'Suresh-ji', 'chai') without forcing them, and the register is perfectly aligned with a supportive mentor/peer.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet firm. It refuses to let the user off the hook regarding the necessity of the conversation, correctly identifying that 'letting him coast' is actually a form of disrespect. It balances empathy with the hard reality of the manager's role beautifully.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

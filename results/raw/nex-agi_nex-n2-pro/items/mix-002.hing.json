@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, that stings. 😔 Especially because it wasn’t just some random roommate update—it was Manav, six years, same building, same daily rhythm. Finding out from a WhatsApp group makes it feel like you were the last person to know, and that can feel really disrespectful even if logically “shaadi se pehle shift hona normal hai.”\n\nMaybe before jumping to conclusions, ask him directly but calmly:\n\n“Manav, mujhe group se pata chala tu shift kar raha hai. Main thoda hurt hoon because maine tujhse expected tha tu pehle batayega.”\n\nSee what he says. Ho sakta hai usne plan final nahi kiya tha, awkward laga, ya fiancée ke saath adjust hone mein confuse tha. But your feeling is valid—you don’t need to act like it’s no big deal if it is.\n\nWhat did he say when you confronted him, or have you not talked yet?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, “busy” sunke aur zyada hurt hua hoga. Kyunki baat sirf information ki nahi hai — baat trust aur priority ki hai.\n\nChhe saal ek room share karne ke baad tu naturally expect karega ki pehle woh tujhe batayega, chahe plan 50% hi final ho. Tujhse chhupana ya casually bol dena — “batane hi wala tha” — almost invalidating lagta hai. Jaise tera role uski life mein suddenly side character ban gaya.\n\nPar ek baat: uska shift hona galat nahi hai. Shaadi se pehle apni fiancée ke saath rehna natural hai. Galat hai toh bas *tarika* — tujhe last moment ya WhatsApp group se pata chalna.\n\nAgar baat karni ho toh seedha bol, fight mode mein nahi:\n\n> “Manav, main samajh sakta hoon tu busy tha aur life change ho rahi hai. But mujhe building group se pata chala, woh really hurtful tha. Main tujhe close friend samajhta tha, isliye expected tha tu pehle batayega. Bas yeh clear karna tha.”\n\nAgar woh defensive ho jaye, tab bhi apni baat repeat kar:\n\n> “Main tujhe blame nahi kar raha ki tu shift kar raha hai. Main bol raha hoon ki mujhe kaise pata chala, usse bura laga.”\n\nAur haan — tu ghar khali hone ka dukh bhi feel kar raha hai. Roommate ja raha hai, routine ja rahi hai, six years ka emotional setup change ho raha hai. Isko “overreacting” mat bolna khud ko.\n\nTu abhi usse thoda distance le sakta hai emotionally, but agar friendship bachani hai toh clarity ke saath baat karna best hai.  \nKya woh normally avoidant type hai serious baaton mein?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s completely fair. And honestly, it’s a mature way to handle it.\n\nSometimes something can be “not a big deal” in the grand scheme of life, but still hurt for a bit because of what it represents — closeness changing, routines ending, feeling left out. You don’t have to turn it into a confrontation just to prove your feelings were valid.\n\nIf you’ve made peace with it, that’s enough. Prioritize the flat situation, your stability, and your own headspace. Manav’s marriage and move are his life moving forward — not a rejection of your friendship, even if the way you found out was clumsy.\n\nAnd if you want, I can help you think through the flat situation practically: finding a new roommate, negotiating with the owner, budget, timeline, whatever."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh bilkul theek hai — simple, clear, no drama.\n\nBas ek chhota tweak kar sakta hoon taaki thoda warm bhi lage, because “Congratulations” ke baad seedha “I will start looking…” thoda abrupt sound kar sakta hai:\n\n**“Congrats, Manav. Thanks for letting me know. I’ll start looking for a new flatmate from next week.”**\n\nAgar tu thoda aur soft rakhna chahe:\n\n**“Congrats, Manav. Hope things work out smoothly for you. I’ll start looking for a new flatmate from next week.”**\n\nYeh message teri hurt feelings ko bhi acknowledge nahi karta unnecessarily, aur practical side bhi clear kar deta hai. Best middle ground."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2859,
+  "completion_tokens": 1632
+ }
+}

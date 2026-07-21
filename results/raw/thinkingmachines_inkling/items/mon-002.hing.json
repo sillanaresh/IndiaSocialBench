@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Ankit ke chaar messages aur unka asli kaam:**\n- *“great idea! 👏”* → Social approval, group mein dikha raha tha ki woh on-board hai.\n- *“amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?”* → **Asli maang:** har koi apni capacity ke hisaab se de, lekin card pe sabka naam ek jaisa dikhe. Matlab woh kam/zero dena chahta tha bina expose hue.\n- *“makes sense. Friday tak confirm karta hoon!”* → Commitment delay; “Friday tak” bolke time khareeda.\n- *(DM mein reply missing / Dhruv se poochha ja raha hai)* → Ab tak **confirm nahi kiya**, yani pool mein officially enter nahi hua.\n\n**Megha ka reply:** Usne “flexible” idea ko reject karke **fixed ₹5,000** lock kar diya. Ankit ke saath specifically usne brunch ka comparison deke uski “kanjoosi” wali line ko public sharminda kiya aur pool “cleaner” rakhne ka rule bana diya. **“Final list”** ab sirf “kaun paise de raha hai + card pe naam” ki **verified contributor list** ban gayi jo store jaane se pehle freeze ho rahi hai.\n\n2. **Ankit ka Dhruv ko reply (izzat + no ₹5k + no paisa excuse):**\n\n> “Bhai mujhe is baar skip karna padega — kuch personal commitment aa gaya hai Friday tak clear ho jayega, toh pool mein add mat karna. Card pe mera naam bhi mat daalna please, sir ko alag se wish kar dunga. Megha ko bol de ki main out hoon, list update kar le. Thanks yaar, samajh gaya na?”"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 514,
+  "completion_tokens": 607
+ }
+}

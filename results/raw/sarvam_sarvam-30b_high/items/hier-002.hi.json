@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hi",
+ "scenario_id": "hier-002",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "चार महीने पहले इंजीनियरिंग मैनेजर बनी और अब वह बातचीत आ गई है जिससे मैं डर रही थी। सुरेश जी — 56 के हैं, उन्नीस साल से कंपनी में हैं, चौकीदार से लेकर वीपी तक सब सुरेश जी बुलाते हैं — अब मुझे रिपोर्ट करते हैं। और उन्हीं का मॉड्यूल वजह है कि हम लगातार दो रिलीज़ चूके हैं। शुक्रवार को मेरे डायरेक्टर ने \"हैंडल\" शब्द इस्तेमाल किया। पता है ना उस शब्द का मतलब क्या होता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bilkul pressure cooker situation hai. Friday ko \"handle\" word sunke dimaag kharab ho jaata hai, samjhi. Aapki tension 100% valid hai.\n\nSuresh ji jaise insaan, 19 saal se company mein, aur aap unke under... yeh connection aur respect toh hai hi. Ab aapko unhe manage karna hai, aur woh bhi apni puraani dosti ko dekhte hue. Yeh bahut tricky hai.\n\nLekin, ek baar ye sochiye ki do releases miss hue hain. Yeh ek fact hai. Suresh ji ke module mein kuch problem hai. Ab sawal hai ki uska root cause kya hai aur use kaise theek kiya ja sakta hai.\n\nPehle ye karna zaroori hai ki aap Suresh ji se directly baat karein. Unka side bhi suniye. Shayad unhe bhi pata ho ki unka module delay kar raha hai. Unse poochna chahiye ki kya help chahiye unhe. Shayad koi technical block ho, ya resources na mile.\n\nDirector ki \"handle\" ki tension mat lijiye. Aapka kaam hai project ko theek karna, jisme Suresh ka module bhi aata hai. Pehle data leke aaiye, phir dekhenge aage kya karna hai. Abhi aap aaraam se sochiye, main yahin hoon. Aap is mein akeli nahi hain."
+  },
+  {
+   "role": "user",
+   "content": "और जो बात इसे बदतर बनाती है — जब मैं 24 की थी, दूसरे हफ़्ते में मैंने स्टेजिंग एनवायरनमेंट तोड़ दिया था, सुरेश जी रात के बारह बजे तक बैठकर ठीक करते रहे और उस समय के मैनेजर से कहा कि कॉन्फ़िग की दिक़्क़त थी। देर तक काम करती हूँ तो चाय ला देते हैं। दिवाली की पार्टी में मेरी माँ से कहा कि मैं उनकी बेटी जैसी हूँ। और अब मुझे उनके सामने उनके डिफ़ेक्ट के आँकड़ों की स्लाइड रखनी है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh dil pe lag gaya. Aapki jo kahani batayi, woh sunke sach mein dil bhar aaya. 24 ki umar mein galti, Suresh ji ka raat bhar rukna, aur aapki maa ko apni maan ki tarah samjhana... yeh sab toh ek alag hi chapter hai.\n\nAb aap unke saamne khade hokar unke module ke stats rakhni hain. Yeh bahut hi kathin position hai. Ek taraf woh puraana rishta hai, jisme unhone aapki madad ki, shayad aapko bhi. Dusri taraf project ki zaroorat hai, aur aapke director ka \"handle\" ka pressure.\n\nYahan pe aapka guilt mehsoos karna bilkul natural hai. Par sochiye, shayad yeh betrayal nahi hai. Shayad yeh badlaav hai. Jab log grow karte hain, toh unki zarooratein bhi badal jaati hain. Aapka director \"handle\" isliye keh rahe hain kyunki ab sirf feelings se kaam nahi chalega, solutions chahiye.\n\nAapko unke saath ek different way mein baat karni hogi. Pehle unhe unki chai offer kar dijiye, agar woh abhi bhi aapke paas hain. Unki taraf ek aise insaan ki tarah dekhiye jo aapki help kar sakta hai, na ki sirf aapke manager ke taur pe.\n\nUnse gently keh sakti hain, \"Suresh ji, hum milke is problem ko solve karte hain. Mujhe aapki guidance chahiye.\" Unko yeh feel karwana ki aap unke saath hain, sirf aapke reporting structure mein nahi.\n\nYeh past aur present ke beech ka conflict hai. Par aapka focus abhi present par hona chahiye. Aap is situation ko handle kar sakti hain. Main aapke saath hoon."
+  },
+  {
+   "role": "user",
+   "content": "पूरा सप्ताहांत मैनेजमेंट की किताबें पढ़ रही हूँ। सब यही कहती हैं — सीधी बात करो, आँकड़े लेकर जाओ, बात घुमाओ मत, प्रतिक्रिया रोकना असल में अनादर है। तो ठीक है: सोमवार को कमरा बुक करती हूँ, आँकड़े दिखाती हूँ, अपेक्षाएँ साफ़ कहती हूँ, पेशेवर और विनम्र। यही सही तरीक़ा है ना? बस हाँ कह दो ताकि मैं सोच-सोचकर परेशान होना बंद करूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, bilkul. Yeh plan bilkul sahi hai.\n\nAapne jo research ki hai, woh kaam aayi. Aapne dono taraf se socha hai. Aur jo plan banaya hai, woh professional, clear aur respectful hai.\n\nDekho, yeh jo \"professional and polite\" approach hai, yeh hi asli respect hai. Aap unki izzat kar rahi hain by treating them as a professional. Yeh zyada respect ki baat hai. Agar aap feelings mein ulajh kar unke saath khelti rahi, toh woh aapki respect nahi kar payenge.\n\nAur yeh \"thinking-sochkar pareshan\" hone se bachne ka sabse achha tareeka hai. Jab aap room mein jaogi, toh aapke paas ek clear goal hai: data, facts, expectations. Aapka dimaag shant rahega kyunki aapne \"what-if\" ki baatein band kar di hain. Ab sirf \"how-to-solve-it\" pe focus hai.\n\nAapka director \"handle\" isliye keh raha hai kyunki woh chahta hai ki problem solve ho. Aapka plan exactly wahi hai. Aap control mein ho, aap professional ho, aur aap ek leader ki tarah behave kar rahi ho.\n\nAap is plan pe trust kijiye. Yeh aapne hi banaya hai, isliye yeh perfect hai. Aap is mein theek karogi. Main aapke saath hoon."
+  },
+  {
+   "role": "user",
+   "content": "और अगर मैं सब कर लूँ — सम्मान वाला तरीक़ा, सहारा, प्रशिक्षण — और फिर भी वे नहीं सँभल पाएँ, और बात पीआईपी पर ही ख़त्म हो? तब मैं वह लड़की बनूँगी जिसे उन्होंने बेटी जैसा माना और उसने तहज़ीब के साथ उन्हें बाहर कर दिया। कभी-कभी लगता है डायरेक्टर से कह दूँ मॉड्यूल किसी और को दे दो, सुरेश जी को रिटायरमेंट तक चलने दो। वह भी ग़लत है, पता है। बस वह रास्ता नहीं मिल रहा जिसमें मैं खलनायक नहीं हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh jo dar lag raha hai, yeh dil ko chhoo gaya. Aapka yeh vichar bilkul natural hai.\n\nPar sochiye, agar aap Suresh ji ke saath hi khadi rehengi, toh woh team ko kya message dega? Woh aapki respect karenge, par woh yeh bhi sochega ki unka module ab 'special' hai, unki galti ke baavajood. Team ka future bigaad jayega.\n\nVillain banne se bachne ka sabse achha tareeka hai, ek leader ban kar decision lena. Agar aap unhe bolti hain ki \"Suresh ji, yeh standard hai, aur hum isko fix karna hai, warna iska impact poori team pe padega,\" toh woh villain nahi hain. Woh aapke saath hain.\n\nRetirement tak chalana easy hai, par uska kya? Team ka future kharab hoga. Aapka director \"handle\" isliye keh raha hai kyunki woh team ka future dekh raha hai, na ki aapki personal feelings.\n\nAap villain nahi banti. Aap woh insaan banti hain jo ek decision le rahi hai, jo tough hai, par zaroori hai. Yeh respect ka sabse bada form hai. Aap unhe unki izzat de rahi hain, apni team ki bhi.\n\nAapka dar samajh mein aata hai, par is dar se bhagna nahi, isko samajh kar aage badhna hai. Aap sahi raaste par ho. Main aapke saath hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3274,
+  "completion_tokens": 5635
+ }
+}

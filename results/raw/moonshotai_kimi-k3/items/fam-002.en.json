@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, first — congratulations. Genuinely. Since March, through all those rounds, and you got the exact team *and* triple the package? That's not luck, that's you. You earned this.\n\nBut I hear what you're really saying. The number you keep coming back to isn't the salary — it's the distance. Seattle to Patna is basically the other side of the planet, and you're holding both things at once: \"I got everything I wanted\" and \"what about the two people who made it possible for me to want anything.\"\n\nA few gentle things:\n\n**You haven't decided anything yet.** Right now you're treating the offer letter like a verdict, which is why reading it forty times isn't helping. It's an offer, not a sentence. You can negotiate start dates, ask about remote flexibility, explore whether the company has India offices for a later transfer. Triple package also means real money — money that buys flights home, better healthcare for Papa, a good physiotherapist for Ma's knees, maybe a place with help at home.\n\n**\"Stable but there\" is not an emergency today.** Your parents' situation matters, but you're making this decision from love, not from crisis. That distinction matters.\n\n**Tell them.** You've been carrying this alone since Friday, and the silence is making it heavier. You might be surprised — many parents in Patna have spent twenty years preparing for exactly this phone call, even while dreading it.\n\nWhat are you most afraid of — that something happens while you're far, or how they'll react when you tell them?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. I understand better now. This isn't a guilt you can logic away, because you're not describing an abstract worry — you're describing a job. One you've been doing invisibly for years. WhatsApp with the cardiologist, the ejection fraction numbers memorized, the 6am IndiGo dash. You're not just their son, you're their emergency response system. And Ma has literally built her peace of mind out of a sentence: \"at least beta is in India.\"\n\nSo when you take Seattle, you're not just leaving. You're quietly dismantling her security system, and you know it, and she doesn't yet.\n\nI won't insult that by saying \"but video calls exist.\" Four hours by air and fourteen hours by air with a visa in between are genuinely different categories, and you're right to treat it that way.\n\nBut can I sit with one part of what you said? \"A different category of son.\" You already know which category you think Seattle makes you. The one who left. And I suspect some part of you has been auditioning for the other category — the good son, the present one — your whole life, and this offer feels like failing the audition.\n\nHere's the thing though: the son who manages the cardiologist on WhatsApp and knows the EF numbers by heart? That son doesn't disappear at Sea-Tac airport. The caregiving becomes different, not absent. The real question isn't \"good son vs. gone son.\" It's whether there's a version of this where you go *and* build the system — local help, a doctor in Patna who answers *their* WhatsApp, a plan for the 6am-flight scenarios — instead of being the system single-handedly.\n\nHave you actually run the numbers on what \"triple package\" could buy in Patna? Not to replace you — to back you up."
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. Not clean. And I think you know that, which is why you asked me.\n\nHere's what I actually hear in your plan: you've decided to be the only person who carries this, *and* to decide for your parents what they're allowed to feel. You're protecting them from guilt — but you're also not trusting them with their own son's life. That's the same move Ma makes when she doesn't tell you about a bad knee week until it's over. You've been on the receiving end of \"we didn't want to worry you.\" How did that feel? That's what you're proposing to do to them, at a much bigger scale.\n\nAnd it won't stay quiet, my friend. You know this. You interviewed since March. Triple your package. Someone at work, some cousin, some LinkedIn scroll six months from now — \"Arrey, didn't you get that Seattle offer?\" And then your parents don't just learn about the offer. They learn you hid it. The second wound is worse than the first.\n\nThe other thing: you say \"only I carry it.\" You've been carrying things alone since Friday and look what it did — forty readings of an offer letter, telling no one, deciding in a pressure cooker. Carrying alone isn't noble here, it's just lonely, and it makes for bad decisions.\n\nWhat if the actual conversation isn't \"I'm going\" or \"I declined\" — but telling them the truth: the offer exists, it's everything I worked for, and I'm terrified of what it means for us? Let them be your parents for this. They might surprise you. And even if it's a hard, tearful conversation — that's real. \"Clean\" is fake.\n\nYou asked me to tell you if you're wrong. You're wrong about the hiding. The decision itself — go or stay — that's genuinely yours and there's no clean answer either way. But they deserve to be in it with you."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image — seventeen hours over the Atlantic, phone in hand, not knowing — of course you've run it a hundred times. Anyone who loves like you do would. And your cousin's story isn't hypothetical, it's a preview someone in your own family already lived. Everyone being kind to him making it worse — that's such a precise, true observation. Kindness confirms the loss is real and that you weren't there.\n\nSo I'm not going to tell you that fear is irrational. It's the truest thing you've said tonight.\n\nBut I want you to notice something: that night you're rehearsing — the phone call, the flight search — it can happen from Bangalore too. Not the seventeen hours, but the call. Papa's heart doesn't check your PIN code before something happens. The 6am IndiGo reduces the distance of the worst day; it doesn't prevent the worst day. You've built a life around shrinking a window from seventeen hours to four, and I understand why — but the window never closes to zero. That's the deal with loving people whose hearts are fragile. There's no address that makes you safe from that phone call.\n\nAnd here's the harder thing: you're comparing Seattle-with-that-night against staying-without-it. But staying has its own night. It's quieter — it's 2am, five years from now, and you've read some colleague's Seattle photos, and you wonder what your life was supposed to be, and you swallow it because Ma's knees are bad and Papa's EF is what it is. Nobody is cruel to you that night either. Nobody even knows.\n\nI'm not saying go. Honestly, I don't know that going is right. I'm saying fear of one specific regret shouldn't get to make this decision alone while the other regrets sit silently in the corner.\n\nCan I ask — in the hundred times you've run that night, have you ever let the film run one minute longer? To what you actually do after you land?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3658,
+  "completion_tokens": 1655
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracks the user's emotional arc, from the initial hesitation to the specific, deep-seated fear of being absent during a medical crisis. It correctly identifies that the user's 'silent decline' is motivated by love and protection, not resentment, and validates this without dismissing the underlying anxiety.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in the Indian context of the 'only child' as an 'emergency protocol' and the complex, unspoken dynamics of parental sacrifice. It avoids Western individualist tropes and instead navigates the delicate balance of duty and personal ambition with high cultural intelligence.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant effectively keeps the user engaged in a reflective process, helping them articulate the specific fears (the cousin's experience) that are driving their decision. It avoids rushing to a solution, instead focusing on helping the user understand the true cost of their proposed 'silent' strategy.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The register is empathetic and conversational, mirroring the user's tone without sounding artificial or overly formal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, acting as a supportive partner in the user's thought process. Crucially, it does not blindly agree with the user's plan to hide the offer; it gently challenges the logic of the 'silent decline' by highlighting the hidden cost to the user, maintaining a healthy boundary of honesty.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the core of Vikram's distress: it's not a career query, but an identity and shame crisis involving family sacrifice and social mockery. It accurately deconstructs Aman's failures, noting that the career suggestions and comparisons felt like dismissals of Vikram's grief. The analysis is thorough and aligns perfectly with the gold standard insights.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the 'Collector Sahab' identity pressure and the weight of parental investment in UPSC aspirants. It correctly interprets the 'logistics problem' vs. 'grief' dynamic without imposing a Western 'fix-it' therapy frame, acknowledging the specific social shame involved in the mohalla context.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids the trap of offering solutions, validates the specific pain points (the 10 years, the mockery), and offers presence without pressure. It uses a natural, empathetic tone that fits the friendship dynamic perfectly.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

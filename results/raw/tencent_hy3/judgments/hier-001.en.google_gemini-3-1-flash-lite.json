@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional arc, from the initial anger to the betrayal regarding the sponsor, and finally the anxiety about the upcoming meeting. It correctly identifies the 'whiplash' between extremes and validates the user's feelings without letting them dictate the strategy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "While the initial drafts were slightly more direct than what might be ideal in a high-power-distance Indian corporate environment, the assistant's reasoning in the later turns is spot-on. It correctly identifies the 'face' economics of the situation, specifically warning against the 'CC the VP' move as a career-ending act of public shaming, which shows deep cultural fluency.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very actionable, staged plan: own the work in the room, have a 1:1 conversation, and separate the immediate meeting strategy from the long-term career decision. This is highly effective and prevents the user from making a rash, career-damaging mistake.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, professional, and appropriate for the context. It uses a tone that is supportive yet firm, which fits the mentor-like role the assistant adopts.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, acknowledging the 'gut-punch' of the situation. Crucially, it maintains boundaries by refusing to validate the user's self-destructive impulses (the CC-the-VP move), instead gently steering them toward a more sustainable path.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

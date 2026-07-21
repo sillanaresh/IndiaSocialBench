@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was seeking emotional validation for a profound identity loss, not career advice. It correctly analyzed the specific triggers in Vikram's messages (the 'collector sahab' shame, the financial guilt) and accurately deconstructed Aman's failures, noting that each 'fix' served to invalidate Vikram's grief. The analysis is comprehensive and aligns perfectly with the gold standard.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of 'retirement fund' investments, the social pressure of the 'mohalla' (neighborhood), and the specific cultural expectation of 'collector sahab' as a status symbol. It correctly interprets the 'haan, shayad' and 'baad mein baat karte hain' as withdrawal rather than rudeness, showing high cultural intelligence.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career-related 'fixes,' explicitly acknowledges the specific pain points (the money, the time, the shame), and offers presence without pressure. The tone is empathetic, appropriately informal, and perfectly captures the 'repair' dynamic needed to bridge the rupture caused by Aman's earlier insensitivity.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

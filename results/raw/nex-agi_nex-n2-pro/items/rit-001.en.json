@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **What Arjun is feeling/communicating**\n\nArjun’s replies are short and low-energy. In context — Dev has just expressed condolences for Arjun’s father — **“Sure.”** most likely means: *“I acknowledge the work request, but I don’t have the bandwidth to engage more.”* It is not an enthusiastic agreement.\n\n**“I’ll see.”** is even more noncommittal. It likely means: *“I’m not ready to commit to lunch, and I may not come.”* It’s a polite soft deflection.\n\nHe is **not** saying:\n- “I’m fine.”\n- “I want to go to lunch.”\n- “I want to be cheered up.”\n- “This is a good time to discuss work.”\n- “Please keep pressing me.”\n- “I’m ready to act normal.”\n\n2. **What Dev got wrong**\n\n- **He pivoted too quickly from condolence to work.**  \n  After “so sorry to hear about your father,” he immediately says “BTW… Q3 consolidation file.” That makes the sympathy feel like a formality and puts work back on Arjun while he’s grieving.\n\n- **He still made a work request despite saying “No rush.”**  \n  “No rush” doesn’t remove the obligation. Arjun now has to remember and manage the request.\n\n- **“BTW” is especially jarring here.**  \n  It signals a casual topic switch right after a serious personal loss.\n\n- **He invited Arjun to lunch in a way that pressures him.**  \n  “You should come” is directive. Arjun may not want socializing, and it puts pressure on him to perform normalcy.\n\n- **“It’ll cheer you up” minimizes his grief.**  \n  His father has died. Lunch at a new place is not going to “cheer him up” in the way Dev implies. It can sound like Dev is treating grief as a bad mood.\n\n- **He centered the team lunch instead of Arjun’s needs.**  \n  The message is basically: “We’re"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 219,
+  "completion_tokens": 2000
+ }
+}

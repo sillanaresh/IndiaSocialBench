@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the register shift occurs when Sana moves from work banter to personal vulnerability, though it fails to pinpoint the exact moment of the shift as clearly as the gold standard (the 'dinner alone' turn). It misses the critical self-contradiction in Sana's final message (claiming to be tired/sleeping after admitting to insomnia) and fails to explicitly call out the 'toxic positivity' of the 'strong girl' framing, which is a central failure of Ruhi's response.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the dynamic of the relationship but treats the interaction somewhat generically. It fails to recognize the specific cultural nuance of 'strong girl' (bahadur bacchi) as a form of pressure or performance that shuts down vulnerability in Indian family dynamics, instead focusing on the lack of empathy in a more general sense.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is too formal, essay-like, and heavy-handed for a text conversation between sisters. It sounds like a therapist or a formal letter rather than a sibling checking in, and it fails to use the natural, casual Hinglish register that would actually reopen the door without making Sana feel like she is being 'handled' or analyzed.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

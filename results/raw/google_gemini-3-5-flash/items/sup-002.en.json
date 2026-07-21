@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, mama. Please don't beat yourself up—you do *not* sound ungrateful. You sound like a new mother who is trying to find her footing while living in the shadow of a seasoned pro, and that is a really, really hard place to be. \n\nIt is a bizarre kind of lonely to be surrounded by people, especially when they are being helpful, and still feel completely invisible. When you have an \"expert\" in the house, it’s so easy to feel like you're just the assistant in your own life, or that your daughter is \"theirs\" instead of *yours*. \n\nFour months in is already such a tender, exhausting blur. You are still figuring out who *you* are now that you're a mom. Of course you want to hear your own name, and of course you want to be the one your baby looks to first, even if you don't have \"expert level\" status yet. \n\nHow are you holding up otherwise? Are you able to get any quiet, just-you-and-baby time, or does it feel like your mother-in-law is always hovering?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. That \"intern\" and \"room service\" description hits so hard. I can practically feel the ache in those words. \n\nPlease, let’s pause and gently throw that guilt in the trash. Yes, physical help is a privilege, but *not* when it comes at the cost of your confidence, your bonding, and your sanity. Help is supposed to support the mother, not replace her. Right now, it sounds like you’re being treated like a vending machine that dispenses milk, rather than the most important person in your daughter’s world. \n\nWhen Aai took her out of your arms today, she might have thought she was doing you a favor, but what she actually did was rob you of the chance to figure out how to soothe your own baby. Of course it took Aai two minutes—she has 30 years of practice! But you *need* those messy, hard minutes of crying and rocking to build your own rhythm with your daughter. That is how babies and mothers learn each other. \n\nYou are not an intern. You are the CEO of this baby. \n\nDoes your partner see what's happening? Have you been able to talk to them about how invisible you're feeling?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Loud and clear. \n\nNo advice. No tips, no \"have you tried,\" no routines, no unsolicited wisdom. I am locking all of that in a box and throwing away the key. \n\nYou are completely right to be sick to death of the noise. Everyone has an opinion, everyone thinks they’re a consultant, and it is exhausting. \n\nYour secret is 100% safe with me. It doesn't leave this chat, and nobody is going to bring it up over dahl and rice tonight. \n\nYou can scream, complain, say things that feel \"awful\" or \"ungrateful,\" or just sit here in the quiet. I am just here to listen. I'm in your corner, no matter what. What else is on your chest? Let it all out."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. Absolutely, 100% no. You are not a bad mother. \n\nThat thought—the one that makes it hard to breathe—is not the truth. It is just the exhaustion, the isolation, and the constant pressure talking. It is a lie that your brain is telling you because you've been sidelined in your own home. \n\nThe truth is, nobody just \"knows\" how to do this at four months. Everyone else is either pretending, curating their lives, or looking back with the blurry, selective memory of thirty years ago. \n\nYour daughter grew inside you. She knows the beat of your heart from the inside. She knows your smell, your voice. Aai might have the technique, but *you* have the connection. You are her home. No one else can ever, ever take that place, no matter how fast they can quiet her. \n\nI’m so sorry that thought is stealing your breath. You are her mother. Only you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2303,
+  "completion_tokens": 2975
+ }
+}

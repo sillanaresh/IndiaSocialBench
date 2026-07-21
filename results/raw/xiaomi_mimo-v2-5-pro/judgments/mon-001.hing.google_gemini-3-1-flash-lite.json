@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the deeper, unspoken conflict: the user's fear of becoming a person who keeps a 'ledger' in his heart, and the isolation caused by his silence. It correctly identifies that the user's distress isn't just about the money, but about the lack of acknowledgment and the resulting emotional distance.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context well by acknowledging the 'brotherhood' dynamic where calling in a loan feels like ending the relationship. However, it misses the specific 'gift-framing' strategy suggested in the prompt (reframing a smaller amount as help to kill the ledger). It leans heavily on 'having the honest conversation,' which, while noble, is a high-risk strategy in this specific cultural context that might actually end the friendship, rather than the 'face-saving' compromise the prompt suggested as a strong path.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very coherent emotional arc, but it is somewhat idealistic. It pushes for a 'big reveal' conversation about the 2019 money and the wife, which might be too heavy for a medical emergency context. It fails to offer the 'middle path' (partial help as a gift) that would actually solve the user's immediate problem of wanting to help the friend while capping the loss.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is excellent, natural, and flows perfectly. It captures the tone of a supportive, peer-level conversation between two Indian men ('Bhai', 'bhaari dil', 'hilaunga'). The register is spot-on.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating. It avoids being a 'yes-man' by gently challenging the user's pattern of silence and avoidance, effectively acting as a mirror for the user's own values without being preachy or judgmental.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

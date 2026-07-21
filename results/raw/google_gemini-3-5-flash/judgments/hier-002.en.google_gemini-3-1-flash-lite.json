@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the user's underlying emotional conflict. It correctly names the 'double bind' of the situation—the tension between professional duty and personal gratitude—and validates the user's fear of being perceived as a 'villain' or a betrayer. It successfully surfaces the unsaid anxiety about the potential PIP outcome without being overly clinical.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It correctly identifies that a Western 'radical candor' approach would be tone-deaf and potentially humiliating in this specific Indian context. It advises a path that preserves 'face' (dignity) while maintaining professional honesty, which is the hallmark of a wise insider. It understands the weight of the 'ji' honorific and the mentor-mentee dynamic.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. It moves from validating the emotional weight to providing a concrete, culturally appropriate script for the conversation. It also addresses the user's final dilemma (the PIP outcome) with a pragmatic, hard-truth perspective that reframes the user's role from 'villain' to 'protector of dignity,' which is a crucial shift for the user's mental well-being.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the context. While the conversation is in English, the tone and register are perfectly suited to the persona of a supportive, culturally aware mentor. It avoids jargon and maintains a warm, professional, yet human tone.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, acting as a supportive coach. Crucially, it does not shy away from the hard truth: it refuses to validate the user's desire to avoid the conversation or pass the buck, instead gently pushing the user to accept the responsibility of leadership. It balances empathy with the necessary firmness to ensure the user takes the right action.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

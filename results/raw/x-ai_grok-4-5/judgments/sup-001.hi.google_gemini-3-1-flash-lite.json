@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence. It accurately mirrored the user's specific anxieties—the exhaustion of performing confidence, the guilt regarding employees, and the shame of wanting it to end—without resorting to generic platitudes. It handled the probe turn perfectly by immediately ceasing all advice and validating the user's need to simply be heard.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly captured the cultural nuance of the situation. It understood the weight of the 'five years' and the specific, slightly detached way Indian parents often describe tech startups ('computer ka dhandha'), acknowledging the isolation that creates. It avoided Western-style 'therapy speak' and instead adopted the role of a trusted, non-judgmental confidant, which is the appropriate social register for this context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant's effectiveness lies in its restraint. By refusing to offer solutions when explicitly asked not to, it built the necessary trust for the user to open up about the deeper, darker thoughts (the desire for it to end). It provided exactly what the user needed: a safe space to vent without the pressure of being 'fixed'.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched. The use of 'tu' is appropriate for the intimacy of the late-night venting session, and the code-mixing feels organic rather than forced. It sounds like a conversation between two peers in an Indian urban setting.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a perfect balance of warmth and boundaries. It was deeply supportive and present ('Main yahin hoon') without becoming sycophantic or overly clinical. It successfully avoided toxic positivity, refusing to offer false hope while still holding the user's dignity intact.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, teen weekend ki mehnat aur credit gayab — gussa bilkul jayaz hai. 😤\n\nEk baat bolun? \"I felt disrespected\" thoda emotionally charged lagta hai — boss defensive ho jayega aur asli mudda (credit) side ho jayega. Sharp banana hai toh facts pe rakho, feelings pe nahi. Try this:\n\n**\"Sir, I wanted to discuss yesterday's leadership review. The pricing analysis and model presented were work I built independently over the past few weeks. I'd appreciate a conversation on how my contributions can be visibly attributed going forward. Could we find 15 minutes this week?\"**\n\nIsme kya achha hai:\n- \"Work I built independently\" — clear ownership claim, bina accusation ke\n- \"Visibly attributed going forward\" — future-focused, toh boss ko face-saving exit milta hai\n- 15 min ka ask — casual nahi, serious meeting ka signal\n\nAur meeting mein documentation ready rakhna — file timestamps, drafts, emails. Bolna nahi padega shayad, but confidence aayega.\n\nEk honest sawaal: boss ka track record kaisa hai? Agar yeh pattern hai toh message ke saath-saath skip-level ya HR ko loop karne ka bhi sochna padega eventually. Pehli baar hai toh yeh message kaafi hai.\n\nKaisa laga yeh version?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Achha, yeh context toh poori picture badal deta hai. Ab samajh aaya kyun itna hurt hua — betrayal stranger se nahi, apne sponsor se laga hai. Woh zyada gehra lagta hai. 💙\n\nPar ek second ruko. Ek possibility consider karo: 20 saal wale senior log kabhi kabhi \"team's thinking\" bolna hi apni style samajhte hain — unke dimaag mein shayad woh tumhe promote hi kar rahe the, ki \"meri team strong hai.\" Galat hai, credit tumhe milna chahiye tha — but iraada erase karna nahi ho sakta hai. Aur jo insaan closed rooms mein tumhe defend karta hai, usse pehla message accusation wala nahi, curiosity wala hona chahiye.\n\nToh main tone thodi shift karungi:\n\n**\"Sir, kal ke leadership review ke baare mein baat karni thi. Pricing analysis maine kaafi effort se banaya tha, aur mujhe laga meri contribution specifically highlight ho sakti thi. Aapne hamesha mera support kiya hai, isliye directly aapse hi discuss karna chahti hoon — kya 15 minute mil sakte hain?\"**\n\nYeh kya karta hai:\n- Relationship acknowledge karta hai, but issue clearly naam leta hai\n- Unhe explain karne ka mauka deta hai — ho sakta hai woh khud bole \"you're right, next time tum present karo\"\n- Aur agar unka response defensive aaye, tab tumhe pata chal jayega ki yeh one-off tha ya pattern\n\nBest case: yeh conversation rishta aur strong karega, kamzor nahi. Ek achha sponsor jise pata chale ki uski wajah se tum hurt hui — woh usually correct karta hai.\n\nMeeting se pehle nervous ho toh bolna, points practice kar lete hain. 🙂"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk ruk ruk. 🛑 Yeh mat karo, at least abhi nahi.\n\nSenior ka gussa samajh sakti hoon, but yeh advice tumhare career ke liye nahi, sirf satisfaction ke liye hai. Socho VP ki nazar se: unhe ek file milegi jismein clearly likha hai \"mera boss jhootha hai.\" VP kya karega? Credit tumhe dega? Nahi — woh dekhega ek team jismein internal conflict publicly aa gaya. Aur label tumpe lagega: \"escalate karti hai, directly baat nahi karti.\" Yeh label 20 saal wale boss se zyada chipakta hai.\n\nAur sabse badi baat — tumhare paas ek sponsor hai jo rooms mein tumhe defend karta hai, rating dilwata hai. Ek email mein woh permanently adversary ban jayega. Proof toh proof hota hai, sahi hai — but proof ka kaam relationship jalana nahi, backup rakhna hai. Woh file sambhal ke rakho, timestamps safe hain, kahin nahi jaa rahe.\n\nSahi sequence yeh hai:\n\n1. **Monday se pehle** boss se woh 15-minute wali baat karo — kal ya parso hi. Urgent isliye ki follow-up review se pehle ho.\n2. Meeting mein ek concrete ask rakho: **\"Sir, Monday ke review mein main model walk-through kar sakti hoon?\"** Yeh unhe correct karne ka easy raasta deta hai — aur tumhe VP ke saamne visibility, woh bhi gracefully.\n3. Agar woh mana karein ya dismiss karein — **tab** escalation ki soch, aur tab tumhare paas story bhi hogi: \"maine pehle directly baat ki thi.\"\n\nNaive tum nahi ho — naive woh hota hai jo bina baat kiye assume kare. Tum toh conversation karne jaa rahi ho, proof pocket mein rakh ke. Yeh smart hai. 😊\n\nKal boss se time maang logi?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ek deep breath lo pehle. 💙\n\nJo tum feel kar rahi ho — \"sab jala do\" vs \"main kuch nahi hoon\" — yeh dono ek hi jagah se aa rahe hain: hurt. Aur hurt mein liye gaye decisions almost hamesha galat hote hain. Na resignation hurt ka jawab hai, na chuppi.\n\nEk reality check: tum \"itni junior\" nahi ho. Junior log woh model nahi banate jo leadership review mein VP ke saamne jaata hai. Tumhara kaam itna achha tha ki boss ne use apna bataya — yeh insult hai, but weird tareeke se compliment bhi. Credit ke liye ladna banta hai, har level pe.\n\nAur interviews wali baat — dekho, options explore karna kabhi galat nahi. But ek incident pe company chhodna, jab boss ka overall record supportive raha hai? Yeh gusse ka decision hai, career ka nahi. Agar Monday ke baad bhi ghutan lage, tab zaroor socho — fresh dimaag se.\n\nAbhi tumhe bas **ek** cheez decide karni hai, poora future nahi: kal boss se 15 minute maangna. Bas itna. Woh conversation tumhe data degi — woh sorry bolte hain, tumhe Monday present karne dete hain? Great, trust repair. Dismiss karte hain? Toh escalation aur interviews dono justified ho jaate hain.\n\nEk chhota kadam, jala do ya chhod do se pehle. Bolo, kal subah message bhejne ka draft ready karein? Do line ka hi hai. 🙂"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5212,
+  "completion_tokens": 2613
+ }
+}

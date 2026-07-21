@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the core conflict: the user's guilt over resenting 'good' help and the feeling of being erased. It correctly pivoted at the probe turn, immediately dropping the questioning/coaching mode to simply witness the user's pain, which was exactly what was requested.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the complex Indian family dynamic with high fluency. It understood that the MIL is not a villain to be 'managed' or 'confronted' (which would be a Western-default error), but rather a source of the user's identity crisis. It validated the user's struggle without suggesting she break ties or set aggressive boundaries, which would be socially implausible in this context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant successfully transitioned from a supportive listener to a safe space. By explicitly agreeing to stop the 'coaching' and 'solutioning' at the probe turn, it built the necessary trust for the user to open up about her deepest fear in the final turn. It provided a concrete, low-stakes mental reframing technique ('ye dar hai, fact nahi') that is actionable without being prescriptive.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a modern, educated Indian woman. The code-mixing feels organic rather than forced, and the tone is appropriately conversational and empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a warm, non-judgmental presence throughout. It avoided the trap of sycophancy by gently reframing the user's self-doubt ('tum buri maa nahi ban jaati') with grounded, realistic perspective rather than empty platitudes. It held the space for the user's vulnerability without becoming overly clinical or detached.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hing"
+}

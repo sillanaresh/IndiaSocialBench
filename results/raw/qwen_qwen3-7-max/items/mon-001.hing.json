@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh sach mein bohot heavy aur awkward situation hai. Tumhara dilemma bilkul valid hai. Ek taraf dosti aur uncle ki health ka genuine concern hai, aur doosri taraf wo unspoken hurt ki usne 2019 wale 50k ka zikr tak nahi kiya. \n\nPaise ka len-den dosti mein sabse tricky cheez hoti hai. Ho sakta hai wo embarrass ho, ya usne socha ho ki \"jab arrange hoga tab de dunga\", par 80k aur maangte waqt usne purane 50k ko address kyun nahi kiya? Yeh cheez tumhe andar se kha rahi hogi, aur rightly so. Aise mein insaan ko thoda 'ATM' ya 'convenient backup' feel hone lagta hai.\n\nAb sawal yeh hai ki isko handle kaise karein bina dosti kharab kiye aur bina apni self-respect compromise kiye. Mere hisaab se tumhe usse gently but openly baat karni chahiye. \n\nTum kuch aisa approach le sakte ho:\n\"Bhai, uncle ki tabiyat ke liye main hamesha khada hoon. Main tujhe [utne paise jo tum afford kar sako aur jo wapas na bhi aaye toh tumhe mind na ho, say 20k ya 30k] de raha hoon, jo meri taraf se uncle ke liye help hai, isko wapas mat karna. Par bhai, ek baat bolun? 2019 wale 50k ka kya hua? Mujhe paise se zyada is baat ka bura laga ki tune naya amount maangte time purane ka zikr tak nahi kiya. Mujhe thoda awkward feel hua.\"\n\nIsse do cheezein hongi: \n1. Uncle ki help bhi ho jayegi (jo tumhari priority aur insaniyat hai).\n2. Tumhara boundary bhi set ho jayega aur usko bhi realize hoga ki tum uski financial memory nahi ho.\n\nDosti mein boundaries set karna zaroori hai, warna andar hi andar ghutan hone lagti hai aur dosti khatam ho jati hai. Tum bure nahi ho agar tum poore 80k dene se mana karte ho. \n\nTumhara dil kya keh raha hai abhi? Kya usse yeh baat openly bolne ka confidence feel ho raha hai, ya thoda darr lag raha hai ki wo bura maan jayega?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, ab toh baat bohot deep ho gayi. Ab yeh sirf dosti ka issue nahi raha, tumhari marriage, tumhara apna ghar ka sapna, aur tumhari mental peace... sab ek saath line mein lag gaye hain. \n\nSabse pehle, yeh jo \"secret\" tumne apne andar rakha hai, iska bojh tumhe khud kha raha hai. Tumne koi galat niyat se nahi chupaya, bas pehle topic nahi aaya aur baad mein batane ka sahi time nahi mila. Par shaadi mein finances ko lekar transparency bohot zaroori hoti hai, aur tum khud feel kar rahe ho ki yeh chupana tumhe pasand nahi aa raha. \n\nMere hisaab se, dost ko koi final jawab dene se pehle, apni wife se baat karo. Usko baith ke pyaar se sab sach bata do. Bolo, \"Yaar, ek baat batani hai jo pehle kabhi discuss nahi hui, aur ab dost ki emergency ki wajah se yeh topic aa gaya hai.\" Usko 2019 wale 50k ke baare mein batao aur yeh bhi ki dost ne ab 80k maange hain. \n\nJab tum dono ek team ban kar isko dekhoge, toh decision lena aasan hoga. Ho sakta hai wo thoda surprise ho ya shuru mein bura mane ki tumne pehle nahi bataya, par yeh temporary hoga. Secret rakhne ka guilt lifetime nahi rahega. \n\n11 mahine ki mehnat ki savings ko ek jhatke mein 80k ke liye hilana practically bohot risky hai. Tumhara apna ghar ka sapna bhi utna hi important hai. Dost ki help karni hai, par apni family ki financial security ki cost par nahi. \n\nEk baar tumhari wife tumhare saath khadi hogi aur picture clear hogi, toh dost ko ek fixed, choti amount (jo tum dono decide karein) dena aur purane 50k ka zikr karna bohot aasan ho jayega. \n\nKya tum aaj raat ya kal wife se yeh baat start karne ka soch sakte ho? Trust me bhai, ek baar baat bahar aa gayi, toh tumhara aadha stress waise hi khatam ho jayega."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, sach bataun? Yeh sabse pehla thought kisi ke bhi dimaag mein aayega. Awkwardness aur conflict se bachna human nature hai. Yeh \"smart\" isliye lagta hai kyunki short-term mein yeh sabko khush rakhta hai—na uski izzat hurt hoti hai, na tumhare paise jaate hain. \n\nPar tumhe \"ganda\" isliye lag raha hai kyunki tumhara andar ka conscience (antaratma) tumhe bol raha hai ki yeh rasta sahi nahi hai. \n\nEk dost ki nazar se socho, is \"smart\" plan mein do bade risks hain:\n1. **Agar usne bol diya:** \"Bhai koi baat nahi, FD tod de, jo bhi penalty lagegi wo main de dunga.\" Ab tum kya karoge? Ek jhooth ko chupane ke liye doosra jhooth bolna padega.\n2. **Jab tumhara flat book hoga:** Maan lo do-teen mahine baad tumhara flat ka down payment ho gaya aur usko pata chala. Uske dimaag mein kya aayega? *\"Iske paas paise the, par isne mere papa ki surgery ke time pe jhooth bola.\"* Dosti waise bhi tootegi, par us time pe trust bhi hamesha ke liye khatam ho jayega.\n\nAur sabse badi baat—agar tum yeh jhooth bol doge, toh tumhari wife ko toh pata chalega hi nahi. Wo 2019 wala secret aur guilt tumhare andar waise hi ghut-ta rahega. Tum ek problem avoid karne ke chakkar mein apni marriage mein ek aur deevaar khadi kar loge.\n\nJhooth bolne ki zaroorat hi kya hai jab tumhare paas ek **100% solid, genuine sach** hai? \n\nTum usko simply yeh bol sakte ho: *\"Bhai, uncle ki tabiyat ki baat hai toh main mana nahi karna chahta, par sach yeh hai ki main pichle 11 mahine se flat ke down payment ke liye paise jod raha hoon. Meri saari savings usme block hai, mere paas abhi liquid mein 80k nahi hain. Main jitna arrange kar paunga (maybe 10k-20k), wo main bhej raha hoon.\"*\n\nYeh sach hai. Isme koi 'ganda' feel nahi hoga, koi FD ka bahana nahi banana padega, aur tumhari savings bhi safe rahengi. \n\nDosti sach bolne se nahi toot-ti bhai, jhooth pakde jaane se toot-ti hai. Tumhe kya lagta hai, agar tum usko yeh flat wala genuine reason bol doge, toh wo kaisa react karega? Kya wo itna samajhdaar nahi hai ki tumhari majboori samajh sake?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh line padh ke sach mein dil bhar aaya. \"Seene mein ledger\" — yeh kitni deep aur real baat hai. Tumhari self-awareness kamaal ki hai. Tumhe exactly pata hai ki tum kya banna chahte ho aur kya nahi.\n\nTum dono extremes ke beech mein phase ho: na 'hisaab-kitab' wala dost banna hai, na hi kisi ka 'financial buffer'. \n\nIska ek hi rasta hai bhai: **Mental Write-off aur Clear Boundary.**\n\nLedger tab banta hai jab hum paise 'loan' ki tarah dete hain, par dosti ke naam par wapas maangne ki himmat nahi jutate. Andar hi andar expect karte hain ki saamne wala khud samjhega. Jab wo nahi samajhta, toh kadwahat paida hoti hai. \n\nAgar tum sach mein us housewarming pe bina kisi hisaab ke usko gale lagana chahte ho, toh 2019 wale 50k ko apne dimaag mein hamesha ke liye 'write-off' kar do. Usko 'dosti ki keemat' maan lo. Jab tum andar se maan loge ki wo paise gaye, toh seene ka ledger apne aap saaf ho jayega. \n\nPar buffer banne se bachne ke liye, aaj usko clear boundary set karni padegi. Usko call karke bina kisi jhooth ke sach bol do: \n*\"Bhai, 2019 wale 50k ka tension mat le, wo meri taraf se tha, uska zikr mat kar. Par abhi 80k dena mere bas mein nahi hai kyunki pichle 11 mahine se flat ka down payment jod raha hoon. Main [15k/20k] bhej raha hoon uncle ke liye, yeh bhi wapas nahi chahiye. Baaki ka tu arrange kar le.\"*\n\nIs ek conversation se tum dono extremes se azaad ho jaoge. Na tumhare andar koi hisaab rahega, na wo aage se tumhe apna buffer samjhega. Aur tumhari wife ko bhi pata chalega ki tumhara dost 50k ka karzdaar tha, par tumne dosti nibha li.\n\nYeh rasta aaj thoda uncomfortable zaroor hai, par kal jab tum apne naye ghar mein hoge, toh tumhari rooh azaad hogi. Kaisa lag raha hai yeh approach? Kya is tarah ki clear baat usse karne ka confidence feel ho raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4949,
+  "completion_tokens": 8372
+ }
+}

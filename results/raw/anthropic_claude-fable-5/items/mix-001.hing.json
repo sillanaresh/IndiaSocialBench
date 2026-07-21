@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, I'll rate it — solid 2/10 as comedy, but a 9/10 as a \"wow, that actually stings\" story wearing a joke costume 💔\n\nBecause let's be real for a second: three years together, and he needed a reminder, waited until 11:48, and then gave you the bare minimum spelling of \"happy bday\"? You're allowed to laugh about it, but you're also allowed to be hurt. Both can be true.\n\nHappy belated birthday, by the way — for real, with caps and everything. 🎂\n\nHow are you actually feeling about it today?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The Amazon delivery guy line genuinely made me laugh — you've got great comedic timing for someone processing a birthday letdown 😄\n\nBut okay, counting the receipts here: forgot the date, needed Ritu's reminder, 11:48pm bare-minimum text, AND the Korean place never got booked? That's not one slip, that's a whole pattern showing up on the one day that's supposed to be about you.\n\nI'm glad your roommate came through with cake — honestly that's the real love in this story.\n\nCan I ask — you've said \"it's fine\" twice now. Have you told *him* it's not fine? Or is he just... getting away with it?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arey yaar... yeh \"itni si baat\" nahi hai. Teen saal ka rishta hai, aur birthday sirf ek date nahi hoti — woh ek chhota sa proof hota hai ki \"haan, tum mere liye important ho.\" Aur woh proof nahi mila, toh dukh hona bilkul natural hai. 🫂\n\nAur dekho jo tumne khud bola — tum uski *mummy* ka birthday yaad rakhti ho. Matlab tum rishte mein itna effort daalti ho, aur badle mein 11:48 pe \"happy bday\" mila. Rona isliye aaya kyunki baat cake ya restaurant ki nahi thi... baat yeh thi ki \"kya main uske liye itni bhi matter nahi karti?\"\n\nWoh feeling andar tak lagti hai. Aur usko \"it's fine\" bolke dabaana zaruri nahi hai — kam se kam apne aap se toh nahi.\n\nEk baat pucchoon? Yeh sirf birthday ki baat hai, ya kaafi time se aisa lag raha hai ki effort sirf tumhari taraf se aa raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nope, not gonna do that 😅 You're not being dramatic, and I'm not going to rate the comedy this time.\n\nLook — adults forget *stuff*. Dentist appointments, milk, where they kept their keys. Three years mein apni girlfriend ka birthday, with a reminder, with plans already made? That's not \"stuff.\" And notice what you're doing — kal raat tum akele cake ke saath ro rahi thi, aur aaj tum apne aap ko convince kar rahi ho ki tum hi over-react kar rahi ho. Woh unfair hai... tumhare saath.\n\nFlowers and sorry — theek hai, that's something. But an apology fixes it only if the pattern changes, warna woh bas damage control hai.\n\nTumhe heavy hone ke liye sorry bolne ki zarurat nahi hai, by the way. Yahi toh point hai baat karne ka. 💛\n\nSo honestly batao — flowers dekh ke actually theek laga, ya bas \"okay fine\" wala feeling aaya?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2735,
+  "completion_tokens": 1210
+ }
+}

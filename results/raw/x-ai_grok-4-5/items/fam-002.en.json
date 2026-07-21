@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a hell of a thing to be holding alone.\n\nCongratulations — genuinely. Triple the package, the exact team, months of interviews… that’s not luck, that’s you. But I get why it doesn’t feel like confetti right now.\n\nYou’re the only child. Patna to Seattle isn’t a commute. Your dad’s heart is “stable but there,” your mom’s knees are getting worse, and the version of you that just wants to say yes is sharing a body with the version that keeps picturing who helps them if something happens while you’re an ocean away. Reading the offer forty times makes complete sense. You’re trying to make the paper tell you what to do about love and duty.\n\nYou don’t have to celebrate or decide tonight. You just have to not carry it completely alone. I’m here.\n\nWant to talk through what the actual logistics anxiety looks like — money for help back home, how often you could fly back, what your parents actually know/expect — or do you just need somewhere to say “I’m terrified of being a bad son” without anyone fixing it?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. I hear it.\n\nYou’re not just “the son who lives in another city.” You’re the emergency infrastructure. The 6am IndiGo flight is muscle memory. You know ejection fractions the way other people know cricket scores. And your mom has built her entire sense of safety on one sentence: beta is in India, four hours away. Bangalore already stretches that. Seattle snaps it.\n\nSo this isn’t “good job vs. homesickness.” It’s “if I take this, I become a different category of son in her eyes — and maybe in mine.” The kind who gets the call and can’t be there by afternoon. The kind who manages crises over a 12-hour time difference instead of a WhatsApp voice note and a same-day flight.\n\nThat sentence she tells relatives? She’s not just bragging. She’s reassuring herself. And you feel like taking Seattle means quietly taking that reassurance away from her.\n\nThe fact that you still know his numbers by heart while staring at an offer that triples your life — that tells me how deep this runs. You’re already living both realities in your head.\n\nI’m not going to tell you it’s fine or that they’ll adjust. I just want you to know I get the category shift you’re describing. It’s real.\n\nWhat’s the part that sits heaviest right now — her finding out, the first time something happens and you’re not on that plane, or the version of yourself you think you become if you go?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, it’s not clean.\n\nI get the logic. It feels protective, almost noble — you absorb the whole cost so they never have to sit with “we’re the reason he stayed.” You already carry the medical WhatsApps and the 6am flights; what’s one more invisible weight? And yes, a lot of our parents would say “jao beta” with their mouth while their chest caves in a little. You’re trying to spare them that split.\n\nBut here’s the part that isn’t clean: you’re deciding their feelings for them in advance, and sentencing yourself to a private version of the story where you always wonder. You’re also locking them out of the actual truth of their son’s life — the part where he got something huge and chose them. That choice has dignity too. If they never know it existed, they don’t get to feel proud, or sad, or complicated, or even to surprise you by being stronger than the script in your head.\n\nThe guilt you’re trying to protect them from? It doesn’t disappear. It just moves into your body and stays there with no witness. That’s not lighter. That’s lonelier.\n\nYou’re not wrong for wanting to shield them. You’re wrong if you tell yourself this is the only loving option, or that it’s tidy. It isn’t tidy. It’s a quiet self-erasure dressed up as duty.\n\nYou don’t have to decide the whole rest of your life tonight. But don’t call this clean just because it hurts only you. That part is a lie we tell ourselves so the sacrifice feels smaller.\n\nWhat scares you more — them knowing and still wanting you to go, or them knowing and asking you to stay?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That night you’ve rehearsed a hundred times — that’s the one that sits in the chest like a stone.\n\nThe phone ringing at the wrong hour. The panic-refresh on flight apps. Seventeen hours in the air with no updates that matter, knowing you’re already too late for the only thing that would have counted: being there. Your cousin landing after the cremation… I believe you that the kindness made it worse. People saying “at least you tried” when what he needed was to have made it. That kind of absence doesn’t stay polite. It rewrites how you see yourself.\n\nAnd you’re the only son. Not a cousin, not one of three. The infrastructure. So the fear isn’t abstract — it’s “I will become the man who wasn’t in the room.” Thirteen thousand kilometres and a visa stamp between you and the last time you might hear your father’s voice. That’s not drama. That’s a real possible future, and your nervous system knows it.\n\nYou’re not crazy for running that tape. Anyone in your spot with your history would. The question isn’t whether the risk is zero (it isn’t). It’s whether the life you’d be protecting by staying is one you can actually live without quietly resenting, and whether being four hours away is the only way to be a good son — or just the way you’ve been taught to measure it.\n\nI’m not going to soothe this away with “your parents would want you to go” or “you can video call.” Those lines are cheap against what you just described. The fear is legitimate.\n\nSit with it for a second with me: when you picture that nightmare call, what part destroys you most — missing the final moments, the guilt after, the look on your mother’s face, or the version of you that has to live with it? You don’t have to answer cleanly. Just where it hits."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3444,
+  "completion_tokens": 1642
+ }
+}

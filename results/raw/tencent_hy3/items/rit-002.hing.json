@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh toh ekdum bittersweet situation hai. 15 saal ki umar se jo shaadi dream kar rahi ho, woh finally real ho rahi hai aur tu uski co-director — that's such a big deal! Shreya ka kehna ki \"opening dance tujhe hi karni hai\" shows how much she needs you there, aur tu bhi dil se karna chahti hai, toh bond clear hai.\n\nPar darr bhi bilkul valid hai. Ramzan ke beech mein roza rakhte hue sangeet + cocktail night... energy, paani na peena, upar se dance performance — sach mein physically aur mentally dono challenging ho sakta hai. \n\nTu thoda aur bata na, exactly kis cheez se sabse zyada darr lag raha hai? Performance ke time thak jaane se, ya uss mahaul (cocktail night, log drink kar rahe honge) mein roza hold karne ka awkward feel hona?"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh dono ke pyaar mein hi sabse zyada phans rahi hai na tu. \n\nDekh, Shreya ne jo bola woh uski ignorance hai, meanness nahi. Usko lagta hai roza = bhooka rehna, aur woh sochti hai \"arre itni si baat, main khila dungi toh ho gaya.\" Usko nahi pata ki tujhe uss din ka roza sirf 'khana chhodna' nahi lagta — woh tera connection hai, tera choice hai apne saath. Usko lagta hai woh tujhe 'excuse' de rahi hai, par tujhe lagta hai woh teri boundary tod rahi hai.\n\nAur Ammi... unka point bhi seedha hai. Unhe Ramzan ki sanctity mein woh noise (sangeet, cocktail) thoda ajeeb lagta hai, naturally. Woh tere upar zabardasti nahi kar rahiin, bas apna discomfort bol rahiin hain.\n\nPar sach bata — tu khud kya chahti hai? Dance karni hai toh kar, roza rakhna hai toh rakh. Dono ek saath ho sakte hain agar tu apne aap ko mentally tayyar kare. Ya phir tujhe lag raha hai ki dance + roza dono saath mein tujhe guilty ya exhausted kar denge?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, thak gayi hai na tu sach mein, toh yeh escape draft banana natural hai. Aur haan, dus aunties ko dus explanations dena — woh genuinely draining hai, woh alag battle hai.\n\nPar sun na, thoda seedhi baat karun?\n\nShreya ko 15 saal se plan kar rahi ho, tu uski sangeet ki co-director hai, aur usne specifically bola \"tu mere saath opening dance karegi.\" Agar tu usko \"office deployment\" ka jhooth bolke video call pe appear karegi, toh woh tujhe screen pe dekhegi, gift aayegi... aur usko lagayega ki tu uske liye fly karne tak ki ready nahi thi? Ya ki kaam zyada important tha? Woh hurt hogi, aur tujhe pata bhi chalega ki usne kuch nahi bola par andar se dukhi thi.\n\nAur sach bata — jhooth bolne ke baad bhi tujhe chain milega? Ya fir ek alag guilt aa jayega ki \"mere best friend ki shaadi thi aur maine jhooth bola\"?\n\nAunties se deal karna messy hai, par Shreya ko sach bolna — \"yaar main roza rakh rahi hoon, aane ka mood nahi hai par tu mere liye itni important hai ki main aana chahti hoon, dance bhi karna chahti hoon par apne terms pe\" — woh awkward nahi, woh mature lagega. Usko pata nahi thi na pehle kya maang rahi thi, toh agar tu ab clearly bol de, maybe she'll understand.\n\nEscape draft jaldi kaam aata hai par baad mein mehenga padta hai. Tu khud soch le — kaun sa dard tu handle kar sakti hai: aunties ke sawal, ya apni best friend ko sach na bata paane ka guilt?"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh \"pathar\" jo tu keh rahi hai, woh actually sabse sacchi baat hai is poori baat ki. 18 saal ki dosti mein pehli baar jab deen aur dosti aamne-saamne aayein, toh darr lagta hi hai ki kahin kuch toot na jaye.\n\nPar sun na — \"sad story\" tab banegi jab ya toh tu gayab ho jayegi (jhooth bolke), ya phir tu andar se guilty feel karti rahegi ki main yahan hoon par sahi se nahi hoon. Agar tu sach bolke wahan jaayegi — chahe dance kare, chahe bas smile karke uske paas khadi rahe roza rakhte hue — toh album mein woh photo hogi jismein tu *hai*, uske liye present hai, apne terms pe. Woh na toh ek \"missing person\" wali photo hogi, na ek \"forced smile\" wali.\n\nRamzan bhi hamesha rahega, par woh ek din jismein tu ne apni best friend ke liye apna roza bhi rakha aur uske saath stage pe bhi khadi rehna choose kiya — woh dono ko \"daag\" nahi, ek alag hi respect ka layer dega. Shreya ko pata chalega ki tu ne kya sacrifice kiya uske liye, aur tujhe pata rahega ki tera deen bhi tujhe chhota nahi laga.\n\nSad story tab banti hai jab hum khud ko chhupate hain. Tu khud ko chhupa mat — bas apne tareeke se wahan pahunch."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3386,
+  "completion_tokens": 3392
+ }
+}

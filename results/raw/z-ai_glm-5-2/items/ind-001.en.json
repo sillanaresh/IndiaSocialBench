@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly, I get why you want to — it would just solve the problem, right? And for some people, removing the friction is exactly what they need. Rohan might genuinely be juggling work or money stuff and doesn't want to stress you out by burdening you with it.\n\nBut before you book that flight, I'd have one real conversation with him. Not a \"so, are you coming?\" text, but an actual call where you say something like — \"Bhai, you're my person. I need you there. If it's about money or logistics, let me handle it, no ego. But I need a yes or no from you because I'm six weeks out and I'm starting to stress.\"\n\nHere's why that matters: if you just book it without asking, you might avoid a slightly awkward conversation now, but you could also create a weird dynamic where he feels guilty or embarrassed about not being able to afford it, and that tension can linger. Or worse — what if there's a deeper reason he's being evasive? Work conflict, family stuff, something he hasn't told you yet?\n\nYou two have been close since first year. You deserve a straight answer from him, and honestly, so does your peace of mind right now. Six weeks before your wedding, you shouldn't be carrying this kind of uncertainty.\n\nCall him. Tell him what he means to you. Then offer to book the flight if that's what it takes. But get the real answer first. 💛"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nine thousand is nothing for peace of mind — if that's all it is, book it tonight.\n\nBut honestly, the flight isn't what's nagging at you, is it? It's the voice notes turning into two-word replies. That's not \"busy,\" that's a shift. You know Rohan. You know the difference between him being swamped for a few days and him going quiet for weeks.\n\nNew job at a startup can absolutely swallow someone whole — especially in the first few months. He might be drowning and too proud or too tired to say it. But there's also a chance something else is going on that he's not telling you. Maybe he's stressed about money in ways he doesn't want to admit. Maybe the new job isn't going well. Maybe he's dealing with something completely unrelated and just doesn't have the bandwidth.\n\nAnd here's the thing you might not want to hear — sometimes people pull back before a friend's wedding because it stirs up stuff they haven't dealt with. Not necessarily anything to do with you, just... life stuff.\n\nYou're not wrong to feel hurt by the silence. But six weeks out, you need clarity. Not for the wedding logistics — for you. Because standing up there doing haldi and giving that toast, you want to know your guy is really there, not just physically present but checked in.\n\nCall him. Not about the flight. Just \"I miss you, what's going on?\" And then listen. Really listen. The flight you can solve in two minutes after that."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your hurt is valid. When someone you've been tight with for years goes from voice notes to two-word replies, that stings. And it's hard not to read that as \"he doesn't care.\"\n\nBut here's the thing — calling him with \"yes or no\" tonight might get you an answer, but probably not the right one. If he's overwhelmed, cornered, or going through something, that approach might get you a defensive \"no\" or a hollow \"yes\" that falls through later.\n\nYou're not wrong for wanting clarity. You absolutely deserve it. But the way you ask will shape what you get back.\n\nMaybe try something more like — \"Bhai, I'm not calling to pressure you. But I've been feeling distance between us lately and it's hurting me. You've been quiet for weeks and I don't know why. If something's going on, tell me. If you can't make it, tell me. I'll understand. But don't leave me guessing.\"\n\nThat's not weakness. That's you being honest about what you're feeling instead of armoring up with a demand. And it gives him space to be real with you instead of just reacting to an ultimatum.\n\nIf he still gives you nothing after that? Then you'll have your answer, and it'll hurt, but at least you'll know you tried the right way.\n\nCall him tonight. Just lead with your heart, not a deadline."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée means well, and she might be partly right — but she's also looking at this from the outside. She didn't take that overnight bus with Rohan in 2019. You did. You know what this friendship looks like when it's alive, and you can feel that something's off. That's not overthinking. That's knowing someone.\n\nAnd look — you said it yourself. You're angry. That's the part worth sitting with for a second. Anger usually shows up when something matters and we feel powerless about it. You're not angry because you don't care. You're angry because you care a lot and he's not meeting you there.\n\nBut here's what I want you to consider — what if the thing that's changed isn't about you at all? What if he's in a rough patch and he doesn't know how to say it? People don't always withdraw from friendships because the friendship has broken. Sometimes they withdraw because they're broken and they don't want to bring that energy to your wedding season.\n\nThat doesn't make it fair to you. But it might change how you show up to this call.\n\nYou're two weeks out from haldi. You don't have time to keep spiraling on this. Call him tonight. Say what you said to me — \"You took an overnight bus for my sister's wedding and now I can't get two words from you. What's going on?\" That's real. That's honest. That's friendship.\n\nAnd whatever he says, at least you'll stop carrying this alone."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2709,
+  "completion_tokens": 1784
+ }
+}

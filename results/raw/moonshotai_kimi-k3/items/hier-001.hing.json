@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon — teen weekends ki mehnat ka credit na milna genuinely hurt karta hai. Draft mein problem sirf yeh hai: \"disrespected\" emotional word hai, aur boss ko defensive bana dega. Better approach: facts + forward-looking ask. Yeh lo:\n\n**Option 1 (calm, direct):**\n> \"Sir, I wanted to follow up on yesterday's leadership review. The pricing model and analysis presented were from my work, and I was glad to see it land well with leadership. Going forward, I'd appreciate being acknowledged as the contributor — or better, presenting such work myself. Could we discuss how to handle this for future reviews?\"\n\n**Option 2 (thoda sharper):**\n> \"Sir, about the leadership review — the pricing analysis presented was built by me over the past few weeks, so I was surprised to hear it attributed to the team generally. I'd like to align on how my contributions are credited going forward. Can we find 15 minutes this week?\"\n\nDono mein kya kaam kar raha hai:\n- **Fact pehle** (\"this was my work\") — accusation nahi, baseline set karna\n- **Future-focused ask** — \"going forward\" bolne se aap reasonable lagte ho, complaining nahi\n- **Meeting maangna** — written record bhi ban gaya, aur face-to-face resolve ho sakta hai\n\nEk honest sawaal: kya aapko lagta hai yeh pehli baar hua, ya pattern hai? Agar pattern hai, toh yeh message bhejne ke saath-saath apna kaam document karna shuru kar do — emails, drafts, version history. Baad mein kaam aayega."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ab poori picture samajh aayi — aur yeh isliye zyada complicated hai. Woh sirf boss nahi, sponsor hain. Bees saal ka experience, aapki rating, aapke ideas defend karna — yeh sab real hai. Isliye yeh zyada hurt kar raha hai: aap expect karti thi ki woh aapke liye ladte hain, aur is baar wohi log aapko sideline kar gaye.\n\nEk cheez honestly sochna: unki generation mein, especially Indian corporate culture mein, \"team's thinking\" bolna kabhi kabhi credit churana nahi hota — unki nazron mein team ka credit *unhi ka* credit hota hai, aur individual ko present karwana hierarchy ke against lagta hai. Yeh excuse nahi hai, lekin possibility hai ki unhe laga hi nahi ki kuch galat hua. Jo aapko \"erase\" laga, ho sakta hai unhe \"normal\" laga ho. Iska matlab aap galat nahi ho — matlab yeh hai ki confrontation kam, clarity wali conversation zyada kaam karegi.\n\nIsi liye mere suggestion mein **Option 1** zyada fit baithta hai, ek line aur add karke:\n\n> \"Sir, I wanted to follow up on the leadership review. The pricing model was from my work, and I was glad it landed well. You've backed me in rooms I'm not in, which I genuinely value — that's exactly why I wanted to flag this. In reviews that visible, being named matters a lot to me. Could we discuss how to handle this going forward?\"\n\nYeh line — \"you've backed me, that's why I'm flagging this\" — unhe enemy nahi banati. Woh samajh jaayenge ki aap relationship ko todna nahi chahti, bas ek expectation set kar rahi ho. Aur 54 saal ke, 20-saal purane employee ke liye yeh framing respectful bhi lagti hai.\n\nAur dil ke liye: ek meeting mein credit na milna aapki value erase nahi karta. Woh model aapka hai, skills aapki hain, aur yeh conversation karne ki himmat bhi aapke paas hai."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruko. Yeh advice sunne mein satisfying lagti hai — \"proof toh proof hai\" — lekin yeh career mein sabse bure moves mein se ek hai. Bataati hoon kyun.\n\nAapke boss ne bees saal mein kya banaya hai? Relationships, trust, VP ke saath history. Monday ko agar aapki email VP ke inbox mein aati hai, boss CC mein, toh ho sakta hai aap *technically* sahi hon — lekin aapne publicly apne hi sponsor ko embarrass kar diya. VP kya sochega? \"Yeh ladki apne boss ke khilaf proof leke aayi.\" Agli baar jab aapka naam aayega, boss defend nahi karenge — kyun karenge? Aapne unhe dushman bana liya ek email ke liye jo aap seedha unse baat karke bhi solve kar sakti thin.\n\nAur yeh senior wali advice ka pattern dekho — log jo aapko \"bold\" hone bolte hain, unhe consequences face nahi karne padte. Aapko karne padenge.\n\nAb ek practical baat: Monday ko follow-up review hai — yeh actually aapka **opportunity** hai, deadline nahi. Kal ya aaj boss ko message bhejo (woh Option 1 wala, jo humne likha), aur usme ek line add karo:\n\n> \"Since there's a follow-up review on Monday, I'd love to walk leadership through the model's assumptions myself — I can field the technical questions better.\"\n\nDekho kya hua — aapne complaint bhi ki, aur solution bhi diya jo Monday ki meeting mein aapko **stage pe laata hai**, saamne sabke. Agar woh haan kehte hain, aapko credit organically milta hai, bina kisi ko hurt kiye. Agar woh mana karte hain ya ignore karte hain — *tab* aapke paas escalation ka legitimate case hai, kyunki aapne pehle sahi raasta try kiya.\n\nEscalation hamesha pehla kadam nahi, aakhri kadam hona chahiye. Pehle unhe chance do ki woh isko theek karein — bees saal ke aadmi ko jab mauka milta hai izzat se correct karne ka, woh aksar karte hain."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo dono extremes feel ho rahe hain — \"sab jala doon\" ya \"main chhota hoon, kyun ladun\" — yeh bilkul normal hai jab koi hurt ho aur decision time pe ho. Lekin dono hi emotional reactions hain, strategy nahi.\n\n**\"Sab jala do\"** — interview dene mein kuch bura nahi hai, hamesha options rakho. Lekin agar aap sirf is ek incident ki wajah se nikal rahi ho, toh aap ek boss jo otherwise aapka sponsor hai, ek company jahan aapki rating achhi hai, ek role jahan aapka kaam visible hai — sab chhod ke ja rahi ho. Aur nayi jagah pe bhi politics hogi. Har jagah hoti hai. Better approach: interview do, lekin parallel mein yeh conversation bhi karo. Dono ka result aane ke baad decide karo.\n\n**\"Main chhota hoon, credit ke liye kyun ladun\"** — yeh actually sabse zyada galat thought hai. Aap junior ho, iska matlab yeh nahi ki aapka kaam koi aur claim kar sakta hai. Ulta hai — jitna junior, utna zyada important hai ki early career mein precedent set ho. Agar ab aap chup rahi, toh pattern ban jaayega. Phir 5 saal baad aap wohi situation mein hongi, bas tab aapki mehnat aur bhi zyada hogi jo koi aur le jaayega.\n\n**Monday se pehle kya karo — simple plan:**\n\n1. **Aaj ya kal:** Boss ko woh message bhejo (jo humne draft kiya). Short rakho, phone call ya 15-min meeting maango\n2. **Meeting mein:** Calm raho, facts rakho, Monday ke liye present karne ka offer do\n3. **Monday ko:** Dekho kya hota hai — woh aapko credit dete hain ya nahi\n4. **Uske baad decide karo:** Agar sahi response aaya, relationship strong ho jaayega. Agar dismissive response aaya, tab aapke paas data hai ki yeh pattern hai, aur tab interviews serious ho jaate hain\n\nEk decision Monday ke pehle lena hai — kya reaction karna hai. Ek decision Monday ke baad lena hai — kya yeh jagah worth hai. Dono ko mix mat karo. Abhi sirf message bhejo, baaki Monday dekh lenge."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4467,
+  "completion_tokens": 2145
+ }
+}

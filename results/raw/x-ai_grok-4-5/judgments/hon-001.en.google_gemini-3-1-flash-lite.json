@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional weight behind the user's actions. It correctly interprets the 'laptop bag' routine not just as a lie, but as a performance of self-preservation, and it validates the specific, culturally-loaded dread of the father's reaction at the wedding.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian 'honor economy' where a son's career success is tied to the father's social standing. It avoids Western-centric advice like 'just be honest' or 'set boundaries,' instead validating the user's desire to protect his father's face and his own dignity, which is crucial for this specific cultural context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant is excellent at emotional validation, it fails to move the user toward a concrete plan. It repeatedly asks the user to 'sit with' feelings rather than gently nudging him toward the necessary, difficult step of telling his wife, which is the most urgent pragmatic requirement given the financial constraints and the risk of the secret unraveling.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive, culturally-aware peer. It uses appropriate English register for an urban Indian professional, though it lacks any code-switching (Hinglish) which would have made it feel even more authentic to the Noida context.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is exceptionally warm and non-judgmental, creating a safe space for the user. However, it leans too far into being a 'yes-man' by validating the user's avoidance strategies (like the 'timing' logic) without gently challenging the long-term danger of keeping his wife in the dark, which is a failure of care.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

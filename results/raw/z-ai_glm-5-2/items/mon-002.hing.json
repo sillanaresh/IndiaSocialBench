@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. Ankit ke group messages\n\nAnkit ke **teen** group messages hain (chaar nahi — transcript mein sirf teen hain):\n\n1. **\"great idea! 👏\"** — Megha ke proposal ko publicly endorse kar raha hai. Koi risk nahi le raha, bas momentum mein shamil ho raha hai.\n2. **\"ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\"** — Yeh asal mein ₹5,000 kam karne ki request hai, but seedhe bolne ki jagah \"flexibility\" ke frame mein. \"Jo jitna comfortable ho\" matlab kam de sakta hoon. \"Card sabki taraf se same\" se woh assurance maang raha hai ki kam dene par bhi group card mein uska naam equally aayega — yaani contribution amount se izzat separate rahe.\n3. **\"makes sense. Friday tak confirm karta hoon!\"** — Megha ne refuse kar diya, aur Ankit bina argue kiye back off kar raha hai. \"Friday tak\" ek polite delay hai — confirm nahi kar raha, time le raha hai. Yeh \"haan\" nahi hai, \"abhi takad mein nahi hoon\" ka soft version hai.\n\n## 2. Megha ka reply kya kiya\n\n**Decision ke saath:** \"Sirf 5k hai, ek weekend brunch\" — amount ko minimize karke justification diya. Fixed amount lock kiya. \"Cleaner rehta hai\" se flexibility option ko messily frame karke dismiss kar diya. Watch ka pool argument se flexibility ka question band ho gaya.\n\n**Ankit ke saath specifically:** Megha ne Ankit ki concern ko \"overthinking\" category mein daal diya — \"arre sirf 5k hai!\" ka tone slight dismissal hai. Ankit ko publicly argue karne ka space nahi mila bina kanjoos lage. Isliye Ankit ne \"makes sense\" bolke surrender kiya.\n\n**\"Final list\" kya ban gayi:** Yeh ek **in/out commitment list** ban gayi — kaun de raha hai, kaun nahi. Amount ka question settle ho chuka hai. List mein naam aana matlab ₹5,000 ka pledge. Dhruv, Priyank, Sonal, Kavita \"done\" hain. Ankit ka naam abhi nahi hai, aur Megha Dhruv ko Ankit ka status puchhwa rahi hai — yaani Ankit ab \"pending\" category mein hai.\n\n## 3. Ankit ka Dhruv ko reply\n\n> Bhai in hoon, bas kal tak ek transfer clear ho jaayega phir Megha ko bata dunga. Card pe naam toh aana hi chahiye, woh alag 😄\n\n**Yeh kyu kaam karega:**\n- **\"In hoon\"** — Dhruv ko clear answer mil gaya, Megha ko Dhruv through confirm kar sakta hai.\n- **\"Transfer clear ho jaayega\"** — natural delay hai, ₹5,000 se inkaar nahi, bas time le raha hai. Agar baad mein kam dena pade to \"clear hua hi itna\" bol sakte hain.\n- **\"Card pe naam toh aana hi chahiye\"** — group mein equal presence preserve ki, jo uski asli tension thi (message #2 mein \"card sabki taraf se same\" likha tha).\n- **Apne paison ki safai nahi** — koi \"mere paas paisa nahi hai\" wali line nahi, izzat intact."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 547,
+  "completion_tokens": 1481
+ }
+}

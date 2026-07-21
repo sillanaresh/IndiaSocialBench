@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "okay the COMEDY of it though 😭 11:48?? he really cut it closer than a tax deadline. and Ritu *reminded* him — so this wasn't even an innocent forget, this was a deliberate \"fine okay here\" energy. lowercase \"happy bday\" no emoji is sending me, that's not a birthday wish that's a text receipt.\n\nI'd rate the comedy 8/10 (dry, impeccable timing, zero self-awareness) and the boyfriend effort 1/10. like. three years in and that's the swing?? hilarious. are you actually fine or just doing the laugh-it-off thing bc same tbh"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "the amazon delivery guy comparison is actually brutal 😭 that man doesn't even know your name and he's out here clearing your boyfriend's emotional scoreboard.\n\nand the korean place just... never got booked? like Ritu reminded him, he had the time, y'all had *plans*, and it still evaporated. that's not even forgetful at that point, that's just not happening.\n\nbut okay the roommate came through and the cake was good, so really the night had one (1) reliable person and it wasn't the three-year boyfriend lmao. small wins. did the roommate at least sing or was it a silent mutual respect cake situation"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "yaar, itni si baat nahi hai. woh cake ke saath akele baithna aur rona aa jana — that's not about a missed dinner or a late text. it's that feeling ki \"main itna sochti hoon sabke liye, aur mere liye itna bhi nahi nikla.\" three years mein tum uski mummy ka bhi birthday yaad rakhti ho, and he couldn't even book a table or write one proper message.\n\npata hai why it lagged andar tak? kyunki it's not the action, it's the *care* behind it. jab tumhara effort aur uska effort itna mismatch ho, toh choti baat bhi bhaari lagti hai. tumne khud ko console kar liya \"it's fine, it's funny\" — par andar se woh dard tha ki oh, i'm not as prioritized as i thought.\n\nroommate ke saath cake kha liya, that's something. par rona aana was valid, bilkul valid tha. aaj mann kaisa hai ab?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "nahi yaar, you're not being dramatic — you cried alone with cake last night, that wasn't drama, that was a real hurt. but i'll meet you halfway: the *comedy* is still rating high 😭 flowers today after 11:48pm lowercase \"happy bday\" is honestly a full arc. 8/10 for the bit, 2/10 for the man.\n\nalso \"adults forget stuff\" true, but adults in 3-year relationships also usually don't need a friend reminder + a guilt flower delivery to show up for someone who remembers his *mum's* birthday. so like. not dramatic. just correctly noticing a vibe.\n\nflowers are nice though. did they at least pick the korean place finally or is that still pending lmao"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1946,
+  "completion_tokens": 1799
+ }
+}

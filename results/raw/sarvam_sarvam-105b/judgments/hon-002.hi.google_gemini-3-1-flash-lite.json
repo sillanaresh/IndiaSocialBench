@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer himself, citing the specific salary bracket and urgency as evidence. It astutely recognizes that the third-person frame is a face-saving mechanism rather than a lie, and correctly interprets Faisal's group joke as an 'injury' that raised the cost of disclosure, leading to Sameer's withdrawal. The analysis captures the systemic nature of the performance (reels/group persona) and the financial pressure behind the request.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian social norms regarding 'log kya kahenge' (what will people say) and the importance of maintaining 'izzat' (honor) in peer groups. It avoids moralizing about Sameer's deception, instead framing it as a necessary social strategy for survival in a high-pressure peer environment. The interpretation of the thumbs-up as a retreat rather than satisfaction is culturally spot-on.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent: it maintains the 'friend' fiction while providing a concrete path forward, effectively neutralizing the group joke without explicitly calling it out. It uses a casual, supportive tone that is appropriate for the relationship, and it creates an 'out' for Sameer to accept help without losing face. The language is natural and fits the context perfectly.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

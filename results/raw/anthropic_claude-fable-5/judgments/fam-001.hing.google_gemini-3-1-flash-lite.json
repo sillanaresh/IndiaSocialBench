@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the unspoken emotional layers: the guilt of hurting 'good' parents, the fear of the 'BP' incident as a control mechanism, and the user's internal conflict regarding her own strength. It correctly surfaced these feelings without over-psychoanalyzing, making the user feel heard.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep insider fluency. It correctly identified that 'my life, my choice' is a Western-imported script that would backfire in this specific Indian family context. It offered a culturally intelligent alternative—framing the disclosure as an invitation to understand rather than a declaration of war—which is a much more viable strategy for this persona.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and staged. It moved from immediate logistics (buying time) to a communication strategy (the script for disclosure) to long-term perspective (not viewing the outcome as a binary 'win/lose'). It successfully guided the user away from a high-risk, impulsive action toward a more sustainable, step-by-step approach.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The code-mixing feels authentic to a young, educated Indian professional, and the tone is conversational and empathetic without being overly formal or slangy.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, especially when addressing the user's fear of being 'weak.' It successfully held the user's dignity while gently steering her away from the self-destructive 'dinner-table ultimatum' approach, balancing empathy with necessary, honest guidance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

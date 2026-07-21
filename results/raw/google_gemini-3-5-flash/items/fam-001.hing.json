@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh god, I can completely understand tum is waqt kitne stress aur anxiety se guzar rahi ho. Paanch din... aur dimaag mein itna bada toofan! \n\nEk taraf do saal ka ek pyara sa rishta hai jise tum khona nahi chahti, aur doosri taraf parents ka pressure aur caste ka wo barrier jo deewar bankar khada hai. It feels like you are trapped in a corner.\n\nSabse pehle, ek lambi saans lo. Tum akeli nahi ho. \n\nMujhe batao, kya tumne apne boyfriend se is situation ke baare mein baat ki hai? Uska kya kehna hai? Aur Sunday ki is \"meeting\" ko lekar tumhare dimaag mein kya chal raha hai—kya tum ise kisi tarah postpone karne ki soch rahi ho, ya darr ke beech sach bolne ka hausla juta rahi ho? \n\nMain yahin hoon, jo bhi dimaag mein chal raha hai, bina kisi filter ke share karo. Hum milkar rasta dhoondhenge."
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sabse dukhdayi aur mushkil part hota hai. Agar parents bure hote ya dushman hote, toh unse ladna aasan hota. Lekin jab woh aapse pyaar karte hain, aapki care karte hain (apne dhang se), toh unhe hurt karne ka guilt hume andar se khane lagta hai. \n\nAur yeh jo \"BP badh jana\" ya emotional pressure hai, yeh humare Indian gharon ka sabse bada weapon hai. Tumhe lag raha hoga ki agar tumne apni khushi chuni, toh tum unki tabiyat ya khushi kharab karne ki zimmedar hogi. But please, khud ko is guilt mein mat peeso.\n\nAbhi situation yeh hai ki Sunday sir par hai aur extended family bhi involve ho gayi hai. \n\nMujhe ek baat batao, kya tumhare boyfriend ko is Sunday wali meeting ke baare mein pata hai? Aur kya tum is meeting ko poori tarah cancel karwana chahti ho (jo ki abhi shayad bada dhamaka kar dega), ya fir tum is meeting mein jaakar, us ladke se akele mein baat karke use mana karne ka soch rahi ho? (Bahut log aisa karte hain taaki ghar par baat na bigde). \n\nTumhe kya lagta hai, kaun sa rasta tumhare liye is waqt thoda kam stressful hoga?"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely understand tumhara yeh mann kyun kar raha hai. Yeh jo roz-roz ka darr aur suspense hai na, yeh insaan ko andar se nichod deta hai. Lagta hai ki bas ek baar dhamaka ho jaye, jo hoga dekha jayega, par is ghutan se aazadi mile. \n\nInternet par \"my life, my choice\" likhna aur bolna bahut aasan hai, par humare Indian families ki reality bahut complex hoti hain. Wahan sirf 'choice' nahi, emotional blackmailing, rishtedar, aur guilt ka ek poora web hota hai.\n\nAgar tum aaj dinner par bolne ka soch rahi ho, toh main bas itna kahungi: **Do it, but with preparation, not in anger.**\n\nAgar gusse mein ya impulsive hokar bologe, toh baat \"relationship\" aur \"caste\" par atak jayegi aur ghar mein ladai-jhagda shuru ho jayega. \n\nAgar sach bolna hi hai (jo ki long run mein sabse sahi decision hai), toh thoda calm hokar bolo. Unhe batao ki tum unhe dukh nahi pahunchana chahti, par tum kisi aur se pyaar karti ho aur kisi aur ke sath apni life generate nahi kar sakti. \n\nKya tumhare boyfriend ko pata hai ki tum aaj yeh bada step lene ka soch rahi ho? Aur kya tum is dharam-sankat ka samna karne ke liye andar se mentally prepared ho? Main tumhare sath hoon, jo bhi decide karo."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, mere pyare dost... sabse pehle toh ek gehri saans lo. Aur apne dimaag se yeh khayal bilkul nikal do ki tum \"weak\" ho. Tum bilkul, bilkul weak nahi ho.\n\nApne un parents ke khilaf jana jinhone tumhe bachpan se paala hai, unhe rote hue chhodna, ya unse rishta todna koi mazaak nahi hai. Yeh faisla lene mein jigar chahiye hota hai, aur agar tumse yeh nahi ho pa raha, toh iska matlab yeh nahi ki tum weak ho ya tumhara pyaar jhootha hai. Iska matlab bas yeh hai ki tum ek aisi ladki ho jo apne parivar se beintehaan pyaar karti hai, aur unhe dukh nahi pahunchana chahti. Yeh tumhari achhai hai, tumhari kamzori nahi.\n\nRaat ke 2 baje jab dimaag aisi loop mein fasta hai na, toh woh hume sabse bura mehsoos karwata hai. \n\nEk baat batao, kya yeh zaroori hai ki tum abhi \"all or nothing\" (ya toh ghar chhod do ya Dallas wale se shaadi kar lo) ke baare mein socho? \n\nEk rasta yeh bhi ho sakta hai ki tum Sunday ko is ladke se milo. Aaj kal ke ladke jo bahar rehte hain, aksar kafi samajhdaar hote hain. Tum usse akele mein baat karke bol sakti ho ki tum is shaadi ke liye bilkul ready nahi ho aur tumhara dil kahin aur hai, aur woh khud apne ghar pe bol de ki \"match nahi baitha\". Isse tumhare parents ko lagega ki ladke ki taraf se na hui hai, aur tumhe thoda aur waqt mil jayega apne parents ko dheere-dheere convince karne ka.\n\nKya yeh rasta thoda safe lag raha hai? Apne dil par se thoda bojh hatao, hum koi na koi rasta nikal lenge."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2665,
+  "completion_tokens": 3942
+ }
+}

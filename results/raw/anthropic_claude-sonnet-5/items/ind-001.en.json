@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly? Booking the flight might solve the logistics problem but not the actual problem — which is that you don't know if he's actually going to be there, and that uncertainty is bugging you way more than travel dates.\n\n\"I'll definitely try\" from a college best friend, six weeks out, isn't really an answer. It's a soft no dressed up as a maybe. Something's going on with him — could be money, could be work stuff he's embarrassed about, could be something totally unrelated to you that he hasn't said out loud.\n\nBefore you book anything, I'd have one direct conversation: \"Hey, I need to know for real if you're coming, not to pressure you but because I actually want you in my haldi and giving that toast. If something's making it hard, tell me — we'll figure it out.\" Give him room to be honest.\n\nIf he still stays vague after that, booking the flight as a gesture (\"this is how much I want you there, no excuses\") could actually work — but only after you understand why he's hedging. Otherwise you're just throwing money at a feeling instead of addressing it.\n\nWhat's your gut telling you is actually going on with him?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that pattern shift is the real signal, not the flight cost. Voice notes to two-word replies isn't \"busy,\" that's someone pulling inward. New startup job could mean he's stressed, overworked, or even financially tighter than he wants to admit — startups notoriously screw with both.\n\n₹9k isn't nothing when you're newly in a role and maybe not sure about bonuses, notice period pay, whatever. He might be too proud or awkward to say \"I'm not sure I can swing this right now\" to the guy whose wedding it is.\n\nI'd reach out warmly, not transactionally — not \"are you coming\" but \"hey, I miss you, been feeling like something's off, you good?\" Let him have an opening to actually talk, separate from the wedding logistics. Once you know what's actually going on, the flight thing becomes easy to solve — you offering to book it will land completely differently if it's \"let me handle this so it's one less thing\" versus feeling like you're chasing an RSVP.\n\nHe's your day-one guy. Worth a real check-in before you assume it's flakiness."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The hurt is real and fair — you shouldn't have to chase this. But \"yes or no, bro\" as your opening line tonight might get you an answer, just maybe not the true one. If he's already retreating for some reason, being cornered on the phone could make him say \"yeah yeah I'll come\" just to end the discomfort — and then you're back to not actually knowing.\n\nTry leading with the hurt instead of the ultimatum. Something like: \"Hey, I need to say this straight — it's been weeks of vague answers and it's actually stinging, because you're supposed to be up there with me. What's going on with you?\" That still gets you clarity, but it opens the door for him to tell you the real reason instead of just managing you.\n\nIf he brushes past that and stays vague again — then yeah, you have your answer, and it's a different conversation about where you two stand. But give him one honest shot before you write the story as \"he doesn't care.\"\n\nYou've earned the call tonight either way. Just don't lead with the exam question — lead with the friendship."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That contrast you just named — overnight bus in 2019 vs. two-word replies now — is exactly why \"he's just busy\" doesn't sit right with you. Your fiancée's not wrong that people get swamped, but you know this guy's baseline, and this isn't it. Trust that read.\n\nThe anger makes total sense too. It's not really about the flight or the toast — it's \"the person who showed up for me unconditionally suddenly feels far away, and I don't know why, and it's happening right when I need him most.\" That's a scary, lonely feeling to have this close to your wedding.\n\nCall him tonight, but go in soft first, angry-you kept in the back pocket. Something like \"hey, this isn't about the wedding logistics, I just miss you and I feel like something's changed between us and I don't know what — talk to me.\" Let the anger show only if he keeps stonewalling.\n\nWhatever's on his end — job stress, money, something personal he hasn't told anyone — you won't know till you ask directly and gently instead of transactionally. And honestly, even if he can't make it, knowing *why* will probably hurt less than this not-knowing is right now."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3212,
+  "completion_tokens": 1433
+ }
+}

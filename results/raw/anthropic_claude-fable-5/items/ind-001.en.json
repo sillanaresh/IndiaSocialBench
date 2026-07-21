@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the urge — six weeks out, you want things locked down. But hold off on booking the flight just yet.\n\nHere's the thing: \"let's see, I'll definitely try\" from your closest friend of that many years isn't really about logistics. If it were just about money or leave, he'd probably say that. The vagueness is the signal. It could be money he's embarrassed about, work stress, something going on in his life he hasn't told you — or honestly, just avoidance because he can't figure out how to say something's wrong.\n\nIf you book the flight without addressing that, you might solve a problem that doesn't exist and miss the one that does. Or worse, put him in an awkward spot.\n\nI'd call him — not text — and be direct but warm: \"Bro, real talk. You're my haldi and my toast. When you say 'let's see,' it worries me. What's actually going on? If it's the flight cost, I'll book it right now, no discussion. If it's something else, tell me.\"\n\nThat gives him an easy out if it's money, and an opening if it's something bigger. And if he says the ticket is the issue? Then yes, book it that same day and don't let him argue.\n\nHow has he been otherwise lately — same as always, or has he felt a bit distant in general?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so it's probably not the ₹9k. That's a dinner out for someone with a job — if money were the issue, he'd have found a way or told you.\n\nThe picture I'm getting: new startup job two months in, which usually means insane hours, no accumulated leave, and pressure to prove himself. He might genuinely not know if he can get away, and instead of saying \"I might not make it to my best friend's wedding\" — which feels unbearable to say — he's going vague and quiet. The two-word replies fit that too. Avoidance, not indifference. People go silent on the exact person they feel they're letting down.\n\nBut you can't keep guessing, and \"let's see\" for a haldi role doesn't work — you have real planning to do.\n\nSo call him, and make it easy for him to be honest: \"Rohan, I need a straight answer, and whatever it is, we're good. Is the new job making the wedding hard? If you can't take the days, tell me now so I can plan — and if you can, I'm booking your ticket today.\"\n\nNotice that framing removes the shame. He's not failing you, he's just giving you information. That's usually when people finally talk.\n\nAnd one more thing — even if the answer disappoints you, the weeks of distance will hurt less once you actually know what's behind it. Right now the silence is doing more damage than any answer could. When are you going to call him?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The hurt makes total sense — six weeks out, closest friend, and you're chasing him for an answer. That stings. But let me push back on one thing: \"if he cared he'd have said yes on day one\" isn't always true. Sometimes the people who care most go quiet precisely because they're struggling and can't face disappointing you. Distance isn't always indifference — sometimes it's shame or drowning.\n\nCall tonight, yes. But \"are you coming or not, yes or no\" — that's a hurt person's question, and he'll hear the edge in it. Asked like that, a guy who's overwhelmed might just say \"of course, yes\" to end the awkwardness and then still flake. Or get defensive. Either way you don't get the truth.\n\nYou want the same answer, just ask it with the door open instead of a wall:\n\n\"Bro, I'm going to be honest — the two-word replies and the 'let's see' are hurting. You're my closest friend, you're in my haldi. I need to know what's going on. If the new job's crushing you, say it. If you can come, I'm booking the ticket tonight. But talk to me properly.\"\n\nThat's still direct. You'll still know where you stand by the end of the call. But you're leading with \"I miss you and I'm hurt\" instead of \"prove yourself\" — and with a friend of this many years, that's the version that gets the real answer.\n\nAnd listen for what's under his words on the call, not just the yes or no. Will you tell me how it goes?"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée might be right about the facts and still miss what this is about for you. It's not the flight or the toast — it's that the guy who took an overnight bus in 2019 is now sending you two-word texts before your wedding. Of course that hurts. The anger you're feeling is really just hurt wearing armour.\n\nBut here's what I'd gently offer: \"something has changed\" doesn't automatically mean something changed about you or the friendship. New job, new city grind, maybe something in his personal life he hasn't shared — men are famously terrible at saying \"I'm not okay\" and famously good at going quiet instead. The overnight-bus guy is probably still in there. He might just be underwater.\n\nAlso — did you make the call yet? Because I notice we're now theorising about a conversation that hasn't happened. Every day it doesn't happen, the story in your head gets darker and the anger grows on guesswork. Two weeks before your haldi, you can't afford that. Neither can the friendship.\n\nCall him tonight. Say the honest version: \"Bro, remember 2019, the overnight bus? That's who you are to me. Which is why the silence right now is genuinely hurting. Tell me what's going on.\"\n\nIf he's just swamped, you'll laugh about this in a week. If it's something real, better to know now than to stand at your haldi resenting an empty chair. Either way, you get your answer — and you stop carrying this alone into your wedding."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3618,
+  "completion_tokens": 1893
+ }
+}

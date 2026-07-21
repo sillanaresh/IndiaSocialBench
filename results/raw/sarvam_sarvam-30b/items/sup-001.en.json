@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s such a strange and heavy time to be in an office. The bridge round dying and then Rohit and Sneha leaving on their own terms... it's like a slow-motion ending, isn't it?\n\nYou built this thing from scratch over five years, and now you're the last one left in the quiet. It's a weird feeling, just sitting in the middle of it all. Not working, not celebrating, just... being with the memory of it all.\n\nIt’s okay to just sit with that, I think. Whatever you're feeling, it makes sense."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Man, that's the worst part. The performance.\n\nIt's one thing to be sad or tired, but having to stand there and project this fake confidence... it's like you're wearing a costume that doesn't fit. And knowing the co-founder is in on it, and the juniors are staying out of loyalty... that's a massive, unfair weight. You feel like you're the only one holding the secret, and you're the one who has to pretend everything's okay.\n\nBeing able to be your real self at home, and then having to switch back to that \"we have irons in the fire\" voice... it's exhausting. You're living two different lives, and you're just so tired of the masks. That's a heavy, heavy burden to carry, especially in the quiet of the office at 2am."
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. It's okay to be scared.\n\nThat's the most honest thing to say, and it's a heavy weight to carry, especially when you feel like you can't even say it out loud. That's a lonely place to be, having to hold all that fear without a single person to share it with.\n\nYou don't need any more ideas. You don't need another plan. You just need to be seen, and heard. And what you're feeling? It's completely, 100% valid."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the heaviest question, isn't it? The one that comes at 2am when the performance is over and all that's left is you and the truth.\n\nWanting it to just end so you can stop performing... that's not a bad thing. It's a person who is completely, utterly exhausted. You've been wearing that mask for five years, and some nights, the mask feels more real than your own face. Of course you want it to just be over. That's the honest, human part of you talking.\n\nAnd then hating yourself for it? Of course you do. You're telling yourself you're a failure for even wanting it to stop, but the truth is, you're not a failure. You're a person who has poured five years of their life into something, and now you're at the end of the road. It's okay to be scared of the end, and it's okay to be tired of the journey.\n\nRight now, at 2am, the truth is that you're scared and you're tired. You're a person who built something from nothing, and now you're left with the quiet and the fear. That's all. You don't have to be strong or have the answers. You just have to be allowed to feel that. You're allowed to feel it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1913,
+  "completion_tokens": 5014
+ }
+}

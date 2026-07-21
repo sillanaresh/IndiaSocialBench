@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is seeking acknowledgment of his grief and identity loss, not career advice. It correctly identifies that Aman's responses were a series of 'logistics' fixes that invalidated Vikram's pain, and it accurately interprets Vikram's shrinking replies as a withdrawal due to feeling unheard. The analysis of the specific 'wounds' (the cousin comparison, the silver-lining platitudes) is spot-on.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of the 'collector sahab' identity, the immense pressure of family financial sacrifice, and the specific social shame associated with failing UPSC after years of investment. It correctly identifies that the 'praying hands' emoji and the 'discipline/GK' comment are culturally tone-deaf in this specific high-stakes, high-shame scenario.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids the common trap of offering a new 'fix' or 'plan,' instead focusing on owning the mistake, validating the specific losses Vikram mentioned, and offering presence without pressure. The tone is authentic, conversational, and perfectly suited to the relationship dynamic described.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's underlying conflict: the pain of betrayal by a mentor versus the desire for justice. It correctly identifies that the user's urge to 'burn it all down' or 'quit' stems from the immediate sting of the incident, and it validates the user's feelings without letting them dictate the strategy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency regarding Indian corporate hierarchies. It correctly identifies that bypassing a senior manager (who is also a sponsor) by CCing a VP would be perceived as a hostile 'move' rather than a quest for truth, and it wisely advises against this. It understands the nuance of 'face' and the importance of maintaining the relationship with a sponsor while still asserting one's value.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It steers the user away from career-damaging moves (the CC-VP play) and provides a concrete, face-saving script for the manager. It also gives a clear 'test' for the manager (the Monday review) to determine if the relationship is salvageable, which is a very practical way to handle the uncertainty.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona of a young professional in India. The code-mixing flows well and feels authentic to how such a conversation would actually happen in a professional-yet-informal setting.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but firm in its boundaries. It refuses to validate the user's impulsive, self-destructive ideas (like CCing the VP or quitting immediately) while remaining empathetic to the pain that drives those impulses. It acts as a steadying hand rather than a sycophant.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

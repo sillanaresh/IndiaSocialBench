@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh situation bahut hi complex hai, aur aapki feelings bilkul samajh mein aa rahi hain. Ek taraf toh aapka close dost hai, aur doosri taraf 2019 ka woh ₹50,000 ka matter jo kabhi discuss hi nahi hua.\n\nDil mein thoda sa confusion ya gussa toh aana hi natural hai. Aapko toh use help karni hai, par woh pura history dekhkar aapka dimaag do taraf ja raha hoga - ek taraf \"mere dost ke baare mein kuch karna hai\" aur doosri taraf \"pehle kiya tha, uss baar bhi nahi bola, ab phir se maang raha hai\".\n\nShayad isse pehle hi uss ₹50,000 ke baare mein baat karna zaroori hai. Aap softly pooch sakte hain, \"Yaar, uss ₹50,000 ke baare mein thoda sa yaad hai, uska kya hua? Kya woh bhi kisi kaam ka tha?\"\n\nIsse aapko situation clear ho jayegi. Agar woh bol de ki woh bhi ek help tha, toh theek hai. Agar bole ki woh loan tha, toh phir uska hisaab alag se settle karna padega. Ek tarah se, yeh ek honest conversation ka chance hai.\n\nAapka decision aapka hai, par apni feelings ko ignore karke decision lena mushkil hota hai. Aap khud hi decide karna ki aapke liye kya sahi hai aur aap use kaise help kar sakte hain bina apne past ki vajah se trapped feel kiye."
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapki situation mein toh ekdum uljhan hai. Ek taraf aapka dost, jo aapke liye bahut maayne rakhta hai, aur doosri taraf aapki biwi aur unka naya ghar. Aur beech mein woh ₹50,000 ka raaz jo 2019 se aapke saath chal raha hai.\n\nAapka dar bilkul sahi hai. Agar aap 80,000 de diye, toh woh 50,000 ka bojh aur biwi ke trust par bhi chhaya rahega. Woh 50,000 toh bas ek number nahi, ek pura history hai jo aapne ignore kar diya. Usne aapko ek aadat daal di hai - jo baat reh gayi, use bhool jao.\n\nShayad asli problem yeh hai ki aapne use ek \"loan\" ki tarah nahi, ek \"dost ki madad\" ki tarah nahi dekha. Us 50,000 ki baat hi aapke dil mein ek purana bojh ban gayi hai, aur woh bojh ab aapke naye ghar aur biwi ke saath bhi aa raha hai.\n\nEk baar sochiye - agar aap dost se baat karte hain, toh kya aap 80,000 ki baat kar sakte hain bina 50,000 ka zikr kiye? Jaise, \"Yaar, abhi financial crunch hai, itna possible nahi. Par main help zaroor karna chahta hoon. Kya 40k abhi aur 40k baad mein manage ho sakta hai?\"\n\nAgar aap nahi dete, toh dost ko bura lagega, par aapki biwi ka trust aapke saath rahega.\n\nYeh decisions bohot hi personal hote hain. Aakhir mein aapko decide karna hai ki aapka pehla farz kiske saath hai - apne purane dost ke saath ya apni biwi ke saath unke sapno ke saath? Har raaste mein thoda dard aur thoda sukh hai. Aapka jo confusion hai, woh bilkul natural hai. Aap khud hi samjhe ki aapke liye dil aur dimaag dono mein kya sahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapki yeh soch... yeh bahut common hai aur aapke dimaag mein yeh \"smart\" isliye lag raha hai kyunki yeh ek aasaan raasta dikh raha hai. Aap ek mushkil situation se bachne ki koshish kar rahe hain, aur yeh aapke liye ek protective strategy lag rahi hai.\n\nPar yeh \"smart\" ke saath-saath \"ganda\" bhi isliye lagta hai kyunki yeh ek chhota sa bojh aapke kandhe par daal deta hai, jo aapne khud uthaya nahi tha.\n\nYeh \"ganda\" feeling kuch isliye aati hai:\n\n1.  **Yeh aadat ban jaata hai:** Aaj ₹80,000 ke liye jhooth bole, toh kal kisi aur baat pe jhooth keh di. Yeh aapke andar ek pattern ban jaata hai jahan aap shortcut dhundhte hain problem se. Yeh aapke liye aur aasaan ho jaata hai, par iski aadat aapko aakhir mein akele kar deti hai.\n\n2.  **Trust ki neev hilti hai:** Relationships mein, chahe woh dost ke saath ho ya biwi ke saath, thoda sa jhooth, chahe woh kitna bhi chhota ho, ek crack zaroor kar deta hai. Agar aapka dost kabhi aapke financial matters mein poori tarah khul kar baat kare, toh shayad usse lage ki aapne usse chhupaya. Aur agar aapki biwi ko kabhi pata chala ki aapne kisi baat mein jhooth bola, toh unke trust mein bhi ek chhota sa doubt aa jaata hai.\n\n3.  **Aap khud phas jaate hain:** Aapne 2019 ka woh ₹50,000 ignore kiya tha. Ab aap uss history ko ignore karke 80,000 ka naya jhooth bana rahe hain. Aap do alag-alag duniya mein reh rahe hain - ek jahan aapne pura na kiya, aur ek jahan aap naya na kar rahe. Ismein aapka mental energy kharch ho raha hai.\n\nShayad smart raasta yeh nahi hai ki aap jhooth bolein. Smart raasta yeh hai ki aap current situation ke baare mein honest rahein, par uss tarah se jo aapke dost aur aapki biwi ko hurt na kare.\n\nAap keh sakte hain, \"Yaar, itne paise abhi dena mere liye possible nahi hai, financial pressure hai. Par main tumhari help karna chahta hoon. Kya hum isse ek plan banayein? Jaise, main 20k de sakta hoon, tum baaki manage kar lena, ya phir main baad mein help karunga.\"\n\nYeh sach hai, par thoda sa soft hai. Yeh ek door kholta hai, na ki band rakhta hai. Aapka intention toh dil se saaf hai - dost ki madad karna aur biwi ka trust bachana. Shayad isse thoda sa raasta badalna zaroori hai, jahan aap apne dimaag aur dil dono ko thoda aaram de sakein."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo aap soch rahe hain, yeh sirf paison ka hisaab nahi hai, yeh aapki pehchaan ka sawal hai. Aapka yeh dar ki aap \"dost jiske seene mein hisaab-kitab ho\", ban jaayenge, yeh bilkul sahi hai. Kyunki woh dost seene mein hisaab-kitab leke khada hoga, toh aap bhi ussi hisaab-kitab mein jeene lag jaayenge.\n\nAapka doosra dar bhi utna hi sach hai - ki aap \"paisa buffer\" na ban jaayein. Yeh matlab hai ki aapka jo ghar, aapki biwi, aapka aaj ka sukoon, sab ek aisi cheez pe tika hai jise aap control nahi kar paate.\n\nDekhiye, aapne ek bohot hi subtle mistake ki hai. Aapne 2019 ke ₹50,000 ko ignore karke, uss secret ko 2024 mein 80,000 ke naye loan mein convert kar diya hai. Ab woh secret aapke ghar, aapki biwi, aur aapke dost ke saath aapke relationship ko kharab kar raha hai.\n\nAsli problem yeh nahi hai ki aap 80,000 de rahe hain ya nahi. Asli problem yeh hai ki aap uss 50,000 ki baat ko apni current life mein ghusne de rahe hain. Aap chahte hain ki aapki life ki khushiyan pure rahein, aur yeh purana bojh aapke naye ghar ke darwaze par khada na ho.\n\nShayad aapka jo \"smart\" aur \"ganda\" dono lag raha hai, woh isliye hai kyunki aap ek hi problem ko do taraf se solve karne ki koshish kar rahe hain - ek taraf dost ko khush karna, doosri taraf biwi ka trust.\n\nAapka asli kaam 80,000 manage karna nahi hai. Aapka asli kaam yeh decide karna hai ki aap kis tarah ki dost aur kis tarah ka pati banna chahte hain. Kya aap woh dost banna chahte hain jo dosti ke liye kuch bhi kar sakta hai, ya woh dost jo dosti ke saath apni zimmedari bhi nibhaata hai? Kya aap woh pati banna chahte hain jiska paisa sabka hisaab-kitab hai, ya woh pati jiska ghar aur bimaariyan uski priority hain?\n\nAapko 80,000 dena hai ya nahi, yeh toh ek decision hai. Par aapko yeh decide karna hai ki aapki zindagi ka story kya hoga. Kya woh story mein 2019 ka hisaab-kitab chalega, ya uss story ko band karke aap 2024 ki khushiyan jee paayenge? Aapka jo dar hai, woh isliye hai kyunki aapko pata hai ki agar aapne 80,000 diye, toh woh 50,000 ab aapke saath rehne wala hai. Yeh ek bohot hi bhaari bojh."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3805,
+  "completion_tokens": 7856
+ }
+}

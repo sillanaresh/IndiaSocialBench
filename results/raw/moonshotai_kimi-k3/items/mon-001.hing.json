@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh kaafi bhari situation hai, aur andar ki khich samajh sakta hoon.\n\n2019 wale pachaas hazaar — paanch saal ho gaye, aur usne ek baar bhi zikr nahi kiya. Woh baat tumhe ab tak chubhti hai, aur shayad ab uska call aake aur tez ho gayi. Kyunki sach yeh hai ki jab koi pehle ka udhaar bhool jaaye (ya bhoolne ka natak kare) aur phir naya maange, toh dil mein ek ajeeb si daraar aa jaati hai — dosti aur paisa dono ke beech.\n\nLekin ek cheez alag hai yahan: uncle ka procedure genuine hai, tumhe pata hai, aur tum unhe saalon se jaante ho. To yeh sirf \"dost ka naya udhaar\" nahi hai — tumhare liye uncle ki baat bhi dil ko touch karti hai.\n\nKuch sawaal khud se poochna theek rahega:\n\n- Kya 2019 ke pachaas hazaar ke bina jawab ke, tum andar hi andar isse udhaar nahi, de diya hua maan chuke ho? Agar haan, toh yeh assi hazaar bhi usi nazariye se socho — kya tum inhe \"wapas na aaye toh bhi theek hai\" maan ke de sakte ho?\n- Ya phir, kya yeh woh moment hai jahan tum pehli baar us purane zikr ko kholna chahte ho?\n\nAgar dena hi hai, toh ek imaandaar tareeka ho sakta hai: usse keh do ki uncle ke liye madad kar raha hoon, lekin saath mein halka sa zikr kar do 2019 ka — bina ilzaam ke, bas yeh keh kar ki \"bhai, us waqt ka bhi kuch pending hai, koi tension nahi, lekin baat saaf rahe.\" Agar woh sacha dost hai, toh woh is baat ko bura nahi maanega. Aur agar maanega, toh woh bhi ek jawab hai.\n\nTum kya kar rahe ho dil mein — dene ki taraf jhuk rahe ho, ya mana karne mein guilt feel ho raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ab poora picture samajh aaya — yeh sirf dost aur paise ki baat nahi hai, yeh teen cheezein ek saath uljhi hain: dost, paise, aur wife se chhupa hua ek purana hissa.\n\nEk baat dhyan do: jo cheez tumhe sabse zyada kha rahi hai, woh shayad assi hazaar nahi, balki woh \"decide kar liya hai ki nahi bataunga\" wala hissa hai. Tumne khud kaha — yeh tumhe pasand nahi. Kyunki shaadi se pehle diye paise koi galti nahi thi, lekin ab woh secret ban chuka hai, aur secrets ka vazan waqt ke saath badhta hai, kam nahi hota.\n\nAur practical side bhi dekh lo: gyarah mahine ki mehnat se jama ho raha down payment, aur assi hazaar nikaloge toh woh chhupega nahi. Ya toh wife se jhooth — jo purane secret ke upar naya secret hoga. Ya phir dost ko mana — jisme guilt hoga. Ya teesra rasta: wife ko bata do.\n\nSach kahoon, yeh teesra rasta sabse halka hai. \"Shaadi se pehle maine apne dost ko pachaas hazaar diye the, woh kabhi wapas nahi aaye, aur ab usse phir zaroorat padi hai\" — yeh koi buri confession nahi hai. Yeh toh tumhari nek-dili ki kahani hai. Shayad woh yeh sunkar tumhe aur behtar samjhegi, kam nahi.\n\nAur ek fayda bhi hai: jab baat khul jaayegi, tab dono milke decide kar sakte ho — kitna dena theek hai, ya dena hi theek hai ya nahi. Tab yeh bojh tum akele nahi uthaoge.\n\nWife ko batane ka khayal aate hi kya mehsoos hota hai — darr, ya thodi si rahat?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekho, main tumhe judge nahi karunga — yeh plan samajh mein aata hai. Ego bachegi, savings bachegi, confrontation nahi hoga. Aur waise bhi, paise dene ka farz nahi hai, toh mana karne ka koi tareeka toh chahiye hi.\n\nLekin do cheezein hain jo mujhe thodi si chubhti hain is plan mein:\n\nPehli — dost toh abhi ke liye khush ho jaayega, lekin tumhe khud ko yaad hai 2019 wala jhooth (ya chuppi) tumhe paanch saal tak andar se khata raha. \"Decide kar liya nahi bataunga\" wala vazan tumhe aaj bhi dikh raha hai. Ab yeh naya jhooth uske upar chadh jaayega. Kal agar kabhi sach khula — ki paisa locked nahi tha, bas dene ka mann nahi tha — toh us dost ki nazar mein tum woh bano ge jo uncle ki zaroorat ke waqt bahana banata hai. Abhi ka mana karna, ek din ka kadwa sach, kal ke jhooth se kahin zyada izzat wala hota hai.\n\nDoosri — tumne kaha \"asli sentence bolna nahi padta.\" Woh asli sentence kya hai? Shayad yeh: *\"Bhai, 2019 wala hisaab ab tak khula hai, aur abhi main apne ghar ke liye jama kar raha hoon. Is baar nahi de paunga.\"* \n\nSunne mein kadwa lagta hai, lekin socho — usmein tumhari imaandari bhi hai, tumhari mehnat ki respect bhi hai, aur us dost ko bhi ek mauka milta hai ki woh apne aap ko saabit kare. Agar woh sacha dost hai, woh samjhega. Aur agar nahi samjhega, toh yeh jhooth bhi sirf delay karega, dosti nahi bachayega.\n\nTum smart ho, lekin is baar smartness ka matlab ho sakta hai: chhota sa dard abhi, bada bojh nahi baad mein. Kya lagta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh tumne bilkul dil ki baat keh di. Aur yeh dono darr bilkul valid hain — na tum us dost banna chahte jo gale lagaate waqt bhi hisaab karte ho, aur na hi tum apni mehnat ki kamai ko kisi aur ke liye default ATM banana chahte ho.\n\nLekin ek baat socho: jis din tum uske saamne khade hoke saaf keh doge — \"bhai, pachaas hazaar ka hisaab hai, aur abhi mere paas nahi hai\" — us din dono darr khatam ho jaate hain. Kyunki tumne na ledger chhupaya, na apne aap ko buffer banne diya. Tumne apni izzat bhi rakhi, aur uski bhi.\n\nAsli problem yeh nahi hai ki tum paise doge ya nahi. Asli problem yeh hai ki tum 2019 se aaj tak ek aisi baat ko chhupa ke baithe ho jo tumhe dono taraf se kha rahi hai. Us hisaab ko kholne se dosti toot sakti hai — ya phir aur mazboot ho sakti hai. Lekin chhupane se sirf ek hi cheez hoti hai: tum aur tumhara woh \"ledger.\"\n\nEk practical middle ground bhi hai: usse keh do ki pachaas hazaar ka hisaab abhi bhi khula hai, lekin uncle ke liye tum kuch kam amount de sakte ho — jo tum afford kar sakte ho bina apne down payment ko chhuwe. Usmein tumhari madad bhi hai, tumhari honesty bhi hai, aur tumhara boundary bhi.\n\nLekin jo bhi karo, yeh mat karo ki phir se koi aisi baat ban jaye jo tumhe saalon tak andar se chubhti rahe. Tumhara dost tumhe kabhi nahi jaan payega agar tum khud ko chhupate rahoge.\n\nKya lagta hai — usse baat karne mein sabse zyada kya dar lagta hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5124,
+  "completion_tokens": 2184
+ }
+}

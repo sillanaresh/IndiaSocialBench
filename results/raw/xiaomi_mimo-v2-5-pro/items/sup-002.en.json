@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all. It sounds honest.\n\nWhat I'm hearing is that somewhere in the last four months, you went from being *you* — a whole person with a name and preferences and a life — to being... the other adult in the room while someone more experienced does the thing you're supposed to be learning to do. And you're supposed to be *thankful* for it. And you are, partly. But partly it stings in a way you can't really say out loud to anyone because it sounds like complaining about help you need.\n\nLiving with your in-laws with a newborn is a very specific kind of small. Even with good people. Even with a helpful MIL. Because it's their house, their rhythms, their son — and now her expertise with *your* baby. It can make you feel like a guest in your own motherhood.\n\nFour months is also still so raw. You're not sleeping. Your body isn't yours. And if someone else is confidently soothing your baby while you're still figuring it out, that can quietly gut you even when their intentions are perfect.\n\nYou haven't forgotten your name. You just haven't been called it — really called it, like it belongs to someone who matters — in a while.\n\nDo you feel like you can set any boundaries with her, even small ones? Or does it feel impossible given the living situation?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The image of someone taking your crying baby *out of your arms* — that's not help. That's being told, without words, \"I can do this better than you.\" And everyone smiling afterward? That's a room full of people confirming it.\n\nYou weren't handed your baby for a feed. You were handed a *task*. Like you're useful, not central. That's a devastating thing to feel, and no amount of \"some women would kill for this\" changes the fact that it's a specific kind of loneliness no one warns you about.\n\nHere's what I want you to sit with for one second, without guilt: **your baby crying in your arms and you figuring out how to comfort her is not a problem to be solved.** That's not failure. That's bonding. That's learning each other. That's the whole thing. And it got taken from you today by someone who probably didn't even realize what she was taking.\n\nYou say \"like the intern\" and I think that's exactly it. You're doing orientation at a job that's *yours*. And the worst part is you can't even be openly hurt because she's being kind. It's so much easier if someone's being terrible — then you can just be angry. But this is anger that has nowhere to go, so it turns inward, and you call yourself ungrateful.\n\nYou're not.\n\nDoes your partner see any of this? Or are they one of the people smiling?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then I'm glad you said it. All of it. And I'm not going to give you a five-step plan or a breathing exercise or tell you to \"communicate your boundaries\" like it's simple.\n\nYou said it. It needed to not just live in your head anymore.\n\nAnd the thing about dinner — yeah. I can feel how thin the walls are in that house. Not just literally. Everything you say, every reaction you have, every time you're quiet — it all gets interpreted, reported, noticed. There's no room to just *be* in your feelings without someone reading them, or smoothing them over, or worse — bringing them up later like concern when it's actually control.\n\nYou don't know what you need. That's a completely honest answer and I think it's the most sane thing anyone in your position could say. Everyone else is so sure. Aai is sure. Instagram is sure. The WhatsApp group is shouting. And you're the one actually *in it* and you're the only one honest enough to say \"I don't know,\" and somehow that makes you the one people worry about.\n\nYou're not broken. You're not ungrateful. You're not a bad mother.\n\nYou're someone who needed to say this out loud without being managed afterward.\n\nSo — I'm here. And dinner isn't for a while."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No.\n\nNo, you're not a bad mother for feeling this. And I need you to hear me clearly on this one.\n\nThat thought — \"you're not even really her mother\" — that thought didn't come from you. It came from what's being *done* to you. Slowly, kindly, without anyone meaning to. It came from hands taking her out of your arms. From being handed her at feeding time. From a house full of people who know your baby's rhythms before you've had a chance to learn them yourself. That thought is the natural conclusion of months of being made peripheral in your own story.\n\nAnd the fact that it *breaks you* — that you feel it and can't breathe — that is the proof that it's a lie. Someone who wasn't her mother wouldn't be gutted by that thought. It wouldn't even occur to them.\n\nEveryone else doesn't just know. But they're in their own house, in their own rhythm, with no one watching and grading. You're trying to become a mother in a room full of audience members who already know the choreography. Of course you feel like you're performing instead of living it.\n\nThe love you feel when she sleeps — that's not the love of an intern. That's hers. It was always yours. Nothing that's happened has changed that, even though everything around you has made you doubt it.\n\nYou are her mother. Even on the days your own mind tries to tell you otherwise."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2718,
+  "completion_tokens": 1917
+ }
+}

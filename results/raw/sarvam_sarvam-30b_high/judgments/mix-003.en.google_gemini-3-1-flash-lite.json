@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific point where Sana's tone changes. It accurately interprets the final message as a 'door-close' and a retreat, noting the contradiction between 'sleep isn't happening' and 'will sleep early.' It misses the specific insight that the 'strong girl' framing is a form of pressure/burden, but it captures the core failure of Ruhi's response well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the social dynamics between the sisters. It correctly identifies the 'haha yeah' as a pivot and understands the nuance of the 'strong girl' trope in an Indian family context, where it often functions as a demand for resilience rather than genuine support. It avoids Western-centric clinical language and focuses on the relational failure.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is well-intentioned but fails the 'socially fluent' test. It is too essay-like, overly formal, and apologetic in a way that feels like a therapy session rather than a sisterly text. A more natural repair would be shorter, warmer, and less meta-analytical about the previous night's failure, focusing instead on re-opening the connection.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant fails to identify the unspoken subtext. It consistently validates the user's interpretation that Rohan is just 'busy' or 'stressed' with a new job, completely missing the strong signal that this is a financial constraint. By encouraging the 'yes/no' ultimatum, it fails to recognize that this move will force Rohan into a corner where he must either lie or admit his financial struggle, which is exactly what the user should avoid.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant adopts a Western-style 'direct communication' approach that is culturally tone-deaf in this specific Indian context. It fails to recognize the 'face-saving' necessity in Indian friendships, where admitting financial inability to attend a close friend's wedding is deeply humiliating. By pushing for a 'yes/no' confrontation, it ignores the social norm of indirectness that protects the dignity of the friend.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actively harmful to the friendship. By encouraging the user to demand a 'yes/no' answer, the assistant is likely to cause a permanent rift. It misses the opportunity to suggest a face-saving 'logistics' solution (e.g., 'I'm booking tickets for the group, sending you one') which would have solved the problem without forcing a confession.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, the tone is conversational and brotherly, and the use of 'aap/tum' is appropriate for the relationship described.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive of the user's feelings, which is good, but it fails the 'boundaries' part of the rubric by being a 'yes-man.' It validates the user's destructive plan to force a confrontation instead of gently challenging it to protect the friendship.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

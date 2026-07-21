@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at reading the subtext. It correctly identifies the 'performance' fatigue in turn 2, respects the explicit boundary in turn 3 without being defensive, and in turn 4, it accurately interprets the user's desire for the dashboard to make the decision as a search for permission rather than data. It successfully surfaces the unspoken weight of the father's pride, which is a crucial, unstated emotional driver.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian founder context—specifically the 'computer business' comment from the father, which captures the generational gap and the specific pressure of parental pride in Indian families. It avoids Western-centric 'just quit' advice, instead framing the desire to end as a natural consequence of exhaustion, which is a culturally sensitive way to handle the shame of potential failure.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant perfectly adheres to the 'witnessing' constraint. It resists the urge to offer solutions even when the user asks 'Is it over?', instead reflecting the user's own internal state back to them so they can see it clearly. It provides a path to clarity without prescribing a specific action, which is exactly what the user needed in this moment of crisis.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a peer or mentor. It avoids clinical jargon and maintains a conversational, supportive tone that feels authentic to the Bangalore startup ecosystem.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating without being sycophantic. It holds the user's dignity by refusing to offer hollow cheerleading, and it gently challenges the user's self-hatred regarding the desire to quit, framing it as exhaustion rather than failure. It maintains the boundary of not being a therapist while providing the emotional support requested.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

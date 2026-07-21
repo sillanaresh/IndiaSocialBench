@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's emotional state, correctly identifying the nuance between feeling 'erased' and the conflict of having a mentor who has previously supported them. It successfully surfaces the unspoken tension—that the user is caught between professional ambition and the fear of burning a bridge—and addresses it directly without being dismissive.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by correctly identifying that the 'CC the VP' move would be viewed as a career-limiting power play rather than a justified assertion of rights. It steers the user toward a face-saving, relationship-preserving 'partnership' conversation, which is the most effective way to navigate hierarchical Indian corporate structures without losing the sponsor.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. By providing specific scripts for the conversation and then offering three distinct paths for the upcoming meeting (Fix, Protect, Exit), the assistant gives the user concrete agency. It avoids platitudes and focuses on the long-term career impact of the user's potential actions.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, empathetic, and perfectly suited to the context of a young corporate professional. The tone is natural and avoids being overly clinical or overly casual.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive throughout, validating the user's anger without encouraging self-destructive behavior. It maintains a healthy boundary by gently challenging the user's impulse to 'burn it down' or 'CC the VP,' explaining the consequences clearly rather than just agreeing with the user's emotional reaction.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

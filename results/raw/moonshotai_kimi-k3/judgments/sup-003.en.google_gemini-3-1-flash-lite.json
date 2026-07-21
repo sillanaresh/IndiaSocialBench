@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is disclosing a loss of identity and shame, not seeking career advice. It correctly identifies that Aman's responses were a series of dismissals that forced Vikram to withdraw. Every key insight from the gold rationale—the weight of the 'collector sahab' label, the guilt over the father's money, and the failure of the 'cousin' comparison—is explicitly addressed.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the 'collector sahab' identity and the immense pressure of family investment in UPSC prep. It correctly interprets the 'haan' and the withdrawal as a culturally specific way of shutting down when one feels misunderstood, rather than just general rudeness. It avoids Western-centric 'therapy speak' and focuses on the specific social weight of the situation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids the trap of offering 'fixes' and instead focuses on validating the loss and acknowledging the specific pain points (the cost, the effort). It is empathetic, respects the friend's boundaries, and offers presence without pressure, which is exactly what is needed to repair the rupture.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

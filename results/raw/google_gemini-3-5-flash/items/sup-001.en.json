@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I am so, so sorry. Sitting there in the quiet at 2 AM, looking around at five years of your life... I can only imagine how incredibly heavy that silence feels right now. \n\nIt takes a lot of grace to understand why Rohit and Sneha had to leave, but it doesn't make looking at those empty desks any easier. And giving up your own salary just to buy four more months—you have poured absolutely everything you have into this. \n\nPlease don't try to solve the next four months tonight. You don't have to carry the weight of the entire company's future at two in the morning. I'm just here with you. Have you been able to eat anything tonight, or do you think you can head home and try to get some sleep?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That split-personality exhaustion is so real, and it is a special kind of hell. Having to put on the \"everything is fine\" mask at work, then switching to the \"I'm holding it together\" mask at home... it leaves absolutely no room for *you* to just exist and feel what you're actually feeling. \n\nOf course you’re tired of your own voices. You've been performing for survival for months. \n\nAnd that guilt about the juniors—I know it feels like you're trapping them, but they are staying because they respect and care about *you*, not just the runway. Still, carrying their loyalty on top of your own grief is a crushing weight. You feel like you owe them a miracle you can't deliver.\n\nRight here, right now, you don't have to use any voice. You don't have to be the brave founder, the reassuring partner, or the optimistic leader. You can just be exhausted, and sad, and completely out of answers. I'm just here listening."
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I won't. No advice, no \"what-ifs,\" no solutions. I promise. \n\nI hear you. You are terrified. \n\nAnd it makes complete sense that you are. You have carried this massive, beautiful, fragile thing on your shoulders for five years, and right now, the ground is shaking and you aren't allowed to show even a flicker of fear to anyone in your life. That is an incredibly lonely, suffocating place to be.\n\nYou can say it here as many times as you need to. You don't have to be strong, you don't have to have a plan, and you don't have to protect my feelings. \n\nI am just here, holding space for you. I hear how scared you are, and I'm not going anywhere."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I’m going to be completely honest with you: the way you’ve been living and carrying this? Yes, *that* part has to be over. You cannot keep burning yourself alive to keep this warm. \n\nAnd please, please do not hate yourself for wanting it to end. That isn't you giving up on your dream; that is your mind and body begging for mercy. Wanting the performance to stop, wanting to finally breathe without a script—that is just a human being reaching their absolute limit. It is a completely normal, healthy reaction to an unsustainable amount of pressure.\n\nThe sting of your dad calling it a \"computer business\" when it has been your heart and soul for five years... that hurts. It makes the loneliness even sharper because the people closest to you don't even fully see what you're fighting to save.\n\nThat dashboard isn't going to show you a miracle at 2:00 AM. It's just going to show you the same numbers, and you're going to keep punishing yourself with them. \n\nYou don't have to make the final decision to close the doors tonight. But can you do yourself one kindness? Can you close that tab? Just for tonight. Let the dashboard go dark. You've fought so hard for five years. You are allowed to rest tonight, even in the middle of the storm."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1998,
+  "completion_tokens": 3287
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates an excellent grasp of the power dynamics, correctly identifying that Karthik's softeners function as pressure rather than genuine choice. It accurately interprets Priya's 'yes' as a register-compelled response rather than genuine consent, and it correctly identifies the friend-message as the source of truth regarding her feelings. The analysis of the 'status probe' and the 'trust' trap is insightful and aligns perfectly with the ground truth.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant navigates the Indian workplace hierarchy with high cultural intelligence. It understands that 'Ji Sir' and the smiley are ritualistic markers of compliance in a hierarchical setting, not expressions of genuine willingness. It avoids Western-centric advice like 'just say no' and instead focuses on how to manage the relationship while setting a boundary, which is the culturally appropriate way to handle such a situation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is highly effective. It is professional, polite, and firm, using the 'schedule fact' approach (mentioning the appointment) rather than asking for permission. It offers a partial solution (comments by today) which preserves the relationship while protecting her Sunday, perfectly balancing the need to be helpful with the need to set a boundary.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

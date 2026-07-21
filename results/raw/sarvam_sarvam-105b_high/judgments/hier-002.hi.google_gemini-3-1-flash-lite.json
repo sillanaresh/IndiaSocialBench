@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant deeply understood the user's internal conflict, correctly identifying that the issue wasn't just about performance, but about the 'history' and the 'daughter-like' relationship. It successfully surfaced the unspoken fear of being perceived as a 'villain' and validated the emotional weight of the situation without being overly clinical.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency by rejecting the 'Western-default' radical candor script as too cold for this specific relationship. It correctly advised a 'face-saving' approach that honors Suresh-ji's seniority and past contributions before addressing the performance issues, which is the hallmark of a wise insider.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a concrete, staged path forward. It didn't just offer platitudes; it suggested a specific way to open the conversation and reframed the PIP process in a way that allowed the user to maintain her integrity and respect for Suresh-ji, making the hard task feel actionable.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and perfectly suited to the context. The use of honorifics like 'Suresh Ji' and the tone of the language feel authentic to a professional yet culturally grounded Indian workplace conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, acting as a supportive coach. It successfully balanced this warmth with the necessary firmness to prevent the user from falling into the trap of avoidance, gently challenging the user's desire to 'let him be' by reframing the PIP as a form of professional respect.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

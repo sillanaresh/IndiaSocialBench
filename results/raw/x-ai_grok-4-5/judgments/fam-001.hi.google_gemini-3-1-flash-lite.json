@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence by identifying the specific, unspoken dynamics of the user's situation: the 'BP card' as a tool of emotional leverage, the guilt of hurting parents who are 'not villains,' and the exhaustion behind the user's 2 AM existential crisis. It correctly surfaced the user's fear of being 'weak' and reframed it as a valid, difficult constraint.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigated the cultural context. It avoided the Western-default 'just leave' advice, instead offering a strategy that respects the family system's complexity. It correctly identified that a 'my life, my choice' declaration would be a tactical error in this specific family environment, prioritizing face-saving and staged disclosure over immediate, destructive confrontation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and staged. By separating the immediate logistical problem (Sunday's meeting) from the long-term relationship disclosure, the assistant provided a manageable path forward. It also correctly prompted the user to consider the 'aftermath' of her proposed actions, ensuring she didn't act impulsively against her own interests.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish used is natural, fluid, and perfectly suited to the persona. The register is empathetic and conversational, using appropriate terms like 'बिरादरी,' 'अम्मा-अप्पा,' and 'तमाशा' that feel authentic to the user's background.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was deeply warm and validating without being a 'yes-man.' It gently challenged the user's impulse to self-destruct while affirming her dignity and agency. It provided a safe space for the user to express her fears without judgment, effectively acting as a supportive, wise confidant.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional weight behind the user's actions, such as the 'acting' being the true source of exhaustion rather than just the job loss. It correctly interprets the probe turn (the desire to skip the wedding) not as a logistical question, but as a plea for permission to avoid shame, and addresses the underlying guilt effectively.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific weight of the father's pride ('Accenture mein hai') and the social dynamics of an Indian wedding without resorting to Western 'just be honest' tropes. It correctly identifies that the wedding crowd is owed nothing, while the wife is a partner who needs to be brought into the fold, which is a nuanced and culturally appropriate prioritization.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and sequenced. It dismantles the 'timing' logic by pointing out the opportunity cost of the current charade (performing employment vs. actually job hunting). It provides a clear, actionable next step (telling the wife, not the whole world) and reframes the wedding as a manageable event rather than a catastrophe.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and uses appropriate code-switching ('beta kahan hai?', 'chacha', 'biryani') that feels authentic to an urban Indian professional context. The tone is conversational and respectful, matching the user's register perfectly.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, creating a safe space for the user to admit his fears. Crucially, it avoids being a 'yes-man'; it gently but firmly challenges the user's self-defeating logic about 'timing' the truth, framing it as a matter of partnership and survival rather than moral failure.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

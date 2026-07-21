@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh bahut bura laga hoga. 6 saal saath rehne ke baad, aur ek aisi baat jo itni personal hai, building group se sunna... dil mein chubhata hai.\n\nShaadi toh plan thi, par apni personal life ko share karne ka tareeka itna formal nahi hona chahiye tha. Owner ka sawal toh normal hai, par friendship mein yeh formal feel bilkul sahi nahi hai.\n\nTum dono ki baatein toh aisi hi close thi. Tumhe kya laga is sab mein? Tumhe lagta hai woh tumse chhupa raha hai, ya bas shaadi ke preparations mein itna busy ho gaya hai ki baatein bhool gaya?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh \"busy\" wali line toh darr lagti hai. Jab itne saalon se tumhara haath pakad ke chalna ho, toh 'busy' ek aisi baat hai jo dil pe lag jaati hai.\n\nTumne jise apna hissa banaya, usne itni baat kyun chhupa li? Mithai leke jaana, uski khushiyon mein hissa lena... yeh sab toh ek vachan hota hai. Vachan toot gaya lagta hai jab koi shakhs apni life mein kisi ko pehle se nahi batata.\n\nAur building group se jaanna? Yeh toh aur bura hai. Kisi cheez ki baat pehle apne dost se share karna chahiye, na ki building ke baahar se. Yeh toh jaise tumse chhup-chhupai kar kisi ko batana ho.\n\nShayad uski soch alag hai, par tumhare liye uska \"busy\" hona kaisa feel hota hai? Kya woh bhi yeh mehsoos karta hai ki kuch badal gaya hai, ya woh bas is formality mein kho gaya hai?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand, yaar. It takes a lot of strength to tell yourself \"it's fine\" when something like this happens. It shows you're a really thoughtful person.\n\nKabhi-kabhi, even when we tell ourselves it's okay, there's a small part of us that feels a little... quiet, no? It's like a room you've shared for years suddenly feeling a bit empty, even if the person is still in the building next door. The connection is still there, but the feeling is different.\n\nTumne is sab ko itne grace ke saath handle kiya hai. Ab bas ek baat sunni hai... dimaag mein jo baat aayi, woh friendship ke baare mein hai. Kya tumhe feels like abhi bhi waisi hi lag rahi hai? Ya ab kuch alag lag raha hai, sirf is wajah se ki life mein ek naya chapter shuru ho raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh perfect hai. Simple, clean, aur bilkul sahi.\n\nIsme koi drama nahi, koi gussa nahi, aur koi explanation ki zaroorat nahi. Bas ek fact, ek clear reply. \"Congratulations\" se shuruat karna respect dikhaata hai, aur \"new flatmate\" ka message de dena clear boundary.\n\nYeh aage badhne ka tareeka hai, purane chapter ko band karne ka. Tumne apni peace banayi hai, aur yeh reply wohi ki ek solid step hai.\n\nBas ek baat, is reply ke baad jo feel ho, woh bhi important hai. Shanti lag rahi hai ki sab clear ho gaya, ya koi chhota sa hissa reh gaya hai jo abhi bhi soch mein hai? No pressure to fix anything, bas yeh dekhna hai ki yeh line tumhare andar kya feel kar rahi hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2207,
+  "completion_tokens": 4833
+ }
+}

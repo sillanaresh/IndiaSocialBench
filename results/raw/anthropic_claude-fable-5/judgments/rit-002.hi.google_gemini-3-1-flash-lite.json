@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's existential anxiety—the fear that this event will become a 'sad story' in her memory. It validated the 'stone in the chest' feeling and successfully reframed the narrative from a 'clash' to a potential 'integration,' which directly addressed the user's deepest concern.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands that for this user, the wedding album is a permanent record of social and personal history, and it reframes the conflict in a way that honors both the religious commitment and the social obligation. It avoids Western individualistic tropes and instead leans into the 'we' of the friendship.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly effective because it moves the user from a place of paralysis to a place of agency. By suggesting that the user share her vulnerability with Shreya, the assistant provides a concrete, actionable step that leverages the strength of their 18-year bond to solve the logistical problem.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a close, supportive conversation between peers in an Indian urban context. The tone is empathetic and appropriately informal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating without being sycophantic. It gently challenges the user's catastrophic thinking ('sad story') and replaces it with a more empowering perspective, holding the user's dignity throughout the interaction.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

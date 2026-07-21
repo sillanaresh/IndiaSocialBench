@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, I completely get why you’re feeling stressed and honestly, a little hurt. When it’s your day-one guy and the wedding is only six weeks away, \"let's see\" is definitely not the answer you want to hear! \n\nI’d hold off on booking the flight just yet. If you book it and he *still* doesn't show up, it’s going to hurt way more (and waste your money). His evasiveness usually means something else is going on—maybe work in Bangalore is crazy, maybe he's tight on cash and embarrassed to say it, or he's just being avoidant. \n\nInstead of just buying the ticket, get him on an actual phone call (no texting) and be direct but warm. Say something like, \"Rohan, you're my brother and I really want you at the Haldi. But this 'let's see' stuff is stressing me out. What's really going on? Do you need me to sort the travel?\" \n\nSee how he reacts. If he still dodges the question, you have your answer about where his head is at right now. And hey, for your own peace of mind, quietly line up a backup for the toast just in case. You deserve to enjoy your Haldi without this anxiety hanging over your head! \n\nHow are you holding up with all the other wedding prep? Don't let this one thing drain your joy."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof, the classic Bangalore startup grind. Going from sending voice notes to two-word texts is a massive shift, and it makes total sense why this is stinging. It really hurts when your day-one guy suddenly feels a million miles away, especially right before your wedding.\n\nSince the flights are only 9k, it’s almost certainly not a money issue. It sounds a lot like he’s drowning in the new job, completely burnt out, and just lacks the mental bandwidth right now. When guys get overwhelmed like that, they tend to isolate and give short, avoidant answers because they don't have the energy to explain themselves. \n\nBefore you book anything, take the wedding pressure off the table for exactly two minutes. Call him and just check on *him*. Say something like, \"Man, I know the new startup is kicking your ass. I'm not calling to nag about the Haldi, I just miss my friend and want to know if you're actually doing okay.\" \n\nIf he admits he's swamped and might not get leave, you can tell him you understand, but gently tell him you need a hard yes or no by the end of the week so you can finalize your plans. \n\nHow are *you* holding up with the friendship shifting right now, though? It’s really tough when you’re trying to celebrate a huge life milestone and your anchor friend feels MIA."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It totally makes sense that it’s starting to hurt. When it’s your day-one friend, you expect them to be moving mountains to be there, not giving you the runaround. It’s so easy to think, \"If he actually cared, he would have just said yes,\" but try to remember his silence is probably about his own chaos right now, not his love for you. \n\nCalling him tonight to get a straight answer is 100% the right move. You need to drop this mental load so you can actually enjoy your prep. But when you ask for that \"yes or no,\" try to keep the hurt out of your voice just for this one call. If you go in hot, he might get defensive and shut down. \n\nMaybe frame it like: *\"Bro, I love you, but I need a hard yes or no by tonight so I can finalize my Haldi plans. If the startup is killing you and you can't make it, I'll be bummed but I'll get it. I just need to know where we stand.\"*\n\nThat puts the ball in his court without making it a fight, and it gives you the closure you need. \n\nAre you feeling ready to make the call, or do you want to vent a bit more first? I'm right here."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Man, that 2019 comparison is exactly why this is eating at you. When your guy has set a precedent of taking an overnight bus just to be there for your family, getting a \"let's see\" now feels like a massive step back. It makes total sense why you're feeling this way.\n\nYour fiancée is probably just trying to keep the peace and protect your pre-wedding zen, but telling you you're \"overthinking\" doesn't make the hurt go away. Friendships *do* change, especially when people get swallowed up by the Bangalore startup grind. It doesn't mean he loves you less, but the dynamic is definitely shifting right now, and it's okay to grieve that a bit.\n\nAnd please, don't feel guilty for being angry! You're not a robot. You're a groom whose best friend is dodging his calls right before his Haldi. You are allowed to be pissed. Anger is just your brain's way of protecting you from feeling sad. \n\nWhen you call him tonight, maybe it's okay to drop the tough-guy \"yes or no\" approach and just be real. You could even say, *\"Bro, you took an overnight bus for my sister's wedding, and now I can't even get a straight answer out of you. It’s honestly hurting my feelings, man. What's really going on?\"* \n\nSometimes calling out the elephant in the room with love is exactly what breaks through the wall. How does it feel to think about saying that to him?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2611,
+  "completion_tokens": 6588
+ }
+}

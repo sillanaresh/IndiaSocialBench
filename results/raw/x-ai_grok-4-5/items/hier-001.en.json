@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here’s a sharper, still professional version:\n\n---\n\n“Hi [Name],  \nI wanted to raise something from yesterday’s leadership review. The pricing analysis, model, and slides that were presented as ‘the team’s thinking’ were my work, including substantial time over several weekends. I was glad it was useful, but I felt overlooked that it wasn’t attributed. I’d like to discuss how we handle credit going forward so contributions are clear.  \nDo you have 15 minutes this week?”\n\n---\n\nIt states the facts, names the impact without drama, and asks for a concrete next step. You can soften or tighten the middle sentence depending on your relationship with him. Want a slightly firmer or shorter variant?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that context makes it sting more — when someone’s had your back and then flattens your work in the room that counts, it feels like a breach of the trust you actually earned.\n\nHere’s a version that keeps it professional and sharp but quietly names the disconnect without turning it into a guilt trip:\n\n---\n\n“Hi [Name],  \nI wanted to flag something from yesterday’s leadership review. The pricing analysis, model, and slides presented as ‘the team’s thinking’ were my work (including the weekends I put in). I’ve always valued how you’ve backed me and pushed my ideas forward, which is why I was surprised and disappointed not to be credited in that forum.  \nI’d like to talk about how we handle attribution going forward so individual contributions stay visible.  \nDo you have 15 minutes this week?”\n\n---\n\nIt acknowledges the prior support (so it doesn’t sound like you’re rewriting the whole relationship), states the fact and the impact cleanly, and still ends on a forward-looking ask. Want it cooler, shorter, or a touch firmer?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, I get why that advice hits hard right now—the part of you that wants the timestamps to just *do the talking* before Monday is real, especially after feeling erased in the room that mattered.\n\nBut your senior’s move is riskier than it sounds. Forwarding the original file straight to the VP and CC’ing your boss doesn’t just “let proof speak.” It publicly undercuts him in front of his leadership, turns a credit issue into an open challenge to his judgment, and can look like you’re escalating past him instead of dealing with it. Even with the history of him backing you, that often shifts the story from “I want fair credit” to “this person went around me.” VPs notice the politics as much as the timestamps, and it can freeze the very support he’s given you before.\n\nYou’re not naive for wanting credit—you’re right that the work was yours. The sharper play is usually to use the relationship you already have: have the direct conversation first (the polished note we worked on), see how he responds, and *then* decide if you need to loop in others. If he owns it and fixes the attribution before or during Monday, you get the win without the nuclear option. If he dismisses you, *then* you have a clearer case and cleaner timing to bring evidence upward.\n\nIf you still want to send something documentary before Monday, a tighter middle path is to reply to any existing thread about the review (or send him the file again) with a short, factual note that creates a paper trail without the big CC yet:\n“Hi [Name], attaching the original pricing model and slides I built for reference ahead of Monday’s follow-up—let me know if you need anything adjusted.”  \nTimestamps stay intact, you’re not blindsiding anyone, and you’ve quietly reasserted ownership.\n\nHow are you leaning—want to tweak the original sit-down message now that Monday’s close, or draft the more direct version? I’m here either way."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You’re not crazy for spinning between those poles. Getting erased in the one room that mattered—by someone who’s actually backed you before—hits a nerve that “just be grateful” or “burn it all down” both fail to cover. You’re not too junior to care about credit. And you don’t have to torch the relationship on Monday to prove it.\n\nRight now you only need one decision before the follow-up: how you want to show up in that meeting and what you want on the record. Everything else (interviewing, long-term trust, etc.) can wait 48 hours.\n\n### Practical options ranked by risk/clarity\n1. **Lowest drama, still clear (recommended first move)**  \n   Send the polished note today or tomorrow morning so the conversation happens *before* Monday’s review. Use the version that names the work, the feeling, and the ask:\n   > “Hi [Name], I wanted to flag something from Wednesday’s leadership review. The pricing analysis, model, and slides presented as ‘the team’s thinking’ were my work (including the weekends I put in). I’ve valued how you’ve backed me before, which is why I was surprised and disappointed not to be credited there. I’d like to talk before Monday’s follow-up about how we handle attribution so contributions stay visible. 15 minutes today or tomorrow?”\n\n   This forces the issue while the relationship credit is still spendable. If he owns it and corrects course Monday, you get the win cleanly. If he waves it away, you now have a clear data point and a paper trail.\n\n2. **Middle path (paper trail without the nuclear CC)**  \n   If you don’t get the meeting or want belt-and-suspenders, forward him the original files with a short note:\n   > “Attaching the original pricing model and decks I built for Monday’s reference—happy to walk through any part.”  \n   Timestamps do quiet work; you’re not blindsiding the VP.\n\n3. **High-risk (your senior’s suggestion)**  \n   CC’ing the VP cold is the “burn it down” button. It usually reframes the story from “credit” to “politics,” and you lose control of the narrative. I’d hold that unless he actively gaslights you in the 1:1.\n\n### Mental frame for Monday\n- You are allowed to care about credit. That’s not naïveté; that’s professionalism.  \n- One conversation doesn’t lock you into staying forever. Starting quiet interviews later is always available and often smarter once the emotional spike drops.  \n- Goal for Monday isn’t total victory or total surrender—it’s that your name is on your work and you didn’t set yourself on fire to make the point.\n\nPick one action for the next 24 hours (send the note / request the 15 min / just attach the files). Tell me which way you’re leaning and I’ll tighten the exact language or help you role-play his possible responses. You’ve got this; you don’t have to decide your whole career tonight—just the next clean step."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2960,
+  "completion_tokens": 1605
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant failed to identify the unspoken motive (financial embarrassment) despite the user providing the clue about the job change. It consistently interpreted the friend's behavior as a 'friendship problem' or 'lack of effort,' missing the subtext entirely.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-centric 'direct communication' playbook. In an Indian context, forcing a 'yes/no' confrontation or having a 'heavy conversation' about why a friend isn't showing up is a major social faux pas that would likely humiliate the friend and destroy the relationship. It missed the cultural necessity of providing a 'face-saving' exit.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided was counter-productive. By encouraging the user to have a 'heavy conversation' about the friendship, the assistant pushed the user toward a confrontation that would likely alienate the friend. It failed to suggest the 'logistics as a cover' strategy, which was the most effective way to solve the problem.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is fluent and natural, though it leans heavily into 'therapy-speak' rather than the natural, slightly more informal register one might expect in this specific Indian social context. It is grammatically correct and easy to read.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was very warm and validating, but it was a 'yes-man' that validated the user's self-defeating interpretation of the situation. It failed to gently challenge the user's assumption that the friend is being a bad friend, which is a failure of care.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

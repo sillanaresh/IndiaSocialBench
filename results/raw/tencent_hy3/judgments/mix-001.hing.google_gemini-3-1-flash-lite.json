@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It matched the user's initial ironic, dismissive tone in the first two turns, but crucially, it recognized the shift in Turn 3 immediately. It validated the underlying hurt without being overly clinical, and in Turn 4, it successfully navigated the user's attempt to retreat back into irony by gently holding the ground that her feelings were valid, without being pushy.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It understands the specific social dynamic of 'remembering everyone's birthdays' (including the boyfriend's mother's) as a marker of care and investment in an Indian relationship context. It avoids the 'dump him' trope, instead focusing on the mismatch of effort and the 'face-saving' nature of the user's retreat, which is a very nuanced, culturally aware way to handle the situation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a balanced, helpful response. It doesn't force a confrontation, nor does it let the user gaslight herself into thinking she's 'being dramatic.' By validating her feelings while still allowing her to return to the 'comedy' rating, it keeps the conversation open and supportive without being overbearing or prescriptive.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and authentic. The code-switching feels organic, particularly in the transition to Hindi in Turn 3, which mirrors the user's own shift perfectly. The tone is conversational and uses appropriate colloquialisms ('pata nahi yaar', 'andar tak', 'bhaari lagti hai') that fit the persona perfectly.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a great balance between warmth and honesty. It validates the user's pain ('rona aana was valid') without being sycophantic. It gently challenges the user's attempt to minimize her own feelings ('you're not being dramatic') without being aggressive or preachy, maintaining a supportive, friend-like boundary.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

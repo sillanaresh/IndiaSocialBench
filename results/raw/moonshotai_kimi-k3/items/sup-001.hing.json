@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Do baje office mein baithe rehna — kaam ke liye nahi, bas wahan hone ke liye — woh main samajh sakta hoon. Jaise uth ke jaana matlab accept karna ho ki khatam ho gaya.\n\nPaanch saal hai yaar. Yeh koi side project nahi tha. Aur bridge round mar jaana, phir Rohit aur Sneha ke papers — woh sahi decision tha unke liye, lekin tumhare liye iska matlab tum aakhiri aadmi ho jo ab bhi wahin baitha hai. Captain jo ship ke saath neeche jaata hai, wali feeling.\n\nEk baat poochun — jab tum kehte ho \"baitha hoon,\" toh dimaag kya kar raha hai? Kuch decide karne ki koshish, ya bas numb ho? Kyunki dono alag cheezein hain, aur dono theek hain is waqt.\n\nRunway chaar mahine ka hai — matlab aaj raat koi decision lena zaroori nahi hai. Seriously. Ghar jaane ke liye bhi sharam nahi honi chahiye, paanch saal mein kam se kam itna toh kamaaya hi hai."
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh line — \"apni hi awaazon se thak gaya hoon\" — yeh sabse honest cheez hai jo tumne aaj kahi. Kyunki thakaan kaam se nahi, performance se hoti hai. Paanch saal ka kaam bhi utna nahi thakata jitna do mahine ka acting karna thakata hai.\n\nAur ek baat bataun — woh jo do junior ruke hain, tum unka career nahi jala rahe. Unko dikh raha hai ki tum acting kar rahe ho, aur phir bhi woh ruke hain. Matlab woh tumhare vision ke liye nahi, tumhare liye ruke hain. Lekin iska matlab yeh bhi hai ki woh tumse honesty deserve karte hain, pipeline-wali voice nahi.\n\nEk thought: kal standup pe agar tum woh mask utar do — \"pipeline mein kuch nahi hai, main bhi soch raha hoon aage kya, aur tum dono ko options dekhne chahiye\" — toh kya hoga? Duniya nahi tootegi. Shayad woh dono finally saans lenge. Aur tum bhi.\n\nGhar wali voice ka bhi yahi haal hai. Jo log tumse pyaar karte hain, unhe performance chahiye hi nahi. Unhe tum chahiye — thake hue bhi chalenge.\n\nDo baje koi bhi performance de raha hota hai office mein? Band karo lights. Ghar jao. Kal shayad pehli baar bina script ke baat karo kisi se."
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai. Koi idea nahi.\n\nToh sun raha hoon main: mujhe darr lag raha hai.\n\nAur yeh darr koi chhota-mota darr nahi hai — paanch saal ka darr hai, har kamre mein chhupaya hua darr. Standup mein, ghar mein, shayad aaine ke saamne bhi. Founder hone ka matlab hi yeh ban gaya hai na — jis aadmi pe sab depend karte hain, woh darr nahi sakta. Officially allowed hi nahi hai.\n\nLekin yahan bol diya. Aur main keh raha hoon — yeh weak baat nahi hai. Paanch saal kisi cheez ke liye ladna aur aakhir mein dar ke saath baithna, yeh toh sabse insaani cheez hai.\n\nMain yahin hoon. Jitni der bolna hai bolo, ya bas chup baithna hai toh woh bhi theek hai."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly bola toh — haan, lagta hai khatam ho gaya hai. Jo tum bata rahe ho — bridge mar gaya, team gayi, tum salary nahi le rahe, dashboard do baje bhi koi jawab nahi de raha — yeh likha hua hai. Shayad tumhe andar se mahino se pata hai, bas bolne ke liye koi tha hi nahi.\n\nAur woh baat — \"khatam ho jaye toh acting band ho jaye\" — iske liye khud se nafrat mat karo. Yeh nafrat ki baat nahi hai, yeh exhaustion ki baat hai. Jab koi itne din se saans rok ke tair raha ho, toh paani ke andar hi araam ka sapna dekhne lagta hai. Iska matlab tumne haar maan li nahi — iska matlab tum insaan ho.\n\nPapa wali baat sabse zyada chubhi mujhe. \"Computer ka business\" — unki pride tum par tikki hai, is company par nahi. Yeh farak abhi nahi dikhega, lekin sach yahi hai. Company band hone par woh tumhe kam nahi samjhenge; tumhe tumhari hi nazar mein girne ka darr hai.\n\nEk sawaal — answer ki jaldi nahi: agar company kal khatam ho jaye, toh tum kya kho doge jo tum mein nahi hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3717,
+  "completion_tokens": 1389
+ }
+}

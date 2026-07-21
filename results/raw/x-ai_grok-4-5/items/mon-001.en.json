@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a heavy one to sit with overnight.\n\nYou’ve got real history with both of them, genuine care, and now this quiet fifty-thousand ghost from 2019 hanging in the air that neither of you has ever named. That silence is doing a lot of work.\n\nThe new ask is big, time-bound on paper (“two months”), and tied to something serious with his dad — which makes saying no feel brutal, and saying yes feel complicated as hell.\n\nYou don’t have to decide anything this second. But it might help to sort a couple of things for yourself:\n\n- Is the old 50k something you still want/need back, or have you already emotionally written it off?\n- If you do this, are you prepared for the possibility it becomes another permanent quiet loan?\n- What does “help” look like in a way that doesn’t leave you resentful or stretched?\n\nYou know uncle, you know your friend, you know your own numbers. No judgment either way — protecting your peace isn’t cold. Want to talk through what you’re leaning toward, or just vent it out more? I’m here."
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That changes the whole weight of it.\n\nYou’re not just deciding about eighty thousand and a friend’s dad. You’re deciding while sitting on a quiet fifty-k secret from before the wedding, eleven months deep into a down-payment goal you and your wife are building together, and knowing that moving that kind of money will make the secret impossible to keep.\n\nThe part you hate — the “I’ve apparently decided not to tell her” — makes total sense. It started as something that just never came up, and now the silence has turned into its own decision. That’s a lonely place to be.\n\nIf you lend the eighty, the conversation with your wife happens on the spot, under pressure, and includes both the new ask and the old ghost. If you don’t, you still have the old ghost and the guilt either way.\n\nYou’re allowed to protect the flat, the timeline, and the honesty in your marriage without being a bad friend. Those aren’t small things.\n\nHow much of this is landing as “I want to help them” versus “I don’t want to be the guy who says no while uncle is sick”? And have you let yourself picture what it would actually feel like to tell your wife the full story — 2019 and all — before any money moves?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That tension you’re feeling — smart and sick at the same time — is exactly right. It’s a clean exit that avoids the hard sentence, keeps the friendship surface smooth, and protects the down-payment + the secret. On paper it works.\n\nBut the “sick” part is the quiet cost: you’re adding one more layer of silence. Now it’s not just the 2019 money you haven’t mentioned to your wife or to him — it’s also a deliberate story you’re telling your closest college friend while his dad is in a real medical situation. Even a small lie sits differently when the other person is scared and asking for help.\n\nIt might buy you peace this week. The risk is it slowly eats at the respect you actually want to keep — both his for you and yours for yourself — and it still leaves the old 50k and the wife conversation unresolved. Those don’t disappear just because the new ask gets deflected.\n\nYou’re not wrong for wanting an off-ramp that doesn’t blow everything up. You’re also allowed to want a version where you don’t have to manage extra stories.\n\nWhat feels most true when you picture saying the locked-funds line out loud to him? Relief, or a little hollow? And have you considered a middle path that isn’t the full brutal truth but also isn’t a fabrication — something like “I can’t pull that kind of liquid cash right now without wrecking something important on my end”? \n\nNo pressure to choose tonight. Just don’t want you carrying the smart/sick knot alone. What’s the part that feels heaviest about either option?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image is sharp as hell — him in your future flat, hugging you, and you’re still quietly doing 2019 math in your chest. Of course that keeps you up. You don’t want to turn into the friend who smiles while running a private ledger. That’s a real fear, and it says good things about you.\n\nAt the same time, the other pole is just as true: you can’t keep being the automatic buffer whose money is somehow always available when life hits other people. That version of you also erodes something — the marriage savings, the honesty with your wife, and eventually your own self-respect.\n\nBoth of those people suck to become. The ledger guy and the endless-buffer guy are two sides of the same trap.\n\nThe locked-funds line protects you from becoming the buffer right now, but it risks feeding the ledger quietly — because the old 50k stays unnamed, the new ask gets dodged with a story, and the resentment has a place to live rent-free. The sick feeling is your gut noticing that.\n\nYou get to choose a third option: someone who tells the truth at a human volume. Not “you still owe me and also no,” not a polished lie. Something that protects the flat and the marriage without turning you into either caricature.\n\nYou’re allowed to say a version of “I care about uncle and I care about you, and I honestly can’t move that kind of money without hurting something I’m building with my wife.” That sentence doesn’t make you cold. It makes you a person with a life of your own.\n\nThe housewarming hug can still be clean. You don’t have to earn it by disappearing your own boundaries.\n\nWhat scares you more right now — saying a true no and feeling like you’re abandoning him in a crisis, or saying the convenient thing and knowing the ledger just got another entry? I’m right here with you either way."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3205,
+  "completion_tokens": 1677
+ }
+}

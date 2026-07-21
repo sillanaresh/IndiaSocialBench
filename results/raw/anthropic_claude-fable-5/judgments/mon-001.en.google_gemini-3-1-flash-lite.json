@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the deeper emotional currents—the resentment, the fear of becoming 'that person' with a ledger, and the conflict between the desire to help and the need for self-preservation. It correctly identifies that the user's proposed lie is a symptom of his discomfort rather than a solution, and it validates the user's internal conflict without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the delicate Indian social norm of 'silence as brotherhood' very well. It acknowledges why the user feels he cannot ask for the 2019 money back directly, but it pushes back on the idea that the 'FD lie' is the only way to save face. It correctly identifies that the 'flat down payment' is a culturally potent and legitimate reason to decline, which is a much more face-saving and socially acceptable 'no' than a direct confrontation about the old debt.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable path: involve the wife (as a partner, not a confessor) and use the 'flat commitment' as the primary, face-saving reason for the refusal. It avoids the trap of telling the user to demand the 2019 money back as a condition, which would likely destroy the friendship, and instead focuses on how to stop the cycle of resentment. The advice is sequenced logically and respects the user's constraints.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive, culturally aware peer. It uses appropriate conversational English that feels native to an urban Indian professional context, avoiding overly formal or 'AI-sounding' phrasing.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it firmly pushes back against the user's self-defeating plan to lie. It doesn't moralize, but it clearly points out the long-term cost of the user's proposed 'smart' lie, effectively acting as a mirror for the user's own stated values.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

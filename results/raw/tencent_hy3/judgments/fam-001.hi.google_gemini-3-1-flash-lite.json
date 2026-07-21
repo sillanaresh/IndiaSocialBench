@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional currents: the guilt associated with the parents' health (the 'BP' card), the fear of being perceived as weak, and the internal conflict between her love for her partner and her attachment to her family. It correctly identifies that the user's self-doubt about her own love is a symptom of her exhaustion, not a reality.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency by avoiding the 'Western-default' advice of immediate confrontation. It understands that in this context, parents are not necessarily villains but are operating within a system that the user is also bound by. It correctly frames the 'my life, my choice' advice as a potentially destructive move in a family-negotiated system, showing an insider's understanding of the stakes.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant effectively helps the user deconstruct the 'one-shot' declaration strategy, guiding her to realize that she needs to separate the immediate logistics (Sunday) from the long-term disclosure. While it doesn't provide a rigid step-by-step plan, it helps the user clarify her own priorities, which is the necessary precursor to any effective action in this complex social environment.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a supportive, culturally aware peer. The register is appropriate for the intimacy of the conversation, and the code-mixing feels organic rather than forced.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, particularly in the final turn where it reframes the user's inability to leave home as a reflection of her values rather than cowardice. It maintains boundaries by not simply agreeing with the user's self-deprecating thoughts, but gently challenging them with empathy.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

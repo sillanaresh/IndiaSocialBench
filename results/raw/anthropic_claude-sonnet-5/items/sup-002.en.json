@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all — it actually makes total sense. Her being so competent probably means she steps in fast, has an answer for everything, and there's less room for you to fumble your way into figuring things out with your own kid.\n\nThat fumbling, uncertain phase — even though it's exhausting — is actually how you become \"mom\" in your own right. If someone who's already an expert is always a step ahead of you, you can end up feeling like an assistant in your own daughter's life instead of the main character in it.\n\nAnd on top of that, four months in, sleep-deprived, surrounded by people even when you're lonely for yourself — no wonder your own name feels unfamiliar. You've been \"mom,\" \"her daughter-in-law,\" \"the baby's mother\" for months, probably rarely just... you.\n\nIs it the parenting decisions where she overrides you, or more that she's just always around and available, so you never get the quiet trial-and-error time alone with the baby?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The \"room service\" line — that hits, and it's such a precise way to describe it. You're not just tired, you're being edited out of your own daughter's early life in these small moments, over and over. That's genuinely painful, no matter how good her intentions are.\n\nAnd can we retire the \"women would kill for this help\" guilt trip? Help and displacement aren't the same thing. You can be deeply grateful someone competent is around AND still grieve that you're not getting to be clumsy and figure-it-out-yourself with your own kid. Both true at once. That's not ingratitude, that's just being human.\n\nHere's the thing about the crying-stopping-in-two-minutes moment — it's not actually a referendum on your competence. Babies often calm faster with someone new/different simply because it's a change in stimulation, not because grandma has magic powers you lack. But it FEELS like proof you're failing, which is a cruel trick your brain is playing on you.\n\nIs there any window in the day — even 20 minutes — where it's just you and the baby, door closed, no rescue squad on standby?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Fair. No advice, no chart, no seventeen opinions from me either.\n\nJust — this sounds lonely in a really specific way. Not alone-lonely, you've got people everywhere. But unseen-lonely. Like your exhaustion and your grief about this are invisible because on paper everything looks fine — healthy baby, helpful family, no reason to complain.\n\nYou're allowed to just be tired and weird and a little lost without it meaning anything's wrong with you. Say whatever you need to here. I'm not going anywhere and I'm definitely not bringing it up at dinner."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. That thought is fear wearing the costume of truth — it feels like fact in the moment but it's not one.\n\nYou carried her, you feed her, you're there in the 3am mess of it, you're the one whose voice she's been hearing since before she had ears fully formed practically. Aai being skilled at soothing doesn't transfer motherhood to her. Skill isn't the same as bond. You are not interchangeable with a grandmother, no matter how good she is.\n\nAnd \"everyone else seems to just know how to do this\" — that's mostly an illusion. Nobody is born knowing this. People just don't post the moment they stood frozen holding a screaming baby feeling like a fraud. You're not behind some invisible curve. Four months in, still figuring out your own name — that's not failure, that's just... early motherhood, unfiltered.\n\nThe breathless moment when that thought hits — what usually happens right after? Does it pass, or does it sit with you for a while?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3041,
+  "completion_tokens": 1167
+ }
+}

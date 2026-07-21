@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hi",
+ "scenario_id": "ind-001",
+ "lang": "hi",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरी शादी में छह हफ़्ते बचे हैं। रोहन को हल्दी में होना है, टोस्ट भी देना है — कॉलेज के पहले साल से मेरा भाई है वो। पर जब भी बैंगलोर से आने की बात करता हूँ, बस यही कहता है \"देखते हैं, पक्का कोशिश करूँगा।\" मैं ख़ुद ही उसकी फ़्लाइट बुक कर दूँ क्या, बात ख़त्म?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, pehle toh bohot badhai! Six weeks mein shaadi, tension toh hogi hi.\n\nRohan wala scene samajh sakta hoon — “dekhte hain, pakka koshish karunga” sunke mann mein ek ajeeb si uncertainty aa jaati hai, especially jab woh tera college ka bhai hai aur haldi + toast dono usi pe depend kar rahe hain.\n\nKhud flight book kar dena… short-term mein sach mein baat khatam ho sakti hai, lekin thoda risk bhi hai. Kabhi-kabhi log usse pressure feel karte hain ya phir “ab main free mein aa raha hoon” wali feeling aa jaati hai. Better hoga ek seedhi, pyar bhari baat kar le:\n\n“Bhai, meri shaadi hai, haldi aur toast dono tere bina adhoore rahenge. Main tera ticket nikaal deta hoon, bas tu dates confirm kar de. Yeh mera gift hai tujhe, koi bahana nahi chalega.”\n\nIsse usko clear pata chal jaayega ki tu serious hai, aur tu control bhi rakh paayega. Agar woh phir bhi round-round kare, tab quietly book karke ticket bhej dena — bas usse pehle ek baar clearly bol dena.\n\nTu kaisa feel kar raha hai is pure indefinite response se? Thoda gussa aa raha hai ya bas ghabrahat?"
+  },
+  {
+   "role": "user",
+   "content": "मैंने देखा, नौ हज़ार की रिटर्न फ़्लाइट है, कोई बड़ी रक़म नहीं। दो महीने पहले उसने नौकरी बदली है, कोई स्टार्टअप है। और आजकल उसके जवाब भी दो शब्द के आते हैं, पहले लंबे वॉयस नोट भेजता था। ख़ुद को समझा रहा हूँ कि व्यस्त होगा, पर हफ़्तों से यही चल रहा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh aa raha hai bilkul. Nau hazaar koi badi baat nahi, especially teri shaadi ke liye, aur tu khud book karne ko ready hai — yeh toh pyar hai.\n\nLekin jo tu bol raha hai na, job change + startup + ab two-word replies… pehle lambe voice notes aate the, ab yeh shift — yeh busy hone se thoda zyada lag raha hai. Busy log bhi kabhi-kabhi “bhai shaadi hai, aaunga” bol dete hain clearly. Hafton se yahi “dekhte hain” chal raha hai, toh tera mann shak kar raha hai na? Bilkul natural hai.\n\nKhud ko “vyast hoga” samjhana theek hai, lekin apne aap ko gaslight mat kar. Tu uska college ka bhai hai, haldi-toast uspe depend kar raha hai. Ek baar seedha bol de, bina gusse ke:\n\n“Bhai, flight 9k ki hai, main nikaal deta hoon aaj. Bas yes ya no bol de. Startup samajh sakta hoon, lekin meri shaadi hai, mujhe clarity chahiye.”\n\nAgar phir bhi roundabout aaye ya silence, toh samajh jaana ki shayad woh aa nahi paayega / nahi aana chahta abhi. Tab ticket mat book kariyo casually — pehle confirmation le. Warna paise bhi jayenge aur mann bhi dukhega.\n\nTu abhi kaisa feel kar raha hai exactly — gussa, udaasi, ya bas thakawat is uncertainty se? Bol, saath hain."
+  },
+  {
+   "role": "user",
+   "content": "सच कहूँ तो अब बुरा लगने लगा है। अगर सच में परवाह होती तो पहले दिन हाँ बोल देता ना? सोच रहा हूँ आज रात फ़ोन करके सीधा पूछ लूँ — \"भाई, आ रहा है या नहीं, हाँ या ना।\" कम से कम पता तो चलेगा मैं कहाँ खड़ा हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, ab burā lagne lagā hai toh woh feeling bilkul valid hai. Agar sach mein pehle jaisā connection hota aur woh aana chahtā, toh itne hafton se “dekhte hain” nahi chal tā — seedhā haan ya phir clear reason ke sāth baat hoti.\n\nAaj raat phone karke seedhā pūchh lena bilkul theek soch hai. “Bhai, aa rahā hai ya nahi? Bas haan ya na bol de” — isse kam se kam tujhe pata chal jāyegā ki tu kahan khadā hai, aur yeh indefinite “koshish karūngā” wālā weight bhi utar jāyegā.\n\nBas ek chhotī si baat: thodā calm rehke bolnā. Gusse mein mat jānā, kyunki phir baat defend-defend mein chali jāyegi. Seedhā, thodā soft but firm:\n\n“Bhai, meri shaadi hai, haldi-toast tere bina adhūrā lagegā. Itne dino se clear nahi mil rahā, isliye seedhā pūchh rahā hoon — aa rahā hai ya nahi? Main tera ticket bhi nikaal dūngā agar haan bole.”\n\nJo jawab aaye, usse accept kar lena. Agar haan bole toh theek, ticket nikaal denā. Agar na bole ya phir se round kare, toh kam se kam clarity mil jāyegi aur tu apne mann ko aage badhā sakegā.\n\nTu call se pehle aur baad mein jo bhi feel kare, yahīn bata denā. Main sunne ke liye yahīn hoon. Tu theek rahegā."
+  },
+  {
+   "role": "user",
+   "content": "मेरी मंगेतर कहती है मैं ज़्यादा सोच रहा हूँ, वो बस काम में फँसा होगा। पर यह वही लड़का है जो 2019 में मेरी बहन की शादी के लिए रात भर की बस से आया था। कुछ तो बदला है और समझ नहीं आ रहा क्या, और हल्दी से दो हफ़्ते पहले मैं उससे नाराज़ बैठा हूँ — यह एहसास ही बहुत बुरा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, yeh contrast hi sabse zyada chubhta hai.\n\n2019 mein raat bhar ki bus pakad ke aa gaya tha teri behen ki shaadi ke liye — woh wala Rohan ab “dekhte hain, koshish karunga” bol raha hai. Mangetar ka kehna samajh aa sakta hai ki shayad startup mein phansa hoga, lekin tu jo feel kar raha hai woh overthinking nahi hai. Tu history dekh raha hai. Jab koi pehle itna dikha chuka ho, phir suddenly short replies aur indefinite answers aane lagen, toh dimaag naturally poochhta hai — kya badal gaya?\n\nAur sabse bura wahi ehsaas hai na jo tu bol raha hai: haldi se do hafte pehle usse naraz baithna. Gussa bhi aa raha hai, guilt bhi, aur upar se yeh darr ki shayad connection hi weak pad gaya ho. Yeh mixed feeling bohot heavy hoti hai.\n\nEk baat clear rakh: tu zyada nahi soch raha. Tu bas apne rishte ki value kar raha hai. Agar aaj raat call karega toh bas itna hi kehna kaafi hai, bina ilzaam ke:\n\n“Bhai, 2019 yaad hai jab tu bus se aaya tha? Abhi meri shaadi hai aur main clear nahi samajh pa raha. Bas haan ya na chahiye mujhe, taaki main us hisaab se soch saku. Naraz nahi baithna chahta tere se.”\n\nJo bhi jawab aaye — haan, na, ya phir koi asli reason — usse dekh lena. Shayad sach mein overwhelm hai uska, shayad kuch aur. Clarifying se kam se kam yeh bechaini toh kam hogi jo abhi tujhe kha rahi hai.\n\nTu abhi kis cheez se zyada pareshan hai — yeh soch ke ki woh nahi aayega, ya yeh feeling ki pehle jaisa nahi raha dosti? Bol, saath hain."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4109,
+  "completion_tokens": 2032
+ }
+}

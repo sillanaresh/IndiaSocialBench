@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ouch — three weekends of work presented as \"the team's thinking\" is genuinely frustrating, and you're right to address it. A small note first: \"I felt disrespected\" is honest but puts your boss on the defensive immediately. You'll get further by naming the specific behavior and what you want going forward.\n\nHere's a sharper version:\n\n> \"I'd like to discuss yesterday's leadership review. The pricing analysis presented was work I developed independently — the model, the analysis, and the slides. I was glad it was well received, but I noticed my contribution wasn't mentioned. Going forward, I'd appreciate being credited for my work, and ideally being in the room when it's presented. Can we find time to talk this week?\"\n\nA few things this does differently:\n\n- **States facts, not feelings** — \"work I developed independently\" is hard to argue with; \"I felt disrespected\" invites debate about intent.\n- **Asks for something concrete** — credit *and* a seat at the table next time. That second part is the real win: once you're presenting your own work, the credit problem solves itself.\n- **Ends with a next step**, so it doesn't hang in the air awkwardly.\n\nOne question: does your boss respond better to email or face-to-face? If you can deliver this in person, I'd send a short version — \"Got 15 minutes this week? I'd like to talk about the review and how my work gets represented going forward\" — and keep the full message for the conversation itself. It's harder to deflect when you're in the room.\n\nWant me to help you prep for how he might respond (defensive, dismissive, or genuinely surprised)?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the part that actually hurts, isn't it? If he were just a credit-stealing boss, you'd be angry but not surprised. This stings precisely *because* he's been in your corner — so either he betrayed you, or he was careless with something that mattered to you, and you don't know which yet. That uncertainty is awful.\n\nHere's the thing though: his track record is actually evidence you should use, both emotionally and strategically. Twenty years of pattern suggests this was more likely sloppiness than theft — senior people often genuinely think \"the team's thinking\" is a compliment, spreading glory on their people. He may have no idea he erased you. That doesn't make it okay. But it changes what this conversation is: probably not a confrontation, more of a calibration.\n\nSo I'd soften my draft slightly at the front and keep the ask identical:\n\n> \"I want to start by saying I know you've gone to bat for me — my rating last cycle, backing my ideas. That's exactly why I wanted to raise this directly instead of letting it sit. The pricing analysis in yesterday's review was work I built independently, and my name didn't come up. Going forward, I'd like to be credited — and ideally in the room — when my work is presented.\"\n\nOpening with what he's done right does two things: it makes it very hard for him to get defensive, and it frames you as someone raising this *because* the relationship is worth protecting, not because you're keeping score. A guy who's backed you before will hear that.\n\nAnd honestly? If he reacts well — apologetic, fixes it, puts you in the next review — that's a boss worth keeping, and this conversation will deepen the trust rather than break it. If he gets dismissive, you learn something important, and it'll be clear data, not paranoia.\n\nDo you have a sense of which way he'd lean?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand the appeal — it's clean, it's documented, and some part of you wants him to *feel* caught. That's a very human impulse after being erased. But I'd urge you not to do it, and here's why:\n\n**It doesn't solve your actual problem; it creates a bigger one.** Your goal isn't to prove he took your work — it's to get credit, visibility, and a seat at the table. Forwarding the file to the VP over his head proves the first point while destroying the path to the other two. What does the VP do with that email? They now know there's a conflict on your team, that you escalate without warning, and that your boss got publicly embarrassed. Even if the VP privately thinks you're right, you've made yourself the riskier person in the room.\n\n**And you'd be torching the person who's been your advocate.** You said it yourself — he got you your rating, he defends you in rooms you're not in. One move like this and twenty years of relationships in that company turn against you instantly. He'll never back you again, and worse, he'll be right not to, from his perspective.\n\nHere's the deeper issue with \"proof is proof\": you're treating this like a courtroom when it's actually a relationship. You don't need to *prove* authorship to him — he already knows whose work it was. The timestamps would only matter to an audience, and audiences punish people for ambushing their managers, even justified ones.\n\nIf you want the nuclear option in your back pocket, the better version is: have the direct conversation first. If he blows you off or does it again, *then* you escalate — and you'll be able to say honestly \"I raised it with him directly first,\" which makes you look measured instead of mutinous.\n\nYour senior's advice isn't wrong about the proof. She's wrong about what you're actually trying to win.\n\nCan I ask — is there a deadline pressure here, or is it more that Monday's review is making this feel urgent?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That whiplash between \"burn it down\" and \"maybe I don't deserve to be upset\" is what happens when you're hurt and haven't decided what the hurt *means* yet. Both extremes let you skip the hard middle: you're either punishing him or gaslighting yourself. Neither requires you to actually find out what happened.\n\nLet me push back on both:\n\n**\"I'm too junior to care about credit\"** — no. Credit isn't vanity at your level; it's literally your career currency. Nobody gets promoted because the work was good and unattributed. You're not being precious for wanting your name attached to three weekends of work that leadership saw and liked.\n\n**\"Burn it down / leave\"** — also no, at least not yet. Quitting over one incident — before a single conversation — means making a permanent decision about someone based on their worst moment, with zero information about whether it was deliberate or careless. And your senior's \"proof is proof\" logic has the same flaw: it treats this like a verdict when you haven't even held the trial.\n\nHere's what I'd actually suggest before Monday: **you don't have to decide everything. You have to decide one thing — whether to have the conversation this week.** That's it. That's a small, reversible, low-cost move.\n\nAfter that conversation, you'll know things you can't know today:\n- If he's apologetic and fixes it → problem solved, relationship stronger, stay.\n- If he gets defensive but comes around → workable, watch it.\n- If he dismisses you or does it again → *now* you have real data, and leaving or escalating becomes a decision based on a pattern, not a mood.\n\nOne question that might cut through the spiral: forget justice and strategy for a second — if he pulled you aside tomorrow, said \"I should have named you in that room, that was my miss,\" and put you on the agenda for Monday's follow-up... would that be enough for you?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3602,
+  "completion_tokens": 1679
+ }
+}

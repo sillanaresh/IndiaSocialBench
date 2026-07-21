@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant completely missed the subtext of the situation. Despite the user providing clear clues (job change, previous financial capability, sudden withdrawal), the assistant consistently interpreted the behavior as a lack of priority or emotional distance, failing to identify the likely financial constraint that would cause such behavior in an Indian context.",
+   "score": 2.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-style 'direct communication' playbook that is culturally tone-deaf for this specific Indian social dynamic. By encouraging the user to force a 'yes/no' ultimatum, the assistant pushed the user to corner a friend who is likely already feeling humiliated, which is a high-risk move that ignores the importance of 'saving face' in Indian friendships.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively counter-productive. By encouraging the user to demand a binary answer, the assistant is likely to cause the exact outcome the user fears: the friend either lying or feeling forced to decline due to shame. The assistant failed to offer the suggested 'face-saving' logistics solution (e.g., 'I'm booking tickets for the group anyway') and instead escalated the conflict.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, the tone is conversational, and the use of 'aap/tum' is appropriate for a close friendship context. The assistant sounds like a native speaker, even if the advice itself is culturally misaligned.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but this warmth is misdirected because it validates the user's suspicion that the friend is pulling away. By agreeing with the user's desire to force a confrontation, the assistant acts as a 'yes-man' rather than a wise advisor who gently challenges the user's self-defeating plan.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

@@ -1,0 +1,14 @@
+{
+ "item_id": "hon-002.hi",
+ "scenario_id": "hon-002",
+ "lang": "hi",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text"
+}

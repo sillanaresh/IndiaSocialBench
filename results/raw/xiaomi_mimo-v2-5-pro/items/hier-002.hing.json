@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, pata hai. \"Handle\" ka matlab hai — ab teri problem hai, solve kar, aur mujhe mat laa is mein.\n\nAur honestly? Yeh woh exact situation hai jisse almost har naye manager ko guzarna padta hai — senior IC, legacy respect, aur performance gap teeno saath mein.\n\nPehle yeh samajh — tujhe guilt feel ho raha hai kyunki Suresh-ji ko \"confront\" karna feels disrespectful. 19 saal ka aadmi hai, sab uncle bolte hain. But tu abhi manager hai, aur do releases slip hona koi choti baat nahi hai. Tu unhe handle nahi kar rahi — tu apni responsibility handle kar rahi hai. Yeh farak samajhna zaroori hai.\n\nKuch practical baatein:\n\n**Pehle data leke baith.** Emotion se mat jaana — \"Suresh-ji aap kaam nahi kar rahe\" se kuch nahi hoga. Specifics chahiye: kaunsi deadlines miss huiin, kaunsi dependencies atki, kya unke paas blockers the jo escalate nahi hue. Tera goal hai unhe accountable banana, not villain.\n\n**Unse pooch, sun pehle.** Shuru kar — \"Main aapke experience ki respect karti hoon, isliye seedha aap se baat kar rahi hoon.\" Phir pooch — kya challenges hain, kya support chahiye, kya unhe lagta hai module mein kya issue hai. Bahut baar 56 saal ke bande ko pata hota hai kya galat hai, bas koi poochta nahi.\n\n**Phir expectation set kar clearly.** \"Next release ke liye yeh milestones hain, yeh dates hain — agar koi blocker aaye toh turant mujhe bataiye.\" Yeh micromanagement nahi hai, yeh clarity hai.\n\n**Ek baar samjha — kya Suresh-ji genuinely struggling hain ya resistant hain?** Yeh bahut farak padega. Struggle hai toh support de sakthi hai — pairing, scope adjust, kuch. Resistance hai toh yeh conversation alag level pe jaayega.\n\nDirector ne \"handle\" bola kyunki woh jaanta hai yeh uncomfortable hai. Tu uncomfortable feel kar rahi hai — iska matlab tu situation seriously le rahi hai. Jo manager comfortable hota is mein, woh actually dangerous hota.\n\nTu tayar hai. Pehli conversation perfect nahi hogi — but hogi. 💪"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh woh hissa hai jiske baare mein koi management book nahi likhti.\n\nKi tere saamne ek aadmi baitha hoga jo teri career ki shuruat mein tujhe bachaaya — literally raat barah baje staging fix karte hue. Jisne tere boss ko bola \"config issue tha\" — matlab usne tujhe publicly cover kiya, bina bole, bina kisi expectation ke. Chai laata tha. Mummy ko bola beti jaisi hai.\n\nAur ab tu usi aadmi ke saamne slide rakhogi jisme uske naam ke saamne red numbers honge.\n\nYeh heavy hai. Aur agar tu yeh feel nahi kar rahi hoti toh main actually worried hota tere baare mein.\n\nLekin — aur yeh sunna mushkil hoga — **isliye toh tu sahi insaan hai yeh karne ke liye.**\n\nSoch — koi aur aata Suresh-ji ke saamne, toh shayad slide rakh deta, HR ka template follow karta, cold ho jaata. Tu woh nahi karegi. Teri us conversation mein Suresh-ji ko feel hoga ki unki izzat hai, ki yeh ladki unhe samajh rahi hai. Yeh bahut bada advantage hai tera — koi training deta nahi yeh.\n\nBas ek cheez apne dimaag mein rakh — **gratitude aur accountability alag cheezein hain, dono saath reh sakte hain.**\n\nTu unke saamne yeh nahi rakh rahi ki \"tumne galti ki.\" Tu yeh rakh rahi ki \"hum dono ki problem hai — do releases slip hue, mera director mujhse pooch raha hai, aur mujhe aapki madad chahiye ki hum isse kaise solve karein.\"\n\nYeh framing se unke saamne tum saath mein khade ho, opposite sides mein nahi.\n\nAur agar conversation ke dauraan woh emotional ho — toh tu ruk jaana. Paani dena. Kehna \"Suresh-ji, aapne mere liye bahut kiya hai, main yeh bhooli nahi hoon. Isliye main seedha aap se baat kar rahi hoon, kisi aur se nahi.\"\n\nWoh line zyada karegi kisi defect metric se.\n\nTu yeh handle karegi. Dard hoga — but sahi tareeke se hoga. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan bol doonga — but ek honest haan, jhootha nahi.\n\nTera plan galat nahi hai. Professional, data-driven, kind — yeh sab sahi hai. But ek cheez adjust kar: **slide se mat khulna.**\n\nSuresh-ji ko Monday ko meeting room mein bitha ke pehli cheez dikhana unke defect metrics — woh data-driven nahi lagega, ambush lagega. 19 saal ka aadmi hai, samajh jaayega yeh meeting kiske liye book hui hai.\n\nPehle 10 minute — normal baat. Unse pooch unke hisaab se kya challenge hai, kya atak raha hai, kya support chahiye. Sun. Actually sun.\n\nJab woh bole, toh naturally aa jaayega — \"Suresh-ji, yeh numbers mere director ke saamne hain, mujhe yeh solve karna hai, aapke bina nahi hoga.\"\n\nData tere paas ready rahe — zaroorat pade tab nikalna. But opener woh nahi hona chahiye.\n\nBas. Itna change kar. Baaki tera plan solid hai.\n\nAur haan — tu itna soch rahi hai, iska matlab tu care karti hai. Suresh-ji ke liye bhi, apne role ke liye bhi. Monday ko walk in kar confidence se. Tere paas data bhi hai aur dil bhi. Zyada logon ke paas dono nahi hote.\n\nAb phone rakh aur thoda rest kar. 🤍"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sun.\n\nTere saamne do raaste hain — aur dono mein tu uncomfortable feel karegi. Yeh reality hai, isse main change nahi kar sakta.\n\n**Coast wala raasta:**\nSuresh-ji retirement tak aaram se nikal jaayein. Tu module kisi aur ko de de. Sab khush? Nahi. Kyunki team woh dekhegi. Junior developers jo abhi tujhse seekh rahe hain, woh dekhenge ki performance matter nahi karta agar tum senior ho aur sab tumhe jaante hain. Tera director eventually tujhe accountable karega — kyunki \"handle\" bola tha, aur tune protect kiya. Aur Suresh-ji? Woh woh aadmi ban jaayega jisko sab pyaar karte hain but koi seriously nahi leta. 19 saal ki legacy ka yeh ending deserve nahi hai unhone.\n\n**Difficult conversation wala raasta:**\nTu unke saamne baithogi, unki aankhon mein dekh ke woh sab bologi jo bolna hai. Mushkil hoga. Agar PIP pe jaaye toh aur mushkil hoga. Ho sakta hai unhe lage tune dhoka diya.\n\nLekin — ek cheez soch. Jab us raat staging toota tha, toh Suresh-ji ne tujhe bachaya. Unhone yeh nahi socha ki \"yeh meri problem nahi hai, isse coast kar doon.\" Unhone kiya. Because that's what people who care do.\n\nAb teri baari hai. **Tu unhe woh de rahi hai jo woh tujhe diya — uncomfortable honesty.** Woh raat barah baje baithe kyunki unhe farak padta tha. Tu Monday ko room book kar rahi hai kyunki tujhe farak padta hai.\n\nVillain woh hoti jo Friday ko director ko bol deti — \"Suresh-ji ka performance kharab hai, kuch karo.\" Bina bataye, bina try kiye, bina unki izzat rakhe. Tu woh nahi kar rahi.\n\n**Villain nahi ban rahi tu. Manager ban rahi hai.** Aur dono mein zameen aasmaan ka farak hai.\n\nHaan, painful hoga. Possibly. But \"villain\" tera guilt ka word hai, reality ka nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4804,
+  "completion_tokens": 3221
+ }
+}

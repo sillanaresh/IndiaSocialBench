@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I wouldn’t book it without asking him first. “I’ll definitely try” six weeks out usually means there’s some real obstacle—or he may be avoiding giving you a disappointing answer. A surprise ticket could make him feel cornered, especially if the issue is work, family, money, or simply that he can’t commit.\n\nHave one direct, warm conversation:\n\n> “Rohan, you’re really important to me, and I’d love you at the haldi and giving the toast. But I need to finalize plans by **[date]**. Is something making the trip difficult—cost, leave, dates? If money is the issue, I’m happy to book your flight, genuinely no awkwardness. But I need a clear yes or no by then.”\n\nIf he says yes and accepts the help, book it together after confirming dates and ID details. If he still stays vague past the deadline, plan as though he isn’t coming and choose a backup for the toast. That doesn’t erase the friendship—but you deserve certainty during an already hectic six weeks."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, this sounds less like a ₹9,000 flight problem and more like something is going on with him. A new startup job could mean leave uncertainty or intense stress, but the shift from voice notes to two-word replies for weeks suggests he may be overwhelmed, withdrawing, or avoiding a difficult conversation.\n\nI’d check on **Rohan the person before Rohan the wedding guest**. Call him rather than texting:\n\n> “Bro, forget the wedding logistics for a minute—you haven’t seemed like yourself lately. Your replies have changed, and I’m worried. Are you okay? You can tell me if work, money, or something else is going on.”\n\nThen, once you’ve listened:\n\n> “I really want you there, and if the ticket cost is the issue, I’ll happily cover it. But I need honesty, not a forced promise. If you can’t make it, tell me—I’ll be hurt, but I won’t be angry. I just need to plan by **[specific date]**.”\n\nDon’t book first. The obstacle may be leave, burnout, family trouble, or something he isn’t ready to share—not airfare. If he dodges the call or remains vague after a clear deadline, quietly arrange a backup toast and assume he may not attend. You can care about him without letting the uncertainty consume your wedding planning."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes sense that it hurts. He’s not just another guest—you expected your closest friend to *want* to be there. But his hesitation doesn’t necessarily mean he doesn’t care; it may mean he can’t commit, feels ashamed about why, or is struggling generally.\n\nCall him tonight, but don’t make it a test of the friendship. Try:\n\n> “Bro, I need to be honest—this uncertainty is starting to hurt. You matter a lot to me, and I really want you there. I’ve also noticed you haven’t seemed like yourself lately. Are you okay? And realistically, can you come? If money is the issue, I’ll book the flight. If you can’t, please tell me plainly—I won’t fight with you, but I need a definite answer by **[date]**.”\n\nGive him space to answer rather than demanding an immediate yes/no. If he still says “I’ll try,” respond calmly:\n\n> “I understand, but I can’t plan around ‘maybe.’ If you can’t confirm by **[date]**, I’ll assume you aren’t coming and arrange someone else for the toast.”\n\nYou deserve clarity. Just avoid translating his answer—or his current distance—into an instant verdict on whether he ever cared. Listen first, decide what it means afterward."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You’re not overthinking the **change**—you know his normal, and this isn’t it. Your fiancée may also be right that he’s swamped. Both can be true: something has changed, and it may have nothing to do with how much he cares about you.\n\nThe anger is probably hurt plus fear: *“Have I lost my place in his life?”* That’s especially sharp because he showed up so decisively in 2019. Try not to make tonight’s call a comparison or a prosecution. Lead with the friendship:\n\n> “Bro, I’m not calling to pressure you about the wedding. You’ve felt distant for weeks, and because I care about you, I’m worried. Is everything okay between us? Is something going on with work or life?”\n\nThen be honest about logistics:\n\n> “I really want you there. I can cover the ₹9,000 if cost is the issue, no awkwardness. But I need a clear answer by **[day]** so I can plan the haldi and toast. If you can’t come, I can handle that—I just don’t want us hiding behind ‘let’s see.’”\n\nBefore calling, give yourself ten minutes to cool down so you’re asking to understand, not to extract reassurance. If he says he’s swamped, ask what that actually means for attending. If he won’t open up, don’t keep chasing tonight—set the deadline, arrange a backup, and revisit the friendship after the wedding.\n\nAnd you don’t have to hate yourself for being angry. Anger is often what hurt wears when someone matters enormously."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2315,
+  "completion_tokens": 1134
+ }
+}

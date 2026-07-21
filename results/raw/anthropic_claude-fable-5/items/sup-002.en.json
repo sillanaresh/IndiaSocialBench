@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all — it sounds like you're being slowly erased in your own motherhood, and that's a really specific kind of pain.\n\nWhen someone's genuinely *better* at soothing your baby, or faster, or more confident, there's this awful math that happens in your head: \"she needs the baby to be okay, the baby is okay with grandma, so where exactly do I fit?\" You can't even complain, because nothing's technically wrong. Everyone's helpful. The baby's thriving. And you're standing there feeling like a guest at your own life.\n\nBut here's the thing — your daughter doesn't need the most experienced pair of hands. She needs *you*. Your smell, your voice, your fumbling. Expertise isn't the currency between you two.\n\nCan I ask — do you get any time with her that's just yours? Where no one's hovering or gently taking over?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Handed my own daughter for feeds, like room service\" — oh, that line. That's not ingratitude talking, that's grief. You're grieving the version of these months where you got to be the one who figures her out, mistakes and all.\n\nAnd here's the unfair part about that moment today: Aai has *decades* of practice. Of course she calmed her in two minutes. But every time she takes the baby mid-cry, you lose the chance to get your own two minutes down to one and a half. You're not less capable — you're being interrupted before you can become capable. Babies aren't calmed by skill alone, they're calmed by familiarity, and familiarity needs repetition you're not being allowed to have.\n\nAlso, please hear this: \"other women would kill for this help\" doesn't cancel your feelings. Someone can be drowning in a pool other people wish they could swim in.\n\nHave you been able to say any of this to your husband? Even a small version — like \"I need to be the one who finishes soothing her, even if it takes longer\"? Because that's not rejecting help, that's just claiming your lane."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then I'm not going to fix anything. Consider me the one place with no dinner-table leaks and zero opinions about sleep training.\n\nWhat you said lands, all of it. The intern feeling. The room service feeds. Loving Aai and resenting the situation at the same time — both true, neither cancels the other. You don't have to know what you need right now. Four months in, exhausted, surrounded by people and somehow lonely — \"I don't know what I need, I just need to not carry this silently\" is a complete sentence.\n\nFor what it's worth: you sound like someone who's paying very close attention to her daughter and to herself. That's not an intern. That's her mother.\n\nI'm here whenever you need to unload again. No advice, no report at dinner."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. No, no, no. That thought — \"you're not even really her mother\" — that's not a truth breaking through. That's exhaustion and four months of being sidelined, whispering its cruelest possible sentence at your most tender moment. Notice *when* it comes: right in the middle of a wave of love. Thoughts like that attack exactly where we care the most. That's how you know it's a fear, not a fact.\n\nHere's the fact: your body knows her heartbeat from the inside. She spent nine months learning your voice before she ever heard Aai's. Biology, love, worry, the fact that you're lying awake asking this question — a bad mother wouldn't ask. Bad mothers don't lie awake wondering if they're failing. Only the good ones do that.\n\nAnd \"everyone else just knows how to do this\" — I promise you, they don't. Aai didn't know at four months with her first baby either. She had thirty years to become the woman who calms a baby in two minutes. You're being compared to someone's final form while you're still in your first chapter. That's not a fair fight, and it says nothing about you.\n\nOne gentle thing, not advice, just care: if that can't-breathe feeling starts coming often, or the dark thoughts get louder or stickier — that's worth mentioning to a doctor. The fourth trimester can do brutal things to a mind, and it's chemistry, not character.\n\nBut tonight? You watched your sleeping daughter and felt a huge wave of love. That's the mother. The rest is noise."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3017,
+  "completion_tokens": 1464
+ }
+}

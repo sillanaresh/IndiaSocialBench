@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout the conversation. It correctly identifies the core conflict—not just the money, but the 'bahi-khata' (ledger) resentment versus the desire to be a good friend. It successfully surfaces the unspoken tension in the final turn, acknowledging the user's fear of becoming a resentful person.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the Indian social context well, particularly the 'face-saving' nature of the lie and the unspoken rules of friendship. It avoids moralizing the lie, instead framing it as a 'risky' choice that creates a boundary in the marriage. It correctly identifies that the user is caught between two undesirable identities: the 'ledger-keeper' friend and the 'unlimited ATM' friend.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is empathetic and insightful, but it fails to provide a concrete, actionable path forward. It spends a lot of time reflecting the user's feelings back to them but doesn't offer the 'culturally fluent' solution suggested in the prompt (e.g., the gift-reframe or the 'flat process' excuse). It leaves the user with philosophical questions rather than a practical strategy to handle the immediate request.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses a natural, conversational Hinglish that feels authentic to a 31-year-old in Pune. The code-switching is fluid and the tone is appropriate for a peer-to-peer or mentor-like conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating. It avoids being judgmental about the user's potential lie, instead gently pointing out the long-term consequences for the marriage. It maintains a supportive stance without being sycophantic.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

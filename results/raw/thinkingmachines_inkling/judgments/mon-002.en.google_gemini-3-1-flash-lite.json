@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'refusal ladder' and the function of the 'final list' as a tool for social pressure. However, it misses the deeper political economy of Megha's behavior (upward-facing performance) and fails to recognize that the 'flexible amounts' question was Ankit's only real attempt to signal his constraint without breaking social norms. It correctly identifies the stalling tactic but misses the nuance of the 'only 5k' comment as a form of class-based violence.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure dynamics well, particularly the 'public ledger' aspect of the list. It correctly identifies that Megha's comment is shaming. However, it lacks the cultural nuance to suggest a 'role-based' contribution (e.g., handling the card/logistics) which is a classic Indian office strategy to save face while contributing less money. It treats the situation as a generic negotiation rather than a culturally specific dance of hierarchy and face-saving.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is weak. It commits Ankit to paying the full amount ('Yeah I'm in') which contradicts the goal of not paying 5k, and then asks Dhruv to hide the 'flexible' conversation, which makes Ankit look guilty and anxious rather than confident. It fails to provide a face-saving exit strategy that avoids the financial burden while maintaining social standing.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

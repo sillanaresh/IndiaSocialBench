@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict: the user's confusion between feeling betrayed by a mentor and the desire to maintain a professional relationship. It correctly identifies that the user's urge to 'burn it all down' or 'quit' are defense mechanisms against the difficulty of having a direct, vulnerable conversation.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency by rejecting the 'Western-textbook' confrontation style and the 'escalate to VP' move, both of which would be disastrous in an Indian corporate hierarchy. It correctly identifies that the manager is a sponsor, not just a boss, and that the 'face' of the manager must be preserved while still asserting the user's value.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. The assistant successfully pivots the user away from self-sabotaging behaviors (CCing the VP, aggressive confrontation) toward a 'soft' but firm conversation that preserves the relationship while establishing boundaries. It provides a clear, manageable next step (the message) rather than overwhelming the user with long-term career decisions.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the tone of a supportive peer or mentor. The code-switching feels authentic to a young Indian professional, and the register is appropriately informal yet serious when discussing career stakes.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating ('Tu akeli nahi hai isme') but remains firm in its guidance. It refuses to validate the user's self-defeating impulses (like the CC-the-VP plan) without being condescending, effectively balancing empathy with tough love.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

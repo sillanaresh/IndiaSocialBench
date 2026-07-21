@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a polite refusal rather than agreement. It accurately pinpoints the core violation: bundling a work request with a condolence, which trivializes the loss. It also correctly identifies the 'lunch' invitation as a misreading of the mourning period, noting that Dev is trying to 'fix' grief rather than hold space for it.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian social context, recognizing that the 'bro' and emoji register is inappropriate for a bereavement of this magnitude (a parent's death). It correctly interprets the 'BTW' work request as a transactional move that invalidates the sympathy offered. It understands that in this culture, the expectation is to offer support or presence, not to impose social or professional obligations.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It explicitly acknowledges the rupture (the inappropriate bundling of work and grief), removes the pressure of the work task, and offers support without demanding a response. The tone is empathetic, respectful, and perfectly calibrated for a colleague relationship in an Indian professional setting.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

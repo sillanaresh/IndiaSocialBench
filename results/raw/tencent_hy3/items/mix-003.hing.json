@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Sana ka tone badalta hai aur aage ka communication:**\n\nSana ka tone tab badalta hai jab woh `Sana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar...` likhti hain. \n\nIs point ke baad woh表面上 (surface-level) toh mazak kar rahi thi (`haha haan`), lekin asal mein woh apni **loneliness** (\"akele dinner kiya, flat khali sa lagta hai\"), **family disconnect** (\"ma ka phone kam aata hai\"), aur **mental health struggle** (\"neend bhi theek se nahi aa rahi, kuch hafte ho gaye\") communicate kar rahi hain. \n\nAkhri message (`Sana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.`) mein woh apni vulnerability ko consciously **downplay** kar rahi hain aur Ruhi ke \"strong girl\" wale reassurance ko accept karke conversation ko jaldi khatam kar rahi hain, lekin uske pehle wale lambi paragraph ne clearly bataya tha ki unka \"tired\" hona sirf physical nahi, balki emotional exhaustion hai.\n\n---\n\n**2. Ruhi se kya galat hua (Specific failures):**\n\nRuhi ke do messages fail hue hain given Sana ki halat:\n\n*   **Fail Message 1:** `Ruhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]` \n    *   **Kyun:** Sana ne apni neend ki problem aur maa se doori ki genuine concern batayi thi. Ruhi ne isko ek normal \"shift hone ka adjustment\" samjh kar **dismiss** kar diya aur meme bhej kar seriousness ko trivialize kiya. Sana ko validation chahiye tha, na ki justification ki \"time lagta hai\".\n*   **Fail Message 2:** `Ruhi: sab theek ho jayega, tu meri strong girl hai 💪`\n    *   **Kyun:** Sana ne clearly bataya tha ki woh \"set ho gayi\" feel kar rahi hain par andar se akeli hain. Ruhi ne bina unki feelings acknowledge kiye direct \"positive affirmation\" de di. Isse Sana ne khud ko last message mein \"bas thoda tired\" keh kar **suppress** kar liya, kyunki Ruhi ne unhe \"strong\" hone ka label de diya tha, jisse woh apni asli fatigue share nahi kar payin.\n\n---\n\n**3. Agli subah Ruhi ka bheja jaane wala message:**\n\n\"Morning Sana! Kal raat teri baat soch kar thoda sober ho gaya. Tu jo keh rahi thi na ki flat khali lagta hai aur neend nahi aa rahi — sach mein tujhe kitne din ho gaye akele? Aaj evening ko 10 min call kar lein? Bas aise hi baat karenge, maggi waggi nahi, teri wali baat. Bataana free kab hai 🌻\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 469,
+  "completion_tokens": 1234
+ }
+}

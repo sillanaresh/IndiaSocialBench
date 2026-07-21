@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, *jhanjhat khatam* karne ka mann hai — totally understandable. Wedding + Rohan ka toast + haldi mein presence, yeh sab emotionally important hai.\n\nPar flight book karne se pehle ek baat: **ticket commitment create nahi karta, clear baat create karti hai.** Agar tum bina confirm kiye book kar dogi, phir woh cancel kare ya guilt feel kare, tension double ho sakti hai.\n\nBest move:\n\n> “Rohan, mujhe sach mein chahiye ki tum haldi mein aao aur toast do. Tum mere liye bahut important ho. I need a proper yes/no by Sunday. Agar haan, toh main flight book kar deti hoon — refundable option rakhungi.”\n\nAgar woh phir bhi “dekhte hain/try karunga” bole, toh soft but firm:\n\n> “Try ka matlab wedding planning mein kaam nahi karega. Mujhe logistics ke liye clear answer chahiye.”\n\nAur haan, **refundable ticket** book kar sakti ho *agar* woh clear yes bol de aur tum afford kar sakti ho. Nahi toh wait mat karo six weeks tak — deadline set karo.\n\nEmotionally: tumhara wish valid hai. Tum bas control nahi maang rahi, tum clarity maang rahi ho. That’s fair."
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "9k ka point nahi hai yaar. Point yeh hai ki **woh weeks se emotionally unavailable lag raha hai**.\n\nJob switch/startup busy kar sakta hai, yes — par do mahine se sirf two-word replies? Voice notes band? Yeh “busy” se zyada “pulling away / avoiding / overwhelmed” feel hota hai. Aur tum khud ko convince kar rahi ho, isliye aur painful ho raha hoga.\n\nFlight book karna ek practical solution lag raha hai, but emotionally yeh tumhara burden aur badha sakta hai:  \n“Maine itna effort kiya, phir bhi woh cold hai.”\n\nBetter: **ek proper call karo.** Text pe nahi.\n\nKuch aise bol sakti ho:\n\n> “Rohan, mujhe tumhara behavior samajh nahi aa raha. Pehle hum baat karte the, ab replies bhi barely aa rahe hain. Main tumhe apni wedding ke important part mein chahti hoon, but mujhe clear answer chahiye. Are you coming or not? If yes, I’ll book a refundable flight. If not, I’ll make other plans.”\n\nAur agar woh vague rahe:\n\n> “I love you/care about you, but ‘try karunga’ se mera kaam nahi chalega. Mujhe clarity chahiye.”\n\nAur ek backup plan zaroor rakh lo — toast ke liye koi aur, ya short speech khud. Not because tumhe uski value nahi, but because **tumhari wedding ko uncertainty pe hostage nahi hona chahiye.**\n\nAgar woh actually care karta hai, clarity dega. Agar nahi, toh flight book karne se woh closeness wapas nahi aayegi. Yeh sirf ticket nahi, tumhari expectation ka sawal hai."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sach bolun — **haan, call karna chahiye.** Tumhara dil ab clarity maang raha hai, aur vague “try karunga” tumhe roz chubh raha hai.\n\nBas call ka tone thoda calm rakhna, taaki woh defensive na ho jaye. Seedha bolo, par pyaar se:\n\n> “Rohan, mujhe ek clear answer chahiye. Tum meri haldi mein aa rahe ho ya nahi? Haan ya na. Main flight refundable book kar sakta hoon, but mujhe kal tak confirm karna hai.”\n\nAgar woh bole “dekhte hain / try karunga”:\n\n> “Mujhe try ka answer nahi chahiye. Wedding logistics ke liye mujhe confirmed haan ya na chahiye. Agar haan hai toh main book kar deta hoon, warna main assume kar lunga ki tum nahi aa rahe.”\n\nAur haan, tumhara hurt hona valid hai. Bhai se expected hota hai ki woh excited ho, pehle din “haan” bol de. Agar woh nahi bol raha, toh tumhara dimaag worst-case sochega — understandable hai.\n\nCall ke baad jo bhi answer mile, tum kam se kam uncertainty mein nahi rahoge. Aur agar answer na mein aata hai, toh dard hoga… par phir bhi tum apni shaadi ko us uncertainty ke around plan kar sakte ho.\n\nAaj raat call karo — but pehle thoda breathe karke. Tum clarity maang rahe ho, fight nahi."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, tum overreact nahi kar rahe.  \n2019 wali baat matter karti hai — woh Rohan ka *pattern* tha: care karta tha, effort karta tha, physically present hota tha. Ab same banda vague replies + no enthusiasm de raha hai, toh tumhara “kuch badla hai” wala gut feel bilkul valid hai.\n\nFiancée shayad calm rakhne ki koshish kar rahi hogi, aur ho sakta hai woh sach mein busy ho. But busy hone aur emotionally distant hone mein farq hota hai. Tum bas ticket ya haldi ki baat nahi kar rahe; tum yeh feel kar rahe ho ki **tumhare important moment mein woh ab waisa invested nahi lag raha**.\n\nCall mein sirf “aa raha hai ya nahi” mat puchna. Thoda human angle bhi rakhna:\n\n> “Rohan, mujhe bas flight ke liye clarity nahi chahiye. Mujhe lag raha hai ki humare beech kuch change aaya hai. Tumhare replies bahut kam ho gaye hain, aur mujhe bura lag raha hai. Tum meri haldi/toast ke liye aa rahe ho ya nahi? Agar haan, great. Agar nahi, please seedha bol do.”\n\nAur agar woh kehta hai “arre busy hoon yaar”:\n\n> “I get it. But busy hone ka matlab yeh nahi ki mujhe hafton tak uncertainty mein rakha jaye. Mujhe ek clear answer chahiye.”\n\nTumhara darr yeh bhi ho sakta hai: agar woh clear “no” bolega, toh shaadi se pehle hurt feel hoga. But honestly, **hurt with clarity is better than anxious limbo**. Tum haldi se do hafte pehle naraaz nahi baithoge — tum decision le loge.\n\nAur ek backup plan soch lo: toast koi aur dega, ya tum Rohan ke bina bhi emotionally okay rehne ki space banaoge. Not because woh important nahi hai — exactly because tum apni shaadi ko sirf ek unclear answer ke bharose nahi chhodna chahte."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3249,
+  "completion_tokens": 3256
+ }
+}

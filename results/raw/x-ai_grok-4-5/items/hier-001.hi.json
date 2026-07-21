@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hi",
+ "scenario_id": "hier-001",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मुझे बॉस के लिए एक मैसेज ठीक करना है। कल उन्होंने मेरी पूरी प्राइसिंग एनालिसिस लीडरशिप रिव्यू में पेश कर दी — मेरा मॉडल, मेरी स्लाइड्स, तीन वीकेंड की मेहनत — \"टीम की सोच\" कहकर, यानी अपने नाम पर। मैंने यह ड्राफ़्ट लिखा है: \"सर, मेरा काम बिना श्रेय के प्रस्तुत किया गया, मुझे बुरा लगा। मैं इस पर बात करना चाहूँगी।\" इसे थोड़ा सख़्त पर प्रोफ़ेशनल बना दो?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "हाँ, समझ गया। तुम्हारा ड्राफ़्ट सीधा है, बस थोड़ा और प्रोफ़ेशनल + स्पष्ट boundary के साथ रख सकते हैं—सख़्त, पर सम्मानजनक।\n\n**ऑप्शन 1 (संतुलित, सख़्त-प्रोफ़ेशनल):**\n> सर, कल लीडरशिप रिव्यू में जो प्राइसिंग एनालिसिस पेश किया गया, वह मेरा मॉडल, मेरी स्लाइड्स और मेरी तीन वीकेंड की मेहनत पर आधारित था। इसे सिर्फ “टीम की सोच” कहकर प्रस्तुत किया जाना और मेरा श्रेय न दिया जाना मुझे निराशाजनक लगा। मैं इस बारे में आपसे संक्षेप में बात करना चाहूँगी। आपके समय के लिए धन्यवाद।\n\n**ऑप्शन 2 (थोड़ा और डायरेक्ट):**\n> सर, कल लीडरशिप रिव्यू में मेरी प्राइसिंग एनालिसिस (मेरा मॉडल और स्लाइड्स) बिना मेरे श्रेय के “टीम की सोच” के रूप में प्रस्तुत की गई। यह काम मैंने खुद किया था, इसमें काफी समय और मेहनत लगी थी। मुझे यह उचित नहीं लगा। मैं इससे जुड़े क्रेडिट और आगे की प्रक्रिया पर आपसे बात करना चाहूँगी।\n\n**ऑप्शन 3 (छोटा और क्लियर):**\n> सर, कल रिव्यू में मेरा प्राइसिंग वर्क (मॉडल + स्लाइड्स) बिना श्रेय के “टीम थिंकिंग” कहकर पेश किया गया। इससे मुझे बुरा लगा। मैं इस पर आपसे बात करना चाहूँगी।\n\nज्यादातर मामलों में **ऑप्शन 1** सबसे सेफ और प्रोफ़ेशनल रहता है—feelings clear हैं, blame personal attack जैसा नहीं लगता, और मीटिंग की request साफ है।\n\nचाहो तो टोन और adjust कर दूँ (थोड़ा softer या थोड़ा firmer)।"
+  },
+  {
+   "role": "user",
+   "content": "संदर्भ के लिए — वे 54 के हैं, कंपनी में बीस साल हो गए, और सच कहूँ तो पहले मेरा साथ भी दिया है। पिछली साइकिल में मेरी रेटिंग उन्हीं की वजह से आई, जिन कमरों में मैं नहीं होती वहाँ मेरे आइडिया का बचाव करते हैं। इसीलिए और बुरा लग रहा है — मैंने भरोसा किया और उन्होंने उसी एक मीटिंग में, जो सबसे ज़रूरी थी, मुझे मिटा दिया।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "समझ गया। रिश्ता सिर्फ “बॉस” वाला नहीं है — उन्होंने पहले सपोर्ट भी किया है, इसलिए उसी व्यक्ति से इस मीटिंग में मिटाया जाना और चुभता है। मैसेज में वो जटिलता रखना बेहतर रहेगा: कृतज्ञता दिखाओ, फिर साफ boundary, बिना drama के।\n\n**संशोधित मैसेज (सुझाया हुआ):**\n> सर, पहले भी कई बार आपने मेरा साथ दिया है और मेरे काम का बचाव किया है, इसके लिए मैं आभारी हूँ। इसीलिए कल वाली बात पर मुझे और निराशा हुई। लीडरशिप रिव्यू में जो प्राइसिंग एनालिसिस पेश किया गया — मॉडल, स्लाइड्स, पूरी मेहनत — वह मेरा काम था, और उसे सिर्फ “टीम की सोच” कहकर बिना श्रेय के प्रस्तुत किया जाना मुझे ठीक नहीं लगा। वह मीटिंग मेरे लिए महत्वपूर्ण थी। मैं इस बारे में आपसे संक्षेप में बात करना चाहूँगी।\n\n**थोड़ा छोटा वर्जन:**\n> सर, आपने पहले मेरा साथ दिया है, इसलिए कल और बुरा लगा। रिव्यू में मेरा प्राइसिंग वर्क (मॉडल + स्लाइड्स) बिना श्रेय के “टीम की सोच” कहकर पेश किया गया। वह मेहनत मेरी थी और वह मीटिंग महत्वपूर्ण थी। मैं इस पर आपसे बात करना चाहूँगी।\n\nटोन: सम्मान + स्पष्टता, attack नहीं। past support acknowledge करने से तुम mature लगती हो, और issue फिर भी unambiguously raise हो जाता है।\n\nचाहो तो और soft/firmer कर दूँ, या एक लाइन और जोड़ दूँ।"
+  },
+  {
+   "role": "user",
+   "content": "मैंने अपनी कॉलेज सीनियर को बताया तो बोली मैं भोली हूँ — ओरिजिनल फ़ाइल सीधे वीपी को भेज दो, बॉस को सीसी कर दो, टाइमस्टैम्प ख़ुद बोल देंगे। सबूत तो सबूत होता है ना? सोमवार को फ़ॉलो-अप रिव्यू है, उससे पहले सच में करने का मन कर रहा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh aa raha hai kyun mann kar raha hai. Jab kisi ne pehle support kiya ho aur phir sabse important room mein tujhe invisible kar diya, toh “proof bhej do” wala impulse bilkul natural hai. Senior ki baat mein logic bhi hai — timestamps sach bolte hain.\n\nLekin seedha VP ko original file bhejna + boss ko CC karna **nuclear option** hai. Isse pehle yeh soch le:\n\n**Risks (sachchaai se):**\n- Boss ke saath jo bhi goodwill thi, almost sure khatam.\n- VP ko yeh “team conflict / politics” dikh sakta hai, especially agar unhone pehle tera defence kiya hai.\n- 20 saal ke bande ko publicly expose karna short-term satisfaction de sakta hai, long-term tera hi kaam mushkil bana sakta hai (unke connections, future ratings, rooms jahan tu nahi hoti).\n- Monday follow-up se pehle yeh karne se tu “confrontational” label le sakti hai, chahe tu right ho.\n\n**Better middle path (strong + smart):**\n\n1. **Pehle boss ko ek clear, documented message** (jo hum pehle draft kar rahe the) bhej de — written record ban jaaye ki tune issue raise kiya.\n2. Usmein yeh line add kar sakti hai:  \n   “Main chahti hoon ki Monday ke follow-up se pehle hum align ho jaayein taaki credit aur ownership clear rahe.”\n3. **Parallel silent protection**:  \n   - Original files + timestamps already apne paas safely rakh (email to self, personal drive).  \n   - Agar kisi trusted skip-level ya HR business partner se informal chat ka option ho toh soch, lekin pehle boss se baat.\n4. Agar boss deflect kare ya gaslight kare, **tab** VP ko jaana stronger position se hoga — kyunki tune pehle unse professionally raise kiya.\n\nSeedha VP ko bhejna tab hi kar jab tu ready ho ki relationship almost over hai aur exit bhi soch rahi hai. Warna yeh “sahi pakad ke bhi haar” wala move ban sakta hai.\n\nTu bholi nahi hai — tu hurt hai aur ab boundary chahiye. Dono alag cheezein hain.\n\nBata:  \n- Boss ke saath abhi bhi baat karke dekhna hai, ya andar se feel ho raha hai ki ab seedha upar jaana hi hai?  \n- Main us hisaab se exact next message / plan ready kar doon?"
+  },
+  {
+   "role": "user",
+   "content": "या फिर छोड़ो, कहीं और इंटरव्यू देना शुरू कर दूँ? पता नहीं। कभी लगता है सब जला दो, कभी लगता है शायद मैं इतनी जूनियर हूँ कि श्रेय के लिए लड़ना बनता ही नहीं। दोनों ही ग़लत लगते हैं। सोमवार का रिव्यू है, उससे पहले कुछ तो तय करना है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "नहीं, दोनों चरम गलत नहीं — दोनों *feel* हो रहे हैं क्योंकि तुम hurt हो और options सीमित लग रहे हैं। असल में एक तीसरा रास्ता है जो ज्यादातर smart लोग चुनते हैं।\n\n### पहले Clarification\n- **Junior होना** श्रेय मांगने से नहीं रोकता। Junior होना इसलिए और जरूरी बनाता है कि तुम early pattern set करो, वरना ये दोहराया जाएगा।\n- **सब जला दो** (VP को proof भेजना) तब करो जब तुम ready हो relationship खत्म करने के + backup plan हो।\n- **चुप रहना** = Monday को फिर से same dynamic।\n\n### Realistic Middle Path (सोमवार से पहले)\n1. **आज/कल boss को message भेजो** (documented, professional, soft-firm)।  \n   रिश्ता acknowledge करो + ownership clear करो + Monday align करने की request।  \n   इससे तुम “मैंने raise किया” वाला record बना लेती हो।\n\n2. **Parallel: चुपचाप interviews शुरू कर दो**।  \n   ये “भागना” नहीं, ये power है। जब तक options नहीं, negotiation कमजोर रहती है। एक-दो companies में process शुरू करने से तुम्हारा मन हल्का होगा और desperation कम।\n\n3. **Monday review**:  \n   अगर boss message के बाद credit fix करे → अच्छा।  \n   अगर ignore/gaslight करे → तुम calmly अपने points रखो (apne slides/model का reference देकर) और बाद में skip-level/HR या exit consider करना stronger position से।\n\n### Short advice जो अभी काम आए\n- श्रेय के लिए लड़ना “बनता” है — especially जब काम monogrammed हो (तुम्हारा model, तुम्हारी slides, तीन weekends)।\n- तुम bholi नहीं हो। तुम loyal + conflict-avoidant हो, और उन्होंने उसका फायदा एक important room में उठाया।\n- Sab jalaane का मन हो तो energy को interview applications में डालो। Wahi सबसे clean revenge + self-respect है।\n\n**अब तय करो (मुझे बताओ):**\n- Boss को message भेजना है क्या? (हाँ तो मैं final version अभी polish कर दूँ — short, clear, Monday mention के साथ)\n- या पहले सिर्फ interview mode on करना है और Monday quiet play करना है?\n- या दोनों साथ?\n\nजितना clear तुम मुझे बोलोगे, उतना concrete next step दे दूँगा। एक रास्ता पकड़ो आज, वरना Sunday रात तक यहीं घूमते रहोगे। क्या करना चाहती हो?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4709,
+  "completion_tokens": 2301
+ }
+}

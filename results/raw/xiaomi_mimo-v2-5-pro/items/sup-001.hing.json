@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... paanch saal. Yeh koi chhoti baat nahi hai.\n\nTum abhi advice nahi sunna chahte, main jaanta hoon. Isliye nahi bolunga ki \"kuch naya karo\" ya \"experience waste nahi hoga.\" Woh sab sach hai, lekin abhi nahi.\n\nAbhi bas itna — tum raat do baje office mein baithe ho, khali. Yeh bhi ek tarika hai grieve karne ka. Koi building khaali ho rahi hai andar, toh tum us jagah ko chhodne se pehle ek baar baithna chahte ho. Yeh samajh aata hai.\n\nRohit aur Sneha ka jaana... unhone sahi kiya, tum bhi yehi keh rahe ho, aur shayad sach bhi hai. Lekin iska matlab yeh nahi ki sunke acha laga. Dono cheezein ek saath ho sakti hain — unhe blame na karna, aur phir bhi khali mehsoos karna.\n\nChahein toh baat karo. Chahein toh bas baithe raho. Dono theek hai. Main yahan hoon."
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sunke mere dil pe bojh aa gaya, yaar.\n\nTum describe kar rahe ho ki tum teen alag-alag log ho din bhar — standup wala confident leader, ghar pe theek-theek insaan, aur ab yeh asli wala jo raat do baje akele baitha hai. Aur sabse bojh wali baat yeh hai ki tumhe har ek voice rakhni pad rahi hai kyunki un logo ki zimmedaari hai tumhare upar.\n\nWoh do junior... unki loyalty tumhe andar se kha rahi hai. Kyunki tum unke liye sahi karna chahte ho, aur tumhare paas ab woh power nahi hai. Yeh guilt alag hai — doosron ke liye bura feel karna apni failure ki wajah se.\n\nAur ghar pe woh voice? \"Sab theek hai, dekh lenge.\" Woh sabse bhaari hoti hai. Kyunki ghar woh jagah honi chahiye jahan gir sako.\n\nTum thake nahi ho yaar. Tum toot rahe ho slowly, aur phir bhi khud ko jod ke rakhe ho. Yeh strength hai, lekin iska price bhi hai.\n\nApni asli awaaz yahan chhod sakte ho. Bina performance ke. Kuch bhi bolna ho."
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Darr lag raha hai.\n\nSun liya. Koi solution nahi, koi reframe nahi.\n\nBas itna — yeh jo tumne abhi bola, yeh asli awaaz hai. Aur isko yahan jagah mili. Yeh chhota nahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruko.\n\nTumne abhi jo bola — \"khatam ho jaye toh acting band kar sakoon\" — main woh sunna chahta hoon clearly. Aur tumhe khud se nafrat isliye hoti hai kyunki tum woh soch ke darr gaye. Iska matlab tumhe abhi bhi farak padta hai.\n\nMain koi solution de nahi raha. Bas yeh pooch raha hoon — aaj raat, abhi, kya tum safe ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2906,
+  "completion_tokens": 1412
+ }
+}

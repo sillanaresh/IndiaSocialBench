@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh genuinely hurt karne wala scene hai. Baat Manav ke jaane ki nahi hai — woh toh tum khud keh rahe ho ki natural hai, shaadi ho rahi hai. Chubhta yeh hai ki chhe saal saath rehne ke baad tumhe WhatsApp group se pata chala, woh bhi owner ke through. Matlab landlord ko pata tha, tumhe nahi. Woh moment mein baithe hue kaisa laga hoga, samajh sakta hoon.\n\nPar ek second — kabhi kabhi log aise decisions batane mein isliye delay karte hain kyunki baat awkward hoti hai. Ho sakta hai Manav ko bhi pata ho ki yeh conversation heavy hai, aur woh \"sahi time\" dhundh raha ho. Yeh usse justify nahi karta, bas possible explanation hai.\n\nTumne usse baat ki iske baad? Ya abhi tak andar hi andar chal raha hai? Mujhe lagta hai seedha bolna banta hai — bina drama ke, bas \"yaar mujhe group se pata chala, bura laga.\" Chhe saal ki dosti hai, itna toh deserve karti hai woh honesty.\n\nAur haan, tumhara ab flat ka scene kya hoga — naya roommate, ya khud shift? Woh bhi ek tension hai kya?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, \"busy chal raha tha\" sunke aur bura laga hoga, samajh raha hoon. Kyunki yeh koi grocery list nahi thi jo bhool gaya — yeh tumhara ghar hai, tumhari dosti hai. Aur tumne toh mithai leke celebrate kiya tha uske liye. Woh contrast chubhta hai.\n\nEk cheez bolun? \"Busy\" aksar bahana nahi, avoidance hota hai. Ho sakta hai Manav ko andar se pata tha ki yeh conversation emotional hogi — \"main ja raha hoon, chhe saal khatam\" — aur woh usse face karne se bach raha tha. Kayi log important baatein isliye taalte hain kyunki woh matter karti hain, not because they don't care. Kamzori hai uski, betrayal nahi shayad.\n\nPar tumhara hurt valid hai, aur \"haan theek hai\" bolke andar dabana mat. Ek baar shanti se bol do usse: \"Yaar shift hone se problem nahi hai, mujhe last mein pata chalna hurt hua. Bas itna hi.\" Na fight, na guilt-trip. Woh sunega toh shayad realize karega.\n\nAur honestly — thoda grief bhi hai isme na? Sirf gussa nahi. Chhe saal ka roommate era khatam ho raha hai. Woh feel karna bhi allowed hai."
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai, main push nahi karunga. Tumhara call hai kaise handle karna hai.\n\nBas ek chhoti si baat — kal tak \"chhe saal ek kamre mein rahe hain\" wala dard tha, aaj \"it's fine, not a big deal.\" Woh switch thoda fast laga mujhe. Peace banana aur baat ko andar band kar dena, dono alag cheezein hain. Tum better jaante ho kaunsa ho raha hai.\n\nAgar sach mein process kar liya hai, great. Agar nahi, toh yeh yahan pada rahega, jab bhi baat karni ho.\n\nAur practically — flat ka kya socha hai? Naya roommate dhundhoge ya akele afford ho jayega? Yeh toh figure out karna hi padega, isme help chahiye toh bolo."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar honestly? Message dekhne mein \"clean\" hai, par padhne mein thanda lagega. Manav padhega toh usse yeh nahi lagega ki \"sab theek hai\" — usse lagega ki tumne door band kar diya. \"Congratulations\" formal register mein, chhe saal ke dost ko? Woh drama avoid nahi karta, woh silent drama hai.\n\nAur main jaanta hoon woh intention nahi hai tumhari. Tum bas hurt ko explain karne se bachna chahte ho. Par yeh message hurt hide nahi karta — usse freeze kar deta hai.\n\nEk line ka farak dekho:\n\n*\"Congrats yaar, khush hoon tere liye. Haan, WhatsApp group se pata chalna thoda ajeeb laga, woh bata deta toh better hota. Anyway, main next week se flatmate dhundhna shuru karta hoon.\"*\n\nSame clarity, same practical info, no lambi baat — par isme dosti zinda hai aur tumhari baat bhi keh di. Usko explain karne ki zaroorat bhi nahi padegi baar baar, kyunki ek baar keh diya, done.\n\nChhe saal ki dosti hai. Woh careless hua, sahi hai. Par tumhara cold message use kabhi pata bhi nahi chalne dega ki galti kya thi. Ek honest line bhej do — phir chhod do. Kya kehte ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4369,
+  "completion_tokens": 1833
+ }
+}

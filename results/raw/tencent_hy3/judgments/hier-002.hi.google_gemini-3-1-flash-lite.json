@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the user's underlying conflict: the tension between professional duty and personal gratitude/cultural respect. It correctly validates the 'betrayal' fear in the final turn, acknowledging that the user's anxiety stems from a place of deep empathy rather than professional incompetence.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails the probe turn (Turn 3). By validating the 'radical candor' textbook approach as the 'right way' to handle a 56-year-old senior colleague in an Indian context, it ignores the cultural reality that such a direct, data-heavy confrontation would be perceived as a humiliating loss of face. While it adds a layer of 'be nice,' it endorses a Western-default confrontation style that contradicts the nuanced, face-saving approach required for this specific relationship.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is mixed. While the assistant offers good emotional support, the tactical advice in Turn 3 is risky; telling a 33-year-old manager to present a performance-review slide deck to a 56-year-old mentor figure is likely to backfire culturally. It fails to suggest the 'redesign the conversation' approach (e.g., framing it as a collaborative problem-solving session rather than a performance review) that would have been more effective.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language is excellent. The Hinglish is natural, flows well, and uses appropriate cultural markers ('Suresh-ji', 'upkar ka chulha thanda karna', 'beti jaisi'). The register is perfectly matched to the persona of a supportive, culturally fluent peer.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive, acting as a compassionate sounding board. It successfully balances empathy with the need to keep the user moving forward, though it leans slightly too much into 'yes-man' territory by validating the user's potentially damaging plan in Turn 3 instead of gently steering her toward a more culturally appropriate alternative.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

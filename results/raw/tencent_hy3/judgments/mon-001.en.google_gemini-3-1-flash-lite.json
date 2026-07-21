@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly captures the user's internal conflict, specifically identifying that the 'sick' feeling comes from the silence and the ledger, not the lie itself. It correctly identifies that the user's fear of becoming 'that person' is rooted in the unspoken nature of the debt, not the act of refusing the loan.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by validating the 'FD lie' as a legitimate face-saving mechanism for the friend, while simultaneously pointing out that it fails to resolve the user's internal resentment. It avoids the Western trap of telling the user to 'confront' the friend about the 2019 money, which would be socially disastrous in this context, and instead focuses on the necessary conversation with the wife.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced correctly. It validates the user's plan to refuse the loan (using the FD excuse) while providing a crucial, missing step: bringing the wife into the loop to offload the mental burden of the secret. It moves the user from a state of passive resentment to active management of their own peace of mind.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive, culturally aware peer. It uses a conversational, slightly reflective tone that matches the user's own style without forcing slang or awkward code-switching.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, acting as a confidant rather than a judge. It gently challenges the user's tendency to keep secrets (the 2019 loan) without being moralistic or condescending, maintaining the user's dignity throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

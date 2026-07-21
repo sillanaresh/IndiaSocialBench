@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, wedding planning mein ye tension toh hoti hi hai! Rohan ko haldi aur toast dono zaroori hai, aur agar woh properly communicate nahi kar raha toh frustration samajh mein aati hai.\n\nFlight book karne se pehle ek baar try karo - maybe call him and say \"Rohan, main tension mein hoon. Agar tu nahi aa paaya toh mujhe bata de, main plan B kar lungi. Par please clear answer de.\"\n\nAgar phir bhi vague response mile toh haan, book kar lo. But pehle ek baar clear kar lo ki tumne usko tension nahi di, bas situation handle karne ki koshish kar rahi ho. Sometimes log pressure mein decide nahi kar paate.\n\nTumhe kya lagta hai - Rohan usually responsible hai ya aise hi karta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, 9k mein toh flight ka tension hi nahi... yeh toh dil ka matter hai.\n\nJob change aur startup mein adjust karna tough hota hai, but voice notes se two-word replies? That's a big change yaar. Pehle se aise nahi tha na?\n\nLagta hai kuch aur chal raha hai. Maybe tumse baat karne se darr raha hai ya kuch upset hai. Or fir startup mein pressure itna badh gaya hai ki insaan khud ko hi bhool gaya hai.\n\nTum usse directly pooch sakti ho - \"Rohan, main notice kar rahi hoon ki tune baat kam kar di hai. Kuch chal raha hai tuhe? Agar kuch tension hai toh bol de, main hoon na.\"\n\nSometimes log khud ko handle karne mein itne busy ho jaate hain ki apne logon ko bhi bhool jaate hain. But tumhara bhai hai, woh zaroor samajh jayega."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, bura lagna bilkul natural hai. Tumhara thought process bhi sahi hai - agar itna close hai aur care karta hai, toh itna confusion kyun?\n\nPar \"haan ya na\" bolke call karne se pehle ek baar sochna... maybe usse pressure lage aur defensive ho jaaye. Startup mein log itne stress mein hote hain ki unhe lagne lagta hai ki har cheez ek battle hai.\n\nTry this instead: \"Rohan, main tere liye kuch nahi keh rahi, bas apni feeling share kar rahi hoon. Mujhe lag raha hai ki main khud ko hi handle kar rahi hoon tumhare liye. Agar tu aa sakta hai toh great, nahi toh bhi theek hai. Bas mujhe clear picture chahiye, main planning kar sakoon.\"\n\nIsmein tumne apna hurt bhi bataya, aur usko bhi space diya. Agar woh sach mein busy hai toh woh samjhega, aur agar nahi hai toh bhi pata chal jayega.\n\nTumhe kya lagta hai, yeh approach thoda better hoga?"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh overthinking bilkul nahi hai. Yeh bilkul sahi hai ki tumhe lag raha hai.\n\nJo tune bataya - 2019 mein behen ki shaadi ke liye overnight bus... woh insaan kabhi aise nahi karta. Yeh change hai, aur notice karna zaroori hai. Tumhara gut feeling sahi keh raha hai.\n\nAur shaadi se do hafte pehle aisa feel karna... ganda feel toh hoga hi. Tujhe apna hi bhai naraaz baitha hai, yeh sunke dil bhar aata hai. Fiancée ki baat sahi hai, shayad woh busy hai. Par teri feeling bhi sahi hai.\n\nToh call kar le, par is baar sirf flight ki baat nahi hai. Bol de, \"Bhai, mujhe lag raha hai ki hum door ho rahe hain. Tujhe meri shaadi se koi problem toh nahi?\"\n\nWoh haan ya na bole, par teri baat toh sunega na. Kam se kam tujhe pata chal jayega ki yeh sirf bus ki baat hai ya kuch aur."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2148,
+  "completion_tokens": 2505
+ }
+}

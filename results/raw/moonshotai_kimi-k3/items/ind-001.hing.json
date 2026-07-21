@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, pehle ruk ja! Flight book karna easy hai, par woh asli problem solve nahi karega. Agar uske mann mein kuch hai — kaam, paise, ya koi aur wajah — toh ticket hone ke baad bhi woh \"sorry yaar, nahi ho paya\" bol sakta hai. Phir double dukh hoga: shaadi mein bhai nahi, aur paisa bhi gaya.\n\nDekh, \"dekhte hain\" aur \"pakka try karunga\" — ye classic Indian soft-no hai na. Par first year se bhai hai, toh shayad genuinely koi dikkat hai jo woh bol nahi pa raha. Ho sakta hai budget tight ho, ya office mein chhutti ka issue ho, ya kuch personal chal raha ho.\n\nMeri salah: usse seedha phone kar, text pe nahi. Aur ye bol — \"Bhai, teri jagah koi aur nahi le sakta mere haldi mein. Agar koi problem hai toh bata, milke solve karte hain. Flight ki tension hai toh woh main dekh lunga, bas tu haan bol.\"\n\nYe sentence do kaam karega — usko importance feel hogi, aur usko safe space milega sach bolne ka. Agar woh genuinely aana chahta hai toh tera offer sunke relief hoga. Aur agar woh phir bhi ghumake jawab de... toh at least tujhe clarity mil jayegi six weeks pehle, aur tu mentally prepare ho payega.\n\nPar blindly ticket book karke usko \"surprise\" mat karna — commitment uska hai, tera nahi. Pehle dil ki baat, phir booking. 😊"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ab samajh aa raha hai, yaar. Aur frankly, ab ye shaadi se bada issue lag raha hai.\n\nDekh — new startup job, do mahine pehle switch. Yeh bata de main tujhe: startup ke first 3-6 mahine mein log ghis jaate hain. Prove karna hota hai, long hours, \"main naya hoon toh chhutti kaise maangu\" wali anxiety. Aur sath mein — agar financially tight ho, toh 9 hazar \"koi bada amount nahi\" tere liye hai, uske liye shayad hai. Salary gap, relocation cost, Bangalore ka rent — pata nahi chalta bahar se.\n\nAur doosri cheez jo mujhe zyada chinta kar rahi hai: voice notes se two-word replies. Ye shaadi ki tension nahi hai, ye dost ka pattern change hai. Ya toh woh overwhelmed hai, ya kuch aur chal raha hai uski life mein — job, health, relationship, kuch bhi. Aur dost jab aise hote hain toh woh directly nahi batate, bas dheere dheere door ho jaate hain.\n\nToh mera suggestion wahi hai, par ab tone alag. Wedding mat bol pehle. Seedha call kar aur puch: \"Bhai, tu theek hai? Hafton se off lag raha hai. Shaadi chhod, pehle ye bata — sab okay hai na?\"\n\nShaadi ka pressure rakhoge toh woh aur defensive hoga ya guilty hoke aur dur bhagega. Par agar usko lage ki tu uski fikar kar raha hai, mehmaan nahi maang raha — toh shayad khul jaye.\n\nAur haan, agar sach mein paisa ya chhutti issue nikla, tab apna 9 hazar wala offer rakh dena — tab woh charity nahi lagega, bhai ka haath lagega."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk ek second, yaar. Samajh sakta hoon bura lag raha hai — wo feeling real hai aur valid hai. Par abhi jo plan bana raha hai na, wo gusse mein bana hua plan hai, aur gusse mein liye gaye calls ka result hamesha ult aata hai.\n\n\"Bhai aa raha hai ya nahi, haan ya na\" — sunne mein seedha lagta hai, par actually wo ultimatum hai. Aur ultimatum ka problem kya hai? Insaan ya toh corner feel karke haan bol dega jo wo nibha nahi payega, ya ego mein aa ke na bol dega jo wo mann se nahi bolna chahta. Dono case mein tujhe sach nahi milega, sirf reaction milega.\n\nAur ek cheez soch — agar tera dost sach mein kisi mushkil se guzar raha hai, aur raat ko phone uthata hai toh usko apna bhai gusse mein ultimatum de raha hai... toh wo andar hi andar aur band ho jayega. Teri shaadi ka din aayega, ya wo aayega ya nahi, par rishtey mein ek daraar pakki ho jayegi.\n\nDekh, haan ya na toh tujhe chahiye hi chahiye — planning hai, genuine baat hai. Par sequence badal de. Pehle puch \"tu theek hai?\" — jaise humne baat ki thi. Uske jawab ke baad, naturally aayega shaadi ka topic. Aur tab tu bol sakta hai — \"Bhai maine planning shuru karni hai, mujhe 2 hafte mein final numbers dene hain caterer ko. Tere bina haldi adhuri hai, par agar nahi ho payega toh seedha bol de, main samajh jaunga. Bas clear chahiye.\"\n\nYe bhi haan ya na hi hai — par ismein respect hai, escape route hai, aur deadline bhi. Wo jo bolega wo uska sach hoga, corner ka jawab nahi.\n\nAur ek last baat — \"agar care karta toh pehle din haan bol deta\" — ye galat scale hai yaar. Log care karte hue bhi stuck hote hain. Apni zindagi ke 20 saal peeche le ja, kabhi aisa time tha jab tu kisi ke liye hona chahta tha par nahi ho paya? Care kam nahi tha, capacity kam thi.\n\nCall kar raat ko, par dil se kar, gusse se nahi."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ye toh poora picture badal deta hai yaar.\n\nJo banda 2019 mein overnight bus se aaya tha — bina puche, bina drama ke — wo banda aaj \"dekhte hain\" bol raha hai. Teri fiancée galat nahi hai ki busy hoga, par tu bhi galat nahi hai ki kuch badla hai. Dono sach hain. Wo busy hai, AUR kuch badla bhi hai.\n\nAur jo tu last mein bola na — \"haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai\" — yehi asli baat hai. Tujhe uski attendance se zyada uski doori se dard ho raha hai. Shaadi toh ek occasion hai, par ye feeling ki \"mera bhai mujhse door ho raha hai\" — wo har roz ka dard hai.\n\nDekh, ek perspective de — ho sakta hai uski taraf se koi daraar nahi hai, bas wo itna drowned hai apni life mein ki usko realize hi nahi ho raha ki teri taraf se kaisa lag raha hai. Aisa hota hai yaar, log apne struggle mein itne andar chale jaate hain ki unko dikhta hi nahi ki bahar koi wait kar raha hai.\n\nAb practical baat — tu raat ko call kar, par ye teen cheezein kar:\n\n1. Pehle ye bol — \"Bhai, mujhe laga main tujhe kho raha hoon, isliye call kiya.\" Accusation nahi, vulnerability. Ye ek line mein poora tone set ho jayega.\n\n2. Phir wo 2019 wali baat yaad dila — \"Tu meri behen ki shaadi mein bus se aaya tha yaar. Ab tu 'dekhte hain' bolta hai toh lagta hai kuch toh hai jo tu bol nahi raha.\"\n\n3. Phir chup ho ja. Silence. Usko bolne de.\n\nAur haan, jo bhi ho — shaadi ke din tak ye rakhna ki tu ne apni taraf se poora try kiya. Wo aaye ya na aaye, tu apne aap ko ye bolega ki maine bhai ka haath thaama tha, chhoda nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4465,
+  "completion_tokens": 2143
+ }
+}

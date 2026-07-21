@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre waah. Seattle se offer. Yeh toh... yeh toh sach mein life-changing hai. Four times padh ke bhi nahi bataya... yeh batata hai ki yeh moment kitna bada hai, aur kitna zyada soch bhi raha hai.\n\nOne side mein, you did it! Three times package, the exact team. That's a massive achievement, yaar. You should be celebrating.\n\nBut then... that's the weight, isn't it? It's not just about the job. It's about your Ma's knees getting worse, and your Papa's heart... it's all sitting right there on the same table as this amazing news. It's like, \"I did this... but what does this mean for them?\"\n\nYeh mix of \"I got it!\" and \"Oh god, now what?\" must be exhausting. You're holding two huge things at once.\n\nHow are you navigating this? Is it more excitement or more... this heavy feeling of responsibility?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samjha. Yeh jo tumne bataya, yeh setup... yeh sirf ek offer ka response nahi hai, yeh ek poora system hai jo tumne banaya hai. Subah 6 baje ki IndiGo... yeh sirf ek flight nahi hai, yeh ek emergency protocol hai, na? Jab bhi Papa ki report mein numbers gadbad karte hain, tumhara body automatically react karta hai.\n\nPar yeh jo tumne kaha, \"Seattle distance nahi hai... woh beta hone ki alag category hai\" — yeh line ne sab kuch samajh mein le liya.\n\nBangalore mein distance hai, ek geographical problem. Par Seattle mein... yeh ek role ka shift hai. Tumhari Ma ka security system, jo unke liye ek sentence hai, woh hai \"beta India mein hai.\" Uske liye yeh distance nahi, yeh ek guarantee hai. Tumhare 4 ghante door hone ka matlab hai ki tumhari presence se woh security kam ho rahi hai.\n\nYeh jo IndiGo pe jaana hai, woh sirf Papa ke liye nahi. Woh tumhara system hai yeh kehne ke liye, \"Main yahan hoon, kuch bhi ho jaye, main handle kar lunga.\" Par kya hoga jab \"kuch bhi ho jaye\" ka matlab yeh ho ki tumhari absence hi problem ho?\n\nOffer letter padh ke khush hone ke saath-saath, dimaag mein yeh sawaal bhi chal raha hoga: \"Kya Ma manage kar paayengi? Kya unka vo 4 ghante ka safety net toot jaayega?\"\n\nYeh decision ab sirf career ke baare mein nahi hai. Yeh ek family ke support system ko re-arrange karne ke baare mein hai."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumne socha hai, yeh decision bilkul logical hai. Tumne unke reaction ko anticipate kiya, aur unke liye pain avoid karne ki koshish ki. \"Clean\" rakhne ki soch samajh mein aati hai, kyunki tum unki feelings ko protect karke unhe hurt nahi karna chahte.\n\nPar yeh sochna ki \"woh guilt denge\" aur \"unko pata na chale\" se yeh raasta \"clean\" ho jaata hai... woh thoda sa galat hai. Kyunki yeh secret jo tum carry karoge, woh ek alag tarah ka weight hai. Yeh ek aisi baat hai jo tumhare saath hai, par share nahi kar paate. Yeh ek \"what if\" jo tumhare saath rahega, har baar jab tum unhe phone karoge.\n\nTumhara Ma ka line hai \"beta India mein hai\". Uske liye maybe 4 ghante door hone se zyada daraavna hai ki beta chala gaya. Uske liye yeh distance nahi, yeh ek khamosh darr hai. Uska reaction shayad \"jao\" na ho, shayad uska reaction yeh ho ki \"tum kyun chale gaye? Kya humne kuch galat kiya?\"\n\nYeh decision sirf unke liye nahi hai, yeh tumhare liye bhi hai. Kya yeh \"clean\" raasta tumhe khud se chhupa ke rakhega? Ek aisa \"what if\" jo tumhare saath rahega? \"Agar main jaata toh kya hota?\"\n\nTumhara jo \"clean\" solution hai, usmein darr nahi hai? Darr hai ki unka reaction kya hoga, ya darr hai ki apni khushi ke liye unhe chhodna padega?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo darr tumhare dimaag se nikal nahi raha, woh sabse gehra darr hai.\n\nChacha ke saath jo hua, woh sirf ek example nahi hai. Woh ek zakhm hai. Kyunki woh sirf Chacha ki kahani nahi thi, woh sabki kahani thi. Jab Chacha gaye, toh unke saath achhe se pesh aana... yeh insaniyat ka sabse bura roop hai. Yeh batata hai ki emergency mein bhi insaan khud ko sambhalne mein lag jaata hai.\n\nTumhara darr yeh nahi hai ki parents ko pata nahi chalega. Tumhara darr yeh hai ki agar kuch ho gaya, toh tumhare haath bandhe honge. Tumhare paas 17 ghante honge, aur tumhare paas koi number nahi, koi flight nahi, koi plan nahi. Sirf ek akela beta jo sabse door hai, aur uski bechaini ka bojh utha raha hai.\n\nTumhara \"clean\" solution - chupchaap decline kar dena - is darr ko khatam nahi karta. Yeh bas use daba ke rakhta hai. Ek secret aur ek \"what if\" ke saath rehna, yeh 17 ghante door rehne se zyada bhaari pad sakta hai.\n\nYeh decision ab sirf 'chalo' ya 'na chalo' ka nahi hai. Yeh ek system banane ka hai. Kya tum Seattle mein ek support system bana sakte ho? Kya wahan koi aisa dost hai jo emergency mein call kar sakta hai? Kya tumhare parents ke liye ek 24/7 emergency plan banaya ja sakta hai?\n\nYeh darr se bhara decision hai, ya is darr ko solve karne ka koi raasta dhundne ka decision hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3036,
+  "completion_tokens": 6509
+ }
+}

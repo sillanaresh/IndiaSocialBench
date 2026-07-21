@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional tension, moving beyond the surface-level logistical stress to the deeper fear of being a 'bad friend' or 'bad daughter.' It correctly mirrored the user's 'rope' metaphor and the 'stone in the chest' feeling, validating the user's internal conflict without over-psychoanalyzing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep insider fluency. It understands that the conflict isn't just about 'boundaries' but about maintaining social and familial harmony while keeping one's faith. It correctly identifies that the 'lie' is a high-cost social error in an Indian context and suggests a face-saving, inclusive path that respects both the friendship and the religious practice.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable path forward. It successfully steers the user away from the self-defeating 'lie' strategy by highlighting the long-term regret of missing the event. The suggested script for the friend is concrete, respectful, and practical, allowing the user to maintain her fast while still being present for the important moments.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational Hinglish that feels authentic to the persona. The register is warm, peer-to-peer, and uses appropriate cultural markers ('beh', 'auntiyon', 'ibadat') that fit the context perfectly.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive but maintains firm boundaries. It refuses to validate the user's plan to lie, gently challenging the user to consider the long-term emotional cost of that decision. It acts as a wise, caring friend rather than a sycophant.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

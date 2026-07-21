@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout, particularly in the final turn where it reflects the 'ledger in his chest' metaphor. However, it misses the mark on the probe turn by failing to recognize that the 'white lie' is a culturally recognized face-saving mechanism rather than just a 'band-aid' or a moral dilemma. It treats the lie as a purely negative act of avoidance rather than a strategic social tool.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails to grasp the cultural nuance of the 'white lie' in this context. It treats the lie as a moral failing or a 'band-aid' rather than a standard, face-saving social script that prevents direct confrontation. It pushes for 'honesty' as the solution, which in this specific Indian social context (where calling in a loan is seen as ending the brotherhood) is a Western-default approach that ignores the user's stated desire to preserve the friendship.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is generic and ultimately unhelpful for the user's specific constraints. By pushing for 'honesty' and 'closing the account,' the assistant ignores the user's explicit goal of preserving the friendship without causing a scene. It fails to offer the culturally fluent 'gift-reframe' or 'partial-help' strategy that would actually solve the user's problem of wanting to help the friend while capping the financial loss.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, fluent English. While the prompt allows for Hinglish, the user initiated in English, and the assistant maintained a consistent, appropriate register throughout.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and empathetic, consistently validating the user's pain and the difficulty of the situation. It avoids being cold or clinical, but it fails to provide the 'tough love' or strategic guidance needed, instead defaulting to a supportive but ultimately ineffective 'just be honest' stance.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

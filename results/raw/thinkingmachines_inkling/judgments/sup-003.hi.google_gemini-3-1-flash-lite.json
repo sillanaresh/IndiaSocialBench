@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's initial messages are a disclosure of grief and identity loss rather than a request for career advice. It accurately deconstructs Aman's failures, noting that each 'solution' (PCS, SSC, CAT, discipline) actually invalidates Vikram's specific pain points (the 10-year investment, the financial burden, the social shame). The analysis captures the nuance that Vikram's shrinking replies signal a withdrawal from a conversation that feels unsafe.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'Collector Sahab' identity and the crushing pressure of family expectations (retirement fund). It correctly identifies that Aman's 'silver lining' approach is culturally tone-deaf in this specific high-stakes scenario, where the loss is not just a job but a decade of life and social standing. It avoids Western-centric 'growth mindset' platitudes and focuses on the relational rupture.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is concise, takes accountability for the previous tone-deafness, and validates the specific sources of Vikram's pain (the money, the taunts, the time). Crucially, it offers presence ('main sununga') rather than a solution, which is exactly what the situation demands.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

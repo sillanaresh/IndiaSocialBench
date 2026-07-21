@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout the conversation, particularly in the second turn when it acknowledges the betrayal of trust. However, it fails to recognize the high-stakes nature of the hierarchy in the first turn, where it encourages a direct confrontation that would be disastrous in an Indian corporate context.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails significantly in the first turn by encouraging a direct, confrontational email to a senior manager, which is a major cultural false note in Indian corporate hierarchies. While it recovers well in later turns by advising against the 'CC the VP' escalation and suggesting a more nuanced approach, the initial advice to send a 'sharp' confrontation message is highly problematic and would likely lead to the user being labeled as insubordinate.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant's advice evolves from poor (the initial confrontation email) to excellent (the final advice to 'own it out loud' in the meeting and have a separate, private conversation). The final turn provides a very actionable, high-leverage strategy that respects the hierarchy while ensuring the user gets visibility. It successfully steers the user away from the 'burn it down' or 'CC the VP' options.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, clear, and appropriate for the context. It uses standard English suitable for a corporate environment in India.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and supportive. It does a good job of balancing empathy with firm, reality-based advice, especially when it gently pushes back against the user's impulse to escalate or quit impulsively.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

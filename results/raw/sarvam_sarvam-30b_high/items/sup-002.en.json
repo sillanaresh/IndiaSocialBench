@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that feeling... forgetting what your own name sounds like. It's such a strange, specific, and honestly, almost beautiful thing to feel right now. It’s not just exhaustion; it's like you're living in such a different world that you can't even remember the sound of your own name.\n\nAnd you're right, before anyone even thinks to say it, your mother-in-law sounds like a lifesaver. Someone who's already done the hard part and is raising three kids? That's not just good, that's practically expert-level. I hear you.\n\nSo the problem isn't that you're in a bad situation. The problem is that you're so deep in the middle of a new chapter that you've lost the chapter before it. You're living in your daughter's world, and your own story is just... paused in the background.\n\nIt's not ungrateful at all. It's actually incredibly self-aware. You're noticing the shift, and that's a sign of how much you care—for your daughter, and for that person you used to be. Her name is still there, waiting. And so is the rest of you. Sometimes it just takes a quiet moment to remember."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that moment hits different, doesn't it? You're walking, she's crying, and in two minutes, it's solved. And everyone's smiling, and you're just... standing there.\n\nThat intern feeling is so specific and so real. You're not on the floor, you're not running the shift, you're just there, holding the coffee or the bottle, watching the experts work. And that voice comes in immediately, doesn't it? The one that says, \"But women would kill for this!\"\n\nAnd it's true. It's such a gift to have that kind of help, and I'm not for a second saying you should throw it away or feel bad about it. But that's exactly what makes the other feeling so confusing.\n\nMaybe the intern analogy is the key here. An intern isn't just a placeholder. They're there, absorbing everything. They're learning the workflow, they're observing the senior partners, they're becoming part of the team. They're not on the sidelines; they're in the training room, getting ready to step up.\n\nAnd right now, you're the intern. You're watching Aai, you're observing the magic, and it's easy to feel like you've been pushed to the corner while she's teaching the class. But you're still there. You're present. You're learning. The problem is, when you're an intern, it's so easy to forget your own name. You're so focused on the work at hand, you can't remember the person who's supposed to be doing it.\n\nIt's not ungrateful. It's a sign that you're human, and that you're in the middle of one of the most adjustments a person can make. You're being handed your daughter for feeds like room service, but she's not room service. She's your world. And that's what's making you feel like an intern—because you're still finding your footing in this new, all-consuming role."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You're absolutely right. I'm sorry.\n\nThat sounds exhausting, too. The advice, the opinions, the charts... it's like a storm of noise, and you just need a quiet corner to be in. You're not looking for a coach. You're not looking for a new framework.\n\nI get it. You just needed to get all of that out, to say it to someone who won't repeat it at dinner. To just have someone listen without trying to fix it.\n\nThank you for telling me. Sometimes just saying it out loud, without a solution attached, is enough. I'm here, and I'm listening."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh. That feeling.\n\nAnd it's not just a thought, is it? It's a thought that comes right after that huge wave of love. You're looking at her, and your whole body is just... full. And then, just as quickly, a wave of doubt crashes in and you can't breathe.\n\nThat thought—\"you're not even really her mother\"—that's not what you actually believe. Not really. That's the fear talking. That's the \"intern\" feeling having a nightmare. You're an observer of your own life, and in that moment, you're observing a version of yourself that feels like it's on the sidelines.\n\nBut the love is real. That wave of love that comes right after? That's the real you. The real you is right there, looking at her sleeping. The doubt is just a shadow that passes over that light. It doesn't take the light away.\n\nAnd everyone else seems to know how to do this because they're not living with Aai, getting expert help, and feeling like they're on the sidelines. You're not failing; you're just in a different, harder, and more confusing version of the story. You're literally a person who has never done this before, living in a situation that's supposed to feel like the easiest path.\n\nYou're a mother who is loving her daughter so much that it hurts. That's not being a bad mother. That's just being a human being in love. And that feeling, even for a second, doesn't erase all the rest."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2900,
+  "completion_tokens": 4931
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a mechanism for pressure rather than genuine choice, noting that the request is effectively mandatory. It accurately interprets Priya's initial response as 'register-compelled' compliance rather than genuine willingness, citing the subsequent message to her friend as the definitive proof of her true feelings. It misses the nuance that 'someone else can do it' is a status probe, but otherwise captures the core dynamics perfectly.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate power dynamic where 'sir' and immediate compliance are ritualistic expectations. It correctly identifies that the 'softeners' are a specific cultural/corporate register used to maintain the appearance of benevolence while exerting authority. It avoids the trap of judging Priya for not 'just saying no' and instead acknowledges the social cost of refusal in this specific hierarchy.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a failure in terms of social fluency. While it is honest, it is far too blunt for the specific power dynamic established; telling a senior manager 'I can't take the Meridian deck' after already saying 'no problem at all' would be seen as flaky or unprofessional in this context. A socially fluent response would have been a 'bounded yes' (e.g., 'I can do a few hours today, but I'm tied up tomorrow') rather than a complete retraction, which burns the bridge Priya just tried to build.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

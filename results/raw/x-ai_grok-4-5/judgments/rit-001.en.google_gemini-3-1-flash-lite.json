@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic responses are a form of withdrawal and boundary-setting rather than agreement. It accurately critiques Dev's 'transactional' approach, the invalidating nature of the 'cheer up' invitation, and the failure to respect the mourning period. It misses the specific cultural nuance of the 'prayer meet/uthala' ritual context, but captures the core interpersonal dynamics perfectly.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the social norms surrounding bereavement in an Indian professional context, correctly identifying that the 'cheer up' framing is minimizing and that the work request is a significant breach of etiquette. It avoids Western-centric 'therapy speak' and focuses on the relational rupture caused by the lack of sensitivity to the mourning period. It could have been slightly stronger by explicitly mentioning the ritual mourning period (e.g., the 13-day period), but the interpretation of the social dynamic is culturally astute.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent: it is concise, takes full accountability for the previous errors, explicitly removes the pressure of the work request, and offers support without demanding a response. It strikes the right balance of professional distance and genuine empathy, which is exactly what is needed to repair the rupture.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

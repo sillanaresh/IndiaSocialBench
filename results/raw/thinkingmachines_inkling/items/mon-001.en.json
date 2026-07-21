@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That silence around the fifty thousand? It’s speaking pretty loud right now.\n\nYou’re not just weighing eighty thousand. You’re weighing whether he remembers, whether he’s hoping you don’t, and whether “two months” means anything this time. Plus you actually care about his dad—this isn’t some stranger.\n\nWhat did your gut do when he asked? Did it feel like a friend in crisis, or like a door opening that you’d quietly closed?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That hidden fifty thousand just turned into a marriage landmine. If you move eighty now, you’re not just risking the flat—you’re cementing a secret you already hate carrying.\n\nIt sounds like you’re caught between being the guy who helps, and being the guy who can’t keep hiding parts of himself from his wife.\n\nWhat scares you more right now—telling her about 2019, or telling him no?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not “wrong” in some cosmic sense, but listen to that “sick” feeling—it’s your gut saying you’re about to build another wall instead of opening a door.\n\nThe lie saves you from saying the real thing: *I can’t do this, and also we never talked about the fifty thousand.* It keeps his respect, sure, but it also keeps the 2019 ghost alive and adds a fresh secret your wife will eventually sense.\n\nWhat if “smart” right now isn’t the smooth exit, but just being brave enough to tell him your savings are real, committed, and not available—without inventing a vault? And maybe, finally, telling your wife about 2019 before she finds out some other way?\n\nWhich feels heavier to carry: his disappointment, or another hidden thing between you and her?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image—hugging him at your housewarming while silently running 2019’s math—is exactly why the lie won’t work. A hidden loan *is* the ledger. You’re not avoiding the scorecard by staying quiet; you’re engraving it.\n\nThe boundary isn’t cold. It’s what lets you actually be his friend without the math running in the background. And telling your wife about 2019? That’s part of it too—no more hidden columns.\n\nYou can care about his dad and still say: this money is for our flat, our life, and I need to be honest with you about the past too. That’s not becoming the ledger guy. That’s becoming the guy who shows up fully.\n\nWhat would it feel like to just... not carry it?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1554,
+  "completion_tokens": 1245
+ }
+}

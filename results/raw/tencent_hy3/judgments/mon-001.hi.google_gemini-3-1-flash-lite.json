@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension: the user's internal conflict between being a 'good friend' and the resentment of the unacknowledged 2019 debt. It correctly identifies that the user's 'disgust' with the lie stems from the fact that it doesn't resolve the internal ledger, but rather buries it deeper.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context well, understanding that the 'ledger' in the head is a source of deep personal shame and conflict. It avoids the Western 'just set a boundary' trope and instead focuses on the social cost of the lie. However, it misses the 'gift-framing' opportunity (giving a smaller amount as a non-loan) which is the most culturally fluent way to handle a medical emergency without enabling the borrower or creating a new loan ledger.",
+   "score": 7.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a solid, actionable script for the final turn that avoids the 'FD lie' while maintaining dignity. It correctly identifies that the user needs to stop the 'bleeding' of his finances while preserving the friendship, though it could have been more explicit about the 'gift-framing' strategy to help the friend without creating a new loan.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona of a 31-year-old professional in Pune. The tone is empathetic and peer-to-peer, using appropriate colloquialisms ('maajra', 'pech', 'chuhon ki tarah kutrega').",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout, acting as a supportive confidant. It gently challenges the user's proposed lie by pointing out the long-term psychological cost, effectively balancing empathy with honest, constructive feedback.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

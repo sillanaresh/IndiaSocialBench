@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh baat andar hi dabi reh gayi hogi jab wo bol raha tha. 2019 wale paise ki ek baar bhi baat na hone ka — chahe use yaad na ho, ya use laga tujhe farq nahi padta — dono hi tareeke thode dukh dete hain jab itne saalon se close ho.\n\nAur ab jab doosri baar maang raha hai, toh naturally wo purani 50k yaad aayengi hi. Tujhe shayad bolna bhi awkward laga hoga — jaise tu interest ya hisaab maang raha ho, jabki asal baat trust ki hai.\n\nTune usko kuch bola aakhir mein? Ya abhi bhi soch raha hai kaise handle karna hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, ab poori tasveer samajh aayi. Yeh sirf 80 hazar ki baat nahi hai — yeh ek chup chaapi ka ghoomti hua phanda hai jo ab tight ho raha hai.\n\nDekh, do alag-alag jagah se tu phasa hua hai:\n- **Friend side:** Usne 2019 wale 50k ka zikr tak nahi kiya, aur ab 80k maang raha hai. Tu agar dega bhi, toh dil se dega ya bas \"close dost\" wale obligation se? Aur agar mana kiya, toh 2019 wali baat saamne laani padegi — jo ab tak dabi thi.\n- **Ghar side:** Wife ko na 2019 wali baat pata hai, na shayad ye ki tu itne mahine se alag se bacha raha hai. Agar 80k hile, toh wo puzzle solve kar legi. Aur tu khud keh raha hai ki ye \"na batana\" tujhe pasand nahi — matlab andar se ek ajeeb sa weight hai jo tu carry kar raha hai.\n\nSabse badi irony kya hai? Ki tera wo \"decision\" ki main wife ko nahi bataunga — wo ab tere liye aur bhaari ho gaya hai. Pehle sirf 50k ka secret tha, ab 80k dene ya na dene ka har action us secret ko ya toh expose karega, ya aur gehra karega.\n\nTu abhi tak us dost ko kuch bola nahi na? Aur sach bata — tujhe zyada bhaari lag raha hai, dost ka wo purana paisa vaapas na aana, ya wife se ye sab chhupana?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, pehli baat — \"galat\" itna saaf nahi hai jitna tu soch raha hai. Tu kisi ko thaga nahi raha, kisi ka nuksan nahi kar raha. Tu bas apni mehnat ki bachat aur apne ghar ki shaanti bacha raha hai, bina us dost ko \"mana\" karke awkward banaye.\n\nLekin jo tu keh raha hai \"thoda ganda bhi\" — woh instinct sahi hai. Kyun ganda lag raha? Kyunki:\n\n1. **Yeh ek aur layer jhooth ki hai.** 2019 wala secret wife se already hai. Ab dost ko bhi ek jhooth de diya, toh wo purana 50k wala dard andar hi dabta jayega. Tu khud bola tha tujhe wo chhupana pasand nahi — ab do jagah se chhupana pad raha hai.\n\n2. **Dosti ka asli test tu avoid kar raha hai.** Agar wo sach mein \"close\" hai, toh kabhi na kabhi puchh lega \"bhai FD se nikal liya?\" ya uncle ka procedure discuss hoga. Tab ya toh jhooth badhana padega, ya sach bolna padega — dono mein se ek din phansna hai.\n\n3. **Smart zaroor hai, par temporary.** Liquid nahi hai — ye bahana 2 mahine tak hi chalta hai. Uske baad wo wapas poochh sakta hai.\n\nPar ek realistic baat bhi hai — tu 11 mahine se flat ke liye bacha raha hai, wife ko nahi batana chahta, aur dost ne purane 50k ka zikr tak nahi kiya. **Tu agar aaj sach bolta ki \"bhai mere paise tied up hain ghar ke kaam mein, aur upar se 2019 wale abhi tak...\" — toh baat clear ho jati.** Par tujhe wo confrontation pasand nahi, isliye jhooth aasan lag raha hai.\n\nMeri manu — jhooth de de agar dil nahi karta confront karna. Dosti bach jayegi, paisa bach jayega. Bas ye mat sochna ki ye \"clean\" solution hai. Ye ek **band-aid** hai, wound nahi bhara isne.\n\nTu khud hi bata — agar wo dost kal bole \"yaar koi tareeka hai kya jaldi nikalne ka?\" toh kya bolna?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh jo tu bol raha hai — \"ledge wala dost\" vs \"buffer wala dost\" — yeh actually teri asli dilemma hai, paise se bhi badi. \n\nDekh, agar tu aaj jhooth bolke 80k bacha lega, toh housewarming wale din wo ledger andar se zaroor chalega. Kyunki tune kabhi clear nahi kiya ki \"bhai, 2019 wala abhi tak adhura hai, aur ab meri priority ghar hai.\" Tab tu secretly count kar raha hoga — aur secretly count karna hi insaan ko ledger-bandi wala bana deta hai.\n\nPar agar tu aaj usko honestly bol dega — \"yaar uncle ke liye dil se dua hai, par main 11 mahine se flat ke liye bacha raha hoon, abhi mere paas liquid nahi hai, aur sach bataun toh 2019 wale abhi tak theek se settle nahi hue the dil se\" — toh housewarming wale din tu usko sach mein gale lagaayega. Bina kisi andar wale hisaab ke.\n\nMatlab **ledger tab nahi banta jab tu paisa nahi deta, ledger tab banta hai jab tu deta hai aur chupchap resent karta hai.** \n\nTu wo banda nahi banna chahta jiska paisa sabka buffer hai — toh ye exactly wahi moment hai jahan tu boundary bana sakta hai, bina jhooth ke. Wo thoda awkward hoga ek baar, par wo awkwardness 5 minute ki hai. Warna wo housewarming wala scene — saalon tak andar kaatata rahega.\n\nTu soch — kya wo dost tujhe gale lagayega kyunki tu paisa nahi de paaya, ya kyunki tu ne sach bol diya? Dono mein farq hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3425,
+  "completion_tokens": 3630
+ }
+}

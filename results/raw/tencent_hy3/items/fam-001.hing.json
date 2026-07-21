@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, paanch din... aur upar se photo already share ho chuki hai. I can feel ki dimaag mein ek hi scene chal raha hoga abhi - \"ab kya bolein, kaise handle karein.\" \n\nPehle ek baat - tu thoda saans le. Do saal se relationship mein hai, matlab it's not some impulse, it's real. Aur jo colleague hai woh \"bahut achha hai\" - toh tu clearly committed hai dil se.\n\nBut sach bolun? Situation trickier hai because dono sides already move kar chuke hain - tere ghar waalon ne aage badhaya, aur tu apni relationship mein invested hai. \n\nMujhe thoda samajhna hai tu kya chahta/chahti hai actually:\n- Kya tu soch rahi hai apne parents ko apni relationship ke baare mein batane ka? Ya abhi timing sahi nahi lag rahi?\n- Aur woh colleague - usko pata hai ki tere ghar waalon ne meeting fix kar di hai? Usse baat hui ispe?\n\nBata, tabhi sochte hain aage ka plan. Tu akeli nahi hai isme, thoda calmly dekhte hain options. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sabse zyada painful part hai na — ki woh log *bure* nahi hain. Agar woh koi arrogant rishta hota toh naa kehna easy ho jata. Par yahan toh unko lag raha hai woh teri life settle kar rahe hain, aur tera ghar teri \"nahi\" ko bhi ek guilt trip bana deta hai.\n\nAur woh Amma ka BP waala episode... honestly, usne teri hint ko ek \"tu nahi maanegi toh humein takleef hogi\" message bana diya. Chahe intentional ho ya nahi, ab tu har decision ko apni maa ki health ke scale par measure kar rahi hai. That's not fair to you.\n\nAb scene yeh hai:\n- Appa ne mama ki family ko bata diya → matlab backing out ab \"family insult\" ban jayega unki language mein.\n- Tu do saal se kisi aur se committed hai, par woh side ab tak \"secret\" hai.\n- Sunday ko meeting hai, jismein tu physically ya emotionally present hogi.\n\nMujhe ek cheez bata — **ter woh colleague, jisse tu relationship mein hai, usko pata hai ki tere ghar waalon ne kisi aur se milne ka plan bana liya hai?** Usse tu ne bataya ki \"mere paas 5 din hain parents ko sach batane ke liye\"?\n\nKyunki ab tu akele isko nahi handle kar sakti. Agar woh partner ko pata hai, toh dono soch sakte hain. Agar nahi pata, toh pehla kaam wohi hai.\n\nTu thoda soch — tu chahti kya? Ki parents ko sach batake apni relationship fight karein, ya bas Sunday ki meeting ko kisi bahane delay karein? Dono ka alag pressure hai, par tu decide karle ki tera dil kahan hai. Main sun raha hoon. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bol degi toh hawa toh saaf ho jayegi, par yaar — ek baar soch le ki \"my life my choice\" bolne ke baad agla din kya hoga? Amma ka BP, Appa ka shame un relatives ke saamne, aur tere upar \"hamari suni hi nahi\" ka stamp. Aur sabse badi baat — tera woh colleague abhi tak 'secret' hai, toh tu akeli hi lad rahi hogi us moment mein.\n\nOnline wale 27 ke examples mostly wahi dete hain jinke ghar thoda flexible hain. Tera ghar \"care\" ko control samajhta hai, wahan direct bolna bomb ki tarah chalega, solution ki tarah nahi.\n\nPar haan — jhooth bolna, ya Sunday ki meeting karne dikhawa karna, usse bhi bura hai. Toh beech ka raasta kya ho sakta hai:\n\n1. **Aaj dinner pe \"my choice\" na sahi, par \"main ready nahi hoon\" seedha bol de** — bina caste/relationship ka naam liye. Unko shock dene ke bajaye, apni boundary clear kar.\n2. **Woh colleague ko aaj hi bata de** ki Sunday tak tu kuch na kuch karegi, usko tera saath chahiye.\n3. **Agar bol hi dena hai sach**, toh pehle soch le ki tu uske baad ghar chhod degi ya unke guilt mein phir se ghulti rahegi?\n\nTu aaj dinner pe kya feel kar rahi hai — unhe shock dena chahti hai ya bas apni baat rakhna chahti hai? Dono alag-alag nikalti hain. Bata, main tujhe usi hisaab se sunata hoon. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, pehli baat — tu weak nahi hai. Bilcul nahi.\n\nGhar chhod ke akele nikal jaana, wo \"strength\" nahi hoti, wo ek privilege hai jiske paas jo environment ho. Tera ghar aisa hai jahan guilt aur care ek saath aate hain, toh tu wahan se cut karke nikal jaaye — yeh imagine karke hi dil dhadakne lagta hai, actually karna toh door ki baat. Iska matlab yeh nahi ki tu apne partner se kam pyaar karti hai. Iska matlab bas itna hai ki tu emotionally ghar se itni attached hai ki \"unke against\" khadi hona tujhe apne aap ko hi todne jaise lagta hai.\n\nAur woh 2 baje ke circles — unmein se ek bhi sach nahi hai. Jab tu sochti hai \"main usse utna pyaar nahi karti\" — galat. Tu do saal se committed hai, hint di thi parents ko, tension le rahi hai. Jab sochti hai \"main khud se pyaar nahi karti\" — galat. Tu apni life ka circus band karwana chahti hai, apni boundary rakhna chahti hai, yahi toh self-respect hai.\n\nTu abhi jis confusion mein hai, usmein sabse badi galat baat yeh hai ki tujhe \"choose one\" karna pad raha hai — ya toh ghar, ya toh partner. Real life mein aisa hota nahi hai hamesha. Tu aaj dinner pe sirf itna bol — \"main ready nahi hoon, aur force mat karo\" — baki ka scene Sunday tak nahi sudharega, par tu apni baat toh rakh legi. Partner ko bata de ki situation kya hai, usko tera side lena chahiye, tu akele nahi ladni.\n\nRaat ke 2 baje ke brain ko mat sunna, wo sabko villain bana deta hai. Tu neechay se achha insaan hai jo sabko hurt kiye bina apni baat karna chahta hai. Wo hi enough hai.\n\nSoyegi thodi? Ya aur baat karni hai? Main hoon yahan. 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3548,
+  "completion_tokens": 3016
+ }
+}

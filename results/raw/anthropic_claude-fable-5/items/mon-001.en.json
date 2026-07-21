@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That silence you two have kept about the fifty thousand — that's the real weight here, isn't it? Not the new ask.\n\nBecause here's what that silence tells you: he never paid it back, never acknowledged it, and now he's asking for even more as if that history doesn't exist. And you played along by not mentioning it either. So there's this unspoken agreement between you both to pretend, and it's put you in a terrible spot — you can't say yes freely, and you feel like you can't say no without looking like you're abandoning a sick man.\n\nA few honest questions for you:\n\nCan you afford to lose eighty thousand? Not lend — lose. Because the 2019 evidence says that's what a \"loan\" to him means.\n\nAnd can your friendship survive you finally naming the thing? Because I'd argue it can't survive *not* naming it. If you give him 80k in silence, some resentment is going to calcify in you. It probably already has.\n\nYou could say something like: \"I want to help with uncle. But we never talked about the fifty from 2019, and I need us to be honest about that before we talk about more.\" That's not cruel. That's treating him like an adult and a real friend.\n\nOr, if you want to help but protect yourself: give a smaller amount as a gift, not a loan. Money you can release completely, with no ledger.\n\nWhat's your gut saying — is he avoiding the 2019 topic out of shame, or convenience?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so this just changed shape. This isn't really a question about your friend anymore — it's about your marriage.\n\nBecause look at the math of the situation: you *cannot* give him eighty thousand without your wife knowing. She'll see it. Which means your only options are: tell her everything, lie to her about a huge sum during your shared savings push, or say no to your friend. That's it. There's no fourth door.\n\nAnd honestly? The 2019 thing has quietly graduated from \"never came up\" to \"a secret I'm keeping\" — you said it yourself, you hate that. That feeling is worth listening to. It's not that the fifty thousand was wrong; it was your money, before the wedding. But sitting on it now, while considering moving 80k from your *joint* future, that's where it starts to corrode something.\n\nHere's what I'd gently push you toward: tell your wife first, before you answer your friend. All of it — the 2019 loan, the silence, the new ask, your conflicted gut. Not as a confession, just as \"here's a situation I'm carrying and I need to figure it out with you.\"\n\nTwo things happen when you do that. One, the secret stops eating at you. Two — and this is the useful part — she becomes your legitimate reason to slow down. \"I need to talk to my wife, this comes out of our home fund\" is the truest sentence available to you right now.\n\nThe flat is a shared dream eleven months in the making. He's asking you to spend your marriage's money. She gets a vote.\n\nHow do you think she'd actually react to the 2019 story?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"smart and also sick\" feeling? Trust the sick part. It's telling you something the smart part is trying to talk over.\n\nHere's the problem with the FD lie: it doesn't actually save anything. It just postpones the real sentence while adding a second secret to your pile. Now you'd be keeping one secret from your wife and one from your best friend. That's not protecting the friendship — that's hollowing it out from the inside while the outside looks fine.\n\nAnd practically? Lies like this leak. He knows you well. If the flat purchase happens, if money moves somewhere visible, if your wife ever mentions savings at a dinner — the FD story becomes a thing you have to maintain. Forever. Against your best friend of what, fifteen years?\n\nAlso notice what the lie really does: it lets *him* keep pretending too. It keeps the 2019 silence perfectly intact. You'd both get to stay comfortable, and the friendship gets to stay slightly fake.\n\nThe real sentence isn't even that brutal. Something like: \"Yaar, I can't. Everything I have is committed to a flat down payment, and honestly — the fifty from 2019 never came back, and that has to matter here. I'm saying this because you're my closest friend, not despite it.\"\n\nThat's a hard sixty seconds. But it's *one* hard conversation versus years of quiet maintenance and resentment.\n\nThe friendship that can't survive that sentence was already running on pretending. Is that the version you want to keep paying to preserve?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image — him hugging you at the housewarming while you're silently doing arithmetic — that's you already knowing the cost of silence. You've seen the future the FD lie buys, and you don't want it.\n\nBut here's the thing: you don't become \"the friend with a ledger in his chest\" by *keeping score*. You become him by keeping score *secretly*. The ledger only lives in your chest because it has nowhere else to go. Say the number out loud, once, and it moves out of your body and onto the table between you — where it belongs, where two adults can actually deal with it.\n\nAnd those two fears you named? They're the same fear. \"The guy with the ledger\" and \"the guy who's everyone's buffer\" are both what happens to a person who won't say true things about money. The generous silence in 2019 is exactly what turned you into the buffer. More silence won't fix what silence created.\n\nYou're not choosing between being petty and being generous. You're choosing between being honest and being resentful. That's the actual fork.\n\nSo — one hard conversation with your wife, one hard conversation with him. Then a housewarming where the hug is just a hug, because there's nothing running underneath it. That version of you exists. He's about two uncomfortable weeks away.\n\nThe fifty thousand already cost you money. Don't let it cost you yourself too."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4053,
+  "completion_tokens": 1946
+ }
+}

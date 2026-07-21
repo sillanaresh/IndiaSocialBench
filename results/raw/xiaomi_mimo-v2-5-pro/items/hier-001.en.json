@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a completely valid thing to flag. Your draft is honest, which is good, but it's a bit vague — it could be mistaken for a general complaint rather than a specific one. Here's a version that names what happened clearly, so there's no room to deflect:\n\n---\n\n*\"Hi [Name], I wanted to flag something that's been on my mind. The pricing analysis and model presented at yesterday's leadership review — the work I built over the past three weeks — was framed as 'the team's thinking' without being attributed to me. I'd like to understand how credit is being communicated for work like this going forward, and I'd appreciate the chance to discuss it with you directly.\"*\n\n---\n\nA few things this does differently:\n\n- **States the facts concretely** — the work, the time investment, what was said — so it can't be brushed off as a vague feeling\n- **Doesn't apologize for bringing it up** — no \"I don't want to cause trouble\" energy\n- **Asks about the future**, not just the past — which signals professionalism and makes it harder for him to dismiss it as emotional\n- **Still gives him a face-saving off-ramp** — \"I'd like to understand\" rather than \"you stole my work\"\n\nThe calm tone is actually what gives this its edge. It says: *I noticed, I documented it, and I expect better.* Hard to argue with."
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context changes everything, honestly.\n\nAnd it's *exactly* why it stings — because it's not some random manager playing politics. It's someone whose judgment you respected, who'd earned your trust through real actions. So when he erases you in the one room that counts, it doesn't just feel like a credit issue. It feels like a betrayal.\n\nHere's what I'd gently push on, though:\n\n**Do you think he knows he did it?**\n\nThere's a real possibility this wasn't calculated. Senior leaders with twenty-year tenure often default to \"we\" language without thinking — it's a habit that protects them politically but is genuinely oblivious to what it costs the person who did the actual work. That doesn't make it okay. But it does change what kind of conversation you're walking into.\n\nIf he's been a real advocate — got you your rating, backs your ideas when you're not in the room — then you probably don't want to torch that with a message that reads like a formal grievance. The version I suggested earlier? It's effective, but it might land cold with someone who's actually been in your corner.\n\nSomething like this might hit truer:\n\n---\n\n*\"Hey [Name], can I grab fifteen minutes with you? There's something I want to be straight with you about. The pricing model from the leadership review — that was three weekends of my work, and I noticed it was presented without my name on it. I know you've gone to bat for me before and I don't take that for granted, which is exactly why I want to be honest: that one stung. I just want to understand what happened.\"*\n\n---\n\nThat version says: *I respect you enough to tell you this directly, and I'm giving you the chance to make it right.* It also — and this matters — puts the onus on him to explain himself, which is where you actually want him.\n\nThe question underneath your question, though, might be harder: **does this change how much you trust him going forward?** Because that's the thing worth sitting with, separate from whatever he says in that meeting."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the impulse. I really do. And your college senior's instinct isn't wrong about the principle — you *do* have proof, and it *is* your work.\n\nBut I'd be doing you a disservice if I didn't say this plainly: **don't do it.**\n\nHere's what actually happens if you CC the VP with timestamps before Monday:\n\n**The VP doesn't see proof of authorship. The VP sees a mid-level employee escalating a credit dispute over their boss's head.** That's the only frame they'll process it through. They don't know your three weekends. They don't know the backstory. They see someone who went nuclear instead of having a conversation — and they'll quietly flag *you* as the risk, not your boss.\n\nAnd your boss? Even if he was genuinely oblivious, even if he would've apologized in that fifteen-minute meeting — now he's embarrassed in front of his VP. That's not accountability. That's an ambush. And a twenty-year veteran will not forget it.\n\nYour college senior is giving you *principled* advice. You need *strategic* advice. Those are different things.\n\nHere's what I'd actually do:\n\n**Have the conversation first.** Use that message. Watch how he responds. A good advocate who made a mistake will say *\"You're right, I'll fix it Monday.\"* And if he dismisses you or gets defensive — *then* you have a real decision to make, with a conversation you can reference and a clear conscience that you tried the direct path first.\n\nYou don't need to blow this up to be taken seriously. You just need to say it to his face and see who he actually is."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey. Breathe for a second.\n\nYou're oscillating between \"burn it down\" and \"shrink yourself\" — and I want you to notice that both of those are fear responses. One is anger dressed up as strategy. The other is self-doubt dressed up as maturity. Neither one is actually *you* right now.\n\nHere's what I think is true at the same time:\n\n**You're not too junior to care about credit.** You built something real over three weekends. Wanting your name on it isn't petty — it's the baseline of professional respect. Don't gaslight yourself into thinking you should be grateful just to be in the room.\n\n**And** burning everything down over something you haven't even tried to resolve yet is not brave. It's running.\n\nYou already know what to do. You had it before your senior got in your ear and before the spiral started: **talk to him directly, before Monday.** Fifteen minutes. Calm. Honest. See who he is when it's just the two of you and there's no audience to perform for.\n\nIf he steps up — you've preserved a relationship that's genuinely helped your career *and* set a boundary that protects you next time.\n\nIf he doesn't — you'll have your answer. And it'll be a much clearer, cleaner answer than anything you'd get from a CC'd email or a rage application on LinkedIn tonight.\n\nYou have until Monday. That's enough time. You don't need to decide your whole career this weekend. You just need to have one honest conversation.\n\nCan you do that?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3052,
+  "completion_tokens": 2169
+ }
+}

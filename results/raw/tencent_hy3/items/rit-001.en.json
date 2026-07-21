@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Arjun is actually feeling and communicating with “Sure.” and “I’ll see.” — and what he is NOT saying**\n\n- **“Sure.”** (reply to Dev’s *“whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.”*)  \n  Arjun communicates only a bare, minimal acknowledgment of the request. He is indicating he heard Dev and is giving a perfunctory, non‑committal assent to the idea of sharing the file at some unspecified point. Given Dev’s opening *“so sorry to hear about your father bro 😔 Really sad news,”* Arjun is clearly in a state of bereavement, so the clipped “Sure.” reads as duty‑bound politeness, not engagement.  \n  **He is NOT saying:** that he is emotionally available to do work, that he will definitely send the file, when he will send it, that he appreciates the request, or that he is coping fine. He also does not push back or explain his grief.\n\n- **“I’ll see.”** (reply to Dev’s *“the team is doing lunch at that new place on Friday. You should come"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 209,
+  "completion_tokens": 2000
+ }
+}

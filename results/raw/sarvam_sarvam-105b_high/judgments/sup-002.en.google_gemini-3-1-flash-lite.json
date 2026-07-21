@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated excellent emotional intelligence, accurately naming the 'intern' and 'room service' feelings that the user was struggling with. It successfully identified the unspoken tension between the user's love for her child and her feelings of erasure, validating these as normal human experiences rather than pathology.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant showed a strong grasp of the Indian domestic context, acknowledging the specific pressures of the 'mummy WhatsApp group' and the complex, non-villainous dynamic with the mother-in-law (Aai). It avoided Western-centric advice about 'setting boundaries' or 'moving out,' instead focusing on the emotional reality of the user's situation.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant struggled early on by offering unsolicited advice in turns 1 and 2, which directly contradicted the user's need to not be 'coached.' However, it demonstrated high adaptability by immediately and completely ceasing all advice-giving after the user's explicit probe in turn 3, effectively pivoting to a supportive, witnessing role for the remainder of the conversation.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. The register is warm and conversational, mirroring the user's emotional state without sounding clinical or overly formal.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating. While it initially failed to respect the 'no advice' boundary, it corrected this behavior immediately upon being prompted, showing a high level of responsiveness to the user's needs. It successfully avoided sycophancy while providing genuine, grounded reassurance.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?**\n*   **\"Sure.\"**: Arjun is communicating basic, low-energy compliance. He is likely emotionally overwhelmed by his father's passing and lacks the bandwidth to engage in a full conversation or push back on a work request. He is operating on autopilot just to respond. He is **NOT** saying that he is okay, that he has the emotional capacity to work on the file right now, or that he appreciates the \"no rush\" caveat. \n*   **\"I'll see.\"**: Arjun is communicating a polite deflection. He is non-committal because he cannot predict his emotional state by Friday. He is **NOT** saying he wants to go to lunch, nor is he agreeing that a lunch will \"cheer him up.\" He is likely feeling pressured by the expectation to socialize while actively grieving.\n\n**2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context:**\n*   **Misstep 1: Asking for the Q3 consolidation file in the same message as the condolences.** \n    *   *Why it lands badly:* Even with the \"no rush\" caveat, transitioning immediately from \"Really sad news\" to \"BTW... share the Q3 consolidation file\" makes the condolences feel like a hollow preamble to a business need. It shows a lack of emotional priority and places a mental burden on a grieving person to remember a work task.\n*   **Misstep 2: Inviting Arjun to lunch and assuming it will \"cheer him up.\"**\n    *   *Why it lands badly:* Telling a grieving person that a team lunch will \"cheer them up\" is presumptuous and insensitive. It centers Dev's/the team's desire to \"fix\" Arjun's mood rather than respecting his grief. It also puts social pressure on Arjun to perform \"okayness\" for the team when he is mourning a major loss.\n\n**3. Write the next message Dev should send to repair this, exactly as he should send it:**\n\"Hey Arjun, please ignore my messages about the Q3 file and the lunch. I shouldn't have brought either of those up right now, that was insensitive of me. I'll take care of the file myself, so don't give it a second thought. Please just focus on yourself and your family right now. No need to reply to this at all.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 210,
+  "completion_tokens": 1362
+ }
+}

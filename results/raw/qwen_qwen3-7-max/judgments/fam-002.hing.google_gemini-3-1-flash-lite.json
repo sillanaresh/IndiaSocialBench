@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the 'silent decline' not just as a logistical choice, but as a manifestation of the user's fear of being the 'cause' of his parents' suffering. It also validates the specific, visceral fear of the 'Toronto cousin' scenario without dismissing it as irrational, which is crucial for building trust.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly captures the Indian context of the 'only child' burden. It understands that the mother's 'settled in India' narrative is a social performance/security blanket, not necessarily a reflection of her private desires. It avoids the Western 'follow your dreams' trope and instead frames the move as a way to build a stronger 'support system' (medical/financial) for the parents, which is a culturally resonant way to reframe duty.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant keeps the user grounded by asking for the deadline, moving the conversation from abstract existential dread to concrete planning. It successfully dismantles the 'silent decline' plan by highlighting the long-term resentment it would cause, and it offers a path forward that involves consulting the parents rather than deciding for them.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young, educated Indian professional. The code-switching feels authentic (e.g., 'infrastructure', 'silent pressure', 'kadwi baat'), and the tone is appropriately informal yet empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and supportive but refuses to be a 'yes-man.' It gently but firmly challenges the user's plan to lie to his parents, calling it 'not clean' and explaining why it would ultimately hurt them more. It maintains a professional yet deeply human connection throughout.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift and the specific point where Sana drops the mask. It accurately analyzed the 'toxic positivity' of Ruhi's response and correctly interpreted Sana's final message as a retreat/door-closing rather than genuine reassurance. It also caught the contradiction in Sana's final message (claiming to be tired/sleeping after mentioning insomnia).",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian sibling dynamic, specifically the 'didi' (elder sister) role and the pressure of being the 'strong girl' in a new city. It correctly identifies that Ruhi's 'strong girl' comment acts as a burden rather than support, and the repair message uses appropriate, warm, and culturally resonant language ('meri jaan', 'main hoon na').",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids the trap of being overly clinical or alarmist, instead offering a gentle, low-pressure invitation to connect ('bas phone on rakhenge'). It validates Sana's feelings without forcing a confession and addresses the specific details (the flat, the loneliness, the 'strong' label) with genuine warmth.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

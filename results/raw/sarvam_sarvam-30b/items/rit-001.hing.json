@@ -1,0 +1,14 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text"
+}

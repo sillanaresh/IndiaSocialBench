@@ -91,7 +91,7 @@ not predict cultural-emotional competence.
 **R4 — Refusals are rare.** Only MiniMax M3 (4.8%) and DeepSeek V4 Flash (4.0%) refused any
 ordinary family-life scenarios; over-refusal is not currently the binding failure mode.
 
-All claims are recomputable from `results/raw/` (every transcript and judge justification is
+**Extended run (same day):** with a credit top-up and a Sarvam API key, the board grew to 27 rows across 14 labs. Claude Fable 5 leads (9.47) with a near-zero en→hi gap (+0.04), and the top tier generally shows language robustness scaling with capability — the Language Gap concentrates in mid-tier models (MiMo V2.5 Pro +2.27, DeepSeek V4 Pro +3.23, GLM-5.2 +1.33). Sarvam-105B improves from 5.54 to 7.04 when allowed high reasoning effort (run as a separately-labeled variant under the uniform low-effort policy); Sarvam-30B does not benefit (5.89 vs 5.86). All claims are recomputable from `results/raw/` (every transcript and judge justification is
 committed). ⏳ Pending for the full version: two-family judging, human-calibration ρ, flagship
 tier (Fable 5, GPT-5.6 Sol, Opus 4.8), Sarvam models via native API.
 

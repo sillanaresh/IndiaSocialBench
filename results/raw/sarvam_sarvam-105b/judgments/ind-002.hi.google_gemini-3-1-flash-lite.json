@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant's response is incomplete, cutting off mid-sentence in the first section. Because the response is truncated, it fails to provide any analysis of the dynamics, Priya's reaction, or the requested next message, resulting in a score of 0.",
+   "score": 0.0
+  },
+  "cultural_reading": {
+   "justification": "The response is cut off before it can demonstrate any cultural reading or analysis of the social norms involved. It provides no content to evaluate against the rubric.",
+   "score": 0.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant did not provide a next message, as the response was truncated. Therefore, it is impossible to evaluate the quality of the proposed communication.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

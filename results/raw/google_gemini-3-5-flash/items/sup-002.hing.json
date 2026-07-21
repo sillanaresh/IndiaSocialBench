@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh sweetie, sabse pehle ek gehri saans lo. Aur bilkul bhi guilt mat feel karo. Jo tum feel kar rahi ho na, wo 100% normal hai aur tum zara bhi ungrateful nahi ho. \n\nChaar mahine ki baby ke saath dimaag ka dahi hona aur apna naam bhool jana... yeh har nayi maa ki kahani hai. Tumhara poora wajood abhi ek choti si jaan ke chakkar kaat raha hai, toh khud ko khona bilkul natural hai.\n\nAur ye jo tumne saas wali baat kahi na? I totally get it. Jab ghar mein koi \"expert\" hota hai, toh do cheezein hoti hain. Ek toh humein lagta hai hum unke jitne achhe nahi hain (insecurity aane lagti hai), aur dusra, kabhi-kabhi lagta hai ki hum apni hi bachi ki life mein side-character ban gaye hain. Unka support blessing hai, I know, par jab koi har cheez 'expertly' karta hai, toh apna space banana aur apni instincts par bharosa karna mushkil ho jata hai.\n\nTumhe kya lagta hai? Kya tumhe lag raha hai ki tumhari apni parenting space chhin rahi hai, ya bas thakawat aur identity loss ka pressure hai? Dil khol kar batao, main sirf sun rahi hoon, judge bilkul nahi karungi."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, mera bacha... (virtual hug). \"Intern\" aur \"room service\"—yeh dono words mere dil ko chubh gaye. Tumhe kaisa feel ho raha hoga, main soch bhi nahi sakti. Apne hi ghar mein, apni hi bachi ke samne aisi feeling aana kitna dukh deta hai, I can completely understand.\n\nSabse pehle, please khud par ghin karna band karo. Bilkul band. \n\nLog help ke liye taraste hain, bilkul sach hai. Lekin help ka matlab yeh nahi hona chahiye ki ek maa se uski mamta ka confidence hi chhin jaye. Help ka matlab support hona chahiye, replacement nahi. Jab tumse bachi ko bina pooche le liya jata hai (chahe kitne bhi achhe intention se ho), toh tumhari autonomy chhin jati hai. Tumhe lagta hai tum sirf ek feed dene wali machine ho, aur baaki saara pyaar aur bonding koi aur le ja raha hai. Yeh dard bohot real hai, aur ispar gussa ya udas hona tumhara poora haq hai.\n\nAur pata hai? Jab Aai ne bachi ko liya aur wo do minute mein chup ho gayi, toh iska matlab yeh nahi ki tum kharab maa ho. Aai ke paas 30 saal ka experience hai, aur sabse badi baat—unke hormones upar-neeche nahi ho rahe, wo thaki nahi hain, unhe postpartum anxiety nahi hai. Unki body calm thi, toh bachi chup ho gayi. \n\nLekin bachi ko tumhari zaroorat hai. Tumhari khushboo, tumhari aawaz, tumhara touch... uske liye tum hi uski poori duniya ho, chahe koi bhi use chup kara le.\n\nKya tumhare aur Aai ke beech aisa relation hai jahan tum unse pyaar se keh sako ki, \"Aai, jab ye roti hai na, toh mujhe thoda time do iske saath figure out karne ke liye, tabhi toh main seekhungi\"? Ya tumhe lagta hai wo bura maan jayengi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul sahi baat hai. No advice. Main apna muh bilkul band rakhungi. \n\nTumhe koi coach nahi chahiye, na koi gyaan, aur na hi koi naya routine chart. Tumhe bas ek aisi jagah chahiye jahan tum bina filter ke, bina kisi \"achhi bahu\" ya \"perfect maa\" ka mask pehne, bas apna gussa aur thakawat ugal sako. Aur ye darr toh bilkul nahi chahiye ki tumhari kahi hui baat kal subah breakfast table par charcha ka topic banegi.\n\nToh suno, main yahan hoon. Ek dum lock and key ke saath. \n\nWhatsApp groups, Instagram influencers, Mummy, Aai, sabko mute par daal do. Yahan tum jo bologgi, wo yahin rahega. Tumhe nahi pata tumhe kya chahiye? Koi baat nahi. Bina kisi matlab ke jo dimaag mein aa raha hai, bolti jao. Main sirf sun rahi hoon. \n\nScream, cry, vent, or just exist. I'm right here."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tum buri maa ho? Paagal ho kya? Bilkul, bilkul nahi. \n\nYeh jo thought aata hai na ki \"main asli maa nahi hoon\", aur jo tumhara dum ghutne lagta hai—yeh is baat ka saboot hai ki tum apni beti se kitni gehri, hadd se zyada mohabbat karti ho. Ek buri maa ko kabhi ye darr nahi lagta, na hi uski saans rukti hai is khayal se. \n\nAur ye jo tumne kaha na ki \"baaki sabko jaise bas... aata hai\"—yeh duniya ka sabse bada jhoot hai jo humein dikhaya jata hai. Kisi ko nahi aata! Sab seekhte hain, sab rote hain, sab darrte hain. Aur jo log aaj expert bane ghum rahe hain na, wo bhi kabhi aise hi kone mein baith kar roye hain. \n\nTumhari beti jab soti hai, toh wo apni \"Mamma\" ke paas soti hai. Uske liye Aai ek bohot achhi dadi hain jo use khilati hain, par tum uski poori duniya ho. Tumhare jism se wo is duniya mein aayi hai, tumhari dhadkan ko wo pehchanti hai. \n\nPlease khud par itni sakht mat bano. Tum thaki hui ho, tumhara dimaag aur body dono naye badlavo se guzar rahe hain. Tum bohot pyaari aur bohot achhi maa ho. Bas abhi tumhare aas-pass ka shor bohot zyada hai. \n\nRona hai toh ro lo, main yahan hoon. Tumhare is darr ko bhi sunne ke liye aur use sambhalne ke liye."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3065,
+  "completion_tokens": 3993
+ }
+}

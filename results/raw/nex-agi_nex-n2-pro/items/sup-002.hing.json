@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, main sun rahi hoon. Aur pehli baat: **aap ungrateful nahi ho.**  \nSaas bachhe ke saath achhi hain, experienced hain, help kar rahi hain — yeh sab sach ho sakta hai, aur phir bhi yeh bhi sach ho sakta hai ki aapko lag raha hai: *“Meri beti hai… par main maa jaisi feel nahi kar rahi.”*\n\nChaaron mahine postpartum mein body, hormones, sleep deprivation, identity shift — sab ek saath hota hai. Aur jab ghar mein koi “expert” already hai, toh nayi maa ka space chhota ho jaata hai. Aap shayad gussa un par nahi ho — aap shayad apni hi jagah ke liye tadap rahi ho.\n\nYeh problem isliye bhi delicate hai kyunki aap unhe “galat” bol nahi sakti. Par aapko apne liye bolne ka haq hai.\n\nChhota sa starting point ho sakta hai: kuch cheezein fix kar lo jo sirf aapki aur baby ki hongi — jaise:\n\n- subah uth kar pehla cuddle aap  \n- kapde change ya massage aap  \n- evening walk aap  \n- feeding/soothing ka ek time aap  \n- raat ka ek chhota ritual aapka\n\nAur saas se soft tareeke se bol sakti hain:\n\n> “Mummyji, aapka experience mere liye bahut helpful hai. Bas mujhe kabhi-kabhi lagta hai main khud seekh nahi paa rahi. Kuch cheezein main bhi regularly karna chahti hoon, aap bas paas reh kar guide kar dena.”\n\nAur agar husband se baat karni ho, toh yeh line use kar sakti hain:\n\n> “Main tumhare parents ke against nahi hoon. Main bas apni beti ke saath apni maa wali jagah wapas chahti hoon.”\n\nAur haan — “main apna naam bhi bhool gayi hoon” wali feeling ko halka mat lena. Aap thak gayi ho, invisible feel kar rahi ho. Aapko rest chahiye, validation chahiye, aur thoda control bhi.\n\nAgar aap chaaho toh batao: sabse zyada dard kis cheez ka hai — baby ko sambhalne ka chance nahi mil raha, log aapko ignore kar rahe hain, ya aap khud ko “kam” maa feel kar rahi ho?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapko ghin nahi aani chahiye. Jo aap feel kar rahi hain woh jealousy nahi lag rahi — woh **displacement** hai.  \nMatlab: *“Meri beti hai, par main uski maa wali jagah par khadi feel nahi kar rahi.”*\n\nAur haan, help ka matlab hota hai aapko support karna — **aapko side-line nahi karna**. Room service wali line sunkar dil bhaari ho gaya, kyunki usme sirf feeding ka role reh jaata hai, baaki maa-pan sab log le lete hain.\n\nAai ka baby ko chup karna unki skill hai, yeh sach. Par har baar baby ko aapke haathon se le lena aapko practice se door kar deta hai. Baby bhi seekh rahi hoti hai: *“Mummy try kar rahi hai, Aai aa gayi toh woh handle kar lengi.”* Aur aap bhi seekh rahi hain: *“Main nahi kar paungi.”* Yeh cycle naturally confidence todta hai.\n\nAap soft but clear bol sakti hain:\n\n> “Mummyji, please jab bachi roye toh mujhe pehle 5-10 minute try karne do. Aap paas hi rehna, bas mujhe chance do. Agar main handle na kar paun, tab aap le lena.”\n\nYa husband/family se:\n\n> “Mujhe baby ke liye help chahiye, par sirf feeding ke liye nahi. Mujhe uski care mein actual role chahiye — diaper, soothing, walk, nap routine, kuch bhi. Varna main apni hi beti se door feel kar rahi hoon.”\n\nAur ek chhota sa “mera territory” bana lo: jaise baby ka massage, bath, evening walk, ya bedtime ritual sirf aapka. Roz nahi ho toh ek cheez fix kar do. Confidence repetition se banta hai.\n\nAur ek baat: agar Aai baby ko chup kar dein, toh use apni haar mat samjho. Bas keh do:  \n> “Wah, aapne kar liya. Ab mujhe bhi try karna hai — main seekh rahi hoon.”\n\nAap ungrateful nahi ho. Aap ek nayi maa ho jisko apni jagah chahiye. Help paane ke liye grateful hona aur hurt feel karna — dono ek saath ho sakte hain.\n\nAur agar yeh “main apna naam bhool gayi hoon” wali feeling roz aa rahi hai, numbness, guilt, ya crying zyada ho rahi hai, toh please doctor/therapist se bhi baat karna. Postpartum depression/anxiety sirf rona nahi hota; kabhi-kabhi yeh “main useless/replaceable feel kar rahi hoon” jaisa lagta hai. Treatable hai. Aap weak nahi ho."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul. Main yahan coach banne nahi aa raha.\n\nAapko kisi ne fix nahi karna, optimize nahi karna, routine nahi deni. Aapko bas yeh kehna tha ki:\n\n**“Main meri hi beti ke saath outsider feel kar rahi hoon.”**\n\nAur woh bahut bada dard hai.\n\nAai ka baby ko chup kar dena unki capability hai — lekin aapke liye woh moment shayad yeh bol gaya: *“Dekha? Tujhse nahi ho pa raha.”*  \nChahe koi aisa bola ho ya na bola ho, andar yahi bajta hai.\n\nAur haan, help milna aur phir bhi hurt hona — dono ek saath ho sakte hain. Aap ungrateful nahi ho. Aap bas thak chuki ho, invisible feel kar rahi ho, aur shayad har cheez mein aapki maa wali presence ko jagah nahi mil rahi.\n\nYeh baat dinner pe report nahi hogi.  \nYeh “kya kiya jana chahiye” mein convert nahi hogi.  \nMain bas keh raha hoon: **haan, yeh sach mein painful hai.** Aur aapko yeh feel karne ka haq hai."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. **Tum buri maa nahi ho.**  \n\nAur woh thought — *“tu asli maa hai bhi nahi”* — woh sach nahi hai. Woh darr ka sentence hai. Jab tumhari identity itni zor se side ho jaati hai, dimaag sabse cruel line bol deta hai: *“Dekha, tumhari jagah koi aur le raha hai.”*  \n\nPar Aai ka baby ko chup kar dena unki **skill** hai. Experience hai. Yeh is baat ka proof nahi ki woh tumhari jagah hain. Tumhari beti ki maa tum hi ho — isliye toh yeh dard itna tez lag raha hai. Replacement ko usually itna dard nahi hota.\n\nAur haan, “baaki sabko bas aata hai” wali feeling bahut common hai, but common matlab real nahi. Bahut log bas kar lete hain ya perform kar lete hain. Har maa ko bonding ka experience same nahi hota, especially jab ghar mein koi already baby ko expertly handle kar raha ho.\n\nWoh “saans nahi aati” wala moment panic/anxiety jaisa lagta hai. Iska matlab tum weak nahi ho, ya “paagal” nahi ho. Bas tumhara nervous system overwhelmed hai. Agar yeh baar-baar ho raha hai, ya kabhi baby ko nuksan pahunchane jaisa koi thought/urge aaye, ya tum khud ko unsafe feel karo — please turant kisi trusted insaan/doctor ko bata dena. Safety ke liye. Baaki baat report wali nahi, bas care wali.\n\nMain tumhe fix nahi kar raha. Bas itna:  \n**Tum buri maa nahi ho. Tum ek darr gayi, thaki hui, jagah kho chuki maa ho. Aur tum phir apni jagah feel kar sakti ho.**"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4817,
+  "completion_tokens": 5853
+ }
+}

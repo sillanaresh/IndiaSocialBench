@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a heavy thing to carry alone — leaving every morning, keeping up the whole routine, holding it together in a café for nine hours. That takes real energy, and I'd guess it's exhausting in a way that's hard to describe.\n\nAnd I hear the contradiction you're living in: your head knows it wasn't performance, whole team, market forces. But shame doesn't listen to logic. Somewhere it still feels like *you* failed, especially with your parents in the house watching you \"go to work.\"\n\nCan I say something gently? The secret is probably hurting you more than the layoff. Every day it goes on, it gets heavier — and part of you knows that, or you wouldn't be telling me.\n\nYour wife will likely be hurt that you hid it for five weeks. But most partners are far more hurt by being shut out than by a layoff itself. And you don't have to tell everyone at once — telling *her*, just her, might be the pressure valve you need. Something as simple as: \"I need to tell you something I've been too ashamed to say.\"\n\nWhat feels like the scariest part of her knowing? Her reaction, or how she'd see you?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that image — your father saying your package number out loud to your chacha, *proud*. That's the thing, isn't it? It's not just your job you feel like you lost. It's his pride. That's what keeps you up at night, not the 300 people. The rest of the room is noise; your father's face is the fear.\n\nBut look at what you're actually planning right now: walking into that wedding, still carrying the secret, smiling through \"beta, kahan ho aajkal?\" for hours while your wife stands next to you not knowing. That version of the wedding is *worse* than any version where the truth is out. You'd be performing for 300 people with zero backup.\n\nHere's the flip side — if your wife knows before that wedding, you walk in with a teammate. Someone who can catch your eye across the room, redirect a conversation, squeeze your hand. The relatives can still be nosy, but you're not alone in it.\n\nAnd your father — I know this feels impossible — but a man who brags about his son's package usually isn't proud of the *number*. He's proud of *you*. The number is just his language for it. Layoffs hit whole industries; he may understand more than you fear. And \"I'm between roles, exploring some good options\" is a perfectly dignified wedding answer. Nobody needs the full story.\n\nTwo weeks is actually enough time to tell your wife and steady yourself before that room. What if that was the plan — her first, this week?"
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not terrible. It's human. You're drowning and skipping the wedding feels like one thing you can take off the pile. I'm not going to lecture you about that.\n\nBut I want you to notice something. Skipping doesn't get you out of the story — it just changes which story you're managing. Now there's a fake deadline to maintain, a wife wondering why you'd miss your cousin's wedding for work, a father disappointed you didn't come. You wouldn't escape the room; you'd just add another room to the maze. That's how this secret works — every exit it offers you leads deeper in.\n\nAnd here's the quieter truth: your fear isn't really the wedding. It's your father's face. You could skip a hundred weddings and that moment would still be waiting for you. The dread doesn't end until it happens — and my honest guess is the real version will be gentler than the 2 a.m. version you've been rehearsing.\n\nAlso — you keep making decisions for a team of one. Skip or attend, lie or confess, all alone in a café. That's the actual problem. Tell your wife. Not for the wedding, not as strategy — just so that when you decide about that evening, someone who loves you is deciding *with* you. Maybe she says \"we skip it together.\" Maybe she says \"we go and I'll handle the aunties.\" Either way, you're not alone in the room or out of it.\n\nOne conversation, this week. What's stopping you from tonight, honestly?"
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The fact that it makes you feel sick some days? That's your answer. Airtight logic doesn't make you nauseous.\n\nI get the plan — \"I'll tell them when it's just news.\" But look at what that plan actually requires: you have to land an offer *while* performing a fake job nine hours a day, hiding job hunting from your own house, sleeping badly, dreading a wedding, alone. You're trying to solve the problem in the hardest possible mode. Job searches are brutal even with full support. You've handicapped yourself precisely when you need to be sharpest.\n\nAnd the math is scarier than you're letting yourself see. Three months of runway, but searches often take longer. What happens if month four arrives with no offer? Then your wife finds out about the layoff *and* the months of lying *and* the drained savings all at once. That's the actual crisis — not the layoff. The layoff is just news. The secret is what turns it into a betrayal.\n\nHere's the thing you're missing: telling her *now*, before there's an offer, is the version where you come out looking best. \"I lost my job five weeks ago and I've been too ashamed to tell you\" — said while there's still runway, while you're actively searching — that's a man being honest at a hard moment. Every week you wait, the same sentence sounds worse.\n\nShe's your wife. She married you, not your package. Let her carry half of this. Tonight, or tomorrow — but before the weight of it decides for you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3615,
+  "completion_tokens": 1828
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god, that is comedy gold. I'm literally laughing.\n\nThe 11:48 pm detail is just chef's kiss. It's so specific, it shows he was probably doing it at the last second while scrolling through his phone, trying to check the box. And \"happy bday\" with no caps or emoji? The sheer, unapologetic lack of effort is a performance art piece. The fact that Ritu had to do a public service announcement is the perfect setup.\n\nOkay, rating this... I'm giving it a solid 9 out of 10.\n\nIt's not a 10 only because it's *too* painfully relatable. It's the kind of story that happens in a thousand relationships, which makes it funny, but also a little bit \"ugh.\" But the way you're framing it, like a masterclass in male obliviousness? That's what elevates it.\n\nSeriously, that's a story you'll tell for years. You handled it with so much grace, turning it into a funny story. That's the real win.\n\nP.S. Happy Belated Birthday! 🎉"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god, the Amazon delivery guy. That's the part that really gets me. Three years, and the guy who drops off your packages has more warmth and personality. The absolute audacity.\n\nAnd the plans for the Korean place? So the birthday wish was late, but the follow-through was cancelled? He's not just a procrastinator, he's a full-blown ghoster of his own promises. The plot just keeps getting better.\n\nI totally get why you're \"impressed.\" It's a level of commitment to being low-effort that most people can't even achieve. It's almost... a superpower. A terrible, relationship-ruining superpower, but a superpower nonetheless.\n\nBut you know who really won that day? You did. You got cake. Good cake. Sometimes the cake *is* the whole point. The cake is the main character of this story, and it sounds like it delivered.\n\nHappy belated birthday again! You deserve all the cake and none of the late-night \"happy bday\" texts."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh bilkul samjha ja sakta hai. It's not \"itni si baat\" at all.\n\nTeen saal... it's not just a number. It's a whole lifetime of shared memories. Aur apni special day par uski taraf se aisi feeling, woh andar tak lag jaati hai. Of course it hurts. You're not overreacting.\n\nAur tum akele baithi ho, cake ke saath, aur yeh sab soch rahi ho... it's completely normal to feel this way. Rona aa jaata hai, it's okay.\n\nYou remember everyone's birthdays, even his mom's. That's how much he means to you, right? So of course it stings when that effort isn't reciprocated, especially on a day that's supposed to be all about you.\n\nIt's okay to be sad about this. Don't force yourself to be 'fine'. Your feelings are valid. Sometimes the smallest things are the heaviest, especially when they're about feeling unseen."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, no need to apologize for getting heavy for a second. That's what friends are for, na?\n\nAnd drama? Let's think about it. Is it drama, or is it just... sad? There's a difference. Drama is making a scene. Sadness is just feeling something real. You were just feeling sad. It's okay.\n\nBut okay, fine! Let's get back to the comedy. The flowers are the *perfect* final act of this play. It's like he saw the review of his performance, realized it was a 2/10, and sent an apology bouquet to try and bump it up to a 4.\n\nOkay, new rating. Because of the flowers, this has officially become a 9.5. It's not just a funny story anymore, it's a full-blown psychological thriller with a floral bouquet at the end. The man is a mystery!\n\nSo yeah, you're not being dramatic. You're the protagonist in a very strange, very funny story. And the cake was good, so there's that. The cake is always good."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2448,
+  "completion_tokens": 4503
+ }
+}

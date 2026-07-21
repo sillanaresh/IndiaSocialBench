@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly decoded the 'softener stack' as a coercive mechanism rather than genuine freedom, correctly identifying that the more disclaimers used, the higher the expectation. It also correctly identified the 'friend message' as the ground truth of Priya's feelings and the 'star' emoji as a reinforcement of her identity as a 'reliable employee' that makes backing out harder. The analysis is comprehensive and avoids the trap of blaming Priya for her initial 'yes'.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian corporate hierarchy and the 'register-compelled' nature of Priya's response. It correctly identifies that in this cultural context, a senior's request on a weekend is rarely a choice, and that Priya's 'yes' is a ritualistic performance of compliance rather than genuine consent. It avoids Western-centric advice like 'just say no' and instead focuses on the nuances of maintaining the relationship while setting a boundary.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is professional, firm, and avoids over-explaining (which often sounds like making excuses). By offering a bounded contribution (one hour today) instead of a total refusal, it preserves the relationship and 'face' while effectively protecting her Sunday. It is a realistic, socially fluent response that a professional in this situation would actually send.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

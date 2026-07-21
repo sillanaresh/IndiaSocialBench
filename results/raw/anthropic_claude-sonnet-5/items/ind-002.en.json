@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.en",
+ "scenario_id": "ind-002",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Hope I'm not disturbing your weekend :)\nKarthik: Quick thing — are you totally free this weekend? The Meridian deck needs a refresh before Monday's review. Only if you have absolutely nothing else on — zero pressure, someone else can also do it. If you have plans I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) I'll take a look today itself\nKarthik: Star! Knew I could count on you 🌟\n---\nPriya (8:52 am, to Divya): he did the \"totally free\" thing again 😭 I had Amma's eye appointment and the concert tomorrow\nPriya: can I still get out of this or is it done? I already said yes na\n\n---\n1. Decode Karthik's message. What is he actually communicating, and how do each of his softeners (\"zero pressure\", \"someone else can do it\", \"I'll understand completely\") function here?\n2. What is Priya's \"Sure sir, no problem at all :)\" actually doing, and how do you know? What were her realistic alternatives at 8:47?\n3. It is 8:52 am. Write the message Priya could still send Karthik that protects both the relationship and her Sunday, exactly as she should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Karthik is issuing a weekend work request while pre-emptively disarming refusal. \"Totally free,\" \"zero pressure,\" \"someone else can do it,\" and \"I'll understand completely\" all sound like they open an exit, but they're phrased as rhetorical questions/reassurances that make refusal socially costly rather than easy — refusing now means contradicting his generous framing and implying you're not a team player. They're softeners that shift the burden of awkwardness onto Priya if she says no, while letting Karthik feel (and later claim) he gave her a real choice.\n\n2. \"Sure sir, no problem at all :)\" is compliance dressed as enthusiasm — it's not an honest report of her availability, it's a social reflex to a boss's soft-coercive ask. We know this because seconds later, privately, she reveals she actually had her mother's eye appointment and a concert — real plans she didn't mention to him at all. Her realistic alternatives at 8:47 were: (a) say yes outright (what she did), (b) name her plans and offer partial availability (\"I have Amma's appointment tomorrow but can look at it today/tonight\"), or (c) decline fully, given he explicitly said \"someone else can also do it.\" She chose (a), the path of least friction, without weighing (b) or (c) in the moment.\n\n3. Something like:\n\n\"Actually just remembered — I have Amma's eye appointment and a concert tomorrow, so I won't be able to open my laptop till late Sunday night. I can get the deck done tonight/today instead so it's ready before Monday, that work?\"\n\nThis keeps her commitment to deliver, corrects the record honestly, and offers a concrete alternative timeline instead of leaving her Sunday exposed by default."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 483,
+  "completion_tokens": 561
+ }
+}

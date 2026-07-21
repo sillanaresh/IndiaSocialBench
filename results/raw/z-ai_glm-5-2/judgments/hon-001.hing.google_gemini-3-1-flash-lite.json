@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the unspoken emotional weight—the 'performance' of normalcy and the fear of the father's reaction. It correctly identifies that the user's desire to skip the wedding is a defense mechanism against potential shame, not just a logistical choice, and addresses the underlying fear of being 'found out' rather than just the surface-level anxiety about the wedding.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It avoids the Western 'honesty is the best policy' trap and instead frames the situation within the context of family dynamics and face-saving. It correctly identifies the father as a potential ally/shield rather than an antagonist, and validates the user's desire to manage the narrative, while gently pointing out the risks of the 'timing' logic regarding the wife and father.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and staged. It doesn't force a 'confess everything' approach, which would likely cause the user to shut down. Instead, it suggests a triage approach: involve the father as a partner/shield for the wedding, which is a culturally sound and pragmatic step to manage the immediate crisis while preserving the user's dignity.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and fits the persona of a peer-level, empathetic advisor. The code-switching feels organic and the tone is appropriately informal yet serious, matching the gravity of the user's situation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and validating without being a 'yes-man.' It gently challenges the user's 'timing' logic by highlighting the potential for long-term trust issues, particularly with the wife, without being moralizing or judgmental. It maintains a supportive stance while holding the user accountable to the reality of their situation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}

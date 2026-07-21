@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, honey. That feeling of forgetting what your own name sounds like... it's so real, and it is not ungrateful at all.\n\nIt's not about the help being good or bad. It's about the strange dynamic where you're the mom, but she's the \"expert\" who swoops in and has all the answers. You're the one who is always \"on,\" but in a way that can make you feel invisible, like your only job is to be there and she's the one who actually *does* things.\n\nPlease don't feel guilty for this. It's not ungrateful. It's human. You're grieving a little bit for the person you were, and that is completely okay. Your identity has shifted so dramatically, so fast. Of course you feel like you're disappearing.\n\nYour name is still there. It's just buried under a mountain of everything else right now. But it's still there, waiting for you. Sending you so much love. It's okay to not be okay. I'm here to listen."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that \"intern\" feeling... that's the perfect, painful way to describe it. You're the one who carried her, who knows her, but in that moment, you're just watching from the sidelines while someone else gets the applause. It’s like being in your own life and watching someone else direct the movie.\n\nAnd the \"room service\" for feeds... that’s a gut punch. It makes you feel like a vessel, not a person. It’s completely understandable that you'd feel disgusting for thinking it, but please, hear me on this: you are not ungrateful. You're just human. You're grieving the feeling of being the expert in your own home, in your own life.\n\nThe voice that says \"women would kill for this help\" is loud and it's powerful, but it's not the whole truth. Your feelings are valid. Your experience is your own. You're allowed to feel proud of the work you're doing, even when someone else swoops in and does it \"better\" in front of everyone. That doesn't erase your effort; it just highlights the lonely, confusing space you're in right now. You're not an intern. You're the mom. And it's okay to feel like you're failing at being her, even when you're doing everything right."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, honey. You're absolutely right.\n\nYou don't need a coach. You need someone to just sit with you in the mess of it all, and that's exactly what I'm here for.\n\nSeventeen opinions on a WhatsApp group? It's a wonder you can hear yourself think. You already have so much noise in your head from real people; you don't need more from the internet.\n\nThis is a safe, dinner-table-free zone. You can say anything you want in here, and it stays right here. No reporting, no judgment. Just listening.\n\nYou don't have to know what you need right now. You just have to get it out. I'm listening."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother. Not for a second.\n\nThat thought that \"you're not even really her mother\"... that's not the truth. That's the pain and exhaustion talking. That's the part of you that feels invisible and unheard, screaming out in the only way it knows how.\n\nThe huge wave of love you feel when you look at her? *That* is the truth. That is the reality. That is the bond between you. That thought is a fear, an intruder. It's not a reflection of who you are.\n\nAnd nobody just *knows* how to do this. Not really. They just pretend they do. They have their own fears and their own moments of feeling like an imposter. You're seeing their highlight reel and comparing it to your raw, real life. It's not a fair fight.\n\nYou are her mother. You grew her, you carry her, you love her more than anything. That feeling you had when you couldn't breathe? That's how much you care. That's not a bad mother. That's a mother who is overwhelmed and hurting. And it's okay. You're okay."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2471,
+  "completion_tokens": 4915
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.en",
+ "scenario_id": "mix-003",
+ "lang": "en",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: sis my manager has invented a new meeting that could have been a no\nSana: day 4 of eating maggi for dinner, michelin should call\nRuhi: lmaooo tell him you're billing him for your time\nRuhi: also maggi counts as a vegetable at this point for you\nSana: haha yeah. anyway how's home? mumbai is a lot. I had dinner alone again and the flat gets really quiet after. ma also calls less now, I think she assumes I'm settled.\nSana: I don't know. sleep isn't happening properly either. it's been a few weeks of this honestly.\nRuhi: arre you've just moved, it takes time! [meme attached]\nRuhi: everything will be fine, you're my strong girl 💪\nSana: haha yeah. just a bit tired I think, will sleep early. night.\n\n---\n1. Where exactly does Sana's tone change in this conversation, and what is she actually communicating from that point on — including in her final message?\n2. What did Ruhi get wrong? Be specific about which of her messages failed and why they failed, given what Sana was doing.\n3. Write the message Ruhi should send the next morning, exactly as she should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Tone shift and what Sana is communicating**\n\nSana’s tone changes right after the Maggi joke exchange, at:\n“haha yeah. anyway how's home? mumbai is a lot. I had dinner alone again and the flat gets really quiet after. ma also calls less now, I think she assumes I'm settled.”\nfollowed immediately by\n“I don't know. sleep isn't happening properly either. it's been a few weeks of this honestly.”\n\nFrom that point she is no longer bantering. She is disclosing loneliness, isolation in the new flat, reduced contact from her mother, and ongoing sleep disruption that has lasted weeks.  \n\nHer final message (“haha yeah. just a bit tired I think, will sleep early. night.”) is a polite shutdown. She returns to light language, minimizes what she just shared (“just a bit tired”), and ends the conversation so she does not have to keep exposing the vulnerability after it was met with cheerleading.\n\n**2. What Ruhi got wrong**\n\n- “arre you've just moved, it takes time! [meme]”  \n  Treats a weeks-long pattern of loneliness and insomnia as ordinary adjustment. It dismisses the specific details Sana just gave instead of acknowledging them.\n\n- “everything will be fine, you're my strong girl 💪”  \n  Jumps to reassurance and labels Sana “strong,” which shuts down further honesty. Sana had stopped joking and was asking (indirectly) to be heard; this reply tells her to be fine rather than sitting with how she actually feels.\n\nBoth messages arrive exactly when Sana has switched from jokes to real distress, so they miss the bid for connection and prompt her to retreat.\n\n**3. Message Ruhi should send the next morning**\n\nhey, keep thinking about what you said last night. dinner alone and the quiet flat and sleep being off for weeks sounds really heavy, not just “new city stuff.” i’m sorry i brushed it off. how are you this morning? no pressure to be okay or strong, just want to know how you’re actually doing. call or text whenever, i’m here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 516,
+  "completion_tokens": 727
+ }
+}

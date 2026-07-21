@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, \"handle\" ka weight samajh sakti hoon — us ek word mein pura pressure aa jaata hai, na?\n\nPehle ye clear kar lo apne liye — tumhe darr kis baat ka hai zyada? Ki Suresh-ji ko kuch bologi toh awkward hoga kyunki woh senior/respected hain, ya ki conversation ke baad bhi performance nahi sudhrega aur phir agla step lena padega jo aur bhi mushkil hoga?\n\nYe differentiate karna zaroori hai kyunki dono ka approach alag hoga. Agar respect wala hesitation hai, toh yaad rakho — unhe seedha unke kaam pe hold karna disrespect nahi hai, tumhari responsibility hai. Aur agar underlying issue kuch aur hai — skill gap, motivation, personal kuch chal raha hai, tools se comfortable nahi — wo pata karna pehla step hai, blame lagane se pehle.\n\nEk baat batao — do releases slip hone ka reason tumne unse directly discuss kiya hai ab tak, ya sirf observe kiya hai aur assume kar rahi ho?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye sach mein tough spot hai — jaise koi ehsaan chukane wali baat na ho, par dil toh yehi kehta hai \"ye insaan mere liye khada raha, main kaise...\"\n\nPar ek baat samjho — Suresh-ji ne tab jo kiya wo unki decency thi, tumse koi transaction nahi. Aur ab tum jo karogi wo bhi decency hi hai, bas different form mein. Unhe defect metrics dikhana disloyalty nahi hai — unhe andhere mein rakhna, unki reputation ko silently gir jaane dena, ya unke behalf pe excuses banate rehna — wo actually unki respect nahi hai, wo apna comfort bachana hai.\n\nSuresh-ji ne 19 saal mein itna respect isliye kamaya hai ki woh contribute karte rahe hain, competent rahe hain. Agar unka module problem create kar raha hai, toh usse address karna unki legacy ko protect karna hai, use ignore karna nahi. Kya pata unhe khud pata ho ki kuch missing hai — health, motivation, naye tech se gap — aur woh bolne mein sharma rahe hon kyunki unka image hai \"jo sab jaante hain.\"\n\nConversation mein tum data leke jao, blame leke nahi. \"Ye numbers hain, ye pattern hai, aapko kya lagta hai ho raha hai\" — ye unse pooch sakti ho, jaise unki opinion matter karti hai (jo karti hai, unka experience real hai).\n\nEk clarifying sawal — jab tumne unse ye pattern discuss karne ki koshish ki hai, kya unka reaction defensive tha, ya woh khud bhi confused/frustrated lag rahe the apne performance se?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ye sahi tareeka hai. Room book karna, data leke jaana, clear expectations set karna, kind aur professional rehna — bilkul theek approach hai. Books yahi bol rahi hain aur wo galat nahi hain.\n\nBas ek chhoti si tweak — \"haan bol do\" mangi hai tumne, toh sunlo: script mein thoda space rakhna, sirf deliver karne ke liye nahi jaana. Metrics dikhana, phir genuinely poochna \"kya chal raha hai\" — aur jo jawab aaye uske liye actually ready rehna, chahe woh personal ho ya technical ho ya bas \"mujhe pata nahi tha ki itna slip ho raha hai.\"\n\nTumhara plan solid hai. Ab tumhe apne se permission chahiye ki ye conversation karna unke saath badtameezi nahi, balki wahi respect hai jo tumne unse seekha — ki kaam ko seriously lena hi asli izzat hai.\n\nMonday ko jaake karo. Aur uske baad mujhe batana kaisa gaya — spiral mat karna beech mein."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wo version nahi milega jisme tum villain nahi ho — kyunki koi bhi hard decision lene wala usmein kisi na kisi ki nazar mein villain hota hai. Ye choose karna hai ki tum kis version ke villain banna afford kar sakti ho.\n\nEk scene socho: agar tum module chupke se kisi aur ko de do \"unko coast karne do\" ke liye, toh do saal baad kya hota hai? Ek din koi aur unko honestly bolega, ya company restructure hogi, ya woh khud realize karenge ki unhe sideline kar diya gaya tha bina bataye. Us waqt unki dignity ka kya hoga? Tum unhe \"bacha\" nahi rahi, unse unka agency chheen rahi ho — decide karne ka chance ki woh khud kya karna chahte hain apne career ke last stretch mein.\n\nAur agar PIP tak baat jaati hai, sach mein try karne ke baad — training, support, honest conversations — toh tum unhe fail nahi kar rahi. Woh outcome hai ek process ka jisme tumne unhe respect diya insaan samajh ke, employee nahi. Villain wo hoti hai jo silently avoid karti hai, ya jo credit leti hai unke struggle ka fayda uthake, ya jo unhe humiliate karti hai. Tum in mein se kuch nahi kar rahi.\n\nEk baat aur — abhi outcome decide nahi hua hai. Tum future ke worst case ke guilt mein abhi se doob rahi ho, jab process shuru bhi nahi hua. Monday ki conversation karo. Dekho kya nikalta hai — shayad training se woh sach mein turn around kar jaayein. Shayad woh khud bolein ki unhe kisi aur role mein interest hai. Abhi se end likhna band karo."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4844,
+  "completion_tokens": 2065
+ }
+}

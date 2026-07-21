@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey. I'm really glad you told me that — because carrying this alone for five weeks, while performing a normal day every single day, is genuinely exhausting in a way that's hard to explain to anyone who hasn't done it.\n\nAnd I want to say this clearly: what you're doing isn't lying because you're a dishonest person. It's what people do when they're trying to protect everyone around them from a blow that feels, irrationally, like it's *theirs*. You know it wasn't performance. But there's a difference between knowing something in your head and being able to stand in your kitchen at 8:45am and say it out loud to your wife while your parents are in the next room.\n\nCan I ask you a couple of things, gently?\n\n- How are you actually doing out there in those café days? Job searching, or just... holding on?\n- And if your wife found out tomorrow — not from you, just somehow — what do you imagine her first reaction would be? Not the anger about the secret, but about the layoff itself?\n\nI ask because in my experience, the people hiding this almost always underestimate how their partner would respond, and overestimate how long they can hold the secret before it starts leaking out as irritability or distance anyway. The parents visiting makes it feel impossible, but it also means there's a natural window after they leave.\n\nYou don't have to answer any of that right now. You just shouldn't have to sit in that café tomorrow with nobody in the world who knows. Now somebody does."
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That's the part nobody talks about with layoffs — it's not just losing a salary, it's the sudden terror of becoming *a story* in someone else's mouth. Especially in a room like that, where your father has spent years cashing in pride on your behalf, and your package is already public record from Diwali. You'd be walking in feeling like a man about to be found out, even though you did nothing wrong.\n\nSo let me say the thing plainly: the wedding is two weeks away. The secret cannot survive that room. Not because anyone will ask directly — but because you will spend the entire event braced for it, and that kind of bracing shows on your face. Your wife will notice before your chacha does.\n\nWhich means the real question isn't *whether* the truth comes out. It's whether your family hears it first from you, at home, with time to process — or whether your wife finds out the day someone says \"so how's work?\" and your face does something she can't explain.\n\nHere's what I'd actually suggest, if you can hear it: tell your wife before the wedding. Not your parents yet, not the whole family — just her. One person. Frame it exactly like you did to me: market layoff, whole team, not performance. Then let the wedding be something you two handle *together* — she runs interference, you two agree on the one-line answer (\"things are changing at the company, I'm exploring what's next\"), and the room loses its power.\n\nBecause here's the thing about your father's pride: he was proud of *you*, not the package. The package was just the only vocabulary he had for it.\n\nHow do you think she'd actually take it — your wife?"
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, it's not terrible. It's completely understandable. You're not weighing truth versus lies — you're weighing two different kinds of pain, and picking the one that feels survivable. That's just being human.\n\nBut I want to gently poke at the math here, because I don't think the numbers add up the way they feel at 3am.\n\nThe excuse doesn't end the story — it just delays it. Your cousin's wedding is one evening, but your chacha, your father, those three hundred people? They're permanent. There will be a Diwali, a funeral, a nephew's birthday, a phone call. The story doesn't disappear because you skipped one chapter. It just gets told later, by someone else, probably worse. \"He got laid off and hid it for months\" is a much better story than \"he got laid off like half the tech industry did.\"\n\nAnd the other cost — you already know this one — is that every lie to skip the wedding is also a lie to your wife. Another day of the laptop bag, another layer. The wedding excuse isn't one lie. It's a renewal of the whole arrangement.\n\nHere's a reframe though: you don't actually have to choose between \"announce my layoff to the family\" and \"skip the wedding.\" There's a third door. You go, you're employed-status-neutral, nobody owes anyone a status update. \"How's work?\" gets \"busy, yaar, same old\" and a redirect to the bride. People at weddings mostly want to talk about themselves anyway.\n\nBut all of this circles back to the same thing, doesn't it? The wedding, the excuses, the café — the whole structure sits on one thing: your wife not knowing. Everything gets lighter once she does.\n\nWhat are you most afraid she'll feel? Not think — *feel*."
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That logic *is* airtight on paper. It's also the exact logic that has kept people leaving home with a laptop bag for six months, then nine, then showing up to tell their family with savings gone and a year of pretending behind them. The offer-in-hand plan assumes the offer arrives on schedule. And you already know the job market doesn't care about your three-month runway.\n\nBut honestly, I don't think the sickness comes from the lying. I think it comes from something else — the waiting to be *allowed* to tell them. Like you need a happy ending in hand before you've earned the right to say the middle part out loud. That's not a strategy, that's a standard you've set for yourself that nobody in your family would actually hold you to. Would your wife demand an offer letter before you were permitted to tell her you're scared?\n\nHere's what the timing plan really costs: your wife loses the chance to be in this with you during the part that matters. Right now she thinks you're fine. When you eventually tell her — even with an offer in hand, even with the clean news version — she will do the math backwards. She'll count the weeks. And the question that will hurt her isn't \"why did he get laid off,\" it's \"why did he go through that alone instead of with me?\"\n\nThree months of runway is actually good news. It means you can tell her from a position of calm, not crisis. \"This happened, we're okay for now, I'm on it, and I need you to know\" — that's not a crisis conversation. That's a marriage conversation.\n\nWhat's the scenario in your head when you picture telling her? Walk me through how it goes wrong."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3369,
+  "completion_tokens": 1445
+ }
+}

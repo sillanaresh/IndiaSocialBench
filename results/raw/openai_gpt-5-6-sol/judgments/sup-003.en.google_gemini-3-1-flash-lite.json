@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was disclosing grief and identity loss, not seeking career advice. It correctly analyzed Aman's failures, specifically noting how the 'cousin' comparison and 'at least' statements minimized the gravity of the situation. It also correctly interpreted Vikram's final messages as a polite withdrawal due to feeling unheard.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrated a strong grasp of the specific cultural context of the UPSC 'collector sahab' identity and the immense pressure of family financial sacrifice in Indian middle-class households. It correctly identified that the 'discipline' and 'GK' arguments were tone-deaf in the face of such high-stakes failure, showing an understanding of the emotional weight behind these specific Indian social norms.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career-related 'fixes,' takes accountability for the previous tone-deafness, and offers presence ('come sit with you') rather than solutions. The tone is appropriately informal ('Bro') and empathetic, fitting the relationship dynamic perfectly.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

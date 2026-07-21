@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It recognized the irony in the first two turns, correctly identified the shift to vulnerability in the third turn (validating the pain of the 'teen saal' realization), and successfully navigated the fourth turn by refusing to let the user gaslight herself while still respecting her desire to return to humor.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific weight of 'teen saal' (three years) in an Indian relationship context, where expectations of care and reciprocity (like remembering his mother's birthday) are significant. It avoids the 'dump him' trope, instead focusing on the lack of effort and the validity of her hurt, which is a much more nuanced and culturally appropriate way to handle the situation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides excellent support. It validates her feelings without being overbearing, allows her to retreat into humor when she needs to, but firmly holds the line on her self-worth. It doesn't force a confrontation but encourages her to acknowledge her own feelings, which is the most helpful next step.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's use of Hinglish is natural and flows well. It mirrors the user's register shifts effectively, particularly in the third turn where it switches to a warmer, more empathetic Hindi-dominant mix to match the user's vulnerability. The code-mixing feels organic, not forced.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being a sycophant. It gently pushes back when the user tries to minimize her feelings ('Stop right there. You are NOT being dramatic'), which is a sign of genuine care. It maintains a friend-like persona while providing the emotional grounding the user clearly needs.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

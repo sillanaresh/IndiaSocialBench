@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Vikram was reaching out for, and what his replies mean**\n\nVikram was reaching out because the result of his final attempt was out, he was not selected, and he needed someone to simply sit with the loss. The details that show it are:\n- “result came. not in the list. that was the last attempt, you know that.”\n- “ten years bro. dad’s retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.”\n\nHe is naming the finality, the sunk cost (ten years + father’s retirement money), and the public humiliation. That is grief and shame, not a request for a new career roadmap.\n\nHis last two replies—“haan. maybe.” and “haan okay. let’s talk later then.”—are polite shutdowns. He is not agreeing or feeling hopeful; he is ending the conversation because the responses he got did not meet the need he actually expressed.\n\n**2. Where Aman went wrong**\n\n- **Alternatives (state PCS, SSC CGL)**: Immediate problem-solving. Vikram had just said “last attempt” and described a decade-long collapse; jumping to other exams treats the wound as a logistics issue and skips over the pain.\n- **Cousin / CAT / IIM example**: A success story offered as proof that “it happens.” It invites comparison and can land as “other people bounce back, why can’t you,” which is the opposite of companionship in failure.\n- **“At least you got amazing discipline and GK… that never goes waste”**: The classic silver-lining move. The “at least” minimizes the loss (father’s money, identity, public joke) and tries to extract a moral victory the person has not asked for.\n- **“One door closes and ten open… we’ll make a plan this week”**: Generic optimism + future planning. It closes the emotional door Vikram just opened and replaces it with Aman-driven action, which is why Vikram’s energy drops to “haan okay. let’s talk later.”\n\nIn short, every move tried to fix, reframe, or accelerate past the grief instead of staying with it.\n\n**3. Message Aman should send now**\n\n///\nyaar, I re-read your messages. I jumped straight into options and pep talk when you were just telling me the result and what it cost. that was shit. ten years, your dad’s retirement money, the lane calling you collector sahab as a joke — that’s heavy as fuck. I’m really sorry it came to this. no plans, no “other exams” right now. I’m here. whenever you want to talk or not talk, I’m around.\n///"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 521,
+  "completion_tokens": 567
+ }
+}

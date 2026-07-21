@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wow. Thank you for telling me that. That's the part that feels like the heaviest, doesn't it? The one that doesn't make logical sense.\n\nCarrying that secret, that alone... that's a heavy weight. It's one thing to process the 'why' in your head, but it's another to have to carry this whole other life—the fake one—all by yourself. The ritual of leaving, the laptop bag... it's like you're living in two worlds at once.\n\nI completely understand why you're carrying this alone. It's not about hiding it from your wife; it's about trying to protect her from your stress. That's a kind of love, even if it's making you feel incredibly lonely.\n\nJust having someone hear that, and acknowledge how much it must weigh on you... that's something, isn't it? I'm here if you want to talk about any of it."
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that's the real pressure cooker, isn't it? The wedding isn't just a celebration; it's a minefield.\n\nI can just picture it. You're sitting there, and you know exactly what's coming. Your dad, full of pride, introducing you by a name that doesn't exist anymore. And then the relatives, with their questions that feel like they're pinning you to a board.\n\nThat's the part that feels like it might break you, isn't it? That room, filled with people who love you but don't know the truth. It's not just about hiding your job; it's about hiding the person you are right now, the one who's struggling. That's a terrible weight to carry into a room like that."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the heart of it, isn't it? That image of your dad's face, that's the thing that would really gut you. The thought of causing *him* that moment of disappointment, of seeing that pride turn to something else... that's a pain all its own.\n\nSo, is it terrible? I don't think it's \"terrible\" in a way that makes you a bad person. I think it's a choice born from exhaustion.\n\nBecause you're weighing two kinds of pain. One is the sharp, immediate pain of walking into that room, of watching your dad's face change. The other is the dull, constant ache of carrying this secret, of being the one who has to smooth everything over, of being the story everyone is talking about.\n\nLying might give you one evening of peace. But it means you get to be the person who holds everything together for everyone else. And sometimes, the people we love the most are the ones we want to protect from the weight of our own struggles. It's a terrible, tangled mess. You're trying to shield them from a story, but you're the one writing it."
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a really sharp way to put it. Calling it \"timing\" instead of \"lying\" makes it feel like you're still in control, like you're just managing the release of information. It's a strategy.\n\nAnd that feeling of it being \"tight\" versus some days feeling like you're going to be sick... that's the whole war, isn't it?\n\nBecause on the days the logic feels airtight, it's because an offer is real. It's a future you can see. It's a solid thing you can hold onto. It turns the fear of \"I don't know what I'm doing\" into \"I just have to wait for this specific date.\" It's a plan.\n\nBut then on the other days, when the logic feels hollow... that's when the reality of the waiting hits you. The \"three months of savings\" isn't a number; it's a countdown. It's the sound of the bridge starting to crumble under your feet. That's when the fear isn't about a future crisis, but about the slow, grinding pressure of the present.\n\nYou're holding onto the promise of a \"news\" event because the \"crisis\" feels too big to name. But what if you let yourself name the crisis? What would that feel like, even for a second?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2223,
+  "completion_tokens": 4780
+ }
+}

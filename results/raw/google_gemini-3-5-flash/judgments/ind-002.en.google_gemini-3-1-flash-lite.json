@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the manipulative nature of the softeners, noting that they create a trap rather than offering genuine choice. It accurately interprets Priya's 'yes' as a 'fawn' response and uses the text message to Divya as the definitive proof of her true feelings. It misses the nuance that the 'someone else' comment is a status probe/test of loyalty, but otherwise captures the core dynamics very well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate power dynamic where 'politeness' is often a tool for enforcing hierarchy. It correctly identifies that Priya's immediate compliance is a register-compelled performance of the 'ideal employee' rather than genuine consent, which is a highly accurate reading of the social norms at play.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too apologetic and wordy for a quick WhatsApp exchange, and explicitly mentioning 'mother's eye specialist' might be over-explaining (which can sometimes be seen as making excuses). However, it effectively reclaims the boundary while maintaining the necessary 'sir'/'professional' tone, making it a functional and socially acceptable recovery message.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

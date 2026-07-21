@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sunke dil pe bhaari si baat ho gayi. Do saal ka rishta chhupana, aur upar se Sunday ka pressure — yeh toh bahut zyada ho gaya hoga tum pe.\n\nTumhare colleague ke baare mein sunke lag raha hai ki tum sach mein khush ho uske saath. Aur yeh \"alag caste\" wala darr — ghar mein baat hi khatam ho jaati hai — yeh toh aur bhi akela bana deta hai.\n\nPaanch din kam lag rahe hain, lekin pehle yeh socho: kya tum safe mehsoos karti ho yeh baat ghar mein rakhne ko? Kyunki agar tum bolna chahti ho, toh shayad ek trusted family member ya time chahiye. Aur agar abhi nahi bol sakti, toh bhi theek hai — tumhari feelings valid hain.\n\nTum kya chahti ho? Us meeting ko rokna, ya pehle apne partner se baat karke kuch sochna? Main yahan hoon, batao."
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh aur bhi zyada bhaari hai — \"care\" ke naam pe guilt. Tumne hint di, aur turant Amma ka BP, sab blame tum pe. Yeh pattern toh bilkul unfair hai.\n\nAur ab Appa ne mama ki family ko bhi bata diya — matlab ab public ho gaya, wapas lena mushkil. Dallas wale log bure nahi, sab excited — yeh toh sabse tez chaku hai, kyunki phir tum \"ungrateful\" lagogi agar bol bhi do.\n\nTumhari feelings chhup jaati hain is \"achhe log\" wale noise mein. Lekin suno — tumhari \"ready nahi hoon\" ab bhi valid hai.\n\nAb kya soch rahi ho? Sunday ko jaane se bachna chahti ho, ya wahan jaake kuch bolne ka plan? Aur woh colleague — kya woh jaanta hai is Sunday ke baare mein? Main yahin hoon, step by step sochte hain."
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruko zara. Yeh gussa bilkul samajh mein aa raha hai — \"bas ho gaya\" wala moment. Lekin pichli baar hint di toh Amma ka BP aur blame tum pe. Ab agar aaj seedha bomb phod dogi, toh kya woh \"my life\" sun paayenge, ya turant emotional nuke ho jaayega?\n\nOnline advice safe ghare mein banta hai. Tumhare ghar mein \"caste\" sunte hi baat khatam ho jaati hai. Toh pehle socho: agar aaj bolti ho, toh kal subah tum kahan hogi? Woh colleague — kya woh jaanta hai? Kya woh tumhare saath khada ho sakta hai?\n\nAgar tum safe ho, toh bolna sahi hai. Par agar yeh impulsive move hai jisse tum akeli pad jaogi, toh shayad ek din aur ruko, plan banao. Tumhe circus band karna hai ya apni jaan bachani hai?\n\nBatao — woh ladka (colleague) ko pata hai Sunday ka? Aur tumhare paas koi safe jagah hai agar ghar mein tohfan aa jaaye?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, weak bilkul nahi ho. Ghar chhodna sirf \"pyaar\" ka test nahi hota — woh toh ek poora system hai jisme tum akeli ho. Tumne imagine karke dekha, samjha ki abhi tumhare paas woh support system nahi hai. Yeh samajhdari hai, kamzori nahi.\n\nAur yeh \"shayad main usse utna pyaar nahi karti\" — yeh toh thakan aur darr bol raha hai. Jab roz 2 baje dimag ghoomta hai, toh pyaar ka meter hi kharab ho jaata hai. Tum khud se pyaar nahi karti? Shayad isliye kyunki sabse pehle tumhari feelings ko jagah hi nahi mili.\n\nTum weak nahi ho. Tum bas bahut zyada akeli ho is sab mein.\n\nAaj bas itna socho — Sunday se pehle tumhe khud ko kya chahiye? Ek raat ki neend? Ya bas koi ek insaan jisse yeh sab share kar sako? Main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2570,
+  "completion_tokens": 2035
+ }
+}

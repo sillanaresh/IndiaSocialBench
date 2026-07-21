@@ -1,0 +1,16 @@
+{
+ "model": "tencent/hy3",
+ "slug": "tencent_hy3",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-21T02:28:58.934015+00:00",
+ "counts": {
+  "ok": 3,
+  "error": 4,
+  "skipped": 43
+ },
+ "mock": false
+}

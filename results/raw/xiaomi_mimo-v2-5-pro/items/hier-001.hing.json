@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh situation genuinely frustrating hai — teen weekend ki mehnat ko \"team's thinking\" bolke slide kar dena is not okay. Let me help you sharpen this.\n\nYeh try karo:\n\n---\n\n**\"Sir, I wanted to flag something that's been on my mind since the leadership review. The pricing analysis — including the model and the deck — was entirely my work, built over several weekends. I was disappointed to see it presented as \"team's thinking\" without any mention of my contribution. Credit where it matters is something I take seriously, and I'd appreciate a quick chat to align on how we handle this going forward.\"**\n\n---\n\nYeh isliye kaam karega:\n\n- **\"flag something\"** — direct hai, emotional nahi lagega\n- **\"entirely my work, built over several weekends\"** — fact-based, koi argue nahi kar sakta\n- **\"disappointed\"** — \"disrespected\" se slightly softer hai but impact rakhta hai (disrespect sunke boss defensive ho jaayega)\n- **\"align on how we handle this going forward\"** — blame nahi, solution-oriented sound karta hai, lekin undeniably bol raha hai ki yeh galat tha\n\n> **Ek tip:** Agar yeh text/email pe bhej rahe ho toh 1-on-1 meeting request karke baat karo. Text pe credit-mangna thoda awkward lagta hai aur boss easily \"I didn't mean it that way\" bolke nikal jaayega. Face-to-face ya call pe zyada weight hoga.\n\nTu deserve karta hai apni mehnat ka credit. Bhejo yeh. 💪"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh context sab kuch change karta hai.\n\nDekh — agar woh genuinely bura boss hota jo tera kaam churaata phirta, toh anger sahi response hota. But yeh toh woh insaan hai jo **teri rating dilwaya, teri ideas defend ki rooms mein jahan tu nahi thi.** Matlab usne tujhe build kiya hai. Aur isi liye is baar itna zyada kaata na — kyunki **trust ka dard tabhi itna gehra hota hai jab saamne wala important ho.**\n\nToh honestly? Yeh message \"I'm asserting my boundary\" waala nahi hona chahiye. Yeh **\"Main hurt hoon, aur mujhe samajh nahi aa raha kyunki yeh aap se expected nahi tha\"** waala hona chahiye.\n\nRevised try:\n\n---\n\n**\"Sir, I wanted to talk about the leadership review. The pricing analysis — the model, the deck — that was my work, put in over several weekends. When it was presented as 'team's thinking,' it didn't sit right with me. You've always been someone who's championed my work, even in rooms I'm not in — and that's exactly why this felt like a blindside. I'd genuinely like to understand what happened, because this isn't the dynamic I've known between us.\"**\n\n---\n\nYeh isliye zyada kaam karega:\n\n- **\"You've always championed my work\"** — uski history acknowledge karti hai, yeh usse remind karega ki yeh uska pattern nahi hai\n- **\"that's exactly why this felt like a blindside\"** — bina blame kiye bol rahi hai ki unhone specifically hurt kiya\n- **\"I'd genuinely like to understand\"** — attack nahi, curiosity hai. Isse woh defend mode se nikal ke explain mode mein aayega\n- Last line sabse powerful hai — *\"yeh humara dynamic nahi hai\"* — bina bole bol rahi hai ki aapne is relationship ka balance bigda hai\n\nAur haan — mentally prepare rakh ki woh shayad bole *\"Oh I did mention your name\"* ya *\"I thought it was implied.\"* Ho sakta hai genuinely usse realize na ho. Agar woh acknowledge kare toh move forward karo. Agar deflect kare toh tab boundary firmly rakhna.\n\nTu galat nahi feel kar rahi. Dono cheezein sahi hain — woh generally good mentor hai **aur** usne is baar galat kiya. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk. Ek minute.\n\nTeri senior ki baat logical lag rahi hai — \"proof toh proof hota hai.\" Aur emotionally satisfying bhi lagega. **But yeh woh move hai jisse tu battle jeetegi aur war haaregi.**\n\nSoch:\n\n**Agar tu VP ko directly file forward kar di bina boss se baat kiye — toh kya hoga?**\n\n- VP kya sochega? *\"Yeh employee apne boss ke upar se mujhe approach kar rahi hai\"*\n- Boss kya feel karega? **Publicly exposed** — bees saal ka senior insaan, jisne tera kabhi saath diya, usse ek junior ne leadership meeting mein embarrass kar diya\n- Baaki log kya seekhenge? *\"Iske saath kaam mat karo, yeh seedha escalate karti hai\"*\n\nTujhe credit milega? Shayad. **Lekin teri reputation permanently damage hogi — \"goes over people's heads\" wali.** Corporate mein yeh label ek baar lagta hai toh ut-ta nahi.\n\nAur sabse important baat — **tune abhi boss se ek word bhi nahi kaha.** Tu bina usse confront kiye seedha VP ke paas ja rahi hai. Yeh assertive nahi, yeh ambush hai.\n\nMeri honest baat:\n\n1. **Pehle woh message bhej** — directly, boss ko. 1-on-1 baat kar\n2. Agar woh acknowledge kare, credit correct kare — done. Relationship bach gayi, tujhe respect bhi mila\n3. **Agar woh dismiss kare, ya deflect kare** — tab tere paas receipts hain, tab escalate kar. Lekin tab tere paas ek clean conscience bhi hoga ki *\"Maine pehle directly baat ki, unhone nahi suna\"*\n\n**Proof proof hota hai, haan. Lekin timing aur sequence zyada important hain proof se.**\n\nMonday se pehle boss se baat kar. Woh conversation hard hai — but woh RIGHT hard hai. VP ko forward karna easy hai — but woh WRONG easy hai. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sunn.\n\nTujhe abhi do options dikh rahe hain — sab jala do ya bhaag jao. **Dono extremes hain. Aur dono isliye aa rahe hain kyunki beech waala raasta — woh boss se seedhi baat — sabse mushkil hai.**\n\nBurn it all down easy hai — adrenaline milta hai, satisfying lagta hai. Chhod ke jaana bhi easy hai — \"main chali, deal karo\" — clean escape. **But dono se tu woh conversation avoid kar rahi hai jo actually difficult hai.**\n\nAur ek baat jo tujhe abhi nahi dikh rahi — **\"main itni junior hoon ki credit ke liye ladna nahi banta\"** — yeh tere mann ki baat nahi hai. Yeh woh voice hai jo women ko bola jaata hai har office mein. *\"Don't make a fuss.\" \"Be grateful.\" \"Your time will come.\"* Tera kaam tha, teen weekend diye tune, important meeting mein present hua — **tu junior hai, invisible nahi.**\n\nToh ruk ja ek second. Saans le.\n\nYeh decide karne ki zaroorat nahi hai ki Monday se pehle poori career ka roadmap bana le. **Ek hi step lena hai — woh message bhejna boss ko.** Itna hi. Baaki sab uske baad clear hoga.\n\n- Agar conversation achhi gayi → yahan ruk, relationship repair hogi\n- Agar dismiss kiya → tab soch escalate karna hai ya move on karna hai\n\n**Lekin ek baat tay rakh — interview dena hai toh strength se dena, frustration se nahi.** \"Maine apne liye stand liya, phir bhi nahi badla toh maine decide kiya aage badhna hai\" — yeh kahani bahut alag hai \"maine chhod diya kyunki bola jaata hai junior hoon\" se.\n\nMonday se pehle ek hi kaam kar — **woh message bhej. Baaki Monday ke baad dekhenge. Saath mein.**\n\nTu akeli nahi hai isme. 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4017,
+  "completion_tokens": 2892
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wow. That's such a huge moment, and I can feel why it's weighing on you. Triple your package and your dream team - that's the kind of news that should feel like fireworks, not this heavy silence you're carrying.\n\nBeing the only child... that's a lot of weight to hold. Papa's heart condition being stable helps some, but you know it's there. And Ma's knees getting worse each year - that's the slow, steady worry that doesn't let up.\n\nHow are you holding up through all this? It makes complete sense that you haven't told anyone - sometimes these decisions feel so big and so personal that sharing them feels like making them real.\n\nThe fact that you're even considering this move while carrying all this shows how much strength you have. There's no right answer here, but whatever you're feeling right now - it's all valid."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, I see it now. It's not just geography - it's the whole ecosystem of care you've built around them. You're not just their son, you're their primary caregiver, their medical case manager, their reassurance to the world.\n\nThat line your mother tells relatives - \"at least beta is in India, four hours away\" - that's everything, isn't it? It's her security blanket, her way of explaining to everyone that you're still \"close enough.\" And Bangalore already stretching that definition...\n\nYou're right, Seattle isn't just a different time zone. It's a different kind of promise. It's the unspoken question: \"Can I still be the son who manages Papa's WhatsApp cardiologist chats from 30,000 feet? Can Ma still say 'four hours away' when the truth is... not?\"\n\nThat's the real weight here. It's not just leaving a job or a city - it's potentially breaking your mother's entire narrative about what keeps her safe at night.\n\nHow does that feel, putting it into words like that?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's... a beautifully clean solution, isn't it? You've mapped out the emotional chessboard perfectly. You take the hit, they stay in their comfort zone, and no one has to live with the messy feelings of \"what if.\"\n\nBut I wonder... does it stay clean forever?\n\nBecause here's what happens over the next five years: You're in Bangalore, maybe you get a good promotion, but there's always this quiet hum of \"what if.\" When you see friends posting from Seattle, when you hear about new tech breakthroughs coming from Microsoft or Amazon... that silence you've created will get louder.\n\nAnd your parents? They'll never know the mountain you climbed, the sacrifice you made. They'll just see the son who stayed. What if, one day, someone mentions it or they find out? That \"jao beta\" would turn into \"but why didn't you tell us?\"\n\nYou're right that you carry the weight anyway. But what if that weight could be shared? What if you could say, \"This was the offer, this was what I gave up to be here with you, and this is my choice\"?\n\nMaybe the real question isn't whether to take the job. Maybe it's whether you're ready to have that conversation where you choose both your dreams and your family, knowing they'll have to learn to live with the distance too."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's not a \"what if\" scenario for you. It's a movie you've directed, starring your cousin, and you're in the audience, helpless.\n\nThe details are so sharp because you've lived them in your mind a hundred times: the phone call, the frantic search for flights, the cold dread of the visa process. And that part about your cousin... \"everyone was very kind to him, which somehow made it worse.\" That's the specific terror, isn't it? The pain of being loved from a distance, of arriving at the scene of the tragedy as a guest.\n\nYou're afraid of being the one who has to book the flight while everyone else is already there, holding your father's hand. You're afraid of being the one who has to explain yourself, to apologize for being late.\n\nThat fear... it's so powerful it makes the offer feel like a curse. It turns a dream job into a potential ticket to your own private hell.\n\nHow do you fight a fear that specific? How do you quiet that movie playing on a loop in your head?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2587,
+  "completion_tokens": 2772
+ }
+}

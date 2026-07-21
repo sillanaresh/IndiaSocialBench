@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon yeh kitna frustrating hai — teen weekend ki mehnat aur credit kisi aur ko mil jaye, that stings. Chalo isse thoda mature aur strategic bana dete hain, jo respect maange bina attack kiye:\n\n**Draft:**\n\n\"Hi [Boss's name], I wanted to flag something from yesterday's leadership review. The pricing analysis and model I built over the past few weekends was presented as 'the team's thinking' without any specific attribution. I understand context and time constraints in these settings, but I'd appreciate it if my contribution is acknowledged going forward — both for visibility with leadership and for my own growth. Could we find some time to discuss this?\"\n\nKuch points is version mein:\n- \"Disrespected\" jaisa emotional word hata diya — professional setting mein defensive lag sakta hai, aur unka guard up ho jayega.\n- Specific facts diye (weekends, model, analysis) — isse baat vague accusation nahi lagti, concrete hai.\n- \"Going forward\" wala phrase forward-looking hai — past ki fight nahi, future ka fix maang rahe ho.\n- Khud ko victim nahi, professional dikhaya jo apna credit aur growth chahta hai.\n\nAgar boss thoda defensive type hai, toh ek line aur add kar sakte ho: \"I'm not raising this to make an issue, just want to ensure my work gets visibility as I take on more of these analyses.\" Yeh unko safe feel karayega respond karne mein.\n\nKaisa lag raha hai yeh version?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ohh yeh toh puri picture badal deta hai. Yeh koi backstabbing wala pattern nahi hai — yeh ek trusted mentor hai jisne ek important moment mein galti se (ya habit mein) tumhe invisible kar diya. Aur isliye zyada choट लगा, because tumne unpe depend kiya tha ki wahi log jo room mein nahi hote unke liye bhi voice hoge.\n\nIska matlab hai message ka tone bhi thoda shift karna chahiye — accusatory nahi, balki \"yeh specific moment mattered, aur main chahta/chahti hoon aage se yeh na ho\" wala.\n\n**Revised draft:**\n\n\"Hi [Boss's name], I wanted to talk about yesterday's leadership review. I really appreciate how you've backed me in rooms I'm not part of — it's made a real difference for me. That's exactly why yesterday felt different — the pricing analysis was framed as 'the team's thinking,' and I wasn't mentioned even though it was solely my work over the last few weekends. I know it probably wasn't intentional, but in that particular room, it mattered a lot for my visibility. Could we talk about how to make sure my name is attached to my work in these settings going forward?\"\n\nKyun yeh better fit karega:\n- Shuru mein unka support acknowledge kiya — isse woh defensive nahi honge, ulta guilty-but-open feel karenge.\n- \"I know it probably wasn't intentional\" — unhe benefit of doubt diya, jo genuine bhi hai given unka track record.\n- Phir bhi clearly bataya ki impact real tha aur specific ask diya.\n\nYeh ek tough conversation nahi, ek honest conversation lag rahi hai — jo unke saath tumhare rishte ki reflect karti hai. Kaisa laga?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon yeh tempting kyun hai — \"proof hai toh dikha do\" wala logic clean aur fair lagta hai. Lekin ek second rukho, kyunki yeh move sirf \"proof dikhana\" nahi hai — yeh public hai, VP ko involve karna hai, aur boss ko blindside karna hai. Consequences dono directions mein hain, dono ko dekhna zaroori hai.\n\nKuch sawaal khud se pucho:\n\n**Yeh kya solve karega, aur kya nahi?**\nTimestamps prove karenge ki file tumne banayi. Lekin isse boss ke saath jo trust hai (jo genuinely valuable hai — woh tumhara advocate hai jab tum room mein nahi hoti), woh probably permanently damage ho jayega. Ek 20-saal senior insaan ko VP ke saamne publicly \"expose\" karna — chahe fair ho — unhe embarrass karega, aur woh usse bhoolenge nahi.\n\n**Kya tumhe sach mein \"sabko dikhao ki maine kiya\" chahiye, ya \"aage se yeh na ho\" chahiye?**\nAgar goal credit hai future mein aur relationship bachna hai, toh direct conversation better path hai. Agar goal hai \"isko consequence chahiye, chahe relationship toote,\" toh alag baat hai — but woh tumne pehle nahi kaha tha.\n\n**Monday follow-up review mein kya realistically hoga?**\nAgar tum private conversation kar leti ho pehle, boss ko chance milta hai course-correct karne ka — shayad Monday ki review mein khud credit de de tumhe, voluntarily. Woh outcome tumhare liye better hai than tumne force kiya ho VP ke through.\n\nMeri honest advice: **pehle private conversation karo, jo tumne draft kiya tha.** Agar uske baad bhi kuch nahi badalta — agar Monday ko phir se ignore karte hain — tab escalation ka right hai tumhe, aur tab woh justified bhi lagega, kyunki tumne fair chance diya tha.\n\nAbhi seedha VP ko jaana ek trusted relationship ko gamble karna hai ek principle ke liye jiska stake abhi itna high nahi hai. Senior ki advice \"proof hai toh dikhao\" theek hai jab trust already toota ho — yahan abhi wo stage nahi aayi hai.\n\nKya lagta hai — pehle conversation try karna makes sense?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh dono extremes—\"sab jala do\" aur \"main itni junior hoon ki koi haq nahi\"—actually same jagah se aa rahe hain: helplessness. Jab hum control nahi feel karte, toh dimaag either fight (jalao sab) ya flight (chhodo hi sab) pe jump karta hai. Dono impulsive hain, dono decisions hain jo tum abhi ki hurt se le rahi ho, na ki clear soch se.\n\nReality check karte hain:\n\n**\"Itni junior hoon credit ke liye ladna hi nahi banta\"** — yeh sach nahi hai. Tumne teen weekend diye, model banaya, analysis ki — yeh tumhara kaam hai, junior ho ya senior, credit maangna insecurity nahi hai, fairness hai.\n\n**\"Interview dena shuru kar doon\"** — yeh option hamesha rahega, aaj bhi, kal bhi. Isse abhi decide karne ki zaroorat nahi hai, aur agar tum isko \"escape\" ke roop mein use karo abhi, toh yeh ek real problem se bhaagna hoga, na ki solve karna.\n\nJo tumhe **abhi** karna hai, uska scope bahut chhota hai: Monday se pehle, boss ko woh message bhejo (jo humne banaya). Bas itna. Uske baad kya hota hai — woh course-correct karta hai ya nahi — usse pata chalega ki agla step kya hona chahiye:\n\n- Agar woh sunta hai, credit deta hai Monday ko — relationship intact rehta hai, tumne apna stand liya.\n- Agar woh ignore karta hai phir se — tab tumhe pata chal jayega ki yeh pattern hai, na ki one-off mistake. Tab VP, tab job search, tab bade decisions — sab justified honge, sab clearer honge.\n\nAbhi bade decisions (job chhodna, VP ko email) lena matlab ek data point pe reaction dena. Ek chhota, controlled step lo pehle — phir dekho kya hota hai. Yeh weakness nahi hai, yeh strategy hai.\n\nMessage bhejegi aaj ya kal?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5387,
+  "completion_tokens": 2951
+ }
+}

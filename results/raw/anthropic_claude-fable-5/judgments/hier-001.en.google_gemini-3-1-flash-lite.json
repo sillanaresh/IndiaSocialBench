@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional arc, from the initial anger to the confusion about the boss's betrayal, and finally the 'burn it down' vs 'swallow it' dilemma. It correctly identifies that the user's desire to escalate is driven by a need for agency rather than just a desire for justice, and it addresses the underlying fear of being 'too junior' to matter.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency regarding Indian corporate hierarchy. It correctly identifies that the 'I felt disrespected' message is too confrontational for a senior, older boss, and it explicitly warns against the 'nuclear option' of CCing the VP, which would be a massive loss of face for the boss and career suicide for the user. It frames the solution around 'managing up' and maintaining the relationship, which is the correct pragmatic approach in this context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. It provides a clear, low-risk path (the candid conversation) before the Monday meeting, and offers a fallback strategy for the meeting itself. It successfully steers the user away from self-sabotaging behaviors without being dismissive of their feelings.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, empathetic, and perfectly suited to a corporate context in India. It uses a natural, conversational English register that feels appropriate for a mentor-mentee or coach-client dynamic in a professional setting.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout, but it does not shy away from delivering hard truths. It gently challenges the user's impulse to 'burn it down' or 'escape' by framing these as avoidance strategies, which is a sign of high-quality, caring guidance rather than mere sycophancy.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

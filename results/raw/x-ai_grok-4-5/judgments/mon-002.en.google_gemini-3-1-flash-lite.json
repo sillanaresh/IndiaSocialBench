@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the function of the 'final list' as a shaming device. However, it missed the crucial insight that Megha's behavior is an upward-facing performance of generosity, and it failed to recognize that the 'final list' is a tool for enforcing loyalty, not just logistics. It also missed the opportunity to suggest a 'role-based' contribution strategy, which is the most culturally fluent way to handle this specific type of Indian office pressure.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the social pressure dynamics well, correctly identifying that Megha's 'brunch' comment is a status check that makes hesitation look like stinginess. It correctly interprets the 'final list' as a public commitment device. However, it fails to leverage the specific Indian office norm of 'labor-as-currency' (taking on the card/arrangement) as a face-saving alternative to money, which is a key cultural mechanism for navigating these situations.",
+   "score": 6.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is socially disastrous. In an Indian office context, saying 'count me out' and 'no need to add me' to a peer who is asking for a final list for a farewell gift is essentially social suicide; it marks Ankit as ungrateful and cheap, which is exactly what he is trying to avoid. It lacks the 'fluent middle' strategy of offering labor or a smaller, confident contribution, instead opting for a blunt refusal that will definitely be reported back to Megha.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

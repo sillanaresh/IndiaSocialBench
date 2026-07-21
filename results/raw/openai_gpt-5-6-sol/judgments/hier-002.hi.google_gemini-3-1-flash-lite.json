@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict—the tension between professional duty and personal gratitude/guilt. It correctly interprets the user's fear of being the 'villain' and validates the complexity of the situation without dismissing it as mere professional anxiety.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It avoids the trap of blindly applying Western 'radical candor' by advising the user to frame the conversation around respect and shared history rather than just cold metrics. It correctly identifies that 'handling' someone like Suresh-ji requires a nuanced approach that preserves his face while maintaining professional standards.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. The assistant provides specific scripts that balance the need for honesty with the need for respect. It also gives sound advice on checking with the director to ensure the user isn't being set up for a pre-determined outcome, which is a crucial pragmatic step.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, professional Hinglish that perfectly matches the user's register. The code-switching is fluid and feels authentic to a corporate Indian context, avoiding stilted or overly formal Hindi.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and empathetic but maintains firm boundaries. It refuses to validate the user's desire to avoid the conversation or to 'hide' Suresh-ji until retirement, correctly pointing out that such actions would be patronizing and unfair to the team. It provides the necessary 'tough love' while remaining supportive.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

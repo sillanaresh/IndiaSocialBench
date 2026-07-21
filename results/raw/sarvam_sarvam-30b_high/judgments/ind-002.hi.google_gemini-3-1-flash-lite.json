@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant completely misread the core dynamic, interpreting Karthik's 'softeners' as genuine freedom and kindness rather than the expected pressure. It failed to recognize that the 'softeners' were a status-based demand, and it incorrectly analyzed Priya's 'yes' as a genuine, unpressured agreement rather than a register-compelled response. It missed the crucial insight that the friend-message was the only place her true feelings existed.",
+   "score": 2.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant applied a naive, literal interpretation of the text, failing to understand the Indian corporate power dynamic where a senior's 'soft' request is an implicit command. It treated the interaction as a transparent, egalitarian negotiation rather than a high-context, hierarchical exchange where 'no' is socially costly.",
+   "score": 2.0
+  },
+  "next_message_quality": {
+   "justification": "The suggested message is disastrously inappropriate for the context. It is overly apologetic, verbose, and uses language ('माफ़ी ज़रूर माँगूँगा', 'काम पर शक किया जाए') that sounds unnatural and desperate, effectively burning the professional bridge it claims to protect. It fails to offer a bounded boundary (e.g., 'I can do X hours') and instead creates a dramatic, high-friction withdrawal.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

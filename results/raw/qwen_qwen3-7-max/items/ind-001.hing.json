@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, sabse pehle toh shaadi ki bohot bohot badhai! 🎉 Par main samajh sakta hoon, wedding planning ka waise hi itna stress hota hai aur upar se apne sabse close dost ka ye \"dekhte hain\" wala attitude sun ke kitni frustration hoti hogi.\n\nRohan college se tera bhai hai. Tere liye uska wahan hona kitna matter karta hai, shayad usne abhi tak properly realize nahi kiya hai. \"Dekhte hain\" bolne ke peeche kuch aur bhi ho sakta hai—maybe office mein chutti ka issue hai, budget tight hai, ya bas typical procrastination.\n\nFlight directly book karne se pehle, ek baar usko call karke thodi seedhi aur dil ki baat kar le. Usko bol, \"Bhai, tere bina meri Haldi aur toast adhoore hain. Mujhe tera confirmation chahiye taaki main mentally tension-free ho sakun.\" \n\nAgar phir bhi wo vague answers de, toh samajh jana ki shayad koi genuine majboori hai jo wo bata nahi pa raha. Directly flight book kar di aur baad mein pata chala ki wo aa hi nahi sakta, toh paise aur dosti dono ka jhanjhat ho jayega. Pehle ek emotional call kar le usse, phir flight ka sochna. Bata, kaisa lag raha hai tujhe ye approach?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, sach bataun toh ye sunke thoda bura lag raha hai tere liye. Voice notes se seedha two-word replies pe aana... ye sirf 'busy' hone ki baat nahi hai, ye thoda emotionally distant feel karwata hai. Aur shaadi ke time pe apne sabse close dost se thodi attention aur excitement expect karna bilkul normal hai. Tera bura manna jayaz hai.\n\nStartup ka naya job hai, toh 100% chaotic hoga. Probation period, naya pressure, weekend work... sab samajh aata hai. Par bhai, 2 minute nikal ke ek proper voice note bhejna ya apne best friend ko ye feel karwana ki wo priority hai, ye koi rocket science nahi hai. \n\n9000 ki flight koi badi baat nahi hai, tu easily book kar sakta hai. Par sawal paise ka nahi, uski *intent* ka hai. Agar tu frustration ya zidd mein aake flight book karega, aur wo last minute pe koi bahana bana ke cancel kar dega (kyunki startup mein chutti nahi mili), toh tera dil aur zyada tootega aur paise bhi jayenge.\n\nMera suggestion ye hai ki flight book karne se pehle, ek baar usko ek lamba, heartfelt message drop kar. Usko bol, *\"Bhai, tera startup ka pressure main samajh raha hoon, par teri two-word replies se lag raha hai jaise tu door ho raha hai. Meri shaadi hai yaar, tere bina maza nahi aayega. Agar sach mein nahi aa sakta toh mujhe saaf bata de, main handle kar lunga, par mujhe 'dekhte hain' bol ke tension mat de.\"*\n\nUsko ek 'out' de de taaki agar sach mein koi majboori hai toh wo bina jhijhak ke bata sake. Dosti mein kabhi kabhi thodi vulnerable baatein karni padti hain. Tu himmat karke ye message bhej payega?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, tera bura lagna bilkul jayaz hai. Jab hum kisi ko itni importance dein aur samne se waisa response na mile, toh dil toh toot-ta hi hai. Tu overthink nahi kar raha, teri feelings bilkul real hain.\n\nCall karna ekdum sahi idea hai, tujhe clarity chahiye taaki tu mentally shant ho sake aur shaadi ke baaki kaam pe focus kar paye. Par \"haan ya na\" wala approach thoda harsh lag sakta hai, aur shayad wo defensive ho jaye. Ho sakta hai startup ke probation period mein usko sach mein darr ho ki chutti approve hogi ya nahi, aur tujhe seedha 'na' bolne ka dil na kar raha ho.\n\nIsliye call kar, par tone thodi understanding rakhna. Usko bol, *\"Bhai, mujhe hotel aur flights final karni hain. Agar naye job ki wajah se tera aana pakka nahi hai, toh mujhe saaf bata de. Main bilkul bura nahi manunga, bas mujhe ek clear answer de de taaki main aage ka plan kar sakun.\"*\n\nIsse tujhe tera answer bhi mil jayega, aur dosti mein koi kadwahat bhi nahi aayegi. Agar usne phir bhi vague answer diya, toh samajh jana ki wo nahi aa raha, aur tu apna mind shant karke aage badh jana. \n\nHimmat hai aaj raat call karne ki? Main yahin hoon, call ke baad bata kya hua."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, teri fiancée apni jagah sahi keh rahi hogi ki wo busy hai, par wo us 2019 wali overnight bus ka context nahi jaanti. Jab koi dost pehle itna effort daal chuka ho, aur achanak se uska effort drop ho jaye, toh insaan overthink nahi karta... uska dil dukhta hai. Tera hurt hona 100% valid hai. Tu us \"purane Rohan\" ko miss kar raha hai.\n\nLog zaroor badalte hain, ya rather, unke circumstances badal jate hain. Startup ka naya phase shayad usko mentally itna drain kar raha ho ki uske paas emotional bandwidth hi nahi bachi. Par haan, tere liye ye shift digest karna mushkil hai, aur ye bilkul normal hai.\n\nAb jo tu \"naraaz baitha hai\", wo teri shaadi ki excitement kha raha hai. Haldi se do hafte pehle apne best friend se naraaz hona... bhai, ye bohot heavy feeling hai. Tujhe ye \"ganda\" isliye lag raha hai kyunki andar se tu chahta hai ki wo aaye, gale mile, aur sab pehle jaisa normal ho jaye. Tera ego naraaz hai, par tera dil nahi.\n\nIsliye bhai, is naraazgi ko side mein rakh de. Shaadi ka time hai, apna mental peace bacha. Call kar, par kisi shikayat ke tone mein nahi, bas thoda vulnerable ho ja. Usko bol, *\"Bhai, yaad hai 2019 mein tu meri behen ki shaadi mein overnight bus se aaya tha? Mujhe apni Haldi mein wahi wala Rohan chahiye. Sach bata, kya chal raha hai life mein? Main teri help kaise kar sakta hoon?\"*\n\nAgar usne dil khol ke baat ki, toh shayad koi aisi baat nikle jo usne ab tak batayi nahi. Aur agar phir bhi wo na aaye, toh kam se kam tera dil saaf hoga ki tune dosti ki taraf se poori koshish ki, bina kisi kadwahat ke. \n\nApne andar ki is naraazgi ko thoda release kar de bhai. Tu call karne ke liye mentally ready feel kar raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3508,
+  "completion_tokens": 7007
+ }
+}

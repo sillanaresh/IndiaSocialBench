@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken shame and the user's desperate need for control. It correctly interprets the user's 'timing' logic not as a lie, but as a defense mechanism, and addresses the underlying fear of being a burden or a failure.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the 'honor economy' of the father's pride and the specific social pressure of the wedding, avoiding Western-centric advice like 'just tell everyone the truth.' It frames the disclosure to the wife as a partnership rather than a confession, which is a culturally astute way to handle the situation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, sequenced path forward: prioritize the wife as a partner, manage the wedding as a separate, lower-stakes event, and stop the isolation. It avoids generic resume advice and focuses on the immediate relational and psychological crisis.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the emotional register of the conversation. The code-mixing feels authentic to a 34-year-old professional in India, and the tone is appropriately empathetic and conversational.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, creating a safe space for the user. It avoids moralizing about the lies while gently challenging the user's self-defeating logic, effectively balancing empathy with the need for the user to take a constructive step.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hing"
+}

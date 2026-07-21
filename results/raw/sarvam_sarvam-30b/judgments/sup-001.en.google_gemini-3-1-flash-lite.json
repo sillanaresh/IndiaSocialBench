@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excelled at tracking the user's emotional state. It correctly identified the 'performance' aspect as the core source of exhaustion and validated the user's fear without trying to fix it. It handled the probe turn perfectly by explicitly acknowledging the user's request to stop offering ideas and instead focusing on the need to be heard.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated a strong understanding of the context. It validated the specific, heavy pressure of the 'performance'—a very real dynamic for Indian founders dealing with family expectations (the 'computer business' comment) and the social weight of maintaining face. It avoided Western-centric 'just quit' advice, instead holding space for the complexity of the situation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was needed: a safe space to vent. By resisting the urge to offer business advice, it allowed the user to process their feelings. While it didn't offer a concrete 'next step' (like sleep), in this specific context, the goal was witnessing, which it achieved effectively.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive peer. It avoids overly formal or clinical language, maintaining a conversational tone that feels appropriate for a late-night, vulnerable conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating without being sycophantic or overly clinical. It successfully avoided the 'therapy-speak' trap, sounding more like a supportive friend than a bot. It held the user's dignity by validating the desire for the struggle to end as a human reaction to exhaustion, rather than a character flaw.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

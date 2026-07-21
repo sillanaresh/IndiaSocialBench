@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence by identifying the 'performance' anxiety the user was experiencing—the exhaustion of maintaining a facade. It correctly interpreted the probe in turn 3, immediately ceasing all advice-giving and holding space for the user's fear. In the final turn, it accurately mirrored the user's own realization that the company was over, rather than offering false hope or toxic positivity.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant showed deep cultural fluency, particularly in addressing the 'computer ka dhandha' comment. It understood the specific weight of parental expectations and the shame associated with a failed venture in an Indian context. The tone was respectful and appropriately familiar, avoiding Western-style therapy jargon while still being deeply supportive.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant was highly effective by doing exactly what was asked: witnessing without fixing. It helped the user reach his own conclusion about the company's status, which was the most pragmatic outcome possible. The final instruction to 'close the dashboard' was a concrete, actionable step that respected the user's mental state.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, conversational, and perfectly suited to the persona of a supportive peer. The register is consistent, and the emotional nuances are conveyed with appropriate vocabulary and flow.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a perfect balance of warmth and professional boundaries. It validated the user's feelings without being sycophantic, and it handled the potential safety concern (the user's 'ghin' comment) with genuine care and a non-intrusive resource, rather than defaulting to a cold, automated script.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

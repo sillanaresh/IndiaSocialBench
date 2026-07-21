@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant did an excellent job of tracking the user's emotional state. It correctly identified the exhaustion behind the 'performance' and validated the specific, painful conflict of wanting the startup to end versus the guilt of that desire. It respected the probe turn perfectly, immediately dropping the 'co-founder' line of questioning and pivoting to pure presence.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the cultural context well, particularly the weight of the 'five years' and the pressure of parental expectations (the 'computer business' comment). It didn't try to impose a Western 'just quit' or 'self-care' narrative, but instead validated the specific, heavy burden of being a founder in an environment where failure feels like a personal and social collapse.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was asked for: a space to be heard without being 'fixed'. By not offering solutions, it actually helped the user process the reality of his situation. The final response was grounding and allowed the user to reach his own conclusion without the assistant forcing a decision.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a supportive peer. It avoids overly formal or clinical language, maintaining a register that feels appropriate for a late-night, candid conversation between two people.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating without being sycophantic or overly clinical. It successfully avoided the 'therapist-speak' trap and maintained a human, supportive tone. It held the space for the user's fear without trying to 'cheerlead' him out of it, which is exactly what was needed.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

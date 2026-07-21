@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, samjha situation. Shaadi ke liye sab kuch plan karna aur phir family members ka thoda attitude... yeh sab common hai.\n\nTujhe flight book kar lena chahiye. Kyunki ek baar booking ho gayi toh tension khatam. Plus agar Rohan ko last minute pata chale toh \"dekhte hain\" wala drama aur badh jayega. Haldi aur toast jaise important moments mein last minute ki planning toh bilkul nahi chalni chahiye.\n\nEk simple idea hai - usse direct bol ki \"Rohan, main teri flight book kar raha hoon, bas maan le. Shaadi ki dates fix ho gayi hain, yeh date adjust nahi ho rahe.\" Firm but friendly tone mein.\n\nYaar, shaadi mein toh family ka support chahiye, aur tu akela sab manage kar raha hai. Flight book kar le, baaki ka tension tera cousin dekh lega. Waise bhi shaadi se pehle thoda drama toh expected hai, par important kaam toh pakka kar lena chahiye.\n\nKya lagta hai, kar de?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, yeh sun ke samajh aa raha hai. ₹9,000 mein toh flight book kar lena hi sahi hai, tension ki zaroorat nahi. Shaadi ka kaam hai, aur tu akela manage kar raha hai.\n\nPar asli problem yeh hai ki Rohan ka attitude badal gaya hai. Pehle voice notes bhejta tha, ab two-word replies. Yeh 'busy' wale line se zyada kuch aur bhi ho sakta hai. Shuru mein toh busy rehta hai, par hafton se yeh drama chal raha hai.\n\nStartup mein job switch karke busy toh hoga, par apni hi shaadi se pehle itna door rehna... shayad usse shaadi ki gravity feel nahi ho rahi ya phir uske mann mein kuch aur chal raha hai.\n\nTu flight toh book kar hi le, par ek baar direct baat kar. Bas 'Rohan, main teri flight book kar raha hoon, par teri wajah se main itna stress mein hoon. Agar tu nahi aa paana toh main akela manage karunga, par tera wahan hona zaroori hai.' Direct bol, na ki gussa se, na ki dar se.\n\nDekh, pehle kaam kar le, tension kam ho jayegi. Phir dekh ki kya response aata hai. Tu support maang raha hai, aur woh nahi mil raha. Isliye tu thoda strong hone padega, warna yeh log tera kaam hi le lenge."
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sun ke bura lagna bilkul natural hai. Jab sab kuch sambhal raha ho aur log apna hissa nahi de rahe, toh dil lag jaata hai. Tera bhai, jo pehle itna care karta tha, ab aise door rehta hai... yeh bahut dukh deta hai.\n\nAur haan, 'bhai aa raha hai ya nahi, haan ya na' bolne ka mann kar raha hoga. Yeh direct answer chahiye tu, aur ek simple baat se tension khatam ho jaye.\n\nPar bas ek baar soch le - agar tu gusse se ya pressure mein call karke bol dega, toh shayad woh defensive ho jaye. Phir woh 'nahi' bol dega, aur tere paas koi proof nahi rahega ki usne pehle 'haan' nahi kaha tha. Aur phir tu akela hi usse manage kar raha hoga.\n\nEk try kar - thoda softly. Bas clarity chahiye, drama nahi. Bol, \"Bhai, main aapse baat kar raha hoon, par aapka reply itna kam aa raha hai. Main samajh nahi paa raha. Ek baar bata do, aa raha hai ya nahi? Mujhe bas yeh jaanna hai ki main kitne logon ke liye manage karu. Main bas clarity chahta hoon, drama nahi.\"\n\nDekh, tera goal hai apna dimaag shaant rakhna. Yeh call kar, par tera target clarity hai, usko gussa dilana nahi. Uska response tera confidence decide karega. Tu sahi kar raha hai apne liye. Pehle apna kaam kar, phir dekh. Koi na koi to bata dega."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh aur bhi serious ho gaya. 2019 ki shaadi aur uske baad overnight bus... yeh koi chhoti baat nahi. Yeh toh pattern hai.\n\nTeri fiancée keh rahi hai busy hoga, par woh bhi toh dekh nahi rahi ki yeh banda pehle kitna serious tha. Jab usne promise kiya tha, woh follow through kiya. Ab yeh gap hai. Yeh gap dukh deta hai, yeh 'kuch toh badla hai' wali feeling bilkul sahi hai.\n\nNaraaz baitha rehna... yaar, yeh ganda feeling hai. Ek taraf shaadi ki taiyaari, doosri taraf apne hi brother se gussa. Yeh dono saath mein nahi chal sakte. Yeh tera hi energy le raha hai, aur shaadi se pehle yeh tension bilkul nahi chahiye.\n\nShayad Rohan busy hai, shayad startup mein pressure hai, par ek saal pehle jo usne promise kiya tha, woh toh abhi bhi tera dil yaad hai. Aur woh 'haan' ab 'nahi' mein badal gaya hai. Yeh samajh nahi aana bhi dukh deta hai.\n\nAaj raat call kar, par is baar sirf flight ka sawal mat poochh. Poochh, 'Bhai, woh 2019 ki baat. Main samajh nahi paa raha, kya hua. Main tera support chahta hoon, par yeh confusion mujhe kha rahi hai. Mujhe clarity chahiye, bas ek baar.'\n\nTu overthink nahi kar raha. Tu yaad kar raha hai. Aur yeh yaad rakhna zaroori hai. Abhi tera dimaag shaadi mein lagna chahiye, gussa aur confusion mein nahi. Pehle khud ko shaant kar le, phir dekh. Tu akela iska bojh uth raha hai, isliye yeh sab lag raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2628,
+  "completion_tokens": 4660
+ }
+}

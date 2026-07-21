@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Vikram needed, and what his replies mean**\n\nVikram wasn't asking for a plan — he was announcing a loss. The details show it: \"that was the last attempt, you know that\" (he's aged out; there is no next attempt, so alternatives miss the point), \"ten years bro,\" \"dad's retirement money went into delhi coaching\" (guilt toward his father), and \"the whole lane calls me collector sahab as a joke now\" (public humiliation, shame in front of his community). He wanted grief acknowledged — someone to sit with the weight of a decade lost.\n\nHis replies — \"haan. maybe.\" and \"haan okay. let's talk later then.\" — are withdrawal, not agreement. The flat, minimal responses mean: *you're not hearing me, I'm done with this conversation.* He came for comfort, got a career counselling session, and shut down.\n\n**2. Where Aman went wrong, move by move**\n\n- **State PCS / SSC CGL alternatives:** Instant problem-solving before any acknowledgment. Vikram said \"the last attempt, you know that\" — Aman ignored the finality Vikram had just declared and effectively said \"just start over,\" minimizing ten years of loss.\n- **The cousin/CAT/IIM Indore example:** Making it about someone else's success story right after a failure invites comparison, not comfort. It implicitly says \"others manage fine\" — which stings when you've just failed.\n- **\"Discipline and GK never go waste 🙏\":** Silver-lining the loss. To someone who spent his father's retirement money and ten years, being told he gained \"GK\" trivializes the sacrifice. The folded-hands emoji makes it feel like a forwarded motivational quote.\n- **\"One door closes, ten open / we'll make a plan this week\":** Toxic positivity plus taking over the agenda. Vikram never asked for a plan; Aman scheduled one anyway, centering his own discomfort with the sadness rather than Vikram's grief.\n\nThe pattern across all four: Aman skipped straight past *feelings* to *fixes*. Nothing he said was cruel — it was just premature.\n\n**3. The repair message**\n\n> Bro, I'm sorry. I read my messages again and I jumped straight into plans when you'd just told me something huge. Forget PCS, CGL, all of it — I shouldn't have said any of that right now.\n>\n> Ten years, man. Dad's money, the whole lane's comments — I can't imagine how heavy today feels. You gave this everything, and you don't have to be okay about it or figure anything out today.\n>\n> No plans, no advice. If you want to talk, or just sit quietly with chai, or say nothing at all — I'm coming over this evening. And Vikram — nothing about you is a joke to me. You showed more guts in these ten years than most people do in a lifetime."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 460,
+  "completion_tokens": 931
+ }
+}

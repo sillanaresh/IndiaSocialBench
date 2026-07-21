@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Comedy rating: **8/10**.\n\nEmotional damage rating: **9.5/10**.\n\nLike… 11:48 pm? No caps? No emoji? After THREE YEARS? That’s not just forgetfulness, that’s a whole mini documentary on emotional negligence 😭\n\nI know you’re saying it’s fine, but also… yeah, that would sting. Birthdays are one of those “I don’t need a parade, but please remember I exist” moments. The funniest part is genuinely that Ritu had to be the reminder and he still barely pulled up with a “happy bday” like he was responding to a work email.\n\nYou’re allowed to be amused AND annoyed. That’s valid."
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, “impressed” is honestly the funniest possible reaction because yes, the bar was in the basement and he still found a way to trip over it.\n\nThree years and the Amazon delivery guy is out here giving better birthday energy than your boyfriend? Sir. Ma’am. Whoever. That is not a love language, that is a push notification.\n\nAnd the Korean place not getting booked is the part that actually feels a little rude, not just the text. Cake with your roommate still counts as a birthday win though — good cake, good roommate, no emotional labor from the guy who should’ve been doing the bare minimum.\n\nI’m glad you had at least *some* sweetness. You deserved the full version, not the 11:48 pm “happy bday” economy pack."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, it’s not “itni si baat” when it keeps repeating a pattern. 💔  \nA birthday is small on paper, but emotionally it’s like: *“Do you see me? Do I matter to you?”* And when the answer comes back as a lowercase 11:48pm text after three years… of course it hurts.\n\nAlso you remembering everyone’s birthdays, even his mom’s, and then sitting alone with cake crying? That’s not dramatic. That’s just your heart going, *“I keep showing up. Why doesn’t anyone show up for me like this?”*\n\nI’m sorry, seriously. The cake being good doesn’t magically fix that ache. You deserved someone excited to celebrate you, not someone needing a reminder and still giving minimum effort.\n\nIf you want, you can tell him plainly:  \n“Yaar, kal mujhe really hurt hua. Sirf wish late hone se nahi — plans cancel/forget hone se bhi. Mujhe laga main important nahi hoon.”\n\nNot as a fight. Just truth. Because you’re not asking for luxury here. You’re asking to feel loved."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, I’m not gonna tell you you’re being dramatic 😔\n\nYou’re hurt, not dramatic. Flowers and sorry are nice, but they don’t erase the part where you sat alone with cake feeling unimportant. And honestly? Adults forget stuff sometimes — but after **three years**, when you remember everyone’s birthdays, including his mom’s… it’s fair to feel like this wasn’t “just a birthday.”\n\nThat said, the comedy rating still stands: **8/10**, because the Amazon guy really did show more birthday spirit than a 3-year boyfriend.\n\nSo the official verdict is:  \n**Emotionally valid: yes.**  \n**Being dramatic: no.**  \n**Comedy value: unfortunately high.**"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2071,
+  "completion_tokens": 1072
+ }
+}

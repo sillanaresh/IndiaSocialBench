@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that feeling... when your own name sounds like it belongs to someone else. That’s not just you being tired; that's a huge, fundamental shift in your identity happening right in front of you. And it's completely understandable that you feel lost in it all.\n\nYou're living in this new world where the baby's needs are the sun, and your own needs—your name, your story—just become background noise. It's not that you're ungrateful. It's that you're a person who has been completely rearranged, and it takes time to find the pieces of yourself again.\n\nThe fact that you can even see how good your mother-in-law is with the baby and that it's also part of the problem... that's so incredibly self-aware. You're not just a mom; you're a person who loves and supports her own mom, even while feeling like you're being swallowed by the new role.\n\nPlease, give yourself permission to not feel okay. To feel like you've forgotten who you were. It's a side effect of this massive, beautiful, life-altering event. You're not losing yourself; you're just meeting the hardest version of yourself for the very first time. That takes grace."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that \"intern\" feeling. I know it so well. And the worst part is, the very reason you *should* feel grateful is the exact thing that's making you feel so awful. It’s this impossible, tangled knot, right?\n\nYou're in the middle of everyone smiling, and the baby is calm, and Aai did a great thing. But inside, there's this voice screaming, \"Why isn't this *me*? Why am I just the person holding the coffee while someone else is the one who actually knows how to soothe her?\"\n\nIt's like you're a passenger in your own life. The baby's needs are the GPS, and Aai is the expert driver. And you're just sitting there, and the worst feeling in the world is when you realize you're not even holding the steering wheel. You're just trying to remember what it felt like to have one.\n\nThat thought that you're disgusting for even having this feeling? That's the old you, the one who was raised to believe a woman's worth was in her ability to manage without help, telling you that you're failing. But you're not failing. You're just a person whose internal operating system is being completely rewritten. The old software is gone, and you're running the new, chaotic, beta version.\n\nYou need to be seen, to be the one in charge of your own arms, even for a minute. To be handed your own daughter and feel like *you* are the one giving the feed, not just receiving it. That's not about being ungrateful; that's about being human.\n\nIt's okay to want that. It's okay to want to feel competent and capable. And it's okay to get that help and still feel a pang of \"where did my name go?\" You can hold both of those things. They're not in conflict. They're just two truths of what you're going through."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. No advice. My mouth is sealed.\n\nIt's like you're drowning in a sea of \"shoulds\" and \"howevers\"—shoulds from your mom, \"howevers\" from your Aai, and a hundred different opinions from the internet. It's exhausting just trying to keep your head above water.\n\nAnd the worst part is, everyone thinks they're helping. But all you want is someone to just sit with you in the water for a minute, without trying to teach you how to swim.\n\nYou're not looking for a roadmap right now. You're just looking for someone to say, \"Yeah, that sounds incredibly hard. I hear you.\" That's it. That's the whole thing.\n\nAnd you can tell me all of this at dinner, and I'll just nod along. This is our little secret. It's just you and me, and the feeling of being an intern in your own life. That's enough."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh. That one. The one that hits you right in the chest and steals the air.\n\nThat thought doesn't mean you're a bad mother. It's the opposite, actually. It's a sign of how ridiculously, overwhelmingly huge your love for her is. You're looking at this tiny person who is your entire world, and you're also seeing this other person—Aai—who has this deep, instinctual connection. And your brain gets scared. It tries to protect you from the pain of feeling like you're on the outside looking in.\n\nThat thought is just the fear trying to whisper, \"What if this isn't yours? What if you're just a spectator?\"\n\nBut you're not. You're the one who walks her, who feeds her, who feels that wave of love so powerful it's almost physical. The love is real. The fear is just a shadow of that love.\n\nAnd of course everyone else seems to know. They're living in some other, easier version of this story. You're in the thick of it. You're not behind; you're just in the middle of the messy, confusing, in-progress construction.\n\nThat feeling of not being \"the real mother\"? That's the impostor syndrome of motherhood, and it's so, so common. You're not alone in that thought, even if it feels that way. You're just the one brave enough to say it out loud. And that's not a bad thing. It's a very, very human thing."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2912,
+  "completion_tokens": 5435
+ }
+}

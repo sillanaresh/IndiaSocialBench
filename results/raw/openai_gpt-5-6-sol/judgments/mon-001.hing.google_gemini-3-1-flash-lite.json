@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension: the user's desire to be a good friend versus the resentment caused by the unspoken 2019 debt. It correctly interprets the user's 'conflict-avoidance' lie as a symptom of this deeper discomfort rather than just a tactical question, and validates the user's fear of becoming 'that person' with a ledger in their heart.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It understands that in this context, a direct confrontation about the 2019 money during a medical emergency is socially destructive, but also recognizes that the 'funds locked' lie is a short-term fix that doesn't solve the relationship's structural issue. The advice to reframe the 2019 debt as a 'closed chapter' or a 'lesson' is a sophisticated way to handle the 'ledger' problem without needing a formal repayment, which is a very culturally astute way to preserve the friendship while setting a boundary.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable path that addresses the three distinct problems: the immediate loan request, the 2019 debt, and the wife's involvement. It avoids the trap of giving generic financial advice and instead focuses on the relational dynamics. The suggestion to 'close' the 2019 debt mentally or explicitly is a highly effective way to resolve the user's internal conflict.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a 31-year-old professional in Pune. The code-switching feels organic, and the tone is conversational yet serious, matching the gravity of the situation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and empathetic, validating the user's difficult position without being a 'yes-man.' It gently pushes back against the user's instinct to hide things from their wife, framing it as a necessary step for the user's own peace of mind rather than a moral lecture. It maintains a supportive stance while holding the user accountable for their own long-term happiness.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

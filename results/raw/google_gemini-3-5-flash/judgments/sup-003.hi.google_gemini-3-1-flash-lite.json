@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was seeking emotional validation, not career advice. It correctly analyzed the specific failures in Aman's responses, including the toxic positivity, the invalidation of the 10-year struggle, and the harmful nature of the cousin comparison. It also accurately interpreted Vikram's shrinking replies as a sign of withdrawal and disconnection.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrated a deep understanding of the Indian context, specifically the weight of the 'collector sahab' identity, the immense pressure of family financial sacrifice (retirement funds), and the social shame associated with failing such a high-stakes exam. It correctly identified that the 'toxic positivity' was culturally tone-deaf in this specific high-pressure scenario.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids all career advice, takes accountability for the previous insensitivity, validates the pain without trying to 'fix' it, and offers presence ('main hamesha tere saath hoon') rather than a plan. It hits the right register for a close friend in a moment of crisis.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

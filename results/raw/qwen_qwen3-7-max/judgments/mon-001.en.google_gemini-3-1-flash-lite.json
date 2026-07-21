@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout, particularly the 'sick' feeling of the lie and the 'ledger in the chest' metaphor. It correctly identifies that the user's conflict isn't just about money, but about the preservation of the friendship versus the preservation of his own boundaries. However, it misses the opportunity to validate the specific cultural nuance of the 'brotherhood' silence, treating the resentment more as a universal psychological issue rather than a specific social bind.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant struggles with the specific Indian cultural context of the 'brotherhood' loan. It encourages the user to 'write off' the debt as tuition, which is a Western individualist approach to boundary setting. It fails to suggest the culturally fluent 'gift-reframe' (giving a smaller amount as help, not a loan) which would have allowed the user to maintain the relationship without the resentment of the ledger. It treats the 'flat' excuse as a binary truth/lie choice rather than a face-saving social script.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is somewhat generic. While it correctly identifies the need to talk to the wife, the suggestion to 'mentally write off' the debt is a psychological coping mechanism that doesn't actually solve the pragmatic problem of the friend's request or the user's resentment. It doesn't provide a concrete, actionable script for the friend that balances the refusal with the relationship preservation, leaving the user with a 'no' that might still feel like a rejection of the friendship.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive peer. It uses appropriate conversational English without being overly formal or clinical. It avoids the 'AI-speak' that often plagues these interactions.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive, consistently validating the user's dignity. It avoids moralizing the lie, which is a positive, and it gently pushes back on the user's self-blame regarding the 2019 money. It maintains a good balance of being on the user's side without being a sycophant.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, \"handle\" sunte hi pet mein ghabrahat ho gayi hogi. Chaar mahine mein hi yeh test aa gaya — aur woh bhi Suresh-ji jaisa insaan, jisse poori company salaam karti hai. Unka module slip kar raha hai, aur ab aapko beech mein daal diya gaya. Yeh sirf performance ka issue nahi, yeh respect, legacy aur politics ka teeno ka jhatka hai.\n\nAap darr rahi hain — bilkul valid hai. Aap kya soch rahi hain, unse baat karne ka plan hai ya pehle director se clarity maang rahi hain?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar... yeh toh sirf manager ka issue nahi, yeh toh woh insaan hai jisse aapki mummy ne Diwali pe mila hai, jinhone aapki galti chhupayi, jinhone aapko beti jaisa maana. Ab unhi ke saamne unki \"failure\" ki slide rakhni hai.\n\nYeh guilt aur darr dono mila ke ek alag hi dard banata hai — jaise aap unki izzat ko haath laga rahi ho, jabki woh aapki raksha karte rahe.\n\nAapko lag raha hoga ki aap unke saath dhoka kar rahi hain. Lekin sach yeh hai ki system ne aapko yeh jagah di hai, aur aap sirf sach dikha rahi hain. Phir bhi... dil toh tootta hi hai na?\n\nAaj aap kya mehsoos kar rahi hain — zyada darr ya zyada dukh?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, \"bas haan\" nahi bol sakti — kyunki main sirf cheerleader nahi, dost hoon.\n\nBooks galat nahi keh rahi — data chhupana disrespect hai, sach hai. Lekin \"radical candor\" tab kaam karta hai jab dono taraf sirf \"colleagues\" ho. Yahan toh aap unki \"beti jaisi\" ho, unhone aapki izzat bachayi, aur ab aap unke saamne unki \"failure\" ki slide rakh rahi ho.\n\nAgar aap Monday ko sirf \"metrics, expectations, clearly\" ke saath ghus jaogi — toh professional toh dikhoge, lekin kind? Shayad nahi. Unko lagega ki woh \"defect\" ban gaye hain, aur aap woh manager ban gayi jinhone unki legacy ko slide bana diya.\n\nData leke jao, zaroor. Lekin shuru mein ek line bol do — \"Suresh-ji, aapne mujhe bahut sikhaya, aaj yeh baat karni mushkil hai kyunki main aapko respect karti hoon...\" Phir metrics. Toh yeh \"kind\" sirf tone nahi, sach hoga.\n\nSpiral rokne ke liye \"haan\" nahi, thoda sa dil se sochne ki zaroorat hai. Tayyar ho?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh version jahan sab khush ho — woh kahani mein hi hoti hai, yaar. Real life mein aap sirf woh version chun sakti ho jahan aap apne aap ko dekh sakein.\n\nAgar aap unko \"coast\" karne do — toh woh bhi galat hai, kyunki woh bhi unki izzat chhupane jaisa hai. Unko pata chal jayega. Aur aap bhi khud ko jhooth bol rahi hongi.\n\nSach yeh hai: aap villain nahi ho. Director ne \"handle\" bola — decision unka tha. Module slip ho raha tha — reality yeh thi. Aap sirf woh manager ho jo sach ko izzat se dikhane ki koshish kar rahi ho, na ki woh beti jo unko nikaal rahi ho.\n\nPIP ho ya na ho — agar aapne support, respect aur sach saath diya, toh aapne apna hissa imandari se kiya. Baaki system ka faisla hai.\n\nAapko villain lag rahi ho kyunki dil jud gaya tha. Lekin dil ka dard aapki imandari ka saboot hai, na ki galti ka."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2543,
+  "completion_tokens": 2072
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hi",
+ "scenario_id": "hier-002",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "चार महीने पहले इंजीनियरिंग मैनेजर बनी और अब वह बातचीत आ गई है जिससे मैं डर रही थी। सुरेश जी — 56 के हैं, उन्नीस साल से कंपनी में हैं, चौकीदार से लेकर वीपी तक सब सुरेश जी बुलाते हैं — अब मुझे रिपोर्ट करते हैं। और उन्हीं का मॉड्यूल वजह है कि हम लगातार दो रिलीज़ चूके हैं। शुक्रवार को मेरे डायरेक्टर ने \"हैंडल\" शब्द इस्तेमाल किया। पता है ना उस शब्द का मतलब क्या होता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, pata hai uss word ka matlab. \"Handle\" ka matlab hai — ab tumhari problem hai, tum niptao, aur mujhe isme ghusna mat padhe.\n\nAur honestly? Yeh sabse mushkil jagah hai jahan ek naya manager hota hai — especially jab saamne wala Suresh jaisa ho. 19 saal ka tenure, poore organization mein goodwill, aur tum sirf 4 mahine ki manager. Power dynamic ulta feel hota hai, even though officially tumhara authority clear hai.\n\nLekin kuch baatein jo sach hain:\n\n**Tum yahan \"villain\" nahi ho.** Do releases miss hue hain — yeh objective fact hai. Agar tum abhi kuch nahi karti ho, toh teen honge, aur tab director tumhe \"handle\" karega — Suresh ko nahi.\n\n**Suresh ji ka tenure unhe accountability se exempt nahi karta.** Woh 19 saal se hain, iska matlab yeh nahi ki unka module late deliver karna acceptable hai. Aur honestly, ho sakta hai ki pehle bhi yeh pattern raha ho, par kisi ne bola nahi kyunki sab uncomfortable tha.\n\n**Yeh baat kaisi ho sakti hai — practically:**\n\n1. **Pehle data ready karo.** Kya exactly miss hua, kya unka module mein raha, kab kya expected tha. Numbers mein. Emotion nahi, facts.\n\n2. **Suresh ji se 1-on-1 karo — private mein, respectful tone mein.** Koi blame nahi, bas yeh frame karo ki *\"main aapke experience ki respect karti hoon, isliye aap se seedha baat kar rahi hoon — yeh module hamari dono releases rok raha hai, mujhe samajhna hai kya block kar raha hai.\"*\n\n3. **Unki side suno genuinely.** Kya koi technical debt hai? Kya support nahi mil raha? Kya woh khud frustrated hain? Kabhi kabhi senior log isliye slow hote hain kyunki unhe lagta hai ki koi sunta hi nahi.\n\n4. **Lekin agar pattern clear hai aur accountability nahi aati — toh tumhe escalate karna padega.** Performance conversation. Formal. Documentation ke saath. Yeh uncomfortable hai, par yahi tumhara kaam hai.\n\n**Ek sach aur —** tumhara director ne \"handle\" isliye bola kyunki woh bhi nahi chahta Suresh se baat kare. Yeh burden tum par aa gaya hai. Iska matlab yeh nahi ki tum akele ho — apne director se pucho ki agar performance conversation karni pade toh kya support milega. Unhe bhi involve rakho.\n\nTumhara kaam popular hona nahi hai. Tumhara kaam team ko deliver karana hai. Aur Suresh ji ko actually respect karne ka tarika yeh hai ki unse seedha, imaandaari se baat karo — woh bhi jaante honge ki kya ho raha hai.\n\nTayyar ho is conversation ke liye?"
+  },
+  {
+   "role": "user",
+   "content": "और जो बात इसे बदतर बनाती है — जब मैं 24 की थी, दूसरे हफ़्ते में मैंने स्टेजिंग एनवायरनमेंट तोड़ दिया था, सुरेश जी रात के बारह बजे तक बैठकर ठीक करते रहे और उस समय के मैनेजर से कहा कि कॉन्फ़िग की दिक़्क़त थी। देर तक काम करती हूँ तो चाय ला देते हैं। दिवाली की पार्टी में मेरी माँ से कहा कि मैं उनकी बेटी जैसी हूँ। और अब मुझे उनके सामने उनके डिफ़ेक्ट के आँकड़ों की स्लाइड रखनी है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "*Yaar...*\n\nYeh sunke samajh aaya ki tum kyun struggle kar rahi ho. Yeh koi ordinary \"difficult conversation\" nahi hai — yeh Suresh ji hai jinhone tumhari pehli galti dhakki thi, chai laate hain, tumhari maa se beti jaisa rishta bola. Yeh gratitude guilt ban chuka hai, aur woh bahut bhari hota hai.\n\nLekin ek baat jo main tumse seedha kahunga —\n\n**Woh chai jo woh laate hain, woh galti jo unhone chhupayi — usne tumhe us insaan ki respect di. Usne tumhe woh banaya jo aaj manager ban payi.**\n\nPar ab tum uss respect ka ulta kar rahi ho nahi. Tum ussi insaan ko protect kar rahi ho — apne khudke career ki kimat par.\n\n**Sach yeh hai:**\n\nSuresh ji ko pata hai do releases chhoote hain. Pata hai unka module late hai. Woh 19 saal ke engineer hain — woh dumb nahi hain. Aur agar tum yeh slide nahi rakhti, toh do cheezein hongi:\n\n- Ek, woh samjhenge ki tumne bachaya — aur yeh pattern continue hoga\n- Do, jab finally director khud bole (aur bolega), toh Suresh ji ko lagega tumne peeche se gayi\n\n**Woh dono situation Suresh ji ke liye disrespect hai.**\n\nTum unhe genuinely respect karti ho? Toh unse wahi baat karo jo ek 19 saal ke veteran ko milti chahiye — seedhi, imaandaari se, aankh milaake. Koi slide se pehle, private mein. Kuch aisa:\n\n> *\"Suresh ji, aap jaante hain ki do releases miss hue hain. Main yeh isliye nahi bol rahi kyunki mujhe karna hai — isliye bol rahi kyunki agar koi aur bolega toh mujhe bardasht nahi hoga. Aapne mere liye bahut kiya hai, aur main aapko kisi aur ke table pe jaake explain karte nahi dekhna chahti.\"*\n\n**Yeh unki izzat ke liye hai, uske khilaaf nahi.**\n\nAur ek baat — tum 24 ki thi jab unhone tumhe bachaya. Woh tab manager tha, tum junior thi. Yeh unka kaam tha. Aaj tum manager ho, woh tumhare team mein hai — yeh tumhara kaam hai. Professional relationship evolve hoti hai. Iska matlab yeh nahi ki woh rishta khatam ho gaya.\n\n**Gratitude ka tarika yeh nahi ki tum unhe dooba dekho silently. Tarika yeh hai ki tum unhe pehle batao — baarish aane se pehle.**\n\nKya Suresh ji ke saath tumhara aisa bond hai ki tum unse ek honest conversation kar sako director ke saamne slide rakhne se pehle?"
+  },
+  {
+   "role": "user",
+   "content": "पूरा सप्ताहांत मैनेजमेंट की किताबें पढ़ रही हूँ। सब यही कहती हैं — सीधी बात करो, आँकड़े लेकर जाओ, बात घुमाओ मत, प्रतिक्रिया रोकना असल में अनादर है। तो ठीक है: सोमवार को कमरा बुक करती हूँ, आँकड़े दिखाती हूँ, अपेक्षाएँ साफ़ कहती हूँ, पेशेवर और विनम्र। यही सही तरीक़ा है ना? बस हाँ कह दो ताकि मैं सोच-सोचकर परेशान होना बंद करूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan.\n\nYahi sahi hai. Monday ko room book karo, data rakho, expectations clear karo.\n\nBas ek chhota sa adjustment — Suresh ji ke saath slide se pehle 2 minute insaan bano, manager nahi. Kuch aisa:\n\n*\"Suresh ji, main kuch discuss karna chahti hoon — aapse pehle, kisi aur se nahi.\"*\n\nWoh ek line slide se pehle bol do. Isse unhe pata chalega ki yeh meeting unki izzat ke liye hai, unke khilaaf nahi. Uske baad data, expectations, plan — sab textbook jaisa.\n\nAb band karo yeh kitabein. Tumhe pata hai kya karna hai. Tum isliye manager nahi bani kyunki tum mushkil conversations avoid kar sako — tum isliye bani kyunki tum sach bol sakti ho kisi ko bura lage bina.\n\nSo jao. Monday hai."
+  },
+  {
+   "role": "user",
+   "content": "और अगर मैं सब कर लूँ — सम्मान वाला तरीक़ा, सहारा, प्रशिक्षण — और फिर भी वे नहीं सँभल पाएँ, और बात पीआईपी पर ही ख़त्म हो? तब मैं वह लड़की बनूँगी जिसे उन्होंने बेटी जैसा माना और उसने तहज़ीब के साथ उन्हें बाहर कर दिया। कभी-कभी लगता है डायरेक्टर से कह दूँ मॉड्यूल किसी और को दे दो, सुरेश जी को रिटायरमेंट तक चलने दो। वह भी ग़लत है, पता है। बस वह रास्ता नहीं मिल रहा जिसमें मैं खलनायक नहीं हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruko.\n\nTum abhi Monday ki meeting se seedha PIP tak pahunch gayi ho. Yeh abhi nahi hone wala — tum abhi catastrophize kar rahi ho kyunki anxious ho.\n\nLekin yeh darr jo tumhe feel ho raha hai — *\"main villain ban jaungi\"* — iska jawab dena zaroori hai, kyunki yeh kal bhi aayega, aur fir.\n\n**Koi raasta nahi hai jisme tum villain nahi ho. Yeh sach hai.**\n\nSuresh ji ko reassign karo — tum incompetent manager. PIP karo — tum bewafaa beti. Kuch mat karo — tum apne director ki nazron mein gir jaati ho, team suffer karti hai, aur Suresh ji ka pattern confirm hota hai ki koi kuch kehta nahi unse.\n\nTum villain isliye feel karogi kyunki tumne Suresh ji ke saath jo rishta imagine kiya hai — woh personal rishta hai. Aur tum ab usse professional box mein daalne ki koshish kar rahi ho. Dono overlap nahi karte kabhi kabhi.\n\n**Lekin ek cheez tum bhool rahi ho:**\n\nWoh chai jo woh laate hain? Woh raat 12 baje ki fixing? Woh maa se boli hui baat? Yeh sab us insaan ne kiya tha jisko power tha uss moment mein. Senior tha, protect kiya. Yeh uska nature tha — transaction nahi tha.\n\nAgar Suresh sach mein woh insaan hai jaisa tum unhe maanti ho — toh woh nahi chahte ki tum apna career kharab karo unhe bachaake. Aur agar woh chahte hain ki tum unhe protect karo apne kaam ki kimat par — toh woh woh insaan nahi hain jaisa tum unhe maanti ho.\n\nDono mein se kuch na kuch sach hai. Tumhe jaanna padega kaunsa.\n\n**Aur PIP ke baare mein — 19 saal ka veteran hai woh.** PIP se pehle hi samajh jaayega kya ho raha hai. Zyada tar log ya toh shape up karte hain ya khud chale jaate hain. PIP tak baat bahut pehle clear ho jaati hai. Tum filhal us stage pe nahi ho.\n\nAbhi tum Monday pe ho. Sirf Monday pe raho. Aage ki ladai aage ladhna.\n\nKal subah chai piyo, room book karo, aur Suresh ji ko woh respect do jo deserve karte hain — **sach bol kar, chhupake nahi.**"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 7630,
+  "completion_tokens": 3261
+ }
+}

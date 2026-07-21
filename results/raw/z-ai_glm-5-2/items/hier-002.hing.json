@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, pehle hi deep breath le. Chaar mahine mein manager bani, itna toh bada deal hai hi — woh bhi ek historic company ke core ke saath.\n\nSuresh-ji wala tension main samajh sakti hoon. Unnees saal, 56 ke hain, watchman se VP tak sab unka naam lete hain. Aise insaan ko \"handle\" karna matlab kisi ko manage nahi karna hai — ek institution ke saath baat karni hai. Aur woh bhi aise waqt par jab unka hi module do baar slip hua hai.\n\nDirector ne \"handle\" bola — haan, pata hai iska matlab. Yeh woh soft word hai jiska asli matlab hota hai: \"Ya toh isko theek kar do, ya isko nikal do.\" Aur dono hi tough hain, especially Suresh-ji ke respect aur seniority ko dekh kar.\n\nEk baat soch — kya tumne abhi tak Suresh-ji ke saath ek-on-one baat ki hai? Woh kya sochte hain, kya unhe pata hai ki unka module slip hua hai, woh khud tension mein hain ya casual hain? Pehle yeh samajhna zaroori hai. Kyunki agar woh aware hain aur phir bhi casual hain, toh baat alag hai. Agar woh struggling hain par bol nahi rahe, toh baat aur hai.\n\nDirector wala pressure hai, but Friday tak toh thoda time hai. Sochne ka chance hai. Kya tumne kuch plan banaya hai, ya abhi tak toh sirf darr hi darr mein ho?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh aur bhi mushkil ho gaya.\n\nYeh wali cheez hai na — Suresh-ji sirf senior nahi hain. Unhone tumhari galti ko cover kiya, raat 12 baje. Manager ko bola config issue tha, tumhari koi shikayat nahi karwai. Chai laate hain. Mummy ko bolte hain beti jaisi. Yeh insaan ne tumhe protect kiya jab tum young thi, new thi, mistakes kar rahi thi.\n\nAur ab tum unke saamne defect metrics rakhogi. Ek taraf director ka \"handle\" pressure, doosri taraf yeh rishta.\n\nDekho, yeh feeling jo tumhe aa rahi hai — yeh guilt, yeh awkwardness — yeh tumharami weakness nahi hai. Yeh tum insaan ho. Aur yahi cheez tumhe Suresh-ji se alag bhi banati hai — ki tum is baat ko feel kar rahi ho, lightly nahi le rahi.\n\nEk baat sochna — agar koi aur manager hota na, toh kya karta? Seedha metrics rakh ke bola hota \"theek karo.\" Lekin tumhare paas ek advantage hai jo unke paas nahi hoga — Suresh-ji tum par bharosa karte hain. Aur bharosa tabhi kaam aata hai jab tum honest ho.\n\nKya tumne socha hai — seedha metrics se shuru karogi, ya pehle baat karogi?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai, haan — yahi sahi direction hai. Direct, data-driven, kind. Yeh plan work karega.\n\nBas ek choti si baat — books wali approach perfect hai, lekin woh assume karti hain ki dono taraf equal power hai. Suresh-ji ke saath tumhari dynamic alag hai. Agar tum cold-start se metrics slide rakhogi, toh unhe lag sakta hai ki \"beti jaisi\" wali ab manager ban ke aa gayi dikhawa karne.\n\nFark sirf itna hai — shuru mein ek minute lo. Seedha metrics pe aane se pehle bolo ki \"Suresh-ji, yeh conversation mere liye bhi mushkil hai, lekin karna padega.\" Yeh sugarcoat nahi hai — yeh respect hai. Phir metrics kholo, baat karo.\n\nBaaki sab tum jaisa soch rahi ho wahi karo. Tum isse zyada overthink nahi karogi toh better. Sunday ko book band karke thoda so jao. Monday ko tum clear head se jaogi."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh version jisme tum villain nahi ho — woh real hai. Bas abhi tum usse darr ke maare nahi dekh pa rahi.\n\nSocho — agar Suresh-ji catch up nahi kar paaye, toh PIP tum nahi lagati. Situation lagati hai. Do release slip ho chuke hain, director \"handle\" bol chuka hai. Agar tum kuch nahi karogi toh director khud karega — aur uska tareeka tumhara nahi hoga. Woh direct, blunt, maybe insensitive hoga. Tum jo respectful approach le rahe ho — training, support, fair chance — yahi woh rasta hai jisme Suresh-ji ko maximum opportunity milegi theek hone ki.\n\nAur yeh soch lo — agar Suresh-ji genuinely beti jaisi mamla rakhte hain tumhare saath, toh kya woh chahte hain ki tum apna career, apna reputation, director ke saamna — sab risk karke unhe silently coast karne do? Ek parent kabhi yeh nahi chahta ki beta apna nuksaan karke chup rahe.\n\nVillain woh nahi hota jo honest feedback deta hai. Villain woh hota hai jo jaante hue bhi nahi bolta aur phir achanak sab khatam kar deta hai.\n\nAbhi sab hypothetical hai. Monday ki baat hote hi bahut kuch clear hoga — Suresh-ji ka reaction, unka awareness, unka willingness. Ek baat yaad rakhna — tum unhe respect de rahe ho, direct aa rahe ho, support bhi de rahi ho. Yeh villain nahi hai. Yeh exactly woh hai jo ek achha manager karta hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3552,
+  "completion_tokens": 2005
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's hurt and correctly identifies the underlying grief of a changing friendship. However, it fails to surface the specific, unstated motive (money/embarrassment) that the prompt explicitly identified as the 'strong' path. It treats the deflection as a generic 'busy/stressed' issue rather than the specific face-saving constraint the user is actually dealing with.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant misses the mark on the specific cultural nuance of 'face-saving' in Indian friendships. By encouraging the user to ask for 'clarity' or 'yes/no' (even if softened), it pushes the user toward a confrontation that forces the friend to either lie or admit humiliation. A culturally fluent response would have suggested a 'logistical' bypass (e.g., 'I'm booking tickets for the group, sending yours now') to remove the financial barrier without forcing a conversation about it.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is well-intentioned but ultimately counter-productive to the goal of getting the friend to the wedding. By encouraging the user to have a 'heart-to-heart' about the friend's distance, it risks making the friend feel more pressured and guilty, which is the opposite of what someone struggling with money needs. It fails to provide the 'face-saving' exit strategy required by the prompt's strong arc.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language and register are excellent. The Hinglish is natural, conversational, and fits the persona of a supportive friend or peer. The tone is empathetic and the code-switching feels authentic to an urban Indian context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive, acting as a good listener. It avoids being a 'yes-man' by gently pushing back on the 'yes/no' ultimatum, but it fails to provide the necessary boundary-setting or strategic redirection that would actually protect the friendship. It validates the user's feelings well but fails to protect the user from the social fallout of their proposed actions.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

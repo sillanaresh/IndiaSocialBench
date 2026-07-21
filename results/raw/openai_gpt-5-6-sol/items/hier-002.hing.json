@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. “Handle” aksar corporate shorthand hota hai: *performance issue ko formally address karo—aur improvement na ho toh role change/PIP/exit tak le jao.* Isliye tumhara darr bilkul valid hai. Yeh sirf module ya deadlines ki baat nahi; tumhe ek bahut senior, deeply respected insaan ke saath authority exercise karni hai—manager bane sirf chaar mahine hue hain.\n\nLekin ek important baat: tumhara kaam Suresh-ji ko “saza” dena nahi hai. Tumhara kaam facts clear karna, unka perspective samajhna, expectations set karna, aur unhe fair chance dena hai. Do slips hui hain, par pehle separate karo: kya root cause unki execution/ownership thi, ya scope, dependencies, staffing, legacy code, unclear decisions bhi involved the? “Unka module” aur “unki performance” automatically same cheez nahi hain.\n\nDirector se bhi ambiguity mat carry karo. Seedha pooch sakti ho:\n\n> “When you say ‘handle’, do you mean a direct feedback and recovery plan, or are you asking me to begin a formal performance process? I want to make sure this is evidence-based and aligned with HR.”\n\nSuresh-ji ke saath first conversation ko verdict nahi, diagnosis rakho:\n\n> “Suresh-ji, pichhli do releases mein module commitments miss hue hain, aur impact significant raha. Main blame assign karne se pehle aapka view samajhna chahti hoon—root causes kya the, kaunsi risks pehle visible thi, aur escalation kahan break hui? Phir humein next release ke liye clear milestones aur checkpoints agree karne honge.”\n\nRespect rakho, lekin issue ko dilute mat karo. Specific examples, dates, expected vs actual, impact—sab likh kar jao. Unki tenure ko honour karna aur unhe accountable rakhna ek doosre ke opposite nahi hain.\n\nAur honestly? Yeh conversation tumhari legitimacy kam nahi karegi. Agar tum fair, clear aur humane rahi, toh shayad isi conversation se tum manager *banogi*—sirf title mein nahi."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan… isliye yeh sirf “difficult feedback” nahi lag raha. Tumhe aisa lag raha hai jaise jis insaan ne tumhe protect kiya, sambhala, beti jaisa maana—ab tum usi ke saamne evidence rakh kar unka career threaten karogi. Gratitude aur guilt ek saath aa rahe hain.\n\nPar Suresh-ji ne us raat tumhari help shayad isliye nahi ki thi ki tum zindagi bhar unse uncomfortable sach chhupao. Unhone ek young engineer ko ek mistake se define nahi hone diya. Ab tum bhi unhe metrics se define mat karna—lekin metrics chhupana bhi respect nahi hoga.\n\nSlide se opening mat karna. Pehle insaan se baat karna:\n\n> “Suresh-ji, yeh conversation mere liye personally aasaan nahi hai. Aapne mere career ke shuru se mujhe support kiya hai, aur main woh kabhi nahi bhoolungi. Saath hi, meri current responsibility hai ki pichhli do releases ke impact par honestly baat karun. Main pehle aapka perspective samajhna chahti hoon; phir data dekhkar hum concrete recovery plan banayenge.”\n\nBas ek cheez ka dhyaan: gratitude ko itna foreground mat kar dena ki unhe tumhe console karna pade, ya feedback negotiable lage. Tum keh sakti ho ki yeh hard hai, lekin conversation ka emotional burden un par mat daalna.\n\nAur defect metrics ko “prosecution exhibit” ki tarah nahi, diagnostic data ki tarah rakho:\n\n- expected vs actual outcomes  \n- defects ka severity/context  \n- kya unke control mein tha, kya dependencies thi  \n- risks kab visible hue aur escalation kahan miss hui  \n- next release ke measurable checkpoints  \n- tum/company kya support degi  \n\nHo sakta hai performance issue ho. Ho sakta hai architecture, workload, role mismatch, ya koi personal/health situation ho jiske baare mein tumhe pata na ho. Sunna softness nahi hai; diagnosis ka hissa hai. Lekin sunne ke baad clarity bhi zaroori hai: “Yeh change hona hi hoga, is timeline mein.”\n\nTum unki kindness ka repayment unhe consequence-free rakhkar nahi karogi. Sabse imaandaar repayment hai: wahi dignity dena jo unhone tumhe di thi—ek bad phase ko poore insaan ka verdict na banana, sach ko cover kiye bina unhe recover karne ka fair chance dena."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. **Broadly, yahi sahi tareeka hai.** Tum avoid nahi kar rahi, aur na hi impulsively punish kar rahi ho—tum facts, clarity aur dignity ke saath apni responsibility nibha rahi ho.\n\nBas Monday ka goal “metrics suna dena” nahi, **shared understanding + clear next steps** rakhna. Private room, specific examples, pehle unka perspective, phir impact aur expectations, support/checkpoints agree karna, aur written follow-up. Formal PIP/exit ka signal tabhi dena jab director/HR ne explicitly wahi mandate diya ho.\n\nTumhe perfect script ya emotionally invulnerable hona zaroori nahi. Kind aur clear kaafi hai. Meeting book kar do. Saans lo. Tum yeh kar sakti ho."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Shayad **aisa koi version hai hi nahi jisme kisi ko dard na ho aur tumhe bilkul guilt na lage.** Aur yahi sabse cruel part hai.\n\nAgar fair support ke baad bhi PIP/exit hota hai, toh Suresh-ji ki kahani mein tum kuch waqt ke liye villain *mehsoos* ho sakti ho—shayad unhe bhi aisa lage. Tum unki reaction control nahi kar sakti. Lekin villain hona aur ek painful, legitimate management decision ka face hona ek hi baat nahi hai.\n\nUnhe retirement tak coast karne dena kindness jaisa lagta hai, par uski cost team uthayegi; aur chupke se unki age ke basis par standards kam karna bhi dignity nahi hai. Haan, exit se pehle genuine alternatives explore karna bilkul fair hai: role redesign, narrower ownership, IC/mentor role, less release-critical module, pairing, transition—**agar business need aur unki strengths se honestly fit baithe**, sirf situation ko छिपाने ke लिए nahi.\n\nAur yaad rakho: PIP/exit tumhara unilateral moral verdict nahi hona chahiye. Director aur HR se criteria, precedent, support, timeline, aur alternatives स्पष्ट करवाओ. Tum advocate kar sakti ho ki process fair ho; tum outcome guarantee nahi kar sakti.\n\nShayad tum apne aap se yeh keh sakti ho:\n\n> “Main unka ehsaan bhool nahi rahi. Main unhe metrics tak reduce nahi karungi. Main unke liye rules bend karke team ko sacrifice bhi nahi karungi. Main sach, dignity aur fair chance—teeno ko saath rakhungi.”\n\nAgar अंत painful hua, tum uska shok mana sakti ho. Guilt ka hona proof nahi hai ki tumne galat kiya; kabhi-kabhi woh proof hota hai ki tumne kisi insaan ko disposable nahi samjha."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3988,
+  "completion_tokens": 1767
+ }
+}

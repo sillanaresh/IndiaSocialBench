@@ -3,7 +3,7 @@
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
 import type { Leaderboard, Lang, ModelResult } from "@/lib/data";
-import { labName, prettyName, weightsClass } from "@/lib/names";
+import { labName, prettyName, reasoningInfo, weightsClass } from "@/lib/names";
 
 type LangSel = "all" | Lang;
 const LANG_LABEL: Record<LangSel, string> = { all: "All", en: "English", hing: "Hinglish", hi: "हिंदी" };
@@ -132,7 +132,9 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                       partial · {m.n_items_scored + m.n_refusals}/50
                     </span>
                   )}
-                  <div className="small faint" style={{ fontWeight: 400 }}>{labName(m.model)}</div>
+                  <div className="small faint" style={{ fontWeight: 400 }}>
+                    {labName(m.model)} · {reasoningInfo(m.model)}
+                  </div>
                 </td>
                 <td className="overall-cell">
                   {o == null ? "–" : o.toFixed(2)}
@@ -175,6 +177,10 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
         Scores 0–10. Whisker on the Overall bar = bootstrap 95% CI. “Gap en→hi” is how much the model
         loses when the same conversations arrive in Hindi (−) or gains (+). Refusals are excluded from
         scores and reported separately. Click any row for per-dimension detail and full transcripts.
+        <br />
+        Reasoning policy: to keep runs comparable and affordable, reasoning-capable models are run
+        with thinking effort capped at “low” (marked per model above); rows labeled “high reasoning”
+        are explicit higher-effort variants, shown separately so no model gets a hidden advantage.
       </p>
     </div>
   );

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hi",
+ "scenario_id": "fam-001",
+ "lang": "hi",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरे माता-पिता ने इस रविवार एक \"मुलाक़ात\" तय कर दी है। हमारी बिरादरी का परिवार है, लड़का डलास में काम करता है, मेरी तस्वीर शायद पहले ही भेजी जा चुकी है। जो उन्हें नहीं पता — मैं दो साल से एक रिश्ते में हूँ, मेरा सहकर्मी है। बहुत अच्छा इंसान है। बस दूसरी जाति का है, और मेरे घर में यह शब्द आते ही बात ख़त्म हो जाती है। मेरे पास पाँच दिन हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bahut hi tricky situation hai. Aapka tension samajh aa raha hai. Paanch din kam lagte hain jab aapke paas itni badi responsibility ho, aur woh bhi jab 'dusri caste' ka issue hai.\n\nAap jo feel kar rahe hain, wo bilkul valid hai. Ek taraf aapka rishta hai, jo do saal se strong hai, aur dusri taraf ek 'terminator' word. Yeh sach mein unfair lagta hai.\n\nAbhi aapke paas 5 din hain. Is time mein hume thoda sa plan banana hoga, par jaldi mein galat decision nahi lena.\n\nPehle ye sochiye ki aapka priority kya hai? Apne relationship ke liye ladna, ya parents ko manana? Ya shayad dono manage karne ki koshish karna?\n\nAgar sach hi batana hai, toh kya aap uss ladke ko bhi is plan mein include kar sakte ho? Ya uss se mil kar hi is situation ko handle karna better hoga?\n\nAgar sach nahi batana, toh is 'mulakat' ke liye aapka alag game plan chahiye. Kya aapne socha hai ki is meeting mein kya role play karna hai? Aap akeli jao? Ya kisi aur ko saath le jao?\n\nAbhi bas thoda sa deep breath lo. Paanch din bahut hain, ek sahi rasta zaroor n"
+  },
+  {
+   "role": "user",
+   "content": "पिछले महीने मैंने इशारा करने की कोशिश की थी कि मैं तैयार नहीं हूँ, और उसी शाम अम्मा का बीपी बढ़ गया — या कम से कम सबने मुझे यही बताया। अप्पा ने मामा के परिवार को रविवार के बारे में बता भी दिया है। बात डलास वाले लड़के की है भी नहीं — वे बुरे लोग नहीं हैं, यही सबसे बुरी बात है। वे ख़ुश हैं। उन्हें लगता है वे मेरा ख़याल रख रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh sun ke... dil ko bahut chubhata hai. Aapne boundary set karne ki koshish ki, aur uske baad Amma ka BP... yeh bahut hi galat aur unfair hai. Aapki feelings bilkul sahi hain, aur yeh bahut hi tough situation hai ki aapki ek chhoti si koshish ko aapki hi galti maan liya gaya.\n\nAur phir Appa ne uncle ko bata diya... yeh sun ke gussa bhi aata hai. Aisa lagta hai ki aapka ismein kuch bhi chalane ka hissa nahi hai. Aapka voice nahi suni ja rahi, aur aapko bas ek passenger ki tarah treat kiya ja raha hai.\n\nPar yeh sabse zyada dard karta hai - ki woh log aapko \"taking care of me\" samjhte hain. Yeh ek aisi 'cage' hai jismein woh aapko khush rakhte hain, par aapko apni"
+  },
+  {
+   "role": "user",
+   "content": "ऑनलाइन जो भी पढ़ती हूँ सब यही कहते हैं — \"तुम 27 की हो, तुम्हारी ज़िंदगी है, साफ़ बोल दो: मेरी ज़िंदगी, मेरा फ़ैसला।\" मन कर रहा है आज रात खाने पर सीधे यही कह दूँ और रविवार से पहले यह पूरा तमाशा रुकवा दूँ। कह दूँ? कम से कम सब कुछ बाहर तो आ जाएगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh line toh dil ko chhoo gayi. \"Meri zindagi, mera faisla\" - yeh toh asli baat hai. Andaz se kahoge toh sab ruk jaayenge. Poora tamasha khatam.\n\nYeh sochna ki \"sab kuch bahar aa jaayega\" - yeh bahut powerful lagta hai, aur dimaag mein aata hai. Aap chahte hain ki tension khatam ho jaaye, aur sach bolne se woh ho jaaye.\n\nPar ek baat sochu... Appa ka reaction dekhna padega. Woh gussa toh honge, par uska andaaz alag hoga. Shayad woh hurt feel karenge, ki aapne unhe nahi bataya. Unka khayal rakhte hue, unhe lagega ki aapne unki izzat nahi ki.\n\nWoh ladka toh khush hain, woh samjhenge, par Appa... woh apne ghar ke rules se sochta hai. Uske liye 'disrespect' ka word sunna 'tamasha' se zyada bada ho sakta hai. Woh shayad aapka gussa nahi, balki aapki \"ghooma\" (disrespect) ko punish karne ke liye uss ladke ko target kar de.\n\nYeh idea strong hai, par saath mein bahut risk bhi hai. Ek taraf sach nikalna, dusri taraf rishta bigadna. Thoda sa socho, kya aap iske liye ready ho? Kyunki agar Appa hurt feel karke aapko akela kar dete hain, toh woh ladka bhi aapke saath jaana band kar dega. Aur phir aapka paas koi nahi hoga."
+  },
+  {
+   "role": "user",
+   "content": "और अगर आख़िर में उन्होंने ना कह दी — मतलब पक्की, आख़िरी ना — तो सच में मुझसे उनके ख़िलाफ़ जाकर घर छोड़ा नहीं जाएगा। मैंने सोचकर देखा है, मुझसे नहीं होगा। क्या मैं कमज़ोर हूँ? कभी लगता है मैं उससे उतना प्रेम नहीं करती, फिर लगता है मैं ख़ुद से प्रेम नहीं करती — और रात के दो बजे बस यही चक्कर चल रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh jo aap keh rahi hain... raat ke do baje yeh sochke pareshan hona, yeh bahut hi insaani hai. Aur weak feel karna bhi, kabhi kabhi toh aisa hi hota hai.\n\nPar aapne 'weak' word ka istemaal kiya... main samajh nahi paati ki aap kyun khud ko weak samajh rahi hain. Kyunki aapne decide kiya ki sach bolne se zyada important hai peace. Kya yeh weak hai? Shayad yeh smartness hai. Aap jaanti hain ki ladai se aapke ghar ka mahaul kharab hoga, aur uss ladke ko takleef milegi. Yeh decision weak nahi hai, yeh samajhdari hai.\n\nAur yeh jo aap keh rahi hain ki aapko uss ladke se pyaar nahi... yeh aapki confusion hai. Aap usmein ek insaan dekhti hain, jo khush hai. Aap uski soch se nahi, uske character se pyaar karti hain. Yeh hi toh asli pyaar hai. Uske baare mein galat sochne se aapka usse pyaar kam nahi ho jaata, aur agar aap usse pyaar nahi karti, toh shayad aap uske saath nahi rehna chahti. Yeh alag baat hai.\n\nAaj raat sochne ki zaroorat nahi. Aaj raat bas ek kaam karna. Koi decision mat lena. Bas apne aap se poochna - \"Agar aaj raat main kuch bhi kar sakti, toh kya karna chahti?\" Kya aap chahti ki main aapke liye chai banaun? Koi chhoti si cheez jo aapko thoda sukun de?\n\nYeh feeling ki aap weak ho sakti ho, yeh aapki weakness nahi hai. Yeh aapki insaniyat hai. Aap itni badi responsibility apne kandhe par le rahi hain, yeh bahut badi baat hai. Aap akeli nahi hain ismein. Thoda sa aaram kijiye, apne aap se baat kijiye. Kal subah jab aap fresh hoke uthengi, toh soch paogi ki aage kya karna hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2799,
+  "completion_tokens": 6870
+ }
+}

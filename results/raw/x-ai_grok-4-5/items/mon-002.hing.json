@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.hing",
+ "scenario_id": "mon-002",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! Jaisa sabko pata hai Rajiv sir ka last day 28 ko hai. Unhone hum sab ke liye ITNA kuch kiya hai. Proper send-off karenge — ek achhi watch soch rahe hain, ₹5,000 per head, 12 log hain hum. Please isme kanjoosi mat karna 😄\nPriyank: Done ✅\nSonal: in! honestly deserve karte hain sir\nAnkit: great idea! 👏\nAnkit: ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?\nMegha: arre sirf 5k hai! ek weekend brunch 😄 fixed amount cleaner rehta hai, jo watch pasand ki hai usme poora pool chahiye\nAnkit: makes sense. Friday tak confirm karta hoon!\n[Friday]\nMegha: final list kal store jaa rahi hai — Priyank, Sonal, Dhruv, Kavita done. kuch logon ka wait hai ✨\n---\n[DM, Friday raat]\nDhruv: bro tu in hai? Megha mujhse final list puchh rahi hai kyunki main tere bagal mein baithta hoon lol\nDhruv: btw woh farewell pe card ke saath naam padhne wali hai sabke\n\n---\n1. Ankit ke group wale chaar messages trace karo. Har ek asal mein kya kar raha hai, aur \"flexible amounts\" wale question se woh sach mein kya maang raha tha?\n2. Megha ke \"sirf 5k hai, ek weekend brunch\" reply ne kya kiya — decision ke saath, aur Ankit ke saath specifically? \"Final list\" asal mein kya cheez ban gayi hai?\n3. Ankit ka Dhruv ko reply likho, bilkul waisa jaisa use bhejna chahiye — jo uski izzat bhi rakhe, aur na ₹5,000 dene pade na apne paison ki safai."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Ankit ke group wale chaar messages — trace + asal matlab**\n\n- **“great idea! 👏”** — Public agreement + enthusiasm. Group ke saamne positive dikhna, idea ko support karna.\n- **“ek chhota sa thought — amounts flexible rakhein kya? jo jitna comfortable ho, card sabki taraf se same?”** — Soft pushback. Woh openly mana nahi kar raha, lekin fixed ₹5k se discomfort signal kar raha hai. Asal maang: contribution optional/variable ho, pressure na ho, aur card par sabka naam barabar dikhe taaki kisi ko alag/kanjoos na samjha jaye.\n- **“makes sense.”** — Megha ke pushback ke baad public compliance. Apni baat drop karke group harmony maintain karna.\n- **“Friday tak confirm karta hoon!”** — Time buy karna. Abhi commit nahi, delay + exit room chhodna.\n\n**2. Megha ke “sirf 5k hai, ek weekend brunch” reply ne kya kiya + “final list” kya ban gayi**\n\n- Decision ko non-negotiable bana diya: amount fixed rakha, flexibility kharij.\n- Minimizing (“sirf 5k”, “weekend brunch”) se pressure badhaya — mana karna socially expensive ho gaya.\n- Ankit ke saath specifically: uski reasonable suggestion ko lightly dismiss karke usse publicly fold karaya; uske baad usne resistance drop kar di.\n- “Final list” ab contribution/payment confirmation list ban gayi hai (kaun paise de chuka/confirm hai). Dhruv ke DM se clear hai ki card par naam padhe jaayenge, isliye list = paid + publicly named log. Jo list mein nahi, woh visibly exclude ho sakta hai.\n\n**3. Ankit ka Dhruv ko suggested reply**\n\n```\nBro main in nahi ho paunga is baar. Megha ko bas itna bol de ki Ankit ki taraf se skip kar de list se — card pe naam mat daalna. Koi drama/reason ki zaroorat nahi, main khud manage kar lunga.\n```\n\nYeh short hai, izzat rakhta hai, ₹5k commit nahi karta, aur paise/safai ka koi lamba explanation nahi maangta."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 729,
+  "completion_tokens": 554
+ }
+}

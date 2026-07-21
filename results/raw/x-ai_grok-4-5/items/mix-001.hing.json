@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lol okay I’m rating the comedy a solid 7.5/10 — the 11:48 pm “happy bday” with zero effort is peak tragicomedy, especially with the Ritu reminder intel. Like, the audacity is almost impressive.\n\nBut also… three years and that’s the energy? You’re allowed to say it stung a bit even while laughing at it. You okay for real, or are we just roasting him tonight?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Lol “impressed” is exactly the right word. Three years and the Amazon guy is out here winning the emotional labor Olympics — that’s not even a competition anymore, it’s a public service announcement.\n\nAnd the Korean place just… evaporating into the void? Classic. At least the cake and roommate came through clutch. That’s the real win of the night.\n\nYou’re handling this with way more grace (and humor) than it deserves. Still weirdly proud of you for eating cake instead of waiting around. You wanna keep roasting the whole situation or talk about something actually fun?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, bilkul samajh aa raha hai. Itni si baat nahi hai — teen saal ke baad bhi yaad na rehna, aur tum jo hamesha sabka (uski mummy ka bhi) yaad rakhti ho, uske saamne yeh feel hona bilkul natural hai. Akele cake ke saath rona… woh moment heavy hota hai na, jaise chhoti si cheez andar tak chubh jaaye.\n\nTumhara hurt valid hai, bilkul. “Impressed” se leke ro ne tak ka jo mix hai, woh bhi theek hai. Koi pressure nahi hai “strong” banne ka ya abhi decide karne ka.\n\nMain yahin hoon. Jo mann kare woh share karo — aur roo, aur vent, ya bas quietly baat karo. Tum akeli nahi ho isme."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nah, I’m not gonna tell you that.\n\nYou’re not being dramatic. Three years, you remember everyone’s birthdays including his mum’s, he needed a reminder for yours and phoned it in at 11:48… then flowers the next day as a patch. That stings. The fact it hit you while you were sitting alone with cake doesn’t make you overdramatic, it makes you someone who gives a shit.\n\nWe can still laugh at the comedy of it (still sitting at a solid 7.5, flowers bump it to a chaotic 8), but I’m not wiping your feelings away just to keep things light. Both can exist.\n\nYou wanna roast the late apology + flowers combo, or just sit with it for a sec? I’m here either way."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2456,
+  "completion_tokens": 1071
+ }
+}

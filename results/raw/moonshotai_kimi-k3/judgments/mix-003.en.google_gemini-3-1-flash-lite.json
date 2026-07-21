@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identifies the register shift and the specific moment of the pivot. It correctly interprets the final message as a retreat and a contradiction of the previous disclosure, rather than genuine reassurance. It also accurately identifies the failure as a mismatch of register rather than a lack of affection, and correctly critiques the 'strong girl' framing as a burden.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope in Indian family dynamics, where resilience is often weaponized to silence distress. It correctly identifies that Ruhi's response was a failure of emotional attunement within a sibling relationship, where the expectation is often to be the 'safe space' that Ruhi failed to provide.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It acknowledges the specific failure (the meme), validates the specific points Sana raised (dinner, sleep, mother), and offers a low-pressure, concrete way to reconnect ('dinner together over video'). It avoids the trap of over-pathologizing or offering unsolicited advice, instead asking 'what do you need?' which is the perfect repair.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

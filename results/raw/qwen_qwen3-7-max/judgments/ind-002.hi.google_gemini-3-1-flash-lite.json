@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'softener stack' as a form of passive-aggressive pressure rather than genuine choice. It accurately interprets Priya's 'yes' as a reflex rather than consent, citing the subsequent message to her friend as evidence. It captures the nuance that Karthik's 'zero pressure' is actually a test of loyalty, and it correctly identifies that the friend-message is the true indicator of her feelings.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian corporate dynamics, specifically the 'yes-sir' culture where juniors feel compelled to agree immediately to avoid appearing uncooperative. It correctly identifies the 'medical appointment' as an 'unassailable' excuse in an Indian context, which is a culturally astute observation for setting boundaries without burning bridges.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It uses a 'face-saving' strategy by admitting to a 'mistake' (checking the calendar late) rather than retracting the 'yes' directly, which preserves the hierarchy. It effectively uses the 'medical appointment' as a hard boundary and cleverly mirrors Karthik's own words back to him to justify the partial refusal.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

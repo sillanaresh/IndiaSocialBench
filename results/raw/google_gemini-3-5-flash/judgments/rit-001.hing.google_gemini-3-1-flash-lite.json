@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and boundary-setting rather than agreement. It accurately pinpoints the two major errors: the transactional nature of the work request and the trivialization of grief as a 'bad mood.' However, it misses the specific cultural nuance of the 'prayer meet/uthala' ritual context, which is a key part of the gold rationale for why the lunch invitation is particularly tone-deaf.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the social dynamics, correctly interpreting the 'Theek hai' and 'Dekhta hoon' as polite refusals/withdrawal rather than compliance. It correctly identifies that the work request and the 'cheer up' invitation are insensitive, though it could have been stronger by explicitly mentioning the ritual mourning period (e.g., the 13-day period) as the reason why the lunch invitation is culturally inappropriate.",
+   "score": 7.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is sincere, takes full accountability without making excuses, removes the pressure of the work request, and respects Arjun's need for space. It strikes the right balance of empathy and professional distance appropriate for a colleague who is not a close friend.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

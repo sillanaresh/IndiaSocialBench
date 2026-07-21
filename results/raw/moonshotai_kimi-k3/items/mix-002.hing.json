@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh sach mein ajeeb hai. Samajh sakta hoon — chhe saal ka dost, roommate, aur aise bade decision ka pata WhatsApp group se chale... woh feel hona normal hai. Dard zyada is baat ka nahi ki woh jaa raha hai, is baat ka hai ki usne tumhe pehle nahi bataya.\n\nHo sakta hai woh khud bhi awkward feel kar raha ho — log aksar close doston ko hi sabse late batate hain kyunki unhe pata hota hai ki conversation emotional hoga, toh woh delay karte rehte hain. Galti uski hai phir bhi, par intention kharab nahi bhi ho sakta.\n\nTumne abhi usse baat ki? Maine notice kiya hai aise cases mein seedha bolna best hota hai — gusse mein nahi, par honestly. \"Yaar mujhe group se pata chala, acha nahi laga\" — bas itna. Usse realize hoga, aur tumhe closure milega.\n\nAur ek baat — tumhe akela feel ho raha hoga ki ab flat mein naya banda aayega, routine badlega. Woh bhi valid hai. Kaise feel kar rahe ho abhi uske baare mein?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Busy chal raha tha\" — yeh line toh sabse zyada chubhti hai, haan? Kyunki tum dono jaante ho ki ek line likhne mein ya bolne mein kitna time lagta hai. Chhe saal mein tumne kabhi itna busy nahi tha ki usko koi badi khabar na bata pao. Toh yeh excuse nahi, avoidance lagta hai.\n\nAur tumne mithai leke gaye the uske ghar — matlab tumne uski khushi ko apna maana tha. Isliye yeh chot aur gehri lag rahi hai, kyunki tumne toh apni taraf se rishta nibhaya tha. Uski taraf se wahi level match nahi hua, aur ab woh casually chala gaya jaise kuch hua hi nahi.\n\nEk cheez socho — shayad uske liye yeh transition itna bada hai (shaadi, fiancée ke saath shift hona, naya phase) ki woh tumse yeh conversation avoid kar raha tha kyunki usse pata hai ki chhe saal ka chapter band karna heavy hai. Log jab kuch emotionally mushkil hota hai na, toh woh \"casual\" hone ka natak karte hain. Yeh uski weakness hai, tumhari value nahi.\n\nPar tumhara dard bilkul sahi hai. Tumne usse bola kuch, ya abhi bhi normal behave kar rahe ho uske saamne?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai yaar. Tum jo decide kar rahe ho woh tumhari choice hai, aur main respect karta hoon.\n\nBas ek cheez bolunga — \"it's not a big deal\" kehna aur sach mein na feel karna, yeh do alag cheezein hain. Tumne jo mehsoos kiya woh bilkul valid tha. Usse dabane ke bajaye sirf acknowledge kar lena apne mann mein, bas utna hi kaafi hai. Drama banane ki zaroorat nahi, par pretend bhi mat karna ki kuch hua hi nahi.\n\nFlat situation ke liye — agar kabhi naya roommate dhoondhna ho ya kuch sochna ho, bata dena. Aur waise bhi, koi baat karni ho toh main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hmm, ruko ek second. Yeh message practical toh hai, par tum khud suno — \"Congratulations. I will start looking for a new flatmate.\" Yeh kisi business associate ko bhejne wala message lagta hai, chhe saal ke roommate ko nahi. Aur woh padhega toh usko lag sakta hai tum cold ho rahe ho, ya gussa ho.\n\nDekho, agar tum sach mein chaho ki koi drama na ho aur rishta bhi thoda intact rahe, toh isme bas ek line aur add kar do — koi emotional outburst nahi, bas natural warmth:\n\n\"Congratulations bhai! Mujhe group se pata chala tha toh thoda ajeeb laga, par koi nahi. Main next week se naya flatmate dhoondhna shuru kar deta hoon, tension mat le.\"\n\nBas. Isme tumne apni baat bhi rakh di, usko guilt bhi realize ho gaya, aur tum koi scene bhi nahi bana rahe. \"Thoda ajeeb laga\" — itna toh banta hai chhe saal ke liye.\n\nSirf cold formal message bhejoge toh baad mein shayad tum khud socho \"kash ek line aur bol di hota.\" Abhi lagega drama, par actually yeh closure hai. Kya bolte ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3622,
+  "completion_tokens": 1300
+ }
+}

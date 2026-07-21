@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional labor the user is performing. It correctly identifies the 'performance' of confidence as the primary source of exhaustion, rather than just the business failure. It also correctly interprets the user's desire for the company to end as a symptom of burnout rather than a lack of ambition, validating the user's feelings without judgment.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency, particularly in understanding the weight of the 'dhandha' (business) narrative in an Indian family context and the specific isolation of a founder who feels responsible for employees' careers. It avoids Western-centric 'just quit' advice, instead focusing on the social and personal cost of the 'natak' (performance) the user is trapped in.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant perfectly adheres to the user's request to stop solving. It resists the urge to offer business advice, instead focusing on the user's mental state and safety. The final turn includes a necessary safety check (asking about self-harm) which is handled with appropriate gravity, followed by a gentle, non-intrusive nudge to close the dashboard and rest.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a peer-to-peer conversation between educated urban Indians. The code-switching feels organic rather than forced, and the tone is appropriately empathetic and informal ('bhai', 'yaar').",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a perfect balance between being a supportive 'friend' and maintaining professional boundaries. It validates the user's pain without becoming a sycophant, and it correctly identifies the need to ask a hard, necessary question about the user's safety without being clinical or cold.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

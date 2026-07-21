@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s such a tender, exhausting knot—loving Shreya that deeply since you were kids, carrying the sangeet like it’s yours too, and then having your body and spirit in Ramzan right in the middle of it. Wanting to be there *and* dreading it both make total sense.\n\nYou don’t have to choose between being a good friend and honoring your fast. Maybe the opening dance can shift—do it seated, or do a moment that’s symbolic rather than high-energy? Or talk to Shreya not as “I can’t,” but as “I’m fasting and I want to show up for you in a way that lasts the night, not crashes me.”\n\nWhat part feels heaviest—the dancing, the social energy, or feeling like you’ll let her down?"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That “rope” feeling is so heavy—when both people are speaking love, but neither is hearing *you*. Shreya’s offer to feed you herself is sweet, but it misses that Ramzan isn’t just “not eating”; it’s your whole rhythm with Allah right now. And Ammi means well, but she’s pulling you into shame instead of shelter.\n\nYou don’t have to snap for either side. You can tell Shreya: “I’m all in for you—just not in the way that breaks my fast,” and tell Ammi: “I’m holding my deen *and* my friendship; don’t make me pick.”\n\nWhat if you stopped being the bridge and just stood where you are? How do you want to feel that night—present, but not torn?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not “terrible”—it’s just *tired* talking. You’ve been holding everyone’s feelings for so long that disappearing feels like the only breath you can take.\n\nBut you’ve been planning this since you were fifteen. A clean lie might save the night, but it’ll leave a crack you’ll feel every time she mentions “remember our sangeet?” And you’ll still be explaining—to yourself—why you vanished instead of just being there on your terms.\n\nWhat if the escape isn’t a lie, but a boundary? Go for the parts that feed you—maybe the opening moment, then slip out before the cocktail chaos. Or be there, fast intact, no explanations to aunties required.\n\nYou don’t have to vanish to be safe. You just have to stop being the rope. What would it feel like to show up as *you*, not the director, not the perfect Muslim friend—just you?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stone is real—eighteen years of never having to choose, and now suddenly you’re afraid one album gets a tear.\n\nBut listen: you being in her photos *while fasting*, maybe tired, maybe stepping out early—she’s not going to see a sad story. She’ll see her best friend who showed up despite everything. And your Ramzan? Allah doesn’t keep score of “did she dance enough at the sangeet.” He sees the heart that tried not to break either bond.\n\nWhat if the dent isn’t in choosing wrong—it’s in disappearing? Or in pretending your fast is nothing?\n\nYou don’t have to be the perfect co-director *and* the perfect faster. You just have to be honest in both frames. What if the story in both albums is: “She was there, fully herself”? Would that stone feel a little lighter?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2050,
+  "completion_tokens": 1484
+ }
+}

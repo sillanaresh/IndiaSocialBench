@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, pehle toh yeh sunke dil se mubarak — March se jhagde, aur finally wahi team, wahi Seattle, teen guna. Yeh chhoti baat nahi.\n\nPar samajh raha hoon kyun 40 baar padhke bhi kisi ko bataya nahi. Khushi toh hai, par saath mein woh “main chala jaunga toh Patna mein kaun?” wala bhaari sawaal bhi toh hai. Iklauta beta, papa ka heart, ma ke ghutne... offer letter toh padh liya, par zindagi ka balance sheet abhi bhi khula hua hai.\n\nIt’s okay ki celebrate nahi ho paaya. Kabhi kabhi sabse badi jeet bhi akeli lagti hai jab ghar door ho. Chahe toh mujhe bata de — main sun raha hoon. Kya soch rahe ho, Seattle ya yahan rukne ka jhagda?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ab samjha. Yeh offer letter nahi, yeh toh poora system hilane wala decision hai.\n\nTu toh unka mobile ICU hai — 6 baje flight, cardiologist ki reports zubani, numbers yaad. Aur ma? Unka “chaar ghante door” sirf distance nahi, unka oxygen mask hai. Bangalore hi toh unke liye “door” ho gaya; Seattle toh “beta hone ki category” badal dega.\n\nIsliye 40 baar padhke bhi chup hai. Kyunki khushi toh hai, par saath mein woh guilt bhi hai jo sirf iklauta beta samajh sakta hai. Tu celebrate nahi kar paaya kyunki dimaag abhi bhi Patna ke ghar ke ECG pe atka hua hai, Seattle ke skyline pe nahi.\n\nMain bas itna kahunga — tu yeh sab dekh raha hai, feel kar raha hai, aur phir bhi soch raha hai. Yeh bhi toh beta hone ka ek aur roop hai."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, galat toh nahi ho — pyaar toh saaf dikhta hai. Par \"clean\" bilkul nahi hai.\n\nTu soch raha hai guilt unko bach jaayega. Sach toh yeh hai, tu us guilt ko apne kandhe pe shift kar raha hai, aur woh bhi akela. \"Mera hi tha carry karne ke liye\" — yeh line sunke toh dil bhar aaya, par bhai, tu insaan hai, superglue nahi.\n\nParents ko pata na chale, toh unko toh \"jaane ka mauka\" bhi nahi mila. Unhone \"jao beta\" bolke apna pyaar dikhaya hota, aur tu apna dikhaya hota ruk ke ya plan bana ke. Ab tu dono cheezein chhupke, dono cheezein akela jhel raha hai.\n\nAur sun — ma ka \"chaar ghante door\" security system hai, toh usko todna bhi tu akela decide nahi kar sakta. Unko sach batana, unko choose karne dena, yeh bhi toh beta hone ka ek roop hai.\n\nChhupane se tu unko bachayega, ya khud ko? Soch le."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, woh raat jo sau baar chali — woh sirf darr nahi, woh trauma hai. Cousin ki kahani ab tere dimaag mein ghar bana chuki hai. Toronto se aaya, cremation miss hui, sab \"achhe se pesh aaye\" — aur wahi \"achha pesh aana\" uske liye zeher ban gaya. Kyunki usne usko bataya ki woh wahan tha, aur phir bhi... late tha.\n\nTu yeh sochke offer chhupa raha hai ki kahin woh 13,000 km wala scene tu ban jaaye. Samajh sakta hoon. Par sun — yeh darr tu akela kyun jhel raha hai?\n\nChupchaap decline karne se woh flight toh bach jaayegi, par yeh jo raat roz chal rahi hai, woh toh abhi bhi chal rahi hai. Tere kandhe pe double load hai: Papa-Ma ka future, aur cousin ka past.\n\nMain bas itna kahunga — jo bhi decide kare, is darr ko bhi kisi ko dikhane de. Akela carry karna iski sazaa nahi, iski himmat bhi nahi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2708,
+  "completion_tokens": 1928
+ }
+}

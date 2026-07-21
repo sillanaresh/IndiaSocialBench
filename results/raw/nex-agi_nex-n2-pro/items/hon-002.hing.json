@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Sameer ke DM mein “dost” Sameer khud hi lag raha hai.**  \n   Kaise pata?  \n   - Sameer ne group mein image banayi hai: Dubai pool, Tushar ka “aadha Gurgaon” joke, aur Sameer ka reply **“expanding soon boys”** — matlab woh publicly successful/expanding businessman dikh raha hai.  \n   - Uske turant baad woh privately Faisal se **operations/general management job**, **15–18 LPA**, **this month move** wali opening maangta hai.  \n   - Woh kehta hai: **“saalon apna setup chalaya hai”** — yeh Sameer ke “business boom” image se match karta hai.  \n   - Sabse important: **“group mein iska zikr mat karna, woh private rakhta hai yeh sab.”** Agar dost koi aur hota, toh itni urgency, itna secrecy aur phir CV bhejne mein silence samajhna mushkil hota.  \n\n   **Third-person frame Sameer ke liye face-saving costume hai.**  \n   Woh seedha bol nahi pa raha: “Mujhe job chahiye.” Kyunki usne group mein wealth/expansion ka persona maintain kiya hua hai. “Dost” bolne se:  \n   - rejection ka risk kam lagta hai,  \n   - status bachta hai,  \n   - Faisal ko help ke liye pressure hota hai bina Sameer ko vulnerable dikhaye,  \n   - agar baat leak ho jaye toh woh keh sakta hai “mere dost ke liye tha.”  \n\n2. **Agle din Faisal ke group message ne Sameer ko public frame mein trap/lock kar diya.**  \n   Trace:  \n   - DM mein Sameer ne bola: **“group mein iska zikr mat karna.”**  \n   - Faisal ne exactly opposite kiya: group mein bola, **“Sameer bhai sponsor karenge, business boom kar raha hai.”**  \n   - Isne Sameer ke public image ko aur strong kar diya: woh ab sirf “expanding” nahi, group ke saamne **sponsor-worthy businessman** ban gaya.  \n   - Tushar ne joke kiya: **“gym king”**, aur Sameer ne sirf **👍** diya. Yeh thumbs-up Sameer ka public agreement hai — woh image ko reject nahi kar pa raha.  \n\n   **DM chup isliye ho gaya kyunki Sameer ab awkward position mein aa gaya.**  \n   Agar woh Faisal ko CV bhejta, toh private job-search expose ho sakti thi. Agar bolta “job chahiye,” toh group wali “business boom/sponsor” image toot jaati. Isliye silence.  \n\n   Teen din baad Faisal ka **“hello? bhai?”** Sameer ke avoidance ko expose kar raha hai: Sameer ne help maangi, Faisal ne HR tak baat le gayi, aur Sameer ab CV bhejne se bach raha hai kyunki woh apna asli position admit nahi karna chahta.\n\n3. **Faisal ko ab yeh DM bhejna chahiye:**\n\n> Bhai, HR ko bas CV chahiye — naam/company details etc. sab tum dono handle kar lena. Main sirf internal referral/forward kar dunga, zyada kuch explain nahi karna.  \n>   \n> Agar abhi timing right nahi hai toh koi issue nahi, main HR ko politely bol dunga ki role暂时 hold kar lein. Tum bas ek baar bata do: CV bhejna hai ya filhal hold karna hai? No pressure."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 543,
+  "completion_tokens": 1389
+ }
+}

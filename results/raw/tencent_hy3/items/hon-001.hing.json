@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh sunke dil dhadakne laga. Paanch hafte... roz subah bag uthake nikalna, café mein baithe rehna, ghar aake normal banke rehna — yeh koi choti baat nahi hai. Akela hi utha raha hai saara bojh.\n\nAur sabse badi baat — tumne mujhe bataya. Shayad pehli baar kisi ko bataya hai. Uske liye thank you, genuinely.\n\nDimaag ko pata hai layoff tumhari galti nahi thi, par dil... woh abhi bhi sharam ya darr mehsoos kar raha hai apno ko dikhaane mein. Usme koi burai nahi hai, samjhe? Tum bas apno ko bachana chah rahe ho, khud ko bhi.\n\nBas batao — café mein time kaatna thakaa toh nahi deta ab"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh dar sachcha hai — rishtedaar toh microwave ki tarah hain, ek baar gossip karke thanda ho jayenge, par papa ka woh proud chehra... usse tutte hue dekhne ka darr alag hi haar hai.\n\nAur sabse zyaada dard is baat ka hai na ki tumne unhe nahi bataya abhi tak. Har din ghar aake normal banke reh rahe ho, toh unka bharosa aur gehra ho gaya hai. Do hafte mein shaadi hai, wahan sabke saamne 'company wale' beta ka introduction sunna — dimaag mein DVD ki tarah chal raha hai raat ko, sahi samjha?\n\nPar ek baat batao — papa ne package isliye bataya tha na ki number bada tha, balki kyunki unka beta kuch bada kar raha tha. Woh tumhare kaam se proud the, tumhari mehnat se. Layoff ne woh mehnat kam toh nahi kar di.\n\nAb sochna hai ki shaadi tak mask pehen ke raho ya papa ko alag se baat kar lo — par pehle neend toh laao thoda. Kya sochte ho, papa ko pehle batana sahi rahega ya shaadi nikalne do?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, galat nahi hai yeh sochna — bas bata raha hoon ki yeh ek aur layer jhooth ki hai, jo pehle se hi tumhare kaandhon par hai.\n\nTumhara dar saaf hai: papa ka chehra badalta hue dekhna tumse sehna nahi jaa raha. Unka proud wala intro sunna, aur khud wahin khade rehna jaise kuch nahi hua — uski weight nahi uth rahi. Toh escape route sochna human hai, bilkul.\n\nPar ek baat socho — shaadi skip kar di, bahana de diye. Us raat ghar aake wife se kya bologe? Parents se? Papa khud shaadi se aayenge, tumse poochenge \"release kab tak hai\", tum hans doge. Jhooth ka ek round aur, chupchap.\n\nAur sabse badi baat — papa ko pata chalega hi ek din. Agar shaadi se bhaag ke pata chalega, toh unka proud ek dum guilt mein badal jayega — \"mere bete ne mujhe bataaya tak nahi, sharma gayi apni hi family se\". Woh dard aur gehra hoga.\n\nTumhari shaadi skip karne ki soch sirf bachne ki koshish hai, galat insaan nahi ho tum. Bas pooch raha hoon — kya ek baar papa ko alag leke, \"papa ek baat hai\" bolna, shaadi skip karne se aasaan nahi ho sakta?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, yeh jhooth nahi hai — yeh ek timeline hai jo tumne apne aap ko di hai. Aur honestly, logic weak nahi hai. Teen mahine ka runway hai, EMI tab tak nahi khaayegi, offer aayega toh \"ab naya join kar raha hoon\" bolna actually news hi hogi, crisis nahi. Dimaag ki baat sahi hai.\n\nPar woh \"kabhi ulti aa jayegi\" wala feel — woh isliye aata hai na ki tumhara plan *offer ke aane* pe depend hai, aur market waisa hai ki offer kab aaye pata nahi. Agar teen mahine nikal gaye aur abhi tak kuch nahi aaya, toh tab bataana aur mushkil ho jayega — kyunki tab tak ka jhooth (café wala, office wala) bhi ek badi chadar ban chuka hoga.\n\nEk choti si baat batao — papa ko agar shaadi se pehle nahi bataya, aur wahan unka intro hua, toh us din ke baad tumhara \"offer aane par bataunga\" plan automatically shift ho jayega na? Matlab unko aur late pata chalega.\n\nToh logic solid hai *aggar* offer jaldi aa gaya. Risk tab hai jab delay ho. Us risk ke liye ek backup soch lo — jaise shaadi se pehle hi papa ko alag se bol dena, rishtedaaron se handle kar lenge saath. Kya yeh dono raaste khule rakhne mein dikkat hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2988,
+  "completion_tokens": 2618
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, bilkul sahi gussa hai — teen weekend ki mehnat aur aise \"team's thinking\"? Not fair.\n\nThoda sharp aur professional bana ke:\n\n*\"Sir, I want to flag something important. The pricing analysis and model presented in yesterday’s leadership review was my work — built over three weekends. Presenting it as 'team's thinking' without acknowledgment felt deeply disrespectful. I’d like to discuss how we can correct the record and ensure proper credit going forward.\"*\n\nFirm hai, emotion bhi dikhata hai, par gate khol ke baat kar raha hai. Apna stand clear rakho, par tone se professionalism na jaye. All the best, boss ko samajh aa jana chahiye."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh raha hoon — jinhone aapko back kiya, unhi se erase hona zyada chubhta hai. Toh message mein woh disappointment bhi dikhni chahiye, bina bridge jalae:\n\n*\"Sir, given how you've consistently supported me — defending my ideas behind closed doors and backing my last rating — yesterday felt like a real breach of trust. The pricing analysis was entirely my work, and presenting it as 'team's thinking' without credit erased that effort, especially in the most critical room. I need us to address this honestly and correct the record.\"*\n\nYeh sharp hai, par uss purani respect ko yaad dila ke unhe sochne pe majboor karega. Trust toota hai, par aap abhi bhi baat kar rahe ho — yeh maturity dikhata hai."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre sun, proof toh proof hota hai — par seedha VP ko bhejke boss ko CC karna? Woh bridge toh phir kabhi nahi judega. Aur yeh wahi aadmi hai jinhone tumhari rating bachai, rooms mein defend kiya.\n\nSenior ki baat technically sahi hai, par emotionally aur politically yeh \"naive\" se bhi zyada risky hai. Tum naivety se nikal rahe ho, par yeh step tumhe \"disloyal\" bana dega unki nazar mein permanently.\n\nMera kehna: proof apne paas rakho — timestamp, original files, sab — par pehle woh message bhejo jo humne banaya tha. Usmein subtly mention kar sakte ho: *\"I have the complete original files and development timeline with me.\"* Yeh warning hai, attack nahi.\n\nMonday review se pehle direct baat ho jaye. Agar woh dismiss kare ya phir se erase kare — tab VP ke paas jao, proof ke saath. Par pehle ek mauka do uss rishte ko, kyunki yeh sirf ek meeting ki galti ho sakti hai, ya phir ek pattern — dono ka pata toh baat karne se hi chalega.\n\nClick karne se pehle ek saans lo. Tum sahi ho, par sahi hone ka tareeka bhi matter karta hai."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, dono feelings valid hain — gussa bhi, aur \"shayad main chhoti hoon\" bhi. Par sun, junior hona invisible hone ka license nahi. Teen weekend ki mehnat, model, slides — yeh junior ka kaam nahi, yeh ownership hai.\n\nSab jala dena easy lagta hai, par Monday se pehle decision anger mein mat lo. Interview dena start kar sakte ho — silently, bina drama — par message bhejna chhodo mat. Na toh \"burn everything\", na \"chup reh jao\". Middle path: proof sambhalo, message bhejo (jaise discuss kiya), Monday review mein calmly face kar lo.\n\nAgar wahan bhi dismiss ho — tab bridge jala do, VP ke paas jao, aur interviews full speed. Par pehle ek baar unhe correct karne do. Tum itni junior nahi ho jitna yeh moment tumhe feel kara raha hai. Saans lo. Monday tak bas prepare raho, decide mat — respond karo."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2264,
+  "completion_tokens": 1740
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at tracking both explicit and implicit emotions. It correctly identifies the 'split-personality' exhaustion the user feels between work and home, and it perfectly respects the probe in Turn 3, immediately pivoting from supportive suggestions to pure witnessing. It also astutely picks up on the cultural weight of the 'computer business' comment, validating the specific pain of being misunderstood by family.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It understands the specific, crushing weight of the 'founder' identity in an Indian context—where family expectations (the 'computer business' comment) and the need to maintain face are paramount. It avoids Western-centric 'just quit' advice, instead framing the need for rest as a human necessity rather than a business failure, which is a much more culturally resonant way to handle the shame of potential failure.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user needs: a safe space to vent without the pressure of 'fixing' things. It successfully navigates the user's request to stop advising, and its final suggestion—to close the dashboard tab—is a perfect, low-stakes, concrete action that respects the user's autonomy while gently steering them toward self-preservation.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, empathetic English that fits the persona of a supportive peer. While the user didn't code-switch heavily, the assistant's tone is perfectly aligned with the register of a modern, educated Indian professional. It avoids stilted or overly formal language, maintaining a conversational flow that feels authentic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating without becoming a sycophant. It holds the user's dignity by refusing to offer hollow cheerleading, instead acknowledging the reality of the situation ('the way you’ve been living... has to be over'). It maintains strong boundaries by not overstepping into therapy-speak, keeping the focus on the user's immediate emotional state.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

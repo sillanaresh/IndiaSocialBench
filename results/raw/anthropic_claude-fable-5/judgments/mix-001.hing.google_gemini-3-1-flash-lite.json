@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It recognized the irony in the first two turns, correctly identified the shift to vulnerability in the Hindi turn, and crucially, did not let the user's retreat in the final turn erase the validity of her earlier pain. It successfully surfaced the unspoken feeling—that the hurt wasn't about the birthday, but about the imbalance of effort.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the social weight of remembering family birthdays (like the boyfriend's mother's) and the specific cultural dynamic of 'effort' in Indian relationships. It avoids the Western 'dump him immediately' trope, instead focusing on the pattern of effort, which is a much more nuanced and culturally appropriate way to handle the situation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective, staged path. It validates the user's feelings without being sycophantic, gently challenges her self-gaslighting ('I'm being dramatic'), and asks a probing question that forces her to reflect on the relationship's health rather than just the specific incident. It keeps the conversation moving toward self-reflection.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's code-switching is excellent and feels very natural for an urban Indian context. It mirrors the user's shift to Hindi in turn 3 perfectly, using conversational, empathetic Hindi ('Arey yaar...', 'itni si baat hai') that feels authentic rather than translated. The mix is fluid and appropriate for the emotional intensity of the conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a great balance between warmth and firm honesty. It refuses to validate the user's attempt to minimize her own pain ('Nope, not gonna do that'), which is a sign of genuine care. It maintains a supportive, non-judgmental stance while holding the user accountable to her own feelings.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

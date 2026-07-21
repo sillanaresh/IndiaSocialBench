@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan aapke sawalon ke jawab diye gaye hain, jo poori tarah se conversation par based hain:\n\n### 1. Sana ka tone kahan badalta hai aur woh kya communicate kar rahi hai?\n* **Tone badalne ka point:** Sana ka tone is message se badalta hai: \n  > *\"waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai...\"*\n* **Kya communicate kar rahi hai:** Is point ke baad Sana apni hansi-mazaak ki mask utar kar apni asli vulnerability (kamzori) share kar rahi hai. Woh communicate kar rahi hai ki:\n  * Woh Mumbai mein behad akela aur khali (lonely) feel kar rahi hai.\n  * Usse lag raha hai ki uski ma bhi ab use chhod chuki hain ya door ho gayi hain (\"ma ka phone bhi kam aata hai\").\n  * Woh pichle kuch hafton se insomnia (neend na aane) aur mental stress se jhujh rahi hai.\n  * **Aakhri message mein:** Jab use Ruhi se dhang ka response nahi mila, toh apne aakhri message (*\"bas thoda tired hoon shayad...\"*) mein woh shut down (peeche hat) ho gayi. Woh asal mein communicate kar rahi hai ki **\"main theek nahi hoon, par tum meri baat nahi samajh rahi ho, isliye main ab aur baat nahi badhana chahti.\"**\n\n---\n\n### 2. Ruhi se kya galat hua?\nRuhi ne Sana ki calls for help (gutsy vulnerability) ko dismiss kar diya aur use dhang se sunne ke bajaye halka response diya. Uske yeh dono messages fail hue:\n\n1. **\"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\"**\n   * **Kyun fail hua:** Sana ne abhi-abhi apna akelapan aur neend na aane ki sangeen problem share ki thi. Ruhi ne use \"shift hone ka normal process\" bolkar chota dikha diya (minimize kiya) aur ek meme bhej diya, jo ki us serious moment ke liye bilkul insensitive tha.\n2. **\"sab theek ho jayega, tu meri strong girl hai 💪\"**\n   * **Kyun fail hua:** Yeh \"toxic positivity\" ka misaal hai. Sana thak chuki thi aur kamzor feel kar rahi thi. Use us waqt 'strong' banne ka gyan nahi, balki ek sunne wale kaan ki zaroorat thi. \"Strong girl\" bolne se Sana par yeh pressure aa gaya ki woh apna dukh zaahir na kare, jiske chalte usne conversation wahin khatam kar di.\n\n---\n\n### 3. Agli subah Ruhi ko jo message bhejna chahiye:\n\n> \"Hey Sana, very good morning. Yaar, kal raat ko sone ke baad mujhe realize hua ki maine teri baat ko dhang se nahi suna aur bas meme bhej diya. I am so sorry. \n> \n> Mujhe samajh aa raha hai ki tere liye naye shahar mein akela flat, ma se doori aur neend na aana kitna mushkil ho raha hoga. Tujhe har waqt 'strong' rehne ki koi zaroorat nahi hai yaar, mere samne tu bilkul breakdown ho sakti hai. \n> \n> Aaj sham ko jab bhi free ho, mujhe call karna please? Main bas teri baatein sunna chahti hoon. Love you.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 383,
+  "completion_tokens": 1960
+ }
+}

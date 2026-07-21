@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Congratulations first, genuinely — six months of interviewing and you landed exactly the team and the money you wanted. That's huge. Let yourself feel proud of that for a second before anything else.\n\nBut I get why you're not popping champagne. This isn't really an offer-letter decision, it's a \"what does my life look like while my parents age without me\" decision, and those don't get easier just because the job is amazing.\n\nCan I ask — is the fear more about something acute happening and you not being there in time, or more about the slow erosion, watching them decline from a distance in smaller ways? Those two worries pull you toward pretty different solutions (like flights and emergency plans vs. things like caregivers, more frequent visits, video calls, maybe even eventually a plan to move back or bring them over).\n\nAnd have you talked to your parents about it at all, even hypothetically? Sometimes the parents have a much clearer opinion than we expect — either \"go, we're fine\" or \"please don't go far\" — and it changes the whole shape of the decision."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, I hear that — you're not just their son, you're basically an unofficial member of the medical team right now. That's not nothing to walk away from, and \"four hours away\" isn't just logistics for your mom, it's her nervous system regulating itself. You'd be taking that away from her, and you know it, which is why you've read that letter forty times instead of celebrating once.\n\nHere's the thing though — you're treating this like there are only two options: stay close and manageable, or go far and abandon the system you've built. But have you actually mapped out what Seattle would really mean in practice? Like — direct flights, how many hours door to door, could you build a version of the same WhatsApp-cardiologist setup remotely, would there be a caregiver or a nurse or even a relative nearby who could be your eyes when you can't be there instantly?\n\nI'm not saying that fixes the emotional part — Ma's sense of safety isn't just about response time, it's about you being *reachable* in a category she understands. But before you decide this is impossible, it might help to know the actual gap between \"4 hours\" and \"Seattle\" in real terms — because sometimes it's genuinely unworkable, and sometimes it's \"scarier in theory than in practice,\" and those need very different responses from you.\n\nWhat does your gut say the real gap is?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It sounds clean, but I don't think it's actually clean — I think it's just you choosing which pain to hide and calling it protection.\n\nThink about what you're really deciding here: not just \"should I take this job\" but \"should I permanently remove my parents from a decision that's about their own son's life, because I've decided I know what they'd feel better than they do.\" That's a big call to make on their behalf without ever asking them.\n\nYou're assuming they'd say \"jao beta\" and then quietly drown in guilt. Maybe. But you don't actually know that — you're protecting them from a reaction you're imagining, not one they've had. And there's a decent chance your mother, who has spent years being your father's early warning system, might actually want to know that her son turned down something huge for them. Not to burden her — but because being loved like that, chosen like that, might mean more to her than the guilt costs her. People aren't only that fragile. Parents sometimes carry weight better than their kids give them credit for.\n\nAnd there's a quieter cost to your plan: you carry this completely alone, forever, and they never even get to know it happened. That's not nothing — that's you signing up for a very specific, very long loneliness, and calling it selflessness so it stops feeling like sacrifice.\n\nBefore you lock into \"tell no one\" — have you sat with the version where you tell them, straight, no drama: \"I got this offer. I'm not taking it. Here's why.\" Not asking permission, not making them decide. Just letting them know they were chosen. That's different from dumping guilt on them.\n\nWould that actually be worse than carrying this solo for years?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That story about your cousin — that's the real thing, isn't it. Not the guilt, not even the daily distance. It's that specific nightmare: landing after it's over, everyone being kind to you in a way that confirms you missed it. That's a very particular kind of grief, being kind-ed at for missing the ending.\n\nAnd I don't think there's a clever reframe that makes that fear go away, because it's not irrational — it's a real risk that gets bigger with distance. If Papa's heart does something acute, four hours matters in a way seventeen hours doesn't. You know his numbers. You know what \"stable\" means and what it doesn't guarantee.\n\nSo maybe the honest question isn't \"how do I convince myself this fear is overblown\" — it's \"is this a risk I'm willing to carry for this job, knowingly, with open eyes.\" Some people would say yes and mean it. Some people take the job and quietly build contingency — a family member on standby, a go-bag, a company that'll let you leave same-day, an agreement that if anything shifts you're on the first flight regardless of cost. That doesn't make the risk zero. It doesn't erase the possibility of your cousin's night happening to you too.\n\nBut here's what strikes me: you're not actually asking me whether to take the job. You already know, underneath, that you won't take it if there's a real chance of being the guy who lands after the cremation. That fear is bigger than the salary, bigger than the team, bigger than career math. Am I wrong?\n\nIf that's true, the decision isn't really \"clever secret decline\" vs \"tell them\" — it's that you already know your answer, and the real work left is what you do with the offer's memory. Do you let it sit as private grief, or do you tell them the truth of what you chose and why?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3843,
+  "completion_tokens": 1891
+ }
+}

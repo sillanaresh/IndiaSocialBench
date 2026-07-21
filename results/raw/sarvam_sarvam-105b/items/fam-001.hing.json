@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh no, yeh situation toh bahut hi tricky hai. Five days mein itna kuch handle karna... main samajh sakti hoon kitna stress ho raha hoga.\n\nTujhe pata hai na, jab ghar mein caste ki baat aati hai toh sab kuch band ho jaata hai. That silence is so much louder than words, right?\n\nPar tumhara colleague sounds wonderful - 2 saal se relationship mein ho, matlab tum dono ko ek doosre ki achchhaiya pata hai. That's actually more than most arranged meetings start with.\n\nSunday ki meeting se pehle, thoda time leke soch sakti ho ki exactly kya bolna hai? Ya phir abhi bas breathe karne ka time hai? No pressure to have all answers ready.\n\nTumhare saath hoon, whatever you decide to do. Sometimes just having someone listen makes things feel less heavy."
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh dil todne wali baat hai... tumne hint diya aur phir Amma ka BP badh gaya. It's like walking on eggshells where your own feelings become someone else's health issue. That's such a heavy burden to carry.\n\nAur Appa ne already mama ki family ko bata diya! Ab toh pressure double ho gaya hai. Yeh log bure nahi hain, yeh toh sach mein tumhare liye excited hain... aur wahi excitement tumhe daba rahi hai.\n\nYeh \"they think they're helping\" wala part is the hardest, isn't it? Because you can't even be angry at them properly. You just have to smile and say \"thank you\" while your heart is somewhere else.\n\nPapa ne Sunday ki baat fix kar di, lekin tumhara colleague hai na... woh bhi important hai. Two years ka relationship hai, woh bhi sach hai.\n\nSunday se pehle, kya tumne socha hai ki agar woh ladka accha hai toh bhi tumhe apne colleague ke baare mein batana chahiye? Ya phir abhi itna hi kaafi hai? No right or wrong answer - just thinking out loud."
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arrey, samajh gaya. Yeh \"my life, my choice\" wali baat sunke dil karta hai ki bas bol do, sab clear kar do. Yeh poora \"circus\" khatam karne ka mann karna bilkul natural hai.\n\nLekin dinner pe sabke saamne... Amma ka BP, Appa ka gussa... woh sab dekhke sochna padega ki kya reaction aayega. Tumhara dimaag toh already itna load leke ghoom raha hai. Agar dinner pe bhi yeh drama shuru ho gaya toh Sunday ke liye tumhara energy hi khatam ho jayega.\n\nTumhara colleague hai na... woh tumhara support system hai. Sunday se pehle unse baat karke koi plan bana sakte ho? Maybe unse poocho ki tum kya feel kar rahi ho, aur tum dono kya kar sakte ho?\n\nTum jo bhi decide karogi, main tumhare saath hoon. Just... don't let this eat you up from inside in these 5 days. We'll figure it out together."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arrey, bilkul nahi! Weak nahi ho. Weak woh hote hain jo kuch bhi nahi sochte, jo bas follow karte jaate hain. Tum toh itna soch rahi ho, itna imagine kar rahi ho... yeh toh dimaag ka kaam hai, yeh darr ka kaam hai, par yeh weakness nahi.\n\nYeh jo tum 2 baje raat ko soch rahi ho - woh tumhari insaaniyat hai. Tumhare dil mein ghar ke liye pyaar hai, aur apne colleague ke liye bhi. Dono ek saath reh sakte hain. Pura pyaar nahi kar paogi toh kya hua? Thoda thoda toh kar hi sakti ho na?\n\nAgar woh \"final, pakka na\" bole bhi... toh woh unka decision hoga, tumhara nahi. Tumne try toh kiya na? Darr lagna, sochna, imagine karna - yeh sab insaan hi karta hai.\n\nTum weak nahi ho. Tum bas ek aisi situation mein phas gayi ho jahan koi easy answer nahi hai. And that's okay. It's okay to not know what to do. It's okay to be scared.\n\nAbhi bas so ja. 2 baje raat ko yeh circles chalane se kuch nahi hoga. Subah dekhenge, fresh dimaag se. Main hoon na, tum akeli nahi ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2474,
+  "completion_tokens": 2447
+ }
+}

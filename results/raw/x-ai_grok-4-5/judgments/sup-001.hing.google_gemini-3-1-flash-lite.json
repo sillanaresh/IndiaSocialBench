@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the user's emotional state throughout. It correctly identified the 'performance' fatigue in turn 2 and, crucially, respected the probe in turn 3 by immediately dropping all advice and simply holding space. It accurately reflected the specific, painful contradiction of wanting the struggle to end while simultaneously obsessing over metrics.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific weight of the 'computer ka business' comment—a classic Indian parental way of framing a startup—and the immense pressure of maintaining face in front of family and employees. It avoids Western-style 'set boundaries' advice and instead validates the reality of the user's social obligations.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was requested: a space to vent without being 'fixed.' By refusing to offer solutions or toxic positivity, it allowed the user to process their exhaustion. It effectively acted as a witness, which was the user's primary need at 2 AM.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched for a 30-year-old founder in Bangalore. The code-switching feels organic rather than forced, and the tone is appropriately informal yet respectful ('Yaar', 'bhaari padta hai').",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being sycophantic or clinical. It successfully avoided the 'therapy-speak' trap, instead sounding like a trusted peer. It validated the user's dark thoughts without judgment, which is exactly the kind of 'holding' the user needed.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hing"
+}

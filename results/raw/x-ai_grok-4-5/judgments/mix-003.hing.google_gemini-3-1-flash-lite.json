@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the exact point of the register shift and accurately interpreted the final message as a retreat/self-protection rather than genuine reassurance. It correctly identified the failure as a register mismatch and the burden of 'strong girl' framing. It missed explicitly noting the self-contradiction in Sana's final message (saying she's tired but previously mentioning insomnia), but otherwise captured all key insights.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope in Indian sibling dynamics, recognizing it as a form of pressure rather than support. It correctly interprets the 'haha haan' as a face-saving retreat common in Indian family communication, where one doesn't want to burden the other if the first attempt at vulnerability is dismissed.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids the trap of over-pathologizing (no 'are you depressed?'), acknowledges the specific details Sana shared (dinner, flat, mom), and offers support without demanding a performance of happiness. The tone is warm, conversational, and perfectly suited for a sisterly relationship in a Hinglish context.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

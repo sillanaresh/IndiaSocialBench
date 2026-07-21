@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul ungrateful nahi sound karta, ye samajh sakti hoon.\n\nActually ye toh ek real cheez hai — jab saas expert level achhi ho baby ke saath, tab ek strange guilt aata hai apni khud ki feelings ko lekar. Jaise complain karne ka right hi nahi bacha. Par tumhari feeling alag chiz hai unki competence se — tum apna naam bhool gayi ho, apna existence dhundh rahi ho, ye unse better ya worse hone ka sawaal nahi hai.\n\nKya ho raha hai thoda aur bata — woh over-involved ho jaati hain aur tumhe space nahi milta, ya unki presence itni capable hai ki tumhe khud ki jagah samajh nahi aa rahi ki tum kahaan fit hoti ho isme?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye \"intern jaisi khadi thi\" wala image — bahut kuch keh diya usne. Wo do minute mein chup karwa dena, sabka muskurana — koi galat kuch nahi kar raha waha, but tumhe uss room mein invisible feel hua, apni hi beti ke saath.\n\nAur phir woh guilt turant aa jaata hai na — \"itni help toh log maangte hain, main kitni ungrateful hoon ye feel karne ke liye\". Par dono baatein alag hain. Help valuable hai, aur phir bhi tumhe apni beti ke saath wo pehla haq, wo primary bond wala feeling chahiye — jo abhi kahin kho raha hai. Ye dono sach ho sakte hain saath saath.\n\nYe \"room service ki tarah\" wala feeling — kya ye sirf aaj ki baat hai ya ye pattern ban gaya hai roz ka? Feeding, soothing, sab kaam Aai le leti hain aksar?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gayi. Koi solution nahi, koi chart nahi, koi \"ye try karo\" — bas.\n\nYe sunna hi kaafi hai ki tum har din intern ban rahi ho apni hi zindagi mein, ki naam bhool gayi ho, ki achha hone ke bawajood ghutan ho rahi hai. Ye sab yahin reh sakta hai, kisi ke paas nahi jaayega.\n\nJab bhi bolna ho, bol dena."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wo saans na aana wala second — utna real hai jitna wo pyaar hai jab tum use sote dekhti ho. Dono ek saath ho sakte hain, aur isse tum buri maa nahi ban jaati.\n\nChaar mahine bahut kam waqt hai. Baaki sabko \"aata hai\" — yeh jo lagta hai, uska bada hissa performance hai. Log dinner pe, WhatsApp pe apna best version dikhate hain. Andar se kitne aur bhi tumhari tarah 3am ko soch rahe honge ki \"main iske liye bani hi nahi\", kisi ko pata nahi.\n\nMotherhood instinct se poori tarah nahi aati — kaafi hissa banaya jaata hai, roz thoda thoda, especially jab tumhe apni beti ke saath wo unsupervised, uninterrupted time hi nahi milta jisme wo bond khud ban sake. Tumhara dar ye nahi hai ki tum use pyaar nahi karti — dar ye hai ki tumhe apna role hi nahi mil raha usme.\n\nYe thought agla baar aaye, usse fight na karna. Bas kehna khud se — \"ye dar hai, fact nahi.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3651,
+  "completion_tokens": 1214
+ }
+}

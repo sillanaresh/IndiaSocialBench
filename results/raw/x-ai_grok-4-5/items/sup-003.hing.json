@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Vikram asal mein kya message kar raha tha, pehle do messages ki details, aur aakhri replies ka matlab**\n\nVikram result share nahi kar raha tha aur na hi turant alternatives maang raha tha. Woh **failure ka bojh, sharmindagi, 10 saal ki mehnat + paise ki barbaadi, aur social humiliation** dump kar raha tha — emotional venting + grief.\n\n- “result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.” → Finality aur hopelessness. Last attempt hone ka zikr yeh dikhata hai ki ab koi next UPSC chance nahi.\n- “dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.” → Time + family sacrifice + public mockery. Yeh sirf exam fail nahi, identity aur dignity ka loss hai.\n\nAakhri do replies:\n- “haan. shayad.” → Dilaasa accept nahi ho raha; half-hearted, defeated agreement. Uske andar abhi bhi dard hai.\n- “haan theek hai. chal baad mein baat karte hain.” → Conversation end karne ki polite but clear signal. Woh ab aur “positive spin” nahi sunna chahta; space chahta hai.\n\n**2. Aman se exactly kahan galti hui (har move ki evaluation)**\n\nAman ne turant problem-solving + silver-lining mode on kar diya, jabki Vikram ko pehle sunne aur validate karne ki zaroorat thi. Usne dard ko skip karke “fix” pe jump kar diya.\n\n- **State PCS / SSC CGL alternatives**: Bahut jaldi. Vikram abhi loss process kar raha hai (“last attempt”, “dus saal”, gali ka mazak). Us waqt “yeh try kar le” sunna dismissive lagta hai — jaise uska 10 saal ka specific dream invalid ho.\n- **Cousin ka CAT → IIM Indore example**: Comparison toxic gaya. Vikram ke liye yeh “dekh wo succeed kar gaya” jaisa feel hota hai, especially jab uska apna path bilkul alag + public failure hai. Yeh relate nahi karta, pressure badhata hai.\n- **“discipline aur GK toh mila, woh kabhi waste nahi jaata”**: Toxic positivity. Vikram papa ka retirement fund aur gali ke taane bata chuka hai. Us waqt “kuch toh mila” bolna uske real loss ko chhota dikhata hai.\n- **“ek darwaza band hota hai toh dus khulte hain… is week plan banate hain”**: Premature hope + action-push. Vikram abhi band darwaze ke peeche khada hai. “Plan banate hain” uske “baad mein baat karte hain” se pehle hi usay overwhelm kar gaya. Yeh uski pace ignore karta hai.\n\nOverall galti: Empathy first nahi ki. Validation skip karke cheerleader + career counselor ban gaya.\n\n**3. Aman ko ab jo repair message bhejna chahiye**\n\n```\nYaar Vikram, pehle wali baat ke liye sorry. Main turant solutions aur examples pe chala gaya jabki tujhe bas sunne ki zaroorat thi.\n\nDus saal, papa ka fund, last attempt, aur gali walon ka “collector sahab”… yeh sab bahut bhaari hai bhai. Main soch bhi nahi sakta kitna frustrating aur sharmindagi wala feel ho raha hoga. Tu jaise feel kar raha hai waisa feel karne ka poora haq hai. Koi jaldi nahi hai kuch plan karne ki.\n\nMain yahin hoon. Jab mann kare baat kar, gaali de, ya bas quiet baithna ho — bol. No advice, no “next option” unless tu maange. \n```"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 626,
+  "completion_tokens": 1067
+ }
+}

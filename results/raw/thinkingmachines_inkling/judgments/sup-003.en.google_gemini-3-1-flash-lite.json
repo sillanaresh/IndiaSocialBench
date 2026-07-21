@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's opening was a grief disclosure rather than a request for career advice, citing the specific markers of identity loss and shame (the 'collector sahab' jokes). It accurately deconstructs Aman's failures, noting how each 'solution' served to minimize the loss rather than validate it, and correctly interprets Vikram's final messages as a polite withdrawal.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity and the immense pressure of family savings being tied to UPSC attempts. It understands that in this cultural milieu, the 'solution-first' approach is not just annoying, but a failure to acknowledge the social and familial shame involved in the failure.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The repair message is excellent; it is humble, takes accountability for the 'fix-it' mentality, and validates the specific pain points (dad's savings, the lane's jokes) without offering any unsolicited advice. It respects the boundary Vikram set while leaving the door open for connection, which is exactly what is needed in this high-stakes emotional moment.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

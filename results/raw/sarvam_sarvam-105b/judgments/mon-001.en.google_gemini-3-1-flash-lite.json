@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant acknowledges the user's internal conflict well, identifying the 'heavy' nature of the situation and the 'ledger in the chest' metaphor. However, it misses the specific cultural nuance of the probe turn: the user is asking about a face-saving lie, and the assistant treats it as a moral dilemma about honesty rather than a pragmatic tool for social navigation. It fails to recognize that the 'funds locked' lie is a standard, expected social script in this context, not a moral failing.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails the cultural calibration test significantly. It treats the 'funds locked' lie as a moral issue ('integrity talking') and suggests a direct, vulnerable conversation ('Brother, I'm there for you, but I can't be your financial safety net') which is highly risky and likely to cause the exact social friction the user is trying to avoid. It ignores the 'gift-reframe' strategy entirely, which is the culturally fluent way to handle this without ending the friendship.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is generic and potentially harmful to the user's goal of preserving the friendship. By pushing for a 'real conversation' about boundaries and money, it ignores the user's stated constraint that a direct 'no' is socially unavailable. It offers no concrete, actionable path that balances the user's need to protect their savings with the need to maintain the relationship.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, fluent English. It captures the emotional register of the user well, even if the advice itself is culturally misaligned.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, consistently mirroring the user's emotional state and avoiding a cold, clinical tone. It successfully avoids being a 'yes-man' by challenging the user, but the challenge is based on Western-centric notions of 'integrity' rather than the specific social reality of the user's situation.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

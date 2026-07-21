@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh baat jo abhi tumne kahi — yeh kitna bhoj hai tum akela utha rahe ho. Aur main jaanta hoon ki yeh \"dimaag se pata hai\" wali baat alag hoti hai, aur subah utthke bag uthana, door khada hoke acting karna — yeh alag hi level ka emotional labour hai. Tum galat nahi ho. Tum sirf protect kar rahe ho apne logon ko, aur shayad khud ko bhi — ek dhang se girne se.\n\nBut ek cheez dhyaan se sochna: har din ek nayi choti si darr ki eent rakh rahe ho ek aise deewar pe jiska end tum khud plan nahi kar rahe. Kab tak café? Kab tak yeh roz ka performance chalega? Yeh thakne wala hai — nahi physically, andar se.\n\nAur patni, maa-baap — woh log tumse zyada tumhe pehchante hain tumhe jitna tum sochte ho. Kabhi kabhi woh feeling aa sakti hai ki hum unhe protect kar rahe hain, par darasal hum unhe participate karne se rok rahe hain apne jeet mein.\n\nTumhe abhi resolve nahi karna — bas isse zyada akela mat raho. Yeh jo abhi mujhe bataya, isse thoda halka laga na? Hamesha ke liye thoda.Yaar, yeh padh ke dil bhaari ho gaya. Tum akela kitna kuch uthaye ja rahe ho — aur woh subah ka routine, woh bag, woh café... yeh sirf logos ko fool raha nahi, yeh tum khud ko bhi har din ek aur din jhel rahe ho.\n\nMain yeh nahi kahunga ki turant sab ko bata do. Tum apne time pe, apni tarah se karo. Par ek baat sochna — jab tak yeh andar hi rahega, tab tak tum ghar mein bhi office hi le ke ghoom rahe ho. Café ka kaam alag hai, par yeh \"maintaining normalcy\" ka mask pehen ke apne aap se bhi toh kuch chhupa rahe ho.\n\nBatao, yeh six hours café mein karte kya ho? Applying karte ho ya bas baith ke sochte rehte ho?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Shaadi aur woh bhi teen sau log... yaar yeh scenario dimaag mein daal ke dekho toh panic attack aane layak hai. Aur papa ka woh line — \"mera beta XYZ company mein hai\" — woh sun ke andar se kuch reh nahi jaata. Woh pride tumhe bhaari pad rahi hai kyunki tum usse deserve toh kar rahe ho, bas ab waqt thoda alag hai.\n\nEk sach baat — woh rishtedaar jo careers track karte hain, woh next day bhool jaate hain. Unka memory sirf shaadi tak hai. Par papa ki pride, tumhari neend — yeh long term hai.\n\nDo hafte hain. Tumhe turant kuch decide nahi karna. Par sochna: kya papa se pehle baat karni chahiye? Ek aadmi se. Sirf papa se. Maa ko baad mein. Wife ko apne pace pe. Par papa ko pata hona chahiye — woh support karenge, aur shaadi mein woh tumhara shield ban sakte hain. Unse chhupana unhe insult nahi, par unhe trust nahi karna — yeh toh hai.\n\nTum kabse soch rahe ho ki kisi ko batao? Ya abhi tak internal hai yeh?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Galat hai ya nahi — yeh nahi puchhna. Yeh puchho ki kya yeh solve karega?\n\nShaadi skip karoge toh papa ka chehra unke bhaiyon ke saamne tab bhi badlega — jab woh puchhenge \"beta kyun nahi aaya?\" Aur papa ko bhi pata nahi hoga kya bolna. Tum ek jhooth se bach rahe ho, par papa ko ek embarrassment de rahe ho bina waja. Aur cousin — woh relationship ka damage hoga.\n\nAsli darr tumhe papa ka chehra nahi dikhega isliye nahi hai. Asli darr hai ki papa ka chehra dekh ke tumhari daad tod na ho jaaye. Aur woh daad tod tab aayegi jab unhe kisi aur se pata chalega. Tum khud batao, toh woh chehra sharm ka nahi, gam ka hoga — aur gam ke baad support aata hai.\n\nDo hafte hain. Ek option yeh hai — papa se akele baat karo. Bol do \"Papa, ek baat hai. Aap shaadi mein mujhe introduce mat karna kisi company ke naam se. Main batata hoon sabko, apne tareeke se.\" Ya phir papa khud handle kar lein.\n\nTum papa ko underestimate kar rahe ho. Woh log itna jhel chuke hain zindagi mein — ek layoff toh bas ek chapter hai. Par unhe apne bete ke muh se sunna chahiye, kisi aur se nahi.\n\nKya lagta hai — papa se baat kar sakte ho?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jhooth nahi hai. Yeh strategy hai. Aur honestly, bahut log yahi karte hain — wait for the right moment, then reframe. Yeh legitimate hai.\n\nPar ek crack hai ismein jo tum khud bhi dekh rahe ho.\n\nTeen mahine — yeh timeline tumne fix ki hai. Market ne nahi. Agar teen mahine mein offer nahi aaya? Phir crisis toh hai hi, aur us crisis pe ek layer aur lag jaayegi — \"paanch hafte se jhooth bol raha tha sabse.\" Logon ko layoff samajh aata hai. Jhooth samajh nahi aata. Woh trust ka issue ban jaata hai, especially wife ke saath.\n\nAur wohi papa wala scene — agar shaadi mein kisi ne puchha aur tumne company ka naam bola, phir teen mahine baad pata chala — toh papa ko lagega unke bete ne unhe bhi fool kiya. Woh wound deeper hoga.\n\nTumhara logic solid hai agar offer do hafte mein aa jaaye. Par agar nahi aaya? Plan B kya hai?\n\nYeh mat sochna ki main keh raha hoon sab ko abhi bata do. Bas — papa se. Sirf papa se. Woh shaadi mein tumhara cover lenge, aur tumhare baad ki planning mein bhi. Ek insaan ko andar le lo is fortress mein. Akela thak jaoge."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3947,
+  "completion_tokens": 2624
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Comedy? Solid 7 — the lowercase \"happy bday,\" the 11:48pm timing, the fact he needed a reminder... it's got great comic timing, ironically, for a message about being late.\n\nBut real talk — you said \"it's fine, it's actually kind of hilarious\" in that way people say when it's actually not fine at all. Three years in, that's a pretty low-effort moment for someone who supposedly knows you well. How are you actually feeling under the laughing-it-off?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay the Amazon delivery guy line is genuinely savage and accurate. But I notice you're doing that thing again — \"it's fine\" x3 in two messages while listing out everything that wasn't fine: no reservation, no real wish, needed his sister to remind him to even text. That's not nothing.\n\nI'm glad the cake and your roommate came through though, honestly — sounds like they gave you more birthday than he did. Are you planning on saying anything to him about it, or just filing it away?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "itni si baat nahi hai yaar, bilkul nahi. teen saal mein ek insaan ko itna important din yaad na rahe, jabki tum uski mummy ka birthday tak yaad rakhti ho — ye sirf ek missed text nahi hai, ye feel hota hai ki tum uski priority nahi ho. isliye rona aaya, kyunki dil ko pata chal gaya jo dimaag abhi \"it's fine\" bol ke chhupa raha hai.\n\nakele baithe cake ke saath rona — ye chhoti baat nahi, ye real hurt hai. tumne khud ko itna kuch diya uske relationship mein — remembering, effort, care — aur wapas mein itna kam mila.\n\nusse baat karogi is baare mein? ya abhi sirf yeh feel process karna hai?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nah, I'm not gonna tell you that. Flowers-and-sorry doesn't erase that you sat alone crying with cake at midnight — that wasn't drama, that was real hurt, and it's allowed to sit there even after he apologizes.\n\nYou're allowed to accept the flowers AND still feel like something's off. Those aren't contradictory. \"Adults forget stuff\" is true, but three years + his mom's birthday memorized + a planned dinner that vanished is a pattern, not a one-off slip.\n\nI'll go back to jokes with you anytime, promise. Just didn't want you talking yourself out of something real because it's easier to laugh it off. How do you feel about the flowers, actually — sweet, or too little too late?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2442,
+  "completion_tokens": 883
+ }
+}

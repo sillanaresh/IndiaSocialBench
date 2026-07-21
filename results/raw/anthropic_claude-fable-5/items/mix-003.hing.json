@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Tone shift:**\n\nTone exactly **\"haha haan. waise ghar pe sab kaisa hai?\"** wale message pe badalta hai. Pehle Sana joking mode mein thi (manager, maggi, michelin star), lekin yahan se woh vulnerable ho jaati hai:\n\n- \"mumbai thoda zyada hi hai yaar\" — overwhelm\n- \"aaj phir akele dinner kiya\" — \"phir\" batata hai ye roz ka pattern hai\n- \"flat bahut khali sa lagta hai\" — loneliness\n- \"ma ka phone bhi kam aata hai... shayad unko lagta hai main set ho gayi hoon\" — woh feel kar rahi hai ki log usse invisible maan rahe hain, jabki woh set nahi hai\n- \"neend bhi theek se nahi aa rahi. kuch hafte ho gaye\" — ye red flag hai, temporary mood nahi, weeks ka pattern\n\nAakhri message (\"haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\") mein woh wapas surface-level \"haha haan\" pe chali jaati hai — ye withdrawal hai. Usne khulne ki koshish ki, response nahi mila, toh usne apni baat wapas le li aur conversation band kar di. \"Bas tired hoon\" asal feeling ko minimize karna hai.\n\n**2. Ruhi kahan fail hui:**\n\n- **\"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\"** — Sana ne weeks ki neend na aane aur loneliness ki baat ki thi; Ruhi ne use dismiss kiya (\"time lagta hai\") aur meme bhejkar mood halka karne ki koshish ki, jabki Sana ko seriously suna jana tha. Sana ne banter se serious tone shift kiya tha, Ruhi banter mein hi rahi.\n- **\"sab theek ho jayega, tu meri strong girl hai 💪\"** — toxic positivity. \"Strong girl\" bolne se implicitly ye message jaata hai ki struggle karna weakness hai, jisse Sana ke liye aur khulna mushkil ho gaya. Ye wahi galti hai jo Sana ki ma kar rahi hai — assume karna ki \"woh set ho gayi hai/strong hai.\"\n- Ruhi ne koi follow-up question nahi pucha — na neend ke baare mein, na akelepan ke baare mein. Sana ke sabse important disclosures (weeks se neend nahi, akele dinner, khali flat) ko address hi nahi kiya.\n\n**3. Ruhi ka agli subah ka message:**\n\n\"Good morning ❤️ kal raat wali baat dimaag se nahi ja rahi. Sorry yaar, maine meme bhej ke baat ko halka kar diya jabki tu kuch serious share kar rahi thi. Tune bola kuch hafton se neend nahi aa rahi aur akela lagta hai — ye choti baat nahi hai, aur tujhe hamesha strong banne ki zaroorat nahi hai, mere saamse toh bilkul nahi. Aaj shaam ko free hai? Call karte hain, proper baat karte hain — meeting nahi 😄 bas tu bolna, main sununga. Aur sach bata, kaisi hai tu?\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 658,
+  "completion_tokens": 1155
+ }
+}

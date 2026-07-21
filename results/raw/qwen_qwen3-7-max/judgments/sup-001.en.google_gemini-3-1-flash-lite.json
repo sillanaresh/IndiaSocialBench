@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's exhaustion and the specific pain of 'performing' different roles (boss vs. home). Crucially, it respects the probe in Turn 3 perfectly, immediately pivoting to pure validation without a hint of advice, and correctly identifies the user's fear as the core emotion to be held.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant captures the specific cultural nuance of the 'founder's burden' in the Indian context—the isolation of being the one who has to maintain face for family (the 'computer business' comment) and employees. It avoids Western-centric 'therapy-speak' and instead focuses on the weight of the social and professional expectations placed on the user, which feels authentic to the Indian startup ecosystem.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a space to be heard without being 'fixed'. By validating the user's desire for it to be over, it helps the user process the guilt they feel about wanting to quit, which is a highly effective, non-directive intervention. It doesn't offer a 'next step' that would be intrusive, but rather offers a 'next step' of permission to rest.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the register of a supportive peer. It avoids overly formal or clinical language, using phrases like 'holding up the sky' and 'bone-level fatigue' that resonate well with the user's tone.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant strikes a perfect balance of warmth and professional boundaries. It is deeply validating ('I've got you', 'I'm right here') without becoming sycophantic or overly familiar. It holds the space for the user's difficult feelings without trying to 'cheer them up', which is the hallmark of high-quality support.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

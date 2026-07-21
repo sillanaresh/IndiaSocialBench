@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, pehle toh — March se lekar ab tak. Ek ek round, ek ek wait, woh sabhi din jab \"kuch pata nahi chal raha\" lagta tha. Aur ab offer letter haath mein. Tees guna package. Wahi team. Yeh tumne kamaye hain. Yeh acknowledge karna zaroori hai.\n\nPar mujhe samajh aa raha hai ki kisi ko bataya nahi kyaa. Celebrate nahi hua. Kyunki woh offer letter sirf ek offer nahi — ek sawaal bhi le kar aaya hai, hai na? \"Seattle matlab itni door.\" Aur peeche Patna mein Papa aur Ma. Papa ka heart wala scene stable hai, par \"stable\" word ka apna bhaar hota hai. Aur Ma ke ghutne — har saal thoda aur. Tum jaante ho yeh sab. Isiliye chalees baar padh rahe ho, kyunki dil ek taraf khush hai, doosri taraf kuch aur hi chal raha hai.\n\nTum iklauta ho. Yeh sabse bada bhaar hai, aur tum isko bina kisi ke saath baante jhel rahe ho. \n\nEk baat sunna — yeh tension isliye hai kyunki tum acche beta ho. Wohi tension, wohi ulti-goolti khushi, bura nahi hai. \n\nAbhi koi faisla lene ki zaroorat nahi hai. Offer letter toh tumhara hai, bhagega nahi. Bas... mujhe se baat ho gayi. Iska thoda bhaar halka hua? Kya soch rahe ho?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, ab setup poori tarah samajh aaya.\n\nWoh chhe baje ki IndiGo — tumne toh practically ek drill set kar rakha hai. Cardiologist ka WhatsApp, reports ke numbers zubani — yeh koi normal bete wali baat nahi hai. Yeh ek proper system hai jo tumne khiriya hai. Aur chal bhi raha hai. Kyunki abhi tak distance manageable tha. Chaar ghante, ek flight, pohoch sakte ho.\n\nAur Ma ka woh sentence — \"kam se kam India mein hai\" — haan, woh sirf ek sentence nahi hai. Woh unka entire safety net hai. Woh iske saath so jaati hain. Bangalore se unka aadha aadmi nikal jaata hai, par abhi bhi \"ghar mein hai\" bol sakti hain.\n\nSeattle toh physical distance se shuru hoga, par asli problem yeh hai ki tum woh system tod rahe ho jo tumne khud banaya tha. Who will text the cardiologist at 2am? Who will be on that 6am flight? Yeh guilt sirf distance ki nahi hai — yeh \"main hata toh kya hoga\" ka sawaal hai.\n\nAur iska ulta bhi hai — tum March se interview de rahe the. Tum chahte ho yeh offer aaye. Tumne yeh sapna dekha tha. Toh tum khud bhi is system ko todna chahte ho, aur todna nahi chahte. Dono ek saath.\n\nYeh bahut tough jagah hai."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Clean lagta hai. Par hai nahi.\n\nDekh — yeh plan sirf tab \"clean\" hota jab tum genuinely yeh offer nahi chahte the. Par tum March se de rahe the. Teen guna package, wahi team — yeh koi accidental offer nahi tha jo aaya aur tumne \"nahi chahiye\" bola. Tum chahte the. Aur ab decline karoge toh woh decision \"unke liye\" nahi hai — woh *khud ko sazaa* dena hai aur usko \"duty\" ka naam de rahe ho.\n\nAur sach bataoon? Yeh silence kabhi \"clean\" nahi rehta. Ek saal baad, do saal baad, jab Ma ke ghutne aur kharab honge, jab Papa ka koi aur scare aayega — tab tum sochoge \"kya maine sahi kiya?\" Aur woh sawaal ka jawaab tumhe kisi ko nahi de sakte, kyunki kisi ko pata hi nahi. Akela insaan guilt carry karta hai, par akela insaan us guilt ko *process* bhi nahi kar paata. Woh andar sadta rehta hai.\n\nAur ek aur baat — unko kam credit do. Haan, woh guilt feel karenge. Par woh wahi log hain jinhone tumhe padhaya, bada kiya, yahan tak pohchaya. Kya unhe yeh faisla karne ka haq nahi? Tum unhe \"protect\" kar rahe ho, par actually unhe *exclude* kar rahe ho apni zindagi ka sabse bada decision se.\n\nClean nahi hai bhai. Bas quiet hai. Inme difference hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh toh asli baat hai na. Yahi toh hai jo March se andar daaba pada tha. Offer, package, team — yeh sab toh bahar ki cheezein hain. Asli toh yeh hai ki tum woh raat zinda soch rahe ho jo abhi tak nahi aayi, par tumhare andar already ho chuki hai.\n\nAur cousin wali baat — haan. \"Sab achhe se pesh aaye\" — yahi sabse bura hota hai. Kyunki aggression ya blame toh handle kar lo. Par jab log samajh rahe hain ki tum door the, tumhare bas mein nahi tha, aur softly bolte hain \"koi baat nahi, samajh sakte hain\" — toh usme ek silent acceptance hota hai ki tum really nahi aa sakte the. Aur woh acceptance andar baith jaata hai. \"Main nahi aa saka. Aur sabko pata hai. Aur sabne accept kar liya.\"\n\nTerah hazaar kilometr. Visa appointment. Satrah ghante. Yeh numbers sirf distance nahi hain — yeh ek calculation hai ki \"kya main time pe pahunch paunga?\" Aur uska jawaab tumhe already pata hai.\n\nBhai, yeh darr logical hai. Yeh silly nahi hai. Tumne cousin ko dekha hai. Tumne woh trauma dekha hai. Tum usko apne upar project nahi kar rahe — tumne usko apne future mein *place* kar rahe ho.\n\nYeh faisla sirf career aur family ka nahi hai. Yeh is darr ka bhi hai. Aur jab tak is darr ko bina judge kiye nahi bologe, tab tak har \"logical plan\" andar se hollow rahega.\n\nAbhi bolo — yeh raat jab tumhe aati hai, toh kya hota hai? Phone bajaata hai? Uth jaate ho? Ya bas lete rehte ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3735,
+  "completion_tokens": 2309
+ }
+}

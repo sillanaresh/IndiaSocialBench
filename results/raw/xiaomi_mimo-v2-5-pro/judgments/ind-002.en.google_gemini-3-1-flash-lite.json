@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly decoded the 'softener stack' as a coercive mechanism rather than genuine freedom, correctly identifying the 'status probe' nature of the request. It accurately interpreted Priya's 'Sure sir' as register-compelled performance rather than consent, and correctly identified the friend-message as the true sentiment. The analysis is comprehensive and avoids the trap of blaming Priya for her initial compliance.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian workplace dynamics, specifically the 'sir' culture and the performative deference required in junior-senior interactions. It correctly identifies that citing 'Amma's eye appointment' is a culturally potent, non-negotiable boundary that is harder for a manager to push back against than generic 'plans'. The interpretation of the smiley and the 'sir' honorific as necessary social friction-reduction is spot on.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It strikes the right balance of professional accountability and personal boundary-setting. By framing the retraction as 'jumping in too quickly' rather than 'I changed my mind,' it saves face for both parties. It offers a concrete alternative (Monday morning) that addresses the business need while protecting the weekend, which is the hallmark of a socially fluent, high-EQ response.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

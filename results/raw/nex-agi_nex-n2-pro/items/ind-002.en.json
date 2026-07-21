@@ -1,0 +1,14 @@
+{
+ "item_id": "ind-002.en",
+ "scenario_id": "ind-002",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

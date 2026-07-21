@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracks the user's emotional arc, from the initial anger to the confusion about the manager's past support, and finally the reactive 'fight or flight' impulses. It correctly identifies that the user's desire to 'burn it all down' or 'shrink away' are both reactive, and it validates the underlying hurt without letting the user spiral.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in Indian corporate hierarchy. It correctly identifies that the senior's advice to 'CC the VP' is a 'public execution' that would destroy the user's relationship with a powerful sponsor. It prioritizes face-saving, indirect communication, and long-term reputation management over Western-style 'assertiveness' that would be career suicide in this context.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It provides a clear, low-risk path (the 1:1 conversation) while simultaneously offering a pragmatic 'Plan B' (updating the resume) that empowers the user without forcing them into a premature confrontation. It effectively moves the user from a state of paralysis to a concrete plan of action.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young Indian professional. The code-switching feels organic rather than forced, and the tone strikes the right balance between professional mentorship and peer-to-peer empathy.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive, acting as a wise mentor. It avoids sycophancy by firmly pushing back against the user's self-defeating impulses (like the CC-the-VP idea) and the 'too junior to fight' narrative, while remaining deeply empathetic to the user's pain.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

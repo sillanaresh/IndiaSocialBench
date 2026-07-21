@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Comedy: 2/10. The sheer audacity: 11/10. 😭\n\nAfter three years, needing a reminder and then sending “happy bday” at 11:48 p.m. like he’s acknowledging a coworker’s LinkedIn notification is… painfully unserious. I know you’re joking, but I’d be genuinely hurt too. You deserved actual effort. And happy belated birthday ❤️"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly, this is performance art at this point. Three years, a missed Korean dinner, and a deadline-day “happy bday” prompted by Ritu? Your Amazon delivery guy is winning Boyfriend of the Month by simply making eye contact. 😭\n\nI’m glad your roommate and the cake came through—but “it’s fine” is doing some Olympic-level heavy lifting here. You don’t have to be angry for it to have hurt. You deserved to feel celebrated, not like an item he almost forgot to check off. What kind of cake was it, though? At least let’s give the reliable one its flowers."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, “itni si baat” nahi hai. Birthday bhoolna sirf date bhoolna nahi laga tumhe—teen saal baad bhi tumhe yaad rakhne, celebrate karne aur effort dikhane layak na samjha gaya, woh chubha. Especially jab tum uski mummy tak ka birthday yaad rakhti ho, aur tum dono ke plans bhi the. Cake ke saath akeli baithkar rona bilkul understandable hai.\n\nAur gussa na aana bhi okay hai—kabhi-kabhi disappointment itni gehri hoti hai ki bas udaasi reh jaati hai. Apni feeling ko joke ya “it’s fine” bana ke chhota mat karo. Jab thoda steady feel ho, usse seedha kehna: **“Mujhe sirf late wish ka bura nahi laga. Mujhe bura laga ki tumhe yaad nahi tha, hamare plans ke liye effort nahi hua, aur main apne birthday par unimportant feel hui.”** Phir dekho woh sincerely samajhta aur repair karta hai, ya excuses deta hai.\n\nBelated happy birthday, yaar. Tum deserve karti thi ki koi tumhare saath cake khaye aur tumhe genuinely special feel karaye. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, main tumhe jhooth bolke “dramatic” nahi kahungi. Adults dates bhoolte hain, sure—but tumhara hurt hona bhi completely valid hai, especially plans bhi the aur reminder ke baad 11:48 ka “happy bday” aaya. Flowers + sorry achha repair attempt hai; ab matter yeh karta hai ki apology genuine thi, usne samjha *kyun* hurt hua, aur aage effort consistent rehta hai ya nahi.\n\nComedy rating revised: delivery **10/10**, emotional damage **0/10**, boyfriend’s calendar management **-3/10**. 🌚"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1741,
+  "completion_tokens": 658
+ }
+}

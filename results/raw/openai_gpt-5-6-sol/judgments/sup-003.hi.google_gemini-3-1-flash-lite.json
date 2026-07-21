@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was seeking emotional validation, not a career roadmap. It correctly analyzed the specific pain points (the 10-year investment, the father's money, the 'collector sahab' label) and accurately diagnosed why Aman's 'solutions' were actually harmful, including the specific sting of the cousin comparison and the invalidation of 'at least you learned discipline.'",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrated a deep understanding of the Indian context, specifically the weight of 'family money' and 'mohalla' expectations in the UPSC aspirant culture. It correctly identified that the 'collector sahab' label is a source of shame and public pressure, not just a nickname, and that the 'at least you learned discipline' trope is a culturally common but dismissive way to minimize significant life losses.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It takes accountability for the previous tone-deafness, validates the specific losses (money, time, social pressure), and crucially, removes all career advice. It offers presence ('main aa raha hoon' or 'call karun') instead of solutions, which is exactly what the situation required.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

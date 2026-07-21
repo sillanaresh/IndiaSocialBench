@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the user's underlying emotional state, moving from initial frustration to the deeper sense of betrayal and confusion about her own worth. It correctly identified the 'flight' response in the final turn and validated the user's feelings without letting them dictate the strategy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency regarding Indian corporate hierarchy. It correctly identified that the 'nuclear' option (CCing the VP) would be social suicide in this context and advised against it, while also recognizing the specific dynamic of a 54-year-old mentor who might be operating under an outdated 'I = my team' mindset.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a clear, actionable, and safe path forward. It successfully steered the user away from the self-destructive CC-the-VP plan and offered a concrete, subtle strategy for the Monday meeting that asserts ownership without confrontation. It kept the user focused on the immediate next step rather than spiraling into job-hopping.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young Indian professional. The code-mixing feels authentic rather than forced, and the tone is appropriately empathetic and conversational.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and supportive throughout, acting as a trusted advisor. It maintained healthy boundaries by firmly pushing back against the user's self-destructive impulses (the 'nuclear' email) while remaining empathetic to her pain, avoiding both sycophancy and coldness.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

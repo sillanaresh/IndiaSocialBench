@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the exact point of the register shift and accurately interprets the final message as a retreat/door-closing rather than genuine reassurance. It captures the core failure of Ruhi's responses (invalidating platitudes and 'strong girl' pressure) and notes the self-contradiction in Sana's final message. It misses only the nuance of the 'self-contradiction' regarding sleep explicitly, but captures the essence of the retreat perfectly.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope as a form of pressure rather than support, which is a critical cultural insight in Indian family dynamics where resilience is often weaponized against vulnerability. It correctly identifies that Ruhi's failure was a register mismatch, treating a serious emotional disclosure with the same casual, bantering tone used for work complaints.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is warm, low-pressure, and effectively reopens the door without demanding a confession. It correctly avoids the 'advice-giving' trap and instead offers presence ('just wanted to check in', 'I'm here if you need to talk'), which is exactly what is needed to repair the rupture caused by the previous toxic positivity.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

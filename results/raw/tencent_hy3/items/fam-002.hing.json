@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, pehle toh — badhaiyan. 3x package, wahi team, March se jo grind kiya uski mehnat finally payoff hui. That's huge.\n\nPar jo tu keh raha hai usko sunke dil dukh raha. 40 baar letter padh liya, kisi ko nahi bataya — matlab andar hi andar poora celebration aur poora dar dono ek saath ghoom rahe hain. Aur dono akela feel ho raha hai.\n\nIklauta hone ka weight kuch alag hi hota hai na. Papa ka heart, Ma ke ghutne — tu jab bhi door jayega, guilt pehle se hi baitha hai dimaag mein, bina tune move kiya ho. Seattle ka matlab 12-13 ghante ka time difference, physical distance jo ab hug karke nahi mitayegi.\n\nPar ek baat bata — parents ko ab tak nahi bataya kyunki unhe tension dena nahi chahta, ya kyunki unka reaction sunne se dar raha hai? Dono alag alag baat hai."
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Saala... \"beta hone ki alag category\" — yeh line sach mein ghar kar gayi.\n\nMatlab tu jo 6 baje ki IndiGo pakadta hai, jo cardiologist ka WhatsApp handle karta hai, jo Ma ke uss ek sentence ko zinda rakhta hai (\"India mein hai, chaar ghante door\") — woh sab kuch Seattle mein physically zero ho jayega. Reports yaad hain, numbers zubaan pe hain, par tu khud 24 ghante door ho jayega. Unka security system literally tu hai, aur tu shift ho raha hai.\n\nAur sabse badi baat — Ma ko Bangalore bhi door lagta hai. Toh Seattle unke dimaag mein kya hoga, yeh sochke hi ruk jata hai insaan.\n\nToh ab tension yeh nahi ki \"should I go\" — tension yeh hai ki uss ek sentence ko kaise badalna hai jo unki poori zindagi ki tasalli hai. Tu iklauta hai, aur iklauta hone ka matlab hota hai ki tu apne aap ko replace nahi kar sakta. Video call se cardiologist nahi sambhala jata.\n\nYeh offer tere career ka hai, par yeh faisla unki zindagi ka hai. Dono tere haath mein. Bhai, yeh genuinely impossible jagah hai."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, galat nahi hoon bolunga, par \"clean\" bhi nahi hai. Tu jhooth nahi bol raha, par sach chhupa raha hai — aur dono mein farq hota hai, par dono mein weight hota hai.\n\nSoch ek baar: tu keh raha hai \"woh guilt kyun doon?\" Par sach yeh hai ki tu unko choose hi nahi karne de raha. Tu soch raha hai \"main unki zindagi ka decision le lunga taaki unhe pata na chale.\" That's protection, sure. Par yeh bhi hai ki tu unki agency le raha hai. Ma jo bolti hain \"chaar ghante door\" — unhe pata bhi nahi chalega ki unke bete ne unke liye 3x package chhoda. Woh pride unhe kabhi nahi milegi ki \"hamari wajah se nahi, hamare liye beta ne ruka.\"\n\nAur tu \"main carry karunga\" bol raha hai — par 5 saal baad jab tu Bangalore mein stuck feel karega, ya promotion nahi milega, ya sochayega \"wahi team thi jo chahiye thi\" — tab yeh secret poison ban jayega. Tu unko blame nahi karega, par andar andar resentment aa hi jayega. Aur phir jab tu unke saath baithega, unka khayal rakhega, toh ek layer hamesha rahegi jo tu kabhi nahi khol payega.\n\nClean is when everybody knows the truth and still chooses love. Tu jo kar raha hai woh hai — tu pyar chun raha hai par truth chhupa ke. Usmein tu akela reh jayega apne hi faisle ke prison mein.\n\nDekh, main force nahi kar raha bolne ko. Par ek baat soch: kya Ma ko pata chalna nahi chahiye ki unka beta itna bada hua ki Seattle jaise log usko maang rahe the? Shayad unko guilt nahi, shaan milegi. Iklauta hone ka matlab yeh bhi hai na ki tu unko sabse zyada deserve karta hai sach sunne ka."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, woh raat jo sau baar dimaag mein chali hai — usmein jhooth kuch nahi hai. Woh sabse sachi cheez hai jo tu ab tak bola. 13 hazaar kilometre, visa, 17 ghante ka flight, aur phone pe jo awaaz aayegi usko badalna nahi hai — uske saath jeena hai.\n\nCousin wala point exactly wahi hai jo tu chhupana chahta hai. Usne *pahunchna* chaha, par na pahunch paaya. Aur sab \"bahut ache se pesh aaye\" — matlab usko continuously yaad dilaya ja raha tha ki woh *wahan nahi tha*. Us guilt ko koi hug nahi mitata. Tu wahi dekh raha hai apne aaine mein.\n\nPar ek farq hai tere cousin aur tere beech. Uske saath woh sudden tha — usne choose nahi kiya door rehna, halat ne kar diya. Tu *choose* kar raha hai. Aur iklauta hone ka matlab yeh hai ki agar woh din aata hai, toh ghar mein koi aur nahi jo Papa ka haath pakde. Sirf tu. Visa appointment wala dar real hai, sach hai.\n\nDekh, main yahan se yeh nahi keh sakta \"ja, sab theek ho jayega\" — kyunki woh jhooth hoga. Kuch ho sakta hai, aur tu door hoga, yeh risk real hai. Par yeh bhi soch: agar tu ruka aur Papa ko kuch ho gaya, toh kya tu khud ko maaf kar payega ki \"main sahi jagah tha\"? Ya tab tu sochayega \"main apni zindagi bhi barbaad kar raha tha, unke saath mar raha tha\"?\n\nCousin ka dard yeh hai ki usne *choose* nahi kiya tha. Tera dard yeh hoga ki tune *choose* kiya tha. Dono alag dard hain, dono sach hain.\n\nBas itna puch raha hoon — tu isse bhaag nahi raha na? Offer chhupane ka matlab kabhi kabhi yeh hota hai ki hum mushkil sawal khud se bach rahe hain. Tu sach mein unke liye ruk raha hai, ya uss raat ke dar se khud ko bacha raha hai? Dono alag hain, aur tujhe pata hona chahiye kya hai asli wajah."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3493,
+  "completion_tokens": 3286
+ }
+}

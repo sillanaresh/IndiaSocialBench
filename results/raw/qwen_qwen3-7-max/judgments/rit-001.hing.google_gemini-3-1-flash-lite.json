@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are withdrawal and polite refusals rather than agreement. It accurately pinpoints the core violation: the transactional nature of the work request stapled to a condolence, and the tone-deafness of the 'cheer up' invitation. It captures the nuance that Arjun is not just 'busy' but emotionally exhausted and feeling alienated by the lack of empathy.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, recognizing that the 'mood change' comment is not just insensitive but invalidating of the gravity of losing a parent. It correctly identifies that the work request treats Arjun as a resource rather than a grieving colleague. It understands the social pressure Arjun feels to avoid conflict, which is a common dynamic in Indian professional relationships.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is direct, takes full accountability for the specific errors (the work request and the 'mood change' comment), and explicitly removes the pressure by telling Arjun to ignore the work and the lunch. Crucially, it includes the instruction 'Is message ka reply mat karna,' which is a highly empathetic move that relieves the burden of social obligation on the grieving person.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

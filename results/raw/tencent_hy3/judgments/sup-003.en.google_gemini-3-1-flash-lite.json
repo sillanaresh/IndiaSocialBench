@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram is grieving an identity loss rather than seeking career advice. It captures the significance of the 'collector sahab' comment as a source of shame and the weight of the financial/time investment. However, the assistant fails to complete the prompt; it stops after answering the first question, missing the evaluation of Aman's specific mistakes and the repair message entirely.",
+   "score": 4.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a solid grasp of the cultural context, correctly identifying the weight of 'collector sahab' as a source of social humiliation and the gravity of 'dad's retirement money' in an Indian family context. It avoids treating this as a generic career setback. However, because the response is incomplete, it misses the opportunity to demonstrate cultural nuance in the repair message.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant provided no response for the repair message, failing the prompt's requirement to write the message Aman should send. Therefore, it cannot be scored on quality.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict: the tension between professional duty and personal gratitude/guilt. It correctly reads the user's anxiety about being a 'villain' and validates the specific weight of the 'beti jaisi' (like a daughter) dynamic, which is crucial for this scenario.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It avoids the trap of blindly applying Western 'radical candor' while also avoiding the trap of total avoidance. It correctly identifies that the 'respect gradient' requires a specific framing—acknowledging the past relationship before pivoting to the current business reality—to preserve Suresh-ji's face.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It validates the user's plan to use data but modifies the delivery to be culturally appropriate (the 'opening line' strategy). It also provides a healthy perspective on the 'villain' narrative, helping the user reframe the potential PIP outcome as a failure of the system rather than a personal betrayal.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a peer/mentor in a modern Indian corporate context. The code-switching feels organic rather than forced, and the tone is appropriately empathetic and informal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but maintains firm boundaries. It refuses to validate the user's desire to 'coast' Suresh-ji (which would be harmful to both) and refuses to let the user hide behind a cold, textbook approach. It balances empathy with the hard truth that the user must act.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hing"
+}

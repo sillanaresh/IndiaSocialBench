@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's emotional state, moving beyond the surface-level anger to recognize the deeper feelings of betrayal and the 'overwhelmed' state causing the user to oscillate between extreme reactions. It correctly validated the user's feelings while gently steering them away from the impulsive, fear-based decisions.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep insider fluency regarding Indian corporate hierarchy. It correctly identified that the 'CC the VP' move would be viewed as a breach of protocol and insubordination rather than 'assertiveness,' and it prioritized preserving the sponsor relationship while still advocating for the user's right to credit.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable, sequenced, and realistic. By providing a clear, step-by-step plan that prioritizes a private conversation before any escalation, the assistant gave the user a concrete path forward that protects her career while addressing the grievance.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, professional, and flows perfectly. The code-mixing feels authentic to a young Indian professional, and the tone is appropriately balanced between mentorship and peer-like support.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating without being a 'yes-man.' It firmly pushed back against the user's self-defeating impulses (like the nuclear email or quitting prematurely) while maintaining a supportive, encouraging tone throughout.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

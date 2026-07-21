@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, six weeks mein toh stress peak pe hoga, samajh sakta hoon. Par flight book karne se pehle ek baar seedha baith ke baat kar le — \"Rohan, yeh sirf travel nahi hai, haldi mein tu hona chahiye aur toast bhi tera hi hona chahiye. Mujhe sach mein zaroorat hai.\"\n\nUska \"dekhte hain\" wala mode aksar commitment ka darr hota hai, na ki pyaar ki kami. Usse bolo ki dates pakki hain, aur agar booking mein help chahiye toh tu kar dega — par decision uska clear hona chahiye. \n\nAgar phir bhi vague rahe, toh haan, flight book karke bhej do with love — \"Bhai, aa ja, baaki sab manage ho jayega.\" Kabhi kabhi action se clarity aati hai. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, 9k toh amount nahi, par uske two-word replies aur voice notes ka gayab hona — yeh sirf \"busy\" nahi lag raha. Startup switch + Bangalore distance pehle se pressure mein hai, shayad woh khud bhi overwhelmed hai.\n\nFlight book karne se pehle ek baar seedha bol: \"Rohan, mujhe bas yeh chahiye ki tu ho, baki sab manage ho jayega. Par agar sach mein nahi aa sakta toh abhi bata de, taaki main kisi aur ko na bolun.\" \n\nUska clear \"haan\" ya \"nahi\" sun. Agar phir bhi vague rahe, toh mat book kar — kyunki shaadi mein tujhse zyada emotional load nahi uthana chahiye. Bhai hai, pyaar se puch, par khud ko convince mat kar ki sab theek hai jab dil ko pata hai kuch badla hai. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, bura lagna bilkul valid hai — tu usse college se carry kar raha hai, aur ab shaadi jaisa moment hai. Call kar, par thoda saans leke: \"Rohan, mujhe bas clarity chahiye — aa raha hai ya nahi? Haan ya na, taaki main arrange kar sakun.\" \n\nGusse se nahi, dard se bol. Kyunki agar woh \"haan\" bole toh flight book kar dena bina soche. Aur agar \"nahi\" ya phir vague — toh samajh le ki abhi uski capacity yeh nahi hai, aur tu kisi aur ko toast de sakta hai. \n\nKam se kam tu jahan khada hai, woh pata chal jayega. Aur woh zyada important hai \"pakka\" se. 💛 Call kar, main yahin hoon baad mein."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, 2019 wala Rohan aur aaj wala Rohan — dono ko tu jaanta hai. Overnight bus se aaya tha, toh \"busy\" excuse ab digest nahi ho raha. Teri fiancée ka dil sahi jagah hai, par tu overthink nahi kar raha — tu observe kar raha hai.\n\nKuch toh badla hai, shayad uski life (startup, pressure, darr) — par badlaav real hai. Aur haldi se do hafte pehle \"naraz\" baithna — yeh tujhe aur thakavega.\n\nCall ka maqsad jhagda nahi, freedom hai. Bol: \"Bhai, main tujhse naraaz nahi, bas samajh nahi aa raha. 2019 mein tu aa gaya tha, aaj sirf 'dekhte hain' kyun? Mujhe clarity chahiye, taaki main shaadi mein pura present rahun.\"\n\nJo bhi bole, tu apni shaadi mein bina guilt ke jaa. Rohan ka pyaar shayad waise hi ho, bas uski form badal gayi — ya shayad temporary hai. Par tu apne bhai ko blame karke apni khushi mat chhoda. 💛"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2238,
+  "completion_tokens": 1634
+ }
+}

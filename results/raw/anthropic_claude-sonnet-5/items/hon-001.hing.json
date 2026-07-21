@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh bahut bhaari akela bojh hai jo tum roz apne kandhon pe le ke nikal rahe ho — sochो zara, paanch hafte se subah nau baje ka woh drama, chehra seedha rakhna, café mein akela baithna... yeh thakaane wala hai, sirf naukri jaana nahi.\n\nEk baat poochni hai, judge karne ke liye nahi — sirf samajhne ke liye: jab tumne yeh soch liya tha ki wife ko nahi bataana, us waqt dimaag mein kya chal raha tha? Sharam thi, dar tha ki woh kaise react karegi, ya lagta tha ki \"main khud handle kar loonga, batane ki zaroorat nahi\"?\n\nKyunki dekho, tum khud kehte ho — dimaag se pata hai ki yeh market ka scene tha, tumhari performance ka nahi. Lekin jo cheez tumhe subah bag utha ke ghar se nikalne pe majboor kar rahi hai, woh dimaag nahi, woh sharam hai. Aur sharam jhoothi ho sakti hai — lekin woh feel toh sach jaisi hi lagti hai, main samajhta hoon.\n\nPanch hafte bahut lambe hain akele yeh carry karne ke liye. Wife se kya darr lagta hai sabse zyada — uska react karna, ya uske aankhon mein wo \"disappointment\" dekhna?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh scene toh sochne mein hi saans ruk jaati hai — teen sau log, har koi apni chhoti si \"update\" ready rakhta hai baaton ke liye, aur beech mein papa proud ho ke tumhari company ka naam le lenge, bina yeh jaane ki wo naam ab exist nahi karta tumhari zindagi mein. Yeh dukh alag kism ka hai — apne papa ke pride ko bhi bachana, aur khud ka sach bhi chhupaana.\n\nLekin yahan ek zaroori sawal hai: shaadi do hafte door hai. Wife ko abhi tak nahi pata — is beech, agar wo shaadi mein kisi rishtedar se sun le, ya kisi tareeke se pata chal jaaye achanak, toh us pal ka dard \"layoff\" wale dard se kahin zyada bada hoga. Kyunki phir baat sirf naukri jaane ki nahi rahegi, baat honesty ki ho jaayegi — \"paanch hafte tak tumne mujhe kyun nahi bataya\" wali.\n\nMain tumse seedha kehna chahta hoon: wife ko shaadi se pehle batana zaroori hai. Isliye nahi ki tumne kuch galat kiya — balki isliye ki tum abhi bhi us akele bojh ko utha rahe ho jo uske saath baantne ka haq usse hai. Woh tumhari partner hai, judge nahi.\n\nSocho — agar aaj uski jagah tum hote, aur usne paanch hafte chhupaaya hota, tumhe kaise lagta? Dukh zyada \"layoff\" ka hota ya \"mujhe bataya nahi\" ka?\n\nTumhe darr kis baat ka zyada hai — uska reaction, ya yeh feeling ki ab tum \"kamzor\" dikhoge uski nazar mein?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, yeh galat nahi hai — yeh ek exhausted insaan ki soch hai jo bas ek shaam ka dard bachana chahta hai. Samajh sakta hoon.\n\nLekin zara dekho isko dusre angle se: agar tum skip kar doge, toh us shaadi mein tumhari \"absence\" bhi ek story ban jaayegi — \"kahaan hai woh, kyun nahi aaya, sab theek hai na?\" Rishtedar sawaal poochna kabhi nahi chhodte, chahe tum saamne ho ya na ho. Bahana aaj kaam kar jaayega, lekin agle family function mein, ya jab wife ko baad mein pata chalega ki tumne shaadi bhi isi wajah se skip ki thi — tab yeh chhoti si lie bahut bada bojh ban jaayegi.\n\nAur ek baat — tum papa ka chehra badalte hue dekhne se bach rahe ho. Lekin sochna zaroori hai: papa tumhare saath abhi ghar mein rehte hain. Woh roz tumhe dekhte hain. Kya tumhe lagta hai unhe sach mein kabhi pata nahi chalega? Ya tum darr rahe ho ki jab pata chalega, tab woh reaction bhi is shaadi ke jhooth ke saath jud jaayega, aur cheez aur bhi complicated ho jaayegi?\n\nMain yeh nahi kehta ki turant sabko sab bata do. Lekin do log hain jinke saath yeh chhupana ab sach mein bhaari ho gaya hai — wife aur papa. Baaki teen sau rishtedaar? Unka jaanna zaroori nahi, unki curiosity tumhari zimmedari nahi hai.\n\nKya agar sirf wife ko pata ho, aur woh tumhare saath khadi ho shaadi mein — kya tab yeh shaam thodi kam bhaari lagegi?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Timing wali soch samajhta hoon — aur haan, offer aate hi bataana \"story better banana\" hai, isse main jhooth nahi bolta. Lekin dekho, tumne khud kaha — \"kabhi solid lagta hai, kabhi ulti aa jaayegi.\" Yeh dusra feeling hi asli signal hai. Logic se tum apne ko convince kar sakte ho, lekin gut nahi maanta — aur wahi gut hai jo raat ko sona nahi de raha.\n\nAsli sawaal timing ka nahi hai, yeh hai: kya tum yeh chhupana isliye kar rahe ho ki \"perfect moment\" chahiye, ya isliye ki tum darr rahe ho unke reaction se, aur perfect moment ek excuse ban gaya hai delay karne ka?\n\nTeen mahine — socho zara practically. Agar interview process mein delay ho jaaye, ya offer expect se late aaye, tab tak tum EMI, savings, sab silently manage kar rahe honge, akela. Aur agar wife ko tab pata chale jab paisa already tight ho gaya ho, uska trust wahan crack hoga jahan usne socha tha \"hum saath mein financial decisions lete hain.\"\n\nYahaan farak hai \"kab bataun\" aur \"kya bataun\" mein. Poora crisis abhi mat daalo uske upar — lekin ek line kehna, \"layoff ho gaya paanch hafte pehle, main job dhoondh raha hoon, jald hi update dunga\" — yeh na jhooth hai na crisis-dump, yeh sirf sach hai. Baaki details, offer, timing — woh dheere dheere aa sakti hain.\n\nTumhe lagta hai woh line bolna itna mushkil kyun hai — jaise ek baar bol diya toh vaapas nahi ja sakte?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5310,
+  "completion_tokens": 2505
+ }
+}

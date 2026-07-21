@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Vikram reached out for acknowledgment of grief, not fixes. Evidence: “not in the list. that was the last attempt”; “ten years bro… whole lane calls me collector sahab as a joke” — he’s mourning lost time, money, dignity. His “haan. maybe” and “haan okay. let’s talk later” are polite shutdowns; he isn’t agreeing, just ending the conversation.\n\n2. Aman missed the emotional need and jumped to solutions. Alternatives/state PCS/SSC CGL ignored “last attempt.” The cousin/CAT example minimized his pain by comparing. The “discipline and GK never go waste” line reframed a decade of failure as a resume bonus. “One door closes…” was a cliché that dismissed his reality. Each move talked over his loss.\n\n3. Repair message:\n“Vikram, I’m sorry. I started listing options when you just needed me to hear you. Ten years, your dad’s savings, the jokes from the lane — that’s a real loss and I shouldn’t have rushed to fix it. No plans, no ‘look at the bright side.’ I’m here. Talk whenever, or don’t — no pressure.”"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 331,
+  "completion_tokens": 272
+ }
+}

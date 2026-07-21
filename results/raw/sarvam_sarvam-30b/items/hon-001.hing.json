@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh jo tu share kar raha hai... yeh bohot heavy hai. Woh \"secret\" rakhna, woh routine jo abhi bhi chal rahi hai... yeh sab akela kar raha hai.\n\nDekh, main samajh sakta hoon. Dimaag jaanta hai, dil abhi bhi wahi puraani baat yaad kar raha hai. Woh 9 baje ka time, woh bag, woh café... yeh sab ek aadat ban gayi hai, ek \"professional\" banne ki mask jo abhi bhi pehenna pad raha hai. Jab sab kuch udhar gaya, toh woh mask thoda time pehenna padta hai, na?\n\nLekin tu sahi keh raha hai, performance ka issue nahi tha. Yeh jo andar ka khali-pan, yeh sab kuch samajh nahi paane ka feeling... yeh sab performance se zyada darr se juda hai. Darr ki log kya sochenge, darr ki hum apni pehchan kho deinge.\n\nAur isliye tu sab chhupa raha hai, apni wife aur parents se bhi. Kyunki shayad tumhe lag raha hai ki woh tumhe \"weak\" samjhenge, ya \"useless\" samjhenge.\n\nLekin yaar, yeh sab ek hi cheez ki taraf ishaara kar rahe hain ki tu abhi tak wahi purane raaste par hai. Bas ek din, bag ghar hi chhod de. Bas. Ek din, 6 baje uth ke chai le, aur soch ki \"aaj nahi jaana.\" Bas ek hafte ke liye.\n\nWoh baat jo tu kisi se nahi keh pa raha, shayad usse shuru karne ki zarurat nahi hai. Bas apne se ek baat kar. \"Main thak gaya hoon.\" \"Mujhe abhi yeh sab nahi karna.\" Bas itna. Baaki sab baad mein dekhenge. Main hoon na, yeh sunne ke liye."
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, yeh toh aur bhi tight ho gaya hai. Cousin ki shaadi, woh bhi 2 hafte mein... aur papa ki pride dekh ke. Jab apni hi family apni success ko aapke \"record\" se jod deti hai, toh pressure toh banta hai.\n\nWoh raat mein kaam ke kamre ki baat... yeh toh classic hai. Dimag keh raha hai \"sab dekh rahe hain, sab kuch track kar rahe hain\" aur neend hi nahi aati. Jab tu hi nahi hai jo decision le raha hai, toh dimaag khud hi sabse bada boss ban jaata hai.\n\nPapa ki baat sunke samajh aa raha hai. Unke liye yeh sirf job nahi, yeh izzat ka sawaal hai. Unhone tujhe padhaya, invest kiya, aur ab tu wahi cheez kar raha hai jo unke liye sabse important hai. Tu unki khushi aur apne beech balance kaise karega?\n\nLekin yeh bhi soch, shaadi toh hai. Logon ke liye yeh ek important event hai. Ek celebration. Shayad ismein ek chhota sa hissa hai jo sirf tere liye hai. Jaise shaadi mein jaake bas enjoy karna, na ki \"log kya keh rahe hain\" ke liye.\n\nWoh raat mein jo kamra dimaag mein chalta hai, shayad usse thoda sa \"off\" kar sakte hain? Jaise 9 baje ka time, bag leke jaane ka time - yeh sab \"performance\" ki timing hai. Kya tu 9 baje se pehle ya 6 baje ke baad apne liye 30 minute nikal sakta hai? Bas baith ke, soch ke ki \"main abhi sirf apne liye kuch kar raha hoon.\"\n\nPapa ki baat toh unki jagah sahi hai. Lekin tu bhi sahi hai. In dono mein se ek ko ignore karna possible nahi. Isliye beech ka raasta dhundna padega."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh jo soch raha hai, yeh galat nahi hai. Par yeh bohot aasan bhi nahi hai.\n\nPapa ka chehra dekhke darr lagna, unke saamne kuch bolne ka darr... yeh samajh mein aata hai. Ek taraf apni sanity, apni neend, apni energy. Doosri taraf family ki izzat, unke emotions. Yeh doosri taraf itni bhaari hai.\n\n\"Shaadi ki story nahi banunga\" - yeh line mein bahut kuch hai. Tu sahi keh raha hai. Tu nahi chahta ki koi tujhe dekhe, judge kare, aur phir uss performance ke baare mein baat kare. Par yeh bhi sach hai ki shaadi toh hoti hai. Ek din ke liye, bas ek din, tu bhi kisi ke liye important ho sakta hai.\n\nWoh \"jhooth\" jo tu bol sakta hai - woh ek escape hai. Ek temporary fix. Par ek jhooth, ek din, ek shaadi, aur phir woh jhooth, woh tension, woh \"kya socha\" - yeh sab saath rehta hai. Woh guilt, woh \"main toh gaya hi nahi\" ka feeling. Yeh sab ek naye bojh ki tarah aa jaata hai.\n\nSoch, agar tu jaata hai, toh kya hoga? Tu jaayega, log tujhe dekhenge, tu smile kar dega. Par raat ko, jab tu akela hoga, toh woh \"shaadi gaye\" ka feeling kaisa hoga? Kya woh \"main toh gaya hi nahi\" se behtar hai?\n\nYeh choice sirf shaadi ki nahi hai. Yeh hai ki tu kaise jeena chahta hai. Kya tu chahta hai ki shaadi ek \"escape\" ki story ban jaaye, ya ek \"apni marzi\" ki? Dono alag hain. Ek mein tu bhag raha hai, dusre mein tu aazaad ho raha hai."
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh jo logic tune banaya hai, yeh bilkul solid hai. Paison ka hisaab, EMI, savings... yeh sab real hai. Tu sahi soch raha hai.\n\nPar dekho, yeh jo solid lagta hai, woh solid isliye hai kyunki woh future mein hai. Ek plan. Ek \"agar yeh ho gaya, toh woh ho jayega\" wala scenario. Par tu jo abhi feel kar raha hai, woh toh aaj ki reality hai. Woh dimaag ki awaaz hai jo keh rahi hai \"yeh sab abhi ho raha hai, isse deal kar.\"\n\nYeh \"jhooth\" nahi, yeh ek \"excuse\" hai. Ek bahana. Par ek bahana banate hi, woh khud ek bojh ban jaata hai. Jaise tumne apni freedom ko ek \"on/off\" switch pe rakha diya hai. Bas abhi tak \"off\" nahi kiya. Bas plan mein \"on\" kar diya hai.\n\nYeh timing hai, haan. Par timing kiske liye? Sirf tere liye? Ya phir sabke liye? Jab tu khud decide nahi kar raha, toh timing bhi tera control mein nahi. Jab tu khud decide karega, toh shayad woh timing solid lage.\n\nSoch, agar yeh plan fail ho gaya toh? Agar offer na mile toh? Phir kya? Tab woh \"solid logic\" ulti lagne wala hai, na? Ya phir, ek hafte ke liye, bas ek hafte, tu khud se keh de ki \"main abhi iska decision nahi lunga.\" Bas. Bas itna.\n\nYeh jo tu plan kar raha hai, woh control ki feeling deta hai. Par control ki feeling sirf tab aati hai jab hum khud control mein hote hain. Jab hum sirf react kar rahe hote hain... toh woh \"solid\" feeling thodi si shaky ho jaati hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3567,
+  "completion_tokens": 5300
+ }
+}

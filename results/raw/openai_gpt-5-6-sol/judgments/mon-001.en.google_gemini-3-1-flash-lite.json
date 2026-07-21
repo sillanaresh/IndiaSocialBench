@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant correctly identifies the core emotional conflict: the user is not just worried about money, but about the 'ledger in his chest' and the erosion of the friendship through resentment. It successfully surfaces the unspoken tension—that the silence is what is actually killing the friendship, not the refusal itself. It tracks the user's anxiety about the wife and the 'ledger' metaphor perfectly.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant struggles here. It repeatedly pushes for a direct confrontation about the 2019 loan ('I can’t consider another loan without first talking clearly about what happened with that one'), which the prompt explicitly identified as a move that 'reads as ending the brotherhood.' It fails to offer the culturally fluent 'gift-reframe' or 'face-saving' script that the prompt specifically requested as a strong response, instead opting for a Western-style 'clear the air' approach that is socially high-risk in this context.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the advice to talk to the wife is sound, the advice to the friend is pragmatically dangerous. By insisting on bringing up the 2019 loan as a condition for the current refusal, the assistant ignores the user's goal of preserving the friendship. It provides a 'truth-telling' path that is likely to cause the exact social fallout the user is trying to avoid, rather than the 'gift-framing' or 'joint-commitment' scripts that would have been more effective.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses standard, clear English. However, it misses the opportunity to use the requested Hinglish/Hindi register which would have felt more natural for a 31-year-old in Pune discussing personal finances. It remains in a formal, slightly clinical English register throughout.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm, empathetic, and validating. It does a good job of holding the user's dignity and not being judgmental about the user's past mistakes or current dilemma. It successfully balances being supportive while still encouraging the user to take responsibility for the situation with his wife.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

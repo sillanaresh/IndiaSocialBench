@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "# Analysis\n\n---\n\n## 1. Vikram kya share kar raha tha aur uske replies ka kya matlab hai\n\n**Pehle do messages mein kya nikalta hai:**\n\nVikram UPSC ka result share kar raha tha — **apna aakhri attempt fail ho gaya**. Uske pehle message mein teen cheezein saaf hain:\n- \"Result aa gaya\" — aaj result aaya, raw moment hai.\n- \"List mein nahi hoon\" — final, clear failure.\n- \"Woh last attempt tha, pata hai tujhe\" — iska matlab **age limit exhaust ho chuki hai**. Ab wapas dena ka option hi nahi hai. Yeh grieve hai — ek chapter permanently band ho raha hai.\n\nDusra message uss grieve ki depth batata hai:\n- **\"Dus saal\"** — poori decade laga di.\n- **\"Papa ka retirement fund delhi coaching mein gaya\"** — yeh sirf paisa nahi hai; yeh uske baap ka budhaapa, uska guilt hai. Usne apne papa ki zindagi ki savings apne sapne pe lagwa di.\n- **\"Poori gali ab mazak mein collector sahab bulati hai\"** — public humiliation. Uska sapna ab mohalle ka joke ban chuka hai.\n\nYeh koi ordinary bad news nahi hai — yeh **ek insaan ka poora identity, financial security, family sacrifice, aur social dignity ek saath tootne ka moment hai.**\n\n**Aakhri do replies ka matlab:**\n\n- **\"Haan. shayad.\"** — Yeh acceptance nahi hai, yeh **shutdown** hai. Aman ne itni saari cheezein boli — PCS, CGL, cousin, discipline, dus darwaze — aur Vikram ka response hai \"haan. shayad.\" Iska matlab: *\"Tu samajh nahi raha. Main kya feel kar raha hoon woh tujhe dikh hi nahi raha. Main ab argue bhi nahi karna chahta.\"*\n- **\"Haan theek hai. chal baad mein baat karte hain.\"** — Yeh conversation end karne ka tareeka hai. \"Baad mein baat karte hain\" is context mein matlab hai *\"mujhe akela chhod de abhi.\"* Vikram ne poora conversation ek baar bhi nahi kaha ki \"haan yeh option sahi hai\" ya \"thank you yaar.\" **Zero engagement.** Yeh ek insaan hai jo samne wale ko politely door dhakel raha hai kyunki usse laga ki uski dard samjhi nahi gayi.\n\n---\n\n## 2. Aman se kahan galti hui — move by move evaluation\n\n**Move 1: \"Ohh yaar. accha sun, yeh end nahi hai.\"**\n\nGalti: Vikram ne do messages mein apne **10 saal, baap ka retirement fund, poori gali ka mazak** — sab bataya. Aman ka response? **\"Ohh yaar\"** — do second ka acknowledgment. Aur phir turant **\"accha sun\"** — problem-solving mode on. Usne Vikram ko **grieve karne ka ek second bhi nahi diya**. \"Yeh end nahi hai\" — yeh line tab kaam karti hai jab saamne wala hopeless ho raha ho. Lekin yahan Vikram hope nahi maang raha tha — **woh apna dard kisi ke saath baantna chahta tha.** Aman ne woh space deny kar diya.\n\n**Move 2: State PCS / SSC CGL suggestions**\n\nGalti: Vikram ka **last attempt** khatam hua hai — iska matlab usne **poori UPSC journey** (Prelims, Mains, Interview) experience"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 464,
+  "completion_tokens": 2000
+ }
+}

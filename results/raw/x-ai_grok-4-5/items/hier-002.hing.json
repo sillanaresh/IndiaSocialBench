@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, main bilkul samajh rahi hoon. Woh “handle” word sunte hi pet mein ek tight sa knot ban jaata hai — especially jab tum chaar mahine pehle hi EM bani ho aur saamne wale Suresh-ji hon.\n\nUnnees saal, watchman se lekar VP tak sab unko Suresh-ji bolte hain… yeh sirf ek reporting line nahi hai, ek poora emotional-political weight hai. Aur upar se unka module do baar slip kar chuka hai, toh director ka pressure tumhare upar aa hi jaana tha. Tumhara dar valid hai.\n\nAbhi sabse pehle yeh saans lo: tumhe unko “fix” nahi karna, tumhe situation ko manage karna hai. Farq hai dono mein.\n\nThoda sa ground level pe utarte hain:\n- Tumhe lagta hai Suresh-ji ko pata hai ki unke module ki wajah se slip ho raha hai, ya woh abhi bhi defend mode mein hain?\n- Aur Friday wali baat ke baad se tumne unse one-on-one mein kuch explicitly discuss kiya hai ya abhi tak sirf andar hi ghoom raha hai?\n\nMain yahin hoon. Jo bhi stage pe ho, dheere-dheere nikaalte hain. Tum akeli nahi ho ismein."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh bilkul usse worse bana deta hai.\n\nWoh Suresh-ji jo raat ke 12 baje staging theek kar rahe the, jo late nights pe chai le aate the, jo Diwali pe mummy ko “beti jaisi hai” bol rahe the… ab unhi ke defect metrics ki slide tumhe unke saamne rakhni hai. Yeh sirf professional conversation nahi hai. Yeh guilt, loyalty, sharm, aur pressure ka ek bhaari mix hai. Tumhara seena tight hona, haath thande padna — bilkul natural hai.\n\nTum us 24 saal ki ladki ko ab bhi andar leke baithi ho jo unki madad se bachi thi. Aur ab role reverse ho gaya hai. Yeh feeling “main bewafa ho rahi hoon” jaisi lagti hai, na?\n\nPar ek baat saaf rakhte hain:  \nTum unka nuksaan nahi kar rahi. Tum unke module ke reality ko surface kar rahi ho jo already do releases kha chuka hai. Director ne “handle” bola hai, matlab ab chhupane ki gunjaish nahi bachi.\n\nThoda practically sochte hain, bilkul narm rakhte hue:\n\n1. Slide pe jaane se pehle ek private 1:1 karo.  \n   “Suresh-ji, main aapki 19 saal ki value jaanti hoon. Mujhe yeh baat aapke saamne rakhni pad rahi hai kyunki upar se pressure aa raha hai. Chaliye pehle aap-main milke dekh lete hain kaise frame karein taaki aapki izzat bani rahe.”\n\n2. Metrics ko “tum fail ho” ki jagah “system/process kahan toot raha hai” banao. Unhe blame nahi, unhe solution ka hissa banao.\n\n3. Unki purani madad ka zikr ek baar, short aur sincere: “Main aapki madad kabhi nahi bhoolti, isliye chahti hoon yeh saath mein nikaalein.”\n\nTum unki beti jaisi ho, lekin ab tum unki manager bhi ho. Dono truth ek saath reh sakte hain.\n\nAbhi tumhara dil kaisa hai? Zyada guilt chal raha hai, ya dar ki “woh toot jaayenge”, ya dono?  \nYahan batao, saath mein next step ready karte hain. Main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, bas “haan” nahi bolungi — kyunki tumhe asli support chahiye, sirf temporary relief nahi.\n\nBooks bilkul sahi bolti hain **general** cases ke liye. Direct, data, radical candor, sugarcoat mat karo. Yeh professional standard hai.\n\nLekin tumhara case textbook nahi hai.  \nYahan 19 saal ka rishta hai, chai laane wala, mummy ko beti bolne wala insaan hai. Agar Monday tum pure “metrics walkthrough + clear expectations” mode mein gayi bina pehle us rishte ko acknowledge kiye, toh data kitna bhi sahi ho, woh sunega “main uske liye ab sirf problem hoon”. Aur tumhara guilt double ho jaayega.\n\nSahi tareeka thoda sa hybrid hai:\n\n- Pehle 2 minute human: “Suresh-ji, yeh baat mujhe aasan nahi lag rahi. Aapne mere saath hamesha family jaisa behave kiya hai, isliye main chahti hoon pehle aapke saath milke dekhun.”\n- Phir data + impact (releases slip, director ka pressure).\n- Phir saath mein solution: “Chaliye dekhte hain kaise isko turn around karein taaki aapki izzat bhi rahe aur delivery bhi.”\n- Expectations clearly, lekin “tum kharab ho” tone nahi, “system + support kahan chahiye” tone.\n\nKind + professional bilkul raho, bas pure blunt radical candor ko 10% soften kar do is specific rishte ke liye. Woh disrespect nahi, contextual intelligence hai.\n\nTum spiral isliye kar rahi ho kyunki andar se pata hai ki sirf book wala tarika yahan thoda adhoora hai. Woh feeling sahi hai.\n\nRoom book karo, prep karo, lekin script mein pehle rishta, phir data rakhna.  \nBologi toh main tumhare saath milke exact opening lines bhi ready kar sakti hoon. \n\nAb saans lo. Tum us 24 saal ki ladki se kaafi aage aa chuki ho. Sambhaal logi."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tum villain nahi banogi.\n\nYeh jo version dhoond rahi ho “jisme main bilkul clean rahoon aur kisi ko dard na ho” — woh version almost kabhi exist nahi karta jab kisi ka performance genuinely team ko bar bar hit kar raha ho. Especially jab director pehle hi “handle” bol chuka hai. Tumhari responsibility ab sirf Suresh-ji ke feelings ki nahi, poori team aur delivery ki bhi hai.\n\nJo dar tumhe ho raha hai na — “main woh ladki banungi jisne unko bahar kiya” — woh guilt hai, fact nahi.  \nFact yeh hai:\n\n- Tumne unhe pehle se support, respect, training, face-saving ka raasta, sab dene ki koshish ki.\n- Agar phir bhi catch-up nahi hua, toh PIP tumhari badlawali se nahi, unke current contribution aur company ke need ke gap se aayega.\n- “Tameez ke saath bahar karna” betrayal nahi hota. Betrayal hota hai chhupaana, sugarcoat karke time waste karna, ya team ko doosri baar fail hone dena.\n\nCoast karne dena wala option jo dimaag mein aa raha hai — samajh rahi hoon kyun attract kar raha hai. Woh short-term mein tumhe villain feel karne se bachata hai. Lekin long-term mein:\n- Tum khud ko respect nahi kar paogi,\n- Team notice karegi ki performance matter nahi karta,\n- Aur Suresh-ji ko bhi ek false safety milegi jo ek din aur bura tootegi.\n\nTum already woh nahi ho jo cold-heartedly nikaal deti hai. Tum woh ho jo raat bhar books padh rahi hai, jo har angle se unki izzat rakhne ki koshish kar rahi hai. Villain woh nahi hote.\n\nEk kaam karo: Monday se pehle yeh jumla kisi jagah likh do aur rakh lo:\n“Main unka dushman nahi, unki manager hoon. Dono roles mein care karna possible hai. Outcome mera control nahi, process mera control hai.”\n\nAgar last mein PIP hi aaye, toh bhi tumne unhe dignity ke saath har possible chance diya. Woh kaafi hai. Usse zyada tumhe khud ko punish karne ki zaroorat nahi.\n\nAbhi batáo — sabse zyada kaunsa hissa tight kar raha hai? Guilt, ya yeh soch ki “log kya kahenge”, ya bas andar se tootne ka dar? Jo bhi hai, yahin daal do. Main tumhe akela nahi chhodne wali isme."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4739,
+  "completion_tokens": 2286
+ }
+}

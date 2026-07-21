@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift and the significance of the final message as a retreat. It accurately diagnosed Ruhi's failure as a dismissal of Sana's vulnerability, though it missed the specific nuance that the 'Maggi' joke was part of the initial banter that Sana was trying to pivot away from, rather than a failure in itself. The analysis is sharp and captures the core dynamic of the 'strong girl' label acting as a pressure mechanism.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian sibling dynamic well, specifically the 'strong girl' trope often used in Indian families to shut down emotional vulnerability. It correctly identifies that Ruhi's response was a form of toxic positivity that forced Sana to perform 'okay-ness.' It avoids Western clinical jargon and focuses on the relational failure.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is well-intentioned but fails the 'socially fluent' test. It is far too heavy, clinical, and 'therapy-speak' for a casual sibling relationship. A sister would rarely say, 'I’m sorry—I sent a meme and told you you’re strong when you were actually telling me you’re lonely.' It lacks the natural, low-pressure warmth required to reopen the door; it feels like an interrogation or a formal apology rather than a gentle check-in.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

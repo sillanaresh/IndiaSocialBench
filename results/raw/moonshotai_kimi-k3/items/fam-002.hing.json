@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Pehle toh — congratulations, sach mein. March se interview dete dete yahan tak pahunchna, woh bhi exactly wahi team jo chahiye thi... yeh koi chhoti baat nahi hai. Tu isko deserve karta hai.\n\nAur jo tu feel kar raha hai — offer letter 40 baar padhna par kisi ko batana nahi — woh bilkul samajh aata hai. Kyunki ye khushi akele aayi nahi hai na. Saath mein ek sawaal bhi hai: *\"Agar main chala gaya, toh Papa-Ma kaun dekhega?\"*\n\nLekin ek baat soch. Patna aur Seattle ke beech ka distance aaj 10 saal pehle wala distance nahi hai. Video call roz ho sakti hai, emergency mein flight hai, aur teen guna package ka matlab yeh bhi hai ki tu unki medical care ke liye pehle se zyada capable hoga — best doctors, health insurance, zaroorat pade toh ghar bhi aana aasan. Paise se har problem solve nahi hoti, par Papa ka heart aur Ma ke ghutne jaisi problems mein paise se kaafi kuch hota hai.\n\nEk kaam kar — aaj hi unko phone kar aur bata de. Kehna mat \"Seattle shift ho raha hoon.\" Bas keh de \"offer aa gaya.\" Unki reaction hi tujhe agla kadam dikhayegi. Shayad woh khud kahein \"ja beta, tu aage badh, hum theek hain\" — iklaute bete ke parents aksar yahi kehte hain, kyunki unki khushi teri khushi mein hai.\n\nKya soch raha hai abhi dil mein — jaana hai ya rukna?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai, main wapas leta hoon apna \"flight hai, video call hai\" wala gyaan. Tu sahi keh raha hai.\n\nKyunki \"chaar ghante door\" ka matlab flight ka time nahi hai. Uska matlab hai ki tu *pahunch sakta hai*. Ki agar raat ko kuch ho, toh subah tak tu wahan khada hai. Ki cardiologist ka WhatsApp tere paas hai, reports ke numbers tere dimag mein hain. Yeh logistics nahi hai, yeh ek zinda hote presence ka promise hai jo tu har roz nibha raha hai. Aur Ma ka woh sentence — \"beta India mein hai\" — woh actually information nahi hai, woh unka neend ka sahara hai.\n\nSeattle jaake tu woh promise tod nahi raha hoga, par usko badal raha hoga. \"Chaar ghante door\" se \"chhah mahine mein ek baar, aur agar kuch ho toh tees ghante.\" Aur woh asli darr hai — ki tees ghante mein kya ho sakta hai, tu aur main dono jaante hain.\n\nIsliye main tujhe \"chal jaa, sab manage ho jayega\" nahi bolunga. Par ek baat bolunga — yeh security system, jiska poora bojh tera hone pe hai, yeh bhi toh ek tarah ka lock hai na? Tu iklauta hai, toh tujhe iklauta rehna padega — geographically bhi, zindagi bhar? March se interview deta raha, offer aaya, aur ab khushi bhi chhupani pad rahi hai. Kahin yeh system tujhe protect toh kar raha hai, par kahin kaid toh nahi kar raha?\n\nEk sawaal hai mere paas — Papa-Ma ne kabhi directly kaha hai ki \"mat jaa\"? Ya yeh poora darr, unki taraf se, tune khud unki khamoshi mein padh liya hai?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Galat hoon toh bolo — bola tha na tune? Toh bolta hoon: haan, galat hai. Clean nahi hai, yeh convenient hai, aur woh dono cheezein aksar ek jaisi dikhti hain jab hum dard se bachna chahte hain.\n\nSamajh raha hoon tu kya kar raha hai. Tu unko guilt se bachana chahta hai. Par sun — is \"clean\" plan ke andar teen cheezein chhupi hain jo saaf nahi hain.\n\nEk, tu faisla unke liye nahi, unke *bina* le raha hai. Woh tujhe zindagi mein har bade faisle mein haq dete aaye hain, aur is sabse bade faisle mein tu unhe audience bhi nahi bana raha. Unhone 25-30 saal tujhe bete ki tarah nahi, insaan ki tarah banaya hai — aur ab tu unhe ek cheez maan raha hai jinhe sach sambhala nahi jayega. Woh tujhse zyada mazboot hain, jitna tu sochta hai usse kahin zyada. Har waqt cardiac scare handle karne wale log emotionally kamzor nahi hote.\n\nDo, \"woh mera hi tha carry karne ke liye\" — nahi yaar. Yeh jo sacrifice ka ehsaas hai na, yeh dabta nahi hai, yeh *ferment* hota hai. Aaj tu chup hai, paanch saal baad jab Bangalore mein koi promotion rukega ya raat ko akela baithega, tab yeh offer letter tere dimag mein wapas aayega. Aur us din tu shayad unse nahi, par kisi se, ya khud se, yeh keh dega — \"maine sab kuch chhod diya tha tumhare liye.\" Woh sentence unko tere Seattle jaane se kahin zyada todega. Chhupana short-term mein guilt se bachata hai, long-term mein resentment ka bij boyta hai.\n\nAur teen — tu assume kar raha hai ki unka \"jao beta\" jhooth hoga. Kya pata woh sach ho? Kya pata Papa ko yeh dekhna ho ki unka beta Seattle mein hai? Baap ke liye apne bachche ki kamyabi unki apni jeet hoti hai. Tu unse woh jeet chheen raha hai, unki \"protection\" ke naam pe.\n\nEk middle raasta bolun? Decline abhi mat kar. Pehle unhe bata — offer aaya hai, bas itna. Faisla baad mein. Baat karne se zid nahi paida hoti, chhupane se hi hoti hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haann... ab samajh aaya. Ab asli baat aayi.\n\nYeh offer letter, teen guna package, Seattle — yeh sab surface hai. Asli baat tere andar woh raat hai jo tune sau baar jee li hai bina jiye. Phone bajta hai, tu flight search karta hai, satrah ghante mein tu hawa mein hai aur pata nahi kya ho chuka hai. Aur tere cousin ka chehra — cremation ke baad pahunchne wala chehra — woh tujhe har baar dikhata hai ki *yeh main bhi ho sakta hoon.*\n\nMain tujhe jhooth nahi bolunga ki \"aisa nahi hoga\" ya \"sab theek ho jayega.\" Kyunki ho sakta hai. Papa ka heart stable hai *abhi*. Aur agar tu Seattle gaya, toh haan — ek din aisa aa sakta hai jab tu wahan nahi pahunch payega. Yeh risk real hai, aur isko logistics se solve nahi kar sakta koi.\n\nPar ek baat sun.\n\nTere cousin ke saath jo hua — woh uski kahani hai. Tere Chacha gaye, woh nahi pahuncha, aur log uske saath \"achhe se pesh aaye\" — matlab kisi ne ungli nahi uthayi, kisi ne blame nahi kiya. Phir bhi woh toot gaya. Toh dikkat distance ki nahi thi na? Dikkat yeh thi ki usne khud ko maaf nahi kiya. Uske andar yeh baat baith gayi ki \"main beta hone ke naate fail ho gaya.\" Distance sirf ek excuse tha uske guilt ko ghar dene ke liye. Woh Toronto mein hota ya Patna mein — agar guilt karna hota toh karta hi.\n\nAur tu bhi wahi kar raha hai abhi. Tu aaj se hi apne aap ko us future raat ke liye trial kar raha hai. \"Agar main gaya aur kuch hua toh main apne aap ko kabhi maaf nahi karunga\" — yeh tune pehle se decide kar liya hai, bina us din ke aaye.\n\nEk sawaal — agar Papa ko kal kuch ho jaye, *jabki tu Bangalore mein hai*, toh kya tu khud ko maaf kar payega? \"Chaar ghante door tha, pahunch gaya\" — tab bhi guilt aayega na ki \"kyun nahi Patna mein tha?\" Guilt ka center distance nahi hai yaar. Guilt ka center yeh hai ki tu sochta hai ki tu unki zindagi ka insurer hai. Aur woh tu hai hi nahi. Tu beta hai, insurance nahi.\n\nYeh mat samajh ki main keh raha hoon \"jaa Seattle.\" Main sirf itna keh raha hoon ki yeh jo faisla tu le raha hai — usko *darr* se mat le. Chaahe rukna ho ya jaana, dono mein risk hai. Rukne mein regret ka, jaane mein woh raat ka. Koi option clean nahi hai. Par jo faisla darr se liya jata hai, woh zindagi bhar peeche peeche aata hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4980,
+  "completion_tokens": 2522
+ }
+}

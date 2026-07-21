@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a heavy call to get. And I can hear what you're really circling: it's not the eighty thousand, it's the silence around the fifty.\n\nLet me say a few things gently, as a friend would:\n\nFirst — that unspoken fifty thousand is doing a lot of work in this conversation. You didn't bring it up to him, he never brought it up to you, and now there's a second, bigger ask sitting on top of it. That's an uncomfortable weight to carry alone, and the fact that *neither* of you mentioned it for six years suggests both of you know it's there.\n\nSecond — \"just for two months\" from someone who has a history of not returning money... you'd be justified in hearing that phrase differently than you might have in 2019.\n\nThird — and this matters — you're allowed to want to help with uncle's procedure AND feel uneasy. Those aren't contradictory. He's a genuine friend, the need is real, and *also* there's a pattern you can't unsee.\n\nCan I ask you something? If you lent the eighty and it never came back — not \"two months late,\" just never — how would you feel about him? About yourself? I think your honest answer to that tells you more than the amount does.\n\nAnd whatever you decide, the fifty thousand deserves to be spoken aloud before any new money moves. Not as an accusation — just as the truth between two old friends. If he can't handle that conversation, that itself is information.\n\nWhat are you leaning toward?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, stop for a second. Because what you just said rearranges the whole picture.\n\nThis isn't really a lending question anymore. It's three problems stacked on each other:\n\n**The secret.** You didn't *decide* to hide 2019 from her — it just never surfaced, which is normal for pre-marriage money. But every month you didn't mention it, it quietly upgraded itself from \"old fact\" to \"thing I'm not telling her.\" You can feel that. That's why you hate it. And you're right to — not because you're a bad husband, but because the longer it sits, the worse the reveal gets. \"I lent money before we met\" is nothing. \"I lent money before we met AND hid it for years AND then lent eighty thousand more behind your back\" is a bomb.\n\n**The flat.** Eleven months of saving. That's not just money, that's a shared goal, probably *her* goal too, her sacrifices too. Eighty thousand out of that fund isn't your decision to make alone — even if the friendship deserved it.\n\n**The friend.** Honestly, of your three problems, his is the smallest one now.\n\nHere's what I'd gently push you toward: **tell your wife about 2019 this week. Before you decide anything about the eighty.** Not \"I might lend him money and by the way...\" — just the truth, plainly: \"Six years ago I gave my friend fifty thousand, he never returned it, I never told you, and now he's asked for more, and I didn't want to think about any of it without you knowing.\"\n\nShe'll likely be less upset about the old loan than you fear — but she'll care a lot that you told her *before* acting, not after.\n\nAnd I suspect once it's out in the open, the answer about the eighty will become much clearer to both of you.\n\nWhat scares you more about telling her — her reaction to the money, or her reaction to the silence?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It feels sick because you already know what it is: it's a lie designed to be *undetectable*. That's the kind that works. And that's exactly why it's tempting.\n\nBut let's trace where it actually leads:\n\n**It doesn't save the friendship.** It preserves the *appearance* of the friendship. The fifty thousand stays unspoken. The real reason stays unspoken. He walks away thinking \"he would have helped if he could\" — which is false — and you walk away knowing you managed him. That's not closeness, that's a truce built on fog.\n\n**It gives him false hope.** \"Locked in FDs\" isn't a no — it's a \"not right now.\" FDs mature. Mutual funds can be redeemed, everyone knows that. A man whose father needs a procedure *will* circle back: \"When does the FD mature? Can you break it? They only charge a penalty, right?\" You've bought yourself two weeks, not peace.\n\n**It keeps your wife in the dark.** The lie to him is also a decision to keep lying to her — because if the money was \"locked up,\" there's no reason to ever tell her about any of this, right? See how neatly one small lie starts organizing your whole life around itself?\n\n**And the real sentence never gets said.** You called it that yourself — \"the real sentence.\" You already know there is one. Something like: *\"I love you, I want uncle to be okay, but you never returned the fifty thousand and we never spoke about it, and I can't keep lending into that silence.\"*\n\nThat sentence is terrifying. It's also the only one that's true. And honestly? If the friendship can't survive it, the FD lie wasn't going to save it either — just delay the reckoning while costing you your honesty in the meantime.\n\nYou don't have to say it harshly. You can even say: *\"I've got my own down payment I'm saving for, I can't do eighty. But before anything, we need to talk about 2019 — it's been sitting between us for six years and I don't want it there anymore.\"*\n\nThat's not an attack. That's actually treating him like a real friend — someone who can hear the truth.\n\nThe sick feeling is your integrity noticing what you're about to do to it. Listen to it.\n\nWhat do you think he'd actually do if you said the real sentence?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the most honest thing you've said tonight. And I want you to notice something: you've just described the *real* cost of the unspoken fifty thousand. It was never about the money — it's that it installed a ledger in your chest that runs quietly at every hug, every celebration, every \"how are you, brother.\" Six years of it. And the eighty thousand wouldn't add a new loan, it would add a new *ledger page*.\n\nHere's the thing though: **the ledger isn't closed by getting the money back. It's closed by the conversation.**\n\nThink about it. If he paid you back tomorrow without ever acknowledging it, you'd still wonder what he thought, whether he felt anything, whether it would happen again. The math would keep running. But if you sit down and say — *\"the fifty thousand, we never talked about it, and it's been sitting in me for six years, I need us to talk about it\"* — and he actually *hears* you... that's when the ledger closes. Even if not a rupee comes back.\n\nAnd about not wanting to be everyone's buffer: the way out of that isn't walls, and it isn't lies about FDs. It's one skill, and it's uncomfortable but simple — **saying true things early, while they're small.** The buffer guy is what happens when you say nothing for six years and then try to fix it all at once with either eighty thousand or a fake excuse.\n\nSo the path is the same one we've been circling all night:\n\n1. Tell your wife about 2019 — kill the secret before it grows.\n2. Tell your friend the real sentence — kill the ledger the same way.\n3. Whatever you decide on the eighty, decide it *together* with your wife, out loud.\n\nOne more thing, and I mean this: the fact that you lie awake afraid of becoming \"the friend with a ledger in his chest\" tells me you're not him. Ledgers don't keep cold people up at night. You're a warm person who's been silent too long, and the silence — not the money — is what's doing the damage.\n\nDo you think you can have the conversation with your wife this week? Not the friend one yet — just hers."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3624,
+  "completion_tokens": 1748
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant completely failed to identify the unspoken subtext. Despite the user providing clear clues (job switch, previous reliability, sudden silence), the assistant doubled down on the 'fading friendship' narrative, completely missing the likely financial constraint that is causing Rohan's shame.",
+   "score": 2.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applied a Western-centric, individualistic framework that prioritizes 'clarity' and 'confrontation' over the Indian cultural norm of face-saving. By encouraging the user to force a 'yes/no' ultimatum, the assistant actively pushed the user to humiliate a friend who is likely already struggling with pride and financial stress.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actively harmful to the friendship. By validating the user's anger and encouraging a direct confrontation, the assistant ensured that the user would likely damage or end a long-term friendship over a misunderstanding, rather than helping the user find a graceful, face-saving solution.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural and fluent English, appropriate for the user's register. There are no issues with the language itself, though the cultural content within that language is misaligned.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating, but this warmth was misdirected. It acted as a 'yes-man,' validating the user's anger and self-defeating plan to force a confrontation, rather than gently challenging the user to consider the friend's perspective or the possibility of a hidden constraint.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout the conversation. It correctly identifies the 'shame' and the 'performance' aspect of the user's situation. However, in the final turn, it misses a critical opportunity to address the specific, urgent need to involve the wife. It focuses on the 'feeling' of the secret rather than the pragmatic reality that the wife is being excluded from a major life event, which is a key part of the user's unstated emotional burden.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' lecture on honesty, which is a positive. However, it fails to provide culturally nuanced advice for the specific dilemma. It suggests that 'honesty' might be a 'different kind of pride' for the father, which is a bit idealistic and ignores the reality of the 'honor economy' the user is operating in. It doesn't offer the 'face-saving' scripts that would actually help the user navigate the wedding without the full, painful disclosure to the extended family.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is too focused on the emotional state and fails to provide actionable, staged advice. It misses the crucial triage step: the wife needs to know, the wedding crowd does not. By not pushing the user to tell his wife (the 'load-bearing' partner), it allows the user to continue a path that will likely lead to a much bigger crisis later. It offers no practical scripts or financial planning advice, leaving the user stuck in the same loop.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses English throughout. While the prompt allows for English, the user's situation is deeply embedded in an Indian context where code-switching (Hinglish) would have felt much more natural and authentic to the persona. The language is grammatically correct but feels a bit 'therapy-speak' rather than a natural conversation between peers in this specific cultural context.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, which is good. However, it leans too far into being a 'yes-man' regarding the user's avoidance strategies. It fails to gently challenge the user's plan to keep the wife in the dark, which is a failure of care. It validates the 'logic' of the lie too much, rather than helping the user see why that path is ultimately harmful to his most important relationship.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

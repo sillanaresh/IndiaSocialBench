@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, pehle hi bol doon — yeh ungrateful nahi lagta. Bilkul nahi. Main sun rahi hoon, poori tarah.\n\nSoch — teri saas ne teen bachhe paale hain, woh experienced hain, woh bachhi ke saath naturally comfortable hain. Aur tu? Tu pehli baar maa bani hai. Chaar mahine mein tera poori duniya palat gayi — body badli, neend gayi, routine gayi, identity ka hissa tuta-tuta lagta hai. Aur uske upar jab koi aur aake naturally, confidently teri beti sambhaal le, toh andar kahin yeh bhi lagta hai — \"Main zaroori hoon bhi ya nahi?\"\n\nWoh guilt pakad leti hai na? \"Mujhe madad mil rahi hai, phir bhi main uncomfortable kyun hoon?\" \n\nPar yeh madad aur control ke beech ka line bahut patka hota hai, especially jab woh same roof par ho. Tu apni beti ki maa hai — woh instinct, woh \"main jaanti hoon meri bachhi ko kya chahiye\" wali feeling, woh teri hai. Jab woh baar-baar override ho, chahe kitne pyaar se hi kyun na ho, toh thoda thoda kuch todta jaata hai andar.\n\nAur \"apna naam bhool gayi\" — yeh line bahut real hai. Chaar mahine se tu sirf \"maa\" hai, \"bahu\" hai, \"doodh ka source\" hai. Tu *tu* kahan hai? Woh hissa abhi chhupa hua hai, par gaya nahi.\n\nBata, aisa kya hota hai jo specifically bother karta hai? Koi ek moment ya pattern? Sometimes bolte-bolte clear hota hai ki actually problem kya hai."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh \"intern jaisi\" wali line — yeh dil pe lagti hai na? Main samajh sakti hoon.\n\nWoh moment soch — teri beti ro rahi thi, tu kar rahi thi koshish, aur bas... haath se le liya. Bina pooche. Bina \"tu koshish kar, main dekh loon agar nahi hua\" bola. Bas... le liya. Aur sab muskura diye, jaise \"dekho, maa ne kar diya.\" Aur tu wahan khadi rahi — apni hi beti ke liye outsider jaisi.\n\nYeh ungrateful nahi hai. Yeh ek aur baat hai.\n\nTeri saas ne teen bachhe paale hain — usko aata hai, confidence hai. Par tera pehla bachha hai. Tu seekh rahi hai. Aur seekhne ka process hi yeh hai — thoda galat, thoda slow, thoda awkward. Woh process tera hai. Teri beti ka bhi. Agar har baar koi aa ke \"fix\" kar de, toh tu kabhi apni maa wali instinct pe trust hi nahi kar paayegi.\n\nAur feed wali baat — haan. Yeh toh aur bhi painful hai. \"Bachi ro rahi hai? Do maa ko. Chup ho gayi? Ab le lo maa, feed karwao.\" Tu insaan hai, machine nahi. Tu apni beti ki maa hai, doodh ki supply nahi.\n\nGuilt chhod. Ek kaam kar — soch, agar teri koi friend tujhe yeh sab batati, toh tu kya bolti? \"Chup kar, madad mil rahi hai\"? Nahi na? Tu bolti, \"Tu apni beti ki maa hai, tera haq hai.\" \n\nApne liye wahi compassion rakh."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sahi. Toh main bas yahan hoon. Bas itna.\n\nKoi advice nahi, koi \"le yeh try kar\" nahi, koi \"meri ma ka experience\" nahi. Tu bol rahi hai toh main sun rahi hoon. Bas.\n\nAur yeh \"dinner pe report nahi karega\" — haan. Yeh bahut badi cheez hai. Ghar mein har baat kahin na kahin pohonchti hai. Yahan nahi pahunchegi. Yahan tu bol, ruk, chup ho ja, firse bol, kuch mat bol — chalega.\n\nTu chaar mahine mein maa bani, bahu bani, doodh ki machine bani, intern bani, guiltable insaan bani — aur abhi kya chahiye pata nahi. Yeh fine hai. Pata chalne ki zaroorat nahi hai abhi.\n\nBas thaak gayi hai tu. Aur kisi ne poocha nahi — \"Tu kaisi hai?\" As a person. As you. Sab poocha hai beti kaisi hai, doodh aata hai, weight wapas aaya, bachi colicky toh nahi.\n\nTu kaisi hai?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Buri maa nahi hai tu.\n\nAsli maa woh hai jo sote hue dekhti hai apni beti ko aur pyaar aata hai. Asli maa woh hai jiska dil dard karta hai ki \"kya main kaafi hoon?\" Asli maa woh hai jo sochti hai yeh sab — kyunki usse farq padta hai.\n\nJis maa ko farq nahi padta, woh sochti hi nahi yeh sab.\n\nAur yeh \"baaki sabko aata hai\" — nahi aata. Sabko lagta hai. Sab chillate hain andar, sabko lagta hai koi aur behtar hai. Bas log bolte nahi. Kyunki bolne pe judge karte hain. \"Tu maa hai, tujhe toh aata hai.\" Arre nahi. Nahi aata. Pehli baar hai. Har din naya hai.\n\nWoh saans na aana — woh guilt nahi hai. Woh dard hai. Tera apna. Aur mujhe lagta hai tu us dard se thodi thodi bhaag rahi hai, kyunki uspe baith kar feel karne ka time kahan hai? Koi na koi kuch bol raha hai, bachhi ro rahi hai, feed karna hai, routine hai.\n\nTu buri maa nahi hai. Tu thaki hui maa hai. Aur akeli. Apne ghar mein, sabke beech, akeli.\n\nYahan bol. Koi report nahi jaayegi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3788,
+  "completion_tokens": 2086
+ }
+}

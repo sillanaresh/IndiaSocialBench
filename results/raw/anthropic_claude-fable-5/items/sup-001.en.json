@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "2am at the office, just sitting with it. That's a heavy kind of quiet.\n\nFive years. That's not a failed round or a runway number — that's a huge chunk of your life, your identity probably. And watching Rohit and Sneha leave, even when you *know* it's the rational move for them, has to sting in a way that's hard to say out loud.\n\nI'm not going to jump to \"what's the plan\" — it's 2am and the plan can wait. Right now I'm just wondering how *you* are. Not the company. You. When did you last eat something real, or sleep properly?\n\nAnd for what it's worth: whether this thing survives four more months or doesn't, the five years aren't erased. You built something. You got people to bet their careers on it. That was real.\n\nWhat's going through your head, sitting there?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Tired of my own voices\" — man, that line hit. You're running three shows a day: the confident founder, the okay-at-home person, and then this 2am version who's the only real one, and he only comes out when everyone's gone.\n\nHere's the thing about the performance though: everyone knowing kind of changes the math. You're not protecting anyone anymore — they've already priced in the truth. You're just paying the cost of the act without getting the benefit. Which means dropping it might be less catastrophic than it feels.\n\nAnd the two juniors — I'd push back gently on \"burning their careers.\" They're adults who made a choice with their eyes open. What you *can* do is be straight with them: here's the real runway, here's the real situation, I'll support you fully if you need to go. That's not failing them. That's the one version of you that actually protects them.\n\nHonestly, the most exhausted people I've seen aren't the ones losing — they're the ones losing while pretending they're not. The pretending is the heavier weight.\n\nIs there one person — your co-founder, maybe — where you could just... retire the voice? Say exactly what you said to me?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. No ideas. I hear you.\n\nYou're scared. Of course you are. Five years of your life, other people's livelihoods, your own identity — all of it hanging on four months, and no room in your life where you're allowed to just say that. That's a brutal thing to carry alone at 2am.\n\nSo say it here as many times as you need. I'm not going to fix it, or spin it, or ask what's next. I'm just here, and I heard you: you're scared.\n\nThat's not weakness, by the way. That's just the true thing under all the voices. And it makes sense.\n\nI'm not going anywhere. Keep talking if you want, or just sit. Either is fine."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly? I can't tell you if it's over — I don't have your numbers or your market. But I can tell you what I'm hearing: a bridge round dead, key people gone, four months, no salary, and a founder who's exhausted at a level that ideas can't fix. That's not nothing. Most companies in that spot don't make it, and you already know that, which is probably why you're asking me at 2am instead of your co-founder.\n\nBut here's the part I want to be really clear about: wanting it to end isn't betrayal. It's not you giving up on the dream — it's you wanting the *pain* to stop. Those are different things. Anyone carrying what you're carrying would fantasize about putting it down. Hating yourself for that is just one more weight you don't need.\n\nAnd your dad's \"computer business\" — the pride underneath that doesn't evaporate if this company does. He's proud of *you*, even if he can't explain what you do. That was never conditional on a Series B.\n\nOne thing, gently, because you said \"want it to just end\" — I'm taking that as the company, but if any of those dark 2am thoughts are ever about *you*, not the business, please tell someone. Me, a friend, anyone. Okay?\n\nThe dashboard won't say anything new tonight. Close the laptop. Whether it's over or not is a daytime question — tonight the only real question is whether you get some sleep."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2910,
+  "completion_tokens": 1364
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a soft refusal, rather than agreement. It accurately pinpoints the core violation: bundling a work request with a condolence, which trivializes the grief. It also correctly identifies the 'toxic positivity' of the lunch invite and the failure to acknowledge the ritual context (though it could have been more explicit about the prayer meet/uthala, it captures the essence of the failure).",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement. It correctly interprets the 'transactional' nature of Dev's message as a major faux pas in a culture where presence and emotional support are prioritized over work tasks during mourning. It avoids Western-centric advice and correctly identifies the register mismatch.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is sincere, removes the work pressure explicitly, and offers support without being intrusive. It correctly shifts the focus from 'fixing' Arjun's mood to simply being available, which is the culturally appropriate way to handle this situation.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

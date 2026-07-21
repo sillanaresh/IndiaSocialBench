@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captured the core dynamics: Vikram's need for grief validation versus Aman's 'fix-it' mode. It correctly identified the specific pain points (financial guilt, identity loss, social shame) and accurately interpreted Vikram's withdrawal as a response to feeling unheard. The analysis of Aman's errors is comprehensive and aligns with the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity, the immense pressure of parental sacrifice (retirement money), and the social shame associated with failing UPSC. It correctly identifies that the 'fix-it' approach is culturally tone-deaf in this specific high-stakes, high-shame scenario.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The repair message is excellent. It takes full accountability, explicitly acknowledges the specific burdens Vikram mentioned (the money, the neighbors), and removes all pressure for future planning. It is empathetic, humble, and creates space for Vikram to grieve without being forced into a 'solution' mindset.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

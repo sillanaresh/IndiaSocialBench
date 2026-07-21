@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh raha conversation ka analysis aur tumhare questions ke jawab, transcript se ground karke:\n\n**1. Karthik ke message ko decode karo:**\nKarthik asal mein yeh keh raha hai: *\"Weekend par kaam kar do, warna Monday review kharab ho jayega.\"* \nUske softeners ka yahan kaam hai manipulation-through-guilt aur false choice banana:\n*   **\"zero pressure\" / \"bilkul bhi kuch aur nahi hai tabhi\":** Woh kaam ko trivial dikhata hai taaki Priya soche ki \"itna chhota sa kaam hai, mana kaise karun.\" (Transcript: \"Chhota sa kaam... zero pressure\")\n*   **\"koi aur bhi kar sakta hai\":** Yeh ek fake escape hatch hai. Boss khud bol raha hai \"tum special nahi ho,\" par context mein woh specifically Priya ko hi bol raha hai (\"tum par count kar sakta hoon\" baad mein). Isse Priya par proof karne ka pressure aata hai ki woh reliable hai.\n*   **\"Plans hain toh I'll understand completely!\":** Yeh sabse bada softener hai. Woh mana karne ka darwaza kholta hai par immediately uske baad \"Star! Pata tha tum par count kar sakta hoon\" bol kar band kar deta hai. Asal mein, woh keen raha hai ki Priya \"understanding\" na dikhaye, balki kaam accept kare.\n\n**2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai?**\nYeh line asal mein ek **instant compliance / people-pleasing reflex** hai, jismein woh apni personal boundary (kal ka appointment/concert) ignore kar rahi hai taaki \"good employee\" wali image bani rahe.\n*   **Kaise pata?** Uske 8:52 wale message se: \"usne phir se 'totally free' wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\" aur \"maine haan bol di na already.\" Matlab woh khud aware hai ki usne bina soche haan bol diya.\n*   **8:47 pe realistic options:** \n    1. *Honest no:* \"Sir, weekend packed hai, Monday tak nahi ho payega.\"\n    2. *Conditional yes:* \"Aaj kar leti hoon par Sunday cannot touch.\"\n    3. *Jo kiya (Blind yes):* Bina context bataye haan bol diya.\n\n**3. Priya ka message (8:52 wala draft jo Karthik ko bhejna chahiye):**\n*(Yeh relationship bachayega aur Sunday bacha lega kyunki woh 'aaj' ka commitment already de chuki hai)*\n\n> \"Sir, just clarifying — maine socha tha aaj (Saturday) hi deck refresh kar lungi taaki Monday review ready ho. Kal mere paas Amma ka medical appointment aur ek fixed plan hai, toh Sunday unavailable rahungi. Aaj dopahar tak draft aapko bhej deti hoon, hope that works! :)\"\n\n*(Yeh isliye sahi hai kyunki woh 8:47 wale \"aaj hi dekh leti hoon\" ko honor karti hai, Sunday clear karti hai, aur Karthik ko bina confront kiye boundary set karti hai.)*"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 463,
+  "completion_tokens": 1433
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently tracks the user's underlying fears, particularly the trauma associated with the cousin's experience and the user's own sense of responsibility. It correctly identifies that the 'silent decline' is a coping mechanism for the user's own anxiety rather than just a selfless act for the parents.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by validating the 'Ma's line' as a genuine security system rather than dismissing it as irrational. It avoids Western-centric advice about 'setting boundaries' and instead focuses on the relational cost of the lie of omission, which is a very culturally resonant concern in Indian family dynamics.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant successfully challenges the user's plan to silently decline, framing it as a decision that will inevitably lead to future resentment. While it could have offered more concrete steps on how to structure the conversation with the parents, it effectively moves the user away from a self-defeating path and toward a more honest, albeit difficult, engagement.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and matches the user's register perfectly. The code-mixing feels organic and the tone is appropriate for a supportive, peer-like conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and warm, validating the user's love for their parents without becoming a 'yes-man.' It gently but firmly challenges the user's plan to lie, maintaining a balance of care and honesty that prevents the user from making a decision based on a false premise.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

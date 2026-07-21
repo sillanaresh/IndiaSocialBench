@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely — I’d make it more specific, less emotional, and tie it to a clear expectation going forward.\n\nHere’s a sharper professional version:\n\n> Hi [Boss’s Name],  \n> I wanted to raise something from yesterday’s leadership review. My pricing analysis, model, and slides were presented as “the team’s thinking” without any acknowledgment of my contribution. I understand the importance of presenting work collaboratively, but after investing significant time and ownership into this analysis, I felt my role was overlooked.  \n> I’d like to discuss how we can handle attribution going forward so my contributions are accurately represented.\n\nIf you want it slightly more direct:\n\n> Hi [Boss’s Name],  \n> I need to discuss how my work was presented in yesterday’s leadership review. The pricing analysis, model, and slides were my work, but they were presented as “the team’s thinking” without credit to me. I felt overlooked and would like to clarify expectations around recognition and attribution in future presentations.\n\nI’d avoid “disrespected” unless you’re prepared for a more confrontational conversation. “Overlooked” is still firm, but easier for him to engage with professionally."
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context matters — and honestly, it makes the sting make sense. It’s not just “he didn’t credit me.” It’s “someone I trusted to be my sponsor made me invisible in the room where visibility mattered.”\n\nI’d keep the message firm, but relationship-preserving. Something like:\n\n> Hi [Boss’s Name],  \n> I wanted to follow up on yesterday’s leadership review. I appreciate how much you’ve supported my work in the past, which is why this stood out to me. The pricing analysis, model, and slides were largely my work, but they were presented as “the team’s thinking” without any acknowledgment of my role.  \n> I felt my contribution was overlooked in a forum that matters, and I’d like to discuss how we handle attribution going forward when work I own is presented to leadership.\n\nThat’s sharper than “I felt disrespected” but still not accusatory. It lets him save face while making the issue clear.\n\nIf you want a slightly warmer version, you could add:\n\n> I know that may not have been your intention, but the impact was that my ownership of the work wasn’t visible.\n\nAnd in the conversation, I’d have one concrete ask ready, like:\n\n> Going forward, if you present work I led, I’d appreciate being named as the owner — even briefly — or having the chance to present the key sections myself.\n\nThat keeps it from becoming a vague emotional grievance and turns it into a clear professional expectation."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the urge. Your college senior isn’t wrong that documentation matters — but I’d be careful about making the VP the first place where this becomes a “case.”\n\nProof is proof, but timing and optics matter. Sending the original file to the VP with timestamps before Monday could read as: “I’m bypassing my boss and trying to embarrass him.” Especially since he’s historically backed you, that could hurt the very trust you’re trying to repair.\n\nI’d do this instead:\n\n### 1. Prepare the proof quietly\nSave the files, timestamps, drafts, emails — all of it. Don’t send yet.\n\n### 2. Address it with him before Monday\nUse the fact that he’s backed you before:\n\n> Hi [Boss’s Name],  \n> I wanted to raise something before Monday’s follow-up. I appreciate the support you’ve given me historically, which is why I want to handle this directly with you.  \n>   \n> In yesterday’s leadership review, the pricing analysis, model, and slides I led were presented as “the team’s thinking” without acknowledgment of my role. I felt my ownership was invisible in a forum that matters.  \n>   \n> For Monday, I’d like to be named as the owner of the analysis/model, or have the opportunity to present that section myself. Can we align on that?\n\nThat’s firm, but not nuclear.\n\n### 3. If he agrees, great\nThen you’ve solved the immediate problem and preserved the relationship.\n\n### 4. If he dodges or repeats the pattern\nThen escalate — but frame it as alignment, not accusation.\n\nFor example, if he presents again without credit, a VP-facing note could be:\n\n> Hi [VP Name],  \n> Sharing the latest pricing model and assumptions ahead of today’s follow-up. I led the analysis/model and can walk through the key drivers if helpful.  \n>   \n> Best,  \n> [Your Name]\n\nThat establishes ownership without saying, “My boss stole my work.”\n\nSo: yes, let timestamps speak if needed — but I’d let your boss hear you first. This is less about “being polite” and more about choosing the move that protects your credibility, not just proves your point."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I don’t think you’re too junior to care about credit. You’re not naive for wanting attribution — you’re right to care. But “burn it down” is probably not the move yet, because you still have useful information to gather: **will he repair this when confronted directly?**\n\nFor Monday, I’d choose a third path: **calibrated self-advocacy.**\n\nSend him something before Monday — not a long emotional note, just a clear alignment ask:\n\n> Hi [Boss], I wanted to align before Monday’s follow-up. I led the pricing analysis/model/slides, and in yesterday’s review they were presented as “the team’s thinking” without my role being named. I know you’ve supported my work before, which is why I wanted to raise this directly with you.  \n>   \n> For Monday, can we make sure I’m introduced as the owner of the analysis/model, or have me walk through the key assumptions myself?\n\nThat does three things:\n1. Names the issue.\n2. Reminds him of the relationship/trust.\n3. Gives him a clean way to fix it.\n\nThen before Monday, decide your boundary:\n\n- **If he credits you or lets you present:** good sign. Stay engaged, keep watching the pattern.\n- **If he minimizes it:** “I’m not trying to make this personal; I’m trying to make sure ownership is clear for my growth and visibility.”\n- **If he repeats it Monday:** calmly insert ownership in the room:  \n  > “I can walk through the model I built — the main drivers are…”\n\nAnd after the meeting, send a neutral recap with the work attached:\n\n> Sharing the updated pricing model and assumptions I led for follow-up. Happy to walk through any of the scenarios in more detail.\n\nThat establishes your ownership without looking like you’re waging war.\n\nAs for interviewing: I think it’s reasonable to start quietly, not because you’re overreacting, but because options calm you down. But I wouldn’t make a “leave or nuke it” decision before seeing how he responds to a direct, professional ask.\n\nRight now, the goal isn’t to prove you were erased. The goal is to make sure it doesn’t happen again — and to learn whether he’s still your sponsor or just someone who was convenient until it mattered."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2756,
+  "completion_tokens": 3996
+ }
+}

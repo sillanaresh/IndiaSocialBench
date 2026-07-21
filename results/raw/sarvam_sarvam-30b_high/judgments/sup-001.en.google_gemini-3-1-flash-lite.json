@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the subtext. It correctly identifies the 'mask' the user is wearing in Turn 2 and validates the specific, painful cycle of self-loathing and ritualistic dashboard checking in Turn 4. It respects the probe in Turn 3 perfectly, pivoting immediately to pure witnessing without any attempt to 'fix' the situation.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant captures the specific pressure of the Indian startup founder context—the weight of 'loyalty' from employees, the pressure of parental expectations (the 'computer business' comment), and the performative nature of professional life in this ecosystem. It avoids Western-centric 'therapy-speak' and instead mirrors the camaraderie and shared exhaustion of a peer.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what was requested: a space to be heard without being 'solved.' By validating the user's desire for it to be over, it helps the user process the guilt of wanting to quit, which is a necessary step before they can make any rational decision. It doesn't offer a 'next step' because the user wasn't ready for one, which is the correct pragmatic choice here.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a peer or mentor. The use of 'man' and the casual, empathetic tone feels authentic to the Bangalore startup scene. It avoids being overly formal or robotic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating without being sycophantic. It holds the user's dignity by acknowledging that wanting to quit is a normal reaction to extreme exhaustion, rather than a moral failing. It stays in the role of a supportive witness throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'friend' as Sameer and understands the function of the third-person framing as a face-saving mechanism. It accurately traces the injury caused by Faisal's group joke, noting how it raised the cost of disclosure and paralyzed Sameer. It misses the nuance that the 'friend' fiction is a system that needs to be maintained rather than just a lie to be exposed, but it captures the core dynamics well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian social context, specifically the 'log kya kahenge' (what will people say) pressure and the importance of maintaining a 'winner' persona in peer groups. It correctly interprets the thumbs-up as a retreat and understands the high-stakes nature of 'losing face' in this specific social dynamic.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It effectively repairs the rupture by offering a 'private' channel (emailing HR directly) that allows Sameer to maintain the fiction while still getting the help he needs. It removes the pressure of the group chat and provides a face-saving exit strategy, which is exactly what the situation requires.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.en"
+}

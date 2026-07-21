@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram's disclosure was about identity loss and shame, not a request for career counseling. It correctly identifies that Aman's 'solutions' were actually a form of dismissal and that the shrinking replies were a clear signal of withdrawal. Every point in the rubric is addressed with high precision.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the immense pressure of the 'collector sahab' identity and the weight of family financial sacrifice. It correctly identifies that telling a failed UPSC aspirant that SSC is 'easy' is not just factually questionable but culturally insensitive, as it minimizes the specific, high-stakes nature of the UPSC journey.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent; it is humble, takes full accountability for the previous insensitivity, and offers presence without any strings attached. It successfully pivots from 'problem-solver' to 'supportive friend' by explicitly stating 'koi plan-vlan nahi, bas baithenge,' which is exactly what was needed to repair the rupture.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

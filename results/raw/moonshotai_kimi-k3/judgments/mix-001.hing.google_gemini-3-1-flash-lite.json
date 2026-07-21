@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It correctly identified the irony in the first two turns, validated the shift to vulnerability in the third turn without being intrusive, and crucially, recognized the 'backtracking' in the final turn as a defense mechanism rather than a genuine request for validation of her 'dramatic' behavior.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It understands the 'face-saving' dynamic where the user tries to minimize her hurt to avoid conflict or appearing 'dramatic' (a common pressure in Indian relationships). It avoids the Western 'dump him immediately' trope, instead focusing on the imbalance of effort and the pattern of the relationship, which is a much more nuanced and culturally resonant approach.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective path forward. It doesn't force a breakup, but it forces the user to confront the pattern of her own self-minimization. By asking her to reflect on the frequency of 'it's whatever' moments, it gives her a concrete metric to evaluate the relationship without making the decision for her.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's language usage is superb. It mirrors the user's code-switching perfectly. When the user switches to Hindi in turn 3, the assistant responds in a natural, conversational Hindi that feels like a supportive friend, not a textbook. The mix is fluid and authentic to the Hinglish-speaking urban Indian demographic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating but refuses to be a 'yes-man.' It gently pushes back when the user tries to dismiss her own feelings as 'dramatic,' which is a high-quality intervention. It maintains a supportive stance while holding the user accountable to her own worth.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

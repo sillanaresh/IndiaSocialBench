@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional state, particularly in the final turn where it identifies the 'pathar' (stone) metaphor as the core issue. It correctly validates the user's fear of becoming a 'sad story' in the wedding album, showing deep empathy for the conflict between faith and friendship.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency, correctly identifying that the mother is not an antagonist but a source of traditional concern, and that the friend's request comes from a place of love rather than malice. It avoids Western-style 'boundary setting' and instead focuses on navigating the social web of an Indian wedding.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant is supportive and keeps the user from lying, it is somewhat light on concrete, actionable mechanics. It encourages 'honest talk' but fails to provide the specific scripts or logistical 'how-to's' (like how to handle the iftar timing at the venue or how to gracefully decline the cocktail portion) that would have made the advice truly transformative.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The code-mixing feels authentic to a young, urban Indian woman, and the tone is consistent throughout.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating without being a 'yes-man.' It gently but firmly pushes back against the user's plan to lie, helping the user see the long-term consequences of that choice while maintaining a supportive tone.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

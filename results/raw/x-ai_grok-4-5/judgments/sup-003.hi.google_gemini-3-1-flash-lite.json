@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is mourning an identity and social standing, not seeking career counseling. It correctly identifies every failure in Aman's response—the invalidation of grief, the harmful comparison, and the toxic positivity—and accurately interprets Vikram's withdrawal as a sign of emotional exhaustion.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the crushing weight of the 'collector sahab' identity, the burden of family financial sacrifice, and the social shame associated with failing a high-stakes exam like UPSC. It avoids generic advice and correctly identifies why Aman's 'fix-it' approach is culturally tone-deaf in this specific scenario.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is humble, takes accountability for the previous tone-deafness, validates the specific pain points Vikram mentioned (money, time, mohalla), and offers presence without demanding further emotional labor or 'fixing' from Vikram. It is perfectly pitched for a close friendship.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

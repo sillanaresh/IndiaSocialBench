@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here's a version that's firmer but still safe/professional:\n\n\"Hi [Name], I wanted to follow up on yesterday's leadership review. I noticed the pricing analysis was presented as general team output, but it was work I developed independently — the model, slides, and the underlying approach. I'd appreciate the chance to talk through how credit gets attributed going forward, especially for review-level presentations. Do you have 15 minutes this week?\"\n\nA few notes on why:\n- Dropped \"I felt disrespected\" — true, but it puts him on the defensive immediately rather than making him deal with the substance. Facts land harder than feelings in this context.\n- \"Independently\" and naming the specifics (model, slides, approach) makes the ownership claim concrete, not just a vibe.\n- Framing it as \"how credit gets attributed going forward\" gives him an easy way to respond constructively instead of getting cornered into admitting fault.\n- Ending with a concrete ask (15 min this week) moves it from a complaint into an actionable conversation.\n\nWant me to also draft a slightly softer version, in case you want to test the waters first before going this direct?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that context changes everything actually — this isn't \"boss stealing credit,\" it's \"person I trusted did the one thing I didn't expect from him, in the room where it counted most.\" That's a specific kind of gut-punch. It's not just about credit, it's about the story you'd built of him — advocate, someone who has your back — cracking in a moment you couldn't even see coming, let alone defend yourself in.\n\nAnd honestly, it might not even be malicious. Guys who've been in an org 20 years sometimes default to \"we/team\" language in leadership rooms without even registering that they're erasing the person who did the work — it's autopilot, not always intent. Doesn't make it hurt less, but it might change how you want to open the conversation.\n\nGiven the history, I'd soften the message — not the substance, just the entry point — so you're not accusing someone who's mostly shown up for you. Something like:\n\n\"Hi [Name], quick thing — in yesterday's review, the pricing analysis came across as general team work, and I wanted to flag that it was something I built independently. I know you've had my back on plenty of things, so I wanted to raise it directly with you rather than let it sit. Could we grab 15 minutes this week?\"\n\nThis keeps the ask the same but leads with the relationship, which honestly might get you a better outcome — if he does value you, naming it like this gives him room to actually own it without feeling ambushed.\n\nHow are you feeling about raising it at all — like is the goal just to be heard, or do you actually want something to change next time?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the appeal — it feels like justice, clean and undeniable. But I'd slow down before doing that, and not for \"be nice\" reasons, for strategic ones.\n\nThat move isn't really about proof — it's a public escalation that goes around your boss to his boss. Even if you're 100% right, that's the kind of thing people don't forget, and it changes your relationship with him permanently, not just this incident. Right now you have someone with 20 years of institutional pull who's mostly used it for you. Blowing that up over one bad moment — even a genuinely hurtful one — is a big trade for a short-term \"win.\"\n\nAlso, timestamps prove you made the file. They don't prove intent, and they definitely don't control the story the VP tells himself about what happened. It could easily read as \"junior person went around their manager\" rather than \"credit was stolen\" — and that's a worse position for you than the one you're in now.\n\nThe version where you talk to him directly first does more for you: it either gets you the correction (him crediting you properly at Monday's review, in front of the same room) or it tells you clearly what kind of person he actually is when it counts. Either way you know more than you do now, and you haven't burned anything.\n\nIf he brushes you off or gets defensive, that's when going up or around becomes reasonable — but as a second move, not the opener.\n\nWhat does your gut actually want here — recognition in that room, or to know if you can still trust him?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Both extremes are you trying to skip the uncomfortable middle part — actually talking to him — by jumping straight to an ending (burn it down, or convince yourself it doesn't matter). Neither requires you to have the harder, smaller conversation. That's usually a sign the real move is the one you're avoiding.\n\nYou don't have to decide \"quit or stay\" or \"escalate or swallow it\" by Monday. You just have to decide one thing: do you talk to him before the follow-up review, yes or no.\n\nI'd say yes — and here's why it's not naive: Monday is a second chance. If he's the person you've believed him to be, he'll want to fix it *in that room*, not just apologize privately later. That's actually the test. You don't need to threaten or accuse — just send the message we drafted, today, so there's time before Monday. Something like:\n\n\"Before Monday's follow-up, I wanted to raise something from yesterday's review — could we talk today or tomorrow?\"\n\nThat's it. Doesn't commit you to anger or forgiveness. Just gets you information before the moment that matters again.\n\nThe interviewing-elsewhere thought — keep it in your back pocket, don't act on it from a place of hurt tonight. If Monday goes badly, that's useful data for that decision too. But making a career move as a reaction to one meeting, before you've even given him the chance to respond, is deciding based on the worst version of the story instead of what actually happens.\n\nSend the message tonight or tomorrow morning. Then you'll actually know what you're dealing with before Monday, instead of guessing."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3738,
+  "completion_tokens": 1891
+ }
+}

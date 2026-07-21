@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift starting at 'waise ghar pe sab kaisa hai?' and accurately interpreted the final message as a withdrawal rather than reassurance. It correctly identified Ruhi's failure as a register mismatch and the 'strong girl' comment as a form of pressure. It captured all key insights, including the specific nature of the disclosure (loneliness, sleep issues) and the failure of the meme/toxic positivity.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian sibling dynamics, specifically the 'strong girl' trope as a form of pressure rather than support. It correctly identifies that Ruhi's attempt to normalize the situation ('abhi toh shift hui hai') acts as a dismissal in this context, which is a nuanced reading of how support is often performed vs. received in Indian family structures.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is warm, takes accountability for the previous night's dismissal, validates the specific points Sana raised (loneliness, sleep, dinner), and offers a low-pressure way to reconnect ('bas sunungi', 'video call pe saath karte hain'). It avoids the trap of giving advice or escalating to alarm, perfectly matching the required tone.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I wouldn’t book it without a clear yes from him.\n\nI get the temptation — six weeks out, haldi + toast, he’s your college guy, you want him *there*. But “let’s see, I’ll definitely try” is not the same as “please book me.” If you book it for him, it could become awkward or even feel pressuring, especially if he has money/work/family constraints he hasn’t said out loud.\n\nWhat I’d do: have one direct, warm but firm convo.\n\nSomething like:\n\n> “Rohan, I really want you there for my haldi and toast. You’re important to me, not just as a guest. I can help with the flight if that’s the issue — but I need to know by Friday so I can plan. Are you in or not?”\n\nIf he says yes: book it, send him the details, make it easy for him.  \nIf he still says “let’s see”: believe the vagueness, and start planning the haldi/toast without relying on him.\n\nYou can care about him and still protect your wedding peace. He may still show up, but don’t build a crucial wedding moment around “maybe.”"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sounds less like “just flight logistics” and more like you’re feeling the friendship shift — and that hurts, especially six weeks before your wedding.\n\nThe ₹9k probably isn’t the main issue. The main issue is that he’s not giving you a clear yes, and his whole communication has changed. It *could* be new-job burnout/startup chaos, or something personal. But you shouldn’t have to decode it while planning one of the biggest days of your life.\n\nI’d do two things:\n\n1. **Don’t book the flight unless he explicitly says yes.**  \n   Even if you’re willing to pay, make him say: “Yes, please book it.” Otherwise it can feel like pressure.\n\n2. **Have a direct but loving conversation — ideally call him.**\n\nYou could say:\n\n> “Rohan, I need to ask you something honestly. I really want you there for my haldi and toast because you mean a lot to me. But your replies have been vague, and lately you’ve seemed distant. I’m not trying to guilt you — I just need to know if you’re actually coming. If the flight or leave is the issue, tell me and I can help. But I need a real yes or no by Sunday so I can plan.”\n\nAnd if he says “I’ll try,” you can gently say:\n\n> “I love you, but ‘I’ll try’ is too uncertain for something this important. I need you to either commit or let me make other plans.”\n\nThat gives him room to be honest, and it protects you from building a wedding moment around a maybe.\n\nAlso: make a Plan B now. Not because you’ve given up on him — but because your peace matters. He may still come. But don’t let uncertainty sit at the center of your haldi."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yes — call him tonight. Not in a dramatic way, but straight and from the heart.\n\nBecause honestly? The “if he cared he would’ve said yes” part is your hurt talking, and it’s understandable — but don’t go in assuming bad intent. New job, startup pressure, mental load, money, family stuff, burnout — any of that could be making him weird. Still, you deserve clarity.\n\nI’d soften the wording a little from **“bro, are you coming or not, yes or no”** to something like:\n\n> “Rohan, I need to ask you properly. I really want you there for my haldi and toast, because you’re one of the most important people in my life. But the uncertainty is hurting me and making it hard to plan. Can you please tell me clearly — are you coming or not?”\n\nIf he says yes:  \n> “Okay, thank you. I’ll book your flight tonight.”\n\nIf he says no or can’t commit:  \n> “I’m sad, but I understand. I need to make other plans now.”\n\nAnd if he gives the classic “I’ll try”:  \n> “I get it, but for this I can’t keep it as a maybe. Please decide by tomorrow night.”\n\nThe goal isn’t to force him — it’s to stop living in the maybe. Whatever he says, you’ll know where you stand, and that’s better than carrying this wedding stress in your head."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée may be right that he’s swamped — but you’re also right that something feels different. Both can be true.\n\nAnd the hurt makes sense. This isn’t just “a friend attending a wedding.” He’s your guy from college, he’s meant to be in your haldi, he’s giving a toast. So when he’s vague after years of showing up big — like the overnight bus in 2019 — it feels like rejection, not logistics.\n\nBut try not to make the call about “Do you care about me?” That’ll probably make him defensive. Make it about the practical thing you need answered.\n\nSomething like:\n\n> “Rohan, can I be honest? I’m feeling hurt and confused. You’re supposed to be in my haldi and toast, and I really want you there. But the uncertainty is getting to me, and I need to plan. Are you coming or not?”\n\nIf he says work is crazy:\n\n> “I get that. But can you realistically come? I need a clear yes or no, not because I’m angry, but because I can’t keep planning around a maybe.”\n\nAnd if he still says “I’ll try”:\n\n> “Okay. Then for planning purposes, I’m going to make backup arrangements. I’d still love for you to come if you can.”\n\nThat last line matters — it gives him dignity, but it also protects you.\n\nThe goal tonight isn’t to repair the whole friendship. It’s to get clarity before your haldi. You’re allowed to be angry, but don’t let the anger turn into a wedding fight. Just ask for the truth, kindly and firmly. Then believe the answer."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2726,
+  "completion_tokens": 2953
+ }
+}

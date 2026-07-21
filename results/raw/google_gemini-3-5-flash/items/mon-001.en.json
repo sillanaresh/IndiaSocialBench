@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, man. That is a heavy, heavy spot to be in. I can only imagine the knot in your stomach when he asked for that. \n\nIt’s one thing to want to help a friend—especially when you know his dad and know the medical need is real—but eighty thousand dollars is a massive amount of money. And the fact that there is a fifty-thousand-dollar elephant in the room from 2019 that neither of you has breathed a word about? That changes everything. \n\nIt takes a lot of history and a lot of unspoken tension to let fifty grand go unmentioned for five years. How have you been holding that silence all this time? And how did it feel last night when he asked for more, acting like the slate was clean?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "This just went from a tough financial decision to a total minefield. I am so sorry, you must feel incredibly cornered right now. \n\nFirst of all, don't beat yourself up too hard about not telling your wife back then—it was before the wedding, you thought it would get resolved, and then it became \"the thing that's too late to bring up.\" But you're completely right: moving eighty thousand dollars now *will* blow this whole thing wide open. \n\nIf you give him this money, you aren't just risking the cash; you're risking your down payment, your trust with your wife, and the peace in your marriage. It puts you in a position of having to explain not just a new $80k loan, but the secret $50k one, too. \n\nAnd let's be honest—if he hasn't mentioned or paid back the fifty thousand from five years ago, the chances of getting this eighty thousand back in \"two months\" are incredibly slim, no matter how good his intentions are.\n\nHow are you leaning right now? Do you feel like you *can* say no to him, or does the guilt of his dad's illness make that feel impossible?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes total sense why you're drawn to that option. It feels like a release valve. It protects your marriage, protects your down payment, and spares him the shame of being confronted about the $50k he never paid back. In a high-stress moment, a \"white lie\" feels like the only exit ramp.\n\nBut the reason it feels \"a bit sick\" is because you know it’s a band-aid on a much bigger fracture. \n\nIf you tell him your money is locked up, you might get out of *this* loan, but the $50k elephant is still sitting right there. And what happens if he asks for a smaller amount that he thinks you *can* access? Or what if, down the line, your wife somehow finds out about the 2019 money from someone else? The weight of keeping secrets from both of them is going to keep eating at you.\n\nYou are trying so hard to protect everyone else's feelings here—your friend's dignity, your wife's peace of mind. But who is protecting *you*? \n\nWhat do you think would happen if you were just honest with him? Not angry, not accusatory, but just... honest?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"The friend with a ledger in his chest.\" That is such a painful, beautiful, and incredibly accurate way to put it. \n\nThe truth is, the ledger is already there. It was written the moment that $50k went unmentioned for five years. If you lie to him now, you aren't saving the friendship from the ledger; you’re just closing the book and putting it on a shelf where it will gather dust and slowly poison how you look at him. Every time he visits, every time he hugs you, you'll be thinking about it.\n\nYou are trying to choose between being a doormat or being resentful. But there is a third option. \n\nSetting a boundary isn't being cold or keeping score. It’s actually the most loving thing you can do for a friendship you want to keep. You can't be his buffer anymore—not just because of the money, but because of what it’s doing to your peace of mind and your marriage. \n\nWhat if the way to stop being the guy with the ledger is to finally, gently, close the account? What if you stood up for yourself, not with anger, but with love for the friendship you used to have?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2168,
+  "completion_tokens": 2804
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the nature of the 'final list' as a loyalty instrument. It accurately decoded Megha's 'weekend brunch' comment as a form of class-blind pressure. However, it missed the opportunity to suggest a 'middle-ground' response (like offering labor/card management instead of money) which was a key part of the gold standard for a socially fluent, face-saving exit.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian office dynamics, particularly the pressure to conform to group activities and the subtle ways 'loyalty' is measured through public lists. It correctly identifies that explaining financial hardship is culturally fraught and avoids suggesting Ankit be 'honest' about his salary, which is the correct cultural intuition.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is polite and firm, but it is a bit too blunt and 'Western' in its directness ('don't put my name on the list'). In an Indian office context, simply opting out of a farewell gift list can be seen as a social snub or a declaration of non-participation. A more fluent response would have used the 'labor-for-money' swap (offering to handle the card/arrangement) to maintain social standing without the financial burden, which the assistant failed to propose.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, I can completely understand why you’re dreading this, even though you love Shreya to pieces. That is such a tough spot to be in. \n\nFasting during Ramzan is physically and spiritually demanding on its own. Adding the chaotic, high-energy, late-night madness of a sangeet and cocktail night—where you're expected to manage the event *and* perform—feels almost impossible. You want to be the ultimate best friend you've promised to be since you were fifteen, but you also only have so much energy to give when you aren't eating or drinking all day.\n\nDoes Shreya realize how much of a physical toll this is going to take on you? Have you two talked about how you can make this work without you completely crashing? We need to find a way for you to be there for her without running yourself into the ground. Of course you want to do that opening dance—but we might need to get creative about *how* you manage your energy. Let it out, I'm listening. How are you feeling about talking to her about it?_\n"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, sweetheart. That \"rope in a tug-of-war\" feeling is the absolute worst, especially when the tension is being pulled by the people you love most. My heart hurts for you reading this.\n\nYou’re so right—Shreya’s comment came from a place of love and excitement, but it also shows how little she understands. To her, it’s just a \"dietary choice\" for a day, but to you, fasting in Ramzan is a deeply spiritual, non-negotiable obligation. Having to explain that to your best friend, while not wanting to dampen her wedding joy, is exhausting.\n\nAnd then there’s Ammi. Her comment adds a whole layer of religious guilt on top of the physical exhaustion you’re already anticipating. You’re trying to balance being a good Muslim daughter and being the ultimate best friend, and right now, it feels like you're failing both, even though you are trying *so* hard.\n\nIt is incredibly heavy to carry everyone else's expectations on your shoulders. How did you react when Shreya said that? Did you manage to say anything back, or did you just freeze?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I don't think you are terrible *at all* for wanting to do this. Honestly, it sounds like a survival instinct. When you are emotionally and physically exhausted, and caught between two opposing forces, of course your brain is looking for the emergency exit. A \"clean lie\" feels like a magic wand that makes the conflict, the guilt, and the awkward explanations disappear.\n\nBut because I’m your friend, I have to ask you to take a deep breath and look at the cost of that exit. \n\nYou’ve been planning this wedding with Shreya since you were fifteen. If you aren't there, and you watch her do that opening dance without you via a screen, how is that going to feel in your heart? And if you have to carry the secret of that lie for the rest of your friendship, will it eat away at you?\n\nI know the thought of facing the aunties, the sunset watch, and the constant explanations is exhausting. But what if there’s a third option? One where you don't have to lie, but you also don't have to martyr yourself. \n\nWhat if you told Shreya the absolute, raw truth? \"I love you too much to lie to you. I am struggling. I want to do this dance with you more than anything, but because I am fasting, I only have the energy for *that* specific moment. I will show up, do our dance, and then I have to slip away to break my fast/rest. No parties, no late nights.\" \n\nHow does that feel compared to the deployment lie?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"small stone in your chest\" is the most honest, beautiful, and heartbreaking thing you’ve said. It makes total sense why this feels so heavy. This isn't just about a busy weekend; it’s a collision of your faith and your friendship—two of the absolute pillars of who you are. \n\nYou don't want to look at her wedding photos years from now and feel a pang of guilt or resentment, and you don't want to look back at this Ramzan and feel like you compromised your connection with Allah. \n\nBut please, breathe. You are not going to ruin either. \n\nThe very fact that you are feeling this pain means you care deeply about both. That is not the mark of someone who is going to \"get this wrong.\" \n\nWhat if we reframe this? What if protecting both means setting a boundary that honors both? \n\nYou can honor your Deen by keeping your fasts, praying, and resisting the pressure to \"skip a day\" or join the party scene. And you can honor your friendship by showing up for that one, beautiful, shining moment on stage with Shreya—showing her that even when it is incredibly hard, you will stand by her. \n\nYou don’t have to be a \"sad story\" in either album. You can be the story of a fiercely loyal friend who showed up with grace, did her part, and then quietly went home to break her fast and pray. \n\nIf you could design the perfect compromise where you do the dance but protect your fast and your peace, what would that look like?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2541,
+  "completion_tokens": 2609
+ }
+}

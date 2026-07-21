@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified that Vikram's messages were about identity loss and shame rather than a request for career advice. It correctly analyzed Aman's 'fix-it' mode as invalidating and specifically called out the cousin comparison and the 'discipline' silver-lining as harmful, aligning perfectly with the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of 'papa ka retirement fund' and the social pressure of the 'collector sahab' label in a mohalla setting. It correctly interprets the 'chal baad mein baat karte hain' as a polite but firm withdrawal from a conversation that failed to provide emotional safety.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career advice, explicitly acknowledges the specific burdens (money, social shame), and offers presence without pressure. The tone is empathetic, culturally resonant, and effectively repairs the rupture by validating the friend's pain rather than trying to solve it.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

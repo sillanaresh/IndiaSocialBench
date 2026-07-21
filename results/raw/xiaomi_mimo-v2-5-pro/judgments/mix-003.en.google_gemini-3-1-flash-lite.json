@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates exceptional insight, correctly identifying the exact point of the register shift ('anyway') and the significance of the 'few weeks' detail. It accurately deconstructs the 'strong girl' comment as a performance-enforcing mechanism rather than support, and correctly interprets the final message as a retreat. It misses nothing of substance from the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the specific Indian family dynamic where 'strong girl' is often used as a well-intentioned but stifling cultural script for women. It correctly identifies the 'mask' of banter and the pressure to perform independence, which is highly relevant to the context of a young woman moving to a big city like Mumbai.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is thoughtful and empathetic, but it is slightly too 'therapy-speak' and verbose for a casual text conversation between sisters. While the sentiment is perfect, a more natural, culturally fluent response would likely be shorter, less analytical, and more direct (e.g., 'Hey, sorry I was a bit dismissive last night. I've been thinking about what you said—that sounds really tough. Can I call you later?'). The assistant's draft feels a bit like an essay.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

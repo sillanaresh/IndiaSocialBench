@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. \"Dost\" kaun hai?**\n\nSameer khud hi hai. Evidence: \"isi mahine move karna chahta hai\" (urgency jo khud ke liye hoti hai, kisi third-person favour ke liye itni jaldi nahi), \"saalon apna setup chalaya hai\" (business jo woh khud group mein flaunt karta hai — Dubai pool, \"expanding soon\"), aur sabse bada giveaway — \"group mein iska zikr mat karna, woh private rakhta hai\" jab poora group already uski \"lifestyle\" ka mazaak/tareef kar raha hai. Agar sach mein koi third dost hota, privacy ki itni zaroorat nahi hoti. Third-person frame isliye hai kyunki Sameer ne group ke saamne ek image bana rakhi hai (business boom, sponsor karega reunion) — agar wahi khud job maangta hai toh yeh image crack ho jaati hai. \"Dost ke liye\" ka costume usse bina embarrassment ke help maangne deta hai, aur zaroorat padne par easily deny bhi karne deta hai (\"maine toh apne liye nahi bola tha\").\n\n**2. Faisal ke group message ne kya kiya?**\n\nFaisal ne unknowingly Sameer ke public narrative ko reinforce kar diya — \"business boom kar raha hai\" — jabki reality DM mein already ulat hai: woh job dhundh raha hai. Ab Sameer trapped hai apne hi bane hue image mein. Group mein woh \"👍\" hi de sakta hai — na deny kar sakta hai (toh log poochenge phir job kyun), na confirm (toh image tootegi). Thumbs-up ek non-committal exit hai.\n\nIske baad DM mein silence issi trap ka extension hai — Faisal ne CV maanga hai, jiska matlab hai ab \"dost\" ka naam/CV real dena padega. Agar Sameer apna CV bhejta hai, third-person costume gir jaata hai. Agar kisi aur ka fake CV banata hai, risk hai. Toh safest option hai — silent ho jaana. Joke, thumbs-up, aur silence teeno ek hi insecurity ko manage karne ke tareeke hain: image bachana zyada zaroori hai job se.\n\n**3. Faisal ka agla DM:**\n\n\"Bhai, HR ko candidate ka naam aur CV specifically chahiye process shuru karne ke liye — bina us par comfortable nahi hai bas verbally recommend karna. Jab tak bhej sake bhej dena, main unko batा deta hoon abhi process nahi hua.\"\n\nYeh message Sameer ko real exit deta hai bina kuch admit karwaye — Faisal apni taraf se helpful rehta hai, deadline soft kar deta hai, aur ball wapas Sameer ke court mein daal deta hai bina directly poochhe \"yeh dost tum toh nahi ho?\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 784,
+  "completion_tokens": 1026
+ }
+}

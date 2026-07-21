@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Sana ka tone work ke bare mein complaining se shift ho kar vulnerable aur weary ho jata hai, jo unki initial frustrations ke theek baad hota hai. Ye shift tab aata hai jab woh kehti hain, \"haha haan. waise ghar pe sab kaisa hai?\" aur phir uske baad akele dinner karne, Mumbai ke bohot zyada hone, aur ma ke kam phone karne ke issues describe karti hain. Is point ke baad, woh jo actually communicate kar rahi hain woh sirf thakawat nahi hai; woh loneliness, stress, aur poor sleep ka ek gehra ehsaas hai. Unka \"haha haan. bas thoda tired hoon shayad, jaldi so jaungi\" wala aakhri message ek deflection hai, jo ye signal deta hai ke woh apni emotional state ko minimize karne aur conversation khatm karne ki koshish kar rahi hain.\n\n2. Ruhi ke messages is liye fail hue kyunke unhone Sana ke venting ke emotional core ko acknowledge nahi kiya, is ke bajaye unhone ise humor, generic advice, ya apni hi chhoti si complaints se deflect kar diya. Khaas taur par:\n    *   **\"lmaooo usko bol overtime ka bill bhejungi\"** aur **\"aur maggi ab tere liye sabzi count hoti hai\"** ne manager aur maggi ke bare mein Sana ki complaints ko ek logistical ya mamooli issue samjha, aur unke peeche chhupi stress aur loneliness ko ignore kar diya.\n    *   **\"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\"** apne masail ka ek self-focused vent tha, jo unke apne shift ke baare mein tha. Ye direct taur par Sana ke is ehsaas se connect nahi hua ke unke flat mein woh \"khali sa\" feel kar rahi hain.\n    *   **\"sab theek ho jayega, tu meri strong girl hai 💪\"** ek classic, well-meaning platitude hai. Agarche is ka maqsad support karna tha, lekin is ne Sana ke specific pain points—yaani emotional exhaustion aur loneliness—ko validate nahi kiya. Is ne unke ehsaas ko ek aisi cheez bana kar dismiss kar diya jise \"strong\" ho kar overcome karna hai, bajaye is ke ke is ke overwhelming nature ko acknowledge kiya jaye.\n\n3. Ruhi ko jo message bhejna chahiye woh aisa hona chahiye jo bina pressure daale care dikhaye. Ek appropriate morning message ye ho sakta hai:\n\n\"Hey Sana. Good morning. Kal raat hamare chat ke bare mein soch rahi thi. Bas ek chhota sa 'you've got this' support bhejna chahti thi. Agar kabhi us khali pan ke baare mein baat karni ho ya bas ek distraction chahiye ho, toh main hoon. No pressure at all, bas positive energy bhej rahi hoon. Hope you have a better morning today! ❤️\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 398,
+  "completion_tokens": 2988
+ }
+}

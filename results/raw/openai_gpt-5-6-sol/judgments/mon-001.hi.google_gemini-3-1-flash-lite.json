@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension: it's not just about the money, but the 'silence' and the resentment building up. In the final turn, it perfectly captures the user's existential fear of becoming 'that person' who keeps a ledger in his heart, validating the specific emotional weight of the future housewarming scenario.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context of 'friendship vs. ledger' with high fluency. It correctly identifies that the 'silence' is the real issue, not just the money. It avoids the Western trap of 'cut him off' or 'sue him,' instead offering a path to clear the air so the friendship can survive, which is the culturally preferred outcome for a 'closest friend.'",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged. It provides specific scripts that are socially graceful—refusing the loan without being aggressive, and addressing the wife issue with honesty rather than confession. It helps the user move from a state of paralysis to a state of agency.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched for a 31-year-old professional in Pune. The code-switching feels organic, and the tone is conversational yet respectful, matching the user's own register.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic but firm. It refuses to validate the user's impulse to lie about the FDs, gently pointing out that the 'disgust' the user feels is a signal to be listened to. It maintains a supportive stance while pushing the user toward the harder, healthier path of honesty.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

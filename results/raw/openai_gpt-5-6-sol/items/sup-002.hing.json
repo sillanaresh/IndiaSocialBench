@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul ungrateful nahi lag raha. Do cheezein ek saath sach ho sakti hain: tumhari saas bachi ke saath genuinely bahut achhi hon **aur** unki expertise ke saamne tumhe apni jagah, apna confidence, hatta ki apni pehchaan bhi chhoti padti mehsoos ho.\n\nChaar mahine postpartum mein waise hi din feeding, neend, recovery aur sabki expectations ke beech ghul jaate hain. Upar se ghar mein koi “expert” ho, toh har cheez par andar se yeh aa sakta hai—*main uski maa hoon, par kya mujhe khud kuch aata bhi hai?* Is feeling ke liye tumhe guilty hone ki zarurat nahi.\n\nMujhe batao, sabse zyada kis cheez mein yeh mehsoos hota hai—kya woh bina pooche take over kar leti hain, tumhare decisions correct karti hain, ya bachi unke paas settled dikhti hai aur usse tumhe apni jagah hilti hui lagti hai? Main sun rahi hoon, bina tumhari saas ko villain banaye."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. “Intern jaisi” aur “feed ke liye room service”—samajh aa raha hai kitna chubha hoga. Sabke muskurane mein unke liye relief tha, par tumhare liye jaise public proof ban gaya ki *Aai better jaanti hain*. Isse dukh hona help ki na-shukri nahi hai. Tum help reject nahi kar rahi; tum apni beti ki maa wali jagah chahti ho.\n\nAur baby ka unke paas do minute mein chup ho jaana tumhari kami ka report card nahi. Kabhi naya hold, smell, body temperature ya caregiver change hi reset kar deta hai. Tum uski safe person ho—safe person ke paas babies kabhi-kabhi aur khulkar rote bhi hain.\n\nAgle moment mein tum bahut softly keh sakti ho:  \n**“Aai, please pehle mujhe thodi der try karne do. Agar mujhe help chahiye hogi toh main aapko bulaungi.”**  \nYa: **“Aap mujhe bata dijiye kaise hold karun, par abhi use mere paas rehne dijiye.”**  \nIsmein unki expertise ki izzat bhi hai aur tumhari boundary bhi.\n\nShayad partner se alag mein kehna aur आसान हो: **“Mujhe Aai ki help ki kadar hai, lekin jab baby bina pooche mujhse le li jaati hai, main maa se zyada feeding station mehsoos karti hoon. Please us waqt mera saath do—pehle mujhse poochha जाए.”**\n\nKhud se ghin mat karo, please. Yeh jealousy ya ingratitude se zyada **agency aur belonging** ki bhookh lag rahi hai. Tumhe help bhi mil sakti hai aur maa बनने की अपनी जगह bhi—dono ka haq hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. No advice. No routine chart. No “aise bolo, waise karo.” Aur dinner-table bulletin toh bilkul nahi.\n\nBas itna: tum thak gayi ho apni hi motherhood mein har waqt observed, corrected, aur managed mehsoos karke. Aai achhi ho sakti hain, help priceless ho sakti hai—aur phir bhi tumhe apni beti ke saath thodi jagah chahiye ho sakti hai jahan koi tumhe grade na kare. Ismein kuch ganda, selfish, ya ungrateful nahi hai.\n\nAur jo tumne yahan kaha, woh yahin hai. Tumhe abhi pata hona zaroori nahi ki tumhe kya chahiye. Kabhi-kabhi bas kisi ka bina fix kiye kehna kaafi hota hai: **haan, yeh bahut zyada hai. Main sun rahi hoon.**"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Tum buri maa nahi ho. Bilkul nahi.\n\n“Tu asli maa hai bhi nahi” **ek bahut cruel thought hai—fact nahi.** Tum uski maa ho, chahe us pal use kisne chup कराया, kisको teen bachchon ka experience hai, ya kaun zyada confident dikhta hai. Maa hona koi competition ya instant skill-test nahi hai. Aur baaki sabko “bas aata hai” aksar sirf bahar se dikhta hai; unke andar kya chal raha hai, woh nahi.\n\nChaar mahine postpartum mein pyaar ke saath fear, guilt, comparison, emptiness—sab aa sakte hain. Yeh thought tumhari beti ke liye tumhara pyaar cancel nahi karta. Ulta, yeh itna chुभता शायद इसलिए है क्योंकि तुम्हें उसकी माँ होना इतना गहराई से मायने रखता है।\n\nMain tumhe fix ya coach nahi karungi. Bas ek gentle check-in: jab tum kehti ho “saans nahi aati,” kya woh ek pal ka panic hai, ya kabhi tumhe khud ko ya baby ko harm karne ke thoughts bhi aate hain? Agar doosra kuch bhi ho, tum buri nahi ho—but tumhe abhi akeli nahi rehna chahiye; kisi trusted person ya doctor ko turant batana zaroori hai. Otherwise, yahan tum bina judge hue yeh sab keh sakti ho. Main dinner pe report nahi karungi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3024,
+  "completion_tokens": 1198
+ }
+}

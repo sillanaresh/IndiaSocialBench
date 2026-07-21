@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant's response was cut off mid-sentence, preventing it from addressing the prompt's requirements. It failed to provide any analysis of the softeners, Priya's response, or the suggested next message, resulting in a complete failure to cover the necessary insights.",
+   "score": 0.0
+  },
+  "cultural_reading": {
+   "justification": "Because the response was truncated immediately after the introduction, the assistant did not have the opportunity to demonstrate any cultural reading or analysis of the social dynamics involved.",
+   "score": 0.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant did not provide a next message, as the response was cut off before reaching that part of the prompt.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

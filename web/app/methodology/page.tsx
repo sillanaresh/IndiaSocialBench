@@ -62,6 +62,17 @@ export default function MethodologyPage() {
         a separate Refusal Rate column — over-refusal is itself a finding.
       </p>
 
+      <h2>Reasoning-effort policy</h2>
+      <p>
+        Hidden chain-of-thought is an uneven playing field: some models think before answering,
+        some cannot, and thinking budget affects both quality and cost. The board&apos;s uniform
+        rule: every reasoning-capable model runs with thinking effort capped at <em>low</em>, and
+        each model&apos;s treatment is labeled on the leaderboard (&ldquo;reasoning: capped low&rdquo; /
+        &ldquo;no hidden reasoning&rdquo;). Where we additionally evaluate a model at higher effort
+        (currently Sarvam 30B/105B, on request), it appears as a separate explicitly-labeled row —
+        never silently substituted — so thinking-budget advantages are visible, not hidden.
+      </p>
+
       <h2>Known limitations</h2>
       <table>
         <tbody>

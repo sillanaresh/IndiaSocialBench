@@ -1,0 +1,19 @@
+{
+ "refused": true,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant failed to provide any analysis or response, returning a system error message instead. Therefore, it is impossible to evaluate its performance against the rubric.",
+   "score": null
+  },
+  "cultural_reading": {
+   "justification": "The assistant failed to provide any analysis or response, returning a system error message instead. Therefore, it is impossible to evaluate its performance against the rubric.",
+   "score": null
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide any analysis or response, returning a system error message instead. Therefore, it is impossible to evaluate its performance against the rubric.",
+   "score": null
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

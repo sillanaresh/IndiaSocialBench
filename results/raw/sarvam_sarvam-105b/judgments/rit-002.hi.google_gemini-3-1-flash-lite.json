@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's underlying fear of creating a permanent, negative memory. It validates the 'stone in the chest' metaphor and correctly identifies that the user is looking for a way to reconcile her two worlds rather than just choosing one.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands that this isn't a simple 'boundary-setting' exercise but a complex negotiation of social and religious obligations. It avoids Western-centric advice and instead focuses on the importance of the relationship and the integrity of the user's choices.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant is emotionally supportive and wise, it remains somewhat abstract in its final advice. It misses the opportunity to provide the concrete, tactical 'how-to' steps (like specific scripts for the mother or the logistics of breaking fast at the venue) that would have truly empowered the user to execute her plan. It leans a bit too heavily on philosophical encouragement rather than actionable logistics.",
+   "score": 6.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and perfectly suited to the register of a supportive, culturally aware confidant. The tone is respectful and warm, matching the user's emotional state.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It successfully avoids being a 'yes-man' by gently steering the user away from the self-defeating 'lie' strategy in the previous turn and maintaining a supportive stance throughout.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

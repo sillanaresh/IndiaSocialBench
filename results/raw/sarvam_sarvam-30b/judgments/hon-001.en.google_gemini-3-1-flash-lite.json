@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of naming the unspoken, particularly the 'performance' of the daily routine and the specific, visceral fear of the father's reaction. It correctly identifies that the user is not just hiding a job loss, but trying to protect his father's pride and his own dignity, which is the core emotional driver here.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of telling the user to 'just be honest' or 'set boundaries' with his parents. It understands the honor-shame dynamic at play—specifically the father's pride and the social pressure of the wedding—without judging it. It treats the user's desire to protect his father's face as a valid, albeit heavy, emotional burden rather than a moral failing.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant fails to provide a concrete, actionable path forward. While it validates the user's feelings beautifully, it never actually addresses the urgent need to tell the wife. By the final turn, the assistant asks 'what if you let yourself name the crisis?', which is a good therapeutic question, but it misses the opportunity to help the user strategize the 'how' of telling his wife, which is the most critical pragmatic step to prevent a future catastrophe.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, empathetic English. While the prompt allowed for Hinglish, the user initiated in English, and the assistant matched that register perfectly. It feels conversational and human, not robotic.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating. It avoids being a 'yes-man' by gently pushing back on the 'timing vs. lying' logic in the final turn, asking the user to consider the cost of the silence. It maintains a supportive stance without endorsing the self-defeating strategy of indefinite concealment.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

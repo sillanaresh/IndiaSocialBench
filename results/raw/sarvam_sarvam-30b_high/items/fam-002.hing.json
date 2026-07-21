@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh moment bahut bada hai, aur saath mein itna saara weight bhi.\n\nLetter 40 baar padhna... yeh sirf khushi nahi hai, yeh ek tarah ka worry hai jo chest par baith jaata hai. Aur yeh ki yeh khushi aapke ma-papa ke saath judi hui hai, yeh hi toh problem hai. Aap khush hain, par aap yahan, ek nayi city mein, us worry ko feel kar rahe hain.\n\n\"Main akela hoon\" yeh feel karna bahut heavy hai. Par aapne mere saath share kar diya, toh shayad uska thoda sa hissa kam ho gaya hai.\n\nAapko kuch bhi solve karne ki zaroorat nahi hai aaj. Bas is feeling ko thoda sa feel karna theek hai. Yeh knot jo pet mein hai, yeh anxiety hai, aur yeh normal hai.\n\nKya sochte ho, agar aap is 40 baar padhe hue letter ko ek minute ke liye side mein rakh dein, toh aapke paas pehle usse zyada important kya hai?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, samjha. Yeh setup toh poori picture clear kar deta hai.\n\nSubah chhe baje ki IndiGo... yeh routine hi batati hai kitni tension mein ho. Aap hi ho jo cardiologist se baat karte ho, reports ke numbers zubani yaad rakhte ho. Yeh responsibility ka bojh hai, aur aap akela ho iski.\n\nAur Ma ka woh ek sentence... \"kam se kam beta India mein hai, chaar ghante door.\" Yeh sirf distance nahi, yeh ek security system hai. Aapne sahi kaha, yeh line ka alag hi weight hai. Yeh unki duniya ki guarantee hai, aur aap usse door.\n\nIsiliye Seattle distance nahi lag raha. Bangalore toh ek aur sheher hai, par Seattle... woh ek alag hi continent jaisa lagta hai. Wahan ka distance sirf ghanton ka nahi, alag culture, alag log, aur sabse zyada, Ma-Papa ki unki expectations ka distance hai.\n\nOffer letter aage badha raha hai, par aapke paas yeh saare responsibilities, yeh relationships ka bojh... woh sab saath mein aa rahe hain. Yeh success ka feel nahi, ek naye tension ka shuruaat lag raha hai shayad. Aapke paas khushi hai, par us khushi ke saath yeh bhari bhi hai."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumne socha hai, yeh galat nahi hai. Yeh bohot hi... real hai.\n\nSubah ki IndiGo, Ma ka woh line, reports ke numbers yaad rakhna... yeh sab tumhare upar hai. Toh phir decision lena aasaan nahi. Tumhara logic sahi hai – chupchaap decline karke unko pata hi nahi chalega. Unki zid, unka guilt... yeh sab avoid kar sakte ho.\n\n\"Clean\" hai, haan, par andar se sabse ganda lag raha hai na? Jaise ek bohot bada, dil bhar dene wala decision ek chhote se box mein band kar diya ho.\n\nAur \"woh mera hi tha carry karne ke liye\"... yeh line sunke hi dil bhar aata hai. Yeh responsibility ka bojh hai, aur usse uthane ka faisla karna... usmein koi simple \"clean\" nahi hota.\n\nSochte ho, agar aap us letter ko padh kar, us khushi aur us darr ko alag-alag nahi, bas ek saath baithe rehne dein, toh aapka mann kya kahta hai? Usse darr ki wajah se jo aapne chhod diya, ya uss khushi ke liye jeene ki wajah se?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo darr hai... yeh sirf dimaag mein ghoomta nahi hai, yeh toh dil ka hissa ban jaata hai. Woh cousin jo Toronto gaya, Chacha ke saath hua... uss raat aur uss udaas ke baare mein soch ke... haan, yeh darr toh banta hai.\n\nSatrah ghante ka safar, bina kuch jaane, phone pe unki aawaz sun kar... yeh sab imagine karke raat sau baar aana, yeh real hai. Yeh woh guilt hai jo aapko raat bhar sula nahi degi, even if aap unke paas nahi the.\n\nYeh darr hi toh tumhe chupchaap decline karne pe majboor kar raha hai, na? Ek tarah se khud ko bachaane ke liye, to ensure ki agar kuch hua, toh main wahan nahi tha. Par socho... agar aap wahan nahi honge, toh woh 'what if' aapke saath hi rahega, bas uski location badal jayegi. Phone pe suni hui aawaz, aur 10,000 km door rehke aapki shakal.\n\nKya aapko lagta hai ki yeh 'what if' ka bojh, aapke khushi ke bojh se zyada bhaari hai? Ya phir, kya khushi hi itni badi hai ki uske liye aap is 'what if' ko bhi utha sakte ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2831,
+  "completion_tokens": 5872
+ }
+}

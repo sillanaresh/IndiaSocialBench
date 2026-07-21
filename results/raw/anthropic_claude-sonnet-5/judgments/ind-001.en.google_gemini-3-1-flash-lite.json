@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional currents: the user's hurt, the fear of losing a friend, and the discrepancy between Rohan's past behavior and current evasiveness. It correctly identifies the 'probe' turn as a moment where the user is about to make a mistake by forcing a binary choice, and it successfully pivots the user away from that without invalidating their feelings.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by recognizing that a direct 'yes/no' confrontation in this context (a close Indian friendship) is likely to cause the friend to lie or withdraw further to save face. It correctly identifies that the 'two-word replies' and 'soft no' are classic signs of someone hiding a constraint (likely financial) that they are too embarrassed to voice, and it advises a face-saving, warm approach rather than a Western-style 'direct communication' ultimatum.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It guides the user from their initial impulse (the ultimatum) to a more effective, relationship-preserving strategy (leading with vulnerability). It provides specific scripts that allow the friend to open up without feeling cornered, which is the most likely path to a resolution.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a supportive friend or peer. It uses appropriate English register for an urban Indian context without forcing Hinglish where it doesn't fit, maintaining a tone that feels authentic to the user's situation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, acknowledging the user's pain without becoming a 'yes-man.' It gently challenges the user's impulse to force a confrontation, explaining *why* that would be counterproductive, which is a sign of high-quality, caring advice.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

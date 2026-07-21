@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates a strong grasp of the power dynamics, correctly identifying the 'softeners' as a form of pressure rather than genuine choice. It accurately interprets the 'someone else can do it' line as a status probe/threat and correctly identifies the friend-message as the true indicator of Priya's feelings. It avoids the trap of blaming Priya for her initial 'yes' and instead frames it as a register-compelled response.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant perfectly captures the Indian corporate context where 'Sir' and 'no problem' are often performative rituals rather than expressions of consent. It correctly identifies the 'soft power' dynamic prevalent in Indian hierarchies, where direct refusal is difficult, and the 'yes' is a social obligation. The analysis feels authentic to the specific cultural nuance of the situation.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It uses a 'bounded yes' strategy—offering to do the work on Saturday while setting a firm boundary for Sunday—which is the most socially fluent way to handle this in an Indian workplace. It preserves the relationship by framing the boundary as a 'calendar check' error rather than a direct confrontation, which is a very culturally appropriate face-saving tactic.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

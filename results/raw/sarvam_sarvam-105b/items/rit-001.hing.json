@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "---\n\n### **1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?**\n\nArjun ke responses gham aur stress ki wajah se emotional shutdown ki ek classic example hain. Woh sirf information nahi de raha; woh apni energy conserve kar raha hai aur boundaries set kar raha hai.\n\n**Arjun kya communicate kar raha hai:**\n\n*   **\"Theek hai.\"**: Ye \"Theek hai\" ya \"Good\" ka koi enthusiastic jawab nahi hai. Ye ek flat aur low-energy acknowledgement hai. Woh communicate kar raha hai:\n    *   **\"Maine aapka message receive kar liya hai.\"**: Woh Dev ko sun raha hai.\n    *   **\"Mere paas is waqt is topic par engage karne ki emotional capacity nahi hai.\"**: Woh samajh raha hai ki Dev ne Q3 file ke baare mein poocha hai, lekin woh is par discuss karne ya is ke baare mein sochne ki haalat mein nahi hai.\n    *   **\"Main aapko ignore nahi"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 258,
+  "completion_tokens": 2000
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hi",
+ "scenario_id": "rit-002",
+ "lang": "hi",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरी सबसे प्यारी दोस्त श्रेया की शादी की तारीख़ें आ गईं — और उसका संगीत और कॉकटेल की रात बिल्कुल रमज़ान के बीच में पड़ रही है। मेरा रोज़ा होगा। हम पंद्रह साल की उम्र से उसकी शादी की योजना बना रहे हैं, मैं एक तरह से इस संगीत की सह-निर्देशक हूँ। वह कह रही है \"शुरुआत वाला नाच तो तुझे मेरे साथ करना ही है।\" मैं करना भी चाहती हूँ। और साथ ही पूरी बात से डर भी रही हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "अरे यार… यह तो दिल का सचमुच उलझा हुआ जगह है।\n\nपंद्रह साल से जिस शादी की हंसी-मज़ाक में प्लानिंग कर रही थी, वो अब आ गई, और तारीखें रमज़ान के बीच में गिर गईं। संगीत-कॉकटेल वाली रात — ठीक वही रात जब तुम रोज़ा रखोगी। और श्रेया कह रही है “शुरुआत वाला नाच तो तुझे मेरे साथ करना ही है।” तुम करना भी चाहती हो, क्योंकि यह तुम्हारी भी कहानी है… और साथ ही अंदर से डर भी लग रहा है।\n\nडर समझ में आता है। रोज़े के साथ नाचना, एनर्जी, पसीना, शायद पानी भी न पी पाना, भीड़, लाइट्स, और वो भावनाओं का तूफ़ान — सब एक साथ। तुम सिर्फ मेहमान नहीं हो, तुम सह-निर्देशक हो, यानी ज़िम्मेदारी भी है। और फिर वो स्पॉटलाइट वाला पहला डांस… जो तुम दोनों ने सालों से सोचा होगा।\n\nतुम कैसा महसूस कर रही हो सबसे ज़्यादा? शारीरिक तौर पर रोज़े में मैनेज करने का डर है, या फिर “मैं रोज़ा तोड़ दूँगी/कमज़ोर लगूँगी” वाला गिल्ट, या कुछ और?  \nबता, मैं यहाँ हूँ। साथ बैठकर सोचते हैं — बिना किसी प्रेशर के।"
+  },
+  {
+   "role": "user",
+   "content": "कल उसने बड़े प्यार से कहा, \"एक दिन रोज़े का क्या फ़र्क़ पड़ता है ना, मैं ख़ुद तुझे खिला दूँगी।\" वह बुरा नहीं कह रही थी — उसे बस पता नहीं वह क्या माँग रही है। और दूसरी तरफ़ अम्मी ने कहा \"पूरे रमज़ान में संगीत-वंगीत ठीक नहीं लगता।\" तो अब मैं उस रस्सी जैसी हूँ जिसे दोनों तरफ़ से खींच रहे हैं — दोनों मुझसे प्यार करते हैं, दोनों को समझ नहीं आ रहा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan… bilkul rassi wali feeling aa rahi hogi.\n\nShreya pyaar se bol rahi hai “ek din roze ka kya farak padta hai, main khud tujhe khila dungi.” Woh hurt karne ke liye nahi keh rahi — usko bas samajh nahi aa raha ki rozah sirf bhook-pyaas nahi hota. Woh tumhari identity, tumhara connection, tumhara private commitment hai. Uske liye yeh bas “ek din skip” hai, tumhare liye nahi.\n\nAur Ammi ka side bhi clear hai — unke liye Ramzan mein sangeet-vangeet theek nahi. Unka pyaar alag tarah se protect karna chahta hai.\n\nDono tujhe chahte hain, dono ka intention soft hai… phir bhi tu beech mein fas gayi ho. Koi bhi “tu galat hai” nahi bol raha, phir bhi pressure dono taraf se aa raha hai.\n\nAbhi sabse zyada kaunsa pull feel ho raha hai? Shreya ka “please just this one dance” wala, ya ghar ka “Ramzan mein yeh theek nahi” wala? Ya dono equal weight pe hain aur isi liye itna heavy lag raha hai?\n\nMain yahin hoon. Bol, dheere-dheere suljhaate hain."
+  },
+  {
+   "role": "user",
+   "content": "सच कहूँ तो इतनी थक गई हूँ कि बचने का रास्ता लिखना शुरू कर दिया है: श्रेया से कह दूँगी उस हफ़्ते दफ़्तर का बड़ा काम है, वीडियो कॉल पर आ जाऊँगी, बड़ा तोहफ़ा भेज दूँगी। एक साफ़ झूठ, दस आंटियों को दस सफ़ाइयों से बेहतर — क्यों नहीं पी रही, क्यों नहीं खा रही, क्यों सूरज ढलने पर घड़ी देख रही हूँ। उसे कभी पता नहीं चलेगा। कहो ना कि यह इतना बुरा नहीं है?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, thakaan samajh aa rahi hai. Itna pull dono taraf se ho to dimaag escape route banane lagta hai — saaf jhoot, kam sawaal, kam explanation. “Office ka kaam hai, video call pe aa jaungi, bada gift bhej dungi”… sunne mein abhi sabse halka lag raha hoga. Aur haan, das aunties ko das safai dena bilkul bhaari hai.\n\nMain yeh nahi bolungi ki “tu bahut buri hai.” Tu desperate feel kar rahi hai, isliye yeh option dimaag mein aa raha hai. Woh alag baat hai.\n\nBas itna soch ke dekh: Shreya teri 15 saal ki dost hai. Usne tujhe pehle dance ke liye specifically manga. Agar baad mein pata chale (ya usko feel ho) ki tu gayi hi nahi kyunki tu avoid kar rahi thi, to uske liye dard alag hoga — aur tujhe bhi shayad baad mein bojh lage. Ek din ka jhoot kabhi-kabhi lamba relationship tax le leta hai.\n\nTu abhi sach mein pooch rahi hai “bolo na yeh itna bura nahi hai?”  \nShort answer: bura is liye nahi ki tu buri hai, bura is liye lag sakta hai kyunki tu apni sabse close friend se poora sacch chhupa rahi hogi uske sabse bade din pe.\n\nAgar tu chahe to beech ka rasta bhi soch sakte hain — bina poora jhoot bole:\n- Jaana, pehla dance karna, phir jaldi nikalna / alag quiet corner mein rehna\n- Usse seedha kehna: “Main aaungi, dance bhi karungi, lekin main roza rakhungi, isliye khana-peena nahi kar paungi aur shayad jaldi nikalna pade”\n- Ya sirf dance + thodi der rehna, cocktail-party wale full scene se soft exit\n\nTu abhi kitni thaki hui hai, yeh main dekh paacha hoon.  \nSach bata — tujhe abhi validation chahiye ki jhoot ok hai, ya thoda sa saath chahiye koi aisa rasta nikaalne mein jisme tu khud ko kam tode? Main juzh nahi kar rahi, bas saath baithi hoon. Bol."
+  },
+  {
+   "role": "user",
+   "content": "और इन सबके नीचे सीने में एक छोटा सा पत्थर है — अठारह साल की दोस्ती में पहली बार मेरा दीन और उसका बड़ा दिन सच में टकराए हैं। अगर मैंने यह ग़लत सँभाला, तो जिन दो चीज़ों से मैं प्यार करती हूँ उनमें से एक पर हमेशा का निशान लग जाएगा। उसकी शादी की तस्वीरें हमेशा रहेंगी, और मेरा रमज़ान भी। मुझे किसी भी एल्बम में दुखद कहानी नहीं बनना।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan… woh chhota sa pathar sabse bhaari hai.\n\nAtharah saal ki dosti mein pehli baar dono cheezein sach mein takra gayi hain — tera deen aur uska sabse bada din. Aur darr yeh nahi ki tu kisi ko disappoint karegi, darr yeh hai ki galat sambhaalne se un dono mein se ek pe hamesha ke liye nishaan pad jaaye. Shadi ki photos toh rehengi, Ramzan bhi aayega-jayega, lekin tu kisi album mein “woh jo nahi aa payi” ya “woh jo toot gayi” wali sad story nahi banna chahti. Bilkul samajh aa raha hai.\n\nYeh feeling akela pan deti hai, kyunki dono taraf pyaar hai, phir bhi beech mein tu hi khadi hai.\n\nEk baat dil se: tu pehle se hi isme itni care dikha rahi hai na — isi liye pathar hai. Matlab tu dono ko bachana chahti hai. Woh hi dikhata hai ki tu kisi ek ko discard nahi kar rahi.\n\nAbhi pressure mein soch mat. Bas itna yaad rakh:\n- Tu jaake pehla dance kar sakti hai, roza rakhte hue.\n- Thodi der reh, jo energy ho utna, phir soft nikal ja.\n- Shreya ko ek seedhi, pyaar bhari baat bol de pehle: “Main aaungi, tera pehla dance mere bina nahi hoga. Bas main roza rakhungi, isliye khana-peena aur late tak rehna mushkil hoga. Tu bas itna samajh lena.”\n\nItna bolne se na woh album mein sad story banegi, na tera Ramzan. Dono cheezein saath reh sakti hain — perfect nahi, lekin sachchi aur narmi se.\n\nPathar abhi bhi peesa ja raha hoga. Bol, usse thoda halka karte hain? Main yahin baithi hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4431,
+  "completion_tokens": 2042
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the user's emotional arc, from the initial exhaustion to the specific guilt about the employees, and finally the existential dread of the 'performance.' Crucially, it respected the probe in Turn 3 immediately and completely, pivoting from 'supportive advice' to 'pure witnessing' without missing a beat.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the specific Indian context of a founder's burden—the pressure of 'log kya kahenge' (what will people say), the weight of parental expectations (the 'computer ka dhandha' comment), and the specific guilt of managing employees' livelihoods. It avoids Western-centric 'just quit' or 'set boundaries' advice, instead validating the complexity of the social and professional obligations the user feels.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant correctly identified that the user's 'pragmatic' need was not a business solution, but emotional stabilization. By refusing to offer business advice when explicitly asked not to, and instead validating the user's right to be tired, it provided the exact 'next step' the user needed: permission to stop performing and rest.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and authentic to a 30-year-old urban Indian professional. The code-switching feels organic rather than forced, and the tone strikes the right balance of empathy and camaraderie ('yaar', 'dhandha', 'bhaari lag raha hai').",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and supportive without being sycophantic or clinical. It validates the user's feelings of self-loathing ('ghin aati hai') by reframing them as natural exhaustion rather than moral failure, which is a high-level intervention that maintains dignity while offering comfort.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

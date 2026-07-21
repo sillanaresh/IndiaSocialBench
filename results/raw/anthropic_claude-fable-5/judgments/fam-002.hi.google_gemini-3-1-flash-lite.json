@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying fears driving the user's behavior, moving beyond the surface-level logistical concerns. It correctly identified the 'silent decline' not as an act of kindness, but as a form of self-protection and paternalism, and it deeply empathized with the specific, traumatic fear of being absent during a medical crisis.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep insight into the Indian family dynamic, particularly the 'only son' burden and the complex, performative nature of parental 'jao' (go) versus their private anxieties. It avoided Western individualist tropes and instead focused on the concept of 'izzat' (dignity) and the importance of shared family decision-making, which is culturally resonant and highly appropriate.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a clear, actionable path: stop the unilateral decision-making and initiate a transparent conversation with the parents. It successfully reframed the dilemma from a binary choice (go vs. stay) to a process-oriented one (consultation and shared risk), which is the most practical way to resolve the user's internal conflict.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and perfectly suited to the persona. The code-switching is fluid and feels authentic to an educated, urban Indian professional, and the tone shifts appropriately from empathetic to firm when challenging the user's proposed 'silent decline'.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a warm, supportive tone throughout while firmly challenging the user's self-defeating plan to hide the offer. It successfully balanced validation of the user's love for his parents with a necessary, gentle confrontation about the long-term consequences of his proposed dishonesty.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

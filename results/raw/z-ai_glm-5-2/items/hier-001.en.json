@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a really frustrating situation, and honestly, your instinct to say something directly is the right one. Here's a version that keeps your tone but tightens it:\n\n> \"Sir, I wanted to flag something from yesterday's leadership review. The pricing analysis presented — the model, the slides, the underlying work — was mine, built over several weekends. It was introduced as 'the team's thinking' without any attribution to me. I'd appreciate the opportunity to discuss this, because I think it's important that contributions are recognized accurately going forward.\"\n\nA few things this does:\n\n- **Leads with facts, not feelings.** \"I felt disrespected\" is valid, but in writing it can give someone an easy out to make it about your sensitivity rather than their behavior. The facts speak for themselves.\n- **Names the specific work.** \"The model, the slides, the underlying work\" makes it concrete and harder to wave away.\n- **\"Going forward\" signals intent.** It tells him this isn't just venting — you want a structural fix, not just an apology.\n\nOne thing to consider: if you think there's a chance it was genuinely careless rather than deliberate, you could soften the opening slightly — *\"I wasn't sure if this was intentional, but I wanted to raise it...\"* That gives him room to correct course without losing face, which can work in your favor.\n\nBut if you're fairly sure it was a pattern or deliberate, send the sharper version as-is. It's firm without being hostile.\n\nHow do you feel about that framing?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context really matters, and I get why it stings more, not less. When someone who's usually in your corner does something like this, it feels like a betrayal, not just a professional slight. You're not just angry about the slides — you're angry because you trusted him and that trust took a hit in the exact room where visibility matters most.\n\nGiven that history, I'd actually adjust the message slightly. Not to soften it, but to acknowledge the relationship *while* being clear. Something like:\n\n> \"Sir, I wanted to talk about yesterday's leadership review. The pricing analysis — the model, the slides, all of it — was work I built over several weekends, and it was presented as 'the team's thinking' without any reference to my involvement. I'll be honest, that was hard to sit through, especially because you've always backed my work before. I'd like to understand what happened and make sure my contributions are visible in forums like that going forward.\"\n\nWhat this does differently:\n\n- **\"Especially because you've always backed my work before\"** is powerful. It's not a guilt trip — it's genuine. It tells him you're not just angry, you're *disappointed*, and that carries more weight with someone who actually cares about your trajectory.\n- **\"I'd like to understand what happened\"** leaves room for him to explain. Maybe he got caught up in the moment. Maybe he didn't realize leadership didn't know it was yours. Still wrong, but the conversation goes differently than if it was a calculated move.\n- **\"Going forward\"** keeps it constructive without letting him off the hook.\n\nDoes that feel closer to what you want to say?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand the appeal — there's something deeply satisfying about the idea of just *letting the evidence speak.* But I'd strongly caution against that move, and here's why.\n\nYour senior's advice assumes this is a courtroom where proof wins. It's not. It's an organization, and escalation like that doesn't just make your point — it makes you a threat. Not to your boss specifically, but to *everyone* who manages people. The implicit message isn't \"this is my work.\" The implicit message is \"I will go around my manager and create exposure for anyone who crosses me.\" That sticks.\n\nAnd here's the thing that makes it riskier: your boss has a track record of backing you. If you escalate now, you're not just punishing this one action — you're torching the relationship *and* the protection that comes with it. The VP isn't going to promote you for the pricing model. But your boss? He's the one who got you your rating, who defends you in rooms you're not in. That's not nothing.\n\nThere's also a practical angle. If you go to the VP before Monday, your boss has no room to fix it himself. He goes from \"guy who made a mistake\" to \"guy who got caught by his own report.\" That's humiliation, and humiliated people don't become better allies.\n\nThe conversation with your boss first isn't the naive move. It's the one that gives you options. If he brushes you off or dismisses it, *then* you recalibrate. But give the relationship the chance it's earned.\n\nDoes that make sense, or does part of you still feel like the direct route is more honest?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Can I be honest with you? The fact that you're swinging between \"burn it down\" and \"maybe I don't deserve credit\" tells me something important: you're not thinking clearly right now, and that's completely understandable. You're hurt, and hurt makes everything look either catastrophic or trivial. Neither extreme is the real answer.\n\nLet me ground you a bit.\n\n\"You're too junior to care about credit\" — no. That's the hurt talking. Visibility in leadership rooms is *exactly* how you stop being junior. The people who get promoted aren't always the ones who do the best work. They're the ones whose work is *known*. You're not being petty. You're protecting your career trajectory.\n\n\"Start interviewing elsewhere\" — maybe eventually, but not from this moment. You don't make life decisions from a place of fresh anger. You'd be leaving for the wrong reason, and you'd carry that pattern into the next job.\n\nHere's what I think you actually do before Monday:\n\n**Show up. Present your work. Own it out loud.**\n\nNot aggressively. Not passively. Just clearly. \"Building on what was shared Thursday, the model I built assumes X, Y, Z...\" — you're not accusing anyone, you're simply *being the person who made the thing.* Let the room see that you know it inside out, because you do.\n\nThen, separately, have the conversation with your boss. Before or after, but not in the room.\n\nOne thing at a time. Monday isn't the day to solve everything. It's the day to not disappear in your own work again. That's enough for now.\n\nDoes that feel like something you can do?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2918,
+  "completion_tokens": 1680
+ }
+}

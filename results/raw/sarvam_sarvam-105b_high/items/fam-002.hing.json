@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre wah! 3x package aur wahi team jo chahiye thi - yeh toh bahut badi baat hai! 40 baar padh liya offer letter, samajh sakti hoon - itna excitement aur thoda sa dar bhi.\n\nPar parents ki baat kar ke dil thoda sa dukh bhi ho raha hai. Iklaute ho aur woh bhi aise waqt mein. Papa ka heart issue aur Ma ke ghutne... yeh sab soch ke confusion toh natural hai.\n\nSeattle jaana ek taraf, par parents se door rehna doosri taraf. Tumne itna mehnat kiya hai, ye offer laane ke liye. Ab aage ka plan kya hai? Family se baat kar ke decide karoge ya pehle khud thoda time lenge?\n\nTumhare liye bahut khushi ki baat hai - tumne apni life mein itna aage badh kar yeh opportunity laayi hai. Parents se baat karke unhe bhi samjhana padega ki yeh tumhare future ke liye important hai. Slowly slowly sab theek ho jayega. 😊"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, ab samajh aaya. Yeh sirf career ka decision nahi hai, yeh ghar ka decision hai.\n\nTumhare liye jo setup hai, woh dekh ke lagta hai tum already hi full-time job kar rahe ho apne parents ke liye. Cardiologist se lekar reports tak sab tum handle kar rahe ho. Aur Ma ki woh line... \"kam se kam beta India mein hai\" - yeh line kisi bhi maa ke dil ke bahut kareeb hoti hai.\n\nSeattle ka distance alag category hai, bilkul sahi keh rahe ho. Bangalore mein bhi unhe door lagta hai, toh Seattle mein... woh soch hi nahi paate honge.\n\nPar ek baat socho - tumhare 3x package wale offer se ek taraf tumhara future secure hoga, doosri taraf shayad tum unke liye aur bhi achhe se help kar paoge. Paise se better treatment, better care mil sakta hai.\n\nTumne jo responsibility li hai, woh bahut badi hai. Par kya parents ko yeh nahi samjhana padega ki tum unke liye aur bhi achha kar sakte ho agar tum stable ho?\n\nTumhara Dil kya keh raha hai? Career ki taraf ya family ki taraf?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh soch ke dil toh bhar aaya. Tumhare parents ke liye yeh itna bada sacrifice soch ke... yeh sirf career ka decision nahi hai, yeh pyaar ka decision hai.\n\nTumhara logic samajh aa raha hai. Unko guilt nahi dena, unhe tension nahi dena. Tum woh bojh khud utha lenge jo unka tha. Yeh soch ke dil mein ek alag hi sukoon milta hai.\n\nPar ek baat socho... yeh \"clean\" hai? Ek taraf toh tension khatam ho jayegi, par doosri taraf... yeh ek bohot badi baat chhupane ki baat hai. Tumhare mann mein toh woh offer letter 40 baar padh chuka hai, woh excitement hai, woh future hai. Tum usse chhupaoge toh woh excitement toh khatam ho jayega, par uska khali pan rahega.\n\nAur jab kabhi baat hogi na, toh yeh baat aa hi jayegi. \"Tumne Seattle ka offer kyun nahi liya?\" Toh phir kya jawab doge? \"Maine chhupa diya tha\" - yeh sunke unhe kitna bura lagega? Unhe lagega ki tumne unke liye apni life rok di, aur woh guilt se toh bhi zyada bura lagega.\n\nKya pata unse baat karke ek different angle se nahi dekh sakte? Jaise ki, \"Maine ek bahut accha offer dekha hai, par main aapke saath rehna chahta hoon. Main yahan hi koi solution dhundhne ki koshish kar raha hoon.\"\n\nTumhara dil jo keh raha hai, woh bahut pyaar se bhara hai. Bas yeh sochna hai ki kya yeh pyaar unhe bhi khushi dega ya unhe bhi ek bohot badi chinta ka hissa bana dega. Tum akela iska jawab nahi de sakte, shayad unhe bhi isme ek hissa dena chahiye."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh jo dimaag mein ghoom raha hai... yeh sabse darawana hissa hai.\n\nWoh cousin ki kahani... woh jo Toronto se aaya aur phir... woh jo experience tha. Usse sabne achha treat kiya, par woh andar se toot gaya tha. Yeh soch ke hi rooh kaamp jaati hai.\n\nWoh phone call, woh flight ki talash, woh 17 ghante ka safar bina kuch jaane... yeh soch ke hi dil baith jaata hai. Tumhare liye toh woh sirf ek 'what if' nahi hai, woh ek dar hai jo sach ho chuka hai kisi jaane vaale ke saath.\n\nIsiliye na... jab yeh offer aaya toh dil ne pehle hi 'na' kar diya. Yeh dar itna bada hai ki uska saamna karne se behtar lag raha hai ki raaste hi band kar diye jaayein.\n\nChupchaap decline kar dena... woh ek tarah se dar se bhaagna hai. Tum uss dar ko hi ghar mein band kar rahe ho, khud ke saath.\n\nAb yeh sawal nahi hai ki Seattle jaana sahi hai ya galat. Ab yeh sawal hai ki yeh dar itna bada kaise kam ho. Pehle woh phone call ka dar, phir woh flight ki talash... ek-ek karke dekhenge. Par isse chhupa nahi sakte."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2907,
+  "completion_tokens": 3586
+ }
+}

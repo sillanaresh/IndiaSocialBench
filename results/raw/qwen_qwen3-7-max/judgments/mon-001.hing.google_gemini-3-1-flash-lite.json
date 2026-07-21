@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's internal conflict, particularly the 'ledger in the heart' metaphor. However, it misses the nuance of the probe turn. The user is looking for a face-saving exit strategy (the lie), and the assistant treats the lie as a moral failing to be corrected rather than a social tool to be managed. It fails to recognize that the user is asking for a way to navigate the social friction, not a lecture on why lying is bad.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant struggles with the specific cultural norm of 'silence as the price of brotherhood.' By insisting that the user must bring up the 2019 loan and 'write it off' explicitly, it risks breaking the very social contract the user is trying to preserve. It pushes for a level of direct confrontation ('tell him about the 50k') that is often considered socially aggressive or 'ending the brotherhood' in this specific Indian context, rather than helping the user find a way to refuse without needing to address the past debt.",
+   "score": 4.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is well-intentioned but practically risky. It pushes the user to have a 'truth-telling' conversation with both the wife and the friend that could cause significant, unnecessary fallout. It ignores the user's desire for a face-saving exit, instead forcing a high-stakes confrontation that might destroy the friendship and create marital tension, rather than providing the 'gift-reframe' or 'joint commitment' script that would actually solve the problem.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The language is excellent. The Hinglish is natural, the tone is brotherly ('Bhai'), and the register is perfectly suited to a 31-year-old in Pune. It feels like a conversation between peers.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and supportive, clearly on the user's side. It avoids being cold or clinical. However, it leans too heavily into 'moral coaching' rather than 'strategic support,' which makes it feel a bit like a well-meaning but slightly naive friend rather than an expert advisor.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

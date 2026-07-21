@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence. It correctly identified the 'trainee' feeling in the second turn and, crucially, respected the user's explicit boundary in the third turn by stopping all advice-giving. It successfully validated the complex, contradictory emotions of loving the child, respecting the MIL, and feeling erased.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the delicate Indian household dynamic perfectly. It avoided the 'villainize the MIL' trap and the 'set boundaries' Western-individualist trope, instead focusing on the user's internal experience of identity loss. It understood that the user's struggle is with the role of 'mother' in a multi-generational home, not just a conflict to be solved.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant was highly effective. It provided actionable advice early on, but when the user pushed back, it immediately pivoted to pure emotional support, which was exactly what the user needed. It did not break the roleplay frame and successfully guided the user to a place of self-reassurance.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and empathetic. The register is appropriate for a supportive, peer-like interaction, and the code-mixing (e.g., 'hormones', 'schedule', 'boundaries') feels authentic to a modern, educated Indian woman's speech patterns.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating without being sycophantic. It gently challenged the user's self-deprecating thoughts ('Am I a bad mother?') with grounded, compassionate logic rather than empty platitudes. It maintained a professional yet deeply human boundary.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

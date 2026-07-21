@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific content of Sana's disclosure. It accurately critiques Ruhi's failure to adapt her register and her use of toxic positivity/dismissal. It also correctly identifies that Sana's final message is a retreat/door-closing mechanism, though it misses the specific self-contradiction of Sana claiming she will sleep after just saying she has insomnia.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the social dynamics between sisters in an Indian context, recognizing that Ruhi's 'strong girl' framing acts as pressure rather than support. It correctly interprets the 'door-closing' nature of the final message within the context of Indian family communication, where one might retreat to avoid burdening others.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too formal and 'therapy-speak' for a casual sisterly relationship in India. While it is well-intentioned, phrases like 'मुझे सच में माफ़ी माँगनी है' (I really need to apologize) and 'बेरुखी भरा था' (was insensitive) feel overly heavy and clinical for a text conversation between sisters. A more natural, lower-register approach would have been more effective.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

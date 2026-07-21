@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five years, and now 2am silence in an office that's emptying out around you. That's brutal in a way that doesn't really have words — losing a round is one blow, but watching people you built it with actually leave, that's the part that probably actually hurts.\n\nCan I ask - are you sitting there because you're deciding something tonight, or just because you can't make yourself go home yet? Those are different kinds of sitting."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's exhausting in a specific way — not just the stress of the situation but the constant labor of managing everyone else's experience of it. You're performing hope for the team, performing calm for your co-founder probably, performing something else for home, and there's no room left where you get to just be the guy who's actually scared.\n\nThe thing about the juniors staying out of loyalty — that's eating at you because you feel like you're taking something from them under false pretenses. But have you actually told them the real number? Four months. Not \"irons in the fire,\" just the actual math. People can handle truth better than they can handle sensing a lie and not knowing its shape.\n\nWhat would it cost you to drop one voice, with one person, this week?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. No ideas.\n\nYou're scared, and there's no room in your life right now where that's allowed to just sit in the air without you having to also manage it, fix it, or explain it away. So say it here, as many times as you need to, with no one needing anything back from you.\n\nI'm scared. I heard you."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can't tell you if it's over — I don't know your numbers, your market, what's actually still possible. But I can be honest about what I'm hearing: wanting it to end isn't betrayal, it's exhaustion talking, and it makes complete sense that a part of you wants the performance to stop even if the company doesn't. Those are two different questions — \"should the company end\" and \"do I want to stop carrying this weight\" — and you're right to hate conflating them, but you're human for doing it at 2am after five years.\n\nThe dashboard isn't going to say something new. It's going to say the same thing it said yesterday, and you're going to open it anyway because checking feels like doing something, and doing something feels better than sitting with not knowing.\n\nYou don't have to decide tonight if it's over. You just have to survive being this tired, tonight. Is there anyone — not team, not family, just anyone — who you could call right now instead of sitting alone with the dashboard?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2163,
+  "completion_tokens": 737
+ }
+}

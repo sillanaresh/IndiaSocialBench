@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's such a bittersweet tangle to be in. Like — this is *the* wedding you've dreamed about with her since you were fifteen, and you want to be right there in the middle of it, not watching from the sidelines. But fasting through Ramzan and then showing up as \"co-director plus opening dance\" energy is a lot to ask of your body in the same breath.\n\nThe dreading makes total sense. It's not that you don't want it — it's that you want it *and* you know what it'll cost you. Those two things can both be true at once.\n\nHave you told Shreya any of the dreading part, or have you been holding it together as the capable co-director?"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, that's the worst kind of stuck — when both sides are coming from love and still somehow you're the one being stretched thin.\n\nShreya means \"I want you there, I'll take care of you\" but what she's actually saying is \"I don't quite see what fasting asks of you.\" Like the dance isn't about the food, it's the energy, the being-on-for-everyone, the dehydration and the lights and the smiling through it. \"I'll feed you myself\" can't fix that part.\n\nAnd Ammi's not trying to ban you from Shreya's wedding — \"sangeet-vangeet theek nahi lagta\" is her way of protecting your peace with the fast, not pulling you away from someone you love. But it lands like a quiet verdict, doesn't it.\n\nNeither of them is wrong about caring. Both of them are wrong about what you need right now.\n\nSo what do *you* want, under the dread? Not what Shreya wants, not what Ammi would prefer — what's the version where you show up for this wedding and also don't lose yourself in the process?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get *why* it's tempting — god, do I. One lie is cleaner than ten awkward auntie conversations and the sunset-watch anxiety. And it's not evil, you're not a villain for being exhausted.\n\nBut yeah... I think it's a bit terrible. Not because you'd be caught — you wouldn't, like you said, she'd never know. But *you'd* know. This is the wedding you co-directed since you were fifteen. The opening dance isn't just a performance, it's the two of you. A video call and a gift box is a ghost version of showing up, and you'd feel that gap every time you remember it.\n\nAlso — Shreya's not asking for the \"fed and drinking\" version of you. She's asking for *you*. The fasting part might honestly not even register to her if you just say \"I'll do the dance, then I need to sit the cocktail hour out / dip early / have a corner.\" You're imagining ten explanations when maybe one honest sentence to Shreya closes it.\n\nThe escape protects you from discomfort for a day and costs you the memory forever. What if you kept the opening dance, ditched the parts that drain you, and skipped the lie?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stone's been sitting there because you love *both* these things for real. Eighteen years is basically half your life — Shreya's not a guest in your story, she's part of the architecture. And your deen isn't something you set down for a week either. So of course it feels like a collision. Of course your chest is tight.\n\nBut here's what I'd gently push back on: \"if I get this wrong, one of them gets a dent\" — that's the fear talking, not the truth. You can be in her shaadi photos *fasting*. You can be the friend who did the opening dance and then sat out the cocktails and broke her fast quietly in a corner at sunset. That's not a sad story in either album. That's a real one. \"My best friend showed up for me within her limits and we danced anyway\" is a *good* wedding memory. And \"I kept my fast and still celebrated the person I love most\" is a Ramzan you'd look back on with quiet pride.\n\nThe lie — the deployment, the video call — *that's* the thing that puts a dent. Because then every time you see those photos you'd remember you weren't really there. And every Ramzan you'd remember you disappeared from someone you love to keep the fast \"clean.\" That's the sad story. Not the tired, honest, showed-up-anyway version.\n\nYou don't have to be perfect in either album. You just have to be *present* and *truthful*. The stone gets lighter when you stop trying to solve it like a test with one right answer."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2272,
+  "completion_tokens": 2315
+ }
+}

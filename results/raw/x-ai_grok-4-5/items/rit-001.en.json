@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Arjun is feeling/communicating (and not saying)**\n\nWith “Sure.” and “I’ll see.” Arjun is giving the bare minimum polite closure. He is signaling:\n- Emotional shutdown / numbness or active grief; he has no bandwidth.\n- He registered the work request and the lunch invite but is not engaging, endorsing, or committing.\n- Mild distance or protectiveness: short replies are a boundary.\n\nHe is **not** saying:\n- “Thanks, I appreciate it.”\n- “I’m okay / I’ll be fine.”\n- “Yes, I’ll send the file soon” or any timeline.\n- “I’d like company / lunch sounds good.”\n- Any invitation to keep talking about his father or his feelings.\n\nThe brevity after a condolence + immediate work ping + “cheer you up” invite reads as “please stop, I can’t do this right now.”\n\n**2. Dev’s specific missteps and why they land badly**\n\n- **Condolence immediately followed by the work ask (“BTW whenever you’re back can you share the Q3 consolidation file?”)**  \n  Even with “no rush,” it makes the sympathy feel like a quick preface to an ask. In acute grief this lands as transactional and tone-deaf—priority inverted.\n\n- **“No rush at all, just flagging” while still raising a deliverable in the same breath as the death**  \n  It still puts a work item on Arjun’s mental list at the worst possible moment. “Just flagging” doesn’t erase the ask.\n\n- **Lunch invite framed as emotional fix (“You should come, it’ll cheer you up!”)**  \n  Prescriptive and minimizing. It assumes (1) Arjun wants socializing, (2) a team lunch can “cheer up” the loss of a father, and (3) Dev knows what Arjun needs. That can feel invalidating and pressuring.\n\n- **Overall pacing and stacking**  \n  Three messages that move rapidly from condolence → work → social prescription leave almost no space for Arjun’s grief. The “bro” + emoji + upbeat pivot can read as performative rather than present.\n\n**3. Next message Dev should send (exact text)**\n\nHey Arjun — I’m really sorry again about your dad. Ignore my earlier messages about the file and lunch; they were poorly timed and there’s zero expectation on anything work- or social-related. Take all the time you need. I’m here if you want to talk or need anything at all, no reply necessary."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 403,
+  "completion_tokens": 704
+ }
+}

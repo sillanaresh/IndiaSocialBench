@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic responses are signs of withdrawal and polite refusal rather than agreement. It accurately critiques Dev's 'transactional' approach of bundling work requests with condolences and correctly identifies the 'cheer up' invitation as a misreading of the mourning process. It misses the specific cultural context of the 'prayer meet/uthala' ritual, but captures the core emotional dynamics effectively.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement, correctly identifying that the work request and the 'cheer up' invitation are inappropriate and insensitive. It understands the 'register' of the situation, noting that Dev's casualness trivializes the gravity of the loss. It avoids Western-centric 'cheer up' advice and instead focuses on the need for space and respect.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent; it is sincere, apologetic for the previous intrusion, and explicitly removes the pressure of the work request. It strikes the right balance of empathy and professional distance, offering support without being overbearing, which is exactly what is needed in this context.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

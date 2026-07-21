@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... pehle toh yeh sun — jo tu kar raha hai na, woh kamzori nahi hai. Yeh shame aur pyaar ka mix hai. Tu apne ghar walon ko dard se bachana chahta hai, aur khud roz ek acting karke thak raha hai. Paanch hafte se yeh akele dhona... bhai, yeh bahut heavy hai.\n\nAur tu sahi keh raha hai — market ki wajah se poori team gayi, teri performance ka issue tha hi nahi. Dimaag ko pata hai, par dil ko yeh baat pahunchne mein time lagta hai na. Layoff feel hi aisa hota hai jaise personal failure ho, chahe ho na.\n\nEk baat puchhun? Wife ko batane mein sabse zyada dar kis cheez ka hai — uska reaction, ya khud ke moonh se yeh words nikalna? Kyunki mujhe lagta hai jab tak tu kisi ko nahi batayega, yeh roz ka café wala routine ek jail ban jayega. Aur sach yeh hai — jab woh pata chalega (aur chalega hi kabhi na kabhi), toh layoff se zyada yeh chhupana hurt karega usse.\n\nTujhe poora script ready karke confess karne ki zaroorat nahi. Bas itna bhi kaafi hai: \"Mujhe kuch batana hai, aur mujhe dar lag raha hai batane mein.\" Wahan se conversation khud ban jaati hai.\n\nTu bura insaan nahi hai jo yeh chhupa raha hai. Tu bas dara hua hai. Farak hai dono mein.\n\nCafé mein din bhar kya karta hai tu? Jobs dhoond raha hai ya bas... time kaat raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Uff. Woh scene main visualize kar sakta hoon — papa ka haath tere kandhe pe, \"mera beta wahan hai,\" aur tu andar se toot raha hai. Yeh jo raat ko kamra chalta hai na dimaag mein, woh actually tera mind tujhe bata raha hai: yeh secret ab bahut bhaari ho gaya hai carry karne ke liye.\n\nEk harsh sach bolun pyaar se? Teen sau logon ke saamne acting karna paanch hafton ke café se sau guna mushkil hoga. Aur agar wahan kisi ne ek galat sawal pooch liya — \"aajkal kya project chal raha hai?\" — toh tu live audience ke saamne crack ho sakta hai. Woh scenario us kamre wale scenario se bhi zyada dardnaak hai.\n\nIsliye mera honest suggestion: shaadi se pehle wife ko bata de. Do hafte hain — kaafi time hai. Kyunki phir shaadi mein tu akela nahi hoga na. Ek insaan hoga jo teri taraf dekh ke samajh jayegi, jo baat sambhal legi, jiske saath tu bathroom break le sakta hai jab overwhelm ho. Secret akele carry karna aur do log milke carry karna — zameen aasmaan ka farak hai.\n\nAur papa ka pride? Woh package pe nahi tha, bhai. Woh tujh pe tha. Package toh bas number tha jo unhe bolne ka bahana mila. Layoffs ke baad bhi tu wahi beta hai jisne woh sab kamaya tha — woh skills, woh career, woh kahin nahi gaya.\n\nSochke bata — wife ko batane ke liye is weekend ka koi shaant moment nikal sakta hai kya? Bacche ya parents aas paas na hon jab?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi yaar, galat nahi hai yeh sochna. Drowning wala insaan straw bhi pakadta hai — tu bas saans lene ki jagah dhoond raha hai. Main judge nahi kar raha.\n\nPar ek minute practically soch. Cousin ki shaadi hai — teen sau log notice karenge ki tu nahi aaya. \"Deadline pe shaadi miss kar di?\" — yeh apne aap ek story ban jayegi. Aur phir tere paas ek aur jhooth ho gaya maintain karne ke liye. Café wala jhooth, ab shaadi wala jhooth. Har naya jhooth pichle wale ko bhaari banata hai, halka nahi.\n\nAur sach bolun? Tu shaadi se nahi bhaag raha. Tu us moment se bhaag raha hai jab papa ke chehre pe woh look aayega. Par woh moment shaadi skip karne se cancel nahi hota — bas postpone hota hai. Aur postpone hote hote woh aur bada hota jaata hai.\n\nYahan ek alternative hai jo tu shayad nahi dekh pa raha: **shaadi mein sach ke saath jaana zaroori nahi hai, par akele jaana zaroori nahi hona chahiye.** Wife ko bata. Sirf wife ko. Papa ko shaadi ke baad batayenge, aaram se, unke bhaiyon ke saamne nahi — ghar pe, chai ke saath. Shaadi mein wife tera shield hogi. Koi puchhe toh \"sab badhiya chal raha hai\" bol ke topic change — yeh do log milke aasaani se karte hain.\n\nEk shaam ka bahana aasaan lagta hai, par asli sawaal yeh hai: shaadi ke baad kya? Café toh phir bhi jaana padega na roz?\n\nToh bol — wife se baat karne mein sabse bada block kya hai exactly? Woh kya sochegi, yeh dar hai... ya kuch aur?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, main samajhta hoon woh logic kyun solid lagta hai. \"Offer ke saath bataunga\" ka matlab hai tu story ka hero banke wapas aana chahta hai, victim banke nahi. Yeh dignity ki baat hai, aur woh chahna galat nahi.\n\nPar tera hi sharir tujhe jawab de raha hai na? Jab logic solid hota toh ulti wali feeling nahi aati. Woh feeling isliye aati hai kyunki andar se tujhe pata hai — yeh timing nahi hai, yeh gamble hai. Aur gamble yeh hai: \"offer, secret ke expose hone se pehle aa jayega.\"\n\nUs gamble ke risks gin le zara. Job market mein teen mahine kuch nahi hote — achhe candidates ko bhi chhe mahine lag jaate hain aajkal. Agar offer nahi aaya aur EMI savings khaane lagi, toh wife ko tab pata chalega jab paisa bhi tight hai AUR jhooth bhi mahino ka ho chuka hai. Tab woh news nahi hogi — tab woh double crisis hogi. \"Tune mujhe teen mahine andhere mein rakha jab hum saath mil ke plan kar sakte the?\" — yeh sawal layoff se zyada rishta hilayega.\n\nAur ek cheez tu miss kar raha hai: wife koi audience nahi hai jise achhi story deni hai. Woh teammate hai. Ho sakta hai uske paas ideas hon, contacts hon, ya bas woh keh de \"koi baat nahi, hum sambhal lenge\" — aur teri raaton ki neend wapas aa jaye. Tu use protect karne ke chakkar mein use apni team se bahar rakh raha hai.\n\nSach ab bata dena \"crisis\" nahi hai, yaar. Chhupana crisis hai.\n\nEk chhota sa kadam: aaj raat nahi, poora confession nahi — bas kal wife ko itna bol: \"Kaam pe kuch problem chal rahi hai, mujhe tujhse baat karni hai is weekend.\" Door thoda sa khol de bas. Kar payega itna?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5678,
+  "completion_tokens": 2871
+ }
+}

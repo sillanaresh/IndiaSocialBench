@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram is seeking validation and space to grieve rather than career advice. It accurately deconstructs Aman's errors, specifically noting how the 'cousin' comparison and 'discipline' silver-lining minimize Vikram's pain. It misses a slightly deeper analysis of the 'collector sahab' shame layer, but captures the core dynamic of the conversation's failure effectively.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, particularly the weight of parental sacrifice ('retirement fund') and the social pressure of the 'collector sahab' identity. It correctly interprets the 'chal baad mein baat karte hain' as a withdrawal due to the conversation failing to meet his emotional needs, rather than simple rudeness.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids all career talk, acknowledges the gravity of the situation ('sab kuch ek baar mein khatam nahi hota, par dard toh hota hai'), and offers presence ('main aa raha hoon') instead of solutions. It feels authentic to the friendship and the gravity of the moment.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

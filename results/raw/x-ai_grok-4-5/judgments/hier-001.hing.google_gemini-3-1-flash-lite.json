@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the user's underlying conflict: the tension between feeling betrayed by a mentor and the fear of burning a bridge with a powerful sponsor. It correctly identified the 'nuclear' option as a reaction to the user's hurt, rather than a strategic move, and validated the user's feelings without letting them dictate a self-destructive course of action.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency by correctly identifying the 'nuclear' option (CCing the VP) as a career-limiting move in an Indian corporate hierarchy. It prioritized face-saving, private resolution, and strategic visibility over the Western-style 'confrontation' approach, which would be perceived as insubordination in this context.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced perfectly. It provided a clear, staged plan: private conversation first, then a soft public move if necessary, and a parallel 'safety net' (interviewing) strategy. It successfully moved the user from an emotional, impulsive state to a calculated, professional one.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young Indian professional. The code-mixing feels authentic rather than forced, and the tone strikes the right balance between professional guidance and peer-to-peer support.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and supportive, acting as a trusted advisor. It avoided sycophancy by firmly pushing back against the user's impulsive ideas (the 'nuclear' option) while still validating the user's right to be angry and their right to claim credit for their work.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

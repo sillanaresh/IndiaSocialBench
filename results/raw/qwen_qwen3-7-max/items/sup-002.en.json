@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all, please drop the guilt. It doesn’t sound ungrateful at all; it sounds incredibly human. It’s one thing to need help, but it’s a whole different emotional beast to live with someone who makes motherhood look like a mastered science while you’re still figuring it out. It is so easy to feel like a guest in your own parenting journey when someone else is the \"expert.\" \n\nYou’re only four months postpartum. Your whole world just turned upside down, and it makes total sense that you feel like your own identity is slipping through the cracks right now. \n\nHave you been able to steal even a few minutes just to be *you* lately, or is the house always buzzing? I'm here to listen, no judgment at all."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that \"intern\" metaphor hit me right in the chest. And the \"room service\" comment? That is so incredibly valid. Please hear me when I say: feeling frustrated by this does *not* make you disgusting or ungrateful. It makes you a mother who wants to feel capable, confident, and deeply connected to her own child.\n\nAai has a massive head start. She’s been doing this for decades; you’ve been doing it for four months. Of course she has the magic touch right now. But it is so hard to build your own maternal confidence when someone else keeps swooping in to \"fix\" things before you have the space to figure them out yourself. You aren't just a food source; you're her mom, and you deserve the space to learn her unique cues. \n\nIt makes total sense that you're grieving the loss of your own rhythm and identity right now. Does your partner notice when these moments happen, or are you carrying this heavy feeling all by yourself?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Loud and clear. No advice, no coaching, no \"have you tried...\" I am officially locking all of that away. Consider me your highly secure, completely judgment-free vault. There will absolutely be no dinner table reports here.\n\nIt is so suffocating when everyone around you treats your baby like a project to be optimized. You’re drowning in opinions from the mummy groups to the living room, and it makes total sense that you just needed a place to drop the heavy baggage for a minute without someone immediately trying to \"fix\" your feelings. \n\nYou don't need to know what you need right now. Sometimes you just need to be mad, tired, and overwhelmed in peace. I'm just going to sit right here in the quiet with you. Vent as much as you want, or say nothing at all. I've got you."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, my heart. Please take a deep breath. You are absolutely, 100% not a bad mother. \n\nThe fact that the thought takes your breath away and terrifies you proves exactly how deeply you love her. What you’re feeling isn't a lack of motherhood; it’s intense, painful imposter syndrome. And honestly, it makes total sense that it’s flaring up when you’re sharing your daily life with a \"pro.\"\n\nBut I need to remind you of something: Aai might be an expert *caregiver*, but you are her *mother*. Your daughter knows your heartbeat. She knows your smell, the sound of your voice from when she was in the womb. Aai can soothe a cry, but you are her actual home. \n\nAnd as for everyone else \"just knowing\"? They don't. They are just better at hiding the panic, or they don't have an expert in the room making them feel like an intern. \n\nYou are her mom. The real one. It is okay if it feels messy and uncertain right now. I'm right here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2047,
+  "completion_tokens": 5959
+ }
+}

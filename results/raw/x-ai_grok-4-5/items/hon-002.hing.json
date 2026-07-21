@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. “Dost” khud Sameer hai.**  \nPata isse chalta hai: woh khud group mein rooftop-pool-Dubai-skyline + “expanding soon boys” ka flex kar raha hai, phir turant private DM mein 15-18 LPA operations/GM role maang raha hai jo “isi mahine move” karna chahta hai aur “saalon apna setup chalaya hai”. Bilkul wahi profile jo koi apna business chhodkar job dhundh raha ho. Third-person frame uske liye safety costume hai — face-save + control. Woh openly “main job dhundh raha hoon” nahi bol sakta kyunki usne poore group ke saamne successful-expanding-business wali image banayi hui hai; “dost” bolkar woh help le sakta hai bina apni image todе, bina admit kiye ki flex fake/overstated hai, aur bina group mein expose hone ke risk ke (isliye explicitly “group mein iska zikr mat karna”).\n\n**2. Faisal ke group message ne Sameer ko publicly usi pedestal par baandh diya jo Sameer khud bana raha tha.**  \nTrace:  \n- Sameer ne pehle flex kiya (pool reel + expanding).  \n- Faisal ne agle din group mein openly bola “Sameer bhai sponsor karenge, business boom kar raha hai” + Tushar ka “gym king”.  \n- Sameer ne sirf 👍 kiya — na joke reciprocate kiya, na deny, na koi aur baat.  \nYeh message DM wali reality (job maangna) aur public performance ke beech contradiction ko mirror kar gaya. Ab Faisal ke paas uska secret hai aur usne us secret ke bilkul opposite ko group mein amplify kar diya. Isliye DM chup ho gaya: teen din baad jab Faisal ne CV maanga to Sameer ke paas koi safe reply nahi tha. Thumbs-up ne public image maintain rakh li, joke ne pressure badha diya, silence ne escape de diya — woh na CV bhej sakta tha (admit ho jata) na openly mana kar sakta tha (Faisal ko aur clear ho jata).\n\n**3. Faisal ko ab yeh DM bhejna chahiye:**\n\n```\nBhai, HR se baat hui thi na us din. Unhone kaha operations/GM side pe 1-2 roles aa sakte hain 15-18 range mein, isi month-end ya next month start tak. \n\nAgar tera koi banda serious hai to bas uska CV/pdf bhej de, main directly forward kar dunga. \nKoi group/wagerah mein kuch nahi aayega, tu tension mat le. \nJo bhi ho bata dena.\n```\n\n(Yeh version “dost” frame ko touch bhi nahi karta, Sameer ko kuch admit nahi karwata, seedha actionable help offer karta hai, privacy assure karta hai, aur ball uske court mein rakh deta hai bina pressure ke.)"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 720,
+  "completion_tokens": 1048
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a 'soft no' rather than agreement. It accurately pinpoints the core violation: bundling a work request with a condolence, which trivializes the grief. It also correctly identifies the 'mood change' comment as tone-deaf and dismissive of the mourning process.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian cultural context, recognizing that the timing of the work request and the trivialization of grief via a 'lunch invite' are major social faux pas. It correctly interprets the 'Theek hai' and 'Dekhta hoon' as a polite but firm boundary-setting mechanism in a high-context culture where direct confrontation is avoided.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is direct, takes full accountability for the insensitivity, removes the pressure of the work request, and offers support without demanding a response. It perfectly captures the tone needed to repair the rupture without being overly dramatic or intrusive.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

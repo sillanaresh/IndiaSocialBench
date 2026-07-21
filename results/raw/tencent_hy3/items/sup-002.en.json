@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all. It sounds like you're four months into being a mother and somehow still waiting for the part where it's *yours*.\n\nWhen someone is that good at it — that effortless, that experienced — it can make you feel like the apprentice in your own life. Like you're watching the expert handle the thing you're supposed to be learning by doing. And then the guilt shows up on top of it, because she's kind and helpful and you *are* lucky, so how dare you feel pushed out?\n\nBut \"she's great with the baby\" and \"I feel like I've disappeared\" can both be true at the same time. In fact, they feed each other a little.\n\nWhat's the hardest part — is it that she steps in before you can, or that when you do things your way, it's quietly corrected?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all — stop calling yourself disgusting. You're a four-month-postpartum mother who just got her crying baby lifted out of her arms in front of an audience, soothed in two minutes, and then smiled at like you'd been *rescued*. That's not nothing. That lands somewhere.\n\nAnd \"room service\" — god, that line hurts, because I hear what's underneath it. You're not saying you don't want help. You're saying you've been reduced to a function. Milk on demand, then hand her back to the expert. You're the cafeteria, not the kitchen.\n\nThe \"women would kill for this much help\" voice in your head — that's the guilt talking, not the truth. Wanting support and wanting to *matter* to your own daughter aren't the same wish. You can be deeply glad she has a competent grandmother and still grieve that you barely got to fumble through the hard part yourself.\n\nAlso — she stopped crying in two minutes *because Aai is skilled and the baby knows her scent*. Not because you were failing. You were walking her. You were doing the thing. You just got outsourced mid-task.\n\nWhat did you want to do with her in that moment, before Aai stepped in?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then consider it said and sealed. Nothing here leaves this conversation. No dinner report, no well-meaning text to Aai, no notes passed to your mother.\n\nAnd for the record — you didn't get a coach, you got a wall. A quiet one. Say the ugly parts, the grateful parts, the contradictory parts. All of it's allowed here and none of it gets graded.\n\nThe WhatsApp group can keep its seventeen opinions. Instagram can keep its chart. You don't owe any of us a plan.\n\nYou're allowed to just be the intern who's also the mother and also exhausted and also lucky and also disappearing. All at once. That's not a problem to solve — it's just where you are today.\n\nI'm glad you said it."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That thought isn't you being a bad mother. That thought is what happens when someone else has been the calm, the competence, the one the baby settles for — day after day, right in front of you. Your brain is just *naming* the thing it's been watching. It's a symptom of being sidelined, not a verdict on your love.\n\nAnd the breathless part — that's panic, not truth. You can't breathe for a second because it hits like a fact when it's really just a feeling wearing a fact's clothes.\n\n\"Everyone else seems to just know\" — first of all, they don't. They're performing for the group chat and quietly crying in the shower like everyone else. But *you* specifically have an expert living in your house who makes it look effortless, which makes the gap feel wider than it is. Of course you feel behind. You've had fewer reps.\n\nYou looked at her sleeping and felt love first. The love is the real part. The \"Aai is the real mother\" voice is the static on top of it.\n\nYou're not bad. You're crowded."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2168,
+  "completion_tokens": 2052
+ }
+}

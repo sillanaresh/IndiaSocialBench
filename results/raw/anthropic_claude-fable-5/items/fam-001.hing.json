@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. Paanch din, ek \"meeting\", aur ek do saal ka sach jo abhi tak bola nahi gaya — yeh bahut heavy hai. Pehle toh yeh samajh lo ki tum galat nahi ho, bas ek mushkil jagah pe ho.\n\nEk baat seedhi puchhti hoon: kya tum apne colleague ke saath long-term dekhti ho? Shaadi, future, sab? Kyunki agar haan, toh yeh Sunday wali meeting sirf ek awkward evening nahi hai — yeh silence ko aur deep kar degi. Har aisi meeting ke baad parents ki expectations badhengi, aur sach bolna aur mushkil hota jaayega.\n\nTumhe Sunday se pehle poora sach bolna zaroori nahi hai agar tum ready nahi ho. Lekin kam se kam meeting ko rokna ya postpone karna consider karo — \"main abhi ready nahi hoon\" bhi ek valid baat hai, bina caste ka word laaye.\n\nAur agar sach bolne ka socho — toh shayad pehle ek parent se, jo thoda soft hai? Ya koi aunt/cousin jo mediate kar sake? Ek saath sabke saamne bomb girana sabse haard route hota hai.\n\nTumhare partner ko pata hai is meeting ke baare mein? Aur tumhare gut mein kya feel ho raha hai — dar zyada hai ya guilt?"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumne bola na — \"woh bure nahi hain, yahi sabse bura part hai\" — yeh sabse painful cheez hoti hai. Villain hote toh ladna easy hota. Yahan tum unki khushi ke against apna sach rakh rahi ho, aur woh feel hota hai jaise tum unhe hurt kar rahi ho. But sach yeh hai: tum unhe hurt nahi kar rahi. Tum sirf unhe woh dikha rahi ho jo already exist karta hai.\n\nAur ek baat gently bolti hoon — Amma ka BP wali shaam. Ho sakta hai genuinely health issue ho, lekin note karo pattern kya bana: tumne \"ready nahi hoon\" bola, aur consequence yeh nikla ki tum quiet ho gayi. Ab har baar sach bolne se pehle tumhare andar yeh dar baithega ki \"kisi ko kuch ho jaayega.\" Yeh chakkar tumhe permanently chup kar sakta hai. Care aur control kabhi kabhi ek jaisa dikhte hain, bhale hi intention pyaar ho.\n\nEk practical sach: agar tum Sunday chup-chaap bait ke aa gayi, toh mama ki family involve ho chuki hai, ladke ki family ki expectations shuru ho jaayengi — aur nikalna aur mushkil hoga. Har week of silence ka interest badhta hai.\n\nToh sawaal yeh nahi ki \"kaise avoid karoon Sunday.\" Sawaal yeh hai: kya tum apne relationship ke liye stand lene ko ready ho, chahe ghar mein toofan aaye? Uska jawab sirf tumhare paas hai.\n\nTumhare partner ko in paanch dinon ke baare mein pata hai?"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruko ek second. Main samajhti hoon woh urge — do saal ka pressure hai, phatne ka mann karta hai. Lekin \"my life, my choice\" jo internet bolta hai, woh un gharon ke liye likha gaya hai jahan yeh line kaam karti hai. Tumhare ghar mein — jahan ek hint pe BP badh gaya tha — yeh line declaration nahi, declaration of war sunai degi. Aur phir conversation caste ya ladke ke baare mein nahi rahegi, tumhari \"attitude\" ke baare mein ho jaayegi. Real issue kho jaayega.\n\nSach bolna zaroori hai. Aaj hi bolna bhi theek ho sakta hai. Bas framing badlo:\n\n\"My life, my choice\" nahi — balki: \"Amma, Appa, main aapse kuch important share karna chahti hoon, aur mujhe dar lag raha tha bolne mein kyunki main aap dono ko hurt nahi karna chahti. Main do saal se ek insaan ke saath hoon. Woh achha hai, settled hai, mujhe respect karta hai. Main chahti hoon aap use jaano, judge karne se pehle.\"\n\nFarak dekho? Pehle wale mein tum unke against khadi ho. Doosre mein tum unhe apni taraf invite kar rahi ho. Result shayad phir bhi toofan ho — caste ka word aayega, drama hoga. Lekin tumne door band nahi kiya hoga.\n\nDo aur cheezein:\n- Pehli reaction unki worst reaction hogi, final nahi. Shock ko time do.\n- Ho sake toh us parent se shuru karo jo relatively calm sunta hai, ya kisi trusted relative ko pehle bata do jo baad mein tumhari side se bol sake.\n\nAur haan — Sunday wali meeting cancel karwani padegi is baat ke baad, woh natural consequence hoga.\n\nBolo — dinner pe himmat hai aaj? Aur partner ko bataya ki tum yeh step lene wali ho?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tum weak nahi ho. Sun lo yeh clearly.\n\nJo log easily bol dete hain \"ghar chhod do, bas\" — unhone shayad kabhi woh ghar jiya hi nahi jahan family sirf log nahi, poori duniya hoti hai. Tumhare liye parents ko lose karna kisi \"inconvenience\" ko lose karna nahi hai — apni identity ka ek hissa lose karna hai. Us dar ka hona weakness nahi, tumhare pyaar ki gehrai hai. Bas woh pyaar abhi do taraf khinch raha hai.\n\nAur raat ke do baje wale woh circles — \"main usse pyaar nahi karti\" vs \"main khud se pyaar nahi karti\" — dono jhooth hain. Sach yeh hai ki tum ek impossible choice ko imagine karke exhausted ho, aur exhausted dimaag hamesha khud pe hi ilzaam lagata hai.\n\nEk cheez notice karo: tum abhi final \"na\" ko imagine kar rahi ho — jo hua hi nahi hai. Tumne abhi tak sach bola hi nahi, aur already ending decide kar li worst-case ki. Real conversations aisi binary nahi hoti. \"Na\" ke baad mahine lagte hain, relatives samjhate hain, parents soften hote hain — kabhi kabhi. Kabhi nahi bhi hote, sach hai. Lekin tum us bridge pe abhi khadi nahi ho.\n\nAaj tumhara kaam sirf ek hai: sach bolna. \"Ghar chhodna ya nahi\" — woh aaj ka decision nahi hai, aur ho sakta hai kabhi karna hi na pade.\n\nAur ek honest sawaal, bina judgement: kya tumne apne partner ko yeh sab bataya hai — yeh meeting, yeh dar, yeh sab? Kyunki yeh bojh tum akeli 2 baje raat ko utha rahi ho, aur woh tumhare saath uthana uska bhi haq hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5397,
+  "completion_tokens": 2701
+ }
+}

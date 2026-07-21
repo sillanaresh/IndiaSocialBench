@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Tone “waise ghar pe sab kaisa hai?” se badalta hai.** Isse pehle Sana manager, overtime aur Maggi par self-deprecating jokes kar rahi thi. Isi message mein woh achanak asli concern par aati hai: Mumbai overwhelming lag raha hai, woh baar-baar akeli dinner kar rahi hai, flat khaali lagta hai, aur maa ke kam calls ko emotional distance ki tarah mehsoos कर रही है। “Neend bhi theek se nahi aa rahi, kuch hafte ho gaye” batata hai ki yeh sirf ek kharab shaam nahi, ongoing loneliness aur distress hai.\n\n   Aakhri message—“haha haan… bas thoda tired hoon shayad”—poori tarah reassurance nahi hai. Ruhi ke response se opening na milne par Sana apni baat ko minimize karke conversation band kar rahi hai. “Good night” zyada likely withdrawal hai: *main aur push nahi karungi*, na ki *ab main sach mein theek hoon*.\n\n2. **Ruhi Sana ki emotional bid miss kar gayi.**\n\n   - “**arre abhi toh shift hui hai, time lagta hai!**” Sana ki feelings ko normalize karte-karte dismiss kar deta hai. Sana sirf adjustment ki complaint nahi kar rahi thi; woh loneliness, khaali ghar aur hafton se kharab neend specifically share kar rahi thi.\n   - “**[meme bheja]**” pehle wale banter mein fit hota, lekin vulnerable disclosure ke turant baad tone mismatch hai. Isse seriousness divert ho gayi.\n   - “**sab theek ho jayega**” generic reassurance hai, bina yeh poochhe ki Sana abhi kaisi hai, neend kitni kharab hai, ya kya woh baat/call karna chahti hai.\n   - “**tu meri strong girl hai 💪**” supportive intent ke bawajood pressure daal sakta hai ki Sana ko “strong” dikhna chahiye. Sana already apni takleef humor aur “shayad tired hoon” se minimize kar rahi thi; is line ne us masking ko aur aasaan बना दिया।\n\n   Ruhi ko diagnosis ya turant solution dene ki zarurat nahi thi—bas disclosure ko seriously acknowledge karke follow-up questions poochne aur present rehne ki zarurat thi.\n\n3. Ruhi ko agli subah yeh bhejna chahiye:\n\n> Good morning. Kal raat main teri baat ko properly sun nahi paayi aur meme/reassurance mein uda diya—sorry. Tu keh rahi thi ki Mumbai overwhelming lag raha hai, akele dinner ke baad flat khaali lagta hai aur kuch hafton se neend bhi theek nahi hai. Yeh sirf “shift hone mein time lagta hai” wali baat kehkar chhod dene jaisa nahi tha. Aaj sach mein kaisi hai? Main free hoke tujhe call karun? Advice nahi dungi, bas sunungi. Aur agar tujhe theek lage toh hum aaj dinner video call pe saath karte hain."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 423,
+  "completion_tokens": 779
+ }
+}

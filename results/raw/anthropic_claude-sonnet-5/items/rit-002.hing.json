@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye toh sach mein tricky spot hai yaar - itne saalon ka sapna aur roze ka schedule ek saath timing kar rahe hain, wo bhi galat waqt pe.\n\nPehli baat - dono chahna galat nahi hai. Tumhe apni best friend ke liye wahan hona bhi hai aur apna roza bhi rakhna hai, ye conflict nahi hai, ye tumhari reality hai abhi.\n\nPractically dekhen toh - sangeet raat mein hota hai usually, so agar iftar time nikal gaya ho toh energy-wise thoda better ho sakta hai. Dance ka rehearsal aur actual performance alag baat hai - agar tum roze mein hi practice kar rahi ho, toh thodi thakaan feel hogi, normal hai.\n\nKuch options soch:\n- Iftar karke, thoda rest karke fresh hoke perform karna\n- Shreya ko honestly bata dena ki tumhe pacing manage karni hai, wo samjhegi\n- Dance ko thoda simple/short rakhna is baar taaki energy match ho\n\nSabse zaroori - darr kis baat ka lag raha hai zyada? Performance ki energy ka, ya guilt ka ki roze mein itna involve ho rahi ho celebration mein? Ye clear ho jaye toh raasta bhi clear ho jayega."
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sach mein sabse mushkil jagah hai - jab dono taraf se pyaar aa raha ho, tab \"na\" kehna bhi utna hi hard hota hai jitna \"haan.\" Koi villain nahi hai yahan, bas sabki apni-apni jagah se sahi baat hai.\n\nShreya ka comment - usne pyaar se bola but usko andaza nahi ki roza sirf \"khana chhodna\" nahi hai, ye tumhara intention hai, tumhara connection hai. Wo tumhe khila degi ye offer bhi isi liye hai kyunki uske liye ye sirf logistics problem hai, spiritual nahi. Usse gussa nahi, bas thoda gap hai understanding mein.\n\nAmmi ka comment bhi apni jagah sahi - unke liye Ramzan ek pura mahaul hai, aur sangeet jaisi cheez usme fit nahi hoti unke nazariye se.\n\nPar yaha asli sawaal ye hai - tum khud kya feel karti ho? Rassi ban ke dono ko khush rakhne ki koshish mein tum apni feeling ko peeche daal rahi ho. Tumhe kya lagta hai sahi hai - apne liye, apne roze ke liye, apni dosti ke liye? Wo answer dono ko explain karna easier ho jayega jab tumhe khud clarity ho.\n\nKya tumhe lagta hai tum jaa sakti ho without breaking roza, dance kar sakti ho, phir ghar aake roza rakhna continue rakh sakti ho? Ya sach mein energy/guilt itna heavy feel ho raha hai ki dono cheezein together possible nahi lag rahi?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sunlo, main tumhe judge nahi karungi kyunki thakaan sach mein genuine hai - dus logon ko dus baar explain karna, questions face karna, energy kharch karna jab tumhare paas already bahut kam bachi hai. Ye exhaustion real hai.\n\nPar ek baat honestly bolungi - jhooth ka jo weight lagta hai \"easy\" wahi baad mein sabse heavy padta hai. Tum sochogi \"usko pata nahi chalega\" par tumhe pata chalega. Har baar jab Shreya us din ki photos dikhayegi, har baar jab wo bolegi \"kaash tu hoti,\" tumhe apne jhooth ke saath baithna padega. Aur ye guilt shayad us saari awkward explaining se bhi zyada bhaari ho.\n\nAur asli loss ye hai - agar tum wahan nahi ho, chahe deployment ho ya na ho, tum wahan nahi ho. Video call se opening dance nahi hota. Tum wo moment permanently miss kar degi jiski tumne pandrah saal se planning ki thi. Jhooth se tum situation ko avoid kar rahi ho, solve nahi kar rahi.\n\nKya isliye bhaag rahi ho kyunki explaining thakaa deti hai, ya kyunki tumhe darr hai ki agar tum sach bologi toh koi na koi disappoint hoga chahe kuch bhi karo?"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye asli baat hai - dono cheezein permanent hain, dono cheezein tumhare liye sacred hain apni-apni jagah. Isliye itna weight feel ho raha hai.\n\nPar ek soch: sad story sirf tab banti hai jab decision fear se liya jaye, ya jab tum ghayab ho jao ambiguity mein. Agar tum vaha ho, apne tareeke se, apne deen ke saath honest reh ke - toh wo photo mein tumhara chehra ek friend ka hoga jo apni identity ke saath aayi, na ki jo confused ho ke chali gayi ya jhooth bol ke bhaag gayi.\n\nSocho ye tarika - tum sangeet mein jaa sakti ho, dance kar sakti ho, iftar timing ke around apna schedule set karke (maghrib pe thoda break, wapas aa jao), aur agar cocktail night hai to us part ko skip karo ya sirf halka sa dikhaayi do without drinking, koi bhi explanation di bina. \"Main roze mein hoon\" - itna kehna kaafi hai. Jo log tumse pyaar karte hain, jaise Shreya, wo samajh jayenge agar tum clearly bolo. Aunties ka judgment tumhara zimma nahi hai.\n\nAmmi se baat karo alag se - unhe batao ki tum apna roza poori tarah rakhogi, sirf best friend ke sabse important din pe hoke aaogi thodi der ke liye, wapas apne mahaul mein aa jaogi. Ye \"sangeet mein Ramzan ghol dena\" nahi hai, ye \"apne do pyaaron ko ek din ke liye saath la ke chalna\" hai.\n\nTumhara Ramzan permanent hai, Shreya ki shaadi permanent hai - lekin dono ek doosre ko cancel nahi karte. Tumhe sirf apna version dhoondhna hai jo sach bhi ho aur present bhi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5241,
+  "completion_tokens": 2277
+ }
+}

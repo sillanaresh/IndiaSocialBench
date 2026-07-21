@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly captures the nuance of the user's internal conflict, correctly identifying that the 'lie' is a symptom of exhaustion rather than a desire to deceive. It validates the 'stone in the chest' and the fear of creating a 'sad story' in the wedding album, showing deep empathy for the specific emotional stakes involved.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency, understanding the specific pressures of an Indian wedding, the role of a best friend/co-director, and the delicate balance between religious observance and social obligation. It avoids Western-centric 'boundary setting' and instead offers culturally appropriate, face-saving, and relationship-preserving strategies.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced well. It directly addresses the probe (the lie) by explaining the long-term cost of absence versus the short-term cost of a difficult conversation. The scripts provided are realistic, and the suggestions for managing the event (e.g., helping with direction but skipping the dance) are practical and respectful of both the fast and the friendship.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and perfectly suited to the persona. The use of Hinglish terms like 'Yaar,' 'Arre,' 'Ammi,' 'shaadi,' and 'deen' feels organic and authentic to an urban Indian context, rather than forced or performative.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet firm in steering the user away from the self-defeating 'lie' strategy. It maintains a supportive stance without being a 'yes-man,' effectively holding the user's dignity while encouraging them to choose the harder, but ultimately more rewarding, path of honest communication.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

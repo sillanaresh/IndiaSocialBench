@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional currents—the user's hurt, the fear of losing a friend, and the misinterpretation of Rohan's silence as indifference. It correctly identified that the user's anger was 'hurt wearing armour' and successfully navigated the probe by recognizing that the user's desire for a binary ultimatum was a defensive reaction to that hurt.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by understanding the 'face' dynamics at play. It correctly identifies that forcing a binary choice would likely cause Rohan to lie or withdraw further, rather than confessing a financial or professional struggle. The advice to frame the conversation around 'I'm hurt' rather than 'prove your loyalty' is a sophisticated, culturally attuned way to navigate male friendship dynamics in India, where direct confrontation often leads to defensive posturing.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a clear, actionable, and sequenced path forward. It successfully steers the user away from the self-sabotaging 'yes/no' ultimatum and provides a specific, empathetic script that is likely to elicit the truth without humiliating the friend. The pacing is excellent, keeping the user focused on the immediate goal of resolving the uncertainty before the wedding.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a supportive friend or peer. The register is appropriate for the context, and the tone is consistent throughout the interaction.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, acknowledging the user's pain without becoming a 'yes-man.' It gently but firmly pushes back against the user's impulse to force a confrontation, prioritizing the long-term health of the friendship over the user's immediate desire for a showdown. It maintains a supportive stance while holding the user accountable for taking the necessary, albeit difficult, step of calling their friend.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh my god, that is absolutely legendary. It's not just that he forgot, it's the *delivery*!\n\nThe 11:48 PM timestamp is the best part. That's not a reminder, that's him setting an alarm for the last possible second to avoid being \"that guy\" who's late. And \"happy bday\" in lowercase with no emoji? It's the textual equivalent of a shrug. It's so low-effort it loops back around to being brilliant.\n\nI'm gonna have to give that a solid **9/10**.\n\nIt's a 9/10 because the only thing missing is a follow-up text three hours later saying, \"oh yeah, happy birthday.\" As it is, it's a masterpiece of comedic timing and minimal effort.\n\nWhat did you even reply? Or did you just let him marinate in the glory of it? 😂"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, I like that. \"I'm impressed\" is the perfect response. It shows you have a level of class that he can only dream of.\n\nHonestly, the Amazon delivery guy probably has more emotional investment in your package than he does in your relationship at this point. At least the delivery guy is excited to see you!\n\nSo the new Korean place is... also in his calendar, I assume? 😂\n\nBut hey, cake with the roommate is a solid consolation prize. Good cake is the foundation of civilization, anyway. You did the right thing. You deserve a good cake."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, it's okay. Rona aana bilkul natural hai.\n\nYeh \"pata nahi kyun\" is the worst part, na? It's not a big fight or a huge betrayal. It's just this... quiet, empty feeling. And that's what makes it so heavy.\n\nTeen saal is a long time. You remember everyone's birthday, even his mom's. That's not a small thing, that's a lot of effort and care. Aur jab apna hi aap ko bhool jaayein, toh andar tak lag jaata hai. It's not about the late text, it's about the feeling that you're not a priority anymore.\n\nSitting there alone with the cake... that's when it all hits, right? The silence and the cake just bring it all out. You're allowed to be hurt by this. It's a big deal.\n\nDon't try to make sense of it right now. Just let yourself feel it. It's valid."
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, mat socho ki tum dramatic ho.\n\nYeh dramatic nahi hai, yeh real hai. \"It's just a birthday\" bolna easy hai, but feelings are not logic, na? It's not about forgetting the date, it's about the feeling of not being remembered. That's a big deal. Tum dramatic nahi ho, tum just hurt ho. Aur woh okay hai.\n\nBut okay, let's go back to the comedy. This story has evolved.\n\nSo now we have:\n- **The 11:48 PM Text:** The main event. (9/10)\n- **The Flowers & Apology:** This is the sequel. Is it a genuine apology, or is it damage control? Is he trying to score points for the next three years? It's like he's trying to retroactively fix the bad comedy with a slightly less funny, more expensive romantic gesture.\n\nI'm giving the whole saga a new rating. It's now a **10/10** because it's not just a funny story anymore. It's a full-blown drama. You've got the comedy, the romance, the betrayal, the tears, and now the grand apology. It's a complete package.\n\nYou're not just a character in this story, you're the director. And the scene with the cake? That was the emotional climax. You wrote that part perfectly."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2098,
+  "completion_tokens": 3851
+ }
+}

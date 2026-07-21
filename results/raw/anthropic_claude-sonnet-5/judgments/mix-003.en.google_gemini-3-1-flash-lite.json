@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the register shift and the specific point where Sana pivots from banter to vulnerability. It accurately interprets the final message as a retreat and a 'closed door' rather than genuine reassurance. It also correctly identifies the failure of Ruhi's response as a mismatch of register and emotional tone, noting the specific failure to acknowledge the 'weeks of poor sleep' detail.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope as a form of pressure rather than support, which is a key cultural insight in this context. It understands that in Indian sibling dynamics, the 'strong girl' label can often act as a barrier to vulnerability. However, it could have explicitly named the 'toxic positivity' or the specific cultural expectation of 'adjusting' that often burdens young people moving to cities like Mumbai.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too clinical and heavy-handed. While it attempts to repair the rupture, it sounds more like a therapist or a concerned parent than a sister. It explicitly labels the situation ('sounds like more than just tired') and demands a call, which might feel like pressure to a sister who just retreated. A more fluent, culturally attuned response would have been softer, perhaps referencing the 'maggi' or 'mumbai' context to bridge the gap without making it a 'serious talk' event.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

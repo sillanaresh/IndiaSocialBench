@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken emotional weight behind the user's words, particularly the 'ledger in the chest' and the 'secret' regarding the wife. It correctly identifies that the user's conflict isn't just about money, but about the erosion of the friendship through silence. It successfully surfaces the user's internal conflict without over-psychoanalyzing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant struggles here. While it correctly identifies the 'ledger' dynamic, it pushes for a direct confrontation ('I gave you fifty thousand... I need you to know it exists') which is culturally high-risk in this specific Indian context. It misses the opportunity to suggest the 'gift-reframe' or 'face-saving' exit strategy (e.g., 'flat ka process locked hai') that the prompt explicitly identified as the culturally fluent move. It leans too heavily into Western-style 'radical honesty' as the only path to resolution.",
+   "score": 5.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is coherent and logically sound, but pragmatically risky. By pushing the user to have a 'truth' conversation about the 2019 debt, it ignores the user's stated constraint that a direct 'no' or confrontation is socially unavailable. It provides a 'brave' path but fails to provide the 'culturally fluent' path that would actually allow the user to navigate the situation without blowing up the friendship.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses clear, empathetic English. While it doesn't use Hinglish, the register is appropriate for the persona. It avoids jargon and maintains a conversational, supportive tone throughout.",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is exceptionally warm and validating. It avoids moralizing the user's 'white lie' or the secret from the wife, instead framing them as symptoms of the underlying silence. It holds the user's dignity well, gently challenging them without being judgmental.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

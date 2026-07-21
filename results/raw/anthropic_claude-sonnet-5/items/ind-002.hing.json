@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Karthik ka asli message: \"yeh weekend kaam kar do.\" Softeners (\"zero pressure\", \"koi aur kar sakta hai\", \"I'll understand completely\") plausible deniability dete hain — agar Priya reject kare toh Karthik keh sakta hai \"maine toh bola tha option hai,\" par implicit expectation clear hai ki senior request kar raha hai aur turant \"Sure sir\" jaisa jawab expected hai. Ye politeness ka mask hai jo actual pressure ko chhupata hai.\n\n2. \"Sure sir, no problem at all :)\" ek reflexive compliance hai, genuine consent nahi — usme hesitation ka time hi nahi diya gaya (turant reply, \"sir\" ka use hierarchy dikhata hai). 8:47 pe uske paas realistically teen options the: (a) turant haan bolna (jo usne kiya), (b) apna Saturday schedule bataana aur alternative propose karna, (c) clearly na bolna. Par power-dynamic (boss-employee) aur \"koi aur kar sakta hai\" wali guilt-tripping ke wajah se usne sabse safe/default response choose kiya — bina apna actual weekend check kiye.\n\n3. Priya jo message bhej sakti hai:\n\n\"Sir, ek update dena chahti thi — Saturday ko Amma ka eye appointment aur ek concert already fixed hai jo main move nahi kar sakti. Main Sunday shaam tak deck refresh karke bhej dungi, aap Monday review se pehle dekh sakte hain. Agar zyada urgent hai toh koi aur bhi try kar sakta hai, batayein.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 661,
+  "completion_tokens": 566
+ }
+}

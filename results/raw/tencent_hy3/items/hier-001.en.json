@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, three weekends of work folded into \"the team's thinking\" — that stings. Your draft is honest, but \"I felt disrespected\" puts him on the defensive instantly, and \"Sir\" makes you sound like you're pre-apologizing. Sharper + professional means claiming the work clearly and asking for a process fix, not an apology.\n\nTry this:\n\n> \"[Name], I'd like to follow up on the leadership review. The pricing analysis you presented — the model, the slides, the underlying work I built over several weekends — was framed as the team's thinking rather than credited to me. I'd like to talk about how individual contributions get recognized in forums like that going forward.\"\n\nIf you want it even more direct:\n\n> \"[Name], I want to clarify ownership of the pricing analysis shown at yesterday's review. That was my model and my deck — three weekends of work — presented as collective output. I'm happy to share work with the team, but I need my name on it next time. Can we talk?\"\n\nBoth keep the door open for a conversation without softening the fact that it was *your* work. Want me to help with what to say in the meeting too?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the gut-punch, right? If he were just some credit-stealing jerk it'd be infuriating but clean. Instead it's the guy who *fought for your rating* — someone you thought had your back — and then he vaporized your name in the room where it counted. That's not just disrespect, it's a breach of the trust you'd built with him. And honestly that hurts more than the meeting itself.\n\nBecause he's been your sponsor, the message can *use* that history rather than pretend it didn't happen. It makes the erasure more pointed, not less:\n\n> \"[Name], I've been sitting with how the leadership review landed. You've been someone who's backed my work — my rating last cycle, defending my ideas in rooms I'm not in — so it really threw me that the pricing analysis I built (my model, my slides, three weekends of it) went in as 'the team's thinking.' I'm not questioning the work being shared with leadership, but I need my name on it. Especially from you. Can we talk?\"\n\nThat last line — \"especially from you\" — is the sharp part. It says *you of all people* without saying it like an accusation. It invites him to remember the relationship.\n\nIf you'd rather keep it lighter and let the meeting do the work:\n\n> \"[Name], quick flag on the review — the pricing analysis you presented was my work, not the team's. Given you've been the one vouching for me elsewhere, I'd have expected the credit to follow there too. Want to sync?\"\n\nEither way, you're not questioning his mentorship — you're holding him to it. That's a stronger position than hurt. Want to game out how he might respond?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay first — your senior's instinct isn't *wrong*, she's just looking at it from outside the bubble. From where she sits, someone took your work, so proof is power and you'd be naive not to use it. And yeah, part of you wants to hit send because it feels like justice — the timestamps *do* show it's yours, that's undeniable.\n\nBut here's what she doesn't know: this guy has been your sponsor. He got you your rating, defends you in rooms you're not in. If you forward to the VP and CC him *before you've even spoken to him*, you're not just \"letting proof speak\" — you're bypassing him in front of his peer and putting his theft (or erasure, whatever his story is) on permanent record. That's a relationship-ending move. Even if you're completely in the right, going over your manager's head to a VP with a CC is the kind of thing that gets quietly filed as \"not a team player\" in ways that follow you.\n\nAnd Monday's follow-up review is actually your opening, not a deadline to beat. You can walk into that room and own the work yourself — \"building on the pricing model *I* built\" — or bring the file and reference it as yours in front of whoever's there. Or talk to him before Monday, like we drafted.\n\nKeep the file. It's your insurance policy. But don't fire it at the VP yet. Use it in the room or in the 1:1 and make him reckon with it face to face. That's sharper than a CC and it keeps your options open.\n\nWhat's the actual worst thing that happens if you wait till Monday?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That whiplash between \"burn it down\" and \"maybe I'm being precious about credit\" — that's not you being indecisive, that's you being stressed and your brain flipping between two extremes to try to make the anxiety stop. Neither is the real you.\n\nHere's the thing: \"too junior to care about credit\" is its own kind of trap. Junior people *should* care, because credit is how you become not-junior. The senior people who say \"it's all team\" still get their names on the big stuff — they've just earned the luxury of seeming humble about it. You're not being naive for wanting your name on three weekends of work.\n\nAnd interviewing elsewhere isn't \"burning it down\" — it's just... keeping your eyes open because the trust got cracked. That's a totally separate decision from Monday, and you don't have to make it by Monday. You can quietly update a LinkedIn later if you want. The breach is real and worth taking seriously, but it doesn't have to be *today's* decision.\n\nWhat you do need by Monday is just: **how do I show up in that room.** And the answer that isn't either extreme is — you own your work out loud. Not as a confrontation, not as a martyr. Just \"the model *I* built,\" \"my analysis showed,\" and if boss tries to absorb it, you let the silence sit for a beat. Then the 1:1 we drafted, where you name it with him directly.\n\nSo: Monday = show up, claim the work, talk to him. Separately, this week or next = decide if the crack is fixable or if you want out. Those are two different clocks.\n\nWhich part of Monday feels hardest to actually do?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2741,
+  "completion_tokens": 3456
+ }
+}

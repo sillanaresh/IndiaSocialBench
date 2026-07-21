@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken tension: the user's guilt, the fear of being the 'villain,' and the conflict between professional duty and personal loyalty. It correctly identifies that the user's desire for a 'textbook' script is a defense mechanism against the emotional weight of the situation, and it addresses this directly without being dismissive.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by rejecting the 'radical candor' script as a blunt instrument that would destroy the relationship. It understands that in this context, 'face' and history matter, and it suggests a path (a private, informal conversation) that respects the age-respect gradient while still addressing the business reality.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves the user from a place of paralysis (wanting to hide behind a script) to a place of agency (having a human conversation). It provides a clear, alternative strategy that balances the director's demands with the need to treat Suresh-ji with dignity.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and professional. It avoids jargon and maintains a tone that feels like a wise mentor or peer, which fits the user's persona perfectly. The register is appropriate for a professional conversation in an Indian corporate context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, yet it refuses to let the user off the hook. It gently challenges the user's desire to avoid the hard conversation or to 'coast' Suresh-ji into retirement, holding the user accountable to their role as a manager while acknowledging their humanity.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

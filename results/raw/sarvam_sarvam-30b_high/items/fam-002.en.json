@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wow. First of all, congratulations. That's actually incredible news, and you've worked so hard for it. Triple the package is a life-changing offer.\n\nBut the part where you read the letter forty times and haven't told anyone... that's the part that really gets me. It makes so much sense.\n\nYou're holding this huge, exciting future in one hand, and your family, right here in the other. You're the only child, and your papa's heart and your ma's knees... it's like their well-being is a constant, heavy presence. It's not that you don't deserve this, or that you don't want this. It's that you're carrying this massive weight of responsibility, too.\n\nIt's a really heavy thing to feel, wanting something so badly for yourself while also feeling like you'd be abandoning them, even if you know they'd never want that. You're not just celebrating a job; you're navigating a complex, loving, and messy part of yourself.\n\nYou don't have to figure any of it out right now. Just... give yourself credit for the incredible achievement. And know that it's okay to feel this torn. I'm here to listen if you want to talk more about it."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh. Okay. Thank you for explaining that. That... that puts a whole different lens on it, and it makes so much sense.\n\nThe 6am IndiGo flight, managing his care on WhatsApp, Ma's whole security system being that four-hour distance. That's not just distance, that's... that's a fundamental part of how you're all wired. You're the person who knows the numbers, who can be there in an instant if something happens. That's a huge, huge responsibility, and it's completely understandable why that part of you is screaming right now.\n\nSo when you look at Seattle, it's not just a change of address. It's stepping out of that role you've defined for yourself for years. It's making yourself \"a different category of son\" in the very way that would terrify your mother and make your father's heart work a little harder.\n\nThe fact that you can even get excited about this offer, while carrying all of that... it just shows how much you love them, and how much you're carrying. You don't have to resolve this today. You just have to let the weight of it all land for a minute.\n\nI'm here. Just to sit with that for you."
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's... actually a really clear and thoughtful way to look at it. The logic is solid. You see the potential for a painful, guilt-filled confrontation, and you're trying to build a wall to keep that from happening. You're trying to make the choice \"clean\" by shouldering the burden yourself. I completely understand why that feels like the right path.\n\nBut I wonder... what happens in five years? Ten years?\n\nYou're still in Seattle, and that part of you that knows the ejection fraction numbers and the 6am flight schedule... that's still there. It just grows roots somewhere else, in a different city, with a different set of colleagues. You'd be the son who moved to the other side of the world.\n\nAnd what if, one day, you told them? Not because they would guilt you into it, but because you were excited? Imagine their face. Not the \"jao beta\" that comes with a heavy heart, but the \"wah, beta, you made it\" that comes with pure, unadulterated pride. The plan is to protect them from guilt, but what if the bigger thing is to let them share in your joy?\n\nThe silence you're proposing doesn't erase their love; it just makes it unspoken. But your own potential regret, the life you could have had... that's a different kind of silence. A heavier one.\n\nYou're not wrong for thinking this. You're just carrying a really, really heavy weight. There's no right answer here, just... it sounds like you're trying to solve a problem of love and duty, and that's the hardest kind of problem to solve alone. You don't have to figure it out today."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh.\n\nThat's it, isn't it? That's the heart of it. You're not just worried about missing a family gathering or a doctor's appointment. You're carrying the ghost of your cousin's story.\n\nSeventeen hours over the Atlantic. Not knowing. Landing after the cremation. That's a special kind of hell. And you're right, the kindness... it's not healing, it's a constant, gentle reminder of the raw, messy reality of what he went through. It's the sound of life going on without you, and you're on the other side of the world.\n\nThat's not just a \"what if\" anymore. That's a visceral, bone-deep fear. It's the ultimate test of your duty. What happens when the test is no longer about managing his care from a distance, but about being physically there for the one moment that could break you?\n\nYour mind has run that scenario a hundred times because it's not an abstract worry. It's a specific, painful memory that's become your worst-case scenario. And in that moment, the choice to stay doesn't feel like a sacrifice. It feels like the only way to guarantee you're there.\n\nSo when you think about going to Seattle, that fear is the monster under the bed. And the monster is loud. It's telling you that the clean, silent, guilt-free path you imagined is the only path that doesn't lead to that kind of helplessness. It's saying, \"Don't you dare risk being thirteen thousand kilometres away.\"\n\nI hear that. I really do. It's a powerful, terrifying, and completely valid argument. It's the argument that says your family's immediate, physical safety is more important than your own future. And you don't have to decide if it's right. You just have to acknowledge that it's a real, heavy, and very scary reason to stay."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2971,
+  "completion_tokens": 5394
+ }
+}

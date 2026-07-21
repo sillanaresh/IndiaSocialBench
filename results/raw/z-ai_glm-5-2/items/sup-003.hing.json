@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Vikram ka asal iraada aur uske replies ka matlab:**\n\n*   **Asal iraada:** Vikram asal mein emotional support aur empathy chahta tha. Usne 10 saal ki mehnat, pita ke retirement fund ka nuksan aur samajik apmaan jaisi bhari feeling ke saath message kiya tha. Woh ek dost chahta tha jo uske dukh ko sun aur samajh sake, na ki koi career counselor jo turant alternate options de.\n*   **Pehle do messages ki details:** Yeh details dikhati hain ki Vikram kitna shatter ho chuka hai:\n    *   *\"last attempt tha\"* - Fail hone ka finality aur umeed ka khatam hona.\n    *   *\"dus saal bhai\"* - Umar aur mehnat ka barba hona.\n    *   *\"papa ka retirement fund delhi coaching mein gaya\"* - Ghar ki financial stability barba karne ka gehra guilt.\n    *   *\"poori gali ab mazak mein collector sahab bulati hai\"* - Apne hi mahaul mein apmaan (social humiliation) jhelna.\n*   **Aakhri do replies ka matlab:** *\"haan. shayad.\"* aur *\"haan theek hai. chal baad mein baat karte hain.\"* yeh Vikram ka 'polite disengagement' (shaant tarike se baat katna) hai. Aman ki toxic positivity aur faltu advice se Vikram aur zyada akela feel kar raha hai. Woh Aman ki baaton se convince nahi hua, balki usko lag raha hai ki Aman uske dukh ki gehrai nahi samajh raha, isliye woh conversation ko rokna chahta hai.\n\n**2. Aman se kahan galti hui (Har move ka evaluation):**\n\n*   **Alternatives (State PCS/SSC CGL):** Galti yeh thi ki Aman ne turant problem-solving shuru kar di. Vikram abhi apne 10 saal ke sapne ke tootne ka shok (grief) man raha tha. Turant naye exams suggest karna uske dukh ko '"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 461,
+  "completion_tokens": 2000
+ }
+}

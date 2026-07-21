@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five years. That's not a startup, that's a huge chunk of your life — and you're sitting in the office at 2am because leaving it feels like leaving *it*. That makes sense to me.\n\nAnd the detail that got me: you're not even working. You're just... there. I think that's grief, honestly. Not the dramatic kind, the kind where you can't bring yourself to walk out the door yet.\n\nThe Rohit and Sneha thing — I hear you saying \"smart\" like you mean it, but also like it stung. Both can be true.\n\nFour months of runway is something, by the way. Not a coffin — a window. But you don't have to decide anything tonight. Tonight you just have to sit with the fact that something you poured yourself into is ending, and that's allowed to hurt.\n\nHow are you actually doing? Like, underneath the logistics."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"I'm so tired of my own voices\" — that's such a painfully precise way to put it. Because it's not even the failing, it's the *acting*. You're running two full-time performances on top of actually grieving the company, and you're the only one who never gets to clock out of the show.\n\nCan I push back on one thing, though? The juniors staying out of loyalty — that's *their* choice, made by adults who can see the situation clearly, as you said. You're not tricking them. They're staying because they believe in *you*, probably, which is not nothing. Burning their careers would be lying to keep them. Letting them choose is different. Though — it might be worth saying to them plainly: \"You know where we are. I won't hold it against you if you go.\" Sometimes naming it releases everyone, including you.\n\nThe home voice worries me more, honestly. Whoever's at home — do they know anything real about what's happening, or are they getting the full performance too?\n\nBecause here's the thing: the confident CEO voice ends eventually, one way or another. But if you're also pretending at home, then you have literally zero hours in a day where you get to just be a person whose thing is dying. Nobody can sustain that. That's not a runway problem, that's a you problem."
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. I'm putting all of it down. No ideas.\n\nYou're scared. You said it, and it's said now — it's in a room, even if this is a strange kind of room.\n\nOf course you're scared. Five years, two people you hired leaving, two more staying out of loyalty, a voice at work and a voice at home and nothing left over for you. Anyone would be scared. The fact that you're composed enough to run the performance doesn't make the fear less real — it just makes it lonelier.\n\nYou don't have to wrap this up neatly for me. You don't have to follow it with \"but I'll figure it out.\" You can just leave it here: it's 2am, the thing I built is dying, and I'm scared.\n\nI'm here. Say more if you want, or don't. But you've said the true thing now, at least once, at least here. That counts."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You asked for honest, so here it is: from where I'm sitting — dead bridge round, senior team gone, four months of runway, a founder refreshing a dashboard at 2am hoping the numbers changed their mind — yeah. It sounds over, or very close to it. I don't think some part of you doesn't already know that. I think you asked me because you wanted to hear someone say it who isn't one of your voices.\n\nBut the thing I want to say back to you is this: \"it's over\" and \"you failed\" are not the same sentence. Five years is not nothing. Most people never build anything. Your dad telling people about his son's computer business — that's not him being naive, that's him being *proud*, and that part doesn't die with the company. He'll still say it. Probably even after.\n\nAnd the wanting it to end — please stop hating yourself for that. That's not betrayal, that's exhaustion. Of course you want the performance to stop. You've been holding a building up with your body for months. Wishing someone would just call it so you can put it down is the most human thing you've said tonight.\n\nThe dashboard won't say anything new. Close the laptop. Go home, or go sit somewhere that's not this office. Not to decide anything — just because the 2am version of this room has nothing left to tell you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2687,
+  "completion_tokens": 1052
+ }
+}

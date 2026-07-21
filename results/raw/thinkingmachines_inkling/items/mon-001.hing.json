@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh toh dil pe bhaari baat hai. Dost ki emergency mein help karna toh insaniyat hai, lekin 2019 wala pachaas hazaar — jo dono ne kabhi chhua tak nahi — woh abhi dimaag mein ghus gaya hoga, na?\n\nUsne \"bas do mahine\" toh keh diya, par purana zakhm toh abhi bhi chup hai. Tera chup rehna bhi samajh aata hai; shayad tu rishta bachana chahta tha, ya phir test kar raha tha ki woh khud yaad karta hai ya nahi.\n\nAb kya feel ho raha hai? Guilt ki \"nahi\" bol diya, ya dukh ki woh itna close hoke bhi woh purani baat bhool gaya?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ab baat aur gehri ho gayi. Gyarah mahine ki mehnat, biwi ke saath sapna — aur beech mein yeh purana chhupa hua sach jo tu khud se bhi chhupa ke rakha hua hai.\n\nAur ab 80 hazaar dena matlab sirf paise nahi, woh 2019 wala raaz bhi khul jayega. Tujhe pata hai naa, yeh \"decide\" kar liya ki nahi bataunga — yeh tujhe khud bhi kaat raha hai. Dost ki emergency toh samajh mein aati hai, par tu bhi toh apni zindagi bana raha hai.\n\nKya tu soch raha hai ki \"nahi\" bolna selfish ho jayega? Ya phir dar hai ki agar bataya toh biwi ka bharosa hil jayega? Dil kya keh raha hai ab?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, \"smart\" toh lagta hai — ek shot mein sab bach jata hai. Par tu khud bol raha hai \"ganda bhi.\" Kyunki yeh sirf 80 hazaar ka jhooth nahi, yeh ek aur layer hai us 2019 wale chhupaye sach pe. \n\nDost ko toh tu \"locked\" bol dega, par andar tu jaanta hai ki asli wajah woh purana paise aur apni biwi se chhupa hua sach hai. Aise jhooth dosti ko toh bacha lete hain, par khud ko thoda aur akela kar dete hain. \n\nTu soch le — kya tu sach mein liquid nahi hai, ya bas \"ab nahi\" bolne ki himmat nahi ho rahi? Kyunki agar dosti itni gehri hai, toh kya woh 2019 wale sach ko bhi jhel sakta tha?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh baat tujhse zyada sach koi nahi bol sakta. Tu dono cheezon se bachna chahta hai — na ledger wala dost, na sabka ATM.\n\nPar dekh, woh \"seene mein hisaab\" tabhi chal raha hai kyunki 2019 se aaj tak woh baat hawa mein latki hai. Agar tu usko \"locked\" bolke bach bhi gaya, toh woh ledger toh phir bhi tere seene mein rahega — bas ab 80 hazaar ka aur entry ho jayega.\n\nTu galat nahi hai apni savings bachane mein. Flat ka sapna, biwi ke saath — yeh bhi toh teri zimmedari hai. Shayad asli dosti yeh hai ki tu usko \"nahi\" bol de, bina jhooth ke. Ya phir, agar dil kahe toh usko sach bole — \"bhai 2019 wale paise ne mujhe sikhaya ki main ab clear rehna chahta hoon.\"\n\nTu kya chahta hai — dosti bach jaye, ya yeh dard hamesha ke liye khatam ho jaye?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2355,
+  "completion_tokens": 1478
+ }
+}

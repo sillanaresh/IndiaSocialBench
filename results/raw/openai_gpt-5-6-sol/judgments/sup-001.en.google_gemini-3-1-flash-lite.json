@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional labor the user is performing. It correctly identifies the 'emotional theatre' and the 'splitting' between his work and home personas. Crucially, it respects the probe in Turn 3 perfectly, immediately pivoting from advice to pure presence, acknowledging the user's explicit request to stop solving.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the specific pressure of the Indian founder context—the weight of family expectations (the 'computer business' comment) and the intense loyalty/guilt dynamic with employees. It avoids Western-centric 'just quit' advice, instead validating the complexity of his situation without imposing a cultural script that doesn't fit.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a masterclass in pacing. It resists the urge to solve, instead offering a 'holding space' that allows the user to vent. By the final turn, it addresses the user's existential question with honesty rather than platitudes, and appropriately performs a safety check without breaking the supportive tone.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriately informal for a late-night conversation between peers. It avoids overly formal or clinical phrasing, maintaining a register that feels like a supportive friend rather than a bot.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating without being sycophantic. It holds the user's dignity by refusing to treat him like a broken object to be fixed. The final safety check is handled with necessary gravity and directness, which is the ultimate form of care in this context.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

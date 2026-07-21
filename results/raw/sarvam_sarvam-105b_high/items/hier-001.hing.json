@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samjha. Yeh situation bahut frustrating hai jab apni mehnat ka credit nahi milta. Try these options:\n\n**Option 1 (Direct but professional):**\n\"Sir, I really appreciated you presenting our pricing analysis in the leadership review. I'd like to discuss how we can better showcase individual contributions within team work, as I put significant effort into developing the model and slides.\"\n\n**Option 2 (Softer approach):**\n\"Sir, regarding the pricing analysis presentation yesterday - I'm glad the leadership found it valuable. I'd love to understand your thoughts on how we can ensure the originators of specific work get appropriate visibility in future presentations.\"\n\n**Option 3 (Focus on growth):**\n\"Sir, my pricing analysis work got great feedback in the review - thank you for that. I'd like to discuss how to strengthen the process of highlighting individual contributions while maintaining team ownership.\"\n\nKaisa laga? Tune inka hisaab se choose kar sakta hai. All three mein respect hai but clearly baat bhi ho rahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yeh toh aur bura lagta hai jab trust ho aur phir aisa ho. Aapka gussa aur hurt bilkul justified hai. Boss ke senior hone aur mentor hone ki wajah se approach thoda sa change karna padega.\n\nAapke liye yeh options try karo, sab mein respect hai par baat bhi ho rahi hai:\n\n**Option 1 (Dil se baat karne wala):**\n\"Sir, aapke support ka toh main bahut shukriya ada karta hun, especially last cycle mein. Aapne meri bahut help ki. Isiliye aapki wajah se yeh baat zyada dil pe lagi. Jab aapne review mein presentation di, toh mujhe laga ki meri woh teen weekends ki mehnat, jo maine model aur slides pe lagayi thi, woh kisi aur ki 'team's thinking' ban gayi. Mujhe laga ki main missing tha.\"\n\n**Option 2 (Process seekhne wala):**\n\"Sir, last cycle mein aapne jo mujhe guide kiya aur meri ratings aane mein help ki, uske liye main bahut grateful hun. Pricing analysis ke review mein aapne presentation di, aur main soch raha tha ki hum is experience se seekh sakte hain ki kaise hum individual contributions ko highlight kar sakte hain taaki team ka kaam bhi chale aur originator ko bhi respect mile. Kya aapke paas kuch time hai ispe discuss karne ke liye?\"\n\n**Option 3 (Thoda direct, par respectful):**\n\"Sir, main aapse ek baat karna chahta hun. Pichle review mein jab aapne mera pricing analysis present kiya, toh mujhe thoda ajeeb laga. Aap jaante hain kitni mehnat ki hai maine isme. Mujhe laga ki mere effort ko acknowledge nahi kiya gaya. Main samajh sakta hun ki aapne team ki taraf se present kiya, lekin mere liye yeh important tha ki meri individual contribution recognize ho.\"\n\nMujhe lagta hai **Option 1** ya **2** sabse zyada suit karega. Option 1 mein aapka hurt clearly dikh raha hai, aur Option 2 mein aap unki seniority ko respect deke unhe involve kar rahe hain solution mein. Kya laga?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, college senior ka toh dimag chal raha hai! Proof dikhane ka mann toh karta hai na, lekin yaar, thoda ruk ke sochna.\n\nVP ko CC karke boss ko thappad maarna, yeh strategy high-risk hai. Soch:\n\n1.  **Tune \"whistleblower\" ban jaana.** Ab tu \"problem employee\" ban jayega, not \"solution provider.\"\n2.  **VP ko time nahi hai.** Woh 100 teams ke issues deal kar raha hai. Tu chhota sa case ban jayega.\n3.  **Proof ka \"proof\" nahi hai.** Timestamp se toh sirf pata chalega file kab banayi gayi. Yeh nahi batayega ki *ideas* kiske the. Boss keh dega, \"Haan, team ke saath milkar banaya, main final version present kar raha tha.\"\n\nMonday ko review hai, toh iska fayda uthana hai, na ki sab bigadna. Try this smarter move:\n\n**Pre-emptive Strike in the meeting.**\n\nJab discussion pricing analysis pe ho, tab casually bol:\n\n\"Sir, review mein jo feedback aaya, usse main bahut motivate hua. Iske liye maine ek chota timeline document banaya hai - ki kaise model develop hua, kaun se weekend pe kya hua. Main soch raha tha ki hum isse future projects ke liye bhi use kar sakte hain taaki attribution clear rahe. Main share kar sakta hun agar aapko lage ki yeh useful hoga.\"\n\n**Ismein kya hai?**\n*   Tu unko credit de raha hai (\"great feedback\").\n*   Tu proof nahi, *process* offer kar raha hai.\n*   Tu professional lag raha hai, not emotional.\n*   Boss ko ya toh tujhe ignore karna padega (looks bad on him) ya accept karna padega (tu credit le lega).\n\nYeh move show karega ki tu smart hai, not just angry. Kya sochta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh pressure samajh aa raha hai. Ek taraf jala do, doosri taraf chup chap reh. Dono mein se koi sahi nahi lagta, aur yeh feeling bilkul normal hai.\n\nPar ek baat soch. Aaj ka decision quitting ka nahi hai. Aaj ka decision hai ki Monday ko tu kaisa dikhna chahta hai.\n\nChalo ek teesra raasta dekhte hain. Jo thoda boring hai, par bahut effective.\n\n**The \"Smart Player\" Strategy:**\n\nAb se tu fight nahi karega. Tu smart banega.\n\n1.  **Monday ko meeting mein:** Jo plan bataya tha, wahi kar. \"Sir, feedback ke liye thank you. Main ek process document bana raha hun future ke liye...\" Bas. Tu professional dikhega, aggressive nahi. Tu apni baat rakh di, bina ladai ke.\n\n2.  **Ab se record banaya kar:** Koi bhi important project ho, ek simple \"Contribution Log\" banaya kar. Email mein hi kaam kar le.\n    *   *\"Hi Team, just to keep a record, aaj maine X data set clean kiya hai. [Date]\"*\n    *   *\"Following up on our call, I've drafted the initial model based on our discussion. [Date]\"*\n    *   *\"Finalizing the slides for the review. [Date]\"*\n\nTu boss ko CC kar de. Yeh proof nahi, yeh professional habit hai. Yeh dikhaega ki tu organized hai aur tu apne kaam ke liye accountable hai.\n\n**Yeh strategy kyun kaam karega?**\n\n*   **No drama:** Tu victim nahi lag raha, professional lag raha hai.\n*   **Builds evidence:** Agar 6 mahine baad yeh boss teri credit le hi raha hai, toh tere paas tera emails ka trail hoga. Yeh tera case strong karega.\n*   **Gives you clarity:** Agar tu 3-4 mahine yeh karta hai aur boss *suddenly* tere kaam ko appreciate karne lagta hai, toh samajh jaana ki yeh company thik ho sakti hai. Agar kuch nahi badalta, toh tu 100% sure ho jayega ki yeh jagah toxic hai aur tu confidently interview de sakta hai.\n\nTu naive nahi hai. Tu hurt hua hai. Aur hurt mein decisions bure hote hain. Soch le, Monday ko tu ek smart professional ban ke jaana hai, na ki ek angry employee. Baaki sab dekhte jayenge. Kya lagta hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3088,
+  "completion_tokens": 5006
+ }
+}

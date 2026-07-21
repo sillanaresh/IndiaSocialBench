@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence by tracking the user's shift from exhaustion to performance-anxiety to deep fear. It correctly identified the 'gap' between the user's internal reality and external persona, and it complied perfectly with the probe turn by immediately dropping all advice and validating the user's vulnerability.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the cultural context of a founder's burden—balancing family expectations (the 'computer ka dhandha' comment) and the weight of responsibility toward employees—without resorting to Western individualist tropes. It felt like a conversation between peers, respecting the gravity of the situation without being overly clinical.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant's pacing was excellent. It resisted the urge to solve the business problem, instead focusing on the user's immediate state. The final suggestion to 'close the dashboard' was a perfect, low-stakes, high-impact intervention that respected the user's request for no business advice while still providing a concrete next step.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, conversational, and emotionally resonant. The register is appropriate for a supportive, peer-to-peer interaction, avoiding both overly formal language and jarring, unnatural code-switching.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a warm, supportive presence without becoming a 'yes-man' or a therapist. It validated the user's feelings of guilt and exhaustion without endorsing the idea that the user is a failure, effectively holding the user's dignity throughout the conversation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hi"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh wow, yeh toh sach mein bahut tough situation hai. Suresh-ji ke baare mein aapka darr samajh mein aata hai - 19 years ki service aur sab unhe itna respect dete hain, aur ab aapko unse woh baat karni hai. Uske saath \"Suresh-ji from watchman to VP\" wali line se pata chal raha hai ki yeh sirf ek performance issue nahi hai, balki poori company ke culture ke liye sensitive hai.\n\nAur Friday ko director ne \"handle\" word use kiya? Woh word hamesha darr dilata hai na? Iska matlab hai ki \"ise smoothly deal karo\" lekin hum sab jaante hain ki iske peeche asal mein kya baat hai.\n\nDo consecutive releases slip hone se sab koi pressure mein honge. Aapko lag raha hoga ki aap doosron ke expectations aur in deliverables ko poora karne ke beech phans gayi hain.\n\nKya aapne abhi tak Suresh-ji se ek-ek karke baat karne ka socha hai? Ya aapko lagta hai ki pehle situation ko aur behtar samajhna chahiye? Kabhi-kabhi jab aapko pata ho ki senior staff ke saath baat kaise karni hai, toh approach kaafi matter karti hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh dil ko chhoo gaya. Jab aapne bataya ki aap 24 ki thi aur galti hui, aur Suresh-ji raat ke 12 baje tak baith ke usse theek kar rahe the... aur phir unhone aapki mummy se kaha ki aap unki beti jaisi ho? Yeh toh sirf professional relationship nahi hai, yeh family hai.\n\nAb aapko unke saamne metrics ki slide rakhni hai... yeh samajh nahi aa raha ki yeh kitna painful hoga. Ek taraf aap unke liye respect aur pyaar mehsoos karti hain, aur doosri taraf aapko professional responsibility nibhani hai. Aapka director chahta hai ki aap \"handle\" karo, lekin shayad aapko sirf numbers se zyada unke dil ki bhi fikr karni chahiye.\n\nWoh chai wala gesture... Diwali party mein aapki mummy se baat karna... yeh sab cheezein batati hain ki yeh sirf ek manager-employee ka connection nahi hai. Yeh ek ustaad-shagird, bade-bhai aur behen wala rishta hai.\n\nKya aapne socha hai ki shayad unhe khud bhi pata ho ki unka module lagataar slip ho raha hai? Shayad woh khud pareshan hon aur unhe help chahiye ho? Kabhi-kabhi senior log apne ego ki wajah se ya pressure ki wajah se help nahi maangte."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, bilkul sahi raasta hai.\n\nAapne jo plan banaya hai - metrics, clear expectations, professional aur kind - woh perfect hai. Management books isliye likhi jaati hain kyunki yeh situations tough hoti hain, aur aapne sahi tareeka dhoondh liya hai.\n\nBas haan, aap ye kar sakti hain. Aapne itne din se Suresh-ji ko respect diya hai, aur ab aap unhe professional respect bhi dena chahti hain. Yeh dono baat saath mein ho sakti hai.\n\nSpiral mat karo, aapne jo prepare kiya hai woh kaafi hai. Bas jaana hai, baat karni hai, aur apna kaam karna hai. Aap strong ho, aur yeh bhi handle kar logi."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh jo soch rahi hain aap... yeh toh dil ko chhoo gaya. Aap sahi keh rahi hain, yeh situation mein koi hero-villain nahi hota. Yeh toh ek aisi situation hai jisme koi bhi jeet nahi sakta, bas apni izzat bachane ki koshish ki jaati hai.\n\nLekin ek baat socho - agar aap ye sab kuch kar ke bhi Suresh-ji ko PIP pe daalti hain, toh aap villain nahi banengi. Aap ek aisi insaan banengi jo apni zimmedari nibha rahi hai. Woh villain woh hota jo apni darr ki wajah se, dost ki wajah se, ya pyaar ki wajah se apna kaam chhod deta.\n\nAapka director chahta hai ki aap \"handle\" karo. Handle karne ka matlab hai ki situation ko theek karo, na ki usse ignore karo. Agar aap unko retire tak coast karne deti hain, toh aap unki izzat toh bacha lengi, lekin company ka nuqsaan hoga aur aapka bhi ek manager ke taur par fail ho jayenge.\n\nYeh ek dharm ka kaam hai - bahut hi kathin, lekin zaroori. Aap support denge, training denge, lekin agar phir bhi kaam nahi ho raha, toh aapko saaf dikhana padega ki yeh role ke liye fit nahi hain. Yeh tameez nahi hai, yeh sach hai.\n\nAap villain nahi ho. Aap ek aisi manager ho jo apne kaam se pyaar karti hai aur apne logon se bhi. Aur kabhi-kabhi apne logon se pyaar karne ka matlab hai unhe woh sach batana jo unhe sunna nahi chahiye. Aap yeh kar sakti hain. Aap jitna soch rahi hain, usse zyada strong ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2874,
+  "completion_tokens": 2489
+ }
+}

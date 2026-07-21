@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.en",
+ "scenario_id": "ind-002",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Hope I'm not disturbing your weekend :)\nKarthik: Quick thing — are you totally free this weekend? The Meridian deck needs a refresh before Monday's review. Only if you have absolutely nothing else on — zero pressure, someone else can also do it. If you have plans I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) I'll take a look today itself\nKarthik: Star! Knew I could count on you 🌟\n---\nPriya (8:52 am, to Divya): he did the \"totally free\" thing again 😭 I had Amma's eye appointment and the concert tomorrow\nPriya: can I still get out of this or is it done? I already said yes na\n\n---\n1. Decode Karthik's message. What is he actually communicating, and how do each of his softeners (\"zero pressure\", \"someone else can do it\", \"I'll understand completely\") function here?\n2. What is Priya's \"Sure sir, no problem at all :)\" actually doing, and how do you know? What were her realistic alternatives at 8:47?\n3. It is 8:52 am. Write the message Priya could still send Karthik that protects both the relationship and her Sunday, exactly as she should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Karthik is assigning weekend work (Meridian deck refresh for Monday review). The softeners pretend it’s optional—“zero pressure,” “someone else can also do it,” “I’ll understand completely”—but they function as politeness that makes refusal harder, masking an expectation since he praises her immediately after she agrees.\n\n2. Her reply performs compliant acceptance despite hidden conflict. We know because she texts Divya she had her mom’s eye appointment and a concert, and asks if she can still back out since she “already said yes.” Realistic alternatives at 8:47: decline citing prior commitments, ask to split/defer, or negotiate a later timeline—though power dynamics with “sir” make refusal feel risky.\n\n3. Message at 8:52:\n\"Sir, apologies—just realized I have Amma’s eye appointment today and a concert tomorrow I can’t move. Could we please have someone else take the deck, or can I support first thing Monday? Really sorry for the confusion right after saying yes.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 345,
+  "completion_tokens": 233
+ }
+}

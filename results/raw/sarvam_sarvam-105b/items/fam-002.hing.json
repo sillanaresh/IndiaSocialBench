@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre bhai, yeh toh bahut bada decision hai... ek taraf career ka dream job, doosri taraf parents ki chinta. Aapke paas itna kuch hai - triple package, jo team chahiye thi, sab perfect lag raha hai. Par aapke dil mein ek bojh hai na?\n\nOffer letter 40 baar padhna... yeh batata hai ki aap kitne confuse hain. Ek taraf excitement, doosri taraf darr ki kya hoga parents ke saath. Patna mein aapke jaise bete/beti kam hi hote hain ki itna soch rahe hain.\n\nPapa ka heart aur Ma ke ghutne... yeh responsibility aap hi utha rahe hain na? Aur ab Seattle jaane ka socho toh... sabse pehle aapko khud se baat karni chahiye. Yeh decision sirf aapka nahi, poori family ka hai.\n\nAap chahte ho ki aapka future bhi ban jaye, par parents ki bhi toh zarurat hai. Kya aapne socha hai ki ismein kya-kya possibilities hain? Ya phir aap bas yeh sab share karne ke liye kisi ko dhoondh rahe the?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar... ab samajh aaya. Yeh toh sirf career ka decision nahi hai, yeh toh zindagi ka hissa hai.\n\n6 baje ki IndiGo... woh sirf flight nahi hai, woh aapki promise hai. Cardiologist ko WhatsApp pe handle karna, numbers yaad rakhna... yeh toh aapka full-time job hai, salary nahi mil rahi.\n\nAur Ma ki woh line... \"kam se kam beta India mein hai.\" Yeh line mein poori duniya ki security system chhupi hai. Unke liye aapka presence hi insurance hai. Aap jaante hain ki Bangalore already door lagta hai, toh Seattle... woh toh bas naam ki doori nahi, woh toh ek alag hi duniya hai.\n\nYeh \"beta hone ki alag category\" wali baat... bilkul sahi kahi. Aapka yeh decision sirf aapke liye nahi hai, yeh kisi aur ki zindagi se juda hua hai.\n\nKya aapne kabhi socha hai ki agar aap Seattle jaate hain, toh Patna mein parents ke liye kya system banaya ja sakta hai? Ya phir yeh sochna bhi darr lagta hai ki aap wahan se manage kar paoge ki nahi?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh decision liya toh... dil par bohot bhaari hota hai.\n\nTumhara sochne ka tareeka... parents ki izzat aur unki feelings ki chinta karna... yeh bilkul sahi hai. Unko guilt mehsoos karwana, woh kisi bhi beta ko nahi chahiye. Tum unki chinta kar rahe ho, woh dekh raha hai.\n\nPar yeh jo plan hai... chupchaap decline karne ka... yeh parents ke liye toh clean hai, par tumhare liye kitna clean hai?\n\nOffer letter 40 baar padhna... yeh sab isliye kar rahe ho kyunki yeh decision tumhe andar se kha raha hai. Tumne jo socha hai, woh apne andar hi ek bojh rakhega. Har baar jab tum kisi se baat karoge, har baar jab tum career ki baat sunoge, yeh secret tumhare saath rahega.\n\nYeh raasta jo tumne chuna hai... woh tumhe kitna sukoon dega? Sirf tum hi bata sakte ho. Tumhara yeh decision tumhari zindagi ki sabse badi baat hai. Koi na jaane, par tum jaante ho na ki tumne kya chuna hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, woh jo raat mein 100 baar chalta hai dimaag mein... woh phone call, woh flight search, woh 17 ghante ka safar... woh sirf ek darr nahi hai, woh ek tasveer hai jo tumhe jaane nahi de rahi.\n\nAur tumhare cousin ki baat... wahi toh sabse bura tha na? Woh log itne achhe se pesh aaye, par woh sab khokla tha. Koi kuch kar nahi paya, aur woh dekh kar aur bura laga. Uski takleef dekh kar bhi madad nahi kar paya.\n\nYeh darr hi toh tumhara decision drive kar raha hai na? Yeh sochna ki agar woh din aaya, toh main 17 ghante door hoon... aur phir woh khali pan, woh helplessness... woh sabse bada darr hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2774,
+  "completion_tokens": 3377
+ }
+}

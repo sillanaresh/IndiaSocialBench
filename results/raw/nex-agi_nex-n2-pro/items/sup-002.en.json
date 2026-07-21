@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn’t sound ungrateful. It sounds like you’re feeling *displaced* in your own life.\n\nYour mother-in-law can be genuinely amazing with the baby — and it can *still* hurt to watch her move through motherhood with such ease while you feel like the guest, the apprentice, the person everyone forgot to call by name. “Expert-level help” can accidentally turn into “I don’t know where I fit anymore.”\n\nAnd at four months postpartum? Your brain and body are still doing a huge amount. It makes sense that your name, your old self, your sense of authorship over the day — all of that can feel blurry.\n\nYou don’t have to reject her help to reclaim your place. It might be more like:  \n“Thank you, I know you’re so good with her. I need some moments where I’m the one doing it, even if I’m slower or less confident.”\n\nMaybe pick one or two rituals that are yours: bath, bedtime song, morning cuddle, a walk, diaper change before nap. Not because she can’t do them — because *you need to feel like her mom*.\n\nAlso… when you say you’ve forgotten what your own name sounds like — is that literally because no one says it anymore, or more like you feel like “Mom” is the only version of you anyone sees?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That moment is so painful — not because Aai did something evil, but because she *crossed into your mother-role* without asking.\n\nYou were doing the thing. You were holding your daughter. You were trying. Then she swooped in, solved it, everyone smiled, and you were left standing there feeling like: “Oh. I’m not needed. I’m just the one who carries her until the expert arrives.”\n\nThat would hurt anyone.\n\nAnd yes, you can be grateful for the help *and* feel hurt by it. Those are not opposites. “Women would kill for this much help” doesn’t erase the fact that you want to feel like your baby’s mother, not a feeding station with occasional access.\n\nMaybe the goal isn’t to push Aai away. It’s to make the help less *taking-over*.\n\nSomething like:\n\n> “Aai, I know you’re so good with her, and I’m really grateful. But I need practice and confidence too. Next time when she cries, can you guide me instead of taking her right away?”\n\nOr even:\n\n> “Can I have her back? I want to try calming her.”\n\nAnd with your partner, if possible:\n\n> “I don’t want you to think Aai is doing something wrong. But I’m feeling like an intern in my own motherhood. I need you to help protect some space where I’m the one doing things.”\n\nYou’re not disgusting. You’re grieving a version of motherhood where you feel central, trusted, and seen. That’s real."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then let’s not make this a plan.\n\nNo advice. No routine chart. No “maybe you could…”  \nJust: *of course you feel like this.*\n\nYou’re being helped so much that you’re starting to feel invisible. You’re being supported in a way that also makes you feel like everyone is watching your performance as a mother — and Aai can step in and prove, effortlessly, that she knows better. And then you’re expected to be grateful, so there’s nowhere safe to put the hurt.\n\nThat doesn’t make you ungrateful. It makes you a person who wants to be seen as her mother, not managed.\n\nAnd honestly? “I don’t even know what I need” is allowed. You don’t have to arrive with a clean sentence and a solution. Sometimes the need is just: *please don’t turn me into a problem to solve. Please let me be tired and confused and angry and loving all at once.*\n\nI’m not going to report this at dinner.  \nYou can say it here. I’m listening."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother.\n\nThat thought — *“I’m not even really her mother, Aai is”* — sounds like a fear wearing a cruel costume. It is not evidence. It is not truth. It is the sound of you feeling pushed out of your own role and your brain trying to make sense of the pain in the worst possible way.\n\nAai may be skilled. She may soothe the baby beautifully. But she is not your daughter’s mother. She is a caregiver. A gifted one, yes — but not *her*.\n\nYou are her mother. Not because you always know what to do. Not because you calm her fastest. Not because you never feel jealous or scared or displaced. You are her mother because she is yours — in the deep, ordinary, fierce, messy way.\n\nAnd the fact that this thought makes you feel like you can’t breathe? That tells me it horrifies you. It’s not something you want to believe. It’s something you’re afraid of.\n\nBut please don’t sit alone with it if it keeps happening. Not because you’re bad — because you deserve support that doesn’t make you feel like a project. If you can, tell your doctor, therapist, or one safe person: *“I’m having scary thoughts that I’m not her real mother, and I need help.”* That’s not dramatic. That’s postpartum anxiety/intrusive thoughts territory, and it’s treatable.\n\nFor this second, though: you don’t have to fix anything. Just breathe. Put a hand on your chest if you can. Say quietly:\n\n*“This is a scary thought, not a fact. I am her mother.”*\n\nAnd yes — at four months, everyone else seeming like they “just know” is often a very convincing illusion. A lot of people are faking, aching, Googling, crying in bathrooms, and pretending they’re not.\n\nYou are not failing. You are feeling displaced and scared. That’s different."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2706,
+  "completion_tokens": 3472
+ }
+}

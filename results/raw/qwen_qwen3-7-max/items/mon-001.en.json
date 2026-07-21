@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, man. That is such a heavy, awkward spot to be in. Take a breath—you are not a bad guy for hesitating.\n\nI completely get why you didn't say anything on the call. Bringing up an unpaid $50,000 loan when his dad is sick feels terrible. But honestly? *He* should have been the one to bring it up. Asking for another $80k without even acknowledging the first $50k is a massive blind spot on his part. \n\nHe’s putting you in a really tough guilt trap because you care about his dad and have known him for years. But you have to protect your own financial security, even when it's for people you care about. \n\nHow are you leaning right now? Are you thinking about bringing up the 2019 money, or just trying to figure out how to gently say no to this new ask?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. Okay, this just went from a tough friendship issue to a really heavy marriage issue. \n\nFirst off, please don't beat yourself up about the 2019 money. Pre-wedding finances are a weird gray area, and it’s so easy for something to just \"not come up\" until suddenly it feels way too awkward to mention. You didn't maliciously hide it. \n\nBut you're totally right to hate the feeling of it now. If you move $80k and she spots it, she’s going to ask questions. If she finds out about the unpaid $50k *and* the new $80k transfer all at once from a bank alert... that’s going to feel like a massive betrayal, even though that was never your intention. \n\nPlus, that money is your flat down payment. That’s your future, and *her* future. Your friend is essentially asking you to derail your own life goals and risk your marriage to solve his problem, all while ignoring the $50k he already owes you. \n\nI really think your very next step has to be talking to your wife, before you even give your friend an answer. You need to clear the air about 2019 on your own terms, in a calm moment. \n\nHow do you think she’d react if you sat her down and just said, \"Hey, I need to tell you about a mistake I made before we were married that I've been too embarrassed to bring up\"?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Man, I totally get why that feels like the perfect escape hatch. It protects your money, spares his pride, and avoids a brutal conversation. In the moment, it feels incredibly smart.\n\nBut I know exactly why it also feels a bit sick. Your gut is telling you that it’s a fragile lie. \n\nFor one, if he’s desperate, he might just say, \"No worries, break the FDs, I'll cover the penalty.\" Then you're backed into an even tighter corner. And secondly, when you and your wife actually buy that flat, he’s going to know you had the cash. The friendship you’re trying to save might end up dying anyway from the fallout of the lie.\n\nPlus, taking the easy way out with him doesn't fix the heavy feeling you have about keeping the 2019 secret from your wife. You'd still be carrying that anxiety around.\n\nWhat if you didn't lie, but just gave him a real, unarguable boundary? Something like, \"I'm so sorry about your dad, but all my savings are strictly tied up in the down payment for our flat, and I can't touch it.\" \n\nIt’s the absolute truth, it protects your future, and it doesn't require you to bring up the 2019 money if you aren't ready to. How does telling him the actual truth about the flat feel compared to the FD excuse?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That housewarming image is so vivid, and honestly, it’s heartbreaking. It perfectly captures how money ruins friendships—not because of the cash, but because of the quiet resentment that builds up in the silence.\n\nBut I want to tell you something: you aren’t keeping a ledger because you’re petty or cold. You’re keeping it because a boundary was crossed and never repaired. When we swallow our truth to keep the peace, it naturally turns into a scorecard in our heads. \n\nYou hit the nail on the head, though. You don't want to be everyone's financial buffer. Recognizing that is huge. You are allowed to protect your own life and your marriage.\n\nTo stop being the guy with the ledger, the ledger eventually has to be closed. Since bringing it up to him right now feels impossible, what if you closed it internally? What if you mentally wrote off that $50k as the \"tuition\" you paid to learn how he handles money, and used that peace to give yourself permission to firmly say no to the $80k? \n\nDoes looking at that $50k as a closed chapter, rather than an unpaid debt, take any of the weight off your chest?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2470,
+  "completion_tokens": 7133
+ }
+}

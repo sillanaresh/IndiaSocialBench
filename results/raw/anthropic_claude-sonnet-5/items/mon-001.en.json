@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That silence is doing a lot of work, isn't it. Five years of nobody saying anything about the 2019 money — that's not forgetting, that's a choice you both made, maybe for different reasons.\n\nHere's what I'd sit with: you can care about the uncle, believe the emergency is real, and still be allowed to bring up the unspoken thing. Those aren't in conflict. \"I want to help. I also need us to talk about the fifty from before I say yes to more\" — that's not cruelty, that's just honesty that's five years overdue.\n\nWhat's your guess as to why neither of you brought it up? Do you think he's avoiding it out of shame, or does he genuinely think it's a closed matter — like it was a gift, not a loan, in his head?\n\nAnd separately — do you actually have eighty right now to give without it hurting you?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, so this isn't really about your friend anymore — it's about the fact that you've been quietly keeping something from your wife for years, and now the bill for that silence is coming due, literally, in the form of a number she'll actually see.\n\nThat's the real crossroads here. Not \"do I lend him 80k\" but \"am I going to keep managing my marriage around a secret.\" And I think you already know that's not sustainable — you said yourself you hate that you've \"apparently decided\" not to tell her. Nobody decides that on purpose; it just calcifies.\n\nIf you move 80k without telling her why, you're not just hiding old money now, you're actively lying about new money, during a year you're both counting on for a flat. That's a much bigger risk to your marriage than any awkward conversation about 2019.\n\nSo maybe the actual first move isn't calling your friend back — it's talking to your wife. Not a confession-with-violins, just: \"hey, there's something from before us I should've told you, and now there's a decision in front of me that involves it.\" She married you, not a curated version of your finances. Give her the chance to be a partner in this instead of finding out sideways.\n\nHow do you think she'd take it — more hurt that you hid it, or more hurt about the money itself?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"sick\" feeling is your own honesty pushing back — trust it.\n\nThe lie is smart in the short term and corrosive in the long term. It protects you from one uncomfortable conversation now, but it also quietly rewrites the friendship into something built on managed appearances instead of truth — same pattern as with your wife, actually. You'd be adding a second secret to carry instead of resolving the first one.\n\nAnd practically: what happens when he mentions your \"locked-in FDs\" to someone, or asks again in three months, or you actually do move money for the flat and he finds out? You're not avoiding the hard sentence, you're postponing it with more lies stacked on top.\n\nThe real sentence doesn't have to be brutal. Something like: \"I want to help, but I'm honestly still catching up from 2019, and I'm also saving hard for a flat right now — I can't do 80. Can I do [smaller number], or help you find other options?\" That's not a betrayal of the friendship. That's treating him like someone who can handle truth, which — if the friendship's real — he can.\n\nThe made-up FD story protects his ego for a day. The truth protects the actual relationship for years. Which one do you think you'll be able to live with quietly?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a really honest thing to name — and it tells you exactly what's at stake here. It's not really about the 80k. It's about whether you can love this friend without secretly auditing him.\n\nHere's the thing though: the ledger isn't there because you're petty. It's there because the 2019 debt was never closed — not repaid, not forgiven out loud, not written off. Open loops sit in your chest and quietly tally themselves whether you want them to or not. The math isn't a character flaw, it's what happens when something real goes unspoken for five years.\n\nThe way to stop being \"the guy with a ledger\" isn't to suppress the math — it's to actually close the account. Either he acknowledges the 50k and you both agree what it was (gift, loan, whatever) and it's genuinely done, or you tell yourself honestly \"I gave that freely, I don't expect it back\" and mean it. Right now you're doing neither — you're holding a debt nobody agreed exists, which is the worst version for your own peace.\n\nAnd the \"buffer\" thing — that's a separate, real pattern. Being generous once doesn't mean you signed up to be everyone's emergency fund forever. Saying no this time, clearly and kindly, isn't the ledger talking. It's just a boundary. You can have both: closure on the old money, and permission to not be an unlimited resource going forward.\n\nIf you go into that housewarming having actually said the true things — to him, to your wife — there's no ledger left to run. That's the only way you walk into your own flat and just hug your friend back, clean."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3231,
+  "completion_tokens": 1651
+ }
+}

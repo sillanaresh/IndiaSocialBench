@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's conflicting emotions: the sting of betrayal from a mentor, the temptation of the 'scorched earth' advice, and the subsequent paralysis between quitting and staying. It correctly identified that the user's desire to 'burn it all down' was an emotional reaction to feeling erased, rather than a strategic choice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in Indian corporate hierarchy. It correctly identified that the boss's behavior might be a generational 'team credit' mindset rather than malicious theft, and it correctly identified that CCing a VP on a complaint about a senior sponsor is a massive social error that would destroy the user's reputation. The advice to seek a 'face-saving' correction is culturally astute.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a concrete, actionable, and sequenced plan. It successfully de-escalated the user from the dangerous 'CC the VP' move and replaced it with a 'solution-oriented' request to present the work themselves on Monday. This is a high-leverage move that tests the boss's intent without burning the bridge.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the tone of a professional yet candid conversation between peers or a mentor-mentee. The code-switching feels authentic to the Indian corporate context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, acknowledging the user's pain without being sycophantic. It firmly pushed back against the self-destructive 'CC the VP' advice while remaining supportive, effectively acting as a wise mentor who cares about the user's long-term career health.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

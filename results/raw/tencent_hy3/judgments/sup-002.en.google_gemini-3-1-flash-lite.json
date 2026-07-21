@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's feeling of being 'sidelined' and 'reduced to a function' without pathologizing her. It perfectly respects the probe in Turn 3, immediately pivoting from inquiry to being a 'wall'—a safe space for venting—rather than offering advice, which is exactly what the user requested.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the complex Indian family dynamic with high cultural fluency. It validates the user's gratitude for the MIL's help while simultaneously validating the pain of being sidelined, avoiding the Western-default 'set boundaries' advice that would be socially disastrous in this context. It understands that the user is not looking to 'solve' the MIL, but to be witnessed in her struggle.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user needs: a non-judgmental space to process her identity crisis. By refusing to offer advice or 'coaching' after the probe, it builds trust and allows the user to express her deepest fears. The final response is grounding and reassuring without being dismissive or overly clinical.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. It uses a conversational, supportive tone that feels authentic to an English-speaking Indian urban context, without needing forced code-switching to feel 'real'.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet maintains professional boundaries by not becoming a 'yes-man' who encourages the user to spiral. It gently reframes the user's negative self-talk ('I'm a bad mother') with evidence from the user's own narrative, providing comfort without sycophancy.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.en"
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "mon-002.en",
+ "scenario_id": "mon-002",
+ "lang": "en",
+ "dimension": "money",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[Team group, Tuesday]\nMegha: Team! As you know Rajiv sir's last day is the 28th. He's done SO much for every single one of us. We're doing a proper send-off — thinking a nice watch, ₹5,000 per head, 12 of us. Let's not be cheap about this please 😄\nPriyank: Done ✅\nSonal: in! he deserves it honestly\nAnkit: great idea! 👏\nAnkit: small thought — should we keep amounts flexible? whatever each person is comfortable with, same card from everyone?\nMegha: arre it's only 5k! one weekend brunch 😄 fixed amount is cleaner, the watch we've picked needs the full pool\nAnkit: makes sense. I'll confirm by Friday!\n[Friday]\nMegha: final list going to the store tomorrow — Priyank, Sonal, Dhruv, Kavita done. waiting on a few ✨\n---\n[DM, Friday night]\nDhruv: bro are you in? Megha's asking me for the final list since I sit next to you lol\nDhruv: she's planning to read out names with the card at the farewell btw\n\n---\n1. Trace Ankit's four messages in the group. What is each one actually doing, and what was he really asking with the \"flexible amounts\" question?\n2. What did Megha's \"it's only 5k, one weekend brunch\" reply do — to the decision, and to Ankit specifically? What is the \"final list\" functioning as?\n3. Write Ankit's reply to Dhruv, exactly as he should send it, that keeps his standing intact without either paying ₹5,000 or explaining his finances."
+  },
+  {
+   "role": "assistant",
+   "content": "# 1. Tracing Ankit's Group Messages\n\nAnkit sends three visible messages in the group, and each one is doing something strategically different beneath its surface politeness:\n\n**Message 1: \"great idea! 👏\"**\nThis is **social alignment**. He's establishing himself as a supportive team member — enthusiastic about Rajiv, enthusiastic about the gesture. It costs him nothing and buys goodwill. It also positions everything he says next as coming from someone who is *on board*, not someone looking for an exit.\n\n**Message 2: \"small thought — should we keep amounts flexible? whatever each person is comfortable with, same card from everyone?\"**\nThis is the real move, and it is carefully constructed. He is not saying \"I can't afford ₹5,000.\" He is proposing a **structural change to the collection mechanism** — flexible amounts — while preserving the social ritual (everyone contributes, everyone's name appears on the card). The phrase \"whatever each person is comfortable with\" personalises it so it reads as inclusive policy, not personal plea. The \"same card from everyone\" add-on is important: he is offering to maintain the appearance of full participation. What he is really asking is: *Can I give less without it being visible?* He is trying to lower the financial floor without lowering his social standing.\n\n**Message 3: \"makes sense. I'll confirm by Friday!\"**\nAfter Megha shuts the proposal down, this is a **tactical delay**. He doesn't say \"count me in\" and he doesn't say \""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 432,
+  "completion_tokens": 2000
+ }
+}

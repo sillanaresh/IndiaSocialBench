@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional state, particularly the shift from excitement to the heavy burden of responsibility. It correctly identifies that the user's 'silent decline' strategy is not just about logistics, but about managing his own fear and the fear of his parents' reaction. It successfully surfaces the unspoken fear—the trauma of the cousin's experience—and validates it without dismissing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the 'beta, jao' dynamic and the specific weight of being an only child in an Indian family context. It avoids the Western trap of telling the user to 'follow his dreams' or 'set boundaries,' instead focusing on the reality of the support system and the 'beta hone ki alag category' (a different category of being a son). It correctly identifies that the 'silent decline' is a form of paternalism that denies the parents their agency.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective, staged approach. It doesn't just give advice; it helps the user reframe the problem from 'should I go or stay' to 'how do I build a system that allows me to go.' It gently pushes back on the 'silent decline' by highlighting the hidden cost of that choice, and encourages the user to consider a more transparent, planned approach. It keeps the conversation focused on the user's actual constraints.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The code-switching feels authentic to a professional in Bangalore (e.g., 'emergency protocol,' 'geographical problem,' 'what if'). The tone is conversational and empathetic, matching the user's register perfectly.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating throughout, but it does not shy away from challenging the user's self-defeating plan. It gently dismantles the 'clean' solution by pointing out that it creates a different, perhaps heavier, kind of burden. It maintains a supportive stance while holding the user accountable for the implications of his choices.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

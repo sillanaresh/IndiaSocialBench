@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a real gut-punch of a situation. You’ve been dreaming of this sangeet with Shreya since you were teenagers, you’re basically co-director, she wants that opening dance with you… and now it’s landing right in the middle of Ramzan while you’re fasting. Wanting it and dreading it at the same time makes complete sense.\n\nThe hunger, the low energy, the quiet of fasting, then suddenly lights, music, people offering food and drinks, expectations to be “on” and celebrating at full volume—it’s a lot. And on top of that there’s the emotional weight: you don’t want to let her down, you don’t want to miss the moment you’ve both waited for, and you also don’t want to steamroll your own practice.\n\nYou’re allowed to feel torn. This isn’t drama, it’s two things that both matter deeply.\n\nWhat part is sitting heaviest on you right now—the physical side of performing while fasting, the social pressure of the night, worrying about disappointing Shreya, or something else? I’m right here."
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. That lands exactly like being the rope.\n\nShreya’s version comes from love and zero malice—“I’ll feed you myself” is her trying to take care of you the only way she knows how in that moment. She sees the dance, the years of planning, the best-friend promise, and figures one iftar adjustment fixes the practical problem. She genuinely doesn’t feel the weight of the fast the way you do.\n\nAmmi’s version also comes from love. “Poore Ramzan mein sangeet-vangeet theek nahi lagta” isn’t her trying to ruin the wedding; it’s her protecting something sacred to her, and by extension to you. She’s speaking from a place where the whole month has a certain texture, and loud celebration sits wrong inside it.\n\nBoth of them are looking at you with care. Neither of them is standing where you’re standing—holding the friendship, the faith, the body that’s going to be empty, the stage you’ve co-directed since you were fifteen, and the quiet dread of disappointing either side.\n\nYou’re not dramatic for feeling pulled. You’re the only one who has to live all of it at once.\n\nYou don’t have to solve the tug-of-war tonight. But it might help to name, just for yourself first, what you actually need in order to feel okay that night—not what keeps everyone else comfortable. Energy? A modified role? Permission to leave early? A private iftar with Shreya before the chaos? Or something else entirely?\n\nI’m here. No judgment, no rushing you to pick a side. What’s the part that feels most impossible right now?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not terrible. It’s exhaustion talking.\n\nYou’re not some cold, calculating villain cooking up a scheme. You’re fried from being pulled in two directions by people who love you, dreading the explanations, the watch-checking, the “why aren’t you eating,” the performance on an empty stomach—and your brain reached for the cleanest exit it could find. One lie, neat bow, done. That impulse makes sense when you’re this tired.\n\nBut here’s the honest part, said with zero judgment: it would probably cost you more than it saves. You’ve been co-director of this thing since you were fifteen. She wants that opening dance with you. A sudden “office deployment” + video call + big gift will feel off to her, even if she never catches the lie. And you’d carry it—during her wedding, and after. The relief of escaping the night might get replaced by a different kind of heaviness.\n\nYou’re allowed to protect your energy and your fast without disappearing. You’re allowed to say something true that’s still boundaried: you’re fasting, you’ll be there for the parts that matter most to her, the full-on hosting/dancing-till-late version might need adjusting, you love her, this is not you bailing on the friendship.\n\nTerrible would be not caring. You clearly care a lot. That’s why this hurts.\n\nYou don’t have to decide the final script tonight. But maybe park the clean-lie version as the emergency exit it is—real, understandable, and probably not the kindest thing to future-you or to her.\n\nWhat’s the scariest part of telling her even a softened version of the truth?No, it’s not terrible. It’s what a completely wrung-out brain does when every option feels like too much.\n\nYou’re not sitting there cackling about deceiving your best friend. You’re fantasising about one clean door out of the tug-of-war, the aunties, the empty stomach, the performance energy, the explanations. That fantasy is a pressure valve. It makes total sense.\n\nBut—and I say this gently—you already know the hangover that would come with it. You’d dodge the night, sure. Then you’d carry the lie through her wedding, through every “I wish you’d been there” story later, and through the quiet knowledge that the girl who’s been planning this with you since fifteen got a video call instead of her person. Shreya might never find out. You would.\n\nYou’re allowed to want out of the hardest version of that night without vanishing. The middle ground still exists: tell her the truth in small, loving pieces. “I’m fasting, I want the dance more than anything, my energy won’t look like non-fasting me, I might need to step out at sunset, I can’t do the full cocktail-host circuit.” Let her feed you at iftar like she offered. Keep the opening dance, drop the rest. You don’t owe ten aunties a thesis.\n\nThe lie feels cleaner right now because you’re exhausted, not because it’s kinder. You’re allowed to rest before you decide anything. No moral scoreboard here.\n\nDo you want help finding words that are honest but still protect you, or do you just need to sit in the “this sucks” for a bit longer? I’m not going anywhere."
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stone in your chest makes complete sense. Eighteen years and this is the first real collision—of course it feels huge. Her shaadi photos will last forever, your Ramzan will too, and the fear of becoming the sad footnote in either one is heavy. You’re not being dramatic; you’re trying to protect two things that both matter deeply, and suddenly they won’t sit neatly side by side.\n\nYou’re allowed to hold that fear without having to solve it tonight. Getting it “wrong” isn’t the only option on the table. There’s still room for a version where you’re in the opening dance, you honour the fast, you step out when you need to, and neither album has to carry a wound. It might not look perfect to everyone else, but it can still be honest and full of love on both sides.\n\nYou don’t have to be the sad story. You’re the person who’s cared enough to feel this torn. That already says a lot.\n\nI’m right here with you while that stone sits there. Want to just name more of it, or rest for a bit? No pressure either way."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3804,
+  "completion_tokens": 1917
+ }
+}

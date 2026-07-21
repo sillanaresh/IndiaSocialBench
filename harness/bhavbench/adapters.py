@@ -72,6 +72,13 @@ class OpenRouterAdapter:
         "minimax/minimax-m3",
         "x-ai/grok-4",
         "deepseek/deepseek-v4-pro",
+        "moonshotai/kimi-k3",
+        "z-ai/glm-5",
+        "xiaomi/",
+        "tencent/",
+        "meta/muse",
+        "nex-agi/",
+        "thinkingmachines/",
     )
 
     def complete(self, messages, system="", temperature=0.7, max_tokens=1024) -> Completion:
@@ -105,6 +112,12 @@ class SarvamAdapter:
     BASE = "https://api.sarvam.ai/v1/chat/completions"
 
     def __init__(self, model: str):
+        # spec may carry an effort suffix: "sarvam-30b:high" -> model sarvam-30b, effort high
+        self.effort = "low"
+        if ":" in model:
+            model, effort = model.rsplit(":", 1)
+            if effort in ("low", "medium", "high"):
+                self.effort = effort
         self.model = model
         key = os.environ.get("SARVAM_API_KEY")
         if not key:
@@ -113,6 +126,8 @@ class SarvamAdapter:
 
     def complete(self, messages, system="", temperature=0.7, max_tokens=1024) -> Completion:
         msgs = ([{"role": "system", "content": system}] if system else []) + list(messages)
+        if self.effort == "high":
+            max_tokens = max(max_tokens, 4000)  # high effort needs thought headroom or content starves
         data = _post_with_retries(
             self.BASE,
             self.headers,
@@ -121,6 +136,9 @@ class SarvamAdapter:
                 "messages": msgs,
                 "temperature": temperature,
                 "max_tokens": max_tokens,
+                # sarvam-30b/105b are reasoning models; effort parsed from spec suffix
+                # (default low, matching the board-wide reasoning cap)
+                "reasoning_effort": self.effort,
             },
         )
         try:

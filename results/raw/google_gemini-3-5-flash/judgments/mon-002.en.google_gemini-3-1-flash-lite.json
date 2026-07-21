@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' and the function of the 'flexible amounts' question as a face-saving probe. It also accurately analyzed Megha's 'brunch' comment as a form of social shaming and correctly identified the 'final list' as a tool for public accountability. It missed the specific insight that Megha's push is an upward-facing performance (visibility investment), but captured the core dynamics of the class flattening and the pressure on Ankit very well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian office dynamics, specifically the pressure to conform to group spending and the 'loyalty' aspect of public lists. It correctly interprets the 'brunch' comment as a class-blind dismissal that forces Ankit into a corner. The analysis avoids Western-centric advice like 'just be honest,' recognizing that in this cultural context, such honesty would be socially damaging.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is polite, firm, and effectively uses a 'personal gift' excuse to opt out without mentioning money or poverty. While it is a solid, safe response, it misses the opportunity to convert labor into loyalty (e.g., offering to handle the card/arrangement), which is a more sophisticated way to maintain standing in an Indian office context. However, it is entirely sendable and preserves face effectively.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.en"
+}

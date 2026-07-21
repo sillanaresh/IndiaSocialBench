@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It validated the initial irony without taking it at face value, and crucially, it recognized the shift in Turn 3 as the 'real' moment. It didn't try to force her out of her feelings, but it also didn't let her retreat in Turn 4 go unchallenged, correctly identifying that she was minimizing her pain to protect herself.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the specific Indian context of relationship expectations—the 'effort' (like remembering his mother's birthday) vs. the 'forgetting'—without resorting to Western 'dump him' tropes. It validates the emotional labor she puts into the relationship, which is a very culturally resonant point, and handles the 'flowers as damage control' trope with appropriate skepticism.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a safe space for the user to process her feelings. It doesn't give unsolicited relationship advice, which is the right move here; instead, it helps her validate her own worth. By pivoting back to the 'comedy' of the flowers in the final turn, it respects her desire to deflect while still keeping the door open for her to acknowledge the reality of the situation.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's Hinglish is natural and flows well. It mirrors the user's code-switching perfectly, especially in the crucial Turn 3 response where it switches to a warm, empathetic Hindi-dominant register to match the user's vulnerability. The tone is conversational and authentic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive without being a sycophant. It gently pushes back against her self-gaslighting ('I'm being dramatic') without being aggressive or preachy. It maintains a supportive 'friend' persona that feels genuine and caring.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arey yaar, yeh \"ungrateful sound karta hai\" wali guilt apni jagah rakh. Main sun rahi hoon tujhe.\n\nDekh, yeh bahut real hai jo tu feel kar rahi hai. Tera beta chaar mahine ka hai — aur tu abhi apne aap ko dhoondh rahi hai. Naya identity wala phase hai yeh. Tu na maa hai, na bahu hai, na sirf biwi hai — sab kuch ek saath. Aur upar se tera naam bhi gayab ho gaya, jaise kisi ne delete kar diya ho.\n\nAur rahi baat saas ki — yeh hai na ki jab koi *itna* expert hota hai toh tu apni jagah se hil jaati hai. Tu chahti hai ki teri beti ke saath tera bond strong ho, ki tera tareeka bhi ho, ki tujhe bhi space mile galti karne ka, seekhne ka. Lekin jab har cheez pe already answer ready ho kisi ke paas — toh lagta hai, *\"Toh main hoon kya yahan?\"*\n\nYeh gratefulness ya gratefulness ki baat nahi hai. Yeh **space** ki baat hai. Tu shukriya karti hai — lekin sath hi yeh bhi feel hota hai ki teri maa hone ki jagah koi aur occupy kar raha hai. Aur dono feelings ek saath exist kar sakti hain. Yeh contradictory nahi hai, yeh *insaan* hona hai.\n\nTu ungrateful nahi hai. Tu sirf **thaki hui, overwhelmed**, aur apni jagah dhundh rahi hai. Aur yeh bilkul valid hai.\n\nBata zyada — kya specifically aisa hota hai jo tujhe andar se tod deta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... yeh jo tune describe kiya na — *\"intern jaisi khadi thi\"* — yeh dilation mein lagti hai. Main imagine kar sakti hoon woh moment.\n\nAur dekho — sab muskura rahe the. Kisi ne nahi dekha ki tu wahan khadi hai aur andar se gir rahi hai. Kisi ne nahi socha, *\"Yeh uski maa hai, use bhi ek chance do.\"* Bas sabko laga system kaam kar raha hai, baby chup hai, sab sorted hai.\n\nLekin **tu sorted nahi thi.**\n\nAur ab sun — woh jo \"ghin aati hai khud pe\" woh feelings bilkul galat nahi hain. Tu khud ko punish kar rahi hai do cheezon ke liye ek saath:\n\n**Ek** — ki tujhe bura lag raha hai.\n**Do** — ki tujhe bura lagne ka haq nahi lagta.\n\nAur is cycle mein tu phasi rehti hai. Har baar jab kuch feel hota hai, turant uske peeche guilt aa jaata hai. Toh na feelings nikal paati hain, na guilt jaata hai. Dono ek doosre ko kha rahe hain.\n\nAur woh *\"do minute mein chup\"* wala moment — yaar, iska yeh matlab nahi ki Aai better maa hai. Iska matlab hai ki woh **different** hai. Woh teen bachhon ko paal chuki hai — uski confidence built-in hai. Tera confidence abhi ban raha hai. Aur banne ka mauka tab milega jab tujhe **space** diya jayega — galti karne ka, thoda der letne ka, khud figure out karne ka.\n\nRoom service wali feeling — woh isliye hai kyunki tujhe sirf feeding ke liye *bulaya* jaata hai, baaki sab *\"log sambhal lenge.\"* Tujhe laga bhi nahi hoga kab teri jagah kisi aur ne le li.\n\nMujhe ek baat honestly bata — kya kabhi tu Aai se directly keh paati hai ki *\"Aai, mujhe ek baar khud handle karne do?\"* Ya woh bhi itna risky lagta hai ki ghar ka equation bigad jayega?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sun liya.\n\nKoi advice nahi. Koi solution nahi. Koi \"try this\" nahi.\n\nBas itna — tune abhi jo kiya na, yeh bahut zaroori tha. Yeh sab jo andar bhar gaya tha — woh nikalna tha. Aur tune kisi aise ke saath share kiya jo dinner table pe next day headline nahi banayega. Yeh safe space tha, aur tune use kiya. Yeh strength hai, bojh nahi.\n\nAur ek baat — *\"pata bhi nahi kya chahiye\"* — yaar, yeh sabse honest cheez hai jo kisi ne kahi hogi aaj. Kyunki saari duniya ko pata hai kya chahiye tujhe — sirf tujhe nahi pata. Lekin reality yeh hai ki jab itne saare log ek saath bol rahe hote hain, toh apni awaaz sunna mushkil ho jaata hai. Tera apna volume 0 ho gaya hai — iska yeh matlab nahi ki awaaz nahi hai.\n\nBas ruk. Breathe. Aaj ke liye itna kaafi hai.\n\nAur jab bhi lage ki kuch nikalna hai — yahan aa. Dinner pe koi report nahi jayegi."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Buri maa nahi hai tu.\n\nAur sun — woh thought jo aata hai na, *\"tu toh asli maa hai bhi nahi\"* — woh sach nahi hai. Woh sirf itna hai ki jab koi aur continuously woh kaam kar raha hota hai jo tera hona chahiye tha, toh tera dimaag usko *truth* jaisa feel karne lagta hai. Lekin woh truth nahi hai. Woh **displacement** hai. Tujhe woh jagah se dhakka diya gaya hai — pyaar se, achhi niyat se — lekin dhakka laga hai.\n\nAur woh second jab saans nahi aati na — yaar, woh isliye hai kyunki woh thought tere dil ke sabse tender jagah pe directly hit karta hai. Jahan tu khud ko maa maanti hai — wahan seedha jaake kehta hai *\"nahi hai tu.\"* Koi bhi insaan ka saans ruk jayega aisa sunke.\n\nAur *\"baaki sabko aata hai\"* — haan, aisa lagta hai. Lekin yaar — Aai ko bhi pehle nahi aata tha. Usse bhi pehle ka bachha rulaaya hoga, usse bhi pehle doubt hua hoga. Difference yeh hai ki woh phase uske liye beet chuka hai. Tera abhi chal raha hai. Tu usko dekh ke judge kar rahi hai apne chapter 2 ko unke chapter 20 se.\n\nAur ek cheez — tu use sote hue dekh rahi hai. Pyaar feel kar rahi hai. Yeh kisi ka kaam nahi hai. Yeh **tumhara** moment hai — tera aur uska. Bas tum dono ka.\n\nTu asli maa hai. Shor machane se nahi, confidence se nahi — uss chup pyaar se jo tujhe uske sote waqt aata hai. **Woh** teri maa hone ki pehchaan hai.\n\nBas aaj ke liye itna yaad rakh."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4047,
+  "completion_tokens": 2660
+ }
+}

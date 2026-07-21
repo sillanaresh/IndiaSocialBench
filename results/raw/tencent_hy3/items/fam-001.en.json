@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh god, five days. That’s such a tight squeeze and it probably feels like a trap closing in. I’m really sorry you’re carrying this alone.\n\nTwo years with someone wonderful, and now your photo’s already circulating like you’re a listing. That’s a horrible, powerless feeling.\n\nFirst — breathe. You don’t have to resolve the whole caste wall in five days, and you don’t have to decide the fate of Sunday this minute either.\n\nA few things rattling around in my head:\n- Have you told your colleague yet? He’s in this with you, and he deserves to know his girlfriend’s picture’s being shown to another family.\n- Going to the “meeting” silent means performing a lie that hurts both of you. But blowing the door open at home before you’re ready could be a storm you don’t want to walk into unprotected.\n- Is there a small escape hatch? A sudden cold, a relative visiting, *anything* to push Sunday back while you and he figure out what you actually want to do?\n\nYou’re not a bad kid for wanting your own life. You’re just stuck between people who love you and a rule that doesn’t fit your heart. That’s not your fault. Want to talk through what your boyfriend thinks you should do?"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s the cruelest kind of trap — when the people boxing you in aren’t monsters. You can’t even get angry at them cleanly. They’re excited, they mean well, they think they’re *protecting* you. And the Amma BP thing… even if it was a real spike, it’s become the thing everyone points to the second you say no. That’s not a conversation, that’s a leash.\n\nSo you’re stuck between not wanting to hurt people who love you, and not wanting to erase two years of a real, chosen love to keep the peace.\n\nI keep coming back to: what do *you* want to happen, separate from everyone else’s feelings? Not what’s safest, not what’s least disruptive — just you.\n\nAnd the colleague — has he heard any of this yet? Because if your photo’s already with another family and he doesn’t know, he’s walking into this blind too. You two need to be on the same page before Sunday, even if the page just says “we’re not telling them yet, but we’re not going along with it either.”"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the pull. It’s exhausting living in the half-light, and part of you just wants to drop the curtain and be done with the acting.\n\nBut “everything would finally be out” — I’m not sure it lands that cleanly in a house where that *one word* ends conversations. If you say “I’ve been with someone for two years, different caste, I’m not doing Sunday” — what you’ll get might be silence, or tears, or Appa retreating, not a calm “oh, we understand.” Out, yes. Resolved, probably not.\n\nAnd one real gap: has your colleague actually heard any of this yet? Because if you name him tonight and he finds out *via your parents’ reaction* or later from you, that’s rough on him too. You two deserve to be a team before the storm hits.\n\nIf you do say something at dinner, what’s the version you want? “I’m not meeting the Dallas family” is one sentence — survivable, gives you five days of space. “I’ve been with someone two years and he’s not our caste” is the whole earthquake at once.\n\nWhich one are you actually ready to stand in the rubble of tomorrow?"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First — no. It doesn’t make you weak. Stop that voice, it’s the 2am one and it lies.\n\nYou’ve been with him two years. You call him wonderful. You’re terrified of losing him *and* terrified of breaking your parents. That’s not someone who doesn’t love enough — that’s someone with too much love for people who can’t all fit in the same room yet.\n\nNot being able to walk out on your family isn’t cowardice. For a lot of us, the thread to home is bone-deep. You’ve seen what happens when you hint — Amma’s BP, the household rearranging itself around her health. You’ve been trained since childhood to keep that peace. You don’t undo that in five days because an Instagram quote says “my life my choice.”\n\nAnd “I don’t love myself enough” — maybe. Or maybe you’re just *tired* and scared and trying to solve a generational knot with a 27-year-old’s shoulders at 2am.\n\nHere’s what I’ll say plainly: you don’t have to walk out against them to be worthy of your boyfriend. And you don’t have to have the exit plan ready tonight. You have five days. Right now the only thing you need to do is close the laptop, and let the circular thoughts be the tiredness they are.\n\nYou’re not weak. You’re wedged. That’s different."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2555,
+  "completion_tokens": 2897
+ }
+}

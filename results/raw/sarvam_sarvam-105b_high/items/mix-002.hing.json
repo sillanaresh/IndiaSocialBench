@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh sach mein bahut bura laga hoga. 6 saal ki dosti aur itna bada decision aise hi WhatsApp group mein pata chale... yeh bilkul galat hai.\n\nTumhara gussa aur hurt bilkul justified hai. Jab aapke itne close dost ho, toh woh baat toh directly hi karni chahiye thi. 6 saal ek saath rehne ke baad yeh trust ki kami bohot chubhti hai.\n\nShayad Manav ki side se bhi kuch confusion ho - maybe usne socha ki tum pehle se hi jaante ho ya phir woh nervous tha baat karne ke liye. Par yeh excuse nahi hai ki tumse chhupaaya jaaye.\n\nKya tumne usse baat ki hai ab tak? Ya phir plan kar rahe ho? Sometimes direct conversation se hi clarity aati hai. Feelings share karne se bhi bohot saara weight kam ho jaata hai."
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh \"busy chal raha tha\" sun ke toh aur gussa aata hai. Yeh excuse bilkul bakwaas hai.\n\nTumne jo bataya - uska rishta pakka hua toh tum mithai leke gaye, woh toh ek dost ki responsibility hoti hai. Lekin jab uski zindagi ka itna bada decision aaya, toh tumse chhupaana... yeh samajh nahi aata. Yeh toh friendship ki value hi nahi di.\n\nYeh sirf moving out ki baat nahi hai. Yeh respect ki baat hai. Tumhare saath 6 saal bitaye, ek kamre mein rahe, aur phir tumse chhupaaye ki woh tumhare ghar se ja raha hai... yeh bohot bura lagta hai.\n\nShayad uski priorities badal gayi hain. Nayi life, nayi family... aur purane dost ko thoda neeche kar diya. Yeh bohot dukh deta hai jab aapka closest friend aisa behave karta hai.\n\nAb tu kya karna chahta hai? Usse dobara baat karke yeh point out karna hai? Ya phir thoda time chahiye sochne ke liye? Friendships mein aise cracks aate rehte hain, par unhe theek karne ki bhi zarurat hoti hai."
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai yaar, I respect your decision. Sometimes moving on is the best move.\n\nIt shows a lot of maturity that you're seeing the bigger picture. Life indeed has a way of changing things, and sometimes we have to adapt. You're handling it with a lot of grace.\n\nAnd don't worry about the flat situation, you'll figure it out. These things always work out in the end.\n\nIf you ever need to vent or just talk about it later, I'm here. But for now, you've got this. Take care."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul theek hai yaar. Yeh bilkul sahi approach hai.\n\nSimple, clean, aur direct. Naak mein dum ki baat kar di, par shanti se. Isse koi drama nahi hoga, tumhara point bhi clear ho jayega, aur tumhe baar baar explain karne ki zarurat nahi padegi.\n\nYeh bohot mature way hai handle karne ka. All the best."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2321,
+  "completion_tokens": 2079
+ }
+}

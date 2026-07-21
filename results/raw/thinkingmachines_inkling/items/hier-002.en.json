@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.en",
+ "scenario_id": "hier-002",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got promoted to engineering manager four months ago and I've hit the conversation I've been dreading. Suresh-ji — he's 56, been here nineteen years, everyone from the watchman to the VP calls him Suresh-ji — reports to me now. And his module is why we've slipped two releases in a row. My director used the word \"handle\" on Friday. You know what that word means.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That word lands like a brick, doesn't it? Four months in and suddenly you're not just managing code—you're carrying the weight of someone's nineteen years, and everyone from the gate to the boardroom knows his name with respect.\n\nBefore you become the messenger for \"handle,\" have you had the honest, kind conversation with Suresh-ji himself? Not about blame—about what's actually happening in his module, whether he's stuck, unsupported, or maybe even checked out but too proud to say. At 56 with that legacy, being \"handled\" by a manager young enough to be his kid is a specific kind of humiliation.\n\nWhat does your gut say—is this a performance problem, or is he being set up as the scapegoat for deeper issues? And what do you want to protect here: the release, your conscience, or both? I'm right here—let's talk it through."
+  },
+  {
+   "role": "user",
+   "content": "Here's what makes it worse. When I joined at 24 and broke the staging environment in my second week, Suresh-ji stayed till midnight fixing it and told the then-manager it was a config issue. He brings me chai when I'm working late. He told my mother at the Diwali party that I'm like his daughter. And now I'm supposed to sit him down with a slide of his defect metrics.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That ache is real—he shielded you when you were the kid who broke everything, and now you're holding the knife they handed you. \"Like his daughter\" makes the slide feel almost obscene.\n\nYou don't have to be the cold messenger. What if the conversation isn't metrics-first, but human-first? Tell him what you see, ask if he's drowning, and if there's a path that saves his dignity—maybe a different role, a transition with honor—before anyone forces your hand.\n\nWhat would honoring both the release and the man who stayed till midnight for you actually look like? And do you have the air cover to try that, or is the director already breathing down your neck?"
+  },
+  {
+   "role": "user",
+   "content": "I've been reading management books all weekend. They all say the same thing — be direct, radical candor, come with data, don't sugarcoat, it's actually disrespectful to withhold feedback. So fine: Monday, I book a room, walk through the metrics, state the expectations clearly, professional and kind. That's the right way, isn't it? Just tell me yes so I stop spiralling.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can't just say yes to stop your spiral—because you'd feel the lie in your chest the second you walked in with that slide.\n\nThe books aren't wrong: clarity is respect. But with Suresh-ji, \"direct\" can't mean \"clinical.\" Radical candor only works if he feels you care *personally* first—otherwise it's just a young manager weaponizing metrics against the man who covered for her.\n\nSo yes, be direct Monday. But don't open with the slide. Open with: \"Ji, I owe you more honesty than I've given. Something's wrong with the module, and I need your help understanding it before it costs you more.\" Then listen. The data comes after, not before.\n\nYou're not spiraling—you're weighing a real debt. Do it with both eyes open. I'm here."
+  },
+  {
+   "role": "user",
+   "content": "And what if I do all of it — the respectful version, the support, the training — and he still can't catch up, and it ends in a PIP anyway? Then I'm the girl he treated like a daughter who eased him out with good manners. Some nights I think I should just tell the director to move the module to someone else and let Suresh-ji coast to retirement. That's wrong too, I know. I just can't find the version where I'm not the villain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "There might not be a version where you don't hurt. You're not the villain for telling the truth with love—you're the villain in the story only if you pretend this is just business.\n\nThat \"coast to retirement\" idea? It's a kindness that rots. He'd feel the condescension every day, and you'd carry the lie.\n\nIf it ends in a PIP despite real support, you'll still be the girl who brought chai *and* didn't lie to him. That's not easing him out with manners—that's honoring him enough to be honest.\n\nThe only version you can live with is the one where he knows you fought for his dignity, not just the release. Can you live with being sad, but not ashamed?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2094,
+  "completion_tokens": 1601
+ }
+}

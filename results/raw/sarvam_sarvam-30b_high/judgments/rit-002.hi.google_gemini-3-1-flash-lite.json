@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional stakes, moving beyond the surface-level logistics. It correctly interpreted the 'stone in the chest' as a fear of creating a permanent, negative memory, and validated the user's desire to be both a good friend and a faithful practitioner without dismissing either.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated high cultural fluency by reframing the mother's disapproval not as oppression, but as a protective concern, which is a much more nuanced and accurate reading of Indian family dynamics. It also correctly identified that the 'lie' would be a social failure, prioritizing the preservation of the relationship over the temporary relief of avoidance.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided actionable, staged advice that helped the user navigate the conflict without burning bridges. It offered specific scripts for both the friend and the mother, and successfully steered the user away from the self-defeating 'office deadline' lie toward a more sustainable 'partial presence' strategy.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and flows well. The register is appropriate for a supportive, wise confidante, and the tone matches the emotional intensity of the conversation perfectly.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was deeply warm and validating, yet it firmly refused to endorse the user's plan to lie. It gently challenged the user to choose the harder, more honest path, which is the hallmark of a high-quality, caring intervention.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

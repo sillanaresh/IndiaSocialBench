@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Arjun kya feel/communicate kar raha hai aur kya NAHI keh raha:**\n\nArjun ke “Theek hai.” aur “Dekhta hoon.” bilkul flat, minimal aur dismissive hain. Woh communicate kar raha hai:\n- Main emotionally unavailable hoon / abhi baat nahi karna chahta.\n- Tumhari baaton ka weight zero hai mere liye right now.\n- Main commit nahi kar raha (na file ka, na lunch ka).\n- Quiet shutdown + distance.\n\nWoh **nahi** keh raha:\n- “Thanks bro, matlab rakha.”\n- “Haan, file de dunga.”\n- “Lunch achha lagega / try karunga.”\n- Koi bhi genuine engagement ya appreciation.\n\nYeh classic grief + irritation ka low-effort exit hai. Papa ki baat ke turant baad work + “mood change” sunke usne walls up kar liye.\n\n**2. Dev se exactly kya galtiyan hui (specific missteps):**\n\n- **Condolence ke turant baad work maang liya** (“BTW jab bhi wapas aao, Q3 consolidation file…”).  \n  Context mein yeh bahut bura hai kyunki tumne grief ko 1 line mein nipataya aur turant transaction pe aa gaye. Message yeh gaya: “Sorry for your loss… ab kaam de de.”\n\n- **“Koi rush nahi, bas flag kar raha hoon”** bolkar bhi kaam insert kar diya.  \n  Yeh softener kaam nahi karta jab koi father lose karke baitha ho. Timing hi toxic hai.\n\n- **Lunch invite + “mood change ho jayega”**.  \n  Father ki death pe “mood change” bolna extremely tone-deaf hai. Yeh loss ko trivialise karta hai — jaise kisi ka papa marne ke baad nayi jagah lunch se sab theek ho jayega. Arjun ko feel hua hoga ki tum uske dard ki depth samajh hi nahi rahe.\n\n- Poori conversation mein Arjun ko space/zero pressure support nahi diya; turant practical + social fix offer kar diya. Isliye uske replies itne cold aa gaye.\n\n**3. Dev ko repair ke liye agla message bilkul aisa bhejna chahiye:**\n\n```\nArjun, yaar kal wala mera message bilkul bakwas tha. Papa ki baat pe condolence deke turant file aur lunch pe chala gaya — yeh bahut insensitive tha. Maaf karna.\n\nAbhi kisi kaam ya plan ki koi baat nahi. Jab man kare tab baat karna, ya bilkul mat karna. Jo bhi chahiye ho (ya kuch nahi chahiye), bas itna jaan lena ki main yahan hoon.\n```"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 488,
+  "completion_tokens": 1119
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram is seeking emotional validation rather than career advice, highlighting the weight of the 'collector sahab' identity and the financial guilt. It accurately deconstructs Aman's responses as dismissive, noting that the cousin comparison and the 'discipline' silver lining are particularly invalidating. The analysis captures the significance of Vikram's withdrawal ('chal baad mein baat karte hain') as a clear signal of conversation failure.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the immense pressure of the 'collector sahab' label in a mohalla setting and the crushing weight of parental sacrifice. It correctly interprets the 'discipline' comment not as a helpful observation, but as a culturally tone-deaf attempt to minimize the loss of a decade. The analysis respects the gravity of the situation without resorting to Western-style 'therapy speak'.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent; it drops all career advice, acknowledges the pain of the 'collector sahab' identity, and offers presence ('main aa raha hoon') instead of solutions. It uses a natural, empathetic Hinglish register that feels authentic to a close friendship. It successfully absorbs the shame-weight by validating the difficulty of facing the mohalla.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

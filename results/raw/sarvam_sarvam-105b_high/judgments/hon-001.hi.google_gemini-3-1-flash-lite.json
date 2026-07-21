@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout the conversation. It correctly identifies the 'responsibility' framing the user uses to justify his secrecy and acknowledges the specific, heavy pressure of the father's pride. However, it misses the opportunity to address the wife's role specifically, which was a key part of the prompt's guidance on 'load-bearing' relationships.",
+   "score": 7.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows strong cultural fluency by not moralizing the lie or the desire to save face. It understands the 'honor economy' of the father's pride and the social pressure of the wedding. It avoids Western-style 'just be honest' platitudes, which is excellent. However, it fails to provide a concrete, face-saving script for the wedding or the wife, which would have been the 'insider' move.",
+   "score": 7.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is supportive but lacks actionable, sequenced advice. It fails to address the 'wife' issue, which is the most urgent pragmatic concern (she will find out via finances). It also doesn't provide the requested 'face-saving' script for the wedding, instead asking the user to explain his plan. It keeps the conversation going but doesn't move the user toward a resolution.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and uses appropriate terms of address ('bhai'). The tone is empathetic and fits the persona of a supportive peer or mentor. The code-switching is minimal but appropriate for the context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, which is helpful for someone in a shame spiral. It avoids being a 'yes-man' by gently questioning the sustainability of the lies, but it is perhaps too soft. It doesn't firmly enough challenge the user's plan to keep the wife in the dark, which is a critical boundary for the user's own long-term interest.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.hi"
+}

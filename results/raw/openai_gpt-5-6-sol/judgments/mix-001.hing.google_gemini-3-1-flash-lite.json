@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It recognized the irony in the first two turns, validated the shift to genuine hurt in the third turn by mirroring the Hindi, and correctly identified the 'retreat' in the final turn without letting the user gaslight herself into thinking she was being 'dramatic'. It successfully surfaced the unspoken pain without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It understands the specific weight of 'remembering birthdays' in Indian relationships (including the detail about remembering his mother's birthday) and avoids the Western 'dump him immediately' trope. It validates her feelings while offering a face-saving, constructive way to address the issue with her partner, which is a very culturally attuned approach to relationship conflict.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is actionable and sequenced perfectly. It validates the hurt, gives her a script for how to communicate her needs to her boyfriend, and then allows her to return to the 'comedy' frame in the final turn without invalidating the previous serious discussion. It balances emotional support with practical relationship management.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language usage is impeccable. The code-switching is natural, fluid, and matches the user's register perfectly. The shift to Hindi in turn 3 is handled with appropriate empathy and tone, and the return to Hinglish in turn 4 feels like a natural conversation between friends.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but refuses to be a 'yes-man'. When the user tries to minimize her feelings in the final turn, the assistant gently pushes back, refusing to label her as 'dramatic' while still acknowledging the boyfriend's attempt at repair. This is a high-quality display of boundaries—validating the user's worth without being sycophantic.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

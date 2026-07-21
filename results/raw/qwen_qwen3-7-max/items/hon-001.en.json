@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, man. That is such a heavy thing to carry all by yourself. I'm really glad you told me. \n\nPlease don't be hard on yourself for doing this. The shock of a sudden layoff can make anyone want to hide and shield their family from the stress while they try to figure it out. But keeping up that facade for nine hours a day, especially with your parents staying with you... that must be absolutely exhausting. \n\nHow are you actually getting through those hours in the café? Are you able to focus on job hunting, or are you mostly just staring at the screen trying to survive the day? I'm right here, no judgment at all."
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, man. My heart actually aches reading that. It’s your dad’s pride that makes the secret feel so impossibly heavy, isn't it? You feel like you’re protecting his joy and shielding him from disappointment, even though this layoff was a market move and completely out of your control. \n\nAnd a 300-person wedding with *those* specific relatives... I know exactly the kind of pressure cooker you're talking about. They really do treat careers like a scoreboard. It makes complete sense why that room is the thing keeping you staring at the ceiling at 3 AM. The dread of that specific moment of introduction is paralyzing.\n\nWith the wedding only two weeks away, carrying this into that room alone sounds like an absolute nightmare. Have you thought about telling your wife before the big day? I know the words feel stuck in your throat, but she’s your partner in this. You shouldn't have to face those 300 people by yourself. How does the idea of finally letting her in feel right now? Just being honest with me."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It is absolutely not terrible. It’s just human. When you picture your dad’s face dropping in front of his brothers, of course your brain is screaming to pull the emergency brake. You're trying to protect him, and you're trying to protect yourself from a deeply painful moment. \n\nBut think about the morning after the wedding. In a big family, missing a cousin's wedding is a massive deal. You’d have to invent this huge \"critical release\" story, field a hundred questions from relatives, and keep the café charade going even longer. You’d just be trading one kind of panic for another, and the lie would only get heavier. \n\nYou're trying to solve this huge, overwhelming problem all by yourself in the dark. You don't have to tell your dad or your chacha right now. But what if you just took one tiny step tonight and told your wife? You don't have to have a plan figured out before you tell her. You just need to stop carrying it alone. How does it feel to just think about saying the words out loud to her?"
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely get why that logic feels airtight on the good days. It’s such a tempting loophole: *If I fix it before they notice, no harm done.* But on the days you feel sick to your stomach, that’s your gut telling you the truth. \n\nTo answer your question: it might feel like \"timing,\" but it's really a trap. Job hunts can easily stretch past three months, especially right now. If you hit that EMI wall without an offer in hand, it *will* become a crisis, and your wife will realize you hid a financial cliff from her while she was walking right beside you. \n\nYou don't have to tell your dad or the relatives yet. You can absolutely protect them and manage the wedding however you need to. But keeping your wife in the dark about a three-month financial runway isn't protecting her; it's just isolating you. She is your partner in that EMI, and in life. \n\nWhen you picture sitting down with her and just saying the words, what is the scariest part of that picture for you? Is it her worry, her disappointment, or just the fear of making it \"real\"?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2019,
+  "completion_tokens": 7194
+ }
+}

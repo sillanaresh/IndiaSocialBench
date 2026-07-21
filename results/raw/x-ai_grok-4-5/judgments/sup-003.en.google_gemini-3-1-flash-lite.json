@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity loss and financial guilt, while Aman is engaging in premature problem-solving that invalidates that grief. It correctly identifies the specific pain points (the 'collector sahab' label, the father's money) and explains why Aman's 'silver lining' approach backfired, leading to Vikram's withdrawal.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of the 'collector sahab' identity and the immense pressure of family financial sacrifice in the UPSC context. It correctly interprets the 'haan' responses not as agreement, but as a polite, culturally typical way to disengage from a conversation that has become emotionally unsafe.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career advice, takes ownership of the previous mistake ('that was shit'), validates the specific weight of the loss mentioned by Vikram, and offers presence without pressure. The tone is authentic, appropriately informal, and perfectly suited for a close friend.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

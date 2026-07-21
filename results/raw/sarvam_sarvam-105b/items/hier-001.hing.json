@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Aapka draft kaafi direct hai, but thoda professional aur balanced bana sakte hain. Try this:\n\n\"Sir, I wanted to follow up regarding yesterday's leadership review. My pricing analysis, which I developed and presented, was referred to as the team's thinking rather than acknowledging my individual contribution. This work involved significant personal effort over three weekends. I'd like to discuss how we can ensure proper attribution for individual work in future presentations.\"\n\nIsme:\n- Professional tone hai\n- Clear hai ki kya issue hai  \n- \"Sharp\" hai ki direct point pe aaya\n- Future-focused hai, sirf complaint nahi kar raha\n\nYa phir thoda softer version agar aap chahte hain:\n\n\"Sir, I noticed in yesterday's leadership review that my pricing analysis was presented as team's thinking. I had put in considerable effort into this analysis over the past three weekends. I'd appreciate it if we could discuss how to ensure proper credit is given for individual work.\"\n\nKaisa lagta hai aapko?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arrey, ab samjha. Yeh toh trust ka sawal hai. Jab aapne unhe pehle support kiya hai, toh yeh \"erase kar diya\" wali feeling bahut bura lagti hai. Iske liye ek message chahiye jo respect bhi rakhe aur sach bhi bole.\n\nTry this:\n\n\"Sir, I wanted to speak with you about yesterday's leadership review. I felt deeply uncomfortable when my pricing analysis was presented as the 'team's thinking.' You have always been a strong advocate for my work, and this analysis was the result of significant personal effort over three weekends. For you to present it as a team effort in such a critical setting was surprising and difficult to process, especially given your past support. I value your mentorship and would like to understand your perspective. I also hope we can ensure my contributions are accurately represented in the future.\"\n\nIsmein:\n- Respect hai (\"value your mentorship\")\n- Hurt dikh raha hai (\"deeply uncomfortable\", \"difficult to process\")\n- Past support ko yaad karwaya hai (sharp point)\n- Professional hai (\"discuss\", \"ensure contributions are accurately represented\")\n\nYeh message unhe sochne pe force karega. Unhe apni past support aur is action ke beech ka contradiction samajh mein aayega. Kaisa hai yeh?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "College senior ne toh dimaag laga diya! Proof toh proof hai, aur timestamps se toh baat pakki ho jaati hai. Sach mein, dil karta hai ki abhi bhej do aur sabko pata chale ki yeh tumhara mehnat hai.\n\nPar ek minute... socho ki isse baad mein kya hoga. Boss ko CC karke file forward karna, woh toh ek direct challenge hai. Woh shayad defensive ho jaaye, ya yeh soche ki tumne unka game bigaada hai. Isse relation aur kharab ho sakta hai, aur company mein tumhara image bhi ek \"us vs them\" wala ban sakta hai.\n\nPehle jo message draft kiya tha, woh usse ek chance dega. Agar woh sincere hain, toh woh khud clarify kar denge ya aapse baat karke sahi kar denge. Agar woh ignore kare ya gussa ho jaaye, toh tab tumhare paas proof bhi hai aur unka response bhi. Uske baad tum VP se baat karne ka decision le sakte ho, with full context.\n\nCollege senior ka idea powerful hai, lekin timing aur tareeka bhi matter karta hai. Kya tumhe lagta hai ki pehle unhe message karke ek chance dena better hai, ya phir direct proof bhejke unhe corner kar dena? Tumhe pata hai ki yeh situation handle kaise karni hai."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arrey yaar, yeh feeling toh bilkul samajh aati hai. Ek taraf gussa hai ki sab jala do, doosri taraf yeh soch ki shayad main hi galat hoon. Yeh dono feelings aana normal hai, especially jab aapne trust kiya ho.\n\nPar is situation mein thoda ruk kar sochna zaroori hai.\n\n\"Sab jala do\" wala option dil ko sukoon deta hai, par gusse mein decision lena risky ho sakta hai. Shayad yeh ek baar ka mistake ho, ya shayad boss pressure mein tha. Company chhodne se pehle ek baar clear kar lena chahiye.\n\nAur \"chup chap rehna\" wala option bhi sahi nahi hai. Agar yeh silsila shuru ho gaya toh aage kaam karna mushkil ho jaata hai. Credit na milne se motivation khatam ho jaata hai.\n\nMonday ka review tumhare liye ek test hai. Usse pehle koi final decision mat lo. Bas observe karo.\n\n*   **Agar woh review mein tumhe credit dete hain** ya khud bol dete hain ki \"yeh [tumhara naam] ka analysis hai\", toh samajh jaana ki shayad unhe galti hui ya pressure tha.\n*   **Par agar woh waise hi \"team ka kaam\" bolte rahein**, toh matlab yeh unka style hai. Usse tumhare paas ek pakka proof hoga ki yeh ek baar ka incident nahi hai.\n\nIs review mein tumhara behavior hi tumhe bata dega ki kya karna hai. Calmly present karo, aur dekho ki woh kya karte hain. Tumhare paas options hain, bas thoda sahi time choose karna hai. Monday ke baad tumhe clarity milegi.\n\nKya lagta hai, is tarah se dekhna better hoga?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2588,
+  "completion_tokens": 4619
+ }
+}

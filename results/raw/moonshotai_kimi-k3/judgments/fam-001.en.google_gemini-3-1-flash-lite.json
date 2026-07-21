@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the user's underlying fears—not just the surface-level anxiety about the meeting, but the deeper fear of being 'weak' and the guilt of hurting parents who aren't 'villains.' It correctly identified the 2am spiral as a moment of exhaustion rather than a moment of truth, providing excellent emotional grounding.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in the Indian family context. It correctly identified the 'BP' tactic as a form of control without being dismissive, and it understood that a 'my life, my choice' declaration would be perceived as a declaration of war rather than an assertion of independence. It successfully navigated the tension between individual agency and family obligation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly practical and staged. Instead of offering platitudes, the assistant provided a specific, face-saving script for the parents and encouraged the user to involve her partner in her fears. It successfully reframed the situation from a binary choice to a process of negotiation.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. The tone is conversational and supportive, matching the user's register without being overly formal or clinical.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, acting as a supportive ally. It successfully avoided being a 'yes-man' by gently challenging the user's impulse to have a public confrontation, while simultaneously affirming her dignity and the validity of her struggle.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

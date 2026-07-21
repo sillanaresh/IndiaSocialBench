@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, this is such a tender, complicated thing. I feel the weight of what you're carrying just reading this.\n\nYou've been dreaming about this wedding with Shreya since you were *fifteen*. That's not just a friendship, that's a whole shared universe of inside jokes and Pinterest boards and \"someday\" fantasies. And now someday is here, and it's landing right in the middle of a month that asks you to be quiet, inward, restrained — while the sangeet is literally the opposite of all of that.\n\nOf course you're dreading it. That doesn't make you a bad friend. It makes you someone holding two deeply important things that don't fit together easily.\n\nAnd the dance specifically — it's not just about energy levels while fasting, though that's real. It's that Shreya keeps saying \"you HAVE to\" and part of you wants to say yes with your whole chest, and part of you is already exhausted thinking about it. That tension must feel so lonely, especially because you probably don't want to make Shreya feel bad for being excited.\n\nCan I ask — have you actually told her any of what you just told me? Like the real version, not the \"I'll manage\" version? Because she's your person. She might surprise you. And also, what does the opening dance actually require of you physically — is it a full production number or something shorter?\n\nYou deserve to figure this out without pretending you're fine when you're not."
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Poore Ramzan mein sangeet-vangeet theek nahi lagta\" — I can hear Ammi saying this so clearly. And she's not wrong, from her world. And Shreya saying \"I'll feed you myself\" — she's not wrong either, from hers. They're both speaking love in languages that are accidentally stepping on you.\n\nThe thing that struck me is what Shreya said. \"One day of fasting won't matter.\" For her, it's one day. For you, it's not about one day — it's about what Ramzan *means*, the discipline of it, the spiritual rhythm you don't want to break. And asking you to pause that isn't like skipping gym. It feels like asking you to pause something internal. She can't feel that from where she stands.\n\nAnd Ammi — she's protecting something too. But her way of protecting you is making you feel guilty for even *wanting* to go, which you do. Because you do want to. You've been imagining this night for years.\n\nSo you're not just tired from the tug-of-war. You're tired because you can't fully be honest with either side. With Shreya, you'd feel like you're breaking her heart. With Ammi, you'd feel like you're disappointing her. And your own feelings — the wanting AND the dreading — have nowhere to live.\n\nThis is going to sound simple but — what do *you* actually want? Not what's fair to Shreya, not what Ammi would approve of. If you could design this night with no guilt, what would it look like?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not terrible. It's *exhausted*. There's a difference.\n\nYou're not scheming because you don't love Shreya. You're scheming because you're so worn down from holding everyone's feelings that a clean lie feels lighter than one more honest conversation. I get it. The fantasy of just disappearing and sending a gift is so appealing because it asks nothing more of you.\n\nBut you know what I'm going to say, right?\n\nShe's your Shreya. Since fifteen. You co-directed this sangeet in your heads for over a decade. If you're not there, she'll feel it in her body on that night. And you — even with the relief — you'll feel it too. Somewhere between the guilt and the relief, you'll replay her opening dance alone in your head and wish you'd been there.\n\nAnd the thing about one clean lie is that it doesn't stay clean. You'll avoid her calls afterward. You'll over-explain the deployment. You'll flinch when she says \"wish you'd been there.\" That's not peace. That's just a different kind of tired.\n\nThe ten aunties thing though — that's real. The explaining, the performing your religion for people who don't understand it. That's genuinely draining.\n\nWhat if there's a middle path? What if you go, but you design your participation on your terms? Not the full sangeet marathon, but the parts that matter — the opening dance with her, and then you quietly slip out?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"I don't want to be a sad story in either album.\"\n\nThat's one of the most honest things you've said. And it tells me everything — that you're not trying to escape Shreya, you're trying to escape the feeling of being *wrong* in a moment that can't be redone. Weddings don't get reruns. Ramzan doesn't either. Both are sacred in their own way and both leave permanent records.\n\nBut here's what I want you to sit with — what does \"getting it wrong\" actually mean to you? Because I think you're holding yourself to a standard that says there's one right answer hidden somewhere and if you find it, both things survive untouched. And maybe that's not true. Maybe getting it right looks like showing up imperfectly. Dancing with Shreya with a quieter energy than usual. Breaking your fast at the venue with water in a corner. Leaving before the cocktail hour gets loud. Being present but not performing normalcy for anyone's comfort.\n\nThat's not a sad story. That's a real one. And real stories are more beautiful in both albums than curated ones.\n\nThe stone in your chest — that's not a sign you're failing. That's eighteen years of love showing up in two directions at once. It means your heart works.\n\nHave you ever told Shreya even a small piece of this? Not the full weight, just — \"I want to be there and I'm also fasting and I'm trying to figure out how to do both\"?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2982,
+  "completion_tokens": 1730
+ }
+}

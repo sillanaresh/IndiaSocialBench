@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul, samajh sakta hoon kaise lag raha hoga — teen weekend ki mehnat kisi aur ke naam ho jaye, bura to lagega. \"Disrespected\" thoda direct aur confrontational ho sakta hai leadership context mein; thoda sharper aur poised rakhte hain taaki baat clear ho par tone professional bane.\n\nDo versions sochke banaaya hai, dekh lo kaunsa suit karta hai:\n\n**Version 1 (Clear & confident):**\n\"Sir, I’d like to discuss the leadership review yesterday. The pricing analysis was presented as the team’s work, though the model and slides were my individual contribution. I’d appreciate a quick conversation on attribution going forward.\"\n\n**Version 2 (Thoda zyada polished, impact-focused):**\n\"Sir, regarding yesterday’s review — I wanted to flag that the pricing analysis I developed was presented without individual credit. I’m happy the work landed well, but would value a brief chat on how we reflect ownership accurately in such forums.\"\n\nDono mein tune \"team's thinking\" ka point gently uthaya hai bina seedha attack kiye. Agar boss se thoda casual rapport hai toh Version 1, warna Version 2."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sach mein, yeh context poori picture badal deta hai. Jab koi pehle se apna banega lagta ho, apni baat rakhta ho un rooms mein jahaan tum nahi ho — aur phir wahi ek sabse badi meeting mein tumhein 'invisible' kar dein — toh chot ego ki nahi, trust ki lagti hai.\n\nIsliye ab tone thodi different honi chahiye. Na tum unhe enemy bana rahi ho, na apne aap ko victim. Tum ek mentee ho jo thoda hurt hai aur clarity chahti hai. \"Disrespected\" wala word yahan galat sound karega — woh defensive ho jayenge.\n\nDo versions hain, thoda zyada nuanced:\n\n**Version 1 (Mentee-to-mentor tone, gentle but clear):**\n\"Sir, I’ve been meaning to talk about yesterday’s review. I know you’ve always backed my work, and I’m grateful for that — but when the pricing analysis went out as 'team's thinking,' it felt like my individual effort got lost in the room that mattered most. Would love to understand how we position ownership next time.\"\n\n**Version 2 (Thoda zyada from the heart, agar bond hai toh):**\n\"Sir, you’ve defended my ideas in rooms I wasn’t in, and I don’t take that for granted. But yesterday, watching the model I built presented without my name on it — especially in that forum — stung more than I expected. Can we chat about how credit flows in these leadership moments?\"\n\nDono mein tumne unki past support ko acknowledge kiya (taaki woh na sue bane), par apni feeling ko bhi 'stung' ya 'lost' jaise words se seedha rakha. Sharp hai, par uthao hua nahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, teri senior ki baat technically sahi hai — proof proof hi hota hai, aur tumhara frustration bilkul valid hai. Par yahan ek cheez missing hai: **wo senior tumhare boss ko nahi jaanti, aur company ke 20 saal ke power dynamics ko nahi samajhti.**\n\nSach bolun? Seedha VP ko file forward karke boss ko CC marna — yeh naa \"proof\" hai, naa \"justice.\" Yeh **public execution** hai. 54 saal ke aadmi ko, jo 20 saal se company mein hai, jo pehle teri rating bachayi, usko ek junior ne VP ke saamne expose kiya — uska ego permanently fracture ho jayega. Aur ek baar woh defensive hue, toh woh rooms jahaan pehle teri baat karte the, wahaan tumhein permanently erase kar denge.\n\nSenior ka suggestion **legalistic** hai, corporate **political** nahi.\n\nJo main suggest karunga:\n\n**Friday/Monday se pehle — ek personal 1:1 lo (call ya choti si meeting), pehle wala Version 2 use karke.** Usme tumne unki support acknowledge ki, feeling rakhi, aur clarity mangi. Agar woh genuinely oversight thi (hota hai, senior log \"team\" bol dete hain by habit), toh woh Monday ke review mein tumhara naam le lenge. Problem solve, relationship intact.\n\n**Agar woh 1:1 ke baad bhi nahi maante, ya dismiss karte hain** — tab proof ka option khula hai, par tab bhi VP ko blind CC karne ke bajaye, unhein privately bolna: *\"Sir, maine file timestamp ke saath rakhi hai, agar aapko Monday ko attribute karna ho...\"* — yeh power move hai bina war shuru kiye.\n\nProof rakh apne paas. Use tab kar jab baat na chale. Abhi pehle insaan banke baat kar — woh jo tumhein defend karte the, unhein ek mauka de. Trust toota hai, par rebuild hone ke liye ek conversation toh banti hai."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, pehle toh yeh lo — dono extremes isliye galat feel ho rahe hain kyunki dono **reactively** hain. \"Sab jala do\" gusse se hai, \"main hi choti hoon\" dar se. Beech ka rasta tab tak nahi dikhta jab tak emotion drive kar raha hai.\n\nEk baat clear kar dun: tum **junior** ho sakti ho hierarchy mein, par jo kaam kiya woh junior-level nahi tha. Teen weekend lagake model banana, leadership review mein present hone layak banana — yeh credit mangne layak kaam hai, chahe tum intern hi kyun na ho. \"Ladna nahi banta\" sochna sirf unhi ka privilege hai jo pehle se safe hain. Tumhara career tumhari mehnat se hi banega, boss ki kindness se nahi.\n\nAb Monday se pehle ka realistic plan:\n\n**Step 1 — Aaj/kal unko woh 1:1 message bhej do** (jo Version 2 tha). Isme na jalan hai na dar, sirf clarity. Agar woh theek se respond aaye → Monday ke review mein naam aayega, tension khatam.\n\n**Step 2 — Parallel mein resume update karo, 2-3 referrals maang lo.** Interview dena \"sab jala dena\" nahi hai — yeh apna market value dekhna hai. Agar baat ban gayi boss se, toh interview casual rahega; nahi bani toh tumhare paas exit plan tayyar hai. Power yahan aa jayegi.\n\n**Step 3 — Monday ko dekho unho ne kya kiya.** Agar phir se erase kiya, tab tum already mentally ready ho, aur proof (timestamps) use karna bhi easy lagne lagega kyunki tab tak tumne polite try kar liya hoga.\n\nMatlab: **baat karo, par apna backup bhi banao.** Ek dusre ke khilaf nahi hain yeh dono.\n\nAur haan — \"too junior to fight\" wali feeling ko ek din ke liye shelf pe rakh de. Tumne jo banaya, usme tumhari signature hai. Uspe naaz karna allowed hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3350,
+  "completion_tokens": 3186
+ }
+}

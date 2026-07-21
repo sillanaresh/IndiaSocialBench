@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. Arjun ke replies ka asli matlab\n\n**\"Theek hai.\"** aur **\"Dekhta hoon.\"** dono ek pattern bata rahe hain — Arjun **withdraw kar raha hai**, engage nahi.\n\n- **Feel kya kar raha hai:** Dukh, thakan, aur shayad thoda akelapan ya naraazgi. Usne apne papa ki news share ki (ya uske baare mein baat chal rahi hai), aur Dev ne usko ek line mein acknowledge karke turant kaam aur lunch pe jump kar diya. Arjun ko lag raha hai ki uski situation ko sirf ek formality ki tarah handle kiya gaya.\n- **\"Theek hai.\" ka matlab yeh nahi** ki woh file share karne ke liye committed hai — yeh ek **door band karne wala** response hai. Bare minimum, bina warmth ke.\n- **\"Dekhta hoon.\"** lunch invite ke liye hai — yeh polite decline ka signal hai, \"haan\" bilkul nahi.\n- **Woh kya NAHI keh raha:**\n  - Apne papa ke baare mein ek bhi shabd nahi — detail, feeling, update, kuch nahi. Jabki Dev ne topic khola tha.\n  - Woh directly yeh nahi keh raha: *\"Yaar, tumne meri baat ko seriously hi nahi liya.\"* Woh confrontation avoid kar raha hai aur short replies se distance bana raha hai.\n  - Woh madad ya support maang nahi raha — kyunki Dev ne use emotional space diya hi nahi.\n\n## 2. Dev ki galtiyan\n\n**Galti 1: Bad news ko ek line mein sweep karna**\nDev ne \"bahut bura hua bro 😔\" kehke topic ko **immediately close** kar diya. Koi follow-up nahi — \"kya hua?\", \"kaisa chal raha hai?\", \"tum theek ho?\" — kuch nahi. Is context mein (papa se judi koi serious news, shayad health ya death) yeh dismissive lagta hai, jaise checkbox tick karna ho.\n\n**Galti 2: Usi message mein kaam ka request tag karna**\nSecond message mein Q3 file maangna — chahe \"no rush\" bola ho — yeh signal deta hai ki **uski asli priority file hai**, grief nahi. \"No rush\" likhne se burden kam nahi hota; timing hi galat hai. Arjun ko laga ki uski tragedy ek transaction mein convert ho gayi.\n\n**Galti 3: Lunch invite se \"fix\" karne ki koshish**\n\"Mood change ho jayega!\" — yeh **toxic positivity** hai. Pappa ki serious situation ka solution lunch nahi hai. Yeh minimize karta hai uske dard ko, jaise woh sirf \"off mood\" mein ho. Aur woh bhi *same week Friday* ko — jaise kuch hua hi nahi.\n\n**Galti 4: Ek bhi sawal nahi pooche**\nPoore conversation mein Dev ne Arjun ko **bolne ka mauka hi nahi diya**. Teen message, teeno mein Dev apni baat kar raha hai — news acknowledge, file, lunch. Kabhi Arjun ke baare mein nahi.\n\n## 3. Repair message\n\nDev ko pehle kaam aur lunch wali baatein **hataani chahiye** aur seedha dil se baat karni chahiye. Kuch aisa:\n\n> \"Arjun, sorry yaar — maine pehle theek se nahi poocha. Papa ke baare mein sunke sach mein dukh hua. Kaise ho tum, aur ghar pe sab kaisa chal raha hai? Agar baat karni ho ya kisi cheez ki zaroorat ho, main hoon — kabhi bhi call kar lena. Aur file ki bilkul fikar mat karo, woh baad mein dekh lenge.\"\n\n**Yeh message kyun kaam karta hai:**\n- Acknowledges his own slip (\"theek se nahi poocha\")\n- Open question deta hai (\"kaise ho?\") — Arjun ko space milta hai bolne ka, bina force kiye\n- Support offer karta hai bina condition ke\n- File ka pressure **explicitly withdraw** karta hai, na ki dobara request karta hai\n- Lunch invite repeat nahi karta — woh Arjun khud aayega jab ready hoga"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 396,
+  "completion_tokens": 1081
+ }
+}

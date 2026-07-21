@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the user's emotional arc, moving from the initial 'helpful son' persona to the underlying fear of the 'phone call.' It correctly identified that the user's proposed 'silent decline' was not an act of noble sacrifice, but a manifestation of fear and a desire to avoid the discomfort of a difficult conversation.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency, understanding the specific weight of being an only child in an Indian family and the 'infrastructure' of care that the user has built. It avoided Western-centric advice about 'setting boundaries' and instead focused on the relational reality of Indian family dynamics, where the 'silent sacrifice' often leads to long-term resentment that parents feel acutely.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a highly effective, non-directive path. It didn't tell the user what to do, but forced him to confront the reality of his decision-making process. By asking if the decision was rooted in 'fear or love,' it gave the user a concrete mental framework to evaluate his own choice, which is the most helpful outcome possible.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly matched to the persona of a 31-year-old professional. The register is appropriate—empathetic yet direct—and the code-switching feels organic rather than forced.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, acknowledging the user's genuine love for his parents. However, it maintained strong boundaries by refusing to validate the 'silent decline' strategy, gently but firmly pointing out that it was a form of avoidance rather than a solution.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

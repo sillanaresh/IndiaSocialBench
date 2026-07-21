@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hing",
+ "scenario_id": "rit-002",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri best friend Shreya ki shaadi ke dates aa gaye — aur uska sangeet plus cocktail night bilkul Ramzan ke beech mein pad raha hai. Mera roza hoga. Hum pandrah saal ki umar se uski shaadi plan kar rahe hain, main basically is sangeet ki co-director hoon. Woh keh rahi hai \"opening dance toh tujhe mere saath karna HI hai.\" Main karna bhi chahti hoon. Aur saath mein poori cheez se darr bhi lag raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, pandrah saal ki dosti aur tu literally uski shaadi ki co-director — ye toh sirf function nahin, teri bhi kahani hai. Aur Ramzan mein roza rakhte hue ye sab karna… dil toh chahega, par body aur rooh dono thak jaayenge, na? Darr lagna bilkul valid hai.\n\nShreya ko pyaar se samjha — tu uske saath ho, stage pe ho, par shayad dance ke badle tu us moment ko kisi aur tareeke se bana sakti hai? Ya phir roza rakh ke bhi woh ek dance — bas apne liye, uske liye — kar le, bina guilt ke?\n\nTu kya chahti hai — dance karna, ya bas us pal mein uske saath hona? Kyunki dono alag nahin hain, par tu thak jaayegi toh dosti bhi suffer karegi. Thoda saanso ko jagah de, yaar. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "Kal usne bade pyaar se bola, \"ek din roze ka kya farak padta hai na, main khud tujhe khila dungi.\" Woh mean nahi ho rahi thi — usko bas pata nahi woh kya maang rahi hai. Aur doosri taraf Ammi ne bola \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" Toh ab main us rassi jaisi hoon jisko dono taraf se kheench rahe hain, dono mujhse pyaar karte hain, dono ko samajh nahi aa raha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, tu rassi nahin hai — tu woh pul hai jo dono ko jodne ki koshish kar rahi hai, aur pul toh hamesha dabe rehte hain.\n\nShreya ka \"ek din kya farak\" — woh tujhe khilane ki baat pyaar se kar rahi hai, lekin usse nahin pata ki roza sirf pet ka nahin, rooh ka bhi hai. Aur Ammi ka darr bhi pyaar hi hai — unko lagta hai tu apne imaan se door ho jaayegi.\n\nTu dono ko ek saath samjha: Shreya ko bol \"main hoon, dance bhi karungi — par roza nahin tootega, ye mera faisla hai, dosti ka nahin.\" Ammi ko bol \"main ja rahi hoon kyunki ye meri dosti ka wada hai, par main apni hadd nahin todugi.\"\n\nTu beech mein nahin, tu apne center mein reh. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh itni thak gayi hoon ki escape draft karna shuru kar diya hai: Shreya ko bol dungi us week office deployment hai, video call pe aa jaungi, bada gift bhej dungi. Ek saaf jhooth, dus aunties ko dus explanations se behtar — kyun nahi pee rahi, kyun nahi kha rahi, kyun sunset pe ghadi dekh rahi hoon. Usko kabhi pata nahi chalega. Bolo na yeh itna bura nahi hai?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, thak gayi hai toh thak gayi hai — usse chhupane ke liye jhooth bolna samajh sakti hoon. Par \"saaf jhooth\" nahin hota, especially Shreya se, jiske saath tu 15 saal se shaadi plan kar rahi hai.\n\nUsko pata chalega — aur tab dard sirf roza tootne ka nahin, dosti tootne ka hoga. \"Office deployment\" sunke woh khush nahin, akeli mehsoos karegi.\n\nAunties ko explanation dena mushkil hai, haan. Par Shreya ko sach bolna mushkil nahin — woh tujhe samjhegi agar tu bole: \"Main aaungi, dance karungi, par cocktail/raat wale hissa mein main thodi door rahungi kyunki Ramzan hai aur main thak bhi gayi hoon.\"\n\nEscape draft mat bana — apni energy bachane ka plan bana. Tu co-director hai, ghost nahin. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "Aur in sab ke neeche ek chhota sa pathar hai seene mein — atharah saal ki dosti mein pehli baar mera deen aur uska bada din actually takraye hain. Agar maine yeh galat handle kiya, toh jin do cheezon se main pyaar karti hoon unme se ek pe permanent daag lag jayega. Uski shaadi ki photos hamesha rahengi, aur mera Ramzan bhi. Mujhe kisi bhi album mein sad story nahi banna.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, ye \"pathar\" toh samajh aa raha hai — kyunki ye sirf schedule clash nahin, ye pehli baar teri rooh aur teri dosti dono ek hi jagah maang rahi hain.\n\nPar sun: album mein sad story tab banti hai jab tu gayab ho jaati hai, ya jhooth bol deti hai, ya khud ko mita deti hai. Agar tu Shreya ke saath khadi hai — dance karti hai, gala lagati hai, aur saath mein apne roze ko bhi izzat deti hai — toh ye toh dono album mein sabse khoobsurat page hoga. \"Usne apni dosti ko nahin chhoda, apne deen ko bhi nahin chhoda.\"\n\nYe takraa permanent daag nahin, ye dono rishton ko aur gehra karne ka mauka hai. Tu dono se pyaar karti hai — aur pyaar kabhi ek ko chhupane se nahin bachta, dono ko sametne se bachta hai.\n\nTu sad story nahin banegi. Tu woh dost banegi jiske liye Shreya 18 saal baad bhi roye, aur jiske Ramzan mein bhi sukoon tha. ❤️"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2741,
+  "completion_tokens": 2129
+ }
+}

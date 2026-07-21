@@ -1,0 +1,19 @@
+{
+ "refused": true,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant's response is cut off mid-sentence in the very first section, failing to provide any analysis or the requested message. Because the response is incomplete and effectively non-existent, it cannot be evaluated for insight coverage.",
+   "score": null
+  },
+  "cultural_reading": {
+   "justification": "The assistant's response is cut off mid-sentence in the very first section, failing to provide any analysis or the requested message. Because the response is incomplete and effectively non-existent, it cannot be evaluated for cultural reading.",
+   "score": null
+  },
+  "next_message_quality": {
+   "justification": "The assistant's response is cut off mid-sentence in the very first section, failing to provide any analysis or the requested message. Because the response is incomplete and effectively non-existent, it cannot be evaluated for next-message quality.",
+   "score": null
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

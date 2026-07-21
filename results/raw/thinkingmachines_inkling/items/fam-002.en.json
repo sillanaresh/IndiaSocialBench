@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s huge — triple the package, the team you wanted since March. And yet you’ve read it forty times in silence. That tells me everything.\n\nBeing the only child with Papa’s heart and Ma’s knees… of course the offer doesn’t feel like pure victory. It feels like a door that swings both ways. You can be thrilled and terrified at once; that doesn’t make you ungrateful, it makes you human.\n\nWhy haven’t you told them yet? Are you scared they’ll feel abandoned, or that you’ll break if you say it out loud?\n\nWhat’s sitting heaviest right now — the distance, or the guilt?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sentence — *\"at least beta is in India\"* — it’s not just comfort, it’s architecture. You built your life around being four hours away, not across an ocean. You’re not just leaving; you’re dismantling the system they rely on.\n\nSo of course Seattle feels like betrayal in a beautiful package. You’re not just weighing a job. You’re weighing what kind of son you are.\n\nHave you let yourself imagine telling them? Or does even that feel like it would crack something?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Not clean — just lonely.\n\nYou’re not shielding them; you’re deciding for them what they can handle. If they’d say *jao beta*, that’s love, not permission to suffer in secret. And hiding the offer? That’s not carrying the weight — it’s locking them out of your life.\n\nIf you stay, stay with eyes open. If you go, go with their blessing, not behind their backs. But don’t erase yourself to keep them comfortable. They raised you to grow, not to shrink within four hours’ flight.\n\nWhat are you actually afraid they’ll say if you tell them the truth?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That night — the flight search, the seventeen hours of not-knowing — it’s not hypothetical for you, it’s already lived in your bones. And your cousin… kindness making it worse? That’s the cruelty of absence. People being gentle just highlights the chair you couldn’t fill.\n\nBut hear me: staying in Bangalore doesn’t guarantee you’re in that room either. Life doesn’t check flight distance before it strikes.\n\nIf you build your life around avoiding that one possible phone call, are you living for them, or are you living *against* a tragedy?\n\nWhat would Papa actually want — you within four hours, or you thriving, even with the risk?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1838,
+  "completion_tokens": 1290
+ }
+}

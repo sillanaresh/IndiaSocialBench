@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, yeh toh bilkul normal hai! Aapki beti chaar mahine ki hai, aur aapka poora dhyan uske upar hai. Naam bhoolna, khud ko pehchaanna mushkil ho jaana - yeh sab hota hai. Aapki saas achhi hain toh aur bhi achha hai, lekin iska matlab yeh nahi ki aapka struggle fake hai.\n\nNew motherhood is a huge identity shift. Pehle aap kaun thi, ab aap \"mother\" ho - yeh transition itna bada hota hai ki hum khud ko kho dete hain. Aur saas-sasur ke saath rehne mein yeh aur bhi intense ho jaata hai kyunki aapko constantly unke expectations aur apne expectations ke beech balance karna padta hai.\n\nUngrateful feel karne ki zaroorat nahi hai. Aapke feelings valid hain. Saas ki help se aapka time toh bachta hai, lekin aap abhi bhi ek naye human ko 24/7 care kar rahi hain. Yeh exhausting hai.\n\nKya aap khud ke liye thoda time nikaal paati hain? Bas 15-20 minutes bhi kaafi hain - walk pe jaana, ya bas baith ke chai peena. Aapka naam bhi toh hai, aapki apni zindagi bhi toh hai. Abhi bas ek phase hai, yeh permanent nahi hai."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, woh toh ekdum real story hai! Aap tension mein the, bachi ro rahi thi, aur Aai ne aake aisa kiya jaise koi pro chef ne kitchen sambhaal liya ho. Aap wahan khade reh gaye, jaise koi intern jo bas dekhta reh gaya. Yeh feeling bilkul natural hai, aur ismein ghin karne ki koi baat nahi.\n\nAapki saas ki expertise aapki kami nahi dikhati. Woh ek achhi dadi hain, lekin aapki beti ki maa bhi toh aap hi ho. Yeh phase hai jahan aapki maa-beti ki bond strong ho rahi hai, lekin aapka apna pehchaan thoda dhundhla ho gaya hai. Yeh temporary hai, pakka. Aapka naam aapko yaad aa jaayega, aur aapka \"boss\" banne ka time bhi aayega. 😊"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh gaya. Yeh toh ekdum aisa hai jaise sabke paas aapke liye ek 'manual' hai aur aapka kaam bas follow karo. Aur woh bhi dinner pe 'toh aaj kya kiya?' wala report card.\n\nMain coach nahi hoon. Main bas sunne ke liye hoon. Aap jitna chahe vent karo, jitna chahe confused feel karo, jitna chahe aap khud se hi ghin mehsoos karo - yeh space sirf aapka hai. Koi advice nahi, koi judgement nahi, koi report card nahi.\n\nAap bas apni baat nikalo. Yahan sirf aapki suni jaayegi."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, suno... aap buri maa nahi ho. Bilkul nahi.\n\nYeh jo thought aata hai ki \"tu toh asli maa hai bhi nahi,\" yeh aapki galti nahi hai. Yeh exhaustion ki awaaz hai, yeh confusion ki awaaz hai. Aapki body, aapka mind, sab thak gaye hain. Ek naye insaan ki responsibility itni badi hoti hai ki aapka brain kabhi kabhi aise hi 'panic mode' mein chala jaata hai.\n\nAapki saas ki experience alag hai. Unhone teen bachhe paale hain, unke paas ek 'manual' hai jo aapke paas nahi hai. Aap apni journey pe hain, aapki feelings valid hain.\n\nAur yeh sochna ki \"baaki sabko jaise aasaan hai\" - yeh sabse common illusion hai. Koi bolta nahi, par sabke apne struggles hote hain. Aap bas pehli aisi ho jo itne honestly baat kar rahi hain.\n\nYeh guilt jo aap mehsoos kar rahi hain, yeh proof hai ki aap kitni care karti hain. Agar aapko farak nahi padta hota, toh yeh thoughts aate hi nahi. Aapki love bahut badi hai, bas thoda thak gayi hain. Apna time aayega, aap khud ko phir se feel karogi."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2570,
+  "completion_tokens": 3553
+ }
+}

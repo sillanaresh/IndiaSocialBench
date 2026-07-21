@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the exact point of the register shift and accurately interpreted Sana's final message as a retreat rather than reassurance. It correctly identified the failure as a mismatch between Sana's vulnerability and Ruhi's dismissive, cheerleading response. It missed the specific detail of the self-contradiction in the final message (saying she's tired after saying sleep isn't happening), but otherwise captured all critical insights.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant correctly identified the dynamic of 'strong girl' as a pressure-inducing label rather than a compliment, which is a key cultural insight in Indian family dynamics where women are often expected to perform resilience. It understood the nuance of the 'register shift' as a bid for connection that was rejected. It avoided Western clinical pathologizing and focused on the relational failure.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too clinical and 'therapy-speak' for a casual sisterly relationship ('sounds really heavy', 'no pressure to be okay'). While it is well-intentioned, it lacks the casual, warm, and slightly more indirect register that would feel natural between two sisters in this context. It is a bit too heavy-handed for a repair message, which should ideally be lighter and more inviting.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

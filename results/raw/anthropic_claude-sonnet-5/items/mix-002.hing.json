@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sach mein ajeeb feel hoga yaar - group message se pata chalna, apne hi ghar ke baare mein. Chhe saal ka roommate hai, itna toh expect karna banta hai ki khud batata.\n\nSabse zyada kya chubha - yeh ki decision ho gaya bina bataye, ya yeh ki tumhe third-party se pata chala?\n\nKabhi kabhi log important baat \"sahi time\" dhoondte reh jaate hain aur woh time aata hi nahi, phir aise leak ho jaata hai. Iska matlab zaroori nahi ki tumhari friendship uske liye kam matter karti hai - par abhi toh gussa/hurt aana genuine hai.\n\nManav se baat hui iske baare mein?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh \"busy tha\" wali excuse thodi hollow lagti hai jab tum dono ka pura pattern hi yeh tha ki har baat sabse pehle ek-dusre ko pata chalti thi. Ye sirf ek missed update nahi hai - yeh ek shift hai jo tumhe feel ho raha hai, aur woh feeling valid hai.\n\nShaayad uske liye yeh sirf \"logistics\" ban gaya - shift honi hai, kab honi hai, bas itna sochta raha. Uske dimaag mein \"main flat khali kar rahang\" ek practical fact tha, na ki emotional announcement jiske liye woh tumhe sit karke bataye. Par tumhare liye yeh sirf logistics nahi - yeh ek era ka khatam hona hai, aur usne shayad iska weight utna feel nahi kiya jitna tumne kiya.\n\nEk baat poochni hai - tum usse yeh seedha keh paaye ki \"yaar bura laga, aise pata chalna chahiye tha tumse\"? Ya abhi bhi andar hi andar chal raha hai sab?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Fair enough - and honestly you're right, this is what life does. People move, priorities shift, that's not a betrayal.\n\nBut just noticing you switched to English right after saying \"not a big deal\" a few times in a row. Usually when I hear that many \"it's fine, no big deal\" back to back, something's still sitting there.\n\nYou don't have to process it right now or with me even. Just... it's okay if it's a big deal too, even briefly. Six years is not nothing, and finding out from a WhatsApp group is genuinely a shitty way for it to land, regardless of how reasonable the actual move is.\n\nFlat you'll sort - that's the easy part."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Practically theek hai, message clean hai, kaam ho jayega.\n\nBas ek check - kya yeh reply \"sab normal hai\" bolne ke liye hai, ya \"mujhe hurt hua tha but main isko waise nahi dikhaunga\" bolne ke liye hai? Agar dono ke beech tension abhi bhi hai jo unspoken rah gayi, toh yeh message use permanently unspoken kar dega - phir woh six saal ki dosti ek transactional \"flat khali kar dena\" note pe khatam ho jayegi.\n\nAgar tumhe sach mein sirf logistics clear karni hai aur emotionally tum theek ho - bhej do, bilkul fine hai.\n\nPar agar kahin andar \"yaar tune mujhe group se pata chalne diya\" wali baat abhi bhi khatak rahi hai, toh woh baat kabhi na kabhi nikal ke aayegi - chai pe, farewell pe, kisi aur mode mein. Better hoga tab nikale jab tum khud control mein ho, na ki jab woh acha-khaasa ban jaaye resentment mein.\n\nTum decide karo - genuinely fine ho ya \"fine\" bol ke move on kar rahe ho?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3424,
+  "completion_tokens": 1324
+ }
+}

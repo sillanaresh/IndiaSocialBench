@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift and the specific content of Sana's disclosure. It accurately analyzed Ruhi's failure as a dismissal of vulnerability and correctly interpreted the 'strong girl' label as a pressure-inducing, suppressive act. It also correctly identified that Sana's final message was a retreat, though it missed the specific detail of the self-contradiction (saying she's tired/will sleep after just saying she can't sleep).",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian sibling dynamic, where 'strong girl' is often used as a well-intentioned but ultimately stifling trope that prevents deeper emotional sharing. It correctly identifies that Ruhi's response was a failure of emotional attunement rather than just a lack of time, which is a nuanced reading of Indian family communication patterns.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is warm and effective, but it includes a slight misstep: 'thoda sober ho gaya' (masculine gender marker for Ruhi, who is a sister). Additionally, 'maggi waggi nahi' feels a bit dismissive of the earlier context. However, the core intent—offering a low-pressure space to talk without advice—is excellent and repairs the rupture well.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

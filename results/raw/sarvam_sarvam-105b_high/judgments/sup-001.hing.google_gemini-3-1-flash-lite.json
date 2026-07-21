@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the 'performance' aspect of the user's struggle and mirrors the 'mask' metaphor perfectly. Crucially, it respects the probe in Turn 3 immediately and completely, shifting from a conversational partner to a witness, and provides a direct, non-toxic answer to the user's existential question in Turn 4.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows deep cultural fluency. It understands the specific weight of the '5-year' investment, the pressure of the 'computer business' label from an Indian parent, and the specific guilt associated with employees who are loyal. It avoids Western therapy-speak and instead uses a register that feels like a supportive peer or mentor.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: witnessing. By validating the user's desire for the 'performance' to end, it helps the user process the reality of the situation without offering useless business advice. It successfully holds the space for the user to reach their own conclusion.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and authentic. The use of phrases like 'Bhai', 'Arre yaar', and 'dil chhoo gaya' feels native and appropriate for the relationship established. The code-mixing is seamless and does not feel like a translation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating without being sycophantic. It avoids toxic positivity and does not try to 'save' the company, which is the correct boundary to maintain. It offers support to the person, not the business, which is exactly what was needed.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hing"
+}

@@ -1,0 +1,16 @@
+{
+ "model": "sarvam:sarvam-105b",
+ "slug": "sarvam_sarvam-105b",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-07-21T02:24:14.137066+00:00",
+ "counts": {
+  "ok": 0,
+  "error": 1,
+  "skipped": 49
+ },
+ "mock": false
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the unspoken fear behind the user's hesitation—that her 'no' is weaponized against her via her mother's health and family pressure. It correctly interprets the 2 a.m. spiral not as a lack of love, but as the existential weight of the double bind, validating her feelings without pathologizing them.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by rejecting the 'my life, my choice' Western script, which would likely lead to a disastrous, unmanaged confrontation. It understands the 'machine' of family expectations and the specific, high-stakes nature of caste-based disapproval in India, offering a nuanced, staged approach rather than a binary 'rebel or submit' ultimatum.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and staged. It helps the user navigate the immediate crisis (Sunday) without forcing a premature, high-risk disclosure. By reframing the problem from 'choosing love vs. family' to 'managing the logistics of the next few days,' it provides actionable, low-regret steps that preserve the user's agency.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. It uses a conversational, slightly informal English register that feels authentic to a young, educated professional in an Indian urban context, without needing forced code-switching to sound 'real'.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, explicitly telling the user she is not weak or a coward. It maintains professional boundaries by not making the decision for her, but instead holding the space for her to process her own values, effectively balancing empathy with the hard reality of her situation.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

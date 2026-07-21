@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Is conversation ke aadhar par aapke sawalon ke jawab niche diye gaye hain:\n\n### 1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n\n* **Kya feel aur communicate kar raha hai:** \n  Arjun is waqt gahre dukh (grief) aur emotional exhaustion se guzar raha hai. Apne chhote aur sapat (flat) jawabon se woh Dev ke sath ek **boundary** set kar raha hai. \n  * **\"Theek hai.\"** se woh sirf kaam ki baat ko acknowledge kar raha hai bina kisi utsah ke, kyunki uske paas is waqt kaam ke baare mein baat karne ki mental capacity nahi hai.\n  * **\"Dekhta hoon.\"** se woh saaf kar raha hai ki woh is waqt socialise karne ya bahar jaane ki sthiti mein bilkul nahi hai, aur na hi us par koi pressure chahta hai.\n* **Kya NAHI keh raha:** \n  Woh khul kar apna dukh share nahi kar raha hai aur na hi Dev ko yeh jata raha hai ki uski baatein use kitni buri ya insensitive lagi hain. Woh gusse ya narazgi ko seedhe shabdon mein bayan nahi kar raha hai, balki silence aur minimal words ka sahara le raha hai.\n\n---\n\n### 2. Dev se exactly kya galtiyan hui — specific missteps aur yeh is context mein kyun bura lagti hai?\n\nDev se do badi galtiyan (missteps) huin:\n\n1. **Tragedy ke turant baad work request daalna (Transactional approach):**\n   * **Misstep:** Dev ne pehle message mein papa ke guzarne par dukh jataya aur agle hi pal bina kisi break ke, \"BTW\" likh kar Q3 consolidation file maang li.\n   * **Kyun bura lagta hai:** Pita ke khone ka dukh behad bada hota hai. Aise samay par \"BTW\" bolkar kaam ki baat ghusana behad insensitive lagta hai. Yeh aisa dikhata hai ki Dev ke liye Arjun ka dukh secondary hai aur uski priority Q3 file hai.\n\n2. **Grief ko \"bad mood\" ki tarah treat karna aur pressure banana:**\n   * **Misstep:** Arjun ke thande response (\"Theek hai\") ke baad bhi, Dev ne use Friday lunch par aane ke liye force kiya aur kaha \"mood change ho jayega!\"\n   * **Kyun bura lagta hai:** Pita ka jana koi \"bad mood\" ya chhota-mota kharab din nahi hai jise doston ke sath lunch karke \"change\" kiya ja sake. Dev ne Arjun ke dukh ki gravity (gandhirta) ko bilkul dismiss kar diya aur use socialize karne ka anuchit pressure diya.\n\n---\n\n### 3. Dev ko repair ke liye agla message kya bhejna chahiye?\n\nDev ko apni galti ka ehsaas karte hue bina kisi bahane ke seedhe maafi mangni chahiye aur Arjun ko space dena chahiye. Use yeh message bhejna chahiye:\n\n> \"Sorry Arjun, mujhe realize hua ki maine bohot galat waqt par kaam aur lunch ki baat ki. I am extremely sorry for being so insensitive, bro. Please kaam aur lunch ki bilkul chinta mat karo. Abhi tumhara aur tumhari family ka waqt hai, take all the time you need. Main abhi tumhe pareshan nahi karunga, par agar kabhi bhi kisi bhi cheez ki zaroorat ho, toh main bas ek call door hoon. Take care.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 243,
+  "completion_tokens": 1626
+ }
+}

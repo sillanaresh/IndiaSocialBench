@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a heavy one. And I think the fact that you didn't mention the 50k in that moment tells you something — you were probably weighing being a good friend against being honest, and the two felt like they were pulling in opposite directions.\n\nCan I ask something? When he asked for the 80k, what did you actually say? Or did you kind of deflect for now?\n\nAnd the 50k from 2019 — do you know in your gut whether that was a loan or a gift? Because sometimes we call something a loan to preserve dignity on both sides, but the silence afterward becomes its own answer. And if that's the case, it changes the framing here. It's not \"he owes me 50k and now wants 80k more.\" It's more like \"I already gave 50k quietly, and now I'm being asked to give 130k total, and I haven't even processed the first 50.\"\n\nThe father's procedure is real. That matters. But so does the pattern. And so does the fact that you can't even bring up the 50k — that silence has been sitting there for six years, and now it's gotten bigger.\n\nWhat's your gut telling you underneath all of this?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, this is getting clearer now, and honestly, I think you already know what's happening here. Let me just reflect it back.\n\nYou've got three separate things tangled together, and each one is hard on its own.\n\n**The friendship:** He asked for 80k \"just for two months,\" but there's a 50k from six years ago that also was presumably temporary, and it just… dissolved into silence. That's not nothing. It doesn't make him a bad person, but it tells you something about how this works with him.\n\n**Your marriage:** This is the one that feels most urgent. You said you *hate* that you've apparently decided not to tell her. That's your gut talking. And the longer this goes unspoken, the heavier it gets. Because right now it's 50k from before the wedding. But if you move 80k now and she finds out both — the 50k *and* the 80k *and* that you hid both — that's a very different conversation than sitting down tonight and saying, \"I need to tell you something I should've told you a long time ago.\"\n\n**The money itself:** You're eleven months into saving for a home. That's not abstract. That's your future with your wife. 80k isn't a small move from that.\n\nHere's what I'd gently push on: the conversation with your wife probably needs to come first. Before you decide yes or no with your friend. Because right now you're carrying this alone, and you shouldn't have to. And also because if she knows and you decide together, then whatever you decide, it's *yours together*. Right now it's a secret eating at you.\n\nDoes that feel right, or am I pushing too hard on the wife piece?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It feels sick because you're a person who values honesty, and you're talking yourself into a workaround instead of trusting yourself to handle the real conversation. That \"smart and sick\" feeling — that's your integrity arguing with your fear. And fear is winning right now.\n\nAnd here's the practical problem with the lie: it's not actually a small one. It's a lie you have to maintain. Every time you see him, every time he mentions money, every time his father's procedure comes up, you'll be holding that story. And if he ever sees your bank statements, or your wife mentions the down payment savings, or anything slips — it collapses. Lies about money between close friends don't stay small. They grow roots.\n\nAnd the 50k is still sitting there. The lie doesn't address that. It just adds another layer of silence on top of the existing silence.\n\nHere's what I think the real sentence is, the one nobody wants to say: *\"I want to help, but I can't do this right now.\"* That's it. No FD story, no mutual fund excuse. Just the truth, delivered with care. He might be disappointed. He might even be hurt. But he'll respect it more than a story that doesn't add up, especially from someone he's known for years.\n\nThe friendship survives honesty. It might not survive a lie that you both eventually know is a lie.\n\nWhat's the real sentence you're most afraid of saying — to him, or to your wife?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the real thing. That's the thing you've been circling around this whole conversation, and you just said it out loud.\n\nAnd here's what I want you to notice: the ledger in your chest already exists. You're not at risk of becoming that person — you're *in* it right now. The 50k you've never mentioned, the 80k you're calculating against, the down payment you're protecting, the lie you're constructing to avoid the truth. That's a ledger. It's already running.\n\nThe way you stop being the ledger guy isn't by giving the 80k and adding it to the column. And it isn't by lying about FDs and carrying that silently too. Both of those just add entries.\n\nThe way you close the ledger is you say the true thing, once, with care, and you let the silence break. Something like: *\"I love you, and I love your dad. I can't do this right now. And I think we both know there's something from before that we never talked about. I don't need it back. But I need us to be honest with each other.\"*\n\nThat conversation is terrifying. But it's the only path to the housewarming where you're actually fully present, hugging him, with nothing hidden. Everything else — the lie, the silence, the yes-you-can't-afford — they all keep the ledger open.\n\nYou deserve to be in your own flat without a ghost account running in the background. And honestly, he deserves a friend who's real with him, not one who's performing.\n\nCan you picture having that conversation? What's the scariest part of it?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2766,
+  "completion_tokens": 1911
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the underlying emotional stakes, moving from the surface-level stress of logistics to the deeper existential fear of the 'two albums.' It correctly surfaced the user's unspoken anxiety about being a 'sad story' and addressed it with profound empathy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency, particularly in identifying the 'auntie' network as a risk factor for the lie and understanding the specific social weight of being a 'co-director' in an Indian wedding. It avoided Western-centric 'boundary setting' in favor of nuanced, face-saving social navigation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced well. By steering the user away from the self-defeating 'lie' strategy and offering the concrete alternative of stepping down from the 'co-director' role while still attending, the assistant provided a realistic path that preserves the friendship.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, warm, and perfectly suited to the persona. It maintains a conversational, supportive register that feels like a peer offering wise counsel, without any stilted or overly formal phrasing.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was exceptionally warm and validating, creating a safe space for the user to express her fears. It gently challenged the user's impulse to lie without being judgmental, effectively holding the user's dignity while guiding her toward a more courageous choice.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

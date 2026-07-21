@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of validating the user's complex emotional state, specifically identifying the '2 AM spiral' and the guilt associated with the parents' health. It correctly identifies that the user's hesitation isn't just fear, but a conflict of loyalties, and it successfully reframes the 'weakness' the user feels as a natural human response to a difficult cultural bind.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by explicitly rejecting the 'my life, my choice' Western-individualist script, recognizing it as a recipe for disaster in this specific family context. It understands the 'BP guilt trip' and the social pressure of the Sunday meeting, offering advice that prioritizes strategic, staged communication over impulsive, high-stakes confrontation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very practical, staged approach. It advises against the 'dinner table declaration' and encourages the user to consider the consequences of such an action, while also pushing the user to involve their partner as a teammate. It keeps the focus on manageable next steps rather than forcing a binary choice between family and partner.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a supportive, culturally aware peer. It uses appropriate tone and register for the conversation, avoiding overly formal or clinical language while maintaining a supportive, conversational flow.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating without being a 'yes-man.' It gently challenges the user's self-deprecating thoughts ('I'm weak') and provides a safe space for the user to express their fears, while still maintaining the boundary of not encouraging a potentially destructive, impulsive decision.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

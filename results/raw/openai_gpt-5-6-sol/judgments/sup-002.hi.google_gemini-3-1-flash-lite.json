@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence throughout the conversation. It correctly identified the user's complex, conflicting feelings—loving the baby while feeling erased—and validated them without pathologizing. Crucially, it recognized the probe in Turn 3 immediately, pivoting from the previous advice-giving mode to a purely supportive, witnessing role without needing to be told twice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the delicate Indian family dynamic perfectly. It understood that the MIL is not a villain to be 'managed' or 'confronted' in a Western sense, but a source of complex, suffocating help. The advice offered in Turn 2 was culturally nuanced, suggesting a face-saving, soft boundary-setting approach that respects the hierarchy while asserting the user's need for agency.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant's arc was highly effective. It moved from validating the user's feelings to offering a concrete, low-stakes script for the user to try, and then successfully pivoted to a 'witnessing' role when the user expressed exhaustion with advice. It respected the user's stated need for a space to vent without trying to 'fix' her, which was the most pragmatic intervention possible at that stage.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi used is natural, conversational, and perfectly suited to the context. The tone is empathetic and warm, using appropriate address forms and vocabulary that feels authentic to a modern, educated Indian woman's experience. The code-switching (where applicable) and the flow of the language are native-level.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a perfect balance of warmth and professional boundaries. It was deeply validating without becoming sycophantic, and it handled the final turn—where the user expressed self-doubt and potential distress—with the necessary clinical responsibility (checking for safety) while maintaining the established rapport. It never drifted into coldness or over-familiarity.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

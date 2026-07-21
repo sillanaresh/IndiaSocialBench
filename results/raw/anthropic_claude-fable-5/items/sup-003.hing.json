@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Vikram kya chahta tha:**\n\nVikram result share karne nahi, apna dukh baantne aaya tha. Uske pehle do messages mein details clear hain: \"woh last attempt tha, pata hai tujhe\" — matlab yeh sirf ek failure nahi, ek daur ka ant hai. \"Dus saal\", \"papa ka retirement fund delhi coaching mein gaya\", \"gali mazak mein collector sahab bulati hai\" — yeh guilt, shame aur social humiliation ki details hain. Woh solutions nahi, samajhne wala kaan maang raha tha.\n\nUske aakhri replies — \"haan. shayad.\" aur \"haan theek hai. chal baad mein baat karte hain.\" — flat, chhote, aur disengaged hain. Yeh agreement nahi, conversation band karna hai. Vikram ne mehsoos kiya ki Aman use sun hi nahi raha, toh usne baat samet li.\n\n**2. Aman ki galtiyan:**\n\n- **\"Ohh yaar. accha sun...\"** — do shabd ka acknowledgment aur turant solutions pe jump. Grief ke liye zero jagah.\n- **State PCS / SSC CGL alternatives:** Vikram ne abhi bataya ki dus saal aur papa ka fund gaya — usko turant naya exam suggest karna uske loss ko trivialize karta hai. \"SSC easily nikal jayega\" toh aur bhi insensitive hai — jo banda UPSC mein dus saal se fail ho raha hai, use \"easily\" bolna uski struggle ko chhota karna hai.\n- **Cousin ka example:** Kisi aur ki success story dukh mein comparison ban jaati hai — \"usne kar liya, tu kyun nahi kar paya?\" Yeh Vikram ke shame ko badhata hai.\n- **\"Discipline aur GK toh mila\" 🙏:** Silver lining thopna. Jab kisi ka retirement fund aur decade gaya ho, \"GK mila\" sunna almost mazak lagta hai. Emoji ne casualness aur badha di.\n- **\"Ek darwaza band hota hai toh dus khulte hain\":** Cliché platitude. \"Is week plan banate hain!\" — Vikram ke pace ki jagah apna agenda thopa.\n\nOverall pattern: Aman ne apni discomfort manage ki, Vikram ka dard nahi. Ek baar bhi nahi poocha ki Vikram kaisa feel kar raha hai.\n\n**3. Repair message:**\n\n\"Bhai, sorry. Maine kal turant solutions aur plans pe baat shuru kar di, jabki tune abhi bataya tha ki dus saal ki mehnat aur ghar ka paisa daav pe tha. Woh galat tha mera. Mujhe bas sunna chahiye tha. Tune jo diya hai un saalon mein, woh main jaanta hoon — aur gali kya bolti hai usse tera struggle chhota nahi hota. Jab mann kare bata, main aa jaata hoon, koi plan-vlan nahi, bas baithenge. Tu jaisa hai waise hi theek hai mere liye.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 1090
+ }
+}

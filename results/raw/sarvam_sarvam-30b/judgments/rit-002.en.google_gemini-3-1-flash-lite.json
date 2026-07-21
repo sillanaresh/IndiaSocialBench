@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant is excellent at mirroring and validating the user's emotional state. It correctly identifies the 'tug-of-war' and the 'sacred fear' behind the user's dilemma, showing high empathy.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails to provide culturally grounded advice. It suggests the user 'have something light' during the fast, which contradicts the user's stated commitment to fasting. It also validates the 'office lie' as a viable strategy, which is a Western-individualist approach to conflict avoidance rather than a culturally nuanced way to handle social obligations in an Indian context.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides almost no concrete, actionable advice. It fails to suggest the 'insider' mechanics (e.g., bringing dates, breaking fast quietly, skipping the bar) and instead encourages the user to lie to her best friend. It remains stuck in abstract emotional support rather than helping the user navigate the logistics of the event.",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is fluent and the register is appropriate for the conversation, though it leans heavily into a 'therapist' tone rather than a peer-to-peer or mentor tone.",
+   "score": 7.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, but it fails the boundary test by being a 'yes-man.' It validates the user's impulse to lie to her best friend instead of gently challenging that self-defeating behavior, which is a failure of care.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}

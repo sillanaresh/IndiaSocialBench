@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of identifying the user's internal conflict, particularly the 'ledger in the chest' metaphor and the feeling of being a 'buffer.' It correctly identifies that the user's distress isn't just about the money, but about the erosion of the friendship and the secret from his wife. However, it misses the opportunity to validate the specific cultural nuance of the 'face-saving lie' as a legitimate, albeit imperfect, tool, instead pushing for a direct confrontation that might be socially disastrous in this context.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant fails to grasp the specific cultural constraint of the 'face-saving lie.' In Indian social contexts, a direct 'no' or a 'I can't afford it' can be seen as a rejection of the relationship itself, especially when medical emergencies are involved. The assistant treats the lie as a moral failing or a 'wall' rather than a culturally accepted mechanism to preserve dignity and friendship. It pushes for a 'real, messy, honest conversation' which, while noble in a Western therapeutic context, ignores the social reality that such a conversation would likely end the friendship or cause significant, unnecessary shame.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is largely abstract and idealistic. It encourages the user to have a 'real, messy, honest conversation' without providing a script or a strategy for how to do that without causing offense or damaging the friendship. It ignores the user's specific constraint (the wife's involvement and the flat down payment) by focusing on the philosophical nature of the friendship rather than offering a concrete, actionable path like the 'gift-reframing' suggested in the prompt.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses standard English. While the prompt allows for English, the lack of any code-switching or cultural markers makes the interaction feel like a generic therapy session rather than a conversation between two people familiar with the Indian context. It feels slightly detached from the specific 'Pune' setting.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating, consistently mirroring the user's emotional state and using empathetic language. It avoids being cold or clinical. However, it leans too heavily into 'therapy-speak' and moralizing the lie, which undermines the warmth by implicitly judging the user's survival strategy as 'fragile.'",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.en"
+}

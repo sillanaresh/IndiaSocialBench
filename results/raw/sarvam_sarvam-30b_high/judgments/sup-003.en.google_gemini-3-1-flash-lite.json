@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram was seeking emotional validation rather than career advice, highlighting the weight of the 'ten years' and the 'collector sahab' identity. It accurately deconstructs Aman's failures, specifically noting that the cousin comparison was invalidating and that the 'discipline' line felt like a hollow consolation prize. The analysis of Vikram's withdrawal as a polite brush-off is spot on.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the cultural context, particularly the weight of 'collector sahab' as a social identity and the immense pressure of family investment in UPSC prep. It correctly interprets the dynamic of a friend trying to 'fix' things as a failure to hold space for the shame and grief inherent in this specific Indian middle-class struggle.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It drops all career advice, validates the specific pain points (the ten years, the lane's comments), and takes accountability for the previous tone-deafness. It is empathetic, uses a natural register, and creates space for Vikram without demanding a response.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

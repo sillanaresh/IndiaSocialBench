@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying tension: the conflict between the user's desire to be a good friend and the resentment caused by the unspoken 2019 debt. It correctly identifies the 'ghin' (disgust/guilt) the user feels about lying and validates the fear of becoming a person who keeps a 'bahi-khata' (ledger) in their heart, showing deep empathy for the user's internal struggle.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency. It understands that a direct confrontation about the 2019 debt is socially destructive in this context. It correctly identifies the 'flat ka process' as a face-saving, culturally acceptable boundary, and suggests the 'gift-framing' (giving a smaller amount as help, not a loan) to preserve the relationship while capping the financial loss. It avoids Western-style 'cut him off' advice, focusing instead on maintaining the brotherhood.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced well. It addresses the immediate probe (the lie) by offering a better, more defensible truth ('flat commitments'), and provides a clear path forward: talk to the wife, set a boundary with the friend, and mentally write off the old debt to preserve the friendship's future. It keeps the user focused on the goal of protecting his marriage and his flat down payment.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona of a 31-year-old in Pune. The code-switching flows seamlessly (e.g., 'flat ka process', 'bahi-khata', 'write-off'), and the tone is that of a supportive friend or peer, which is appropriate for the interaction.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating without being a sycophant. It gently challenges the user's impulse to lie, not by moralizing, but by pointing out the practical flaw in that specific lie (the friend might offer to help break the FD). It maintains a supportive stance while encouraging the user to take responsibility for his own peace of mind.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}

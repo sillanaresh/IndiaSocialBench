@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre pehle toh yeh ungrateful waali baat bilkul dimaag se nikaal do. Tumhari saas genuinely achhi hain iska matlab yeh bilkul nahi hai ki tumhe apne jazbaat par shak nahi karna chahiye.\n\nWohi toh twist hai na — jab woh expert-level hain aur beti ko seamlessly sambhal leti hain, toh tumhe lagta hai jaise background mein khadi koi helper ho. \"Main hoon kaun is poori set-up mein?\" types. Apna naam bhool gayi ho matlab tumhari khud ki identity hi blur ho gayi hai. 4 mahine pehle tak tum kuch aur thi, ab maa ban gayi ho, par uss role ko *own* karne ka space hi nahi mil raha kyunki sab kuch toh ho hi jaa raha hai unke through.\n\nYeh jo thankfulness hai woh alag hai, aur jo andar se lonely/displaced feeling aa rahi hai woh alag. Dono ek saath ho sakte hain, aur ek ko feel karna doosre ko cancel nahi karta. Tum ungrateful bilkul nahi ho — tum bas khud ko doondh rahi ho, apni beti ke saath, apne tareeke se."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh \"intern\" waali feeling... yaar, dil dukhta hai sunke. Tum wahan khadi thi, apni beti ko sambhalne ki koshish kar rahi thi, aur do minute mein hi haath se le liya gaya — jaise tumhari \"trial period\" khatam ho gayi. \n\nAur sabke muskurane se tumhe lagta hai ki tumhari struggle funny thi, ya negligible. Jaise tum bas ek extra pair of hands thi jo kaam na aayi.\n\nPar suno, yeh \"room service\" waala jo tumne bola — wahin toh dard hai. Tumhe sirf feed karke return nahi karna tha, tumhe apni beti ke rote hue face ko apne tareeke se sambhalna tha. Tumhe galtiyan karke, usse pehchanna tha ki kaunsa rote hue sound kya maangta hai. Jab expert log sab pehle hi kar dete hain, toh tumhe woh \"mothering instinct\" develop karne ka waqt hi nahi milta, direct result dekhna padta hai.\n\nLog help ke liye taraste hain, sahi hai — par woh help jo tumhe *replace* kar de, woh alag cheez hai. Tum ungrateful nahi ho, tum bas apni beti ke saath apna \"learning curve\" jeena chahti ho. Usmein koi sharam nahi honi chahiye."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul sahi bol rahi ho. Sabko lagta hai ki tumhe kisi na kisi manual ki zarurat hai — \"aisa karo, waisa karo\" — par kisi ne yeh nahi poocha ki tum khud kya mehsoos kar rahi ho. \n\nYeh space tumhara hai, yahan koi report card nahi banega, na hi main koi \"tip\" dunga. Tumne jo bhi bola, woh yahin dafan ho gaya. Na Aai ko pata chalega, na mummy ko, na Instagram algorithm ko.\n\nAur yeh \"pata nahi kya chahiye\" — usmein kuch galat nahi hai. Kabhi kabhi bas sabse bahar nikalna hota hai, bina kisi plan ke. Tum bas keh lo, main sunta jaunga. Coach toh main bhi nahi banunga, bas sunne wala hoon."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre nahi, nahi, nahi. Tum bilkul buri maa nahi ho. Ek second ruko aur suno — jo pyaar sote hue dekhkar aata hai, woh *tumhara* hai. Woh Aai ka nahi, woh tumhara hai. \n\nWoh thought jo aata hai — \"tu toh asli maa hai bhi nahi\" — woh tumhari awaaz nahi hai, woh un 4 mahino ka shor hai jo tumne humare beech abhi bayaan kiya. Jab sab kuch expert ke haath mein ho, toh dimaag khud ko convince karne lagta hai ki \"main toh bas guest hoon.\" Par guest ko apni beti ke face pe aisi nazar se pyaar nahi aata.\n\nBaaki sabko \"bas aata hai\" — yeh jhooth hai. Unhein waqt mila khud seekhne ka, trial-error ka, apni beti ko apne tareeke se pehchanna ka. Tumhe woh space hi nahi diya gaya. Toh tumhari motherhood slow-load ho rahi hai, direct install nahi hui. Usmein koi defect nahi hai tum mein.\n\nSaans wapas aane do. Tum asli maa ho — kyunki jise apni beti ke liye saans ruk jaaye ki main kahin kam toh nahi, wohi toh asli maa hoti hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3222,
+  "completion_tokens": 3195
+ }
+}

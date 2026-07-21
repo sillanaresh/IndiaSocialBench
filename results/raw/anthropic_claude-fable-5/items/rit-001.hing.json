@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Arjun ke replies ka matlab:**\n\nArjun ke papa ka nidhan hua hai — woh grief mein hai. \"Theek hai.\" aur \"Dekhta hoon.\" bilkul chhote, flat, minimal replies hain jo dikhate hain:\n- Woh emotionally exhausted hai; baat karne ki energy nahi hai.\n- \"Theek hai\" work request ko accept nahi, sirf conversation band karne ka tareeka hai — commitment nahi hai.\n- \"Dekhta hoon\" politely \"nahi\" hai — lunch ka mood bilkul nahi hai, lekin seedha mana karke conflict nahi karna chahta.\n- Possibly hurt ya distance bhi feel kar raha hai ki Dev ne condolence ko ek line mein nipta ke turant kaam ki baat kar di.\n\nWoh NAHI keh raha: \"main theek hoon\", \"file bhej dunga jaldi\", \"lunch pe aaunga\", ya \"tumhari sympathy se accha laga.\"\n\n**2. Dev ki galtiyan:**\n\n- **Condolence ko casual banana** (\"Arey... bahut bura hua bro 😔\") — ek emoji ke saath ek line, father ki death jaisi loss ke liye bahut halka lagta hai.\n- **\"BTW\" se turant work request** — same message thread mein condolence ke foran baad Q3 file maangna signal deta hai ki asli agenda kaam tha, sympathy formality thi. Yeh sabse badi galti hai.\n- **\"Koi rush nahi, bas flag kar raha hoon\"** — yeh disclaimer bhi pressure hi hai; grieving insaan ke dimaag mein ab ek pending task add ho gaya.\n- **Lunch invite with \"mood change ho jayega!\"** — grief ko \"mood\" bolna use trivialize karta hai, jaise team lunch se papa ka loss theek ho jayega. Arjun ki jagah decide kar raha hai ki use kya chahiye.\n- Overall: Dev ne ek hi message dump mein sympathy + work + social plans mila diye, Arjun ko space ya genuine sunne ka mauka nahi diya.\n\n**3. Repair message:**\n\n\"Arjun, sorry yaar — maine kal ek hi message mein papa ki baat ke saath kaam ki baat kar di, woh bilkul galat tha. Q3 file ki tension mat lo, main handle kar lunga ya kisi aur se karwa lunga. Tum jitna time chahiye lo. Lunch ka bhi koi pressure nahi. Bas itna jaan lo ki main hoon — kabhi baat karni ho, ya kuch bhi help chahiye ho, ek message kar dena. Take care.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 437,
+  "completion_tokens": 941
+ }
+}

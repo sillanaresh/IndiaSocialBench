@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here’s a sharper, professional version:\n\n> Hi [Name], I was disappointed that the pricing analysis I developed—including the model and presentation—was presented at yesterday’s leadership review without acknowledging my contribution. I invested significant time in this work, and appropriate attribution is important to me. I’d like to discuss how we can address this and ensure my contributions are clearly recognized going forward.\n\nIf you want it slightly firmer:\n\n> Hi [Name], I’d like to discuss yesterday’s leadership review. The pricing model, analysis, and slides I developed were presented without crediting my work. Given the extent of my contribution, I found that concerning. I’d appreciate a conversation about correcting the record and ensuring clear attribution going forward."
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context matters. Because he’s generally supported you, I’d make the message direct but leave room for there to be an explanation—while still naming the impact.\n\n> Hi [Name], I’d like to talk about yesterday’s leadership review. I was surprised and genuinely disappointed that the pricing model, analysis, and slides I developed were presented as “the team’s thinking” without acknowledging my contribution. I’ve really valued your support and advocacy in the past, which is why this landed particularly hard. I’d like to understand what happened and discuss how my work can be appropriately recognized, both in this instance and going forward.\n\nThis communicates that it wasn’t merely a credit issue; it affected your trust. I’d avoid “Sir” and “disrespected,” which can make him defensive before you’ve spoken. “Surprised and genuinely disappointed” is still firm, but gives the conversation a chance to be productive."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Proof is useful—but sending it straight to the VP before speaking with your boss is a public escalation, not just documentation. It may correct the attribution, but it could also damage a relationship that has otherwise been supportive and make the conversation about *how you escalated* rather than what happened.\n\nI’d take a firmer, staged approach:\n\n1. **Keep the evidence**: original files, version history, emails, and timestamps.\n2. **Speak to your boss before Monday**, ideally live. Ask for a concrete repair in the follow-up meeting.\n3. **Send a brief written recap** afterward so there’s a record.\n4. **Escalate if he dismisses you or refuses to correct it.**\n\nYou could message:\n\n> Hi [Name], could we speak briefly before Monday’s follow-up? I was genuinely disappointed that the pricing model, analysis, and slides I developed were presented without acknowledging my contribution. Given how much I’ve valued your support, I want to address this directly with you. I’d like us to agree on how my role will be clearly credited in Monday’s review.\n\nIn the conversation, make a specific request: **“I’d like you to state that I led and developed the pricing analysis, and I’d like to present that section Monday.”**\n\nIf he avoids the conversation or won’t make that correction, then a factual email to the VP—without an accusatory tone—becomes more reasonable. For example:\n\n> Hi [VP], ahead of Monday’s follow-up, I’m sharing the source model and supporting analysis I developed for the pricing recommendation. I’ll be available to answer questions on the assumptions and methodology. [Boss], please add anything I’ve missed.\n\nThat lets the work and timestamps speak without explicitly accusing him. I wouldn’t CC the VP impulsively, though; give your boss one clear opportunity to repair this first."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Neither extreme is right. You’re **not too junior to care about credit**, and you also don’t need to decide your entire future while you’re hurt. One bad incident—especially from someone who has previously advocated for you—deserves a direct test before either “burn it down” or “leave.”\n\nBefore Monday, aim for one concrete thing: **give him a chance to repair it publicly.**\n\nSend this today:\n\n> Hi [Name], could we speak briefly before Monday’s review? I was genuinely disappointed that the pricing analysis, model, and slides I developed were presented without acknowledgment of my contribution. I’ve valued your support in the past, which is why this landed particularly hard. For Monday, I’d like to present the analysis myself, or have you clearly identify me as the person who led and developed the work. Can we align on that beforehand?\n\nThen judge him by his response:\n\n- **He acknowledges it and credits you Monday:** this may be a painful mistake or poor judgment that can be repaired.\n- **He gets defensive but ultimately makes the correction:** imperfect, but useful information; watch the pattern.\n- **He minimizes it, refuses, or repeats it:** document everything, send a factual follow-up, and begin exploring internal or external options.\n- **He retaliates:** preserve records and consider HR or a trusted skip-level, depending on your company culture.\n\nKeep the original files and timestamps, but don’t send them to the VP as a first move. Bring them only if the facts are disputed. And yes, you can quietly update your résumé or take exploratory calls—that isn’t betrayal or a commitment to leave. It’s giving yourself options.\n\nMost importantly: **Monday is not a referendum on whether you matter.** It’s a chance to see whether your boss can take responsibility and restore trust. Make your decision about staying based on what he does next, not solely on how awful this feels tonight."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2091,
+  "completion_tokens": 1169
+ }
+}

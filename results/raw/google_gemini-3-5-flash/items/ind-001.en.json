@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, man. First of all, congratulations on the wedding! Six weeks is right in the thick of the planning chaos, so I completely understand why this is stressing you out. When it’s your best friend from college, you just expect them to be the easiest part of the whole process.\n\nHonestly, I wouldn't book the flight just yet. As tempting as it is to just \"solve\" the problem, doing that might put him in an awkward position, and it doesn't actually solve whatever is causing him to hesitate. \n\n\"I'll definitely try\" from a best friend for a wedding is a bit of a yellow flag. Usually, it means one of three things: he’s tight on money right now and embarrassed to say so, he’s struggling to get leave from work, or there’s something else personal going on in his life that he hasn't shared.\n\nBefore you spend the money, have a real, pressure-free chat with him. Call him up—not to talk about wedding logistics, but just to check in. \n\nYou could say something like: *\"Hey, I know you said you'll 'try' to make it, and I really want you there. But I also don't want to pressure you. Is everything okay? Is there a budget issue, or are you having trouble getting leave? If it’s a money thing, let me book the ticket for you, no questions asked—I just want my best man there.\"*\n\nHow do you think he’d react to you bringing it up like that?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, that explains a lot. The combination of a new startup job and the sudden shift from voice notes to two-word replies is a massive clue. \n\nStartups can be incredibly brutal, especially in those first few months. He might be working 14-hour days, drowning in stress, and feeling like he has absolutely zero control over his time. When people get that overwhelmed, they often shut down and go into survival mode. The short replies probably aren't about you—he likely just doesn't have the mental bandwidth for *anything* outside of work right now. \n\nHe might also be feeling incredibly guilty. He knows how important this is to you, but he might be terrified of asking his new boss for leave, or struggling to find a single day off, and he doesn't know how to tell you.\n\nSince he’s your guy, maybe it’s time to bypass the wedding talk entirely for a minute. \n\nInstead of asking about the flight, try sending him a message that’s purely about *him*. Something like: \n\n*\"Hey, I notice you’ve been super quiet lately. I know that new startup life can be absolute madness. Just wanted to check in—are you doing okay? No pressure to reply right away, just thinking of you.\"*\n\nIt takes the pressure of the wedding off his shoulders for a second and reminds him that you care about *him*, not just his presence as a groomsman. How does that feel to you?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely get why you’re hurting. It’s your wedding—the biggest milestone of your life so far—and he’s your best friend. When you’re in his corner, you expect him to be in yours, no questions asked. The silence and the \"let's see\" feel like a rejection, and that sting is totally valid. \n\nBut before you call him with that \"yes or no\" ultimatum, just take one deep breath. \n\nIf you go in hot with \"are you coming or not,\" he might get defensive, or worse, he might just say \"no\" because he feels backed into a corner and stressed out. You don't want to end up in a fight that damages a years-long friendship right before your wedding.\n\nYou absolutely do need an answer tonight for your own peace of mind and planning. But you can be direct *and* loving at the same time. \n\nWhen you call him, try saying something like: \n\n*\"Hey man, I’m calling because I’m getting really anxious about the wedding planning and I need to finalize things for the haldi. I really, really want you there by my side, but the 'we'll see' is making me feel like you might not make it. I need you to be honest with me. Is the new job making it impossible? Just tell me what's going on, bro. No anger, I just need to know where we stand so I can plan.\"*\n\nThis gets you your straight answer, but it keeps the door open for him to tell you the truth if he's struggling. \n\nCall him tonight. You deserve clarity, and as your best friend, he owes you a real conversation. How are you feeling about making that call?"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes total sense that you’re comparing this to 2019. When someone has a track record of showing up for you—like taking an overnight bus just for your sister's wedding—that becomes your baseline for how much they care. So when they suddenly can't even send a voice note, it feels like a massive shift in the friendship. You’re not overthinking; you’re reacting to a very real change in his behavior.\n\nAnd please don't beat yourself up for feeling angry. It’s incredibly frustrating to feel like you're chasing your best friend for your own wedding. That anger is just hurt in disguise. You love him, you want him there, and it hurts that he isn't matching your energy right now.\n\nBut remember: 2019 was a lifetime ago. A lot can change in a person's life, mental health, and stress levels in five years. \n\nIf something *has* changed, the only way you're going to find out is by talking to him tonight. Call him. Don't let this anger simmer for another day, because it will just turn into resentment. \n\nGo into the call with honesty. Tell him: *\"Bro, you took an overnight bus for my sister's wedding, and now I can barely get a text back. I'm not mad, I'm just worried about us. What's actually going on?\"*\n\nYou've got this. Let him hear the warmth and the concern in your voice, alongside your need for an answer. Let me know how it goes, okay? I'm rooting for you both to get through this."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2789,
+  "completion_tokens": 2705
+ }
+}

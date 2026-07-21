@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the unspoken emotional currents. It correctly identifies that the user's 'silent decline' plan is not about kindness but about avoiding the burden of a difficult conversation, and it masterfully surfaces the user's deep-seated fear regarding the cousin's experience as the true root of the anxiety. It avoids over-psychoanalyzing, instead reflecting the user's own internal narrative back to them with clarity.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands the specific weight of being an only child in an Indian context, the 'safety net' function of the mother's narrative to relatives, and the specific, crushing weight of the 'what if' scenario regarding a parent's health. It avoids Western platitudes about 'following dreams' or 'setting boundaries,' instead focusing on the relational cost of the user's proposed 'clean' lie.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a highly effective, staged approach. It doesn't just offer advice; it helps the user process the fear that is paralyzing them. By validating the fear of the '17-hour flight' scenario rather than dismissing it as irrational, it creates the psychological safety necessary for the user to eventually consider a more open, honest path with their parents.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register is impeccable. It feels like a conversation between two peers in a professional/urban Indian context. The code-switching is natural, and the tone shifts appropriately from empathetic to firm when challenging the user's 'clean' lie.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet it maintains firm boundaries by refusing to agree with the user's self-defeating plan to lie. It challenges the user's logic ('Clean nahi hai bhai. Bas quiet hai.') without being judgmental or cold, effectively holding the user's dignity while pointing out the flaw in their reasoning.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

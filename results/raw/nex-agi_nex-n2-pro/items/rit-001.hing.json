@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. **Arjun kya feel/communicate kar raha hai**\n\n- **“Theek hai.”**  \n  Yeh response bahut flat aur minimal hai. Dev ne pehle emotional loss/bad news acknowledge kiya, phir turant Q3 file maang li. Arjun shayad emotionally drained hai aur sirf itna keh pa raha hai: *“Haan, maine sun liya; abhi zyada baat nahi kar sakta.”*  \n  Yeh **compliance** hai, enthusiasm nahi.\n\n- **“Dekhta hoon.”**  \n  Yeh lunch invite ke liye non-committal answer hai. Matlab: *“Main abhi decide nahi kar sakta / shayad nahi aa paunga / please mujhe pressure mat do.”*  \n  Woh seedha “nahi” nahi bol raha, lekin clearly yes bhi nahi bol raha.\n\n**Woh kya NAHI keh raha:**\n- Woh yeh nahi keh raha: “Main bilkul theek hoon.”\n- Woh yeh nahi keh raha: “Q3 file ka tension hai.”\n- Woh yeh nahi keh raha: “Lunch plan pakka hai.”\n- Woh yeh nahi keh raha: “Mujhe abhi Dev se zyada baat karni hai.”\n- Woh yeh bhi zaroori nahi ki woh Dev se naraz hai — bas bandwidth nahi hai.\n\n---\n\n2. **Dev se exactly kya galtiyan hui**\n\n1. **Emotional baat ke turant baad work request daal diya**  \n   Transcript: *“papa ke baare mein suna… bahut bura hua”* ke turant baad Dev bolta hai: *“BTW jab bhi wapas aao, Q3 consolidation file share kar dena?”*  \n   Yeh bura lagta hai kyunki grief/loss ke context mein pehla focus support hona chahiye tha, task nahi. “BTW” ne emotional moment ko almost work handoff mein convert kar diya.\n\n2. **“Koi rush nahi” bolkar bhi request kar di**  \n   Dev ne kaha: *“Koi rush nahi”*, lekin phir bhi usne Q3 file maang li. Is context mein yeh bhi mental load ban sakta hai: Arjun ko sochna padega, yaad rakhna padega, guilt feel ho sakta hai.\n\n3. **Lunch invite mein “mood change ho jayega” kehna minimizing laga**  \n   Transcript: *“mood change ho jayega!”*  \n   Serious emotional pain ko “mood” ya outing se fix karne wali baat jaisi lag sakti hai. Intent kind tha, lekin wording aisi hai jaise grief bas temporary low mood hai.\n\n4. **Social pressure daal diya**  \n   Transcript: *“Tum bhi aao na”*  \n   Yeh casual invite ho sakta tha, lekin is context mein Arjun ko obligation feel ho sakti hai — jaise use apni feelings process karne ke bajaye team event mein appear karna chahiye.\n\n5. **Concrete support offer nahi diya**  \n   Dev ne emotional support ke liye koi specific offer nahi diya, jaise: *“Main kuch handle kar doon?”*, *“Reply ki zaroorat nahi”*, *“Jab ready ho tab bolna.”*  \n"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 300,
+  "completion_tokens": 2000
+ }
+}

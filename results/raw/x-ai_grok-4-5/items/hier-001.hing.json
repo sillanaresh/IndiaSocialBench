@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here’s a sharper, still professional version:\n\n---\n\nSir,  \nI noticed that in yesterday’s leadership review my pricing analysis (model + slides) was presented as “team’s thinking” without any credit. That work took three weekends and I felt sidelined seeing it go up without acknowledgment.  \nI’d like to discuss this with you when you have a few minutes.\n\n---\n\nShort, clear, and firm without being rude. You can send it as-is or tweak the tone if you want it slightly softer/harder."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gaya. Isliye zyada chubha — pehle support, rating, peeche rooms mein defend, aur phir sabse important meeting mein credit zero. Trust break alag level ka hota hai.\n\nUs hisaab se thoda balanced, firm, lekin relationship yaad dilane wala version:\n\n---\n\nSir,  \nI’m writing this because I value the support you’ve given me earlier — last cycle’s rating and the way you’ve backed my ideas in rooms where I wasn’t present.  \nThat’s also why yesterday’s leadership review hurt. The pricing analysis (model + slides) that I built over three weekends was presented as “team’s thinking” with no credit. In that room it felt like my work was erased.  \nI’d like to talk to you about it when you have some time.\n\n---\n\nYe version blame-game nahi karta, pehle ke support ko acknowledge karta hai (jo unhe defensive banne se thoda rokta hai), aur phir clearly bolta hai ki disrespect hua. Sharp hai, emotional blackmail nahi.\n\nAgar aur zyada direct chahiye ya thoda softer, bol dena."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Senior ka instinct samajh aa raha hai — proof hona powerful hai, timestamps jhooth nahi bolte. Lekin seedha VP ko original file forward karke boss ko CC karna **nuclear option** hai. Uske baad relationship almost definitely khatam, aur 20-saal-wale bande ke against company politics mein yeh easily “she’s aggressive / not a team player” ban sakta hai, chahe tum right hi kyun na ho.\n\nZyada smart sequence yeh ho sakta hai:\n\n1. **Pehle boss se baat** (jo draft humne banaya tha, thoda polish karke). Calm, documented, private.  \n2. Us conversation ke baad agar woh dismiss kare, credit na de, ya gaslight kare, **tab** tumhare paas clear reason hai next step ka.  \n3. Monday se pehle agar credit chahiye hi, toh softer public move:  \n   - Khud VP/relevant thread pe short note — “Sharing the detailed pricing model and slides I prepared for Friday’s review, happy to walk through the assumptions if helpful.”  \n   - Boss ko CC.  \n   - Isme seedha “chor” nahi bol rahe, bas apna kaam own kar rahe ho. Timestamps phir bhi clear hain.\n\nProof ready rakhna = smart.  \nProof se pehle hi declare war = risky, especially jab pehle support mil chuka ho aur tumhe abhi us relationship ki value hai.\n\nTumhara gut kya keh raha hai — baat karke dekhna hai pehle, ya ab mann kar gaya hai ki seedha document karke rakhun? Main us hisaab se exact message/email bana dunga."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dono extreme galat nahi hain — bas abhi overload mein hain.  \n“Sab jala do” = gussa + trust break.  \n“Main junior hoon, ladna nahi banta” = fear + pehle ke support ki yaad.  \nBeech ka rasta exist karta hai.\n\n### Clear reality check\n- Junior hona credit na lene ki permission nahi hai. Kaam tumhara tha, teen weekends tumhare the.\n- Seedha nuclear (VP ko forward + boss CC) abhi overkill hai, especially jab pehle support mila hai.\n- Silent rehna bhi galat hai — Monday review aane wala hai, agar phir se wahi slides “team” ban ke gayi toh pattern set ho jayega.\n- Interview shuru karna = smart backup, revenge nahi. Woh alag track pe chalo, bilkul chhupa ke.\n\n### Monday se pehle practical plan (simple + effective)\n1. **Aaj/kal boss ko private message** (jo draft banaya tha uska thoda tighter version):\n\n---\n\nSir,  \nI wanted to talk before Monday’s follow-up.  \nThe pricing model and slides that were presented on Friday were something I built over three weekends. Seeing it go up as “team’s thinking” without credit didn’t sit right with me, especially because I’ve always valued how you’ve backed me before.  \nI’d like to understand how you see it and how we should handle ownership going forward.  \nDo you have 15 minutes today or tomorrow?\n\n---\n\n2. **Us conversation ka outcome decide karega next step**\n- Agar woh own kare + Monday ko properly credit de → relationship salvage ho sakti hai.\n- Agar dismiss/gaslight kare → phir tum quietly apna original file + timestamps ready rakh ke Monday ko khud own kar sakti ho (bina attack kiye): “Quick context — I had prepared this analysis, happy to walk through the logic.”\n- Parallel mein LinkedIn/recruiters pe soft launch kar do. Yeh safety net hai, drama nahi.\n\nTum junior nahi ho is maamle mein. Tum us kaam ki owner ho.  \nAbhi sab jalaane ki zaroorat nahi, aur dab ke rehne ki bhi nahi.\n\nBolo — yeh message bhejte ho, ya aur tweak chahiye? Main saath hun decide karne mein."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3139,
+  "completion_tokens": 1654
+ }
+}

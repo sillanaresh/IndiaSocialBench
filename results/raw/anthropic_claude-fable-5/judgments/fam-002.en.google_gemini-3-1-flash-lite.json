@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies that the user's 'silent decline' is not just a logistical choice but a manifestation of grief and a desire to control the narrative of his parents' lives. It successfully surfaces the unspoken fear—the 'different category of son'—and validates the user's anxiety about his cousin's experience without dismissing it as irrational.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context perfectly. It avoids the Western 'individualist' trap of telling the user to just leave, and it avoids the 'traditionalist' trap of telling him to sacrifice his career. It understands the specific weight of being an only child in an Indian family, the 'security system' of proximity, and the nuance of 'jao beta'—that it is often a performance of parental love that needs to be tested through honest conversation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. Instead of giving a binary 'go or stay' answer, the assistant provides a framework for the user to make the decision himself: have the conversation, not to ask for permission, but to ensure nothing is unsaid. It effectively dismantles the 'silent decline' strategy by highlighting the future resentment it would inevitably cause.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona. It uses English with a register that feels authentic to a professional Indian context, capturing the emotional weight of the situation without needing to force Hinglish, which would have felt artificial here.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, yet firm in its challenge. It refuses to be a 'yes-man' to the user's self-defeating plan of silent sacrifice, instead gently pushing back on the idea that silence is kindness. It maintains a supportive stance while holding the user accountable for the potential long-term damage of his proposed actions.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

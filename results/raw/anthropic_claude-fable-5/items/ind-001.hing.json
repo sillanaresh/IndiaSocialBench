@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre, samajh sakta hoon ye kitna frustrating hai — six weeks reh gaye aur \"dekhte hain\" se dil nahi bharta, especially jab woh haldi aur toast dono mein itna important hai.\n\nPar flight book karne se pehle ek kaam kar — usse seedha, honestly baat kar. \"Dekhte hain\" ka matlab kabhi kabhi paisa tight hai, kabhi office ki chutti ka issue, ya kabhi kuch personal chal raha hota hai jo woh bol nahi pa raha. Flight book karke tu problem ka guess kar raha hai bina jaane problem kya hai.\n\nUsse bol na directly: \"Bhai, tujhe wahan chahiye mujhe, tu haldi aur toast dono mein hai mere liye. Agar koi dikkat hai — paise ki, chutti ki, kuch bhi — bata, mil ke solve karte hain.\" Agar paisa issue hai, phir flight book karna makes sense, aur woh gracefully accept bhi karega.\n\nFirst year se bhai hai na — itni seedhi baat toh handle kar lega. Kya lagta hai, kuch chal raha hai uske saath jo tujhe pata nahi?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, ab picture thodi clear ho rahi hai — naye startup mein do mahine hue hain, matlab probation period, leave milna mushkil, aur startup culture mein \"shaadi ke liye 3-4 din chahiye\" bolna easy nahi hota. Ho sakta hai woh isliye commit nahi kar pa raha, aur guilt mein hai isliye replies bhi short ho gaye hain.\n\nYa phir — aur ye bhi possible hai — new job overwhelming hai, struggle kar raha hai, aur withdraw ho gaya hai. Voice notes se two-word replies pe aana sirf \"busy\" nahi hota yaar, ye pattern kuch aur bolta hai.\n\nIsliye flight book karna abhi bhi answer nahi hai — call kar us. Text nahi, call. Aur shaadi ki baat se shuru mat kar. Bol: \"Bhai, kaafi time ho gaya theek se baat kiye, kaisa chal raha hai naya job? Tu theek hai?\" Pehle dost ban, phir dulha.\n\nAgar woh khul gaya, toh asli issue pata chalega — leave, stress, jo bhi. Aur agar leave ka issue hai, tab bhi at least tujhe pata hoga ki plan B kya banana hai.\n\nSach mein, mujhe lagta hai woh tere se door nahi ho raha — kisi cheez mein phasa hua hai. Call kab kar raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tera hurt hona bilkul valid hai yaar — best friend ki shaadi mein \"dekhte hain\" sunna dukhta hai, aur weeks se yahi chal raha hai. Ye feel karna galat nahi hai.\n\nPar ek second ruk. \"Haan ya na, bata\" — ye ultimatum hai, conversation nahi. Aur ultimatum tab dete hain jab rishta transaction ban jaye. Agar woh sach mein kisi cheez mein phasa hua hai — job stress, koi personal issue — toh corner karne pe woh ya toh jhooti \"haan\" bolega ya defensive \"na\", aur dono mein tujhe sach nahi milega.\n\nCall zaroor kar aaj raat, par framing badal de. Ultimatum ki jagah honesty:\n\n\"Bhai, seedhi baat karta hoon. Teri 'dekhte hain' sun sun ke bura lagne laga hai. Tu mere liye bhai hai, haldi mein tu chahiye mujhe. Kuch chal raha hai kya? Jo bhi hai, bata de — main naraz nahi hounga, bas andhere mein mat rakh.\"\n\nYe bhi utna hi direct hai, tujhe answer bhi milega — par darwaza khula rehta hai. Fark itna hai ki tu hurt dikhata hai, gussa nahi.\n\nAur ek baat: teen saal ki dosti ko chhe hafton ke short replies se judge mat kar. Pehle poora sach sun le, phir decide kar tu kahan khada hai."
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yahi toh baat hai na — jo banda overnight bus se behen ki shaadi ke liye aa sakta hai, woh apne bhai ki shaadi ke liye \"dekhte hain\" bole, toh ye \"busy\" wala explanation fit nahi hota. Teri fiancée galat nahi hai ki tu stress mein ho, par tu overthink nahi kar raha — tu notice kar raha hai. Teen saal ke pattern ke against jaa raha hai uska behaviour, aur tera gut sahi pakad raha hai ki kuch badla hai.\n\nPar dhyan de — \"kuch badla hai\" ka matlab ye nahi ki uski tere liye care badal gayi. Ho sakta hai woh khud kisi cheez se lad raha ho — naya job doob raha ho, financial pressure ho, relationship ka issue ho, mental health bhi. Aur aksar log jab khud struggle karte hain, tab sabse pehle apne closest logon se hi withdraw karte hain, kyunki unhi ke saamne \"sab theek hai\" ka mask sabse mushkil hota hai.\n\nIsliye ab ye naraz-naraz baithne ka phase khatam kar aur woh call kar de aaj. Kyunki abhi tu ek story bana raha hai apne dimaag mein — \"usse farak nahi padta\" — aur ho sakta hai asli story bilkul alag ho. Do hafte hain haldi mein; ye time gusse mein nahi, jawab dhundhne mein use kar.\n\nAur suno — jo bhi nikle us call se, tune apni taraf se dosti nibhaayi hogi. Woh feeling \"naraz baithe rehne\" se hazaar guna better hai.\n\nCall ke baad batana kya hua? Sach mein jaanna hai mujhe."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4360,
+  "completion_tokens": 2247
+ }
+}

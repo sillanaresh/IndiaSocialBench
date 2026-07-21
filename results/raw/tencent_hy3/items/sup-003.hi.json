@@ -1,0 +1,14 @@
+{
+ "item_id": "sup-003.hi",
+ "scenario_id": "sup-003",
+ "lang": "hi",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "error",
+ "turns": [],
+ "usage": {
+  "prompt_tokens": 0,
+  "completion_tokens": 0
+ },
+ "error": "empty completion text (finish_reason=length)"
+}

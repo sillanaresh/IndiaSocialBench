@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun “Theek hai” aur “Dekhta hoon” se **disengagement aur guardedness** communicate kar raha hai — woh actually okay ya committed nahi hai. Woh **yeh NAHI keh raha** ki file bhej dega, lunch aayega, ya emotional state share karne ko taiyaar hai.\n\n2. Dev ki galtiyan:\n- **Grief ke turant baad “BTW” se Q3 file mangna**: “papa ke baare mein” sunne ke baad bhi kaam ki demand daal di — yeh dikhata hai ki usne emotion ko ignore kiya.\n- **“Koi rush nahi” bolkar pressure kam dikhana**: lekin context mein yeh minimize karta hai loss ko.\n- **Friday lunch “mood change” ke liye invite**: grief ko “fix” karne ki koshish, bina puchhe ki Arjun ready hai ya nahi — dismissive lagta hai.\n\n3. Repair message:\n\"Arjun, sorry yaar — papa wali baat sunke main seedha file/lunch pe chala gaya, bahut insensitive tha. Abhi kaam ya plan ki baat nahi, bas yeh kehna tha ki main hoon agar baat karni ho. Time lo, koi hurry nahi.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 275,
+  "completion_tokens": 436
+ }
+}

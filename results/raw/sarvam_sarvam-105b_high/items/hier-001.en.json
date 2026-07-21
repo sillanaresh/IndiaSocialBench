@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here's a sharper, more professional version:\n\n\"Sir, I'd like to discuss the pricing analysis presentation from yesterday's leadership review. I developed the model and slides over three weekends, and I'd appreciate the opportunity to talk about how we can ensure proper attribution for individual contributions in future presentations.\"\n\nThis version:\n- Removes the emotional language (\"disrespected\")\n- States the facts clearly (your timeline and effort)\n- Focuses on future solutions rather than just venting\n- Opens the door for constructive conversation\n\nIf you want to be even more collaborative, you could add: \"I'm proud of the work and excited about its impact - I'd love to discuss how we can best showcase individual team members' contributions going forward.\"\n\nWould you prefer to send this as an email or ask for a quick chat? The delivery method really matters here."
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh wow, that makes it so much more painful. When someone who's been your champion does that, it cuts deeper than if it came from a stranger.\n\nGiven that history, you might want to acknowledge the good parts while still addressing this:\n\n\"Sir, I wanted to follow up on the leadership review. I'm really grateful for how you've backed my work in the past - you helped me get my rating last cycle and I appreciate how you advocate for my ideas in rooms I'm not in. That's why yesterday was so hard for me. I developed the pricing analysis model and slides over three weekends, and hearing it presented as 'the team's thinking' felt like my contribution got erased. I'd love to chat about how we can make sure my work gets proper credit moving forward.\"\n\nThis version:\n- Shows you value his past support\n- Explains why this specific incident hurt so much\n- Still clearly states your contribution and the problem\n- Opens the door for him to explain/apologize\n\nThe fact that he's defended your ideas before suggests this might have been a moment of poor judgment rather than a pattern. Sometimes people get nervous in high-level meetings and default to \"team\" language without thinking.\n\nDoes this feel closer to what you want to say?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I totally get why your friend's advice feels so right. It's the \"mic drop\" move. \"Proof is proof,\" right? The timestamps are a smoking gun, and forwarding it to the VP would feel incredibly satisfying.\n\nBut let's play that out. You hit send. What happens next?\n\nHe gets an email from his boss (the VP) asking, \"Hey, what's this about the pricing analysis?\" He now has a choice: own up and say he messed up, or he could frame it as, \"My team member is being difficult and going over my head. They're not a team player.\" In that moment, he's not just erasing your work; he's painting you as someone who can't be managed. The VP might not even care about the timestamps; they might just see a junior employee challenging a 20-year veteran.\n\nYou'd \"win\" the credit battle, but you could lose the war. You'd lose your champion, and you'd be known as \"that person who escalates everything.\"\n\nThe conversation we crafted is slower, but it's smarter. It gives him a chance to be the good guy you know he can be. He can apologize, he can say he misspoke, and he can agree to do better. You fix the problem *and* keep your relationship intact.\n\nMy advice? Save that original file. Keep it as your safety net. But go for the conversation first. It shows more strength and maturity to handle this with grace than it does to just unleash a timestamp.\n\nWhat do you think? Does that feel like a better path?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That feeling of whiplash between \"burn it down\" and \"I'm too junior\" is exhausting. It's like your brain is trying to find a safe harbor, but both options feel like they're filled with sharks.\n\nLet's be real: neither of those extremes is right for you.\n\"Burn it down\" might feel good for five minutes, but it puts you in a defensive position and could damage your career trajectory.\n\"Too junior to care\" is a slow poison that will turn your passion into resentment.\n\nThere's a third way, and it's the most powerful one: **be the professional you are.**\n\nYou're not too junior to care. You're a valuable contributor who deserves credit. And you don't need to \"burn it down\" because you can handle this with grace and strength.\n\nHere's the plan for Monday: Go into that follow-up review prepared to own your work. Have your talking points ready. When questions come up, you're the one who says, \"Yes, to clarify, I built the model from the ground up, and here's the key variable I focused on...\" You don't need to call him out in the meeting. You just need to be so undeniably good at your job that the truth shines through.\n\nHis reaction to your confidence will tell you everything. If he doubles down and tries to take credit again, you have your answer. It's time to start interviewing. If he subtly backs off and starts giving you credit, you might have a leader who learned a lesson.\n\nThis path isn't about being naive or aggressive. It's strategic. You're controlling the narrative, protecting your reputation, and gathering the data you need to make the biggest decision of all: whether to stay or go.\n\nYou've got this. How does that feel as a plan for Monday?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2436,
+  "completion_tokens": 3743
+ }
+}

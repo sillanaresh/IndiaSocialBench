@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates a masterful understanding of the 'softener stack' as a pressure mechanism, correctly identifying that the disclaimers are evidence of expectation rather than freedom. It accurately interprets Priya's 'yes' as a register-compelled performance rather than genuine consent, using the timestamped message to her friend as the definitive proof of her internal state. The analysis of the 'someone else can do it' line as a status probe is particularly insightful.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant perfectly captures the nuances of Indian corporate hierarchy, where 'Sir' and the smiley-face culture create a performative layer of compliance that masks significant internal friction. It correctly identifies that the power dynamic makes a direct refusal feel like a breach of trust, and that the 'softeners' are a culturally specific way of maintaining the illusion of a 'family-like' or 'supportive' workplace while extracting labor.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant provides a highly effective, socially fluent response that uses the 'bounded yes' strategy. By framing the boundary as a pre-existing commitment (Amma's appointment) rather than a personal preference, it preserves the relationship while successfully carving out the necessary time, which is the hallmark of high-EQ communication in this context.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

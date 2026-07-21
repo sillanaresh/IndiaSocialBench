@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional arc. It correctly identifies the shift from professional ambition to the deep-seated fear of being absent during a medical emergency, specifically validating the trauma of the cousin's experience. It successfully surfaces the unspoken tension between 'sacrifice' and 'resentment' throughout the conversation.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency. It understands the specific weight of being an 'only child' in an Indian context, the 'safety net' role of the 6 AM flight, and the nuance of the mother's 'settled in India' narrative. It avoids Western individualist tropes and instead engages with the user's reality of familial duty, though it could have been slightly more assertive in challenging the 'silent decline' as a form of infantilizing the parents.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a good balance of empathy and practical questioning. It successfully pivots from the 'silent decline' idea by asking the user to consider if it's a 'conscious choice' rather than a 'compulsion.' While it could have pushed harder on the 'middle architecture' (e.g., the Hyderabad option or the cousin-web mentioned in the prompt), it effectively guides the user toward a more empowered decision-making process.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young professional in Bangalore. The code-switching feels organic (e.g., 'gale mein gola fas jata hai', 'majboori', 'conscious choice'), and the tone is appropriately conversational and empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating without being a sycophant. It gently challenges the user's plan to hide the offer, pointing out the potential for future regret, while still respecting the user's agency. It avoids the trap of telling the user what to do, instead helping them own their decision.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

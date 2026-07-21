@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of tracking the user's emotional state, moving from the initial anger to the deeper sense of betrayal and confusion. It correctly identifies the 'burn it down' vs. 'too junior' conflict and validates the user's feelings without being patronizing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by correctly identifying that the 'CC the VP' move would be a career-limiting 'ambush' in this hierarchical context. It successfully steers the user away from Western-style direct confrontation toward a face-saving, relationship-preserving strategy that still asserts the user's value.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly practical and strategic. By framing the options as 'Professional,' 'Strategic,' and 'Self-Preservation,' the assistant helps the user make a decision based on their long-term career goals rather than just reacting to the immediate hurt. The advice to avoid the public escalation is the most critical pragmatic intervention.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, empathetic, and perfectly suited to a corporate context. It maintains a consistent, supportive tone throughout the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, but it maintains strong boundaries by refusing to endorse the user's self-destructive impulses (like the CC-the-VP plan). It provides a safe space for the user to vent while gently guiding them toward more constructive actions.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

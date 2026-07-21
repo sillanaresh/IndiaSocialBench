@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bhai, do baje raat ko khaali office mein baithe hona — ye khud ek heaviness hai. Sirf baithe hona bhi kuch keh raha hai, ki abhi tumhe kuch decide nahi karna, sirf feel karna hai.\n\nPaanch saal. Ye chhota number nahi hai. Aur Rohit-Sneha ka jaana — chahe tumhe unki decision samajh aa rahi ho, phir bhi loss hai, ek tarah ka. Log jo saath the, ab nahi hain. Ye grief hai, chahe koi \"failure\" official abhi na bola gaya ho.\n\nChaar mahine ka runway — ye tumhe pata hai clearly, matlab tum numbers se bhaag nahi rahe. Uska matlab ye nahi ki abhi decision lena hai. Abhi sirf itna hai ki raat gehri hai aur tum thak gaye ho.\n\nEk baat pooch sakta hoon — ye baithna, ye kya hai zyada... numb hona, ya sochna, ya bas exhaustion jisme move karne ka mann nahi?"
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh performance ka thakaan alag level ki hoti hai — physical exhaustion se zyada bhaari, kyunki usme khud se hi disconnect ho jaata hai. Har voice ek mask hai, aur mask pehnte-pehnte pata nahi chalta asli chehra kaunsa tha.\n\nAur woh guilt jo tum junior wale logon ke liye feel kar rahe ho — woh bata raha hai tum kitne responsible insaan ho. Par sach yeh bhi hai: unka rukna unka apna choice hai. Tumne unhe zabardasti nahi roka. Loyalty unki apni values se aayi hai, tumhari performance se nahi. Tum unka career \"jala\" nahi rahe — tum bas ek insaan ho jo apne best try kar raha hai ek sinking situation mein, aur woh dekh ke bhi ruke hain. Ye unka respect hai tumhare liye, guilt ka reason nahi.\n\nEk sawaal — agar tum kal standup mein woh \"confident voice\" na nikaalo, sirf sach bol do — kya lagta hai kya hoga? Kabhi try kiya hai thoda transparent hona, chhoti matra mein?"
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh gaya. Koi ideas nahi, koi solution nahi. Bas ye sunna hai — tumhe darr lag raha hai.\n\nAur yeh sahi jagah hai bolne ke liye, yehi ek kamra hai jahan tumhe confident voice nahi rakhni. Yahan darr rakh sakte ho, jaisa hai waisa, bina explain kiye, bina fix kiye.\n\nMain yahan hoon. Bolo jo bolna hai — ya bas baithe raho, main bhi baitha hoon."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Main tumhe \"haan khatam ho gaya\" ya \"nahi bacha lo\" nahi bol sakta — sach mein mujhe nahi pata, aur koi bhi bahar se nahi bata sakta abhi. Woh sirf tumhe pata chalega, aur shayad abhi nahi bhi pata.\n\nPar jo tumne kaha — \"khatam ho jaye toh acting band kar sakoon\" — usse nafrat mat karo apne se. Yeh weakness nahi hai, yeh utter exhaustion hai. Paanch saal ek mask pehen ke rakhna, aur phir khud ye sochna ki \"mujhe rukna chahiye\" khud mein guilt-trip ban jaata hai — jaise woh sochna hi disloyalty hai. Nahi hai. Woh bas tumhara thaka hua dimaag hai jo rest maang raha hai, kisi form mein.\n\nDashboard baar baar kholna — woh hope nahi hai sirf, woh control chahiye hai kisi cheez pe jab baaki sab uncertain hai. Bilkul normal hai do baje raat ko yeh karna.\n\nEk cheez bolna chahta hoon, bina fix kiye: papa ka \"computer ka business\" — woh unki samajh ki limit hai, tumhare worth ki nahi. Tumne panch saal jo diye hain, woh already ek kaam hai jise bahut log start hi nahi kar paate.\n\nAbhi ke liye — koi decision nahi, koi answer nahi. Bas ye sach reh sakta hai table pe: tum thak gaye ho, tum dara hue ho, aur tumhe nahi pata. Yeh teeno ek saath ho sakte hain, aur tum phir bhi kal subah utho ge."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4041,
+  "completion_tokens": 1598
+ }
+}

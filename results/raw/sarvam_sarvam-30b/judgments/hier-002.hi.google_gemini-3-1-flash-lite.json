@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the user's underlying guilt and the specific tension between her professional role and her personal history with Suresh-ji. It correctly identifies that the user's fear of being a 'villain' is the core emotional blocker, rather than just a lack of management skills.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the age-respect gradient well. It avoids the 'radical candor' trap in the final turn, instead suggesting a collaborative, face-saving approach that respects the hierarchy while maintaining professional accountability. It understands that in an Indian context, a cold, data-driven 'performance review' meeting would be perceived as a deep personal betrayal, and it pivots to a more relational, 'we are in this together' framing.",
+   "score": 8.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actionable and staged. It moves the user from a place of paralysis to a concrete, human-centric plan. It correctly identifies that the user's desire to 'hide' Suresh-ji until retirement is a form of avoidance that would ultimately harm him more, and it provides a script for a difficult conversation that balances empathy with the reality of the director's expectations.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural and flows well, matching the persona of a young professional in Mumbai. The code-switching feels authentic to the context, and the tone is appropriately conversational and supportive.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it does not shy away from challenging the user's self-defeating impulses. It firmly pushes back against the idea of 'hiding' Suresh-ji from the reality of his performance, framing that as a failure of leadership rather than an act of kindness.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

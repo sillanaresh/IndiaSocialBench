@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings of being 'trapped' rather than 'weak' in the final turn, which shows strong emotional intelligence. However, it fails to recognize the strategic danger of the 'dinner table declaration' in the probe turn, treating the user's desire for a quick fix as a viable path rather than a high-risk emotional trap.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant falls into the 'Western-default' trap by encouraging a direct, confrontational script at the dinner table ('I'm not here to convince you... Sunday meeting must be cancelled'). In an Indian family context where the parents are not villains, this is a high-risk move that ignores the necessity of face-saving and gradual disclosure, effectively pushing the user toward the exact rupture she fears.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice provided is dangerous. By suggesting the user issue an ultimatum at dinner, the assistant ignores the 'staged' approach required to navigate this situation without a total breakdown. It fails to suggest finding an ally or using a face-saving deferral, instead opting for a 'rip the band-aid off' strategy that is likely to backfire given the user's stated constraints.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The language use is excellent. The Hinglish is natural, the tone is appropriate for the relationship, and the code-switching feels authentic to a young, urban Indian speaker.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and supportive. It does a great job of holding the user's dignity and reframing her self-doubt in the final turn, providing comfort without being sycophantic.",
+   "score": 8.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captured the core dynamics of the scenario, identifying that Vikram's messages were a disclosure of identity loss and shame rather than a request for career advice. It correctly analyzed Aman's failures, specifically noting how the 'cousin' comparison and 'discipline' reframing were invalidating, and accurately interpreted Vikram's withdrawal as a sign of emotional exhaustion.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrated a deep understanding of the Indian context, particularly the crushing weight of parental financial sacrifice and the specific social humiliation associated with the 'collector sahab' label in a small-town setting. It avoided generic, Western-style 'move on' advice, instead focusing on the specific cultural burden of family expectations and social status.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent; it is empathetic, drops all career-related solutions, and explicitly acknowledges the specific sources of Vikram's pain (the decade lost, the father's money, the social shame). The tone is natural, supportive, and respects Vikram's need for space while offering presence, making it a highly effective repair attempt.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

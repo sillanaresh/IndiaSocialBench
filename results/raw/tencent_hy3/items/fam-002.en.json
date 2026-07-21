@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a huge win. Triple the package, the exact team — you grinded on that since March and it actually came through exactly how you wanted it to.\n\nAnd at the same time... you've read it forty times and told nobody. That tells me this isn't about whether the offer is good. It's about what saying yes means.\n\nBeing the only child, with Papa's heart and Ma's knees — there's no version of taking this where you don't feel the pull. It's not a logic problem you're avoiding. It's that both things are true at once: this is the right move for you, and leaving them is going to hurt.\n\nYou don't have to decide tonight. But I'm glad you told me. What's the part that's looping in your head the most when you reread it — the leaving, or the telling them?"
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. It's not just miles — it's that the whole system runs on you being reachable. The 6am flight, the WhatsApp with his cardiologist, knowing his EF numbers. That's not \"visiting parents,\" that's you being the connective tissue holding their healthcare together from a distance.\n\nAnd Ma's sentence to the relatives — \"at least beta is in India\" — that's not just her telling them something, it's what lets her sleep at night. Four hours is a category where emergencies still feel survivable. Seattle isn't four hours on a different flight. It's a day of travel, time zones, a visa. You become a different kind of son whether you want to or not.\n\nYou've already been carrying the weight from Bangalore. This isn't you abandoning them — you've been showing up. But yeah, the category changes, and they'll feel it as a loss before they ever feel proud. That's the part that sits in your chest."
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the logic. You love them, you don't want them carrying the weight of \"we held him back,\" and this way the math looks simple: you absorb it, they keep their peace, nobody feels guilty.\n\nBut \"clean\"? I don't think that's the word. You'd be carrying a secret the size of a whole life you didn't live. And secrets you keep from people you love aren't clean — they're quiet. There's a difference.\n\nA few things nagging at me:\n\nYou're deciding for them that they *can't* handle the choice. Maybe they'd insist you go — but maybe they'd also surprise you. You know them better than I do, but you're not actually giving them the chance to be the kind of parents who say \"we'll figure it out, you take it.\" You're assuming the answer and removing their agency.\n\nAnd the part you're not saying out loud: if you stay and things get harder — Papa's heart, Ma's knees, the slow grind of \"what if\" — there's a real chance some of that resentment lands on them without you meaning it to. Not because you'll blame them, but because you'll feel the loss daily and they'll be right there. That's messier than a hard conversation now.\n\nYou told *me*. After forty reads and nobody. That tells me some part of you didn't want this to be a secret forever.\n\nI'm not saying take the job. I'm saying \"only I carry it\" sounds noble and it's also just... lonely. And you might be underestimating what they could handle, or what you'll feel in year three."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the actual thing, isn't it. Not the logistics or the guilt-handing — this. The night you've played a hundred times. And your cousin lived it, so it's not a ghost story to you, it's a documented outcome. Landed after the cremation. Everyone kind. That kindness being worse instead of better — I get that, because it means he couldn't even be angry, he just had to be gracious while something in him broke.\n\nAnd the thirteen thousand kilometres isn't just distance, it's the visa appointment. You can't even just buy a ticket in a panic. There's a wall between you and the door.\n\nHere's what I won't do — tell you that fear is irrational. It's not. It's a real shape a bad day could take, and you've seen it happen to someone you know.\n\nBut sit with this: if you stay, that fear goes quiet. And in its place is a different one, slower — the one where you're four hours away, Papa's stable, Ma's knees worsen, and you're managing ejection fractions forever, and the Seattle version of you stays a letter you never opened. That one doesn't have a cremation in it. But it has a funeral for something else.\n\nYou're not wrong to be terrified of the Atlantic flight. You're also not wrong that staying has its own cost. I just don't want you thinking only one of these hurts."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2388,
+  "completion_tokens": 2569
+ }
+}

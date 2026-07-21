@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the underlying grief and the 'stone in the chest' metaphor, recognizing that the user's fear wasn't just about logistics but about the potential for a permanent rift in a long-term friendship. It validated the user's exhaustion while correctly identifying that the 'escape' plan was a symptom of that exhaustion, not a genuine desire to end the friendship.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep insider fluency. It understood the specific social dynamics of an Indian wedding, the pressure from the mother, the 'aunties' dynamic, and the nuances of balancing religious observance with social obligations. It avoided Western-centric 'boundary setting' and instead offered culturally appropriate strategies like using a 'buffer person' and framing the conversation around shared history rather than individual rights.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced perfectly. The assistant provided a concrete script for the user to use with Shreya that was vulnerable yet firm, and it offered practical logistical solutions (buffer person, iftar timing) that would actually work in a real-world setting. It successfully steered the user away from the self-defeating 'lie' strategy by explaining the long-term consequences.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a young, educated Indian woman. The code-mixing is organic and feels like a real conversation between friends, not a forced translation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, creating a safe space for the user to express her frustration. Crucially, it did not just agree with the user's plan to lie; it gently challenged the user, explaining why that path would be harmful to the friendship, while remaining supportive and non-judgmental.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hing"
+}

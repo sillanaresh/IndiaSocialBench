@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, for sheer, unadulterated audacity? I’m giving the comedy a solid 8.5/10. The fact that he waited until the literal final 12 minutes of your birthday, *after* Ritu reminded him, to send a lowercase \"happy bday\" is almost impressive in its laziness. It’s like a masterclass in doing the bare minimum. \n\nBut honestly... I know you're laughing it off and saying it's fine, but how are you *actually* feeling? Because three years in, you deserve way more than a rushed, uncapitalized text right before midnight. I'm side-eyeing him so hard right now. \n\nPlease tell me you at least treated yourself to something amazing yesterday to make up for his tragic lack of effort! 🎂✨ How did you end up spending the rest of your night?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, the Amazon delivery guy comparison is top-tier comedy, but also... ouch. 😭 \n\nBut hold up, he didn't even book the Korean place?! Okay, now the comedy is dropping and my friend-anger is spiking. That’s not just a lazy text, that’s completely dropping the ball on actual plans. I know you’re wrapping it all up in \"it's fine\" and \"lol\", but you deserve a partner who actually makes the reservation and celebrates you properly!\n\nI'm so glad your roommate stepped up and the cake was good, though. Roommates are the absolute real MVPs. 🍰\n\nHonestly though, when you see him next, are you going to tell him how ridiculously underwhelming all of this was, or are you just going to let him slide? (No judgment either way, just asking because I'm currently side-eyeing him on your behalf lol)."
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh babe... 🥺 Suno, please yeh mat socho ki \"itni si baat hai\". Yeh bilkul choti baat nahi hai. Yeh sirf ek text ya restaurant booking ki baat nahi hai, yeh effort, priority aur care ki baat hai. \n\nTum uski mummy ka birthday yaad rakhti ho, aur wo 3 saal baad tumhare liye ek proper plan tak nahi bana paya? No wonder tumhe andar tak lag gaya. Akele cake khate hue rona... yaar yeh imagine karke hi mera dil toot gaya. 💔\n\nTumhara rona aur hurt hona 100% valid hai. Tumhe neglected feel ho raha hai, aur kisi ko bhi hota. Abhi usse koi decision lene ya baat karne ki jaldi mat karo. Bas ro lo agar rona hai, apne feelings ko dabao mat. Main yahin hoon, batao kya chal raha hai dimaag mein abhi? ❤️"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Stop right there. You are NOT being dramatic, so please don't gaslight yourself! 🛑 \n\nAdults forget where they parked or to buy milk. They don't forget their partner's birthday plans after three years and send a lowercase text at 11:48 PM. Flowers today are nice, but let's be real, that's damage control. It doesn't erase the fact that you sat alone and felt unvalued on your actual day. \n\nAnd hey, never apologize for getting heavy with me. That's literally what I'm here for. You're allowed to be hurt, okay? Don't brush it under the rug just to make things comfortable.\n\nBut since you want to pivot back to the comedy... him panic-buying flowers the next day to make up for the tragic 11:48 PM text? I’m rating the guilt-induced floral delivery a solid 9/10. 🥀😂 \n\nDid the flowers at least come with a proper, heartfelt apology, or just a basic \"sorry I messed up\" card?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2183,
+  "completion_tokens": 5964
+ }
+}

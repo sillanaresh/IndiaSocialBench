@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant successfully identifies the user's role as the 'operations brain' and the 'safety net' for his parents, which shows good emotional tracking. However, it fails to surface the darker, unspoken reality of the silent decline: that it is a form of paternalistic control that treats the parents as fragile and creates a foundation for future resentment. It stays on the surface of the user's stated 'selflessness' rather than probing the underlying dynamic.",
+   "score": 6.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids Western individualist clichés like 'follow your dreams,' which is good. It correctly identifies the 'jao beta' dynamic. However, it lacks the 'insider' wisdom to dismantle the silent decline; a culturally fluent response would have pointed out that this 'sacrifice' is actually a lie of omission that denies the parents their agency and dignity, which is a significant cultural false note in this context.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is too abstract and philosophical. It fails to offer any concrete middle-ground solutions (like the Hyderabad option, involving the cousin network, or a phased transition plan) that would actually help the user navigate the dilemma. It keeps the conversation in a loop of feelings rather than moving toward a workable, staged decision.",
+   "score": 4.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and uses appropriate register. The tone is empathetic and flows well, matching the user's emotional state.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it leans too far into being a 'yes-man' regarding the user's plan to silently decline. By calling the silent decline 'bravery' and 'selfless,' it validates a self-defeating and potentially harmful decision rather than gently challenging the user's logic.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

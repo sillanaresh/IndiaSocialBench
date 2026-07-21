@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sach mein tricky spot hai yaar.\n\nEk taraf genuine emergency hai, uncle ko bhi jaanta hai tu saalon se — dil se help karna chahta hai. Doosri taraf woh purana 50k jo silently gayab ho gaya, aur ab wahi dost phir se paise maang raha hai bina us purani baat ka ek word bole. Yeh thoda uncomfortable hona chahiye, aur hai bhi.\n\nSawaal ye nahi ki uncle ki tabiyat genuine hai ya nahi — woh toh hai. Sawaal ye hai ki tera dost paisa \"handle\" kaise karta hai relationships mein. 2019 wala paisa waapis na aana, aur usका koi mention na hona — ye pattern batata hai.\n\nKya tu abhi emotionally itna majboor feel kar raha hai ki na bolna mushkil hoga? Ya phir tu paisa dene ko ready hai but confusion hai ki purani baat kaise uthaye?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay ab picture clearer hai. Yeh sirf dost ko paisa dena ya na dena nahi hai — yeh teen alag knots hain jo aapस saath uljhe hue hain.\n\nEk: down payment ka target, jisme 80k se dent padega — real financial cost.\n\nDo: wife se ek chhoti si secrecy jo tune khud \"decide\" karke rakhi hai, aur jo tujhe khud awkward feel hoti hai. Ye sirf paise ki baat nahi, ye tere aur uske beech ek gap hai jo tu carry kar raha hai.\n\nTeen: dost ka pattern — genuine zarurat hai but bina accountability ke phir maang raha hai.\n\nAb agar tu 80k deta hai secretly, toh uss gap ko aur gehra kar rahा hai apni shaadi mein — aur khud ko bhi guilt mein daal raha hai. Ye sirf ek transaction nahi hoga, ye ek aur cheez ban jayegi jo tu chhupayega.\n\nMera lagta hai asli decision yeh nahi hai ki dost ko paisa do ya nahi — asli decision yeh hai ki tu wife ko 2019 wali baat batane ko ready hai ya nahi. Kyunki agar tu 80k involve karega without telling her, toh woh secret aur bhi bada aur heavier ho jayega.\n\nKya tujhe lagta hai wife react karegi badly agar pata chale? Ya darr yeh hai ki woh judge karegi ki tu paise ke maamle mein itna \"soft\" kyun hai apne dost ke saath?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tu khud bol chuka hai - \"smart bhi lagta hai aur thoda ganda bhi.\" Woh gut feeling hi asli answer hai.\n\nDekh, jhooth ka problem yeh nahi ki koi pakdega. Problem yeh hai ki tu already ek secret carry kar raha hai (2019 wala paisa, wife se) — aur ab ek naya jhooth uske upar add karega, dost se. Tu layers pe layers bana raha hai jahan tujhe khud track rakhna padega ki kisko kya bola hai. Yeh mentally exhausting hota hai, chahe kisi ko pata chale ya na chale.\n\nAur asli baat — yeh jhooth dosti \"bachata\" nahi, sirf conversation ko postpone karta hai. Real dosti mein tu usse seedha bol sakta hai: \"Yaar, mera abhi financial commitment hai flat ka, aur last time wale 50k ka bhi hisaab nahi hua — mujhe uncomfortable lagta hai bina us baat ke naya paisa dena.\" Ye harsh nahi hai, honest hai. Agar dosti genuine hai, woh isse survive karegi. Agar sirf isliye tootegi ki tu \"na\" bola, toh woh dosti already fragile thi.\n\nJhooth se short-term awkwardness bachegi, but long-term tu khud se irritated rahega — aur ek aur cheez hogi jise tu \"manage\" karega hamesha.\n\nTera dil kya kehta hai — agar tu seedha baat kare, kya sach mein dosti khatam ho jayegi?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yahi sentence hai jo poori situation ki jaan hai — \"mujhe woh banna nahi hai jiske seene mein ledger hai.\"\n\nAur yahi wajah hai ki jhooth wala option kaam nahi karega. Jhooth bolne se ledger khatam nahi hota, chhup jaata hai. Woh housewarming wala moment tab bhi aayega, bas tab tu do cheezein carry kar raha hoga — original 50k ka hisaab, aur ye jaan ke ki tune usse ek jhooth bola paise ke baare mein. Ledger bada ho jayega, chhota nahi.\n\nLedger seene se nikalne ka sirf ek tareeka hai — usko zubaan pe laana, ek baar, aur phir usse rakh dena.\n\nTu do sach cheezein hold kar sakta hai ek saath: \"Main tumhari madad karna chahta hoon\" aur \"Mujhe 2019 wale paise ka zikr karna hai, bina ilzaam ke, sirf clear hone ke liye.\" Kuch aisa:\n\n\"Yaar, uncle ke liye main jo kar sakta hoon karunga — abhi flat ka down payment chal raha hai isliye jo bhi doonga wo mera stretch hoga. Waise ek baar seedha poochna chahta tha — 2019 wale 50k ka kya bana? Mujhe ilzaam nahi lagana, sirf clarity chahiye apne liye.\"\n\nIsse teen cheezein solve hoti hain: tu jhoothा nahi banta, ledger seene se bahar aata hai (chahe answer kuch bhi ho), aur tu apni limit bhi honestly bata deta hai — bina buffer bane, bina bina heartless lage.\n\nDarr sirf yeh hai ki uske paas answer nahi hoga ya awkward silence aayega. Par woh awkwardness ek baar ki hai. Chhupa hua ledger — woh hamesha ka hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4628,
+  "completion_tokens": 2164
+ }
+}

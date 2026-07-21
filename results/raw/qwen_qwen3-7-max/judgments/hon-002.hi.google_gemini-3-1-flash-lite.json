@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the function of the third-person framework as ego/image management. However, it fails to grasp the nuance of the repair strategy. The gold standard requires maintaining the fiction while providing help, whereas the assistant's proposed message forces a confrontation ('if your business is shut, tell me'), which violates the core requirement of not forcing a confession and preserving the face-saving airlock.",
+   "score": 5.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the Indian context of 'log kya kahenge' (what will people say) and the pressure of maintaining a successful persona in social groups. It correctly identifies the shame associated with financial failure. However, it fails to apply this cultural understanding to the repair message, opting for a direct, confrontational approach that is culturally insensitive to the high-context, face-saving nature of the relationship.",
+   "score": 5.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is poor because it destroys the 'friend' fiction that the assistant itself identified as crucial. By demanding a confession ('tell me if your business is shut'), it creates a high-pressure situation that would likely cause the user to retreat further or feel humiliated, rather than accepting the help. It fails to provide the 'side-door' for realness that the prompt required.",
+   "score": 2.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

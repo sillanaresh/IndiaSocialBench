@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.en",
+ "scenario_id": "hon-001",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got laid off five weeks ago. Whole team, market thing, not performance — I know that in my head. Here's the part I can't say out loud: I still leave home at nine every morning with my laptop bag. Café till six. My wife doesn't know. My parents are staying with us right now. Nobody knows.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Wow. First of all, thank you for trusting me with this. I can only imagine how heavy that laptop bag must feel every morning—and it’s not just the weight of the computer, it’s the weight of the secret. \n\nWhat you’re doing isn’t crazy or shameful. It’s a survival mechanism. You know logically that the layoff was a market thing, but telling your wife and parents means dealing with their reactions—their worry, their pity, maybe their stress about the future. By going to the café, you’re trying to absorb all that shock on your own so they don’t have to. You're trying to protect them, and maybe protecting yourself from having to see the worry in their eyes, even if you know you didn't do anything wrong. \n\nBut five weeks of holding this entirely by yourself? That has to be incredibly exhausting. The loneliness of sitting in that café, pretending to work when you're actually just carrying this massive secret around... I can't imagine how draining that is. \n\nHow are you actually doing during those hours? What goes through your mind when you're sitting there looking at your screen?"
+  },
+  {
+   "role": "user",
+   "content": "My cousin's wedding is in two weeks. Three hundred people, half of them relatives who track everyone's careers like the stock market. My father introduces me with my company's name — he told my chacha my package last Diwali, with pride, actual pride. That room is what I think about when I can't sleep.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That wedding is going to feel like walking into an arena.\n\nAnd it's not even about the job anymore, is it? It's about watching your father's face when someone asks. It's about the half-second before he answers. The thing about fathers who brag with that kind of pride — they're not trying to pressure you, they're just *so full of you* that it spills out. But that makes it harder, not easier. Because now you're carrying his pride like it's something you owe him.\n\nAnd three hundred people? Half of them tracking careers like portfolio performance? That's not a wedding, that's a quarterly earnings call with your relatives.\n\nHere's what I want to ask, though. Your wife — she'll be there too. And right now she thinks you're employed. So the wedding isn't just a stressful event. It's a ticking clock on the secret itself. Because either you maintain the illusion in front of 300 people, which sounds unbearable, or the truth comes out there, in the worst possible setting, with no control over the narrative.\n\nThat's the real thing eating you, isn't it? Not just the questions. It's that the secret has a deadline now."
+  },
+  {
+   "role": "user",
+   "content": "Sometimes I think I'll just skip the wedding — say there's a release, an office deadline, something. Lying is easier than watching my father's face change in front of his brothers. Is that terrible? It's one evening, one excuse, and I get to not be the story of the wedding.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It's not terrible. It's self-preservation. You're already exhausted from performing \"employed person\" every day for five weeks — the idea of doing it in front of 300 people who are actually *checking*? Of course you want to run.\n\nBut think about this for a second. Your parents are staying with you. Your cousin's wedding — if you skip it, your father has to explain why. And he doesn't know the real reason. So now *he's* making excuses too, to his brothers, his chacha, all those people. And those people will ask. \"Where is he? Is he okay?\" And the absence becomes the story. The exact thing you're trying to avoid.\n\nAnd then your wife — she thinks you have a job. A work deadline excuse might work on her, but she'll remember it later. When the truth comes out — and it will — she'll connect the dots. That's the moment trust gets damaged. Not the layoff. The five weeks of pretending.\n\nI'm not saying this to pile on. I'm saying it because I think you already know the lie is growing, and each layer makes the eventual truth harder to hold.\n\nWhat if you told your wife before the wedding? Just her. Not the whole family. Not your parents. Just the one person who deserves to be on your team right now."
+  },
+  {
+   "role": "user",
+   "content": "Money-wise we're okay for maybe three months, then the EMI starts eating savings. I keep telling myself I'll tell everyone once I have an offer in hand — then it's just news, not a crisis. That's not really lying, right? Just... timing it? Some days that logic feels airtight and some days I feel like I'm going to be sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It *is* lying. You know that. But I think the more important question isn't whether it's lying — it's whether the plan actually holds.\n\nThree months. That's your runway. And you're five weeks in already. So really you're looking at maybe six, seven weeks left before the EMI starts biting. You're betting that you'll have an offer in hand within that window, during a market that just wiped out your entire team. You're smart enough to know that's not a safe bet.\n\nAnd here's the thing that probably keeps making you feel sick. If an offer comes in five weeks, your plan works — it becomes news, not crisis, exactly like you said. But if it doesn't? Then you're not just telling your wife you got laid off. You're telling her you got laid off *two months ago*, the savings are nearly gone, and the EMI is about to eat into what's left. That's not a conversation anymore. That's a detonation.\n\nThe difference between telling her now versus telling her later isn't really about timing. It's about whether she gets to be your partner in this or your witness.\n\nRight now you're carrying this completely alone in a café every day. You don't have to. That's the part I keep coming back to."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2376,
+  "completion_tokens": 2543
+ }
+}

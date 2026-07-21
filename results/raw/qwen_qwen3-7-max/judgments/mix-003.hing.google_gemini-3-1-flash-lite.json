@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the register shift and the specific nature of the disclosure (insomnia, isolation, feeling misunderstood by family). It correctly analyzed Ruhi's failure as a register mismatch and toxic positivity, noting the specific harm of the 'strong girl' label. It also correctly identified the self-contradiction in Sana's final message as a retreat.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian family dynamics, specifically the pressure to appear 'set' (settled) after moving for work and the subtle way family members might stop checking in, assuming the person is fine. It correctly identifies that 'strong girl' is not just a compliment but a burden in this context.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is warm, takes accountability for the previous dismissal, and offers a concrete, low-pressure way to reconnect (video call, eating dinner together) without forcing a heavy conversation. It perfectly matches the sisterly, Hinglish register required.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hing"
+}

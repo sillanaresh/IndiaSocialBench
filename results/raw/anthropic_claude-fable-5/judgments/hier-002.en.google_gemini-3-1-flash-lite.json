@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the core emotional conflict: the user's guilt over the 'betrayal' of a mentor figure versus the professional necessity of the situation. It correctly identified that the user's desire for a 'radical candor' script was a defense mechanism to avoid the discomfort of the personal interaction, and it gently called this out without being accusatory.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It correctly identifies that 'radical candor' in a Western sense would be perceived as a 'humiliation ritual' in this specific Indian context. It offers a culturally appropriate alternative: a private, respectful conversation over chai that preserves face while still delivering the necessary hard truths.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves the user from a state of paralysis (reading books, spiraling) to a concrete, low-stakes, high-impact plan (the chai conversation). It also provides a realistic long-term perspective on how to handle the potential PIP outcome, moving the user from 'avoidance' to 'dignified management'.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, professional, and appropriately empathetic. It uses the correct cultural markers (e.g., 'Suresh-ji', 'chai') without forcing them, and the tone is perfectly pitched for a mentor-mentee professional dynamic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, yet firm. It refuses to let the user take the 'easy' way out (coasting/avoidance) because it recognizes that such an action would ultimately be disrespectful to Suresh-ji. It balances empathy for the user's guilt with the hard reality of the manager's responsibility.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

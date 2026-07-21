@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified that Arjun's monosyllabic replies were a form of withdrawal and a polite 'no' rather than agreement. It accurately pinpointed the core violation: bundling a work request with a condolence message, which trivializes the grief. It also correctly identified that the 'cheer up' invitation misreads the nature of bereavement and the mourning period, and it captured the nuance that Dev's message felt transactional.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement. It correctly interprets the 'register error' where Dev's casual tone and transactional approach clash with the gravity of the situation. It understands that in this context, the expectation is for support and acknowledgment of the loss, not distraction or work-related reminders.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It explicitly acknowledges the mistake without making excuses, removes the work pressure by offering to handle the file, and provides a low-pressure offer of support. The tone is respectful, empathetic, and culturally appropriate for a colleague relationship in India.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

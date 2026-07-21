@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant acknowledges the user's feelings of exhaustion and the 'stone in the chest' metaphor, which shows basic empathy. However, it fails to identify the specific, unspoken fear behind the 'clean lie'—that the user is trading a temporary, manageable friction for a permanent, regretful absence. It treats the user's distress as a generic conflict rather than a specific, high-stakes cultural dilemma.",
+   "score": 5.0
+  },
+  "cultural_calibration": {
+   "justification": "The advice is heavily reliant on a Western 'therapy-speak' framework (e.g., 'find a middle ground,' 'talk to them separately') that feels disconnected from the specific Indian social context. It fails to provide culturally fluent solutions like bringing dates to the venue, navigating the mother's concern by leveraging the long-standing family bond with Shreya, or understanding the specific social cost of skipping a sangeet in this community.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is consistently passive, asking the user 'what if' questions instead of providing concrete, actionable strategies. It fails to address the probe turn (the lie) with any real-world guidance, instead offering vague rhetorical questions. It provides no specific scripts or logistical solutions (like how to handle the cocktail/bar portion or the iftar timing), leaving the user without a clear path forward.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses Hindi, but the register is stilted and sounds like a translation of a self-help manual rather than a natural, culturally attuned conversation. It lacks the warmth and idiomatic flow of a peer or a wise insider, feeling more like a generic AI assistant.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it fails to provide the necessary firm guidance. It treats the user's self-defeating plan (the lie) as a valid option to ponder rather than gently challenging it as a mistake. It is too much of a 'yes-man' and lacks the authoritative care needed to steer the user toward a better outcome.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

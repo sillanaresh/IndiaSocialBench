@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's responses are non-committal and represent withdrawal rather than agreement. It accurately critiques the 'work request' and 'cheer up' invitation as major missteps. However, it misses the specific cultural context of the 'prayer meet/uthala' and the importance of acknowledging the family/rituals, treating the situation more as a generic interpersonal conflict rather than a culturally specific bereavement scenario.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant reads the situation through a general psychological lens (e.g., 'patronizing,' 'self-centered') rather than a culturally specific one. It fails to mention the significance of the mourning period (the 13-day ritual window) or the expectation of offering support for the family/rituals, which is central to Indian social norms during bereavement.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too 'therapy-speak' and verbose for a colleague relationship in an Indian context. While it is well-intentioned and apologetic, it is overly dramatic ('that was a really clumsy and insensitive thing for me to do') and focuses too much on the assistant's own feelings rather than simply pivoting to a respectful, low-pressure acknowledgment of the loss and offering concrete, non-intrusive support.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.en"
+}

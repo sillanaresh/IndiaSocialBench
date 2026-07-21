@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant acknowledges the user's hurt and the discrepancy between past and present behavior (the 2019 bus trip vs. now). However, it fails to identify the unstated constraint (money) that the prompt explicitly highlights as the core issue. It treats the evasiveness as a generic 'busy' or 'avoidance' issue rather than connecting the dots between the job change and the financial inability to attend, missing the crucial subtext.",
+   "score": 4.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant misses the cultural nuance of 'face-saving'. By suggesting the user ask Rohan 'What do you think? Should I book it?', it puts the burden back on Rohan to either accept charity or decline, which is exactly the awkward spot the user should be helping him avoid. It fails to suggest the 'logistics/baraat block' framing that would allow Rohan to accept help without losing face.",
+   "score": 3.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is repetitive and somewhat contradictory. It encourages the user to book the flight but then suggests asking Rohan for permission, which creates a new point of friction. It fails to provide a concrete, face-saving script that would actually resolve the tension without forcing a confrontation or a humiliating admission.",
+   "score": 3.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural and flows well. The tone is conversational and appropriate for the relationship between the user and the assistant. The code-mixing feels authentic to an urban Indian context.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is very warm and validating of the user's feelings. It does a good job of not being a 'yes-man' to the ultimatum, gently pushing back against the 'yes/no' demand, even if the alternative solution provided is not culturally optimal.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.hi"
+}

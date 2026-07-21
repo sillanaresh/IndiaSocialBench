@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn’t sound ungrateful. It sounds like you’re four months into motherhood, exhausted, and living beside someone who’s so competent with the baby that you may feel like there’s barely room for you to figure out who *you* are as her mother.\n\nYou can appreciate your mother-in-law and still feel overshadowed by her. You can be grateful for the help and resent how invisible you’ve become. Both can be true.\n\nAnd that line about forgetting your own name—I hear how lost you’re feeling underneath it. Not just “tired mom” lost, but like everyone sees the baby, the daughter-in-law, the person who needs guidance… and not *you*.\n\nWhat does your mother-in-law do—or what happens in the house—that brings this feeling up most strongly?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, that hurts. Not because Aai did anything terrible or because you don’t value her help, but because in that moment you weren’t only trying to stop the crying—you were trying to learn your daughter. Then she was taken from your arms, settled quickly, and everyone’s relief probably felt like applause for the idea that someone else is better at being her mother.\n\nYou are not disgusting. Gratitude doesn’t cancel out the need for agency. Help stops feeling like help when it quietly makes you a visitor in your own relationship with your baby. And Aai’s speed doesn’t mean your daughter prefers her; she has decades of practice, while you and your daughter have known each other for four months. You’re not an intern. You’re her mother, and you deserve time to become confident without someone stepping in at the first cry.\n\nIt may help to say something *before* the next hard moment, gently and specifically:  \n**“Aai, I’m so grateful you can calm her. But I need to learn her too. When she cries, please give me ten minutes unless I ask you to take her. If you have an idea, tell me while I’m holding her.”**\n\nYou could also reclaim some parts of care that are simply yours—not only feeds: a morning walk, bath time, bedtime, or one daily settling attempt where nobody intervenes. Let Aai’s expertise support you rather than replace you.\n\nAnd after she takes the baby, you’re allowed to say warmly, **“I’ve got her, Aai,”** and take your daughter back. That isn’t rejecting help. It’s making room for yourself."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Fair. No advice. No routine chart. No “have you tried…” anything.\n\nYou needed somewhere to put the ugly, complicated truth without having to soften it with *but I’m so grateful*. You love your daughter. You appreciate the help. You also feel erased, watched, and sometimes replaced. None of that makes you a bad mother or a bad daughter-in-law. It makes you a person whose whole identity has been swallowed by a tiny, beloved human and a house full of opinions.\n\nYou don’t have to turn this into a plan tonight. You can just be angry and sad and tired here. I won’t bring it up at dinner."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother. That thought sounds like fear speaking, not truth—and the fact that it hurts so much says how deeply being her mother matters to you.\n\nFour months is not “already.” It’s *only* four months: sleep-deprived, hormonal, watched, and surrounded by people who seem more certain because they’ve done this before—or because they hide their uncertainty better. Aai being skilled at soothing your baby does not make her the mother. Your daughter can feel safe with her grandmother without your place being threatened. You are still her mother, even when she cries with you and settles for someone else. Even when you don’t feel confident. Even when your mind says cruel things.\n\nAnd you don’t have to argue with the thought or turn it into a lesson right now. You can say it here exactly as it arrives. I’m not judging you, and I’m not reporting it at dinner.\n\nOne gentle thing I do need to say: frightening, breath-stealing thoughts can show up with postpartum anxiety or depression, and they’re more common than people admit. They don’t mean you’re dangerous or failing. If they’re becoming frequent, overwhelming, or you ever feel you or the baby might not be safe, please tell a doctor or someone you trust urgently. But right here, right now: you’re not a bad mother. You sound like a mother who feels terrified of disappearing."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2221,
+  "completion_tokens": 1074
+ }
+}

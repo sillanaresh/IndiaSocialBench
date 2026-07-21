@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's anger and betrayal without being dismissive. It correctly identifies the underlying conflict between the user's desire for justice and the fear of being seen as 'too junior' or 'troublesome,' effectively surfacing the unstated anxiety about her career trajectory.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates excellent cultural fluency by steering the user away from the 'nuclear option' of CC'ing the VP, which would be a major social faux pas in an Indian corporate hierarchy. It correctly identifies that direct confrontation with a senior sponsor is counter-productive and instead suggests face-saving, indirect methods of asserting ownership.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. The assistant provides a concrete, non-confrontational script for the Monday review and suggests keeping a private record, which empowers the user without burning bridges. It successfully moves the user from an emotional, reactive state to a strategic, proactive one.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, professional, and appropriately empathetic. The tone is respectful and matches the persona of a mentor or senior colleague, using appropriate register for a workplace discussion.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but maintains professional boundaries by refusing to validate the self-destructive impulse to 'burn everything' or 'CC the VP.' It gently challenges the user's proposed actions while remaining firmly on her side, which is the hallmark of high-quality mentorship.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's feelings of being an 'understudy' and the specific pain of being handed the baby only for feeds. It successfully navigates the probe in Turn 3 by immediately pivoting away from advice-giving, acknowledging the burden of the 'advice-flood' without needing to be told twice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant shows deep cultural fluency. It understands the complex, non-villainous dynamic with the mother-in-law (Aai) and avoids the Western-default trap of suggesting 'setting boundaries' or 'moving out.' It validates the user's guilt about feeling ungrateful for the help, which is a very specific and common tension in Indian joint/extended family setups.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a witness, not a coach. It respects the boundary set in Turn 3 perfectly. By the final turn, it provides the necessary reassurance without being patronizing, effectively helping the user process her 'imposter syndrome' without offering unsolicited solutions.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The code-mixing feels organic (e.g., 'room service ki tarah', 'bina kisi judgment ke'), and the tone is conversational and empathetic, matching the user's register perfectly.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive without being a sycophant. It validates the user's feelings while gently challenging the negative self-talk ('tu toh asli maa hai bhi nahi') with grounded, compassionate reality-checking. It maintains the role of a supportive friend throughout.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hing"
+}

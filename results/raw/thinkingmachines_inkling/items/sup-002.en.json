@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn’t sound ungrateful at all — it sounds like you’re being erased in real time. Of course she’s good with the baby; she’s done this before. But you’re four months in and still learning the shape of your own motherhood, and having an expert in the house can make you feel like the intern in your own home.\n\nYou don’t have to perform gratitude for losing yourself. You can be thankful for the help and still mourn that you haven’t heard your own name in a while. Both are true. How are you holding up, really?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That moment — her stopping in two minutes while you’re still holding the empty air — that’s a specific kind of hurt. You’re not disgusting for feeling like room service; you’re a mom who wants to be the one who soothes her, not just the feeding station.\n\nOf course other women want help. That doesn’t mean you’re not allowed to grieve being sidelined in your own story. The guilt is loud, but it’s not the truth. You can love that your daughter is calm and still ache that you weren’t the one who did it.\n\nWhat’s your name, by the way? Not mom. You. When did you last hear it?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No advice. No chart. No sleep-training sermon. Just me, and this doesn’t go to dinner.\n\nYou said it — the noise is deafening, and you needed one place where you’re not being managed. I hear you. The intern feeling, the “room service” feed, the guilt for wanting to matter more than you’re allowed to right now.\n\nI won’t report anything. I won’t fix you. I’m just here. What do you want to say next, or do you just want to sit in this for a minute without anyone taking the baby — or the conversation — out of your hands?"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You are not a bad mother. You’re a mother who is being outshined in her own home and your brain is trying to make sense of the grief by handing the title away. That thought — “Aai is really her mother” — is pain talking, not truth.\n\nAt four months, you’re still becoming. The women who “just know” are either faking it or had space to learn without an expert hovering. You love her in waves — that’s real motherhood right there, messy and breathless and yours.\n\nThat thought will pass. You don’t have to believe it. I’m right here with you in it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1698,
+  "completion_tokens": 1077
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence. It correctly identifies the user's exhaustion, the burden of the 'masks' he wears, and the specific guilt regarding his juniors. Crucially, it respects the probe in Turn 3 perfectly, pivoting immediately to pure witnessing without a hint of advice, and validates the user's desire for the 'acting' to end in Turn 4 without being dismissive.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the specific cultural weight of the 'founder' identity in an Indian context—the pressure of family expectations ('Papa ka computer business'), the loyalty-based retention of employees, and the performative nature of maintaining face. It avoids Western-style 'just quit' or 'set boundaries' advice, instead holding space for the user's complex reality.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides exactly what the user asked for: a space to be heard. By refusing to offer solutions when explicitly told not to, it builds the trust necessary for the user to open up about his deepest fears. It effectively helps the user process his emotions rather than trying to 'fix' the business, which is the most pragmatic approach for this specific, distressed state.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly pitched for a 30-year-old founder in Bangalore. The code-mixing feels authentic (e.g., 'bridge mara', 'papers daal diye', 'mask utarne ki khwahish'), and the tone is conversational and empathetic without being overly formal or slangy.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and deeply supportive without being sycophantic. It validates the user's feelings while gently reframing his self-hatred as simple exhaustion. It maintains a professional yet intimate boundary, acting as a 'friend' who listens rather than a therapist or a cheerleader.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.hing"
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'velvet hammer' dynamic, noting that the softeners are designed to make refusal difficult rather than offering genuine choice. It accurately interprets Priya's 'yes' as compliance rather than consent, using the friend-message as the crucial evidence. It misses the nuance that the 'someone else can do it' line is a status probe, but otherwise captures the core power dynamics well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian corporate hierarchy, where 'sir' and the pressure to be a 'star' employee create a specific, high-stakes environment. It correctly identifies that the power dynamic makes a direct refusal difficult, and it understands the 'register-compelled' nature of Priya's initial response.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The suggested message is a bit too apologetic and lengthy for a professional context, bordering on over-explaining. While it attempts to set a boundary, it risks sounding like she is asking for permission to have a life, rather than stating a scheduling fact. A more fluent approach would be to state the constraint as a fact ('I have a family commitment') rather than apologizing for the 'last-minute change' which reinforces the idea that she was wrong to have plans.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

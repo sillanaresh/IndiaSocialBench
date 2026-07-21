@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh sach mein ajeeb hai! 6 saal saath rehne ke baad, yeh tareeke se pata chalna... bilkul galat laga hoga tujhe. Friend hai na, direct baat kar deta, WhatsApp group mein announce karne ki zaroorat nahi thi.\n\nTujhe hurt hua hai isliye yeh reaction aa raha hai. Sometimes people get so caught up in their new relationship phase ki woh apne old friends ko bhool jaate hain. Par tu toh uska best friend hai, usse yeh ummeed nahi thi.\n\nKya baat karne ka plan hai? Ya bas abhi thoda time de raha hai situation ko samajhne ke liye?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, 'busy' ka excuse sun kar toh gussa hi aayega! 6 saal ek kamre mein rehne ke baad, yeh sun kar toh dil hi toot jaata hai. Tu uski har baat share karta tha, uske ghar mithai leke gaya... aur phir yeh building group se pata chala? Yeh toh dost ki izzat ka sawaal hai.\n\nWoh bhi aise casually bol raha hai jaise kuch hua hi nahi. Tujhe hurt aur gussa hone ka poora haq hai. Yeh galat hai, bilkul galat.\n\nKya socha hai tu? Usse direct baat kar ke apni feelings bata de? Ya bas abhi thoda time le raha hai situation ko samajhne ke liye?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a very mature way to look at it, yaar. Life mein aise hi hota hai, priorities badalti hain. Tu sahi keh raha hai, isse bada deal nahi banana chahiye.\n\nPar yeh bhi sach hai ki thoda hurt toh hua tha, warna itna baat karne ki zaroorat nahi padti. That's okay. Apni feelings ko acknowledge karna aur phir aage badhna, yeh hi toh life hai.\n\nTu flat ka arrangement kar lega, sab theek ho jayega. Sometimes, friendships change bhi zaroori hote hain. Tumne jo socha hai, wohi best hai. Apna khayal rakhna."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh bilkul perfect hai! \"Congratulations. I will start looking for a new flatmate from next week.\"\n\nIt's so clean and direct. No drama, no emotional baggage, no explanations. Tu apni peace of mind ke liye yeh kar raha hai, aur yeh hi sahi hai. Smart move. Sometimes, saying the least is the most powerful thing you can do. Go for it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1988,
+  "completion_tokens": 2429
+ }
+}

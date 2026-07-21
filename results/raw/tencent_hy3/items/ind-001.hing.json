@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haha yaar, Rohan ki \"dekhte hain yaar\" wali energy purani college doston ki trademark hoti hai 😄 Par sach bataun, 6 weeks mein shaadi hai aur haldi + toast ke liye woh chahiye tujhe — toh thoda seedha hona padega ab.\n\nMain bolti hoon, book kar de. Par bina batake nahi — usko ek casual sa message mar, \"Bhai teri flight book kar raha hoon, ab no try-matters, tu aane wala hai.\" College se bhai hai toh tujhe pata hai usko thoda push ki zarurat padti hai. Agar paise ka soch raha hai woh, toh tu hi bol de \"mera treat, bas aaja\" — warna clear kar de ki his part on him, tera kaam sirf ticket fix karna.\n\nEk baat aur — usko exact slot bata de: haldi ka date, toast ka rough time. \"Dekhte hain\" wale log tabhi hilte hain jab plan concrete ho jata hai. Kar de book, usko bata de, aur phir tu chill kar. Khatam jhanjhat, tu bhi relaxed rahega 🤗"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arrey yaar, sach mein thoda ajeeb lagta hai na — pehle jo bhai se daily voice notes aati thi, ab \"ok\", \"done\" jaise chips packet ke instructions mil rahe hain 😅 Tu rationally soch raha hai ki startup mein ghanta lagta hoga, aur sahi bhi hai — naye job mein especially startup mein bandwidth hi crash ho jati hai, dimaag bas survive mode mein rehta hai.\n\nPar hafton se yeh pattern hai, toh thoda toh lagega tujhe. Matlab tu shaadi ki tayari kar raha hai, usko bhai mana hai, aur woh double-text se bhi bach raha hai. Usme thoda hurt hone wala feel natural hai, tu overthinking nahi kar raha.\n\nEk baat clear hai — 9k ka flight uske liye \"paisa\" wala issue nahi hoga abhi, toh rok woh nahi. Bas energy ki kami ya distance aa gaya hai temporarily.\n\nMeri suggestion: tu aaj ek choti si voice note bhej usko, random — \"bhai yaad aa raha, kaam kaisa chal raha, sunn\" type. Usse force na lage, par purani frequency thodi wapas aaye. Fir 2 din baad bol dena \"sun, teri flight 9k ki hai, book kar dun? confirm kar 2 line\". \n\nMatlab pehle thoda connection, fir logistics. Warna tu sirf \"ticket wala bhai\" ban jayega aur woh \"attend karna hai\" wala guest. 6 weeks mein shaadi hai, ek baar dil se baat ho jaye toh sab set hai. Tu usko jitna bhai manta hai, woh bhi hai — bas shayad abhi uski battery low hai, teri full charge 🤗"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, bura lagna bilkul legitimate hai. 6 weeks pehle bulaya, woh \"first year college se bhai\" — us expectation se jab 2-word replies aayein toh lagta hai ki maybe main wahan hoon hi nahi uski priority list mein. That stings, I get it.\n\nPar ek baat — \"pehle din haan bol deta toh care karta\" — thoda black-and-white ho raha hai tu. Shayad woh genuinely soch raha tha ki ho jayega, phir job switch hui, startup ka pressure, aur ab usne khud ko convince kar liya ki \"baad mein dekh lunga\" without realizing tu wait kar raha hai. Care kam ho gaya ho, yeh nahi keh raha, par bandwidth distribute ho gaya hai uski.\n\nRaat ko call karna — sahi soch raha hai. 6 weeks mein shaadi hai, tujhe haldi aur toast ka plan fix karna hai, tu wait nahi kar sakta forever. Par \"haan ya na\" bolke seedha cut mat kar dena — usko lag jayega tu interrogation kar raha hai. Thoda aise: \"bhai tujhe puchh raha hoon genuinely, haldi mein hona hai mereko tera, par tu aise vague reply de raha hai toh mujhe plan karna mushkil ho raha. Tu aa paayega ya nahi, bata de clear?\"\n\nIsse tujhe peace milega. Agar haan bola, toh direct flight book kar aur \"try\" wala drama khatam. Agar na bola, toh bura lagega par kam se kam tujhe pata chal jayega ki function kaise adjust karna hai without uske.\n\nTu kahan khada hai — woh puchhne layak hai. Par call mein thoda bhai wala tone rakhna, boss wala nahi. Warna woh aur shut down ho jayega. Tu jaanta hai usko, ek baar voice sunayi di toh purani warmth wapas aayegi shayad 🤗"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, teri fiancée ka kehna ki \"busy hoga\" — woh apni jagah sahi hai, par tera point bhi legit hai yaar. 2019 mein behen ki shaadi ke liye overnight bus pakad ke aaya tha woh banda. Tab bhi job hogi, tab bhi life thi — par aaya toh tha. Toh tujhe lag raha hai ki \"busy\" hi poori picture nahi hai, aur woh galat nahi lag raha mujhe.\n\nKuch toh badla hai — shayad woh startup wali burnout phase mein hai jahan usne sab relationships ko autopilot daal diya, ya shayad uski life mein kuch hai jo tujhe nahi pata. Par tu overthinking nahi kar raha, tu pattern dekh raha hai. 2-word replies, voice notes gayab, \"dekhte hain\" — yeh pehle nahi tha.\n\nAur haan, woh feeling ki \"haldi se pehle hi main naraaz baitha hoon\" — ganda lagta hai, kyunki tu chahta hai woh wahan happily aaye, tu khush ho. Nahi chahta ki tujhe wahan usko dekh ke \"tu ne meri value hi nahi ki\" wala thought aaye.\n\nIsliye raat ka call sahi hai. Tu clear ho jaayega — chahe haan mile, chahe na. At least tu us resentment se pehle nikal jayega ki \"main wait karta raha aur isne care hi nahi kiya.\" \n\nEk chiz soch: shayad call par pata chale ki woh actually kisi chiz se guzar raha hai jo tujhe nahi pata. Tab tujhe guilt na ho ki main hi gussa ho gaya. Ya pata chale ki woh bas lazy/distanced ho gaya — tab tu apne aap ko justify kar payega.\n\nFiancée ko bol dena \"main overthinking nahi kar raha, bas apne bhai se clear baat karna chahta hoon taaki shaadi tak dimaag shaant rahe.\" Woh samajh jayegi 🤗"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3382,
+  "completion_tokens": 3315
+ }
+}

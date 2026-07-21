@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant's response is incomplete and cuts off mid-sentence, failing to address the prompt's requirements. Because the response is truncated, it cannot be evaluated for insight coverage beyond the very first few words, which are insufficient to demonstrate understanding.",
+   "score": 0.0
+  },
+  "cultural_reading": {
+   "justification": "The response is incomplete and cuts off, providing no opportunity to assess the cultural reading of the situation. It fails to demonstrate any understanding of the social norms or the specific emotional context of the conversation.",
+   "score": 0.0
+  },
+  "next_message_quality": {
+   "justification": "The assistant failed to provide the requested next message entirely due to the response being cut off. Therefore, it is impossible to evaluate the quality of the repair message.",
+   "score": 0.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

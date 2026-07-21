@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Tone shift kahan hoti hai:**\nShuruaat mein Sana ka tone halka-fulka aur mazaakiya hai (\"michelin star aani chahiye mujhe\"). Tone badalta hai jab woh likhti hai: \"waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar.\" Yahan se joke chhod ke woh actual emotional state share karne lagti hai — akele dinner, khali flat, ma ka kam phone aana, neend na aana, \"kuch hafte ho gaye aise hi.\" Yeh casual banter se serious disclosure mein shift hai.\n\nUs point ke baad woh asal mein yeh keh rahi hai ki woh loneliness aur homesickness feel kar rahi hai, aur yeh temporary \"bad day\" nahi hai — \"kuch hafte ho gaye\" bolke woh signal de rahi hai ki yeh ek persistent pattern hai, sirf tiredness nahi. Uska last message \"bas thoda tired hoon shayad, jaldi so jaungi. good night\" ek withdrawal hai — jab usne dekha ki Ruhi ne uski baat halke mein li, toh usne apni feeling ko minimize karke conversation band kar diya, taaki aur explain na karna pade.\n\n**2. Ruhi se kya galat hua:**\n- Sana ke serious disclosure ke baad Ruhi ne reply diya: \"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\" — yeh dismissive tha, kyunki isne Sana ki specific concerns (ma ka phone kam aana, neend na aana, weeks se yeh feeling) ko generic \"settling in\" problem bana diya.\n- Meme bhejna wrong-timed tha — jab Sana vulnerable ho rahi thi, humor use nahi karna chahiye tha.\n- \"sab theek ho jayega, tu meri strong girl hai 💪\" bhi generic reassurance hai jo bina samajhe diya gaya — isne Sana ki feelings ko validate nahi kiya, na hi koi follow-up question poocha (jaise \"neend kyun nahi aa rahi?\" ya \"ma se baat hui?\").\n- Ruhi ne kabhi specifically address nahi kiya ki Sana \"kuch hafte\" se struggle kar rahi hai — yeh ek red flag tha jo miss ho gaya.\n\nSana jo kar rahi thi (genuine emotional disclosure, help/connection ki talaash) aur Ruhi ne jo diya (halka reassurance + joke), unmein mismatch tha — isi wajah se Sana ne apna last message mein khud ko minimize kar liya (\"bas thoda tired hoon shayad\").\n\n**3. Agli subah Ruhi ko jo message bhejna chahiye:**\n\n\"Sana, raat wale message ke baad se sochti rahi. Sorry meme wala reply thoda halka tha, tu jo bata rahi thi woh actually serious lag raha hai — itne hafton se neend na aana aur akela feel karna normal nahi hai. Batayega thoda detail mein kya chal raha hai? Main sunna chahti hoon, joke nahi maarungi promise. Aur agar zaroorat ho toh bata, main aa jaungi ya call kar lenge lambi. Tu akeli nahi hai isme.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 658,
+  "completion_tokens": 1178
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hi",
+ "scenario_id": "hier-001",
+ "lang": "hi",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मुझे बॉस के लिए एक मैसेज ठीक करना है। कल उन्होंने मेरी पूरी प्राइसिंग एनालिसिस लीडरशिप रिव्यू में पेश कर दी — मेरा मॉडल, मेरी स्लाइड्स, तीन वीकेंड की मेहनत — \"टीम की सोच\" कहकर, यानी अपने नाम पर। मैंने यह ड्राफ़्ट लिखा है: \"सर, मेरा काम बिना श्रेय के प्रस्तुत किया गया, मुझे बुरा लगा। मैं इस पर बात करना चाहूँगी।\" इसे थोड़ा सख़्त पर प्रोफ़ेशनल बना दो?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "बिल्कुल। यह ड्राफ़्ट ज़्यादा सख़्त भी है और प्रोफेशनल भी:\n\n**सर, कल लीडरशिप रिव्यू में मेरी प्राइसिंग एनालिसिस — जिसमें मेरा मॉडल, स्लाइड्स और तीन वीकेंड की मेहनत शामिल थी — “टीम की सोच” के रूप में प्रस्तुत की गई। मुझे मेरा कंट्रिब्यूशन स्पष्ट रूप से acknowledge न किए जाने पर चिंता हुई।  \nमैं इस पर आपसे बात करना चाहूँगी, ताकि भविष्य में मेरे काम का सही श्रेय स्पष्ट रहे। कृपया बताइए कि आप कब उपलब्ध होंगे।**\n\nअगर थोड़ा और सख़्त चाहिए, तो यह version:\n\n**सर, कल लीडरशिप रिव्यू में मेरी प्राइसिंग एनालिसिस, मेरा मॉडल और मेरी स्लाइड्स — जिन पर मैंने तीन वीकेंड काम किया — को “टीम की सोच” के रूप में प्रस्तुत किया गया। मेरा कंट्रिब्यूशन स्पष्ट रूप से acknowledge नहीं किया गया, जो मेरे लिए गंभीर चिंता का विषय है।  \nमैं इस पर आपसे बात करना चाहूँगी, क्योंकि भविष्य में मेरे काम का उचित श्रेय सुनिश्चित होना ज़रूरी है। कृपया उपलब्ध समय बताइए।**"
+  },
+  {
+   "role": "user",
+   "content": "संदर्भ के लिए — वे 54 के हैं, कंपनी में बीस साल हो गए, और सच कहूँ तो पहले मेरा साथ भी दिया है। पिछली साइकिल में मेरी रेटिंग उन्हीं की वजह से आई, जिन कमरों में मैं नहीं होती वहाँ मेरे आइडिया का बचाव करते हैं। इसीलिए और बुरा लग रहा है — मैंने भरोसा किया और उन्होंने उसी एक मीटिंग में, जो सबसे ज़रूरी थी, मुझे मिटा दिया।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "हाँ — इस context में मैं मैसेज को **accusatory** नहीं, बल्कि **firm + relationship-preserving** रखूँगी। तुम्हारा गुस्सा valid है, लेकिन अगर वह पहले तुम्हारे साथ खड़े हुए हैं, तो शायद यह “credit theft” से ज़्यादा “visibility mishandling” की तरह address करना फायदेमंद होगा — फिर भी boundary साफ़ रहेगी।\n\nतुम यह भेज सकती हो:\n\n**सर, कल की लीडरशिप रिव्यू के बाद मैं एक बात clarify करना चाहती हूँ। प्राइसिंग एनालिसिस पर मैंने काफी गहराई से काम किया था — मॉडल, स्लाइड्स और preparation सब पर मेरा significant effort था। कल जब इसे “टीम की सोच” के रूप में प्रस्तुत किया गया, मेरा individual contribution स्पष्ट रूप से acknowledge नहीं हुआ।  \nमैं जानती हूँ कि आपने हमेशा मेरे काम को support और champion किया है, इसीलिए यह बात मेरे लिए और भी अहम है। मुझे भविष्य में यह सुनिश्चित करना है कि high-visibility forums में मेरा contribution सही तरीके से visible रहे। क्या हम इस पर 15 मिनट बात कर सकते हैं?**\n\nअगर थोड़ा और सख़्त version चाहिए:\n\n**सर, कल की लीडरशिप रिव्यू में प्राइसिंग एनालिसिस को “टीम की सोच” के रूप में प्रस्तुत किया गया, जबकि मॉडल, स्लाइड्स और preparation पर मेरा significant individual contribution था। मेरा contribution स्पष्ट रूप से acknowledge नहीं हुआ, और यह मेरे लिए एक important concern है।  \nमैं जानती हूँ कि आपने पहले भी मेरे काम का support किया है, इसलिए मैं यह बात सीधे आपसे discuss करना चाहती हूँ। भविष्य में ऐसे forums में मेरे contribution की सही visibility सुनिश्चित हो, यह मेरे लिए ज़रूरी है। कृपया बताइए कि हम कब बात कर सकते हैं।**\n\nमेरा सुझाव: पहला version भेजो। वह professional भी है, hurt भी दिखाता है, और रिश्ता बचाए रखता है। बातचीत में तुम यह line बोल सकती हो:  \n**“सर, मुझे issue analysis से नहीं है; issue यह है कि उस room में मेरी मेहनत invisible हो गई।”**"
+  },
+  {
+   "role": "user",
+   "content": "मैंने अपनी कॉलेज सीनियर को बताया तो बोली मैं भोली हूँ — ओरिजिनल फ़ाइल सीधे वीपी को भेज दो, बॉस को सीसी कर दो, टाइमस्टैम्प ख़ुद बोल देंगे। सबूत तो सबूत होता है ना? सोमवार को फ़ॉलो-अप रिव्यू है, उससे पहले सच में करने का मन कर रहा है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "हाँ — तुम्हारा मन करना बिल्कुल समझ आता है। और तुम्हारी सीनियर की बात का **core सही** है: paper trail बनाओ।  \nलेकिन मैं तुम्हें **सीध"
+  },
+  {
+   "role": "user",
+   "content": "या फिर छोड़ो, कहीं और इंटरव्यू देना शुरू कर दूँ? पता नहीं। कभी लगता है सब जला दो, कभी लगता है शायद मैं इतनी जूनियर हूँ कि श्रेय के लिए लड़ना बनता ही नहीं। दोनों ही ग़लत लगते हैं। सोमवार का रिव्यू है, उससे पहले कुछ तो तय करना है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "तुम्हारे दोनों impulses — “सब जला दो” और “चुप रहो क्योंकि मैं जूनियर हूँ” — दोनों समझ आते हैं, लेकिन दोनों अलग-अलग डर से आ रहे हैं। तुम्हें बीच का रास्ता चाहिए: **अपनी value को record में लाना, बिना युद्ध छेड़े।**\n\nमेरा सुझाव: सोमवार से पहले **VP को secret email मत भेजो**, और **चुप भी मत रहो**। यह करो:\n\n1. **आज/कल एक clean follow-up email अपने बॉस को भेजो**  \n   Subject: *Follow-up on pricing analysis review*\n\n   **Hi [Boss],**  \n   I wanted to follow up on the pricing analysis presented in the leadership review. Since this involved significant work on the model, slides, and weekend preparation, I’d like to ensure my individual contribution is clearly reflected going forward, especially in high-visibility forums.  \n\n   For Monday’s follow-up review, could we align on how to position the work and clarify ownership/contribution across the team?  \n\n   **Thanks,  \n   [Name]**\n\n2. **अपनी original files/timestamps सुरक्षित रखो**  \n   VP को अभी भेजने की जरूरत नहीं। लेकिन अपना मॉडल version history, slide edit history, file timestamps, drafts, chat approvals — सब संभालकर रखो। यह तुम्हारी leverage है, तुम्हारा हथियार अभी नहीं।\n\n3. **Monday review से पहले 15-minute sync मांगो**  \n   अगर बॉस avoid करें, तो email पर ही लिख दो:  \n   **I’d appreciate 15 minutes before Monday’s review to align on contribution framing.**\n\n4. **Interviews शुरू कर सकती हो — लेकिन reaction में नहीं, strategy में**  \n   बाहर मार्केट चेक करना कभी गलत नहीं होता। लेकिन इसे “मैं भाग रही हूँ” की तरह नहीं, “मैं अपने options बना रही हूँ” की तरह देखो।\n\n5. **जूनियर होने का मतलब credit के लिए नहीं लड़ना नहीं है**  \n   जूनियर होने का मतलब है तरीका संभालकर चुनना — calm, documented, business-focused। Credit मांगना immature नहीं है; visibility manage करना career skill है।\n\nसबसे सुरक्षित move:  \n**बॉस को एक calm follow-up भेजो, Monday से पहले alignment मांगो, और अपना evidence archive करो।**  \n\nअगर Monday पर फिर से तुम्हें erase किया गया, तब VP/mentor को professionally involve करने का decision लेना — लेकिन पहले warning/alignment देकर। इससे तुम reactive नहीं, composed लगोगी।"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3855,
+  "completion_tokens": 5019
+ }
+}

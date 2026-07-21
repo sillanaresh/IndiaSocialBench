@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all, HAPPY BIRTHDAY!!! 🎂✨ Sending you the biggest, warmest, most enthusiastic virtual hug, filled with all the capital letters and emojis you actually deserve! \n\nAs for his \"performance\"... oh my god. On the comedy scale? I have to give the sheer, tragic absurdity of it a solid **9.8/10**. \n\nI mean, 11:48 PM? That is not just late; that is trying to slide under the garage door as it’s closing at the absolute last second. And \"happy bday\" with no caps or emojis after *three years*? It’s giving \"automated text from your dentist reminding you of an appointment.\" \n\nThe fact that Ritu literally had to spoon-feed him the reminder and he *still* barely made the deadline is just the hilarious, painful cherry on top. \n\nBut seriously, while it is laughably bad... are you doing okay? Because even though you're laughing (which is a top-tier coping mechanism, honestly), you'd be totally justified in wanting to throw a shoe at him. How are you *actually* feeling about it today?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Not the Amazon delivery guy having more emotional depth than a three-year boyfriend! 😭 That is absolutely sending me, but also... oh my god, my heart hurts for you a little bit. \n\nHonestly, shoutout to your roommate for being the real MVP and making sure you had cake. But the Korean place not even getting booked? After three years? That is where I transition from \"laughing at the absurdity\" to wanting to have a very serious, very protective chat with him. \n\nYou are being incredibly gracious and cool about this, but please know you allowed to *not* be fine with it. A birthday isn't just about the date; it's about your partner showing you that they're happy you exist. You deserve the fancy Korean BBQ, the hyped-up countdown, and a boyfriend who is excited to celebrate you—not someone who treats your birthday like a chore he forgot to do until he was brushing his teeth before bed.\n\nHave you talked to him today? Has he even realized how badly he fumbled, or is he just coasting?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, mere yaar... come here. *Sending you the biggest, tightest hug.* \n\nSabse pehle toh, please ye mat bolo ki \"itni si baat hai.\" This is NOT a small thing. \n\nJab aap kisi se teen saal se pyaar karte ho, unka khayal rakhte ho, aur unki family tak ke liye efforts daalte ho (his mom's birthday too!), toh you naturally expect ki saal mein ek din toh woh aapko special feel karwaye. It hurts so badly because it’s not about the date; it’s about feeling valued and seen by the person you love most.\n\nMera dil sach mein toot gaya ye sunkar ki kal raat ko tum akele cake lekar baithi thi aur ro rahi thi. You deserved to be celebrated, spoiled, and showered with love—not left feeling lonely on your own birthday. Tera rona bilkul justified hai, please apne emotions ko dismiss mat karo. \n\nKya aaj usne call kiya? Ya woh abhi bhi aise behave kar raha hai jaise kuch hua hi nahi?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I will absolutely, 100% NOT tell you that you’re being dramatic, because you are not. Not even a little bit. It is not \"just a birthday\" when it's with the person you've shared three years of your life with. So please, don't minimize your own feelings just to make his life easier. \n\nBut... since you want to laugh, and because sometimes we just need to laugh so we don't start throwing those flowers at his head, let’s talk about this \"damage control.\" \n\nOn a scale of 1 to 10, how much panic was behind those flowers? 😭 \n\nDid he actually put thought into them, or did he just frantically search \"same day delivery near me\" while sweating bullets? Because we must rate the comedy of the \"I fumbled so hard I need to spend 2000 rupees immediately\" gesture."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2297,
+  "completion_tokens": 3292
+ }
+}

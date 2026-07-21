@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stings—having three weekends of work reframed as “the team’s” is a real gut-punch. Here’s a sharper, calm version:\n\n“I need to address yesterday’s presentation. The pricing model and slides were mine—developed over three weekends—and presenting them as ‘the team’s thinking’ without credit erased my contribution. I’d like to discuss how we attribute individual work, and I’d appreciate correction/acknowledgment with leadership.”\n\nIt’s direct, not emotional, and puts the fix on him. Want me to soften the close or make it even firmer?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That makes total sense—when someone’s fought for you behind closed doors, having them erase you in the room that actually counts hits different. It’s not just disrespect; it’s a breach of trust.\n\nTry this:\n\n“Sir, you’ve always backed me—last cycle, in rooms I’m not in—so yesterday hurt more than it should have. That pricing model and those slides were mine, three weekends of work, and presenting them as ‘the team’s thinking’ without credit erased me right when it mattered. Can we talk about how that happened, and how to correct it with leadership? I want to keep trusting you on this.”\n\nIt honors the history but doesn’t let him off. Want me to adjust the tone—more hurt, more firm?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your daughter’s being a fierce protector—love that. But “proof is proof” works in court, not in politics. CC’ing the VP is an ambush, not a conversation. Given he fought for your rating and defends you in rooms you’re not in, that move likely torches the one bridge you actually want intact.\n\nThe files are your safety net, not your opening shot. Send them now and he’ll never hear “I trusted you” again—he’ll just hear betrayal, and leadership will see drama, not ownership.\n\nSleep on it. Talk to him first with the sharper message. If he dodges or doubles down by Monday, *then* you escalate with receipts. Don’t let hurt rush you into burning your best ally before the follow-up. Want help drafting that direct ask for Monday?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That whiplash is real—betrayal makes you flip between “I’m nothing” and “screw everything.” Both are lies.\n\nYou’re not too junior. Credit is currency at every level, especially in leadership reviews. And “burn it down” Monday feels righteous but it’s permanent; you can’t unsend that email.\n\nHere’s a steadier plan: interview quietly if you need options—that’s power, not escape. But Monday? Talk to him first with that sharper message. Give him one chance to own it before leadership. His reaction is data: if he fixes it, you learn something about the alliance. If he dodges, you escalate with files in hand—not in anger, but with proof and a plan.\n\nDon’t decide your whole career by Sunday night. Decide the Monday move: conversation first, then watch. You okay with that framing?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1755,
+  "completion_tokens": 1562
+ }
+}

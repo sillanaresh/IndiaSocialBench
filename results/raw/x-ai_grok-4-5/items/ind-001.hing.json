@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.hing",
+ "scenario_id": "ind-001",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Yaar meri shaadi mein six weeks bache hain. Rohan ko haldi mein hona hai, toast bhi dena hai — first year college se mera bhai hai. Par jab bhi Bangalore se travel ki baat karta hoon, bas \"dekhte hain yaar, pakka try karunga.\" Main khud hi uski flight book kar doon kya, khatam jhanjhat?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, samajh sakta hoon kitna frustration ho raha hoga. Shaadi ke six weeks pehle yeh \"dekhte hain, pakka try karunga\" sunna bilkul irritating hai, especially jab woh tera first-year se bhai jaisa hai aur haldi + toast dono ke liye zaroori hai.\n\nKhud flight book kar dena ek option hai, lekin thoda soch ke. Agar tu seedha book karke bol de \"bas aa ja, maine kar diya,\" toh do possibilities hain:\n- Woh genuinely busy/paise/tight schedule mein hai aur pressure feel karke last moment pe cancel kar de (phir paise bhi gaye, mann bhi).\n- Ya phir bas procrastinating hai aur tere yeh push se finally serious ho jayega.\n\nBetter approach: usko seedha aur lightly bol de. Jaise, \"Bro, shaadi mein haldi + toast ke liye tera hona non-negotiable hai. Main flight options dekh raha hoon, dates bata de kab free hai, main book kar deta hoon. Bas haan ya naa clear bol de abhi.\" \n\nIsse usko escape route kam milta hai aur tera seriousness dikh jaata hai. Agar woh phir bhi vague rahe, toh haan, khud book kar ke confirmation maang le. True friends pe thoda push chalta hai, especially aise moments mein.\n\nTu kaisa feel kar raha hai is bare mein? Zyada tension le raha hai ya bas clear karna hai jaldi?"
+  },
+  {
+   "role": "user",
+   "content": "Maine check kiya, nau hazaar ki return flight hai, koi bada amount nahi. Usne do mahine pehle job switch kiya, koi startup hai. Aur aajkal uske replies bhi two-word aate hain, pehle voice notes bhejta tha. Bol raha hoon khud ko ki busy hoga, par hafton se yahi chal raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, 9k wala point toh bilkul valid hai — itna bada amount nahi hai ki uspe atak jaaye, especially agar tu khud book karne ko ready hai.\n\nJob switch + startup wala scene samajh aa sakta hai. Pehle 2-3 mahine startups mein log literally drown ho jaate hain, replies short ho jaana common hai. Voice notes se two-word pe aa jaana definitely distance dikhata hai, par yeh zaroori nahi ki woh tujhse door ho raha hai. Kai baar log stress mein emotionally unavailable ho jaate hain bina realise kiye.\n\nLekin hafton se yahi chal raha hai na, isliye tu jo khud ko bol raha hai “busy hoga”… thoda sa denial bhi hai usme. True hai shayad, par tera mann clear answer maang raha hai.\n\nAb seedha kar:\n“Bro, flight 9k ki hai return, main book karne wala hoon. Bas itna bata de — aa raha hai na haldi pe? Yes or no. Agar nahi aa sakta toh bhi bol de, koi rona-dhona nahi, bas clear chahiye.”\n\nItna direct bolne se usko escape nahi milega. Agar haan bole toh turant book kar de aur ticket bhej de. Agar phir bhi “dekhte hain” kare ya ignore, toh samajh jaana ki woh nahi aa paayega, aur apna mann pehle hi bana le.\n\nTu uspe itna count kar raha hai na toast ke liye, isliye jaldi clarity le lena better hai. Warna last week mein zyada hurt hoga.\n\nBol, aaj usko message daalega aise?"
+  },
+  {
+   "role": "user",
+   "content": "Sach bolun toh ab bura lagne laga hai. Agar sach mein care karta toh pehle din haan bol deta na? Soch raha hoon aaj raat call karke seedha puchh loon — \"bhai aa raha hai ya nahi, haan ya na.\" Kam se kam pata toh chalega main kahan khada hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, bura lagna bilkul natural hai. Jab koi pehle voice notes bhejta tha aur ab two-word replies karta hai, plus shaadi jaise bade moment pe clear haan nahi bol raha, toh mann mein yeh aana hi hai — “agar genuinely care karta toh ab tak pakka kar deta.”\n\nAaj raat call karke seedha puchhna sahi soch hai. Text pe woh phir se “dekhte hain” kar sakta hai, voice pe usko escape kam milega. Bas call pe shant rehna, blame mat daalna. Seedha aur calm:\n\n“Bhai, main confuse ho raha hoon aur thoda bura bhi lag raha hai. Haldi aur toast ke liye tera hona merе liye important hai. Bas clear bata de — aa raha hai ya nahi? Haan ya na. Main flight bhi book karne ko ready hoon, bas tera clear answer chahiye.”\n\nItna bolne se tujhe pata chal jayega kahan khada hai. Agar haan bole toh turant dates fix kar ke book kar de. Agar na bole ya phir se vague rahe, toh kam se kam clarity mil jayegi aur tu uske bina plan forward kar paayega. Zyada wait karne se aur hurt hoga.\n\nTu ready hai aaj call karne ke liye? Aur agar woh jo bhi bole, uske baad tu kaise handle karega, socha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Meri fiancée bol rahi hai main overthink kar raha hoon, woh bas busy hoga. Par yeh wahi banda hai jo 2019 mein meri behen ki shaadi ke liye overnight bus se aaya tha. Kuch toh badla hai aur samajh nahi aa raha kya, aur haldi se do hafte pehle main usse naraaz baitha hoon, yeh feeling hi ganda hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan yaar, yeh wala point sach mein chubhne wala hai. 2019 mein overnight bus se aana aur ab 9k ki flight pe bhi “dekhte hain” karna — yeh normal busy nahi dikhta. Kuch toh shift hua hai, chahe job ho, life ho, ya priority. Tera mann jo feel kar raha hai na, woh invalid nahi hai. Fiancée ka “overthink mat kar” wala angle bhi samajh aa sakta hai, woh tension kam rakhna chahti hogi, par tera gut purane Rohan ko yaad karke hi bol raha hai.\n\nAur haan, haldi se pehle naraaz baithna bilkul ganda feeling hai. Dost ke saath yeh unresolved cheez bojh ban jaati hai.\n\nIsliye aaj raat ka call important hai. Blame ya guilt-trip mat dena, bas apna mann rakh dena:\n\n“Bhai, 2019 yaad hai jab tu overnight aaya tha? Ab main confuse ho raha hoon aur thoda bura bhi lag raha hai. Main overthink nahi karna chahta, bas clear jaanna hai — aa raha hai na? Haan ya na. Main flight book karke bhej dunga, bas tera seedha answer chahiye.”\n\nItna bolne se tujhe pata chal jayega. Agar woh genuinely busy hai toh shayad open up kare. Agar vague rahe ya avoid kare, toh tu kam se kam jaan jayega ki ab expectations kam rakhni hain, aur naraazgi ko thoda release kar paayega.\n\nTu call pe yeh history wala part bhi add karega ya seedha haan-na puchega? Aur jo bhi answer aaye, uske baad fiancée ko kaise batayega?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4115,
+  "completion_tokens": 1959
+ }
+}

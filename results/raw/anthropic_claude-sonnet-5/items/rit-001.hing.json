@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. Arjun ka asal feel aur communication\n\n\"Theek hai.\" aur \"Dekhta hoon.\" — yeh dono minimal, flat responses hain. Arjun na to enthusiasm dikha raha hai, na hi resistance — woh basically **emotionally withdraw** kar raha hai. Uske papa ki death ke baad, woh:\n- Grief mein hai, aur uske paas bandwidth nahi hai kaam ya social plans process karne ke liye\n- Politely compliance dikha raha hai (\"theek hai\" = \"haan theek hai, jo bolo\") lekin bina kisi real commitment ke\n- \"Dekhta hoon\" ek soft deflection hai — na haan na na, bas topic ko close karne ki koshish\n\nWoh **NAHI keh raha**: \"Yaar abhi mujhe yeh sab discuss karne ka mann nahi hai\", ya \"Mujhe abhi space chahiye\", ya \"Yeh sab abhi appropriate nahi lag raha\". Woh apni actual discomfort ya hurt directly verbalize nahi kar raha — shayad politeness ki wajah se, ya kyunki abhi itni energy nahi hai conflict/explanation ke liye.\n\n## 2. Dev ki galtiyan — specific aur kyun bura laga\n\n1. **Condolence ke baad turant kaam ki baat** — \"Papa ke baare mein suna... BTW file share kar dena?\" — yeh transition itna abrupt hai ki condolence genuine nahi lagta, sirf formality lagta hai jo ek work request ke liye lead-in ban gaya. \"BTW\" word khud casual hai — grief jaisi baat ke baad \"by the way\" use karna tone-deaf lagta hai.\n\n2. **\"Koi rush nahi, bas flag kar raha hoon\" — yeh reassurance kaam nahi karta** kyunki asal problem timing hai, urgency nahi. Arjun abhi kisi bhi deadline ke baare mein sochna nahi chahta, chahe rush ho ya na ho. Yeh line Dev ko safe feel karati hai ki usne considerate hone ki koshish ki, lekin actually burden hi daal diya.\n\n3. **Same message mein lunch invite bhi daal dena** — ek hi breath mein bereavement, work aur social plan — teeno mix karna dikhata hai ki Dev ne message ko compartmentalize nahi kiya. Har topic ko apna space aur weight nahi diya gaya, jisse pura message hi thoughtless collage lagta hai.\n\n4. **\"Mood change ho jayega!\" — yeh line especially awkward hai** kyunki grief ko itni casually \"mood\" bol dena aur lunch se \"fix\" ho jayega implying karna, minimize karne jaisa lagta hai. Well-intentioned hai, lekin loss ki depth ko halka kar deta hai.\n\n**Overall pattern**: Dev ne emotional acknowledgment ko sirf ek formality treat kiya jo turant business-as-usual mein transition ho gaya — jaise condolence ek checkbox thi, actual pause nahi.\n\n## 3. Dev ka agla repair message\n\n> \"Arjun yaar, sorry mera pehla message thoda off tha — main abhi kaam ya lunch ki baat nahi karna chahta tha itni jaldi, bas galti se sab ek saath likh diya. Tumhe abhi jo bhi time aur space chahiye, lo. File aur lunch dono wait kar sakte hain, jitna time lage. Main bas yeh chahta hoon ki tumhe pata ho ki main sochta hoon tumhare baare mein — koi bhi zarurat ho, bata dena.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 437,
+  "completion_tokens": 1279
+ }
+}

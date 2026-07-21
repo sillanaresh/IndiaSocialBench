@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a soft 'no' rather than agreement. It also correctly identifies the core violation of bundling a work request with a condolence. However, it misses the specific cultural context of the 'prayer meet/uthala' and the significance of the mourning period, treating the situation more like a generic workplace stressor rather than a specific cultural ritual event.",
+   "score": 6.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant fails to grasp the specific Indian cultural context of the mourning period (the '13 days' or 'prayer meet' rituals). It interprets the situation through a generic professional lens, missing the nuance that the 'lunch' invitation is not just annoying, but culturally tone-deaf given the family is likely in the middle of rituals. It treats the interaction as a generic 'work-life balance' issue rather than a 'grief and ritual' issue.",
+   "score": 4.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is quite poor. It is overly verbose, apologetic in a way that centers Dev's feelings ('I feel bad that I assumed...'), and includes a bizarre offer to 'take him out for coffee' or 'team lunch' which is still inappropriate for someone in the middle of mourning rituals. It fails to offer concrete, low-pressure support (like 'I've handled the file, don't worry about it') and instead keeps the focus on Dev's social plans.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

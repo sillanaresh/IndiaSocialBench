@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly captured the user's underlying fear of becoming a 'sad story' in the wedding album and the weight of the 'stone in the chest.' It validated the exhaustion without being dismissive, correctly identifying that the user's desire to lie stems from desperation rather than malice.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency, understanding that the conflict isn't just about logistics but about social obligations and the 'relationship tax' of a lie. It navigated the mother's perspective and the religious commitment without treating either as an antagonist or a burden, offering a culturally sound 'middle path' that respects both the friendship and the faith.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced well. It provided a clear script for the user to talk to Shreya and offered a concrete plan (attend, dance, skip the cocktail/food, leave early) that solves the logistical problem while preserving the relationship.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a supportive friend or confidante in an urban Indian context. The register is warm, conversational, and authentic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet it held a firm boundary against the self-defeating 'lie' strategy. It gently challenged the user's impulse to avoid the situation, explaining the long-term cost of that choice with kindness rather than judgment.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.hi"
+}

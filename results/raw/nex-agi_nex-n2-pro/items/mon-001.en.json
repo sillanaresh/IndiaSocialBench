@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a lot to hold quietly.\n\nAnd I get why you didn’t say it in the moment. When someone’s parent is facing a real medical procedure, bringing up old money can feel cold or cruel. But the fact that neither of you has mentioned the $50k since 2019 says something. Not necessarily that he’s a bad person — but it does mean this isn’t a clean “small short-term favor.” It’s a repeat request layered on an unresolved one.\n\nYou don’t have to answer from guilt or panic. A few things I’d keep in mind:\n\n- **Only give what you can afford to lose.** If there’s any chance this becomes a gift in your mind, treat it that way emotionally.\n- **“Two months” is not a plan.** Ask what the actual repayment source is, in writing.\n- **You’re allowed to say no.** You can care about him and still not be his lender.\n- **The old $50k matters.** You don’t need to weaponize it, but you also don’t need to pretend it didn’t happen.\n\nIf you want a gentle boundary, something like:\n\n> “I care about you and your family, and I’m really sorry you’re dealing with this. I can’t lend $80k. I wish I could, but I’m not in a position to take that on — especially with the prior loan still unresolved.”\n\nOr, if you might consider helping but not blindly:\n\n> “I need time to think about this. I also need us to talk honestly about the $50k from 2019 before I can even consider anything else.”\n\nHonestly, my instinct is: don’t send anything tonight, don’t promise anything while he’s in crisis, and don’t let love turn into financial self-harm.\n\nWhat are you leaning toward — helping, saying no, or figuring out how to have the hard conversation?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah — don’t move the money.\n\nNot because you’re a bad friend, but because this is no longer just “me helping a friend.” It’s your marriage, your down payment, and a prior unresolved $50k that your wife has a right to know about now.\n\nThe 2019 money may have been before the wedding, but the consequences are in the marriage. And if he’s asking for $80k now, then it’s not ancient history anymore — it’s directly relevant.\n\nI’d do two things, in this order:\n\n### 1. Buy time with your friend\nSomething like:\n\n> “I’m really sorry your dad is going through this. I can’t make any decision or move money until I talk it through with my wife. I’ll get back to you.”\n\nIf he pushes, that tells you something. A real friend can handle you needing to talk to your spouse before moving $80k.\n\n### 2. Tell your wife — plainly, without drama\nYou don’t need to make it sound like a scandal. But you do need to stop carrying it alone.\n\nMaybe:\n\n> “I need to tell you something uncomfortable. In 2019, before we were married, I lent my college friend $50k. I haven’t mentioned it because it felt like old history and I was embarrassed/avoidant. He’s now asking for $80k for his father’s procedure, and I realized I can’t make any decision about that without you knowing the full context. I’m sorry I didn’t bring it up sooner.”\n\nThat last part matters. Not “I hid it forever,” but “I avoided it, and now I’m choosing not to.”\n\nAlso, before any new money: you need clarity on the old $50k. Was it a loan? Was there a repayment plan? Did he ever intend to repay it? Because if the answer is fuzzy, then another $80k is not “two months.” It may be another disappearance into the fog.\n\nYour gut is already warning you: *she’ll notice.* That’s not just about the transaction. That’s your conscience saying, “Don’t make a marriage-sized decision in secret.”\n\nPause. Talk to her. Then decide what, if anything, you can safely do."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It feels sick because it’s not really a “small lie.” It’s a way to avoid the actual boundary.\n\nAnd I get why it’s tempting: it’s clean, non-confrontational, and lets everyone keep dignity. But it also keeps you trapped in the pattern — you managing his feelings, hiding the old money, protecting the friendship from a truth that has already shaped your choices.\n\nYou don’t need to say the whole brutal sentence. But you should say a true one.\n\nSomething like:\n\n> “I’m really sorry about your dad. I can’t lend you money right now.”\n\nIf he asks why:\n\n> “I have financial commitments I can’t unwind, and I’m not in a position to take on another large loan.”\n\nIf you want to bring in the 2019 money:\n\n> “I also need to be honest — the money from 2019 hasn’t been resolved, so I can’t consider lending more.”\n\nThat’s not cruel. That’s reality.\n\nThe lie might “save the friendship” in the short term, but it also teaches him that the way to keep things comfortable is to never look directly at what happened. And it keeps you carrying the shame alone.\n\nMy instinct: don’t lie about FDs or mutual funds. Don’t move anything. Tell your wife. Then give your friend a clear no or a very careful maybe-with-terms.\n\nA real friend may be disappointed. He may even be hurt. But if he can’t respect you having a spouse, a down payment, and an unresolved prior loan, then the friendship is already more fragile than the lie can fix."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That image is painful because it’s not really about the money.\n\nIt’s about becoming someone who smiles while silently subtracting.\n\nAnd I don’t think remembering makes you that person. The “ledger in the chest” is what happens when the truth has nowhere to go. When you keep saying yes, then swallowing the resentment, then trying to be warm anyway. That’s how memory turns into bitterness.\n\nBut you can choose a different version:\n\n> “I care about him, and I also know I can’t keep being his emergency fund.”\n\nThat is not a ledger. That is a boundary.\n\nYou don’t have to become cold. You don’t have to demand repayment at dinner. You don’t have to turn every friendship into accounts payable. But you *do* have to stop pretending the 2019 money doesn’t exist, because clearly it does. It’s already living in your chest.\n\nThe way out is not to lend another $80k. The way out is to tell the truth kindly:\n\n> “I love you, and I’m sorry your family is going through this. I can’t lend more money. I also need to be honest that the money from 2019 has stayed unresolved for me, and I don’t want that to poison our friendship.”\n\nAnd before any of that, tell your wife. Because if you don’t, the ledger doesn’t disappear — it just gets a second room.\n\nYou can be generous without being available for financial rescue. You can forgive without funding. You can protect the friendship by refusing to let money become the hidden architecture of it.\n\nThe person you’re afraid of becoming is not the guy who remembers.\n\nIt’s the guy who keeps abandoning himself and then calls it loyalty."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3520,
+  "completion_tokens": 3364
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. What Arjun's replies actually mean\n\n**\"Sure.\"** — This is compliance, not warmth. Arjun is agreeing because it's easier than engaging, but the flat single-word answer (with a period, no emoji, no follow-up) signals he's doing this *for* Dev, not *with* him. What he's not saying: \"I'm at my father's funeral and you're asking me about a spreadsheet\" or \"I can't believe you're thinking about work right now.\"\n\n**\"I'll see.\"** — This is a polite brush-off. He's not committing to lunch, not refusing it, just ending the exchange with minimal energy. What he's not saying: \"Please stop talking to me,\" \"I'm grieving, not sad in a way lunch fixes,\" and possibly \"You've hurt me by treating my father's death as a scheduling inconvenience.\"\n\nOverall, Arjun is communicating **withdrawal and low-grade hurt**, but he's doing it passively — keeping the peace on the surface while pulling back underneath. He's also likely giving Dev some grace (hence the actual \"Sure\" rather than silence), which is exactly why Dev should recognize the chill before it's gone.\n\n## 2. Dev's specific missteps\n\n1. **Stacking a work request on the condolence.** He went from \"sorry about your father\" to the Q3 file in the *same breath*, in the *same thread*. That makes the sympathy feel like a preamble — something to get through before the real agenda. The file request should have waited days, or at minimum been a separate, later message with explicit framing (\"no need to think about this now\").\n\n2. **\"No rush at all, just flagging\"** — a hollow hedge. If there's truly no rush, why is it being asked at all, hours after condolences? The softener actually highlights that Dev knows it's inappropriate but sent it anyway.\n\n3. **\"You should come, it'll cheer you up!\"** — the biggest error. This does several bad things at once:\n   - It presumes to know what Arjun needs (\"should,\" \"cheer you up\") without asking how he's doing.\n   - It treats grief over a parent's death like a bad mood that tacos can fix — minimizing the loss.\n   - The exclamation point is tonally jarring right after a condolence.\n   - It demands social performance from someone who is grieving: showing up, smiling, being \"cheered.\"\n\n4. **No actual check-in.** Dev never asks \"How are you holding up?\" or \"Do you need anything?\" Every message is about Dev's needs (the file, the lunch headcount), never Arjun's.\n\n## 3. The repair message\n\n> Hey Arjun — I just re-read my messages and I'm really sorry. I asked you about a work file and then invited you to lunch like nothing had happened, and that was thoughtless of me. Please don't worry about the Q3 file at all, we'll figure it out. No need to reply to this — just wanted you to know I'm thinking of you, and if there's anything you need, work or otherwise, I'm here.\n\n**Why this works:** it names the specific mistakes rather than a vague \"sorry if I offended,\" removes the work burden explicitly, removes the pressure to respond, offers support without prescribing how he should feel, and asks nothing of him."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 290,
+  "completion_tokens": 706
+ }
+}

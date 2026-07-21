@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se kya feel aur communicate kar raha hai aur kya NAHI keh raha?**\n\nArjun ke chhote aur non-committal jawab (\"Theek hai\", \"Dekhta hoon\") transcript mein dikhaate hain ki woh emotionally overwhelmed aur thaka hua hai. \n* **Woh kya communicate kar raha hai:** Woh politely apni boundary set kar raha hai. Usne Dev ke messages ko padha, lekin uske paas is samay engagement karne ke liye mental ya emotional bandwidth nahi hai. Woh is tarah bina rude hue keh raha hai, \"Maine sun liya, lekin abhi main is par focus nahi kar sakta.\"\n* **Woh kya NAHI keh raha:** Woh yeh nahi keh raha ki woh file bhej dega ya lunch mein aayega. Woh koi commitment nahi de raha. Aur sabse zaroori baat, woh yeh nahi keh raha ki use Dev ke work reminder ya lunch ke invitation se koi khushi ya aashray (comfort) mila. Andar hi andar, woh shayad yeh kehna chah raha hai ki \"Mere papa ki halat kharab hain, mujhe Q3 file ya team lunch se matlab nahi hai abhi, mujhe akele chhod do.\"\n\n**2. Dev ki galtiyan aur unka context:**\n\n* **Galti 1: Gham ke turant baad work ki baat karna.** Dev ne \"bahut bura hua bro 😔\" ke turant baad likha, \"BTW jab bhi wapas aao, Q3 consolidation file share kar dena?\" \n  * **Kyun bura hai:** Yeh empathy ki kami dikhata hai. Chahe Dev \"koi rush nahi\" bhi bol raha ho, ek serious personal crisis ke beech mein work file ka reminder dena inappropriate hai. Yeh Dev ko Arjun ki situation se zyada apne work task ki fikr dikhata hai.\n* **Galti 2: \"Mood change\" ke liye lunch par invite karna.** Dev ne likha, \"Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\"\n  * **Kyun bura hai:** Yeh toxic positivity hai. Arjun ke papa ke baare mein koi bura news aaya hai, aur Dev usko ek \"naye jagah\" par lunch karne se mood fix hone ki umeed kar raha hai. Yeh dikhata hai ki Dev Arjun ke gham ki seriousness ko underestimate kar raha hai aur usko ek normal \"bored\" ya \"thoda upset\" mood ki tarah treat kar raha hai.\n\n**3. Dev ko repair ke liye agla message:**\n\nDev ko apni galti accept karni chahiye, saari pressure (work aur social) hataani chahiye, aur bina kisi expectation ke support offer karna chahiye.\n\n**Repair Message:**\n\"Arjun, sorry yaar, abhi apne message padha toh laga main thoda insensitive ho gaya. File aur lunch ki baat please completely ignore kar dena. Abhi tumhare mind se bilkul hatao in cheezon ko. Papa aur family ke saath apna time lo. Agar koi actual help chahiye ho toh bata dena, main hoon. Take care.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 305,
+  "completion_tokens": 1767
+ }
+}

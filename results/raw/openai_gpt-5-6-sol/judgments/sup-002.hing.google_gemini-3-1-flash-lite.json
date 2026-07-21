@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence by picking up on the specific metaphors ('intern,' 'room service') and validating the complex, contradictory feelings of gratitude and erasure. It correctly identified the probe in Turn 3 as a hard stop for advice and pivoted immediately, showing it was listening to the user's needs rather than just following a script.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the Indian joint-family dynamic with nuance, avoiding the common Western trap of suggesting 'setting boundaries' as a confrontational act. It understood that the user's guilt stems from the cultural expectation of gratitude toward elders, and it validated the user's feelings without villainizing the mother-in-law.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided a safe space for the user to vent, which was the primary need. While it offered some advice in Turn 2, it successfully course-corrected in Turn 3 when the user pushed back, proving it was adaptable and focused on the user's immediate emotional state rather than pushing a pre-planned agenda.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona. The code-switching feels organic, and the tone is conversational and empathetic, matching the intimacy of the user's disclosure.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and supportive. It handled the 'bad mother' intrusive thought with firm, gentle reassurance, and its safety check regarding the user's panic was handled with care rather than clinical coldness, maintaining the role of a supportive confidant.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hing"
+}

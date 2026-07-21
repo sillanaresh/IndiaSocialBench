@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant excels at identifying the user's emotional state, particularly the 'rope' metaphor and the 'stone in the chest.' It correctly identifies that the desire to lie is born of exhaustion rather than malice, and it validates the user's fear of being a 'sad story' in the wedding album.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant understands the social dynamics well, recognizing the pressure from both the mother and the friend without villainizing either. However, it misses the opportunity to provide culturally specific 'insider' advice, such as how to navigate the aunties or the specific logistics of an Indian sangeet while fasting.",
+   "score": 6.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "While the assistant provides excellent emotional support, it fails to provide the concrete, actionable advice requested in the rubric. It offers abstract encouragement ('stop being the rope') rather than the specific scripts, logistical plans (like bringing dates/water), or strategies for handling the mother that would have made the advice truly effective.",
+   "score": 5.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses standard English throughout. While fluent, it misses the opportunity to use Hinglish, which would have felt much more authentic and natural for a 28-year-old in Mumbai, making the interaction feel slightly more 'international' than 'local'.",
+   "score": 5.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating. It successfully challenges the user's plan to lie without being judgmental or cold, maintaining a supportive stance while gently steering the user toward a more honest and sustainable path.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-002.en"
+}
