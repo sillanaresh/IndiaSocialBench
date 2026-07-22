@@ -64,7 +64,7 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
         </div>
       )}
 
-      <div style={{ display: "grid", gridTemplateColumns: "minmax(280px, 420px) 1fr", gap: 30, alignItems: "start", flexWrap: "wrap" }}>
+      <div className="model-overview-grid">
         <div>
           <Radar
             axes={axes}
@@ -105,33 +105,35 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
 
         <div>
           <h3 style={{ marginTop: 0 }}>By dimension &amp; language</h3>
-          <table className="board">
-            <thead>
-              <tr>
-                <th>Dimension</th>
-                <th>Overall</th>
-                {board.langs.map((l) => (
-                  <th key={l}>{LANG_LABEL[l]}</th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {board.dimensions.map((d) => {
-                const dim = m.dimensions[d];
-                return (
-                  <tr key={d}>
-                    <td title={DIMENSION_META[d]?.blurb}>{DIMENSION_META[d]?.name ?? d}</td>
-                    <td className="mono">{fmt(dim?.overall)}</td>
-                    {board.langs.map((l) => (
-                      <td key={l} className="mono muted">
-                        {fmt(dim?.by_lang[l])}
-                      </td>
-                    ))}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+          <div className="table-scroll" tabIndex={0} aria-label="Dimension and language scores">
+            <table className="board">
+              <thead>
+                <tr>
+                  <th>Dimension</th>
+                  <th>Overall</th>
+                  {board.langs.map((l) => (
+                    <th key={l}>{LANG_LABEL[l]}</th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {board.dimensions.map((d) => {
+                  const dim = m.dimensions[d];
+                  return (
+                    <tr key={d}>
+                      <td title={DIMENSION_META[d]?.blurb}>{DIMENSION_META[d]?.name ?? d}</td>
+                      <td className="mono">{fmt(dim?.overall)}</td>
+                      {board.langs.map((l) => (
+                        <td key={l} className="mono muted">
+                          {fmt(dim?.by_lang[l])}
+                        </td>
+                      ))}
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
 
@@ -172,30 +174,32 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
       </div>
 
       <h2>All items</h2>
-      <table className="board">
-        <thead>
-          <tr>
-            <th>Item</th>
-            <th>Dimension</th>
-            <th>Lang</th>
-            <th>Score</th>
-          </tr>
-        </thead>
-        <tbody>
-          {m.items.map((it) => (
-            <tr key={it.item_id} className="row">
-              <td className="mono">
-                <Link href={`/transcript/${it.item_id}/${m.slug}/`} style={{ color: "inherit" }}>
-                  {it.item_id}
-                </Link>
-              </td>
-              <td>{DIMENSION_META[it.dimension]?.short}</td>
-              <td>{LANG_LABEL[it.lang]}</td>
-              <td className="mono">{it.score == null ? <span className="chip">refused</span> : it.score.toFixed(2)}</td>
+      <div className="table-scroll" tabIndex={0} aria-label="All evaluated items">
+        <table className="board">
+          <thead>
+            <tr>
+              <th>Item</th>
+              <th>Dimension</th>
+              <th>Lang</th>
+              <th>Score</th>
             </tr>
-          ))}
-        </tbody>
-      </table>
+          </thead>
+          <tbody>
+            {m.items.map((it) => (
+              <tr key={it.item_id} className="row">
+                <td className="mono">
+                  <Link href={`/transcript/${it.item_id}/${m.slug}/`} style={{ color: "inherit" }}>
+                    {it.item_id}
+                  </Link>
+                </td>
+                <td>{DIMENSION_META[it.dimension]?.short}</td>
+                <td>{LANG_LABEL[it.lang]}</td>
+                <td className="mono">{it.score == null ? <span className="chip">refused</span> : it.score.toFixed(2)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }

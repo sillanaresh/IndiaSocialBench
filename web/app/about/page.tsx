@@ -1,6 +1,6 @@
 export default function AboutPage() {
   return (
-    <div className="prose" style={{ marginTop: 44 }}>
+    <div className="prose page-intro">
       <h1>About IndiaSocialBench</h1>
       <p className="lede">
         IndiaSocialBench measures whether language models understand the emotional and social

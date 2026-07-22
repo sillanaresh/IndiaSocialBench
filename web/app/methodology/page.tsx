@@ -1,6 +1,6 @@
 export default function MethodologyPage() {
   return (
-    <div className="prose" style={{ marginTop: 44 }}>
+    <div className="prose page-intro">
       <h1>Methodology</h1>
       <p className="lede">
         Every number on the leaderboard is recomputable from raw transcripts. This page is the honest
@@ -77,7 +77,7 @@ export default function MethodologyPage() {
       </p>
 
       <h2>Known limitations</h2>
-      <table>
+      <table className="limitations-table">
         <tbody>
           <tr>
             <td>

@@ -33,7 +33,7 @@ export default function Home() {
 
   return (
     <div>
-      <div style={{ marginTop: 44 }}>
+      <div className="page-intro">
         <h1>Does your model understand India?</h1>
         <p className="lede">
           IndiaSocialBench measures how language models respond to emotionally difficult Indian
@@ -41,7 +41,7 @@ export default function Home() {
           grief etiquette, and money between friends in English, Hinglish, and Hindi. Every score
           links to the transcript and judge explanation behind it.
         </p>
-        <div style={{ display: "flex", gap: 26, flexWrap: "wrap", margin: "18px 0 6px" }}>
+        <div className="benchmark-stats">
           {[
             [String(board.models.length), "models"],
             // Revert this label to "hand-curated scenarios" after review and calibration.
@@ -51,7 +51,7 @@ export default function Home() {
             ["8", "dimensions"],
             ["$25", "API budget"],
           ].map(([n, label]) => (
-            <div key={label}>
+            <div key={label} className="benchmark-stat">
               <div style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600 }}>{n}</div>
               <div className="small faint" style={{ marginTop: -4 }}>{label}</div>
             </div>

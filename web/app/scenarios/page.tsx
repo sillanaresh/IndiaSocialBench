@@ -5,7 +5,7 @@ export default function ScenariosPage() {
   const dims = Object.keys(DIMENSION_META);
   return (
     <div>
-      <div style={{ marginTop: 44 }}>
+      <div className="page-intro">
         <h1>The scenarios</h1>
         <p className="lede">
           {scenarios.length} base scenarios, each hand-curated and shipped in matched English,

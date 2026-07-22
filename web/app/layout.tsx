@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Analytics } from "@vercel/analytics/next";
 import { Fraunces, Inter, Noto_Sans_Devanagari } from "next/font/google";
 import Link from "next/link";
@@ -31,11 +31,17 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+};
+
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${display.variable} ${ui.variable} ${devanagari.variable}`}>
       <body>
-        <nav className="nav">
+        <nav className="nav" aria-label="Primary navigation">
           <div className="nav-inner">
             <Link href="/" className="brand">
               <span className="brand-prefix">India</span>SocialBench

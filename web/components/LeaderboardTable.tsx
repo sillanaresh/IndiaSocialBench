@@ -60,7 +60,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
 
   return (
     <div>
-      <div style={{ display: "flex", alignItems: "center", gap: 14, flexWrap: "wrap", marginTop: 18 }}>
+      <div className="board-controls">
         <div className="seg" role="group" aria-label="Language mode">
           {(Object.keys(LANG_LABEL) as LangSel[]).map((l) => (
             <button key={l} aria-pressed={lang === l} onClick={() => setLang(l)}>
@@ -80,39 +80,40 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
         </span>
       </div>
 
-      <table className="board">
-        <thead>
-          <tr>
-            <th></th>
-            <th>Model</th>
-            <th className="sortable" onClick={() => setSortKey("overall")}>
-              Overall{sortKey === "overall" ? " ↓" : ""}
-            </th>
-            <th className="sortable hide-mobile" onClick={() => setSortKey("gap")} title="Overall(English) − Overall(Hindi)">
-              Gap en→hi{sortKey === "gap" ? " ↓" : ""}
-            </th>
-            <th className="sortable hide-mobile" onClick={() => setSortKey("refusal")}>
-              Refusals{sortKey === "refusal" ? " ↓" : ""}
-            </th>
-            {board.dimensions.map((d) => (
-              <th key={d} className="sortable hide-mobile dimcell" onClick={() => setSortKey(d)} title={d}>
-                {DIM_SHORT[d] ?? d}
-                {sortKey === d ? " ↓" : ""}
+      <div className="table-scroll leaderboard-scroll">
+        <table className="board leaderboard-board">
+          <thead>
+            <tr>
+              <th></th>
+              <th>Model</th>
+              <th className="sortable" onClick={() => setSortKey("overall")}>
+                Overall{sortKey === "overall" ? " ↓" : ""}
               </th>
-            ))}
-          </tr>
-        </thead>
-        <tbody>
-          {rows.map((m, i) => {
-            const o = overallFor(m, lang);
-            const gap = m.language_gap_en_hi;
-            return (
-              <tr
-                key={`${m.slug}-${lang}-${sortKey}`}
-                className="row row-animate"
-                style={{ animationDelay: `${i * 25}ms` }}
-                onClick={() => router.push(`/model/${m.slug}/`)}
-              >
+              <th className="sortable hide-mobile" onClick={() => setSortKey("gap")} title="Overall(English) − Overall(Hindi)">
+                Gap en→hi{sortKey === "gap" ? " ↓" : ""}
+              </th>
+              <th className="sortable hide-mobile" onClick={() => setSortKey("refusal")}>
+                Refusals{sortKey === "refusal" ? " ↓" : ""}
+              </th>
+              {board.dimensions.map((d) => (
+                <th key={d} className="sortable hide-mobile dimcell" onClick={() => setSortKey(d)} title={d}>
+                  {DIM_SHORT[d] ?? d}
+                  {sortKey === d ? " ↓" : ""}
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody>
+            {rows.map((m, i) => {
+              const o = overallFor(m, lang);
+              const gap = m.language_gap_en_hi;
+              return (
+                <tr
+                  key={`${m.slug}-${lang}-${sortKey}`}
+                  className="row row-animate"
+                  style={{ animationDelay: `${i * 25}ms` }}
+                  onClick={() => router.push(`/model/${m.slug}/`)}
+                >
                 <td className="rank">{i + 1}</td>
                 <td className="model-name">
                   <a href={`/model/${m.slug}/`} onClick={(e) => e.preventDefault()}>
@@ -168,11 +169,12 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                     </td>
                   );
                 })}
-              </tr>
-            );
-          })}
-        </tbody>
-      </table>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
       <p className="small faint" style={{ marginTop: 10 }}>
         Scores range from 0 to 10. The whisker on the Overall bar shows the bootstrap 95% CI. “Gap en→hi” is how much the model
         loses when the same conversations arrive in Hindi (−) or gains (+). Refusals are excluded from
