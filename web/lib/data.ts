@@ -90,8 +90,27 @@ export interface Leaderboard {
   excluded?: { model: string; slug: string; n_items: number; reason: string }[];
 }
 
+export type LeaderboardModelSummary = Omit<ModelResult, "items">;
+export interface LeaderboardSummary {
+  dimensions: string[];
+  models: LeaderboardModelSummary[];
+}
+
+let productionLeaderboard: Leaderboard | undefined;
 export function getLeaderboard(): Leaderboard {
-  return JSON.parse(fs.readFileSync(path.join(RESULTS, "leaderboard.json"), "utf8"));
+  if (process.env.NODE_ENV === "production" && productionLeaderboard) return productionLeaderboard;
+  const leaderboard: Leaderboard = JSON.parse(
+    fs.readFileSync(path.join(RESULTS, "leaderboard.json"), "utf8"),
+  );
+  if (process.env.NODE_ENV === "production") productionLeaderboard = leaderboard;
+  return leaderboard;
+}
+
+export function leaderboardSummary(board: Leaderboard): LeaderboardSummary {
+  return {
+    dimensions: board.dimensions,
+    models: board.models.map(({ items: _items, ...model }) => model),
+  };
 }
 
 import { prettyName } from "./names";
@@ -113,14 +132,20 @@ export interface Scenario {
   review: { status: string };
 }
 
+let productionScenarios: Scenario[] | undefined;
 export function getScenarios(): Scenario[] {
+  if (process.env.NODE_ENV === "production" && productionScenarios) return productionScenarios;
   const files: string[] = [];
   for (const sub of ["roleplay", "analysis"]) {
     for (const f of fs.readdirSync(path.join(SCENARIOS, sub))) {
       if (f.endsWith(".yaml")) files.push(path.join(SCENARIOS, sub, f));
     }
   }
-  return files.map((f) => YAML.parse(fs.readFileSync(f, "utf8"))).sort((a, b) => a.id.localeCompare(b.id));
+  const scenarios = files
+    .map((f) => YAML.parse(fs.readFileSync(f, "utf8")))
+    .sort((a, b) => a.id.localeCompare(b.id));
+  if (process.env.NODE_ENV === "production") productionScenarios = scenarios;
+  return scenarios;
 }
 
 export interface Turn {

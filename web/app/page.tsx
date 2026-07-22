@@ -1,5 +1,11 @@
 import LeaderboardTable from "@/components/LeaderboardTable";
-import { DIMENSION_META, displayName, getLeaderboard, getScenarios } from "@/lib/data";
+import {
+  DIMENSION_META,
+  displayName,
+  getLeaderboard,
+  getScenarios,
+  leaderboardSummary,
+} from "@/lib/data";
 
 function computeFindings(board: ReturnType<typeof getLeaderboard>) {
   const models = board.models;
@@ -67,7 +73,7 @@ export default function Home() {
         </div>
       )}
 
-      <LeaderboardTable board={board} />
+      <LeaderboardTable board={leaderboardSummary(board)} />
 
       {!board.sample && f && (
         <>

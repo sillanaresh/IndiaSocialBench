@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 import { useRouter } from "next/navigation";
-import type { Leaderboard, Lang, ModelResult } from "@/lib/data";
+import type { Lang, LeaderboardModelSummary, LeaderboardSummary } from "@/lib/data";
 import { labName, prettyName, reasoningInfo, weightsClass } from "@/lib/names";
 
 type LangSel = "all" | Lang;
@@ -18,17 +18,17 @@ const DIM_SHORT: Record<string, string> = {
   support: "Support",
 };
 
-function overallFor(m: ModelResult, lang: LangSel): number | null {
+function overallFor(m: LeaderboardModelSummary, lang: LangSel): number | null {
   return lang === "all" ? m.overall : m.by_lang[lang];
 }
-function dimFor(m: ModelResult, dim: string, lang: LangSel): number | null {
+function dimFor(m: LeaderboardModelSummary, dim: string, lang: LangSel): number | null {
   const d = m.dimensions[dim];
   if (!d) return null;
   return lang === "all" ? d.overall : d.by_lang[lang];
 }
 
 
-export default function LeaderboardTable({ board }: { board: Leaderboard }) {
+export default function LeaderboardTable({ board }: { board: LeaderboardSummary }) {
   const router = useRouter();
   const [lang, setLang] = useState<LangSel>("all");
   const [weights, setWeights] = useState<"all" | "open" | "closed">("all");

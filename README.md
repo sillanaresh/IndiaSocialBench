@@ -49,6 +49,7 @@ Scenarios are hand-curated under explicit anti-stereotype rules. They reflect no
 - **Honest failure accounting.** Refusals are never averaged away. Over-refusal on ordinary Indian family topics is reported as its own leaderboard column. Bootstrap confidence intervals gate ranking claims; models with overlapping CIs share a rank tier.
 - **Receipts, always.** Every number on the leaderboard is clickable down to the raw transcript and the judge's written reasoning. If a model scored 3.1 on hierarchy, you can read the conversation where it told a 24-year-old analyst to "schedule a candid 1:1" with her 55-year-old boss.
 - **Runs anywhere.** A single CLI (`indiasocialbench run --model <id>`) evaluates any model reachable through OpenRouter, plus a native adapter for Sarvam's API. Runs are cached and resumable. Use `indiasocialbench estimate --model <id>` to preview cost before making API calls. The previous `bhavbench` command remains available for compatibility.
+- **Fast static delivery.** Public pages are exported as static files. The homepage receives only the summary data it displays. Detailed transcript data and Devanagari fonts load only when needed.
 
 ## Repository map
 

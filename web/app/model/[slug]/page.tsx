@@ -188,7 +188,11 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
             {m.items.map((it) => (
               <tr key={it.item_id} className="row">
                 <td className="mono">
-                  <Link href={`/transcript/${it.item_id}/${m.slug}/`} style={{ color: "inherit" }}>
+                  <Link
+                    href={`/transcript/${it.item_id}/${m.slug}/`}
+                    prefetch={false}
+                    style={{ color: "inherit" }}
+                  >
                     {it.item_id}
                   </Link>
                 </td>
