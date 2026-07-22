@@ -64,7 +64,7 @@ jobs:
           set -euo pipefail
           [[ "$MODEL_ID" =~ ^[-A-Za-z0-9._:/]+$ ]] || { echo "::error::Invalid model id"; exit 2; }
           [[ "$JUDGE_ID" =~ ^[-A-Za-z0-9._:/,]+$ ]] || { echo "::error::Invalid judge id"; exit 2; }
-          uv sync --frozen
+          uv sync --extra dev --frozen
           if ! uv run indiasocialbench run --model "$MODEL_ID"; then
             error_file=$(grep -l '"error"' ../results/raw/*/items/*.json 2>/dev/null | head -1 || true)
             if [[ -n "$error_file" ]]; then
