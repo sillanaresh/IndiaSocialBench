@@ -152,10 +152,23 @@ MIN_ITEMS = 40  # models judged on fewer items are excluded (misleading ranks), 
 
 def build_leaderboard(raw_dir: Path, out_path: Path, judge_filter: list[str] | None = None) -> dict:
     scenarios_by_id = {s.id: s for s in load_scenarios()}
+    current_dataset_hash = dataset_hash()
     models = []
     excluded = []
     for run_dir in sorted(raw_dir.iterdir()):
-        if not (run_dir / "run_config.json").exists():
+        config_path = run_dir / "run_config.json"
+        if not config_path.exists():
+            continue
+        config = json.loads(config_path.read_text())
+        if config.get("dataset_hash") != current_dataset_hash:
+            excluded.append(
+                {
+                    "model": config["model"],
+                    "slug": config["slug"],
+                    "n_items": 0,
+                    "reason": "dataset version does not match the current benchmark",
+                }
+            )
             continue
         m = score_model(run_dir, scenarios_by_id, judge_filter)
         if m["overall"] is None:
@@ -171,7 +184,7 @@ def build_leaderboard(raw_dir: Path, out_path: Path, judge_filter: list[str] | N
 
     board = {
         "generated_at": datetime.datetime.now(datetime.UTC).isoformat(),
-        "dataset_hash": dataset_hash(),
+        "dataset_hash": current_dataset_hash,
         "sample": any(m["mock"] for m in models),
         "dimensions": list(DIMENSIONS),
         "langs": list(LANGS),

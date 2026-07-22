@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use IndiaSocialBench, please cite it using this metadata."
+title: "IndiaSocialBench: Measuring cultural and emotional intelligence in Indian conversations"
+type: dataset
+authors:
+  - family-names: Silla
+    given-names: Naresh
+repository-code: "https://github.com/sillanaresh/IndiaSocialBench"
+url: "https://indiasocialbench.nareshsilla.com/"
+version: 1.0.0
+date-released: 2026-07-22
+license: MIT
+keywords:
+  - language model evaluation
+  - cultural intelligence
+  - emotional intelligence
+  - India
+  - Hindi
+  - Hinglish

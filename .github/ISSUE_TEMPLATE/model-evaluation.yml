@@ -1,0 +1,42 @@
+name: Request a model evaluation
+description: Ask for a model to be added to IndiaSocialBench.
+title: "[Model request] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for requesting a model. We use the same dataset, settings, and judge for every leaderboard entry.
+  - type: input
+    id: model
+    attributes:
+      label: Model ID
+      description: Give the exact OpenRouter model ID or Sarvam model name.
+      placeholder: provider/model-name
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: Provider
+      description: Name the model maker and the API provider.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should we add it?
+      description: Explain what comparison this model would make possible.
+    validations:
+      required: true
+  - type: input
+    id: artifacts
+    attributes:
+      label: Run artifacts
+      description: If you already ran the benchmark, link to the complete transcript and judgment files.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand that only runs using the published dataset and standard settings can appear on the main leaderboard.
+          required: true

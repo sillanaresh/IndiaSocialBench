@@ -32,11 +32,18 @@ export default function AboutPage() {
         Built by <strong>Naresh Silla</strong> as a product and research portfolio project: an
         exercise in finding the eval a market actually needs, then building it with the rigor the
         claim requires. The dataset, harness, scoring code, and site are open at{" "}
-        <a href="https://github.com/sillanaresh">github.com/sillanaresh</a>.
+        <a href="https://github.com/sillanaresh/IndiaSocialBench">
+          github.com/sillanaresh/IndiaSocialBench
+        </a>
+        .
       </p>
       <p className="small faint">
-        A technical report covering scenario design, judge calibration, and first results is in
-        progress and will be linked here.
+        The{" "}
+        <a href="https://github.com/sillanaresh/IndiaSocialBench/blob/main/paper/DRAFT.md">
+          current technical report
+        </a>{" "}
+        covers the method and first results. It remains provisional until human agreement is
+        measured.
       </p>
     </div>
   );

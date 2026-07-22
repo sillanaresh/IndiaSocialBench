@@ -130,7 +130,11 @@ export default function MethodologyPage() {
         minutes: <code>indiasocialbench run --model your/model</code>, then <code>judge</code>, then{" "}
         <code>score</code>. Runs are cached and resumable. Use{" "}
         <code>indiasocialbench estimate --model your/model</code> to preview cost before making API calls.
-        To get a model on this board, open a GitHub issue with your run artifacts.
+        To get a model on this board,{" "}
+        <a href="https://github.com/sillanaresh/IndiaSocialBench/issues/new?template=model-evaluation.yml">
+          open a model evaluation issue
+        </a>{" "}
+        with your run artifacts.
       </p>
     </div>
   );

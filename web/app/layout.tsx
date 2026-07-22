@@ -14,6 +14,7 @@ const devanagari = Noto_Sans_Devanagari({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://indiasocialbench.nareshsilla.com"),
   title: "IndiaSocialBench | Does your model understand India?",
   description:
     "A benchmark for emotional and cultural intelligence of language models in Indian conversations in English, Hinglish, and Hindi.",
@@ -23,9 +24,10 @@ export const metadata: Metadata = {
       "LLMs scored on indirect refusals, family negotiation, honor and shame, grief etiquette, and code-mixed emotion in English, Hinglish, and Hindi. Every score links to its transcript.",
     siteName: "IndiaSocialBench",
     type: "website",
+    url: "/",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "IndiaSocialBench | Does your model understand India?",
     description:
       "The emotional & cultural intelligence leaderboard for Indian conversations.",
@@ -66,7 +68,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <footer>
           <div className="container">
             IndiaSocialBench is an open benchmark for the emotional and cultural intelligence of
-            language models in Indian conversations. Built by Naresh Silla.
+            language models in Indian conversations. Built by Naresh Silla.{" "}
+            <a href="https://github.com/sillanaresh/IndiaSocialBench">View the source and results.</a>
           </div>
         </footer>
         <Analytics />

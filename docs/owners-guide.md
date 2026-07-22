@@ -191,10 +191,10 @@ where you *disagree* with the judge. Disagreeing with your own judge, on the rec
 methodology is more careful than most hobby benchmarks (controls, CIs, refusal accounting,
 disclosed limitations); the receipts UX is genuinely differentiated; the Sarvam fit is perfect.
 
-**Current weaknesses, no sugar:** 18 scenarios is a pilot, not a benchmark (target: 54);
-the judge is uncalibrated until you do M3; v1 is Hindi-belt only ("India ≠ Hindi" — Tamil or
-Telugu is the named v2 priority); no Sarvam model on the board yet (the one pending key); and
-single-author curation needs at least one more native-speaker review pass.
+**Current weaknesses, no sugar:** 18 scenarios is a pilot, not the target dataset of 54.
+The judge still needs the M3 human agreement study. The current languages cover only English,
+Hinglish, and Hindi. Four Sarvam configurations are now on the board, but every scenario still
+needs a second native speaker review.
 
 **Verdict:** worth serious continued effort — *conditional on you doing the human parts*
 (calibration scoring, cultural review, reading transcripts). Those are exactly the parts that
@@ -202,13 +202,11 @@ make it yours in an interview.
 
 ## 9. Roadmap (ordered by leverage per hour)
 
-1. **M3 human calibration** — you blind-score 50 transcripts; publish ρ. (~2 hours, transforms credibility)
-2. **$10–15 top-up → flagship tier:** `indiasocialbench run --model anthropic/claude-fable-5` (also
-   gpt-5.6-sol, claude-opus-4.8, kimi-k3, grok-4.5, claude-sonnet-5, gemini-3.5-flash) + judge + score. No code changes.
-3. **Sarvam key → Sarvam-M on the board** — the board is incomplete for its own thesis without it.
-4. **Deploy `web/` to Vercel** (static export, free tier, ~10 min) → public URL for the resume.
-5. **Scenarios 18 → 54** per the taxonomy grid; second cultural reviewer.
-6. **Launch writeup + arXiv version of the paper**; then Tamil/Telugu for v2.
+1. **M3 human review.** Blind score 50 transcripts and publish the agreement result.
+2. **Second cultural review.** Ask another native speaker to review the 18 pilot scenarios.
+3. **Scenario growth.** Expand from 18 to 54 scenarios after the current method passes review.
+4. **Public report.** Finish the technical report and share it with Indian model teams.
+5. **Language growth.** Pilot Tamil or Telugu only after the Hindi and Hinglish method is validated.
 
 ## 10. File map
 

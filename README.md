@@ -2,6 +2,8 @@
 
 **Does your model understand India?**
 
+[View the live leaderboard](https://indiasocialbench.nareshsilla.com/), [read the technical report](paper/DRAFT.md), or [inspect the source and results](https://github.com/sillanaresh/IndiaSocialBench).
+
 IndiaSocialBench measures the emotional and cultural intelligence of large language models in Indian conversations. It scores models on multi-turn conversations across eight dimensions of Indian social and emotional life in Indian English, Hinglish, and Hindi. It publishes a public leaderboard where every score is traceable to the exact transcript that produced it.
 
 > **Status:** The live board covers 27 models, with up to 50 items per run in English, Hinglish,
@@ -60,6 +62,31 @@ results/    raw transcripts + generated leaderboard data
 web/        the leaderboard site (Next.js)
 PLAN.md     the full build plan; start here to contribute or continue the work
 ```
+
+## Run it locally
+
+The harness needs Python 3.11 or newer and [uv](https://docs.astral.sh/uv/).
+
+```bash
+cd harness
+uv sync --frozen
+uv run indiasocialbench estimate --model your/model
+uv run pytest -q
+```
+
+The website needs Node.js 22.
+
+```bash
+cd web
+npm ci
+npm run dev
+```
+
+To request a model, [open a model evaluation issue](https://github.com/sillanaresh/IndiaSocialBench/issues/new?template=model-evaluation.yml). Include the exact model ID and provider.
+
+## Citation
+
+Use the metadata in [CITATION.cff](CITATION.cff) when you cite this project. The code and benchmark files are available under the [MIT License](LICENSE).
 
 ## Author
 

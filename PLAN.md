@@ -329,7 +329,7 @@ Title dir.: *"IndiaSocialBench: Measuring the Cultural Gap in LLM Emotional Inte
 
 - 2026-07-19: Project initially named **BhavBench** (bhāv = feeling/emotion). Scripted-user roleplay chosen over simulator (variance + cost). Absolute rubric over Elo for v1 (interpretability per-dimension > ranking elegance). Real private chat logs rejected as data source (consent, PII, control). Refusals excluded from rubric scoring, reported as separate metric.
 - 2026-07-22: Public project renamed **IndiaSocialBench**. The previous `bhavbench` CLI remains as a compatibility alias. Dataset files and stored result artifacts remain unchanged so their hashes and provenance stay intact.
-- 2026-07-20: M0–M2 + M5 shipped. Status: dataset 18/54 base scenarios (all 8 dimensions covered, all validator-green); harness complete with 13 passing tests incl. offline e2e; website built and exporting 300+ static pages; paper skeleton in `paper/DRAFT.md`.
+- 2026-07-20: M0 to M2 and M5 shipped. Status: dataset 18/54 base scenarios (all 8 dimensions covered, all validator green); harness complete with 13 passing tests including offline end to end coverage; website built and exporting more than 1,350 static pages; technical report in `paper/DRAFT.md`.
 - 2026-07-20: Confirmed **no Sarvam models on OpenRouter** (catalog checked) → native Sarvam adapter written; needs `SARVAM_API_KEY` + live shape verification. The `OPENROUTER_API_KEY` present in the dev environment returns 401 (invalid/expired) → **all live runs blocked on a working key**. Sample leaderboard generated through the real pipeline using explicitly-named mock models; `sample: true` flag + site banners guarantee no fabricated real-model scores can ship.
 - 2026-07-20: Site ships with sample data clearly bannered rather than waiting for keys — demo-ability now, integrity preserved.
 - 2026-07-20 (later): Working OpenRouter key received ($5.11 credit). Live board scoped to budget:
@@ -340,17 +340,20 @@ Title dir.: *"IndiaSocialBench: Measuring the Cultural Gap in LLM Emotional Inte
   True flagships (Fable 5 $6+, Opus 4.8 $3, GPT-5.6 Sol $3.35 per eval run) exceed remaining
   budget; each is one `indiasocialbench run` away after a top-up. Reasoning-effort capped at `low`
   for reasoning families to protect both budget and max_tokens.
-- Open: `SARVAM_API_KEY` unblocks Sarvam runs (explicitly deferred by user — the one pending
-  item); M3 human calibration (50 transcripts, author-scored); remaining 36 scenarios (M4);
-  flagship runs after credit top-up.
+- 2026-07-22: The expanded public board contains 27 model configurations, including four Sarvam
+  rows across model size and reasoning effort. The run stayed within a $25 API budget. One uniform
+  blinded judge is used for every published score. Human agreement is still pending and is stated
+  on the website and report.
+- 2026-07-22: Evaluation workflow inputs are passed through environment variables and validated
+  before any shell command runs. Scoring rejects results from another dataset version. Automated
+  checks now run the harness tests, dataset validator, dependency audit, and static website build.
+- Open: M3 human review of 50 transcripts, a second cultural reviewer, and the remaining 36
+  scenarios for M4.
 
 ## 13. Immediate next actions (for the next agent/session)
 
-1. Get a working `OPENROUTER_API_KEY` in the environment → run the M2 smoke test:
-   `indiasocialbench run --model google/gemini-3.5-flash --langs en` then inspect 2–3 transcripts by hand
-   (especially `smoke` Devanagari rendering on a `hi` item).
-2. Pilot-run 2 models + 2 judges on the 18 current scenarios; kill/fix any scenario where all
-   models score within noise (PLAN §2.7.5).
-3. M3 calibration: export 50 stratified transcripts for human scoring (the author scores blind).
-4. Author next 12 scenarios toward 30 (grid cells in dataset/taxonomy.md).
-5. Deploy `web/` to Vercel (static export, zero config) once first real results exist.
+1. Complete M3 human review on 50 stratified transcripts and publish the agreement result.
+2. Ask a second native speaker to review all 18 pilot scenarios.
+3. Revise any rubric criterion or scenario that does not agree with human judgment.
+4. Expand the dataset only after the current method passes those checks.
+5. Publish the finished report and contact Indian model teams with the results.

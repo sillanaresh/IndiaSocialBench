@@ -72,6 +72,16 @@ def run_model(model: str, items: list[Item], out_dir: Path, force: bool = False,
     slug = model_slug(model)
     run_dir = out_dir / slug
     items_dir = run_dir / "items"
+    current_dataset_hash = dataset_hash()
+    config_path = run_dir / "run_config.json"
+    if config_path.exists():
+        existing_config = json.loads(config_path.read_text())
+        previous_dataset_hash = existing_config.get("dataset_hash")
+        if previous_dataset_hash != current_dataset_hash:
+            raise AdapterError(
+                "existing run uses a different dataset version; archive the old run directory "
+                "before evaluating this model on the current dataset"
+            )
     items_dir.mkdir(parents=True, exist_ok=True)
     adapter = get_adapter(model)
     cache = Cache(out_dir / "cache.sqlite")
@@ -93,10 +103,10 @@ def run_model(model: str, items: list[Item], out_dir: Path, force: bool = False,
         "model": model,
         "slug": slug,
         "params": EVAL_PARAMS,
-        "dataset_hash": dataset_hash(),
+        "dataset_hash": current_dataset_hash,
         "finished_at": datetime.datetime.now(datetime.UTC).isoformat(),
         "counts": counts,
         "mock": model.startswith("mock:"),
     }
-    (run_dir / "run_config.json").write_text(json.dumps(config, indent=1))
+    config_path.write_text(json.dumps(config, indent=1))
     return config

@@ -5,7 +5,7 @@
 #      New repository secret: OPENROUTER_API_KEY = <your key with credits>
 #   2. GitHub → Actions tab → "Evaluate a model on IndiaSocialBench" → Run workflow →
 #      type the OpenRouter model id (e.g. anthropic/claude-fable-5) → Run.
-#   3. ~15-30 min later a commit lands on main with the transcripts, judgments,
+#   3. About 15 to 30 minutes later a commit lands on main with the transcripts, judgments,
 #      and regenerated leaderboard. If the site is on Vercel, it redeploys itself.
 #
 # Cost guard: the run aborts before judging if the eval phase produced errors,
@@ -42,32 +42,56 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v5
 
-      - name: Preflight — validate API key before spending
+      - name: Preflight API key before spending
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          resp=$(curl -s https://openrouter.ai/api/v1/credits -H "Authorization: Bearer $OPENROUTER_API_KEY")
-          echo "credits response: $resp"
-          echo "$resp" | grep -q total_credits || { echo "::error::OPENROUTER_API_KEY secret is invalid — fix it in repo Settings > Secrets"; exit 1; }
+          set -euo pipefail
+          resp=$(curl --fail --silent --show-error https://openrouter.ai/api/v1/credits -H "Authorization: Bearer $OPENROUTER_API_KEY")
+          echo "$resp" | grep -q total_credits || { echo "::error::OPENROUTER_API_KEY secret is invalid. Fix it in repository Settings > Secrets."; exit 1; }
           left=$(echo "$resp" | python3 -c "import json,sys; d=json.load(sys.stdin)['data']; print(d['total_credits']-d['total_usage'])")
           echo "remaining balance: \$$left"
-          python3 -c "import sys; sys.exit(0 if float('$left') >= 0.75 else 1)" || { echo "::error::Only \$$left OpenRouter credit left — top up at openrouter.ai/settings/credits before evaluating (a typical model needs \$0.3-\$7)"; exit 1; }
+          python3 -c 'import sys; sys.exit(0 if float(sys.argv[1]) >= 0.75 else 1)' "$left" || { echo "::error::Only \$$left OpenRouter credit remains. Top up before evaluating. A typical model needs \$0.30 to \$7."; exit 1; }
 
       - name: Run evaluation
         working-directory: harness
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
+          MODEL_ID: ${{ inputs.model }}
+          JUDGE_ID: ${{ inputs.judge }}
         run: |
-          uv sync
-          uv run indiasocialbench run --model "${{ inputs.model }}" || { echo "--- first error detail:"; grep -l '"error"' ../results/raw/*/items/*.json | head -1 | xargs cat | python3 -c "import json,sys; print(json.load(sys.stdin).get('error'))"; exit 2; }
-          uv run indiasocialbench judge --model "${{ inputs.model }}" --judges "${{ inputs.judge }}"
-          uv run indiasocialbench score --judges "${{ inputs.judge }}"
+          set -euo pipefail
+          [[ "$MODEL_ID" =~ ^[-A-Za-z0-9._:/]+$ ]] || { echo "::error::Invalid model id"; exit 2; }
+          [[ "$JUDGE_ID" =~ ^[-A-Za-z0-9._:/,]+$ ]] || { echo "::error::Invalid judge id"; exit 2; }
+          uv sync --frozen
+          if ! uv run indiasocialbench run --model "$MODEL_ID"; then
+            error_file=$(grep -l '"error"' ../results/raw/*/items/*.json 2>/dev/null | head -1 || true)
+            if [[ -n "$error_file" ]]; then
+              python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('error'))" "$error_file"
+            fi
+            exit 2
+          fi
+          uv run indiasocialbench judge --model "$MODEL_ID" --judges "$JUDGE_ID"
+          uv run indiasocialbench score --judges "$JUDGE_ID"
+
+      - name: Verify generated results
+        working-directory: harness
+        run: |
+          uv run pytest -q
+          uv run python validate_dataset.py
 
       - name: Commit results
+        env:
+          MODEL_ID: ${{ inputs.model }}
         run: |
+          set -euo pipefail
           git config user.name "india-social-bench-bot"
           git config user.email "actions@users.noreply.github.com"
           git add results/
-          git commit -m "Board update: evaluate ${{ inputs.model }}" || echo "nothing to commit"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "nothing to commit"
+          else
+            git commit -m "Board update: evaluate ${MODEL_ID}"
+            git push origin main
+          fi
