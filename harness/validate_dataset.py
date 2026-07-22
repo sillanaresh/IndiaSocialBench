@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate BhavBench scenario files against dataset/schema.md.
+"""Validate IndiaSocialBench scenario files against dataset/schema.md.
 
 Usage: python3 harness/validate_dataset.py
 Exits non-zero with a per-file error report if any invariant fails.

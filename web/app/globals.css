@@ -83,7 +83,7 @@ body {
   text-decoration: none;
   letter-spacing: -0.01em;
 }
-.brand .hindi {
+.brand .brand-prefix {
   color: var(--accent);
   margin-right: 2px;
 }

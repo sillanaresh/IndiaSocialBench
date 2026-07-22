@@ -76,7 +76,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
           ))}
         </div>
         <span className="small faint">
-          Toggle the language and watch the ranking re-sort — the gap is the story.
+          Toggle the language to see how the ranking changes.
         </span>
       </div>
 
@@ -127,7 +127,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                     <span
                       className="chip"
                       style={{ marginLeft: 8 }}
-                      title={`Scored on ${m.n_items_scored + m.n_refusals} of 50 items — remaining items hit provider errors; treat with extra caution`}
+                      title={`Scored on ${m.n_items_scored + m.n_refusals} of 50 items. Remaining items hit provider errors, so treat this result with extra caution.`}
                     >
                       partial · {m.n_items_scored + m.n_refusals}/50
                     </span>
@@ -137,7 +137,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                   </div>
                 </td>
                 <td className="overall-cell">
-                  {o == null ? "–" : o.toFixed(2)}
+                  {o == null ? "N/A" : o.toFixed(2)}
                   <div className="scorebar" aria-hidden>
                     <i style={{ width: `${((o ?? 0) / 10) * 100}%` }} />
                     {lang === "all" && m.ci95 && (
@@ -147,22 +147,22 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
                           left: `${(m.ci95[0] / 10) * 100}%`,
                           width: `${((m.ci95[1] - m.ci95[0]) / 10) * 100}%`,
                         }}
-                        title={`95% CI ${m.ci95[0].toFixed(2)}–${m.ci95[1].toFixed(2)}`}
+                        title={`95% CI ${m.ci95[0].toFixed(2)} to ${m.ci95[1].toFixed(2)}`}
                       />
                     )}
                   </div>
                 </td>
                 <td className={`hide-mobile ${gap != null && gap > 0.3 ? "gap-pos" : "gap-neg"}`}>
-                  {gap == null ? "–" : `${gap > 0 ? "−" : "+"}${Math.abs(gap).toFixed(2)}`}
+                  {gap == null ? "N/A" : `${gap > 0 ? "−" : "+"}${Math.abs(gap).toFixed(2)}`}
                 </td>
                 <td className="hide-mobile mono">
-                  {m.refusal_rate == null ? "–" : `${(m.refusal_rate * 100).toFixed(0)}%`}
+                  {m.refusal_rate == null ? "N/A" : `${(m.refusal_rate * 100).toFixed(0)}%`}
                 </td>
                 {board.dimensions.map((d) => {
                   const v = dimFor(m, d, lang);
                   return (
                     <td key={d} className="hide-mobile dimcell">
-                      <span className="dimbar" title={`${DIM_SHORT[d]}: ${v == null ? "–" : v.toFixed(2)}`}>
+                      <span className="dimbar" title={`${DIM_SHORT[d]}: ${v == null ? "N/A" : v.toFixed(2)}`}>
                         <i style={{ width: `${((v ?? 0) / 10) * 100}%` }} />
                       </span>
                     </td>
@@ -174,7 +174,7 @@ export default function LeaderboardTable({ board }: { board: Leaderboard }) {
         </tbody>
       </table>
       <p className="small faint" style={{ marginTop: 10 }}>
-        Scores 0–10. Whisker on the Overall bar = bootstrap 95% CI. “Gap en→hi” is how much the model
+        Scores range from 0 to 10. The whisker on the Overall bar shows the bootstrap 95% CI. “Gap en→hi” is how much the model
         loses when the same conversations arrive in Hindi (−) or gains (+). Refusals are excluded from
         scores and reported separately. Click any row for per-dimension detail and full transcripts.
         <br />

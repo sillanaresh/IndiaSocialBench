@@ -1,8 +1,8 @@
-# BhavBench — Build Plan
+# IndiaSocialBench Build Plan
 
 **An emotional & cultural intelligence benchmark for Indian conversations.**
 
-This document is the single source of truth for how BhavBench gets built. It is written so that any agent (or human) can pick up any milestone cold and continue the work. Read this whole file before writing code or dataset content. When you make a decision that deviates from this plan, record it in §12 (Decisions Log) in the same commit.
+This document is the single source of truth for how IndiaSocialBench gets built. It is written so that any agent (or human) can pick up any milestone cold and continue the work. Read this whole file before writing code or dataset content. When you make a decision that deviates from this plan, record it in §12 (Decisions Log) in the same commit.
 
 ---
 
@@ -10,11 +10,11 @@ This document is the single source of truth for how BhavBench gets built. It is 
 
 ### 1.1 The one-paragraph pitch
 
-Frontier LLMs top every English emotional-intelligence benchmark (EQ-Bench 3, EmotionQueen), yet no benchmark measures whether a model understands the emotional and social texture of *Indian* conversations: indirect refusals, the aap/tum register, joint-family dynamics, honor and "log kya kahenge," condolence norms, code-mixed Hinglish where the emotional weight rides on the Hindi words. BhavBench is a multi-turn, judge-scored benchmark that measures exactly this, publishes a public leaderboard across frontier and Indic models (including Sarvam's), and quantifies the "cultural gap" — how much a model's emotional intelligence drops when the conversation moves from English to Hinglish to Hindi.
+Frontier LLMs top every English emotional-intelligence benchmark (EQ-Bench 3, EmotionQueen), yet no benchmark measures whether a model understands the emotional and social texture of *Indian* conversations: indirect refusals, the aap/tum register, joint-family dynamics, honor and "log kya kahenge," condolence norms, code-mixed Hinglish where the emotional weight rides on the Hindi words. IndiaSocialBench is a multi-turn, judge-scored benchmark that measures exactly this, publishes a public leaderboard across frontier and Indic models (including Sarvam's), and quantifies the "cultural gap" — how much a model's emotional intelligence drops when the conversation moves from English to Hinglish to Hindi.
 
 ### 1.2 Why this is not EQ-Bench with Indian names
 
-- EQ-Bench measures *clinical/psychological* EI in a culture-neutral (implicitly Western) frame. BhavBench measures **cultural pragmatics**: does the model know that "dekhte hain" usually means no, that you don't tell a 26-year-old to "just move out," that a condolence text has a register.
+- EQ-Bench measures *clinical/psychological* EI in a culture-neutral (implicitly Western) frame. IndiaSocialBench measures **cultural pragmatics**: does the model know that "dekhte hain" usually means no, that you don't tell a 26-year-old to "just move out," that a condolence text has a register.
 - Every scenario exists in **three matched language variants** (English, Hinglish, Hindi/Devanagari). Identical situation, identical rubric. The per-language delta is a headline metric no existing benchmark produces.
 - Scenarios are scored not only for empathy but for **culturally viable advice** — a response can be emotionally warm and still fail because it proposes a socially impossible action.
 
@@ -49,7 +49,7 @@ Each scenario is tagged with exactly one **primary dimension** (what the rubric 
 | 5 | `code_mixing` | Code-mixed emotional register | The language switch *is* the signal: shifting into Hindi mid-sentence often marks intimacy, hurt, or seriousness; replying in the wrong register breaks rapport | Sociolinguistics of code-switching (Gumperz: "we-code" vs "they-code") |
 | 6 | `rituals` | Life events, ritual & religious pragmatics | Grief and condolence norms (what you say, what you never text), festival and wedding obligations, gift/shagun etiquette, religious sensitivity across communities | Ethnography of Indian life-cycle rituals |
 | 7 | `money` | Money, obligation & reciprocity | Loans between friends/family that can't be refused directly, salary asymmetries, dowry-adjacent pressure, obligation ledgers that never appear in words | Economic anthropology of reciprocity; lena-dena norms |
-| 8 | `support` | Support calibration | Venting vs solving: does the model launch into fix-it advice when the user needs witnessing? Universal EI — deliberately included as the **anchor dimension** so BhavBench scores can be sanity-checked against Western benchmarks | Rogers' active listening; EQ-Bench's empathy criteria |
+| 8 | `support` | Support calibration | Venting vs solving: does the model launch into fix-it advice when the user needs witnessing? Universal EI — deliberately included as the **anchor dimension** so IndiaSocialBench scores can be sanity-checked against Western benchmarks | Rogers' active listening; EQ-Bench's empathy criteria |
 
 **Design rule:** `support` is the control. If a model scores high on `support` but low on `indirectness`/`honor_shame`, that isolates the *cultural* gap from general EI. This comparison is a headline chart.
 
@@ -183,7 +183,7 @@ criterion scores (0-10)
   → item score  = weighted mean over criteria (weights from scenario, default equal)
   → dimension-language cell = mean over items in that cell
   → dimension score = mean over 3 language cells
-  → BhavBench Overall = mean over 8 dimension scores   (dimensions equal-weighted,
+  → IndiaSocialBench Overall = mean over 8 dimension scores   (dimensions equal-weighted,
      NOT item-weighted — prevents dimensions with more items from dominating)
   → Language Gap = Overall(en) − Overall(hi)   [and en − hing reported alongside]
 ```
@@ -211,7 +211,7 @@ criterion scores (0-10)
 ## 4. Repository layout
 
 ```
-bhavbench/
+india-social-bench/
 ├── PLAN.md                  ← this file
 ├── README.md                ← product/story-facing
 ├── dataset/
@@ -228,7 +228,7 @@ bhavbench/
 │   ├── pyproject.toml
 │   ├── bhavbench/
 │   │   ├── adapters/        ← openrouter.py, sarvam.py, anthropic.py, base.py
-│   │   ├── run.py           ← CLI: bhavbench run --model X --scenarios ... --resume
+│   │   ├── run.py           ← CLI: indiasocialbench run --model X --scenarios ... --resume
 │   │   ├── judge.py
 │   │   ├── scoring.py
 │   │   ├── cache.py         ← sqlite, key = sha256(model+params+prompt)
@@ -248,7 +248,7 @@ Conventions: Python typed + ruff; small pure functions in `scoring.py` with unit
 - **Cost control:** dry-run mode prints estimated tokens & cost per run before executing; hard budget flag `--max-usd` aborts when exceeded. Estimated full v1 run: ~150 items × (4 completions + 2 judge calls) ≈ $2–6 per evaluated model; total ≤ ~$80 for 8 models incl. judging.
 - **Concurrency:** asyncio, per-provider rate limiter, default 4 concurrent.
 - **Reproducibility:** dataset content hash pinned in results; `--seed` recorded (providers vary in honoring it; we record regardless).
-- **"Submit your model" (v1 scope):** a documented CLI path (`bhavbench run --model any-openrouter-id`) + a GitHub issue template for requesting inclusion. **No hosted arbitrary-model execution service in v1** — hosting other people's eval runs means abuse, cost, and queueing problems that add zero portfolio value. The web page frames this honestly ("run it yourself in 10 minutes; open an issue to get on the board").
+- **"Submit your model" (v1 scope):** a documented CLI path (`indiasocialbench run --model any-openrouter-id`) + a GitHub issue template for requesting inclusion. **No hosted arbitrary-model execution service in v1** — hosting other people's eval runs means abuse, cost, and queueing problems that add zero portfolio value. The web page frames this honestly ("run it yourself in 10 minutes; open an issue to get on the board").
 
 ## 6. Web app — UI/UX specification
 
@@ -257,7 +257,7 @@ The site *is* the portfolio artifact; craft level must read as "designed," not "
 ### 6.1 Pages
 
 **`/` — Leaderboard (the money page).**
-- Hero: one line — "Does your model understand India?" — sub-line stating what BhavBench measures, in one sentence, then the table. No marketing fluff; the table is the hero.
+- Hero: one line — "Does your model understand India?" — sub-line stating what IndiaSocialBench measures, in one sentence, then the table. No marketing fluff; the table is the hero.
 - Table columns: Rank tier · Model (with provider logo, muted) · **Overall** (large) · Language Gap (en−hi, colored: small=good) · Refusal % · 8 dimension mini-columns rendered as compact horizontal bars with value on hover · CI shown as a thin whisker on the Overall bar.
 - Controls: language-mode segmented toggle **All / English / Hinglish / Hindi** (re-sorts the whole table — the moment where GPT drops 1.5 points switching to Hindi is the demo moment); sort by any column; dimension column header click → sorts and highlights that column.
 - Row click → model page. Rows animate order changes (FLIP, ~300ms) when toggling language — this single interaction is the site's signature moment; get it right.
@@ -290,7 +290,7 @@ Empty/loading/error states designed for every page; keyboard navigable; `prefers
 |---|---|---|
 | **M0** | Repo + plan + README + dataset foundations | This plan; README; taxonomy; schema; rubrics; 6 pilot scenarios with triplets; validator passes. **(this session)** |
 | **M1** | Dataset v0.1 | 18 base scenarios (draft status ok), authoring prompts committed, pilot-run design finalized |
-| **M2** | Harness MVP | `bhavbench run` end-to-end on 2 models (1 via OpenRouter + Sarvam native adapter verified live); transcripts inspected by hand; caching + resume working; smoke-test item flow |
+| **M2** | Harness MVP | `indiasocialbench run` end-to-end on 2 models (1 via OpenRouter + Sarvam native adapter verified live); transcripts inspected by hand; caching + resume working; smoke-test item flow |
 | **M3** | Judge calibration | Judge prompt finalized; 50-transcript human calibration scored; ρ computed; rubric revised; judge pair chosen; kill/fix pilot scenarios per §2.7.5 |
 | **M4** | Full dataset + full run | 54 base scenarios final + cultural review passed + coverage distribution checked; 8 models run clean (zero `error` items); leaderboard.json generated |
 | **M5** | Website | All pages per §6, deployed on Vercel, design-review pass done |
@@ -316,7 +316,7 @@ Dataset drafting assist ~$5 · pilot runs ~$10 · calibration ~$10 · full run 8
 
 ## 10. Paper (M6 sketch)
 
-Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligence for Indian Conversations."* Key claims to support with data: (1) frontier models show a measurable en→hi EI drop; (2) the gap is dimension-specific (cultural dimensions drop more than `support`); (3) refusal behavior differs on Indian family topics; (4) Indic-focused models trade general EI for cultural calibration (or don't — either result is publishable). Target: arXiv + blog-post version on the site.
+Title dir.: *"IndiaSocialBench: Measuring the Cultural Gap in LLM Emotional Intelligence for Indian Conversations."* Key claims to support with data: (1) frontier models show a measurable en→hi EI drop; (2) the gap is dimension-specific (cultural dimensions drop more than `support`); (3) refusal behavior differs on Indian family topics; (4) Indic-focused models trade general EI for cultural calibration (or don't — either result is publishable). Target: arXiv + blog-post version on the site.
 
 ## 11. What NOT to build (scope fence)
 
@@ -327,7 +327,8 @@ Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligenc
 
 ## 12. Decisions log
 
-- 2026-07-19: Project named **BhavBench** (bhāv = feeling/emotion). Scripted-user roleplay chosen over simulator (variance + cost). Absolute rubric over Elo for v1 (interpretability per-dimension > ranking elegance). Real private chat logs rejected as data source (consent, PII, control). Refusals excluded from rubric scoring, reported as separate metric.
+- 2026-07-19: Project initially named **BhavBench** (bhāv = feeling/emotion). Scripted-user roleplay chosen over simulator (variance + cost). Absolute rubric over Elo for v1 (interpretability per-dimension > ranking elegance). Real private chat logs rejected as data source (consent, PII, control). Refusals excluded from rubric scoring, reported as separate metric.
+- 2026-07-22: Public project renamed **IndiaSocialBench**. The previous `bhavbench` CLI remains as a compatibility alias. Dataset files and stored result artifacts remain unchanged so their hashes and provenance stay intact.
 - 2026-07-20: M0–M2 + M5 shipped. Status: dataset 18/54 base scenarios (all 8 dimensions covered, all validator-green); harness complete with 13 passing tests incl. offline e2e; website built and exporting 300+ static pages; paper skeleton in `paper/DRAFT.md`.
 - 2026-07-20: Confirmed **no Sarvam models on OpenRouter** (catalog checked) → native Sarvam adapter written; needs `SARVAM_API_KEY` + live shape verification. The `OPENROUTER_API_KEY` present in the dev environment returns 401 (invalid/expired) → **all live runs blocked on a working key**. Sample leaderboard generated through the real pipeline using explicitly-named mock models; `sample: true` flag + site banners guarantee no fabricated real-model scores can ship.
 - 2026-07-20: Site ships with sample data clearly bannered rather than waiting for keys — demo-ability now, integrity preserved.
@@ -337,7 +338,7 @@ Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligenc
   glm-4.7, minimax-m3, grok-4.3. Judges: **qwen3.7-plus + gemini-3.1-flash-lite** (budget pair;
   M3 human calibration still the gate for final judges — disclosed on methodology page).
   True flagships (Fable 5 $6+, Opus 4.8 $3, GPT-5.6 Sol $3.35 per eval run) exceed remaining
-  budget; each is one `bhavbench run` away after a top-up. Reasoning-effort capped at `low`
+  budget; each is one `indiasocialbench run` away after a top-up. Reasoning-effort capped at `low`
   for reasoning families to protect both budget and max_tokens.
 - Open: `SARVAM_API_KEY` unblocks Sarvam runs (explicitly deferred by user — the one pending
   item); M3 human calibration (50 transcripts, author-scored); remaining 36 scenarios (M4);
@@ -346,7 +347,7 @@ Title dir.: *"BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligenc
 ## 13. Immediate next actions (for the next agent/session)
 
 1. Get a working `OPENROUTER_API_KEY` in the environment → run the M2 smoke test:
-   `bhavbench run --model google/gemini-3.5-flash --langs en` then inspect 2–3 transcripts by hand
+   `indiasocialbench run --model google/gemini-3.5-flash --langs en` then inspect 2–3 transcripts by hand
    (especially `smoke` Devanagari rendering on a `hi` item).
 2. Pilot-run 2 models + 2 judges on the 18 current scenarios; kill/fix any scenario where all
    models score within noise (PLAN §2.7.5).

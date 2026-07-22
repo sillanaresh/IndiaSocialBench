@@ -50,17 +50,17 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
         {m.ci95 && (
           <span className="muted">
             {" "}
-            (95% CI {fmt(m.ci95[0])}–{fmt(m.ci95[1])})
+            (95% CI {fmt(m.ci95[0])} to {fmt(m.ci95[1])})
           </span>
         )}{" "}
         · Language gap en→hi{" "}
-        <strong>{m.language_gap_en_hi == null ? "–" : m.language_gap_en_hi.toFixed(2)}</strong> ·
-        Refusal rate {m.refusal_rate == null ? "–" : `${(m.refusal_rate * 100).toFixed(0)}%`} ·
+        <strong>{m.language_gap_en_hi == null ? "N/A" : m.language_gap_en_hi.toFixed(2)}</strong> ·
+        Refusal rate {m.refusal_rate == null ? "N/A" : `${(m.refusal_rate * 100).toFixed(0)}%`} ·
         Judged by {m.judges.map(displayName).join(" + ")}
       </p>
       {board.sample && (
         <div className="banner">
-          <strong>Sample data</strong> — synthetic placeholder results demonstrating the pipeline.
+          <strong>Sample data.</strong> These synthetic placeholder results demonstrate the pipeline.
         </div>
       )}
 
@@ -78,8 +78,28 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
             ]}
           />
           <p className="small faint" style={{ textAlign: "center" }}>
-            <span style={{ color: "var(--accent)" }}>—</span> this model ·{" "}
-            <span style={{ color: "var(--ink-faint)" }}>- -</span> field average
+            <span
+              aria-hidden
+              style={{
+                borderTop: "2px solid var(--accent)",
+                display: "inline-block",
+                marginRight: 5,
+                verticalAlign: "middle",
+                width: 18,
+              }}
+            />
+            this model ·{" "}
+            <span
+              aria-hidden
+              style={{
+                borderTop: "2px dashed var(--ink-faint)",
+                display: "inline-block",
+                marginRight: 5,
+                verticalAlign: "middle",
+                width: 18,
+              }}
+            />
+            field average
           </p>
         </div>
 
@@ -115,7 +135,7 @@ export default async function ModelPage({ params }: { params: Promise<{ slug: st
         </div>
       </div>
 
-      <h2>Where it struggles — the receipts</h2>
+      <h2>Where it struggles</h2>
       <p className="muted">The three lowest-scoring conversations, with the judge&apos;s words.</p>
       <div className="cardgrid">
         {worst.map((it) => {

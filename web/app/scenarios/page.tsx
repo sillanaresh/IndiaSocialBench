@@ -9,8 +9,8 @@ export default function ScenariosPage() {
         <h1>The scenarios</h1>
         <p className="lede">
           {scenarios.length} base scenarios, each hand-curated and shipped in matched English,
-          Hinglish, and Hindi renderings (switch-point scenarios are Hinglish-only by design — the
-          language switch <em>is</em> the phenomenon). Every roleplay hides a{" "}
+          Hinglish, and Hindi renderings. Switch-point scenarios are Hinglish-only by design because
+          the language switch <em>is</em> the phenomenon. Every roleplay hides a{" "}
           <strong>probe turn</strong>: an engineered moment that catches the exact failure the
           scenario tests.
         </p>
@@ -89,7 +89,7 @@ export default function ScenariosPage() {
       <h2>How scenarios are made</h2>
       <div className="prose">
         <p>
-          No real private conversations are used — ever. Scenarios are original, authored against a
+          No real private conversations are ever used. Scenarios are original, authored against a
           coverage grid (dimension × relationship × stakes), drafted with LLM assistance, then
           rewritten and curated by hand under explicit anti-stereotype rules: norms are presented as
           operative <em>for the person in the scenario</em>, personas vary in region, religion,

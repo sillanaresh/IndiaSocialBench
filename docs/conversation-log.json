@@ -1,6 +1,6 @@
 {
   "what_is_this": "Condensed log of the founding conversation between Naresh Silla and Claude (Fable 5) that produced BhavBench, 2026-07-19 to 2026-07-20. Tool calls and internal reasoning omitted; each entry preserves the intent of the user's message and the substance of the assistant's response. Future agents: read PLAN.md first (it is the authoritative build spec); this file explains how and why decisions were made in sequence. MAINTENANCE RULE: any agent doing a working session on this project MUST append a turn entry summarizing the user's asks and what shipped, in the same commit as the work.",
-  "project": "BhavBench — emotional & cultural intelligence benchmark for Indian conversations",
+  "project": "IndiaSocialBench, an emotional and cultural intelligence benchmark for Indian conversations",
   "repo_state_at_log_end": "Final v1 board shipped: 27 rows across 14 labs incl. Claude Fable 5 (#1, 9.47), Kimi K3, GPT-5.6 Sol, Grok 4.5, and Sarvam 30B/105B at low+high reasoning. Site live at https://bhavbench.vercel.app. All history authored as silla.naresh@gmail.com.",
   "turns": [
     {
@@ -67,6 +67,11 @@
       "n": 13,
       "user": "Sarvam key provided (₹100 credit) — target sarvam-30b/105b; run everything from the top-30 that OpenRouter has (credits added); make Sarvam highest reasoning effort possible but disclose reasoning treatment per model for fairness; deploy to Vercel; use silla.naresh@gmail.com identity for git and Vercel; complete everything.",
       "assistant": "Verified Sarvam API (OpenAI-compatible, api-subscription-key header; model IDs sarvam-30b/sarvam-105b; sarvam-m deprecated; accepts reasoning_effort). Ran 14 new models incl. Fable 5, GPT-5.6 Sol, Kimi K3, Grok 4.5, Sonnet 5, GLM-5.2, Gemini 3.5 Flash, Qwen3.7 Max, Nex N2 Pro, Inkling, MiMo V2.5 Pro, Hy3, and Sarvam 30B/105B natively; Muse Spark 1.1 geo-blocked (US-only), skipped. Fairness policy: uniform reasoning cap 'low' for all reasoning models, disclosed per-row in UI + methodology; Sarvam ALSO run at high effort as separate labeled rows (not silently substituted). Rewrote all git history to silla.naresh@gmail.com and force-pushed; confirmed Vercel account IS that email; deployed https://bhavbench.vercel.app. FINAL BOARD (27 rows): Fable 5 #1 (9.47), Kimi K3 9.34, GPT-5.6 Sol 8.78; flagships show near-zero language gaps (robustness scales with capability); MiMo V2.5 Pro biggest Hindi collapse (+2.27) after DeepSeek V4 Pro (+3.23); Sarvam 105B jumps 5.54→7.04 with high reasoning, Sarvam 30B unchanged (5.89→5.86); Llama 4 Maverick last (3.23)."
+    },
+    {
+      "n": 14,
+      "user": "Rename the public project from BhavBench to IndiaSocialBench everywhere it is safe, keep dataset and result hashes intact, and show the updated site locally before pushing.",
+      "assistant": "Renamed the public website, metadata, documentation, paper title, workflow labels, judge display name, and visible CLI to IndiaSocialBench. Added indiasocialbench as the preferred CLI command while keeping bhavbench as a compatibility alias. Left dataset files, the canary, raw results, historical log entries, and the internal Python package path unchanged so existing hashes, artifacts, and imports remain valid."
     }
   ]
 }

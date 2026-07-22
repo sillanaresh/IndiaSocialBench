@@ -1,4 +1,4 @@
-# BhavBench: Measuring the Cultural Gap in LLM Emotional Intelligence for Indian Conversations
+# IndiaSocialBench: Measuring the Cultural Gap in LLM Emotional Intelligence for Indian Conversations
 
 **Naresh Silla** · Draft v0.1 — sections marked ⏳ await live-run results.
 
@@ -7,10 +7,10 @@
 Frontier language models saturate English emotional-intelligence benchmarks, yet no instrument
 measures whether they understand the emotional and social texture of Indian conversations —
 indirect refusals, respect registers, joint-family negotiation, honor and shame, code-mixed
-emotional signaling, ritual pragmatics, and obligation economies. We introduce BhavBench, a
+emotional signaling, ritual pragmatics, and obligation economies. We introduce IndiaSocialBench, a
 benchmark of 18 (target: 54) hand-curated multi-turn scenarios, each shipped in matched English,
 Hinglish, and Hindi renderings, scored by blinded LLM judges on anchored rubrics with published
-human-agreement statistics. BhavBench yields a per-dimension diagnostic and a headline *Language
+human-agreement statistics. IndiaSocialBench yields a per-dimension diagnostic and a headline *Language
 Gap* metric: how much emotional intelligence a model loses when the identical human situation
 arrives in Hindi rather than English. ⏳ We evaluate N frontier and Indic models and find …
 
@@ -31,7 +31,7 @@ arrives in Hindi rather than English. ⏳ We evaluate N frontier and Indic model
 EQ-Bench 3 (multi-turn roleplay, Elo). EmotionQueen (empathy). CuLEmo (culture-aware emotion
 prediction, 6 languages). Cultural-alignment surveys (Hofstede-probing of LLMs). Code-mixing NLP
 (COMI-LINGUA etc.). LLM-as-judge validity and bias literature (length, self-preference, position).
-Position BhavBench: conversational, culturally situated, production + perception, receipts-first.
+Position IndiaSocialBench: conversational, culturally situated, production + perception, receipts-first.
 
 ## 3. Benchmark design
 

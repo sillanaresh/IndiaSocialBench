@@ -1,9 +1,9 @@
-"""BhavBench CLI.
+"""IndiaSocialBench CLI.
 
-  bhavbench run   --model openai/gpt-5.6-sol [--langs en,hing,hi] [--force]
-  bhavbench judge --model openai/gpt-5.6-sol --judges anthropic/claude-sonnet-5,google/gemini-3.5-flash
-  bhavbench score
-  bhavbench estimate --model X   (rough token/cost preview, no API calls)
+  indiasocialbench run   --model openai/gpt-5.6-sol [--langs en,hing,hi] [--force]
+  indiasocialbench judge --model openai/gpt-5.6-sol --judges anthropic/claude-sonnet-5,google/gemini-3.5-flash
+  indiasocialbench score
+  indiasocialbench estimate --model X   (rough token/cost preview, no API calls)
 
 Env: OPENROUTER_API_KEY, SARVAM_API_KEY. Model spec prefixes: sarvam:, mock:.
 """
@@ -45,7 +45,7 @@ def cmd_judge(args):
     scenarios_by_id = {s.id: s for s in load_scenarios()}
     run_dir = RAW / model_slug(args.model)
     if not run_dir.exists():
-        sys.exit(f"no run found at {run_dir}; run `bhavbench run` first")
+        sys.exit(f"no run found at {run_dir}; run `indiasocialbench run` first")
     counts = judge_run(run_dir, args.judges.split(","), scenarios_by_id, RAW)
     print(f"judging done: {counts}")
     if counts["error"]:
@@ -86,7 +86,7 @@ def cmd_estimate(args):
 
 
 def main():
-    p = argparse.ArgumentParser(prog="bhavbench")
+    p = argparse.ArgumentParser(prog="indiasocialbench")
     sub = p.add_subparsers(dest="cmd", required=True)
 
     r = sub.add_parser("run", help="run a model over the dataset")

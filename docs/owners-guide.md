@@ -1,4 +1,4 @@
-# BhavBench Owner's Guide
+# IndiaSocialBench Owner's Guide
 
 **Written for Naresh.** You gave the idea; an agent did the labor. This document exists so the
 *understanding* is yours — every design decision, the reasoning behind it, and the answer you'd
@@ -29,7 +29,7 @@ Everything else hangs off these. If you internalize only one section, make it th
 
 **Decision A — Compete on cultural pragmatics, not clinical psychology.**
 Your original worry was "I don't know psychology." The move was to not fight there. EQ-Bench
-owns "can the model do empathy" (Rogers, therapy framing). BhavBench asks "does the model know
+owns "can the model do empathy" (Rogers, therapy framing). IndiaSocialBench asks "does the model know
 how *this society* works" — politeness economics, hierarchy, obligation. On that turf, a person
 who grew up inside these norms outranks any psychology PhD. **The benchmark is engineered around
 your actual expertise.** When asked "what qualifies you to build this?", the answer is: native
@@ -203,7 +203,7 @@ make it yours in an interview.
 ## 9. Roadmap (ordered by leverage per hour)
 
 1. **M3 human calibration** — you blind-score 50 transcripts; publish ρ. (~2 hours, transforms credibility)
-2. **$10–15 top-up → flagship tier:** `bhavbench run --model anthropic/claude-fable-5` (also
+2. **$10–15 top-up → flagship tier:** `indiasocialbench run --model anthropic/claude-fable-5` (also
    gpt-5.6-sol, claude-opus-4.8, kimi-k3, grok-4.5, claude-sonnet-5, gemini-3.5-flash) + judge + score. No code changes.
 3. **Sarvam key → Sarvam-M on the board** — the board is incomplete for its own thesis without it.
 4. **Deploy `web/` to Vercel** (static export, free tier, ~10 min) → public URL for the resume.

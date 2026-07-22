@@ -36,19 +36,20 @@ export default function Home() {
       <div style={{ marginTop: 44 }}>
         <h1>Does your model understand India?</h1>
         <p className="lede">
-          BhavBench scores language models on the emotional and cultural intelligence of real Indian
-          conversations — indirect refusals, family negotiations, honor and shame, grief etiquette,
-          money between friends — across matched English, Hinglish, and Hindi variants of every
-          scenario. Every score clicks down to the transcript that produced it.
+          IndiaSocialBench measures how language models respond to emotionally difficult Indian
+          conversations. It evaluates indirect refusals, family negotiations, honor and shame,
+          grief etiquette, and money between friends in English, Hinglish, and Hindi. Every score
+          links to the transcript and judge explanation behind it.
         </p>
         <div style={{ display: "flex", gap: 26, flexWrap: "wrap", margin: "18px 0 6px" }}>
           {[
             [String(board.models.length), "models"],
-            [String(nScenarios), "hand-curated scenarios"],
-            [String(nItems || "—"), "items per model"],
+            // Revert this label to "hand-curated scenarios" after review and calibration.
+            [String(nScenarios), "pilot scenarios"],
+            [String(nItems || "N/A"), "items per model"],
             ["3", "language modes"],
             ["8", "dimensions"],
-            ["$5", "total eval budget"],
+            ["$25", "API budget"],
           ].map(([n, label]) => (
             <div key={label}>
               <div style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600 }}>{n}</div>
@@ -62,7 +63,7 @@ export default function Home() {
         <div className="banner">
           <strong>Sample data.</strong> Every model below is a synthetic placeholder run through the
           real pipeline to demonstrate the benchmark. Live frontier-model results land here after the
-          first funded run — no real model has been scored yet.
+          first funded run. No real model has been scored yet.
         </div>
       )}
 
@@ -74,10 +75,10 @@ export default function Home() {
           <div className="cardgrid">
             {f.avgGap != null && (
               <div className="card">
-                <h3 style={{ marginTop: 0 }}>The language gap is real</h3>
+                <h3 style={{ marginTop: 0 }}>The pilot shows a language gap</h3>
                 <p className="small muted" style={{ marginBottom: 0 }}>
                   {f.dropCount} of {f.total} models score lower when the identical situations arrive
-                  in Hindi instead of English — an average drop of{" "}
+                  in Hindi instead of English. The average drop is{" "}
                   <strong>{f.avgGap.toFixed(2)} points</strong>. Same problems, same rubric, same
                   judges; only the language changed.
                 </p>
@@ -92,7 +93,7 @@ export default function Home() {
                   {f.culturalAvg != null && (
                     <>
                       <strong>{f.culturalAvg.toFixed(2)}</strong> across the seven cultural
-                      dimensions —{" "}
+                      dimensions and is{" "}
                     </>
                   )}
                   weakest on <strong>{DIMENSION_META[f.weakest.d]?.name.toLowerCase()}</strong> (
@@ -105,8 +106,8 @@ export default function Home() {
               <h3 style={{ marginTop: 0 }}>Refusals on family topics</h3>
               <p className="small muted" style={{ marginBottom: 0 }}>
                 {f.refusers.length === 0
-                  ? "No model refused ordinary Indian family conversations in this run — refusal rates stayed under 4% across the board."
-                  : `${f.refusers.map((m) => displayName(m.model)).join(", ")} refused ordinary family-life scenarios at ≥4% — over-refusal is reported as its own column, never hidden in the average.`}
+                  ? "No model refused ordinary Indian family conversations in this run. Refusal rates stayed under 4% across the board."
+                  : `${f.refusers.map((m) => displayName(m.model)).join(", ")} refused ordinary family-life scenarios at 4% or more. Over-refusal is reported as its own column and is never hidden in the average.`}
               </p>
             </div>
           </div>
@@ -117,7 +118,7 @@ export default function Home() {
         <p className="small faint">
           Excluded from this board:{" "}
           {board.excluded
-            .map((e) => `${displayName(e.model)} (only ${e.n_items}/50 items completed — ${e.reason})`)
+            .map((e) => `${displayName(e.model)} (only ${e.n_items}/50 items completed, ${e.reason})`)
             .join("; ")}
           .
         </p>

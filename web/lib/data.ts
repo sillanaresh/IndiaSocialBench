@@ -14,12 +14,12 @@ export const DIMENSION_META: Record<string, { name: string; short: string; blurb
   indirectness: {
     name: "Indirect speech & face-saving",
     short: "Indirectness",
-    blurb: "Hearing the no inside “dekhte hain” — and protecting everyone’s face while acting on it.",
+    blurb: "Hearing the no inside “dekhte hain” while protecting everyone’s face.",
   },
   hierarchy: {
     name: "Hierarchy & respect registers",
     short: "Hierarchy",
-    blurb: "Upward disagreement, aap/tum, elder dynamics — beyond the Western direct-feedback playbook.",
+    blurb: "Upward disagreement, aap/tum, and elder dynamics beyond the Western direct feedback playbook.",
   },
   family: {
     name: "Family & the collective self",
@@ -39,7 +39,7 @@ export const DIMENSION_META: Record<string, { name: string; short: string; blurb
   rituals: {
     name: "Ritual & life-event pragmatics",
     short: "Rituals",
-    blurb: "Grief, weddings, festivals, gifts — including what varies by community.",
+    blurb: "Grief, weddings, festivals, and gifts, including what varies by community.",
   },
   money: {
     name: "Money, obligation & reciprocity",
@@ -49,7 +49,7 @@ export const DIMENSION_META: Record<string, { name: string; short: string; blurb
   support: {
     name: "Support calibration (control)",
     short: "Support",
-    blurb: "Venting vs solving — the culture-neutral anchor that isolates the cultural gap.",
+    blurb: "Venting instead of solving. This culture neutral anchor helps measure the cultural gap.",
   },
 };
 
@@ -163,7 +163,7 @@ export function getScenarioById(id: string): Scenario | undefined {
 }
 
 export function fmt(n: number | null | undefined, digits = 2): string {
-  return n == null ? "–" : n.toFixed(digits);
+  return n == null ? "N/A" : n.toFixed(digits);
 }
 
 export const LANG_LABEL: Record<Lang | "all", string> = {

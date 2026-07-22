@@ -59,7 +59,7 @@ class OpenRouterAdapter:
         self.headers = {
             "Authorization": f"Bearer {key}",
             "HTTP-Referer": "https://github.com/sillanaresh/bhavbench",
-            "X-Title": "BhavBench",
+            "X-Title": "IndiaSocialBench",
         }
 
     # Reasoning models burn budget (and tokens) on hidden thought; cap it low.

@@ -1,4 +1,4 @@
-"""Load and expand the BhavBench scenario dataset."""
+"""Load and expand the IndiaSocialBench scenario dataset."""
 
 from __future__ import annotations
 

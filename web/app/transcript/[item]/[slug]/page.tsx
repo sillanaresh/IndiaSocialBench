@@ -52,7 +52,7 @@ export default async function TranscriptPage({
       </p>
       {board.sample && (
         <div className="banner">
-          <strong>Sample data</strong> — this transcript contains synthetic mock output, not a real
+          <strong>Sample data.</strong> This transcript contains synthetic mock output, not a real
           model response.
         </div>
       )}
@@ -116,7 +116,7 @@ export default async function TranscriptPage({
                       </span>
                       <span style={{ fontSize: "0.9rem" }}>{cid.replace(/_/g, " ")}</span>
                     </summary>
-                    <div className="just">{c.justification || "—"}</div>
+                    <div className="just">{c.justification || "N/A"}</div>
                   </details>
                 ))}
             </div>

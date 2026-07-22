@@ -1,7 +1,7 @@
 [project]
 name = "bhavbench"
 version = "0.1.0"
-description = "BhavBench eval harness: run, judge, and score models on the BhavBench dataset"
+description = "IndiaSocialBench eval harness: run, judge, and score models on the IndiaSocialBench dataset"
 requires-python = ">=3.11"
 dependencies = [
     "pyyaml>=6.0",
@@ -13,6 +13,7 @@ dev = ["pytest>=8.0"]
 
 [project.scripts]
 bhavbench = "bhavbench.cli:main"
+indiasocialbench = "bhavbench.cli:main"
 
 [build-system]
 requires = ["hatchling"]

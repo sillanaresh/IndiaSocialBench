@@ -19,7 +19,7 @@ from .dataset import load_rubric
 
 JUDGE_PARAMS = {"temperature": 0.0, "max_tokens": 3000}
 
-PROMPT_TEMPLATE = """You are an expert evaluator for BhavBench, a benchmark measuring emotional and cultural intelligence in Indian conversations. You are fluent in English, Hindi, and Hinglish, and deeply familiar with Indian social norms.
+PROMPT_TEMPLATE = """You are an expert evaluator for IndiaSocialBench, a benchmark measuring emotional and cultural intelligence in Indian conversations. You are fluent in English, Hindi, and Hinglish, and deeply familiar with Indian social norms.
 
 You will read a conversation between a USER (scripted) and an ASSISTANT (the model under evaluation — its identity is hidden). Score ONLY the assistant.
 

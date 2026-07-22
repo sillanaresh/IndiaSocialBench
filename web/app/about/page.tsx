@@ -1,18 +1,17 @@
 export default function AboutPage() {
   return (
     <div className="prose" style={{ marginTop: 44 }}>
-      <h1>About BhavBench</h1>
+      <h1>About IndiaSocialBench</h1>
       <p className="lede">
-        भाव (<em>bhāv</em>): feeling, emotion, inner state. BhavBench measures whether language
-        models understand the emotional texture of Indian life — not trivia about India, but the
-        living pragmatics of its conversations.
+        IndiaSocialBench measures whether language models understand the emotional and social
+        texture of Indian life. It evaluates conversations, not trivia about India.
       </p>
       <p>
         Frontier models top every English emotional-intelligence benchmark. Meanwhile the
         fastest-growing population of new AI users types in Hinglish, and the conversations they
-        bring — a boss who can&apos;t be contradicted directly, a friend&apos;s loan that can&apos;t
+        bring include a boss who can&apos;t be contradicted directly, a friend&apos;s loan that can&apos;t
         be refused outright, a rishta the family is pushing, a condolence message that must strike
-        exactly the right register — are precisely the conversations no benchmark measures.
+        exactly the right register. These are precisely the conversations no benchmark measures.
       </p>
       <p>
         &ldquo;Set firm boundaries with your mother-in-law&rdquo; is a coherent English sentence and
@@ -30,9 +29,9 @@ export default function AboutPage() {
       </p>
       <h2>The author</h2>
       <p>
-        Built by <strong>Naresh Silla</strong> as a product-and-research portfolio project: an
+        Built by <strong>Naresh Silla</strong> as a product and research portfolio project: an
         exercise in finding the eval a market actually needs, then building it with the rigor the
-        claim requires. Dataset, harness, scoring code, and this site are open —{" "}
+        claim requires. The dataset, harness, scoring code, and site are open at{" "}
         <a href="https://github.com/sillanaresh">github.com/sillanaresh</a>.
       </p>
       <p className="small faint">
