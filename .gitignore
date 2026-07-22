@@ -6,6 +6,5 @@ __pycache__/
 dataset/holdout/
 results/raw/**/tmp/
 harness/.venv/
-harness/uv.lock
 results/raw/cache.sqlite
 results/raw/cache.sqlite*
