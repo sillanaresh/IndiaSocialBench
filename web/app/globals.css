@@ -485,6 +485,12 @@ footer {
 .prose th {
   background: var(--paper-raised);
 }
+.limitations-table td:first-child {
+  width: 11rem;
+  min-width: 11rem;
+  overflow-wrap: normal;
+  word-break: normal;
+}
 .prose code {
   font-family: var(--mono);
   background: var(--paper-raised);
@@ -641,6 +647,8 @@ footer {
     border: 0;
   }
   .limitations-table td:first-child {
+    width: 100%;
+    min-width: 0;
     background: var(--paper-raised);
     border-bottom: 1px solid var(--line);
   }
