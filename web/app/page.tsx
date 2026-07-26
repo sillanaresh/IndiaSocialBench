@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import LeaderboardTable from "@/components/LeaderboardTable";
 import {
   DIMENSION_META,
@@ -6,6 +7,12 @@ import {
   getScenarios,
   leaderboardSummary,
 } from "@/lib/data";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 function computeFindings(board: ReturnType<typeof getLeaderboard>) {
   const models = board.models;
