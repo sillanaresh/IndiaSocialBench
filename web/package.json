@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "mkdir -p public/results && cp ../results/leaderboard.json public/results/leaderboard.json",
     "build": "next build",
     "start": "next start"
   },
