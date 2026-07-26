@@ -14,7 +14,7 @@ const devanagari = Noto_Sans_Devanagari({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://indiasocialbench.nareshsilla.com"),
+  metadataBase: new URL("https://www.indiasocialbench.com"),
   title: "IndiaSocialBench | Does your model understand India?",
   description:
     "A benchmark for emotional and cultural intelligence of language models in Indian conversations in English, Hinglish, and Hindi.",

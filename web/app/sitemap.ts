@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getLeaderboard } from "@/lib/data";
 
-const BASE_URL = "https://indiasocialbench.nareshsilla.com";
+const BASE_URL = "https://www.indiasocialbench.com";
 
 export const dynamic = "force-static";
 

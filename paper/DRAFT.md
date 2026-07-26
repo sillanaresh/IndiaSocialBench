@@ -141,7 +141,7 @@ The repository contains the scenario files, rubrics, model settings, transcripts
 
 The evaluation command records a dataset hash in every model run. The scoring command rejects results from another dataset version. Automated checks validate all 18 scenario files, run the offline evaluation tests, audit website packages, and build all static pages.
 
-Website: https://indiasocialbench.nareshsilla.com/
+Website: https://www.indiasocialbench.com/
 
 Repository: https://github.com/sillanaresh/IndiaSocialBench
 

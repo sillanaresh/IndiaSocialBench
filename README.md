@@ -2,7 +2,7 @@
 
 **Does your model understand India?**
 
-[View the live leaderboard](https://indiasocialbench.nareshsilla.com/), [read the technical report](paper/DRAFT.md), or [inspect the source and results](https://github.com/sillanaresh/IndiaSocialBench).
+[View the live leaderboard](https://www.indiasocialbench.com/), [read the technical report](paper/DRAFT.md), or [inspect the source and results](https://github.com/sillanaresh/IndiaSocialBench).
 
 IndiaSocialBench measures the emotional and cultural intelligence of large language models in Indian conversations. It scores models on multi-turn conversations across eight dimensions of Indian social and emotional life in Indian English, Hinglish, and Hindi. It publishes a public leaderboard where every score is traceable to the exact transcript that produced it.
 

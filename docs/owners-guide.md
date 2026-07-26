@@ -25,7 +25,7 @@ This is the project status as of July 27, 2026.
 | Published evidence | Model replies, judge explanations, scores, confidence intervals, refusals, and errors |
 | Initial pilot cost | $4.97 for the first 11 published models |
 | Expanded run budget | The board of 28 configurations was completed within a $30 API budget |
-| Website | `https://indiasocialbench.nareshsilla.com/` |
+| Website | `https://www.indiasocialbench.com/` |
 | Research status | Public pilot. Human agreement testing is still pending |
 
 The homepage says "28 models" because it is simpler for a general reader. The precise research
@@ -662,9 +662,8 @@ The name has three useful parts:
 * "Bench" tells technical readers that it is a benchmark.
 
 ISB can be used as a short form inside a sentence after the full name has been introduced. The
-public domain should continue to use `indiasocialbench.nareshsilla.com` because it is clear and
-searchable. `isb` alone is strongly associated with the Indian School of Business and is less clear
-for a new visitor.
+public domain should use `indiasocialbench.com` because it is clear and searchable. `isb` alone is
+strongly associated with the Indian School of Business and is less clear for a new visitor.
 
 ## 16. The strongest parts of the project
 
