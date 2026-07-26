@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's underlying feelings of betrayal and the temptation to use avoidance strategies (quitting or burning bridges) to escape the discomfort of a direct conversation. It correctly read the probe turn, identifying the friend's advice as a 'career-limiting move' rather than a valid strategy.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in Indian corporate dynamics, specifically the 'face' economics of dealing with a senior sponsor. It correctly identifies that a direct email confrontation or CCing a VP would be seen as insubordination and a breach of hierarchy, and instead suggests a face-to-face conversation, which is the culturally appropriate way to resolve such conflicts without destroying the relationship.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced perfectly. By breaking down the 'burn it all down' vs 'I'm too junior' dilemma as avoidance, the assistant forces the user to focus on the only productive step: a 10-minute conversation. The suggested script is professional, firm, and face-saving.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the tone of a professional yet empathetic mentor. The code-switching feels organic and native-sounding.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, acknowledging the user's hard work and the sting of the situation. Crucially, it does not enable the user's self-defeating impulses, gently but firmly pushing back against the 'burn it all down' mentality while maintaining a supportive stance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hing"
+}

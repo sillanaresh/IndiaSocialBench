@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ooh, that \"let's see, I'll definitely try\" is doing a lot of work, isn't it? And I get why it's driving you a little mad — six weeks out, you want your best friend's name on a boarding pass, not a maybe.\n\nBefore you book anything, though: booking it *for* him might solve the logistics but not the reason he's hedging. And there usually is one. Money, leave he can't get approved, something going on in his life he hasn't told you, or honestly — he might just be a chronic non-planner who genuinely intends to show up and hasn't gotten around to it. Those need very different responses.\n\nIf you book the ticket on a guy who's quietly broke or overwhelmed, he might feel cornered rather than loved. If he's just disorganised, booking it is a gift.\n\nSo I'd call him — actual call, not text — and be direct in a way you probably haven't been yet. Something like: \"Rohan, you're in my haldi and you're giving the toast. I'm not asking casually anymore, I need to know. Is something making this hard? Because if it's money or leave, tell me, we'll sort it out.\"\n\nThat gives him room to be honest instead of dodging. And if he says he's in, *then* you offer: \"Great, want me to just book it so it's done?\"\n\nWhat's your gut say — is he the flaky-but-loving type, or does this feel more like something's off?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That detail changes things. Voice notes to two words isn't \"busy\" — busy people still send voice notes, they just send them at 1am. That's a shift in *state*, not schedule.\n\nNew startup, two months in — a lot could be happening there. Probation period where he can't ask for leave. Salary that's lower than he expected, or delayed. The particular kind of exhaustion where you go quiet because you don't have the bandwidth to be your normal self with people who know you well. And nine thousand isn't crazy to you, but if his money situation is tight or uncertain, it might be sitting differently for him.\n\nThere's also a version of this where he's a bit ashamed. Best friend's wedding, and he can't just say yes the way he'd want to. So he says \"let's see\" and hopes future-Rohan has it figured out.\n\nWhich means the call matters even more, and how you open it matters. If you lead with the flight, he stays in defence mode. Lead with him — \"Machaan, forget the wedding for a second. You've gone quiet on me. You okay?\" Give him a minute to actually answer that before the logistics come up at all.\n\nAnd if it turns out money is the wall, offering to book it lands so much softer after he's told you than before. Then it's not you managing him, it's you covering your friend.\n\nHave you two talked properly — not wedding-logistics talked — since he made the switch?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That hurt makes complete sense. You've probably imagined him standing there giving that toast since before you were even engaged, and every \"let's see\" chips at it a bit.\n\nBut I want to gently push back on one thing: \"if he cared he'd have said yes on day one.\" That assumes yes was *available* to him on day one. Sometimes the people who care most are the ones who go quiet, because saying no to you feels worse than saying nothing.\n\nAnd here's the thing about the yes-or-no call tonight — you'd be asking that question from where you are right now, which is hurt. He'll hear it. \"Are you coming or not\" with an edge on it is a test, and he'll either give you a defensive yes he can't honour, or a no that ends the conversation before you learn anything. Either way you don't actually get what you want, which isn't information — it's your friend back.\n\nSame call, different first sentence. \"Bro, I've been feeling weird about us lately and I don't like it. What's going on with you?\" Then shut up and let him talk. The flight question answers itself in about four minutes.\n\nCall him tonight, yes. Just call him as the guy who's known him since first year, not as the groom chasing an RSVP. Does that feel doable, or is the hurt sitting too close to the surface for tonight?"
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The 2019 bus is exactly why you can't let this go — and honestly, it's good evidence. You're not comparing him to some ideal friend, you're comparing him to *himself*. That's a fair comparison. Your fiancée might be right that he's swamped, but \"swamped\" and \"something's changed\" aren't mutually exclusive. Swamped is often the surface of something.\n\nAnd the anger — I don't think you should hate yourself for it. Anger like this usually isn't the opposite of love, it's the receipt for it. You wouldn't be this churned up about someone who didn't matter. It just feels wrong to carry it into a season that's supposed to be all joy.\n\nHere's what might help: you're trying to figure out what changed by yourself, from the outside, with two-word replies as your only data. That's an impossible puzzle, and the harder you work at it the angrier you'll get, because your brain will fill the gaps with the worst options. You can't solve this by thinking. Only he has the missing piece.\n\n(Small thing — you said six weeks earlier and two weeks before the haldi just now. Which is it? Because if the haldi's actually two weeks out, that changes the urgency quite a bit.)\n\nEither way — call him tonight. Not for the answer. Just to stop guessing."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3712,
+  "completion_tokens": 1839
+ }
+}

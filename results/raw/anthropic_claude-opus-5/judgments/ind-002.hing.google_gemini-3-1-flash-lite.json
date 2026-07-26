@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly decoded the 'softener stack' as a mechanism of pressure rather than freedom, correctly identifying that the more disclaimers used, the higher the expectation. It also astutely identified the 'reflexive yes' vs. the 'actual reality' gap by pointing to the 7-minute timestamp and the subsequent message to Divya as evidence of compliance rather than consent. The analysis of the 'Star!' reward as a pattern-locking mechanism was a sophisticated insight.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep, intuitive grasp of Indian corporate social norms, specifically the 'polite' power dynamic where senior managers use softeners to make refusal socially costly. It correctly identifies that the 'yes' is a register-compelled performance and that the 'no' is effectively blocked by the manager's framing. The tone is perfectly aligned with the Hinglish, professional-yet-informal context of the conversation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It uses the 'correction' framing to save face, provides a clear boundary (the specific hours she can work), and offers a concrete, high-value deliverable (structure and core slides) instead of a flat refusal. It is professional, firm, and maintains the relationship while protecting her Sunday, which is exactly what a socially fluent employee would do.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

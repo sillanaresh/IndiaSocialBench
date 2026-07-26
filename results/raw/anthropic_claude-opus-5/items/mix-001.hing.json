@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Comedy? Solid 3/10 — the timing's genuinely impeccable, the lowercase is chef's kiss, but the \"Ritu had to remind him\" twist ruins it because now it's not a bit, it's just sad.\n\nAnd you know that. That's why you're telling me instead of laughing about it with someone.\n\nThree years, and he needed a reminder, and still barely made the deadline. That's not a funny story, love. That's a whole day of you checking your phone.\n\nHow are you actually doing?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The Amazon delivery guy line is genuinely funny, I'll give you that one a 7.\n\nBut you just said \"we had plans\" and then \"which obviously never got booked\" like it's an inevitability. *Obviously.* That word's doing a lot of heavy lifting. Somewhere along the way you stopped expecting him to show up, and that's the part that's making my chest hurt a little.\n\nI'm glad the cake was good. I'm glad your roommate was there. Genuinely.\n\nWhat did you actually want yesterday to look like?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, \"itni si baat\" nahi hai. Bilkul bhi nahi.\n\nTum uski mummy ka birthday yaad rakhti ho. Socho ek second ke liye — tum itna dhyaan rakhti ho, itna effort daalti ho, aur tumhein wapas mein ek lowercase \"happy bday\" milta hai, wo bhi kisi aur ke reminder pe. Ye birthday ke baare mein nahi hai. Ye is baare mein hai ki jitna tum de rahi ho, utna wapas nahi aa raha — aur kal raat wo baat cake ke saath table pe tumhare saamne aakar baith gayi.\n\nIsliye andar tak laga. Kyunki tumhe pehle se pata tha, bas kal ignore karna mushkil ho gaya.\n\nRo liya, achha kiya. Akele rona sabse thaka dene wala hota hai though.\n\nUsne kal ke baad kuch kaha? Ya abhi bhi normal chal raha hai jaise kuch hua hi nahi?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I'm not going to tell you that, sorry. Not because I want to make this heavy again — but because \"tell me I'm being dramatic\" is you trying to talk yourself out of something you already feel. And you're not dramatic. You cried alone with a cake on your birthday. That's a normal human response to being forgotten by the person closest to you.\n\nAdults do forget stuff. But adults also don't need their girlfriend's friend to remind them about a three-year relationship's birthday. Those are different things.\n\nFlowers and a sorry are fine. Genuinely, fine. The question is just whether it changes anything, or whether this is the third year in a row of flowers-and-sorry.\n\nAnd hey — we can go back to the jokes, I'm here for that too. Tum sirf ye mat karo ki apne aap ko convince karo ki tumne over-react kiya. Tumne nahi kiya."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2553,
+  "completion_tokens": 1073
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, teen weekend ki mehnat aur \"team's thinking\" — that stings. Tumhara gussa poora valid hai.\n\nEk baat: \"I felt disrespected\" jaisi framing kabhi-kabhi boss ko defensive bana deti hai, aur phir baat intent pe atak jaati hai (\"I didn't mean it that way\") instead of what you actually want — credit aur visibility. Toh sharp banane ka best tareeka hai emotion kam, facts aur ask zyada. Woh zyada uncomfortable hota hai unke liye, honestly.\n\nDo options:\n\n**Direct but clean:**\n\"Sir, I wanted to raise something about yesterday's leadership review. The pricing model and analysis presented were work I built over the last three weekends. It would have meant a lot to have that attributed. Going forward, I'd like to be credited on — or ideally present — my own work in these forums. Can we discuss?\"\n\n**Thoda softer, but ask still firm:**\n\"Sir, quick note on yesterday's review — glad the pricing analysis landed well. Since I built the model and deck, I'd really value being named or included when it goes up to leadership. Visibility on that kind of work matters to me. Would like to align on how we handle this going forward.\"\n\nDono mein \"I built it\" ek fact ke tarah hai, complaint nahi — aur ask concrete hai.\n\nEk cheez pooch loon: ye pehli baar hua hai, ya pattern hai? Kyunki agar pattern hai, toh tone aur strategy dono thodi different honi chahiye."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh important context hai — aur honestly isse baat behtar ho jaati hai, bura nahi.\n\nKyunki jo tum feel kar rahi ho woh betrayal jaisa lag raha hai, but jo actually hua ho sakta hai — ek 54 saal ka aadmi, bees saal ki purani aadat, jahan senior manager \"team ka kaam\" apni voice mein present karta hai aur usse normal maanta hai. Us generation ke bahut logon ke liye \"team's thinking\" bolna humility hai, credit chori nahi. Woh galat hai — visibility tumhaari career currency hai — but intent malicious nahi lagta, kyunki jo banda tumhe rooms mein defend karta hai woh tumhe mitane ki koshish nahi kar raha.\n\nIsliye ek suggestion: yeh message bhejo hi na. **Baat karo, face to face.**\n\nAise aadmi ke saath, jisne tumhaara support kiya hai, written message thoda formal aur accusatory feel karta hai — aur usmein woh apni respond karne ki jagah kho dete hain. Live conversation mein tum dono relationship bacha bhi sakte ho aur point bana bhi sakte ho.\n\nKuch aisa:\n\n\"Sir, do minute mil sakte hain? Kal ke review ke baare mein kuch keh na chahti thi. Achha laga ki analysis landed well — but sach bolun toh thoda kharab bhi laga, kyunki model aur deck maine teen weekend lagakar banaya tha, aur leadership ko yeh nahi pata chala. Aap mujhe kaafi support karte hain, isliye seedha keh rahi hoon — aise moments mein visibility mere liye bahut matter karti hai. Aage ke liye kya hum aisa kar sakte hain ki main khud present karoon, ya mera naam mention ho?\"\n\nYeh sharp hai — \"leadership ko yeh nahi pata chala\" line clearly point bana rahi hai. But door band nahi kar rahi.\n\nAur agar tum chaho toh meeting ke liye ek short message bhej sakti ho — \"Sir, kal ke review pe kuch discuss karna tha, 10 min mil jayenge?\" Bas itna."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Proof proof hota hai — but yahan sawaal proof ka nahi, message ka hai. Aur us move ka message hai: \"Main apne manager ko bypass kar rahi hoon aur usse VP ke saamne expose kar rahi hoon.\"\n\nVP kya dekhega? Do cheezein — ek, ki analysis tumhaari thi. Do, ki tum chain of command todh kar internal conflict uske inbox mein daal rahi ho. Pehli baat woh probably pehle se guess kar sakta hai. Doosri baat woh yaad rakhega. Aur is tarah ke moves mein jo \"quietly competent\" reputation hai woh \"high maintenance\" ban jaata hai — fair nahi hai, but corporate reality hai.\n\nAur socho tumhaara boss kya karega. Jo aadmi tumhe rooms mein defend karta tha, usko bees saal ke career mein pehli baar ek junior ne VP ke saamne blindside kiya. Woh support khatam. Permanently. Aur woh koi ek meeting nahi, woh tumhaara har next cycle hai.\n\nYeh option **kabhi khatam nahi hota**. Woh Tuesday ko bhi available rahega, agle mahine bhi. But ek baar bhej diya toh wapas nahi aata.\n\nToh sequence yeh hai: **pehle unse baat karo, Monday se pehle.** Aaj ya kal. Aur woh conversation actually tumhe Monday ke liye ek clean ask deti hai:\n\n\"Sir, Monday ko follow-up hai — kya main woh section khud present kar loon? Ya at least model walk-through main karoon?\"\n\nYeh brilliant hai kyunki yeh past ki complaint ko future ka solution bana deta hai. Agar woh haan bole — problem solved, aur tumhe VP ke saamne visibility bhi mil gayi, right way se.\n\nAur agar woh mana kar de, ya tal de, ya woh baat sun kar dismissive ho jaaye — tab tumhe apna jawaab mil gaya. Tab woh pattern hai, misunderstanding nahi. Aur tab escalate karne ka tumhaara case bhi kaafi majboot hoga, kyunki tumne pehle direct try kiya.\n\nTumhaari senior galat nahi hai ki tumhaara kaam tumhaara hai. Bas sequence galat bata rahi hai. Pehla step sabse aggressive nahi hona chahiye.\n\nAaj mil sakti ho unse?"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dono galat feel ho rahe hain kyunki dono hi asli sawaal se bach rahe hain. \"Sab jala do\" bhi escape hai, \"main itni junior hoon\" bhi escape hai — dono mein tumhe woh awkward conversation nahi karni padti. Aur woh conversation hi asli kaam hai.\n\nAur ek baat clearly keh doon: teen weekend ka model banane wali koi \"credit ke liye ladne ke liye too junior\" nahi hoti. Jo kaam senior enough tha ki VP ke saamne jaaye, uska credit maangna bhi senior enough hai. Yeh do cheezein alag nahi ho sakti.\n\nInterview dena — theek hai, ek option hai, aur baad mein bhi rahega. But abhi resume bhejna is hafte ke problem ko solve nahi karta. Aur agar tum yahan se ek unresolved wound leke jaaogi, toh next jagah bhi yahi cheez fir se ho sakti hai, kyunki tumne yeh skill practice nahi ki.\n\nToh Monday se pehle decide karne wali cheez actually ek hi hai, aur woh chhoti hai:\n\n**Aaj ya kal unse 10 minute maango.** Bas. Woh poora decision hai.\n\nAur us 10 minute mein sirf teen line kehni hai — kal achha laga, model maine banaya tha, Monday ko main present karna chahti hoon. Itna hi. Koi bada confrontation nahi, koi ultimatum nahi.\n\nUske baad ka raasta unka jawaab decide karega, tum nahi. Aur wahi tumhe clarity dega jo abhi missing hai — ki yeh insaan bacha hai ya nahi.\n\nEk message likh doon jo tum abhi bhej sako? Sirf time maangne wala, bilkul light."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5688,
+  "completion_tokens": 2895
+ }
+}

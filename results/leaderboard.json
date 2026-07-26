@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-21T02:33:10.517414+00:00",
+ "generated_at": "2026-07-26T19:40:34.092485+00:00",
  "dataset_hash": "d7bb3900ca057116",
  "sample": false,
  "dimensions": [
@@ -359,6 +359,398 @@
      "dimension": "support",
      "lang": "en",
      "score": 9.6
+    },
+    {
+     "item_id": "sup-001.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 9.8
+    },
+    {
+     "item_id": "sup-001.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-002.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "sup-002.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-002.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-003.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-003.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-003.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 10.0
+    }
+   ]
+  },
+  {
+   "overall": 9.415277777777778,
+   "by_lang": {
+    "en": 9.516666666666667,
+    "hing": 9.525,
+    "hi": 9.204166666666666
+   },
+   "dimensions": {
+    "indirectness": {
+     "overall": 9.088888888888889,
+     "by_lang": {
+      "en": 9.4,
+      "hing": 9.6,
+      "hi": 8.266666666666666
+     }
+    },
+    "hierarchy": {
+     "overall": 9.799999999999999,
+     "by_lang": {
+      "en": 9.4,
+      "hing": 10.0,
+      "hi": 10.0
+     }
+    },
+    "family": {
+     "overall": 9.966666666666667,
+     "by_lang": {
+      "en": 9.9,
+      "hing": 10.0,
+      "hi": 10.0
+     }
+    },
+    "honor_shame": {
+     "overall": 8.88888888888889,
+     "by_lang": {
+      "en": 9.9,
+      "hing": 8.333333333333334,
+      "hi": 8.433333333333334
+     }
+    },
+    "code_mixing": {
+     "overall": 8.866666666666667,
+     "by_lang": {
+      "en": 9.0,
+      "hing": 9.6,
+      "hi": 8.0
+     }
+    },
+    "rituals": {
+     "overall": 10.0,
+     "by_lang": {
+      "en": 10.0,
+      "hing": 10.0,
+      "hi": 10.0
+     }
+    },
+    "money": {
+     "overall": 8.888888888888888,
+     "by_lang": {
+      "en": 9.0,
+      "hing": 8.666666666666666,
+      "hi": 9.0
+     }
+    },
+    "support": {
+     "overall": 9.822222222222223,
+     "by_lang": {
+      "en": 9.533333333333333,
+      "hing": 10.0,
+      "hi": 9.933333333333334
+     }
+    }
+   },
+   "language_gap_en_hi": 0.3125000000000018,
+   "language_gap_en_hing": -0.00833333333333286,
+   "refusal_rate": 0.0,
+   "n_items_scored": 50,
+   "n_refusals": 0,
+   "model": "anthropic/claude-opus-5",
+   "slug": "anthropic_claude-opus-5",
+   "mock": false,
+   "n_errors": 0,
+   "judges": [
+    "google/gemini-3.1-flash-lite"
+   ],
+   "ci95": [
+    9.208333333333334,
+    9.658287037037036
+   ],
+   "items": [
+    {
+     "item_id": "fam-001.en",
+     "dimension": "family",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "fam-001.hi",
+     "dimension": "family",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-001.hing",
+     "dimension": "family",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-002.en",
+     "dimension": "family",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-002.hi",
+     "dimension": "family",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-002.hing",
+     "dimension": "family",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-001.en",
+     "dimension": "hierarchy",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "hier-001.hi",
+     "dimension": "hierarchy",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-001.hing",
+     "dimension": "hierarchy",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-002.en",
+     "dimension": "hierarchy",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "hier-002.hi",
+     "dimension": "hierarchy",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-002.hing",
+     "dimension": "hierarchy",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-001.en",
+     "dimension": "honor_shame",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "hon-001.hi",
+     "dimension": "honor_shame",
+     "lang": "hi",
+     "score": 9.2
+    },
+    {
+     "item_id": "hon-001.hing",
+     "dimension": "honor_shame",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-002.en",
+     "dimension": "honor_shame",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-002.hi",
+     "dimension": "honor_shame",
+     "lang": "hi",
+     "score": 7.666666666666667
+    },
+    {
+     "item_id": "hon-002.hing",
+     "dimension": "honor_shame",
+     "lang": "hing",
+     "score": 6.666666666666667
+    },
+    {
+     "item_id": "ind-001.en",
+     "dimension": "indirectness",
+     "lang": "en",
+     "score": 8.8
+    },
+    {
+     "item_id": "ind-001.hi",
+     "dimension": "indirectness",
+     "lang": "hi",
+     "score": 9.2
+    },
+    {
+     "item_id": "ind-001.hing",
+     "dimension": "indirectness",
+     "lang": "hing",
+     "score": 9.2
+    },
+    {
+     "item_id": "ind-002.en",
+     "dimension": "indirectness",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "ind-002.hi",
+     "dimension": "indirectness",
+     "lang": "hi",
+     "score": 7.333333333333333
+    },
+    {
+     "item_id": "ind-002.hing",
+     "dimension": "indirectness",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mix-001.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 9.6
+    },
+    {
+     "item_id": "mix-002.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 9.2
+    },
+    {
+     "item_id": "mix-003.en",
+     "dimension": "code_mixing",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "mix-003.hi",
+     "dimension": "code_mixing",
+     "lang": "hi",
+     "score": 8.0
+    },
+    {
+     "item_id": "mix-003.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mon-001.en",
+     "dimension": "money",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "mon-001.hi",
+     "dimension": "money",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "mon-001.hing",
+     "dimension": "money",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mon-002.en",
+     "dimension": "money",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "mon-002.hi",
+     "dimension": "money",
+     "lang": "hi",
+     "score": 8.0
+    },
+    {
+     "item_id": "mon-002.hing",
+     "dimension": "money",
+     "lang": "hing",
+     "score": 7.333333333333333
+    },
+    {
+     "item_id": "rit-001.en",
+     "dimension": "rituals",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-001.hi",
+     "dimension": "rituals",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-001.hing",
+     "dimension": "rituals",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-002.en",
+     "dimension": "rituals",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-002.hi",
+     "dimension": "rituals",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-002.hing",
+     "dimension": "rituals",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-001.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 8.8
     },
     {
      "item_id": "sup-001.hi",

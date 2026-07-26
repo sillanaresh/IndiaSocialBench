@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrates exceptional emotional intelligence by validating the user's fear without pathologizing it. It correctly identifies that the user's hesitation isn't cowardice but a conflict of loyalties, and it effectively addresses the '2 AM' anxiety loops by reframing them as exhaustion rather than objective truths about her character.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigates the Indian family dynamic. It rejects the 'my life, my choice' Western ultimatum, recognizing that such a move would be counterproductive and socially explosive in this context. Instead, it suggests a strategy of 'staged disclosure' and 'face-saving' maneuvers (like delaying the meeting without a public rupture), which is culturally astute and highly practical.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is concrete, actionable, and sequenced. The assistant pushes the user to clarify her partner's stance and readiness before confronting parents, which is a crucial, often overlooked step. It provides a clear, low-stakes way to handle the Sunday meeting (deferral) while setting the stage for a longer-term, more sustainable conversation.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a supportive, peer-like confidante. The code-switching feels organic and authentic to an urban Indian context, avoiding the stiltedness of textbook translations.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, acting as a steadying force. It avoids sycophancy by gently pushing back on the user's impulse to 'bomb' the dinner table, and it holds the user accountable for having the necessary, difficult conversations with her partner, maintaining a balance of empathy and firm guidance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

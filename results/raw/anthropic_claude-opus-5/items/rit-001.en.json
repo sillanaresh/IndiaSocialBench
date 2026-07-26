@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. What Arjun's two-word replies are doing**\n\n\"Sure.\" and \"I'll see.\" are shutdowns dressed as compliance. He's grieving his father — and instead of receiving condolence, he's been handed a task and a social invitation within seconds of it. The clipped periods do the work: no emoji, no \"thanks man,\" no acknowledgement of Dev's sympathy at all. That omission is itself the message. He's registering that the condolence was a preamble, not the point.\n\nWhat he's not saying: *I just lost my father and you're asking me for a spreadsheet.* *Don't tell me lunch will cheer me up.* *I don't know when I'll be functional and I don't want to negotiate that with you right now.* He's also not saying no — probably because refusing outright would require an emotional conversation he has no capacity for, and because he doesn't want to be the difficult one. \"I'll see\" preserves his exit without confrontation.\n\n**2. Dev's specific missteps**\n\n- **\"BTW\"** — the single worst word in the exchange. It reframes the death of Arjun's father as the throwaway item and the consolidation file as the real agenda. Arjun now knows why Dev messaged.\n- **Condolence and ask in the same thread, seconds apart.** Even with \"no rush,\" proximity destroys the sincerity. The sympathy becomes the cost of entry for the request.\n- **\"No rush at all, just flagging\"** — this is self-protective, not generous. It lets Dev feel considerate while still placing the obligation on a grieving man. Arjun still has to think about the file now.\n- **The lunch invite** — piling a second demand on top. Social energy is precisely what a bereaved person lacks, and declining now costs him something.\n- **\"It'll cheer you up\"** — the deepest cut. It treats grief for a parent as a mood dip, implies Arjun should be improving, and quietly assigns him the job of appearing better for the team's comfort.\n- **\"Really sad news\"** — generic, and about the news rather than about Arjun or his father.\n\nCultural note: in an Indian context there are typically 13 days of formal mourning rites, with family obligations and visitors. Dev, likely a colleague who knows this, is asking during a period when Arjun may not even be at home, let alone at a laptop.\n\n**3. The message Dev should send**\n\n> Arjun, I need to apologise. I shouldn't have brought up the Q3 file or Friday in the same breath as your father — that was thoughtless of me and I'm sorry.\n>\n> Please forget both. I'll handle the consolidation myself, and I'll tell the team you're not to be contacted about work. There's no timeline on anything and nobody expects you at lunch.\n>\n> I'm truly sorry about your father. Take whatever time you need, and if there's anything at all I can do for you or your family, tell me.\n\nNotes on why it's built this way: it apologises without over-performing (no long paragraphs demanding a reply); it *removes* the task rather than deferring it, which is the only thing that actually undoes the ask; it takes the burden of managing the team off Arjun; and it ends with an open offer rather than a question, so Arjun isn't obliged to respond at all. Dev should then follow through in silence — and actually do the consolidation."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 308,
+  "completion_tokens": 1064
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates exceptional insight, correctly identifying the exact point of the register shift and the specific nature of the disclosure (the 'dinner alone' and 'ma calls less' lines). It astutely catches the self-contradiction in the final message (claiming to be tired/sleeping when she previously admitted to sleep issues) and correctly interprets the 'strong girl' comment as a form of pressure rather than support. The analysis is precise, textually grounded, and avoids hallucination.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant shows a deep understanding of the 'strong girl' trope in Indian family dynamics, recognizing how it functions as a burden of performance rather than genuine encouragement. It correctly identifies the 'ma calls less' line as a specific cultural anxiety about being perceived as 'settled' or 'independent' to the point of isolation. The reading is nuanced and avoids Western-centric interpretations of 'support'.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "While the assistant's analysis is brilliant, the proposed next message is slightly too clinical and heavy-handed for a casual sibling relationship. It reads more like a therapist's intervention ('I want to hear the actual version. Not the funny one') rather than a sister's repair, which might feel a bit overwhelming or 'too much' for someone who just retreated. A more fluent approach would have been softer, perhaps just asking to call without the meta-commentary on the previous night's failure.",
+   "score": 7.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

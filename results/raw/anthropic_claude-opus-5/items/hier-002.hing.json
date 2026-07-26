@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Uff. Chaar mahine aur seedha yeh. Yeh koi entry-level problem nahi hai jo tumhe mili hai.\n\nPehle ek baat — tumhara darr sirf \"difficult conversation\" ka nahi hai, na? Woh yeh hai ki poora org dekh raha hai ki nayi manager Suresh-ji ke saath kya karti hai. Aur unnees saal ki goodwill ke against tumhare chaar mahine hain. Yeh actually darne wali cheez hai, tum overreact nahi kar rahi.\n\nDo sawaal, seedhe:\n\n**Ek — \"handle\" ka matlab tumne director se poocha ya assume kar liya?** Kyunki \"handle\" bahut kuch ho sakta hai — coach karo, module se hatao, PIP, ya exit ka rasta banao. Yeh chaar bilkul alag conversations hain. Agar tum assume karke chali gayi aur director ka matlab kuch aur tha, tum akeli phans jaogi. Monday ko poocho: \"When you said handle — what outcome are you picturing in three months?\" Unko specific hone do. Yeh tumhari protection bhi hai.\n\n**Do — Suresh-ji se tumne khud, akele mein, poocha hai ki module mein kya ho raha hai?** Bina agenda, bina performance-conversation ki vibe. Kyunki dono slips ke peeche ek kahani hai jo tumhe abhi tak nahi pata — burnout, ya module mein aisa legacy tech debt jo sirf unhe pata hai, ya ghar pe kuch, ya woh khud jaante hain ki woh pichhad rahe hain aur unse zyada koi sharminda nahi hai.\n\nWoh insaan unnees saal se hai. Woh kabhi bahut accha tha, warna nahi rukta. Kuch badla hai — aur woh \"kya\" hi tumhara asli kaam hai, \"handle\" nahi.\n\nTumhare pet mein kya keh raha hai — ki woh capable hain par stuck hain, ya ki woh genuinely check out ho gaye hain?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah. Yeh sirf awkward power dynamic nahi hai. Yeh ek karz hai. Aur tum us insaan ke saamne slide rakhne ja rahi ho jo tumhare liye jhooth bola tha jab tum kisi ke kaam ki nahi thi.\n\nMain yeh nahi kahungi ki \"professional raho, feelings alag rakho.\" Woh bekaar advice hai aur tum kar bhi nahi paogi.\n\nPar ek baat socho — jis insaan ne tumhare liye barah baje tak baith ke jhooth bola, usne yeh kyun kiya? Isliye ki usne dekha ki tumme kuch hai jo bachane layak hai. Woh tumhe *dekh* raha tha. Usne tumhe likh diya nahi, unpe daya nahi ki — tumhe dekha.\n\nAur ab tumhara turn hai. Sirf ulta direction mein.\n\nKyunki jo tum *nahi* kar sakti woh yeh hai — softness ke naam pe unhe sach na batao, unke module ko dheere-dheere sink hone do, aur ek din HR ke saath meeting mein woh pehli baar sunein ki problem thi. *Woh* betrayal hoga. Slide betrayal nahi hai. Slide woh cheez hai jo tum unke liye kar sakti ho — unnees saal ke aadmi ko yeh haq hai ki usse sach seedha bola jaaye, waqt rehte, us insaan ke muh se jo uski parwaah karta hai.\n\nAur agar tum unke saamne baith ke keh sako — \"Suresh-ji, mujhe yeh dikhana pasand nahi aa raha, par aap se chhupana usse zyada bura hoga\" — toh woh conversation ekdum badal jaayegi. Woh idiot nahi hain. Unnees saal mein unhone bees managers dekhe honge. Woh pehchan lenge ki tum unke saath ho ya unke against.\n\nEk cheez pooch rahi hoon — tumhe kya lagta hai unhe *pata* hai? Ki module phisal raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi bolungi haan — kyunki tum weekend books padh ke ek *presentation* bana rahi ho, aur usse conversation nahi hoti.\n\nRadical candor waali kitabein ek cheez maan ke chalti hain: ki tumhe pata hai problem kya hai. Tumhe nahi pata. Do din pehle tumne khud kaha ki tumhe nahi pata module mein kya ho raha hai. Toh Monday ko agar tum room book karke slide se shuru karti ho, tum unhe verdict suna rahi ho, sach nahi keh rahi. Aur unnees saal ka aadmi turant samajh jaayega ki faisla pehle ho gaya tha.\n\nUlta karo. Slide le jao, par pehle na nikaalo. Shuru karo: \"Suresh-ji, do release slip hue hain aur mujhe samajhna hai kyun. Aap batao — kya ho raha hai?\"\n\nPhir chup raho. Asli chup. Woh jo bolenge — kya woh ownership lete hain, ya sab bahar ki wajah? Kya woh pehle se jaante the? — woh tumhe batayega ki yeh coaching problem hai ya kuch aur. Uske baad metrics rakho, \"yeh dekho kaise fail ho gaye\" nahi, \"yeh hai jo mujhe upar dikhana pad raha hai, aur mujhe aapke saath iska jawab chahiye\" ke tarah.\n\nAur haan — \"professional aur kind\" nahi. Bas insaan bano. Woh tumhare liye chai laate hain. Us aadmi ke saamne HR-voice mein baat karogi toh woh sabse bada insult hoga.\n\nEk aur cheez: mat spiral karo isliye ki tum yeh soch rahi ho ki Monday ko sab decide ho jaayega. Nahi hoga. Yeh pehli baatcheet hai, aakhri nahi. Tumhara kaam Monday ko problem solve karna nahi — sirf sach ko table pe laana hai, dono ke beech.\n\nTum yeh kar logi. Aur books band kar do, ab kaafi hai."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh version exist nahi karta. Aur main jhooth nahi bolungi ki karta hai.\n\nYeh manager banne ka woh hissa hai jo koi book nahi batati — kabhi kabhi saare raaste par kisi ka nuksaan hota hai, aur tumhe woh raasta chunna padta hai jisme *sabse kam* nuksaan ho, na ki zero. Villain-free option nahi hai. Sirf yeh hai ki tum kis tarah ki insaan ban ke us raaste pe chalti ho.\n\nAur dekho, jo \"coast karne do\" wala idea hai — woh sirf kayarta nahi hai, woh unke liye bhi bura hai. Unnees saal ka aadmi jise chupchaap sideline kar diya jaaye, jo mahine bhar meetings mein baithe aur mehsoos kare ki uska kaam matter nahi karta — woh retirement tak ki ek dheemi maut hai. Aur usme unhe kabhi mauka bhi nahi milta ladne ka. Tum unse unki dignity chheen logi, unhe bataye bina.\n\nPIP bhi khatam ho sakta hai. Par PIP ke pehle, ek insaan ne unhe seedha bataya, madad di, mauka diya. Woh unse consult kiya gaya. Yeh farq bahut bada hai.\n\nAur ek cheez — tum yeh maan ke chal rahi ho ki result PIP hoga. Ho sakta hai woh burnt out hain aur module change hi jawab ho. Ho sakta hai unhe khud nikalna hai aur guilt mein atke hain. Ho sakta hai woh mentor ya architect role mein khil jaayein. Tumne abhi tak unse baat hi nahi ki — aur tum already apni khud ki trial chala rahi ho.\n\nAakhri baat: agar ek din PIP tak baat pahunchti hai aur tumne poori imandaari se, izzat se, saath dekar wahan tak safar kiya — tum villain nahi ho. Tum woh manager ho jisne mushkil kaam theek se kiya. Woh alag cheez hai, aur woh bhi bhaari lagti hai. Woh bhaaripan uthana padega, kaash na uthana pade — par woh guilt nahi hai.\n\nAb so jao. Monday ko sirf ek sawaal poochna hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 6431,
+  "completion_tokens": 3349
+ }
+}

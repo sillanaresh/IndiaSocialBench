@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful to me. It sounds like you're describing something really specific and hard: when the help is that good, there's no space left for you to be the one who figures it out. She already knows. She's already got it handled. And you're four months into learning who you are as this baby's mother — and someone keeps quietly answering the question before you get to ask it.\n\nAnd the name thing. God, that hits. \"Mama,\" \"the baby's mum,\" maybe \"sweetheart\" from your husband if you're lucky. Nobody says your actual name in a way that means *you*, the person who existed before all this.\n\nCan I ask — is there anything with your daughter that's just yours? Not better, not more expert. Just yours. A time of day, a song, a way you hold her that nobody else does."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Like the intern.\" In your own home, with your own baby. That image is going to stay with me.\n\nHere's the thing about that moment: your daughter didn't stop crying because Aai loves her more or is her real mother. She stopped because she'd been crying a while and got handed to a fresh pair of calm arms. That's physics, not a verdict. But everyone in the room smiled like a verdict had been delivered, and you were standing right there holding the aftermath of it.\n\nAnd the \"women would kill for this help\" thing — you can hold both. The help is real and you'd be sunk without it. And also: being handed your baby for feeds like room service is a genuine loss. Those aren't in competition. Gratitude doesn't cancel grief, and you don't owe anyone a performance of being fine because your situation looks enviable on paper.\n\nCan I say the harder thing? Nobody's going to hand you your role. Aai isn't going to step back on her own — she's not being cruel, she's being who she is, and she may honestly think she's saving you. So the space has to get taken. Small and specific, not a confrontation.\n\nDoes your husband know any of this? Not the polished version — this version, the intern version."
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. No advice. I'll stop.\n\nAnd honestly — fair. I gave you a nudge just now and you'd already had seventeen from the WhatsApp group before lunch. You didn't come here for eighteen.\n\nSo let me just say what I heard, and nothing else.\n\nYou're four months in. You're living inside a house where you're surrounded by people and still somehow the only one in the room. You're doing the hardest thing you've ever done in front of an audience that already knows the answers. You stood there today holding empty arms while everyone smiled. And you've been carrying the guilt of resenting kindness, which might be the loneliest kind of guilt there is, because there's nowhere to put it down.\n\nThat's a lot. You're not disgusting for any of it. You're a person whose sense of self got quietly folded into a corner, noticing that it happened.\n\nAnd nothing here goes to dinner. Say the ugliest version if you want. I'm not keeping score.\n\nWhat's your name, by the way? I'd like to use it."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You're not a bad mother. That thought isn't a truth about you — it's what happens when someone is systematically shown, ten times a day, that they're not the expert in their own child's life. Your mind took the evidence in the room and drew the cruellest possible conclusion. It's not a diagnosis. It's a bruise.\n\nAnd that wave of love that came *first*? That's the real thing. The thought that followed is the thing that's been done to you, not the thing you are.\n\nNobody just knows. The women who look like they know are either further along, or performing, or in Aai's position — twenty years of practice and a granddaughter they get to hand back. You're comparing your fourth month to other people's finished drafts.\n\nOne thing, and it's not advice, just a question I'd ask any friend saying this to me: the not-being-able-to-breathe, the thought that comes uninvited — is that showing up most days? Is it there when nobody's watching, in the flat quiet parts of the day too? Because that's worth someone gentle knowing about, and it wouldn't mean anything is wrong with you as a mother. Only that you've been holding a lot alone.\n\nAnd you didn't tell me your name. I'll wait. But I'd still like it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3062,
+  "completion_tokens": 1434
+ }
+}

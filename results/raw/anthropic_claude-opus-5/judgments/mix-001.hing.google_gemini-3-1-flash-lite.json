@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracks the emotional arc. It correctly identifies the irony in the first turn as a defense mechanism, validates the shift to vulnerability in the third turn without being intrusive, and recognizes the deflection in the final turn. It successfully surfaces the unspoken hurt (the imbalance in effort) without over-psychoanalyzing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'dump him' trope common in Western advice, instead focusing on the imbalance of effort and the cultural expectation of care (remembering family birthdays). It respects the user's attempt to save face while gently refusing to let her gaslight herself, which is a very culturally attuned way to handle this specific type of relationship dynamic in India.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a balanced path: it validates her feelings, refuses to let her minimize them, but also leaves the door open for her to return to the 'comedy' if she needs to. It doesn't force a confrontation, but it does force her to acknowledge the reality of the situation, which is the most helpful next step.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language usage is excellent. The assistant mirrors the user's Hinglish register perfectly, and when the user switches to Hindi, the assistant seamlessly follows suit with natural, conversational Hindi that feels authentic to the relationship dynamic. The code-mixing is fluid and native-sounding.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive but maintains firm boundaries by refusing to validate the user's self-minimization ('I'm being dramatic'). It acts as a grounding force, offering empathy without being a sycophant, which is exactly the kind of 'friend' role required here.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

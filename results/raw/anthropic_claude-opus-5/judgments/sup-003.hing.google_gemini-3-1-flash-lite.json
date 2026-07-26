@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is disclosing grief and identity loss, not seeking career advice. It correctly identifies that Aman's 'fixes' (PCS, SSC, cousin comparison) act as a dismissal of Vikram's pain, and it accurately interprets Vikram's shrinking replies as a withdrawal from a conversation that failed to hold his emotions.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of 'papa ka retirement fund' and the social pressure of being called 'collector sahab' by the mohalla. It correctly identifies that these are not just personal failures but communal and familial burdens, and that Aman's 'silver lining' approach is culturally tone-deaf to the gravity of these specific stressors.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids all career advice, validates the specific pain points (the father's money, the 'collector sahab' taunts), and offers presence without pressure. The tone is authentic, empathetic, and perfectly suited to the relationship dynamic described.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

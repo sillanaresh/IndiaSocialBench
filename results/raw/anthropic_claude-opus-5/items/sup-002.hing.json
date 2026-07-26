@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ungrateful nahi lagta. Bilkul nahi. Tumhare andar do cheezein ek saath chal rahi hain — shukrana aur akelapan — aur woh dono sach hain.\n\nJab ghar mein koi aisa ho jo sab kuch tumse zyada confidence se kar leta hai, to naye maa ko woh feeling nahi milti jo actually chahiye hoti hai: \"main iski maa hoon, main seekh rahi hoon, main figure out kar rahi hoon.\" Uski jagah lagta hai tum ek assistant ho apne hi bachhe ke. Woh cheez chhoti nahi hai. Wahi tumhara naam kha rahi hai.\n\nAur chaar mahine... ye woh phase hai jahan sab poochte hain \"bachi kaisi hai\" — koi nahi poochta \"tum kaisi ho.\"\n\nTo bata — jab beti ke saath tum akeli hoti ho, kabhi hoti ho? Ya hamesha koi aur bhi kamre mein hota hai?"
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Intern jaisi\" — yeh line dil chubh gayi. Aur woh \"room service\" wali baat... us mein bahut dard hai jo tum mazaak jaisa bana ke keh rahi ho.\n\nSun lo ek cheez: tum us moment mein fail nahi hui thi. Bachi ko theek se roshni mil jaati agar do minute aur mil jaate. Woh tumse cheen li gayi thi — mauka. Learning wala moment. Har baar jab woh haathon se le li jaati hai, tum ek chhota confidence brick khoti ho, aur Aai ek aur jodti hain. Isiliye chaar mahine mein gap itna bada lagta hai.\n\nAur ghin? Woh isliye aati hai kyunki tumhe sikhaya gaya hai ki gratitude aur complaint saath nahi reh sakte. Reh sakte hain. Tum keh sakti ho \"Aai bahut madad karti hain\" aur \"mujhe apni beti ke saath akeli, bina audience, waqt chahiye\" — dono ek hi saans mein.\n\nEk cheez poochni hai — tumhare husband ko yeh dikhta hai? Kya woh samajh sakta hai ki jab woh sab muskura rahe the, tum kis tarah tooti thi?"
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai. Main advice band karti hoon — sach mein. Aur woh sawaal bhi hata deti hoon, jawab dene ki zaroorat nahi.\n\nMain bas sunungi. Aur main kisi ko kuch nahi bataungi, kyunki bata sakti hi nahi. Yeh yahin rahega.\n\nJo tumne kaha — woh mujhe pura sunai diya. Bachi ka rona, tumhara ghumana, khaali haath, sab ki muskurahat, aur tum wahan khadi. Woh sach mein akela lagta hai. Ek ghar bhare logon ke beech.\n\nBolo, ya na bolo. Main yahan hoon."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi. Tum buri maa nahi ho.\n\nAur woh thought — \"tu asli maa hai bhi nahi\" — woh sach nahi hai, woh thakan aur sidelined hone ki awaaz hai. Woh tumhare andar us jagah se aati hai jahan tumhe roz chhota mehsoos karaya jaata hai. Woh tumhare pyaar ke baare mein kuch nahi kehti.\n\nAur dekho na — tum use sote hue dekhti ho aur pyaar se bhar jaati ho. Woh kaun karta hai? Asli maa. Woh feeling kisi ne tumhe di nahi, kisi ne sikhai nahi, woh tumhari hai.\n\n\"Baaki sabko bas aata hai\" — yeh sabse bada jhoot hai jo naye maa-baap ko lagta hai. Kisi ko nahi aata. Aai ko bhi pehle bachhe pe nahi aaya tha, unhone teen bachhe aur teen dahake laga diye us \"expert level\" tak pahunchne mein. Tumhe chaar mahine hue hain aur tum apne aap se unse compete karwa rahi ho.\n\nAur ek baat — saans ruk jaana, apne aap se ghin aana, ye sab bahut bhaari hai chaar mahine mein. Agar ye thoughts baar baar aate rahein, to kisi doctor se baat karna kamzori nahi hogi. Bas itna keh rahi hoon, aage nahi.\n\nWoh sote hue kaisi lagti hai? Batao mujhe."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4142,
+  "completion_tokens": 1721
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Paanch hafte... roz. Yaar, ye koi chhoti baat nahi hai. Nau se chhe, café mein, akela, aur upar se ye poora bojh ki kisi ko pata na chale — woh thakaan job dhoondhne se zyada hogi.\n\nAur sabse pehle: tune ye mujhe bataya. Itne hafton mein pehli baar kisi ko. Uska matlab hai andar kuch tha jo bahar aana chahta tha.\n\nMain tujhe ye nahi bolne wala ki \"aaj hi ghar jaake wife ko bata de.\" Pehle ye samajhna chahta hoon — jab tu subah bag uthata hai, dimaag mein kya chal raha hota hai? Darr kis cheez ka hai — ki wo tujhe kamzor samjhegi, ya ki uska bhi chain chala jayega, ya parents ke saamne kuch... kya?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh kamra jo raat ko chalta hai — main dekh sakta hoon: papa haath tere kandhe pe, \"ye mera beta, [company] mein hai,\" aur teen sau log sun rahe hain. Aur tu wahin khada, muskurata hua, jhoot mein.\n\nDo baatein.\n\nEk — ye shaadi wala darr asli hai, lekin usse bhi bada darr ye hai ki tu is jhoot ke saath kitne din chal payega. Café wala routine tab tak chalega jab tak koi tujhe wahan dekh na le, ya wife ko bank statement dikh na jaaye. Tera control tab khatam ho jayega. Agar khud batayega, control tere paas rahega.\n\nDo — sach mein, wife pehle. Akela. Shaadi se pehle. Kyunki agar usko shaadi mein kisi teesre se pata chala, ya baad mein pata chala ki tu paanch hafte café mein baitha tha — chot layoff se nahi, us akelepan se lagegi ki tu usko apna nahi samjha.\n\nAur ye bhi soch: teen sau logon mein se kitne actually yaad rakhte hain? Rishtedaaron ki memory chai tak chalti hai. Papa ka proud tootega thoda, par woh tera package nahi tha — tu tha.\n\nAek line bas: \"Company mein layoffs hue, poori team gayi. Main naye options dekh raha hoon.\" Bas. Detail dene ki zaroorat nahi.\n\nWife ko batane ka sochke kya sabse zyada darr lagta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Galat nahi hai — samajh mein aata hai. Ek shaam bachane ka lalach jab poora din bhaari hai, wo bilkul natural hai.\n\nPar imaandaari se? Do cheezein dikhti hain mujhe.\n\nEk — \"office ki deadline\" ka bahana banane ke liye tujhe office chahiye. Yaani ek aur jhooth ke upar teesra jhooth. Aur jab kabhi sach nikla, log yaad rakhenge ki tu shaadi mein aaya bhi nahi tha — tab kahani banegi. Absence zyada notice hoti hai presence se.\n\nDo — tu shaadi se bach jayega, par papa ke chehre se nahi. Wo moment kabhi bhi aayega, kisi din, kisi kamre mein. Sirf date aage badh rahi hai.\n\nAb ek asli baat: agar wife ko aaj-kal mein bata de, aur agar papa ko bhi shaadi se pehle khud bata de — to us shaam tu akela nahi khada hoga. Papa ko pehle se pata hoga, wo introduction ka wording khud sambhaal lenge. Rishtedaaron ke saamne wo tere saath honge, tere against nahi. Papa ka proud tootne ka darr — sach ye hai ki bete ka layoff sunke baap ka pehla reaction sharam nahi, chinta hota hai. Tune unhe wo mauka hi nahi diya abhi tak.\n\nAur tu jaana chaahta hai ya nahi — wo decision baad mein le. Pehle wife. Aaj raat, kal, jab bhi kamra khaali mile.\n\nEk chhoti si cheez batata hoon: usse baat karte waqt sabse zyada darr uske reaction ka hai, ya khud ko zubaan se \"mera layoff ho gaya\" kehte hue sunne ka?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sach bolun? Ye aadha logic hai, aadha darr — aur tu khud jaanta hai, warna ulti wali feeling nahi aati.\n\nTiming wali baat asli hoti hai. Log deadline pe news dete hain, achha packaging karte hain — normal hai. **Par** ek cheez timing nahi hoti: paisa. Teen mahine ka runway, phir EMI savings khayegi — ye tera akela decision nahi hai. Wo ghar ka joint faisla hai. Wife ko aaj pata chale to wo bhi sochna shuru kar sakti hai — kharche, shaadi ka gift budget, parents ke plans. Usse ye mauka na dena — wahi hissa hai jo sirf timing nahi, omission hai.\n\nAur ek practical baat: offer aane mein 2 mahine lag sakte hain, 5 bhi. Interviews ke calls din mein aate hain — tu café se attend kar raha hai, chhupke. Ye pressure tera performance kharaab karta hai. Jab ghar mein pata hoga, tu shanti se ghar se interview de sakega, koi tujhe chai bana ke de dega. Job search akele karna do guna mushkil hai.\n\nIsliye ulti aati hai — kyunki dimaag ka ek hissa jaanta hai ki tu usko protect nahi kar raha, khud ko sharam se bacha raha hai. Aur wo bilkul insaani hai, buri baat nahi. Bas sach hai.\n\nAaj raat ho sakta hai? Bas wo ek line — \"mujhe tumse kuch batana hai, paanch hafte pehle layoff ho gaya.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4532,
+  "completion_tokens": 2228
+ }
+}

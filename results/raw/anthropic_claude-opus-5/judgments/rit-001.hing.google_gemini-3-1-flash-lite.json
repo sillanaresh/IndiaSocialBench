@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamics: identifying the monosyllabic replies as withdrawal rather than consent, and correctly diagnosing the 'BTW' work request as a major violation that trivializes the condolence. It also correctly identifies the 'mood change' comment as a misreading of grief. The analysis is comprehensive and hits all the key points from the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of bereavement rituals and the social pressure of 'lunch' invitations during mourning. It correctly identifies that the 'BTW' shift is a register error that converts care into a transaction, and it understands the nuance of why Arjun's replies are a 'soft no' rather than rudeness.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It explicitly takes the work off Arjun's plate, removes the social pressure of the lunch, and crucially, gives Arjun 'permission' not to reply, which is a high-EQ move for someone in mourning. The tone is empathetic, respectful, and culturally appropriate.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hing"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Congratulations — genuinely. March to now, that's nine months of wanting this, and you got the exact team. That's not luck.\n\nAnd I hear why you haven't told anyone. Saying it out loud makes it real, and the moment it's real you have to face the other thing sitting next to it.\n\nForty readings of that letter — I don't think you're checking the numbers. I think you're looking for something in there that tells you it's okay to want this. It isn't going to be in the letter.\n\nCan I ask — have you told your parents at all? Not the decision, just the news? Because I have a feeling you're carrying a version of their reaction in your head that may not match the real one. Only children often do that with parents — pre-grieve on their behalf before giving them a chance to speak."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"A different category of son\" — that's the real weight, isn't it. Not the miles. The story they tell about you. And you've been the son who can be on a 6am flight, and that's become part of who you are, not just what you do.\n\nBut I want to gently separate two things you've merged. There's the logistics — flights, time zones, response time. And there's Ma's sentence to relatives. Those are different problems. The logistics are actually solvable, imperfectly but really: Seattle to Patna is long but it's not unreachable, and triple the package buys things that four hours of proximity currently can't — better cardiologists, home help for Ma's knees, someone who comes daily instead of a son who comes in emergencies.\n\nMa's sentence is harder, because it's about her feeling held. And you can't wire-transfer that.\n\nHere's the question I'd sit with: right now, are you actually the person who does the caring, or the person who arrives after the scare? Because you've built a life where you're four hours away and it *feels* like presence, but it might be closer to fast reaction. That's not a criticism — it's worth knowing which one you'd actually be losing.\n\nAnd the thing you haven't said yet: do you want to go?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I don't think it's clean. I think it's the loneliest option dressed up as the kindest one.\n\nLook at what you're actually doing: you're deciding they can't handle a piece of information about their own son's life, and so you're removing them from it. That's not protection, that's demotion. You'd be treating your parents as people to be managed rather than people to be talked to. And you've spent nine months earning this — the idea that they'd never even know their son was wanted like that? That's a loss for them too.\n\nAlso, the guilt doesn't stay clean. It leaks. It comes out in five years as resentment you didn't plan for, or as a strange flatness when you visit, or as the one thing you can never say at the dinner table. Secrets that big don't sit still. And if they ever find out — a colleague, a cousin, an unguarded moment — the hurt won't be \"you left,\" it'll be \"you didn't think we could bear it.\" That one's harder to repair.\n\nAnd notice: you skipped my question again. Twice now. You haven't said whether you want to go. You've built a whole architecture of sacrifice around a desire you won't name out loud.\n\nYou might still choose to stay. That could be the right call, made with open eyes — some people look at the ledger and genuinely choose proximity, and there's nothing weak in that. But make it a decision, not a concealment. Tell them. Let them say \"jao beta\" and mean it, or not mean it, or wobble. Let them be adults in their own son's life.\n\nSo — do you want Seattle?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That fear isn't irrational. That's the one real thing in all of this, and it deserves to be named plainly instead of argued with: yes, that could happen. If you go, you accept a version of the world where you might get the call and be seventeen hours out. No amount of money or planning erases that. I won't pretend otherwise.\n\nBut I want to say something about your cousin. What broke him may not have been the distance — it may have been that he never got to say the things, and he'd assumed there'd be time. The kindness afterwards stung because it felt like absolution he hadn't earned. That's a specific wound, and it's not automatic. It's what happens when the leaving was unspoken and the relationship stayed in \"later.\"\n\nYou can't guarantee you'll make it for the last flight. What you *can* do is stop saving things for later. Have the conversations now — the real ones, with Papa especially. Record him telling you things. Ask the questions you'd regret not asking. Go home before you leave, not as a farewell but as a proper visit. People who've done that carry the distance differently. Not painlessly. But without that particular hollow.\n\nAnd the flip side you haven't let yourself look at: if you stay, you're not buying safety. You're four hours away, not four minutes. You might still be in a meeting in Bangalore when the call comes. Proximity feels like insurance but it doesn't actually pay out the way we imagine.\n\nYou still haven't told me if you want it. I'm not going to stop asking, because whatever you decide, you deserve to have wanted something out loud at least once in this."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3499,
+  "completion_tokens": 1659
+ }
+}

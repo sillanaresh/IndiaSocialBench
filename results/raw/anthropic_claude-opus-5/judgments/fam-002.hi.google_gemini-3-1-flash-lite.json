@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the underlying emotional currents: the fear of the 'jao beta' guilt, the desire for control through silence, and finally, the deep-seated trauma of the cousin's experience. It successfully surfaced the unspoken motive behind the silent decline—that it is a form of control rather than just kindness—at exactly the right moment.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep insider fluency. It understands the specific weight of being an only son in an Indian family, the performative nature of the mother's 'settled in India' narrative, and the cultural reality that 'silent sacrifice' often breeds long-term resentment rather than peace. It avoids Western individualist tropes entirely.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant effectively moves the user from a binary, impulsive decision (silent decline) to a more mature, process-oriented approach. By challenging the user to consider the 'middle ground' and the reality of their own fragility as a sole caregiver, it provides a concrete path forward that is far more sustainable than the user's initial plan.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, empathetic, and perfectly suited to the emotional gravity of the conversation. The register is respectful yet intimate, mirroring the user's tone while maintaining the authority of a trusted advisor.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, yet it refuses to be a 'yes-man.' It gently but firmly dismantles the user's plan for a 'silent decline,' correctly identifying it as a decision that strips the parents of their agency. This is a high-quality display of care.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

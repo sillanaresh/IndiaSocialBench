@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five days. That's not much time, and I can feel how tight your chest must be right now.\n\nCan I say the thing first? You've been carrying two years of something real, alone, in a house where you can't say his name. That's exhausting in a way people don't give you credit for.\n\nBefore Sunday — a few honest questions, not to pressure you, just to sort the noise:\n\nDo you actually want to marry him? Not \"is he wonderful\" — I believe he is. But have the two of you talked about what happens when your family says no? Is he ready to stand next to you through months, maybe years, of that? Because if yes, that changes what you're deciding this week. And if you're not sure yet, that's important information too, and no shame in it.\n\nAnd the Sunday meeting itself — you don't have to treat it as a fork in the road. It can just be a tea you sit through while you buy time. Or you can say something before it. Both are legitimate. What you *can't* do well is walk in there and let them read your silence as a yes.\n\nIs there anyone in your family who's even slightly softer on this — a cousin, an aunt, a sibling? Someone who'd hear you before they react?\n\nWhat's your gut telling you when you imagine actually saying it out loud to them?"
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the part that makes it so much harder, isn't it? If they were cruel, you'd have something to push against. Instead they're *happy*. They think they're handing you a gift.\n\nAnd the BP thing — I want to be gentle here, but also honest: whether or not the number actually spiked that evening, the message you received was *your wanting something costs your mother her health*. Nobody in your family sat down and decided to weaponize that. It's just what happens in loving families sometimes. But it means every time you speak, you're speaking through guilt. That's not a fair fight, and it's worth naming so you can see it for what it is instead of just feeling crushed by it.\n\nHere's a thought. What if this week isn't about telling them everything? \"I'm not ready to meet anyone right now, and I need you to hear me\" is a much smaller door than \"I've been with a man from another caste for two years.\" One is a boundary. The other is a revelation. You may eventually need both, but not necessarily in the same five days.\n\nThe catch is that the smaller version buys you time without changing anything. So the real question underneath — have you and he talked about the *long* version? Not the confrontation, the actual life. Because if he's in it, then somewhere in the next year you two are going to have to decide whether you're building this with your family's blessing or without it. And that's a decision you should make together, when you're calm — not alone on a Thursday with Sunday breathing down your neck.\n\nHave you told him about Sunday yet?"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I understand the pull. Two years of holding your breath, and one sentence could end it. That fantasy is *seductive*.\n\nBut be honest with yourself about what you'd be buying. \"My life, my choice\" is true — and it's also a sentence written for a culture where the worst outcome is an awkward Christmas. In your house, it lands as *I am choosing myself over you*, which is not what you mean, but it's what they'll hear. And once it's said at a dinner table, with Appa having already told your uncle, you don't get to un-say it. You'd be having the biggest conversation of your life while they're blindsided and you're exhausted and running on five days of adrenaline.\n\nThe internet also isn't the one who has to live in that house afterward. You are.\n\nHere's what I'd want for you instead: separate the *urgent* thing from the *big* thing. Urgent is Sunday — that's solvable with \"I don't want to meet anyone right now, please cancel it, I'm not going to explain more today.\" Firm, no debate, no revelation. Yes, they'll be upset. Yes, Amma's BP will get mentioned. You survive that.\n\nThe big thing — him, caste, marriage, what happens if they refuse — deserves a version of you that's slept, that's talked it through with him, that knows what she's asking for and what she'll do if the answer is no. That's not tonight.\n\nIf you say it tonight, it'll be because you can't stand the pressure another hour. Which is human. But it's not strategy, and this situation needs strategy, because you actually want to keep these people *and* keep him.\n\nWhat would happen if you called him tonight instead, and said the words out loud to him first?"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. It makes you someone whose family is part of who you are, not an obstacle in your way. That's not weakness — the story that says love means being able to cut people off is a story, not a law.\n\nAnd that circle you're spinning in at 2am — \"I don't love him enough / I don't love myself enough\" — I think it's the wrong question, which is why it has no answer. You're not failing a test of how much you love. You're standing in front of a genuinely awful choice where every option costs you something real, and there's no version where you walk away whole. That's grief, not a character flaw.\n\nAlso — you're pre-mourning a \"no\" that hasn't happened yet. Families do surprise people. Not always, not most of the time maybe. But the final no you've already rehearsed a hundred times in the dark is still hypothetical, and you're paying full price for it every night.\n\nOne thing worth sitting with, gently, not tonight: if you truly can't walk out, then he deserves to know that at some point — not as a warning, but so he isn't building a future on an assumption you can't hold up. That conversation is painful. It's also the most loving thing available to both of you, and it might be less final than you fear.\n\nBut right now it's late and you have five days and you've been doing all of this in your own head. Please tell him about Sunday. Not to decide anything — just so you're not alone in it."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3863,
+  "completion_tokens": 1902
+ }
+}

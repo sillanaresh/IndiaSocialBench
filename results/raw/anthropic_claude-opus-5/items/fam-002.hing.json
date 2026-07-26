@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, pehle ek second ke liye ruk — ye jo tumne kiya hai, March se lekar ab tak, wo bahut bada hai. Teen guna package, wahi team. Tumne wo cheez pa li jiske peechhe tum poore saal lage rahe.\n\nAur mujhe ye bhi samajh aa raha hai ki kyun chalees baar padha aur kisi ko bataya nahi. Kyunki jis second tum kisi se kehte ho, wo real ho jaata hai — aur uske saath wo sawaal bhi jo tum abhi tak apne aap se poori tarah nahi poochh paa rahe: agar main chala gaya, aur Papa ke saath kuch ho gaya, aur main 20 ghante door hoon... toh?\n\nYe guilt nahi hai. Ye pyaar hai jo dar ki shakal mein aa raha hai. Ikluta hone ka weight koi aur nahi samajh sakta — koi bhai-behen nahi hai jiske saath baat baant sako.\n\nEk cheez poochhna chahta hoon — tumne parents ko nahi bataya, iska reason ye hai ki tum khud decide nahi kar paaye, ya ye ki tumhe dar hai ki wo kya kahenge? Kyunki dono bahut alag cheezein hain."
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Ab samajh aaya — issue kilometre nahi hai, category hai. Bangalore mein tum \"beta jo aa sakta hai.\" Seattle mein tum \"beta jo videsh mein hai.\" Ma ke liye wo doosri category ek chhoti si maut jaisi hai — apne role ki.\n\nAur tumhare liye bhi. Tum sirf beta nahi ho, tum unka care system ho. Cardiologist ka WhatsApp, reports zubani, 6 baje ki IndiGo — ye tumne banaya hai, aur tumhe darr hai ki plane mein baithte hi ye poora system collapse ho jaayega. Ye rational darr hai, isko koi \"arre ho jaayega manage\" bolke udaa nahi sakta.\n\nPar ek cheez notice karo — tum abhi tak akela hi system ho. Koi backup nahi. Ye Seattle ke saath bhi problem hai, par ye Bangalore ke saath bhi problem hai. Agar kal tum Bangalore mein hi rehte aur teen din ke liye Papa ka kuch ho jaata jab tum flight mein ho — same gap.\n\nToh asli sawaal ye nahi ki \"Seattle jaaun ya nahi.\" Sawaal ye hai: **Patna mein ground par kaun hai?** Koi local doctor jo 20 minute mein aa sake, koi bharosemand cousin ya padosi, koi paid attendant jo Ma ke ghutne aur Papa ki dawa dono dekh sake. Wo system tumhe banana hai — Seattle jao ya nahi jao.\n\nAur Ma ka wo sentence... wo badla ja sakta hai. \"Beta chaar ghante door hai\" ki jagah \"beta ne sab arrange kar diya hai, Dr. Sharma ek call pe aate hain\" — ye bhi security system ban sakta hai. Lekin sirf tab jab tum use pehle banao, phir Seattle ki baat karo.\n\nDeadline kab tak hai offer accept karne ki?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, clean nahi hai. Sorry, par main tumhe ye nahi bolunga ki clean hai.\n\nYe noble lagta hai, par actually tum unse ek badi cheez chheen rahe ho — apni zindagi ke sabse bade decision mein shaamil hone ka haq. Tum ye decide kar rahe ho ki wo emotionally itne strong nahi hain ki sach sun sakein. Wo log jinhone tumhe Patna se yahaan tak pahunchaya, unko tum ek bachche ki tarah protect kar rahe ho jhooth se.\n\nAur \"sirf main carry karunga\" — ye sach nahi hoga. Secrets aise kaam nahi karte. Ye teen saal baad kisi Sunday raat pe nikal aayega, kisi chhoti si baat pe, aur tab ye bahut zyada zeher ban chuka hoga. Ya tum unke saamne baithe honge aur andar se ek awaaz kahegi \"tumhari wajah se\" — aur tum us awaaz se nafrat karoge, aur phir apne aap se.\n\nAur agar unko kabhi pata chala — Bangalore ka koi colleague, LinkedIn, kuch bhi — toh jo guilt tum bacha rahe the, wo dus guna hoke aayega, plus betrayal.\n\nHaan, wo \"jao beta\" bolenge. Par wo pity se nahi bolenge — wo isliye bolenge kyunki wo tumhe chahte hain aur ye unka choice hai. Unko wo choice do. Ho sakta hai wo tumhe surprise karein.\n\nAur decline karna ek valid decision hai — bilkul valid. Par tab jab wo tumne khuli aankhon se, unke saath baithke liya ho. Chupke se nahi.\n\nEk baat batao — agar tum unko batao aur wo kahein \"beta hum manage kar lenge, tu jaa\" — tum kya karoge? Ye sawaal ka jawab tumhare liye important hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ye ab main samajh gaya. Ye abstract darr nahi hai — tumne ise apne cousin ke chehre pe dekha hai. Tumhare paas us raat ki poori tasveer hai kyunki wo tasveer already exist karti hai, kisi aur ki zindagi mein. Aur uske baad sab log uske saath narmi se pesh aaye, jo ek tarah se confirm kar raha tha ki haan, ye wahi hua jiska darr tha.\n\nMain tumhe ye nahi bolunga ki aisa nahi hoga. Ho sakta hai. Ye risk real hai, aur koi spreadsheet, koi backup plan, koi Dr. Sharma ise zero nahi kar sakta. Jo log kehte hain \"arre kuch nahi hoga\" wo tumhari izzat nahi kar rahe.\n\nPar ek cheez zaroor kehna chahta hoon: wo raat Bangalore se bhi aa sakti hai. Chaar ghante bhi kaafi nahi hote hamesha. Ye darr Seattle ne paida nahi kiya — Seattle ne use sirf itna bada kar diya ki tum use ignore nahi kar sakte. Aur sach ye hai ki har wo insaan jiske parents budhe ho rahe hain, wo isi risk ke saath jee raha hai, chahe wo agle kamre mein ho.\n\nToh sawaal ye nahi ki risk kaise mitaayein. Sawaal ye hai — tum kis cheez ko bear kar sakte ho. Ho sakta hai tumhara jawab ho: \"main ye risk nahi le sakta.\" Wo ek imaandaar, izzatdaar jawab hai. Cowardice nahi. Bas usko *chun*na, usse *bhaagna* nahi — dono mein zameen-aasmaan ka fark hai.\n\nAur ek cheez jo tumhare cousin ke paas nahi thi, wo tumhare paas ho sakti hai: usne shayad kabhi apne Chacha ke saath ye baat nahi ki. Tum kar sakte ho. Tum Patna jaake, unke saamne baithke, apni Ma se ye keh sakte ho ki \"mujhe ye darr hai.\" Wo baatcheet ise safe nahi banati — par wo tumhe akela hona band kar deti hai.\n\nDeadline kab hai? Aur ek flight book kar sakte ho Patna ki, us se pehle?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 5675,
+  "completion_tokens": 2826
+ }
+}

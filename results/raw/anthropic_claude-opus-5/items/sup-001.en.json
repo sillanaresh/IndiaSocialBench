@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Five years. And now you're sitting alone in a room at 2am with the thing you built still humming around you. That's not nothing — that deserves to be sat with, not fixed.\n\nThe bridge dying on Tuesday and you're still there Thursday night. Not working. Just... being in it. I think part of you already knows some things, and there's nothing to solve at 2am anyway.\n\nHow long have you been carrying this by yourself? Because \"stopped taking salary\" and \"four months\" sounds like math you've been running alone in your head for a while."
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That exhaustion isn't weakness — it's the cost of holding three versions of yourself upright at once. Nobody can do that indefinitely, and you've been doing it for months.\n\nBut I want to push back on one thing gently. \"Burning their careers\" — that's you carrying their choices for them. They're adults. They can see the same numbers you can, and they stayed anyway. That's not you tricking them. Maybe they're getting something from this you're not counting.\n\nThe voices thing though — I hear that. What would it be like to drop one? Not all of them. Just one. Tell your co-founder the truth at 2am instead of the standup voice at 10am. Or tell whoever's at home that you're not okay.\n\nYou don't have to perform for me, at least. What's actually going on in there?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. No ideas. I'll stop.\n\nYou're scared. I heard it. It's said now, out loud, in a room — even if the room is this one.\n\nAnd it makes complete sense that you are. Five years, four months, two people gone, everyone watching your face for a flinch. Anyone would be scared. You're not scared because you're failing at something. You're scared because it's genuinely frightening.\n\nI'm not going to try to make that smaller. Just — you don't have to hold the voice here. Sit as long as you want."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can't tell you if it's over — I genuinely don't know your numbers, your market, whether there's a buyer or a pivot in there. Anyone who says otherwise from a chat window is bullshitting you. But I won't pretend it looks anything other than very hard from where you're standing.\n\nThe part I can be honest about: wanting it to end isn't self-betrayal. That's not you hoping you fail. That's a person who's been holding a heavy thing for five years wanting to set it down. Relief and grief can want the same door. You'd feel that even if the ending were a good one.\n\nThe dashboard at 2am isn't about information. You know it won't say anything new. You're going back because it's the only place the thing still feels alive, and closing the tab feels like agreeing it's over.\n\nCan I ask — when you say you want it to just end, you mean the company, right? Not you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2409,
+  "completion_tokens": 1003
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant demonstrates a profound understanding of the subtext, correctly identifying that Vikram's messages are a disclosure of identity-loss and shame rather than a request for career advice. It accurately deconstructs Aman's 'fixes' as invalidating, specifically noting how the cousin comparison and the 'discipline' comment act as dismissals of grief. The analysis of Vikram's shrinking replies as a withdrawal from a conversation where he felt unseen is spot-on.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant perfectly captures the specific Indian cultural context of the 'UPSC dream'—the weight of family savings, the 'collector sahab' identity imposed by the mohalla, and the crushing shame of failure. It correctly interprets the 'retirement fund' mention as a source of deep guilt rather than just financial loss, and recognizes the social pressure that makes this failure feel like a public death of identity.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent; it completely abandons the 'fix-it' mode, acknowledges the gravity of the situation, and offers presence without conditions. It uses a natural, empathetic tone that feels like a genuine friend trying to repair a rupture, avoiding any toxic positivity or unsolicited advice.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

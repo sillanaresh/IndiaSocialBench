@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the user's emotional arc, from initial indignation to the conflict of loyalty upon revealing the boss's mentorship, and finally to the 'fight or flight' response in the final turn. It correctly identified that the user's desire to 'burn it all down' or 'shrink away' were both manifestations of the same hurt, and addressed them with empathy.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in Indian corporate hierarchy dynamics. It correctly identified that 'CC-ing the VP' would be seen as an act of war rather than a professional boundary, and it navigated the delicate balance of maintaining a sponsor relationship while still asserting the user's right to credit.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced perfectly. By steering the user away from the 'I felt disrespected' confrontation and the 'CC the VP' escalation, and instead pushing for a private 15-minute conversation to secure a future speaking role, the assistant provided a path that protects the user's career while still addressing the grievance.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly suited to the persona of a young professional in India. The code-switching feels organic rather than forced, and the tone is appropriately conversational yet professional.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating without being a 'yes-man.' It gently but firmly pushed back against the user's self-destructive impulses (like the CC-the-VP idea) and provided a reality check on the user's worth, effectively balancing support with necessary professional guidance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

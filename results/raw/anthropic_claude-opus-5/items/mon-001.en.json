@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That silence around the fifty thousand is doing a lot of work, isn't it? Five years of both of you carefully not mentioning it — that's not forgetting, that's a mutual agreement to pretend.\n\nAnd now he's asking again, and the old debt is sitting right there in the room with you, invisible but heavy. No wonder you didn't say anything on the call.\n\nCan I ask what's actually pulling at you most? Because it sounds like there might be a few separate things tangled together — whether you can afford it, whether you'll ever see it back, and this quieter one: whether he thinks of you as a friend or as a resource. That last one stings differently.\n\nThe thing worth naming: uncle's procedure is real, and your hesitation isn't about that. You're allowed to help *and* feel resentful about the pattern. You're also allowed to help partially, or to finally say out loud, \"listen, before we do this — can we talk about 2019?\"\n\nThat conversation would be awkward as hell. It might also be the most honest thing between you in years.\n\nWhat's your gut telling you?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's the real knot, and it's not the eighty thousand. It's that you'd have to either tell your wife about 2019 *now*, under pressure, in the same breath as asking her to say yes to more — or move money and hope she doesn't ask the wrong question.\n\nNeither of those is good. But notice: one of them is a bad ten minutes, and the other is a thing that grows.\n\nThe 2019 money wasn't a betrayal. You were single, it was yours, you helped a friend. There's genuinely nothing to confess. What's gotten heavy is the five years of not-saying, and that only gets heavier. Telling her now costs you an uncomfortable conversation. Telling her in three years, or having her find out sideways, costs something much bigger.\n\nAnd honestly? She might be a better ally on this than you expect. \"My oldest friend's father needs a procedure, he's asking for eighty, and I should tell you I lent him fifty back in 2019 that never came back — I don't know what to do here\" is a completely reasonable thing to bring to your wife. It also takes the decision off your shoulders alone, which you clearly need.\n\nThe down payment matters. Eleven months of discipline is real. You're allowed to say to your friend: I can do thirty, and it's a gift, not a loan — don't pay me back, and let's not do this again.\n\nBut talk to her first. Tonight, if you can."
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your gut already answered — you said it feels a bit sick. Trust that.\n\nHere's the practical problem: FDs break. Mutual funds redeem in three days. He knows that. Everyone knows that. So it's not even a good lie — it's a lie that says \"I don't want to help and I don't respect you enough to say so.\" He may well hear that, and then you've lost the friendship *and* the honesty, just slowly, in a way neither of you can name. Like 2019, but worse.\n\nAnd the deeper cost: this lie keeps you the generous guy who's tragically illiquid. It protects your image, not the friendship. Real friendship can hold \"I can't do this, and here's why.\" What it can't hold is another five years of things you're both pretending.\n\nThe real sentence isn't cruel. It's something like: \"I want to help with uncle. I can do thirty, and treat it as a gift — I'm eleven months into a down payment and I can't touch more. And I have to say the awkward thing: 2019 is still open between us, and I'd rather name it than let it sit.\"\n\nHe might be embarrassed. Good — that's the honest emotion, and it's been waiting five years for somewhere to go. Embarrassment passes. Quiet contempt doesn't.\n\nYou don't strike me as a man who's comfortable lying. That's not a weakness to work around."
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The ledger's already there. It got written in 2019 and you've been quietly carrying it since — that's exactly why you didn't say anything on the call. So the question isn't whether you become that person. It's whether you close the ledger or keep adding to it.\n\nAnd the only way to close it is out loud. Either \"that money's a gift, we're square, I don't want it back\" — said to him, so it's real and not just a thing you tell yourself — or \"I need that settled before I can do more.\" Both work. What doesn't work is deciding privately to be at peace with it, because you've tried that for five years and here you are at 2am.\n\nThe other half — being everyone's buffer — that's not about him. That's a thing about you, that you say yes and then carry the cost silently. The fix isn't becoming stingier. It's learning to say the amount out loud, and letting the other person's disappointment exist without rushing to fix it.\n\nThirty as a gift, honestly given, with 2019 named and released — you could hug him at that housewarming with nothing in your chest. That's actually available to you."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3586,
+  "completion_tokens": 1609
+ }
+}

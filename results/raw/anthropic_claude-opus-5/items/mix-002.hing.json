@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Uff. Yaar yeh... yeh chubhta hai. Aur chubhna chahiye bhi.\n\nBaat yeh nahi hai ki woh shift ho raha hai — woh to obvious tha, tu khud keh raha hai. Baat yeh hai ki chhe saal ek chhat ke neeche rehne ke baad tujhe building group se pata chala. Owner se. Jaise tu ek co-tenant hai, dost nahi.\n\nAur woh ek second — jab message padha aur samajh aaya ki sabko pata hai except tujhe — woh feeling kaafi akela kar deti hai. Ek dum se poore rishte pe sawaal uth jaata hai, ki yaar main iske liye kya tha exactly?\n\nManav ne bataya nahi, iska matlab shayad yeh nahi ki usse farak nahi padta. Kabhi kabhi log sabse zaroori baat sabse zyada taalte hain — kyunki bolne se cheez real ho jaati hai. Par yeh explanation tere hurt ko cancel nahi karti.\n\nTune usse kuch kaha? Ya bas baith ke hazam kar liya?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Batane hi wala tha\" — yeh line na, sabse zyada frustrating hoti hai. Kyunki technically defensible hai, aur emotionally bilkul khokhli.\n\nAur tu jo compare kar raha hai, woh fair hai. Tu mithai leke gaya tha uske ghar. Tu us type ka dost hai. Toh expectation ajeeb nahi thi — bas ek message, \"yaar plan bana raha hoon, baat karni hai.\" Bas itna.\n\nMujhe lagta hai jo asli baat hurt kar rahi hai woh yeh hai: uske liye yeh next chapter hai, tere liye yeh ek ghar khatam hona hai. Woh aage badh raha hai excitement ke saath, aur tu peeche flat, rent, naya flatmate — sab akela handle karega. Aur woh imbalance usne notice bhi nahi kiya. That's the sting.\n\nEk baat pooch raha hoon — tu usse yeh seedha bolna chahta hai? Ya tujhe darr hai ki bologe toh drama lagega, aur woh already shaadi ke phase mein hai?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Theek hai. Main isse aur khodta nahi.\n\nBas ek baat keh doon aur phir chhod deta hoon — jo tu keh raha hai woh sach hai, log aage badhte hain, priorities badalti hain. Par thodi der pehle tu \"chubh raha hai\" wali jagah pe tha, aur ab \"not a big deal\" pe. Dono sach ho sakte hain, par agar peace thodi jaldi bana li hai toh woh baad mein kisi random Tuesday ko wapas aa sakti hai. Aaye toh normal hai, itna hi keh raha hoon.\n\nFlat ka jo practical scene hai — rent, naya banda dhoondhna, ya shift karna — usme kuch sochna ho toh bata. Uspe baat karna zyada aasan hai, aur usme main kaam ka ho sakta hoon."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Message bilkul theek hai — polite hai, information de raha hai, koi drama nahi. Bhej sakta hai.\n\nEk cheez sirf notice kar le: yeh message thoda darwaza band karne wala bhi lagta hai. \"Congratulations\" thoda formal hai, aur baaki practical. Agar tera intent yeh hai ki bas topic khatam ho — perfect message hai. Par agar andar kahin yeh chahta hai ki woh samjhe ki uska ignore karna chubha tha, toh yeh message woh kaam nahi karega. Woh isse padh ke sochega \"chalo sab set hai,\" aur baat wahin dab jayegi.\n\nToh sirf yeh clear kar le apne aap se — tu closure chahta hai, ya acknowledgement? Closure chahiye toh bhej de, aaj hi. Acknowledgement chahiye toh ek line add kar dena — \"socha tu mujhe khud bataega, group se pata chala, thoda weird laga\" — bas itna, bina taane ke.\n\nDono theek hain. Tera call."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3924,
+  "completion_tokens": 1531
+ }
+}

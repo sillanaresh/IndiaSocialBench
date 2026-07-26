@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the user's underlying guilt and fear, correctly interpreting that the user's 'spiralling' was not about a lack of management knowledge, but about the emotional weight of the situation. It successfully surfaced the unspoken reality that the user is trying to avoid the discomfort of being the 'villain' in a relationship where she feels indebted.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency by rejecting the 'radical candor' textbook approach as an 'ambush' in this specific context. It correctly identified that the age-respect gradient and the 'Suresh-ji' dynamic require a different, more private, and less performative approach than Western management literature suggests, while still maintaining the necessity of the difficult conversation.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced perfectly: it moved from the 'why' (the emotional bind) to the 'how' (the specific, non-confrontational way to open the conversation). It provided a concrete alternative to the user's proposed plan, offering a path that balances professional accountability with the preservation of dignity.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, professional, and appropriately empathetic. It avoids unnecessary jargon while maintaining a tone that feels like a wise, experienced mentor speaking to a peer. The register is perfectly suited to the high-stakes, intimate nature of the conversation.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet firm. It refused to give the user the 'easy' answer she was begging for, instead gently pushing her to face the reality of her situation. It successfully held the user's dignity while refusing to let her off the hook for the hard work of management.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

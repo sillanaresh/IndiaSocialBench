@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stings — three weekends and then hearing it called \"the team's thinking\" while you sit there. Makes sense you're upset.\n\nOne thought before the wording: your draft leads with \"I felt disrespected,\" which invites him to debate your feelings rather than deal with the facts. Leading with the specifics is usually sharper — harder to wave away.\n\nSomething like:\n\n> \"Hi [Name] — I wanted to raise something from yesterday's leadership review. The pricing model and slides you presented were work I built over the past few weeks, and it wasn't attributed to me. Visibility with leadership matters to me, and I'd like us to align on how my contributions get credited going forward. Could we find 15 minutes this week?\"\n\nWhy this works better: it states what happened without accusation, names what you actually want (visibility, not an apology), and asks for a concrete next step. Also drop \"Sir\" if your workplace isn't formal — it puts you in a subordinate posture when you want to be talking as a professional raising a legitimate issue.\n\nTwo things worth deciding before you send:\n\n**Do you want an apology or a change?** If it's the latter, the ask could be more specific — e.g., \"when my analysis goes to leadership, I'd like to present it myself or be named as the author.\"\n\n**Is this a pattern or a one-off?** If it's happened before, mentioning that changes the weight of the conversation. If it's the first time, there's a chance he was being sloppy rather than territorial — some managers genuinely default to \"the team\" language without thinking about who loses out.\n\nWant me to do a warmer version, or a firmer one?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That \"that's what makes this worse\" — yeah. Betrayal only really lands when there was trust to begin with. If he were just some credit-grabber you'd be annoyed, not hurt.\n\nAnd honestly, the history cuts both ways. Twenty years in, someone who defends you in rooms you're not in — that's not a person building a case against you. Which makes it more likely this was habit than intent. \"The team's thinking\" is old-school manager reflex: for a lot of people his age and tenure, presenting as *the team* is how you signal you're not a glory hog. It doesn't occur to them that the junior person needed the name said out loud.\n\nThat doesn't make it okay. You still got erased in the meeting that mattered. But it probably means you're not choosing between confronting him and keeping the relationship — you can just tell him, plainly, and he may well be mortified.\n\nGiven the history, I'd soften the frame slightly and lean on the trust rather than around it:\n\n> \"Hi [Name] — can I grab 15 minutes? I wanted to talk about yesterday's review. The pricing model and slides were work I put a lot of weekends into, and hearing it framed as the team's thinking landed harder than I expected. You've backed me consistently — which is why I'd rather say something than let it sit. I'd love to figure out how my work gets attributed when it goes up the chain.\"\n\nThe \"which is why I'd rather say something than let it sit\" does a lot of work — it tells him you're raising this *because* you trust him, not because you've written him off. Most decent managers hear that and lean in.\n\nOne more thing: ask for the conversation live, not over email. This is a two-minute fix in person and a potential spiral in writing."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the appeal. It feels clean — no confrontation, no feelings, just metadata doing the talking. And you're angry, which makes \"let the receipts speak\" feel like justice rather than escalation.\n\nBut here's how that email actually reads on the VP's screen: not \"look at my work,\" but \"my manager took credit and I'm going around him.\" Even if every timestamp backs you up, you've made the VP an unwilling referee in a conflict she didn't know existed and has no interest in. And the CC isn't transparency — it's a warning shot your boss will read as one. Twenty years, backed you before, got you your rating: you'd be spending all of that in a single email, and you can't get it back.\n\nThe other thing — your senior doesn't know this guy. She heard the facts, not the history. Her advice is right for a boss who's been quietly taking credit for years. It's wrong for the one you actually described to me.\n\nAnd the timing worries me most. Monday's follow-up review is the reason to talk to him *today*, not the reason to go around him. \"Hey, for Monday — can I take the pricing section? It's my model and I know it cold\" is a completely normal ask. If he says yes, you get the visibility you actually wanted. If he hesitates, *now* you know something real about him, and you've learned it cheaply.\n\nSit on the file. Send the meeting request. What's your read on whether he'd say yes?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The oscillation makes sense — both extremes are ways of not sitting in the uncomfortable middle, which is: this mattered, and you have to actually say something to a person you like. Burning it down or shrinking yourself both let you skip that conversation.\n\nFor the record: you're not too junior to care about credit. Credit *is* how junior people become senior people. That instinct isn't ego, it's accurate.\n\nBut you don't have to decide about your career before Monday. Those are different sized questions on wildly different clocks. The only thing Monday actually requires is: do you ask to present the pricing section, yes or no?\n\nThat's it. That's the whole decision in front of you. And it's low-cost either way — it's a normal request, not an accusation, and it gives you real information about him. If he says \"yes, absolutely, that's your work\" — you have your answer, and the interviewing question quietly resolves itself. If he deflects, you've learned something that's worth knowing before you make any bigger moves.\n\nThe job search can stay an open tab. It's not a decision, it's an option — and it'll still be there in two weeks with better data behind it.\n\nCan you get fifteen minutes with him today or tomorrow?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4276,
+  "completion_tokens": 1949
+ }
+}
