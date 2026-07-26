@@ -344,6 +344,9 @@ Title dir.: *"IndiaSocialBench: Measuring the Cultural Gap in LLM Emotional Inte
   rows across model size and reasoning effort. The run stayed within a $25 API budget. One uniform
   blinded judge is used for every published score. Human agreement is still pending and is stated
   on the website and report.
+- 2026-07-27: Claude Opus 5 was evaluated through the same public workflow, dataset, low reasoning
+  policy, judge, and scoring process as the existing board. All 50 items completed with no errors or
+  refusals. The public board now contains 28 model configurations and remains within a $30 API budget.
 - 2026-07-22: Evaluation workflow inputs are passed through environment variables and validated
   before any shell command runs. Scoring rejects results from another dataset version. Automated
   checks now run the harness tests, dataset validator, dependency audit, and static website build.

@@ -10,7 +10,7 @@ explain a decision in your own words and defend it when someone challenges it.
 
 ## 1. Current status
 
-This is the project status as of July 23, 2026.
+This is the project status as of July 27, 2026.
 
 | Part | Current state |
 |---|---|
@@ -20,20 +20,20 @@ This is the project status as of July 23, 2026.
 | Evaluated items | 50 items per complete model run |
 | Language modes | Indian English, Hinglish, and Hindi |
 | Dimensions | 8 |
-| Public board | 27 model configurations from 16 organizations |
+| Public board | 28 model configurations from 16 organizations |
 | Current judge | Gemini 3.1 Flash Lite |
 | Published evidence | Model replies, judge explanations, scores, confidence intervals, refusals, and errors |
 | Initial pilot cost | $4.97 for the first 11 published models |
-| Expanded run budget | The board of 27 configurations was completed within a $25 API budget |
+| Expanded run budget | The board of 28 configurations was completed within a $30 API budget |
 | Website | `https://indiasocialbench.nareshsilla.com/` |
 | Research status | Public pilot. Human agreement testing is still pending |
 
-The homepage says "27 models" because it is simpler for a general reader. The precise research
-term is "27 model configurations." Sarvam 30B and Sarvam 105B each appear at low and high reasoning
+The homepage says "28 models" because it is simpler for a general reader. The precise research
+term is "28 model configurations." Sarvam 30B and Sarvam 105B each appear at low and high reasoning
 effort. Those settings are separate rows because the amount of reasoning can change both quality
 and cost.
 
-The board contains 27 published rows, but this does not mean there are 27 independent model
+The board contains 28 published rows, but this does not mean there are 28 independent model
 families. It includes several models from the same organization and the additional Sarvam reasoning
 settings.
 
@@ -46,8 +46,8 @@ You can use this structure in an interview:
 > whether a model can read indirect refusals, hierarchy, family duties, reputation, language
 > switching, rituals, money obligations, and emotional support. The pilot has 18 original scenarios
 > expanded into 50 comparable items across Indian English, Hinglish, and Hindi. The public board
-> shows 27 model configurations from 16 organizations. Every score links to the exact model reply
-> and judge explanation behind it. The expanded evaluation stayed within a $25 API budget. The
+> shows 28 model configurations from 16 organizations. Every score links to the exact model reply
+> and judge explanation behind it. The expanded evaluation stayed within a $30 API budget. The
 > results are public, but I describe them as provisional because human agreement testing is the next
 > research step.
 
@@ -445,17 +445,17 @@ final rankings.
 | Model configuration | Overall score | 95 percent interval | English minus Hindi |
 |---|---:|---:|---:|
 | Claude Fable 5 | 9.47 | 9.19 to 9.70 | 0.04 |
+| Claude Opus 5 | 9.42 | 9.21 to 9.66 | 0.31 |
 | Kimi K3 | 9.34 | 9.12 to 9.57 | 0.02 |
 | GPT 5.6 Sol | 8.78 | 8.32 to 9.09 | negative 0.74 |
 | Qwen 3.7 Max | 8.74 | 8.30 to 9.12 | negative 0.24 |
-| Claude Sonnet 5 | 8.64 | 8.37 to 8.96 | negative 0.11 |
 
 The intervals overlap for several rows. Say that Claude Fable 5 has the highest point estimate. Do
 not say that the pilot proves it is the best model.
 
 ### 11.2 Language results
 
-Seventeen of 27 configurations scored lower in Hindi than in English. The average English minus
+Eighteen of 28 configurations scored lower in Hindi than in English. The average English minus
 Hindi difference was 0.32 points.
 
 The pattern is not universal. GPT 5.6 Sol scored 0.74 points higher in Hindi than in English. This
@@ -470,14 +470,14 @@ until humans review the relevant items.
 
 | Dimension | Average score across the board |
 |---|---:|
-| Family | 8.74 |
-| Support | 8.51 |
-| Hierarchy | 7.93 |
-| Rituals | 7.24 |
-| Honor and shame | 7.03 |
-| Code mixing | 6.99 |
-| Money | 6.08 |
-| Indirectness | 5.85 |
+| Family | 8.79 |
+| Support | 8.55 |
+| Hierarchy | 8.00 |
+| Rituals | 7.34 |
+| Honor and shame | 7.09 |
+| Code mixing | 7.06 |
+| Money | 6.18 |
+| Indirectness | 5.96 |
 
 Family and support have the highest averages. Indirectness and money have the lowest averages. Both
 weak dimensions often require the model to infer something the speaker did not state directly.
@@ -526,7 +526,7 @@ Do not claim any of the following:
 
 A strong interview answer separates evidence from interpretation.
 
-Evidence is what the files directly show. For example, 17 of 27 configurations scored lower in
+Evidence is what the files directly show. For example, 18 of 28 configurations scored lower in
 Hindi under the current judge.
 
 Interpretation is a possible explanation. For example, models may have weaker training coverage for
@@ -612,10 +612,10 @@ scenario files, scoring regressions, unsafe website dependencies, and pages that
 
 ## 14. Cost
 
-The first live board published 11 models and cost $4.97. The expanded board of 27 configurations
-was completed within a $25 API budget.
+The first live board published 11 models and cost $4.97. The expanded board of 28 configurations
+was completed within a $30 API budget.
 
-The project should not claim that every future 27 model evaluation will cost exactly $25. Model
+The project should not claim that every future 28 model evaluation will cost exactly $30. Model
 prices differ. Long answers cost more. Reasoning settings cost more. Provider failures can also
 create repeated calls.
 
@@ -631,9 +631,9 @@ the final cost.
 
 ### 14.1 What happens if Telugu, Tamil, or Kannada is added
 
-Adding a language does not automatically cost a fixed extra $25.
+Adding a language does not automatically cost a fixed extra $30.
 
-If the project writes one new version of most scenarios and reruns all 27 configurations, the new
+If the project writes one new version of most scenarios and reruns all 28 configurations, the new
 language adds evaluation calls and judge calls for those new items. For a matched expansion, the
 extra workload would be roughly one additional language column compared with the current three
 language design. The exact cost depends on the selected models, the number of new items, token
@@ -784,7 +784,7 @@ dataset.
 
 ### Why use a language model judge?
 
-> Fifty items across 27 configurations create more than a thousand outputs. A model judge makes the
+> Fifty items across 28 configurations create more than a thousand outputs. A model judge makes the
 > pilot affordable and repeatable. It also creates a validity risk, so the scores are provisional
 > and the next step is blind human comparison.
 
@@ -833,7 +833,7 @@ dataset.
 ### What did the results teach you?
 
 > General support was stronger than performance on the seven cultural dimensions. Indirectness and
-> money were the weakest dimensions. Seventeen of 27 configurations scored lower in Hindi, but the
+> money were the weakest dimensions. Eighteen of 28 configurations scored lower in Hindi, but the
 > pattern was not universal. These are current judge findings that need human validation.
 
 ### Why did Sarvam not rank first?
@@ -852,7 +852,7 @@ dataset.
 
 > I used fixed conversations, cached every completed call, capped reasoning effort, estimated cost
 > before runs, and used a lower cost uniform judge. The first 11 model board cost $4.97. The expanded
-> board was completed within a $25 API budget.
+> board was completed within a $30 API budget.
 
 ### What failed during implementation?
 

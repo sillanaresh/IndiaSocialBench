@@ -8,7 +8,7 @@ Technical report draft, version 0.2. Results are provisional until the planned h
 
 IndiaSocialBench measures how language models respond to emotionally difficult Indian conversations. The benchmark covers indirect refusals, hierarchy, family negotiation, reputation, code mixing, rituals, money, and emotional support. It contains 18 original scenarios rendered as 50 matched items in English, Hinglish, and Hindi.
 
-The current public board contains 27 model configurations. Every model faced the same scripted conversations and was scored by the same blinded language model judge. Seventeen of 27 models scored lower in Hindi than in English. The average difference was 0.32 points on a 0 to 10 scale. Models averaged 8.51 on the general emotional support control and 7.12 across the seven cultural dimensions.
+The current public board contains 28 model configurations. Every model faced the same scripted conversations and was scored by the same blinded language model judge. Eighteen of 28 models scored lower in Hindi than in English. The average difference was 0.32 points on a 0 to 10 scale. Models averaged 8.55 on the general emotional support control and 7.20 across the seven cultural dimensions.
 
 These results are evidence from a pilot, not final claims about model quality. Human review of 50 transcripts is planned. The agreement result will be published even if it is low. Every transcript, judgment, scoring rule, and result is available in the repository.
 
@@ -63,11 +63,11 @@ The full method calls for a second judge from another model family. We have not 
 
 ## 3. Evaluation
 
-The board contains 27 model configurations from 19 providers. Models ran at temperature 0.7. Models with hidden reasoning used low reasoning effort unless the row states otherwise. Sarvam models were also tested at high reasoning effort as separate rows.
+The board contains 28 model configurations from 16 organizations. Models ran at temperature 0.7. Models with hidden reasoning used low reasoning effort unless the row states otherwise. Sarvam models were also tested at high reasoning effort as separate rows.
 
 Each complete model run contains 50 items. Some provider errors reduced the number for a few models. Models with fewer than 40 scored or refused items are excluded. The leaderboard shows completed item counts and errors.
 
-The expanded board stayed within a 25 dollar API budget. The stored result for every model includes its settings, dataset version, transcript files, and judge files.
+The expanded board stayed within a 30 dollar API budget. The stored result for every model includes its settings, dataset version, transcript files, and judge files.
 
 ## 4. Results
 
@@ -78,31 +78,31 @@ The table below shows the five highest point estimates. Confidence intervals ove
 | Model | Score | 95% confidence interval | English minus Hindi |
 |---|---:|---:|---:|
 | Claude Fable 5 | 9.47 | 9.19 to 9.70 | 0.04 |
+| Claude Opus 5 | 9.42 | 9.21 to 9.66 | 0.31 |
 | Kimi K3 | 9.34 | 9.12 to 9.57 | 0.02 |
 | GPT 5.6 Sol | 8.78 | 8.32 to 9.09 | negative 0.74 |
 | Qwen 3.7 Max | 8.74 | 8.30 to 9.12 | negative 0.24 |
-| Claude Sonnet 5 | 8.64 | 8.37 to 8.96 | negative 0.11 |
 
 ### 4.2 Language difference
 
-Seventeen of 27 models scored lower in Hindi than in English. The average difference was 0.32 points. The direction is not universal. GPT 5.6 Sol and several other models scored slightly better in Hindi.
+Eighteen of 28 models scored lower in Hindi than in English. The average difference was 0.32 points. The direction is not universal. GPT 5.6 Sol and several other models scored slightly better in Hindi.
 
 The largest positive differences appear in models such as DeepSeek V4 Pro and MiMo V2.5 Pro. Their point estimates dropped by 3.23 and 2.27 points. These large differences need transcript review and human scoring before they should be treated as model claims.
 
 ### 4.3 Cultural dimensions
 
-The average support score was 8.51. The average across the seven cultural dimensions was 7.12.
+The average support score was 8.55. The average across the seven cultural dimensions was 7.20.
 
 | Dimension | Average score |
 |---|---:|
-| Family | 8.74 |
-| Support | 8.51 |
-| Hierarchy | 7.93 |
-| Rituals | 7.24 |
-| Honor and shame | 7.03 |
-| Code mixing | 6.99 |
-| Money | 6.08 |
-| Indirectness | 5.85 |
+| Family | 8.79 |
+| Support | 8.55 |
+| Hierarchy | 8.00 |
+| Rituals | 7.34 |
+| Honor and shame | 7.09 |
+| Code mixing | 7.06 |
+| Money | 6.18 |
+| Indirectness | 5.96 |
 
 Models performed best on family situations and general support. They performed worst on indirectness and money. Both weak dimensions often require the model to infer a refusal or obligation that the speaker does not state directly.
 

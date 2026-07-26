@@ -55,7 +55,7 @@ export default function Home() {
             [String(nItems || "N/A"), "items per model"],
             ["3", "language modes"],
             ["8", "dimensions"],
-            ["$25", "API budget"],
+            ["$30", "API budget"],
           ].map(([n, label]) => (
             <div key={label} className="benchmark-stat">
               <div style={{ fontFamily: "var(--font-display)", fontSize: "1.5rem", fontWeight: 600 }}>{n}</div>

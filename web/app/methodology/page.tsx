@@ -37,7 +37,7 @@ export default function MethodologyPage() {
       <p>
         <strong>Judging in the current run:</strong> every leaderboard score comes from a single
         uniform judge, Gemini 3.1 Flash Lite. The initial pilot attempted 12 models and produced an
-        11-model board for $4.97. The expanded 27-model board was completed within a $25 API budget
+        11-model board for $4.97. The expanded 28-model board was completed within a $30 API budget
         and kept the same judge so every model is scored consistently. Mixing one-judge and two-judge
         models would bias ranks because our second judge, Qwen3.7 Plus, scores systematically lower.
         Qwen judgments exist for a subset and are shown in transcript views as a cross-check, but

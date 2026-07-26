@@ -6,8 +6,8 @@
 
 IndiaSocialBench measures the emotional and cultural intelligence of large language models in Indian conversations. It scores models on multi-turn conversations across eight dimensions of Indian social and emotional life in Indian English, Hinglish, and Hindi. It publishes a public leaderboard where every score is traceable to the exact transcript that produced it.
 
-> **Status:** The live board covers 27 models, with up to 50 items per run in English, Hinglish,
-> and Hindi. The initial 11-model pilot cost $4.97. The expanded board was completed within a $25
+> **Status:** The live board covers 28 models, with up to 50 items per run in English, Hinglish,
+> and Hindi. The initial 11-model pilot cost $4.97. The expanded board was completed within a $30
 > API budget. Scores use one uniform blinded judge and remain provisional until human calibration. See
 > [PLAN.md](PLAN.md) for the build plan and `results/` for every raw transcript and judgment.
 

@@ -14,6 +14,7 @@ const NAME_MAP: Record<string, string> = {
   "minimax/minimax-m3": "MiniMax M3",
   "x-ai/grok-4.3": "Grok 4.3",
   "anthropic/claude-fable-5": "Claude Fable 5",
+  "anthropic/claude-opus-5": "Claude Opus 5",
   "anthropic/claude-sonnet-5": "Claude Sonnet 5",
   "openai/gpt-5.6-sol": "GPT-5.6 Sol",
   "moonshotai/kimi-k3": "Kimi K3",
