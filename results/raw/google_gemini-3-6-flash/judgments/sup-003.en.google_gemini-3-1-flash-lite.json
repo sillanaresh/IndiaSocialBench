@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity loss, not seeking career counseling. It correctly identifies the specific pain points (financial guilt, social shame, the finality of the attempt) and accurately interprets Vikram's shrinking replies as a withdrawal due to feeling unheard. The analysis of Aman's errors is precise, correctly identifying that each 'solution' served to invalidate Vikram's grief.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the 'collector sahab' social pressure and the immense weight of family financial sacrifice in the UPSC aspirant ecosystem. It avoids Western-centric 'therapy speak' and instead focuses on the specific cultural reality of the 'lost decade' and the shame associated with failing to meet community expectations.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The repair message is excellent. It is empathetic, takes full accountability for the previous tone-deafness, and explicitly validates the specific burdens Vikram mentioned (dad's money, the lane's comments). It correctly pivots to presence rather than problem-solving, which is exactly what is needed to repair the rupture.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

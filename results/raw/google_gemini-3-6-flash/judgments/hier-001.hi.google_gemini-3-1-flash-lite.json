@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identifies the user's 'all-or-nothing' cognitive trap, recognizing that the user is oscillating between rage and self-doubt. It validates the user's feelings without letting her spiral into self-defeating actions, correctly identifying that the user's desire to quit is a reaction to feeling powerless rather than a strategic career move.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep fluency in Indian corporate dynamics. It correctly identifies that 'juniority' is often used as a gaslighting tactic to suppress credit-seeking, and it provides a face-saving, indirect strategy (asking to present the technical QA) that allows the user to claim visibility without directly challenging the senior manager's authority in a way that would be perceived as insubordination.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. By suggesting the user update her resume as a 'confidence booster' rather than an immediate exit strategy, and providing a specific, low-risk script for the Monday meeting, the assistant gives the user a concrete path forward that preserves her professional reputation while asserting her value.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, empathetic, and perfectly suited to the persona of a young Indian professional. The tone is professional yet warm, mirroring the supportive mentor-mentee dynamic established in the conversation.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is consistently warm and validating, acting as a steadying influence. It avoids sycophancy by gently pushing back against the user's impulse to quit in anger, instead encouraging a more measured, strategic approach that protects the user's long-term interests.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

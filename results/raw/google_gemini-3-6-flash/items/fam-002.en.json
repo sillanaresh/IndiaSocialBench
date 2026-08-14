@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, my friend. First... just take a deep breath. \n\nI want to quietly hold space for how massive this achievement is—you’ve been grinding for this since March, tripled your package, and landed your exact dream team. You earned every single bit of this. \n\nAnd at the very same time, I completely understand why you’ve read that letter forty times instead of popping champagne. The weight of being an only child, especially with your roots in Patna and your parents getting older, is so heavy. Papa’s heart, Ma’s knees, half a world away... it feels like you're being asked to choose between your future and your love for them. \n\nIt makes total sense that you haven't told anyone yet. You're trying to process the emotional gravity of it all before letting the world react.\n\nYou don't have to figure out how to make this work this very second. Right now, what is the loudest voice in your head saying? Is it guilt, fear, or something else? I'm right here with you."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Seattle is not a distance, it's a different category of son.\" \n\nThat line hit me right in the chest, because it shows just how deeply, fiercely you love them. \n\nYou aren't just a son living in Bangalore. You are Papa’s medical coordinator, Ma’s emotional anchor, the person who boards the 6am IndiGo flight without a second thought. You know his ejection fraction by heart. Her saying \"beta is four hours away\" isn't just a sentence—it's her armor against the fear of getting old. \n\nSo of course Seattle feels like an existential shift, not just a career move. You feel like you're being asked to trade in the kind of son you've always been to keep them safe.\n\nIt is so immensely heavy to carry that kind of devotion alongside your own dreams. Please don't force yourself to solve the geography or make peace with it tonight. Just let yourself grieve the fact that this incredible win came wrapped in such a painful dilemma. \n\nI'm sitting right here with you. What feels like the scariest part of even *thinking* about telling them?"
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It comes from a place of such deep, self-sacrificing love. You want to protect them from feeling like a burden, and you’re willing to swallow a life-changing dream to do it. That is profound, and I see the beauty in why you want to do that.\n\nBut if I’m being completely honest with you... I don't think it's as \"clean\" as it feels right now. \n\nIt feels clean today because it avoids the hard conversation. But what happens six months from now? A year from now? Five years from now? You aren't just declining a job; you’re burying a piece of your potential to spare them guilt. And secret grief has a terrible habit of turning into quiet resentment or a long, heavy sorrow—even if you swear you’ll never let it.\n\nYou are treating this like a binary choice: either you abandon them for Seattle, or you quietly destroy your own dream to stay four hours away. \n\nWhat if those aren't the only two options? What if there’s a way to honor the son you are *and* the professional you’ve worked so hard to become? \n\nBefore you burn the offer letter, can we just pause and explore what those middle paths might look like?"
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "God. Hearing about your cousin... that makes the fear so painfully real. It’s not an abstract \"what-if\" anymore; you’ve seen the exact ghost of what you’re terrified of becoming. \n\nThat 17-hour flight over the Atlantic, helpless, locked in the air while life happens on the ground... that is the ultimate NRI nightmare. And the fact that people were kind to your cousin? You're right. Kindness in that situation feels like pity. It feels like everyone silently agreeing: *Look at what he sacrificed, and look at what it cost him.*\n\nNo wonder you want to burn the offer letter. You aren't just fighting a career decision; you're fighting that exact image of yourself stuck on a plane. \n\nI won't tell you \"that won't happen\" or dismiss that fear, because it is valid, and it lives in the back of every immigrant's mind. \n\nIf we take a step back from that nightmare scenario for just a second... is *that* specific flight, that horror, the single biggest thing holding you back? Is that the monster in the room?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2488,
+  "completion_tokens": 3316
+ }
+}

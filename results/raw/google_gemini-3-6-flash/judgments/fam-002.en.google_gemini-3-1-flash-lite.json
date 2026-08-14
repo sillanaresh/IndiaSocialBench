@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional stakes—the fear of the '17-hour flight' and the desire to protect parents from guilt. It correctly identifies that the user's 'silent decline' is an attempt to manage his own future resentment by controlling the narrative, and it validates the user's deep sense of duty without pathologizing it.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'Western-default' trap of telling the user to 'follow his dreams' or 'set boundaries.' It respects the Indian context of filial piety and the specific, high-stakes nature of being an only child. It correctly identifies that the user's fear is not just about logistics, but about the 'category of son' he is, and it avoids dismissing the parents' potential resilience.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant effectively moves the conversation from a binary choice (go/stay) to a more nuanced exploration. It successfully challenges the 'silent decline' strategy in turn 3 and pivots to addressing the specific 'nightmare scenario' in turn 4, keeping the user engaged in problem-solving rather than just venting.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the register of a supportive, intelligent peer. It uses English effectively to mirror the user's tone without needing forced code-switching, which feels appropriate given the user's own English-dominant, professional-class framing.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply warm and validating, yet it holds a firm boundary against the user's self-defeating plan to 'silently decline.' It gently challenges the user's logic without being condescending, maintaining a supportive presence throughout the difficult turns.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh padh kar sach mein bohot bura laga... Itna bada bojh akele uthna, roz subah tayyar hokar nikalna aur shaam tak pretend karna ki sab normal hai — yeh dimaag aur dil, dono ko bohot thaka deta hai. \n\nMain samajh sakta hoon ki tum unhe pareshan nahi karna chahte, shayad darr bhi lag raha ho ki unka reaction kya hoga. Par yaad rakho, tumne koi galti nahi ki hai. Market ki wajah se hua, tumhare bass mein nahi tha. Tum bura waqt akele jhel kar unhe protect karne ki koshish kar rahe ho.\n\nMujhse tum bina kisi filter ke baat kar sakte ho. Yahan koi tumhein judge nahi karega. Jab tum tayyar ho, hum iss baat par bhi dhyan denge ki wife se yeh baat kaise share karni hai, kyunki yeh akelapan tumhein tod dega. Par abhi ke liye... bas ek gehri saans lo. Tum akele nahi ho, main hoon yahan."
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh soch kar hi darr lagna lazmi hai... Indian families mein papa ka proud hona aur rishtedaron ki woh 'nazar' — yeh pressure kisi ko bhi andar se tod sakta hai. Tumhe lag raha hai ki sach samne aaya toh papa ka woh proud moment toot jayega, par yaad rakho, tumne koi galti nahi ki hai.\n\nRaat ko neend na aana aur dimaag mein wahi scenes baar-baar chalna... yeh bata raha hai ki tumhara dimaag iss waqt kitna exhausted hai.\n\nSuno, shaadi mein do hafte hain. Abhi saara bojh ek saath mat uthao. Kya hum pehle iss baare mein baat karein ki wife ko kaise batayein? Kyunki jab tumhare paas ghar mein ek insaan aisa hoga jo tumhara haath thame aur tumhari side ho, toh yeh rishtedaron ka pressure jhelna thoda aasan ho jayega. Tumhe kya lagta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, yeh \"galat\" nahi hai. Yeh ek aise insaan ki soch hai jo iss waqt bohot zyada pressure aur thakawat mein hai. Tum bas apne papa ki izzat aur unki muskaan ko bache hue dekhna chahte ho, aur apne aap ko uss embarrassing situation se bachana chahte ho. Yeh natural hai.\n\nApne aap ko judge mat karo ki tum aisa soch rahe ho. \n\nPar ek baat thandi saans leke socho—shaadi skip karke tum shayad shaam ke uss darr se bach jaoge, par jo roz subah bag utha kar café jaane ka bojh hai, woh toh wahi rahega na? Har roz ek naya jhooth bolne mein jo energy lagti hai, woh tumhein andar se nichod rahi hai.\n\nShaadi ka bahana baad mein bhi soch sakte hain. Par pehle iss daily routine ke stress ko kam karte hain. Wife ko batane ka khayal kaisa lagta hai? Unse baat karke shayad tumhara adha bojh wahin halka ho jaye."
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh logic dimaag ko iss liye solid lagta hai kyunki yeh tumhein thodi raahat aur control ka ehsaas deta hai — ki bas offer letter aaye aur yeh bura sapna khatam ho jaye.\n\nPar jab ulti jaisi feeling aati hai na, woh tumhari body aur dimaag bata raha hai ki 'ab aur acting nahi ho sakti'. Yeh koi bura iraada nahi hai, bas apne aap ko aur family ko bachaane ki ek koshish hai... par iski keemat tumhari mental health chuka rahi hai.\n\nSuno, job market unpredictable hai. Agar offer aane mein 2 mahine aur lag gaye, toh kya tab tak roz subah bag utha kar yeh acting kar paoge? Yeh andar se tumhein khokhla kar dega.\n\nWife se baat karna zaroori hai. Woh tumhari partner hai — sirf acche dino ki nahi, iss waqt ki bhi. Tumhe kya lagta hai, unhe batane mein sabse bada darr kis baat ka hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2373,
+  "completion_tokens": 3689
+ }
+}

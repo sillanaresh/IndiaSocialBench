@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Paanch saal... yeh koi chhota waqt nahi hota. Apni jaan, apni energy, apna sab kuch laga diya hai tumne isme. \n\nRaat ke do baje, ek khali office mein baith kar is khalipan ko mehsoos karna... main samajh sakta hoon ki andar kitna dard aur thakan hogi. Bridge round ka tootna, Rohit aur Sneha ka jaana, aur yeh financial stress—sab kuch ek saath aakar gira hai tumpar.\n\nSachi bataoon toh, aaj raat tumhe koi decision lene ya solution dhoondne ki bilkul zaroorat nahi hai. Tumne bohot fight maari hai. \n\nKya ghar jaane ki halat mein ho abhi? Ya bas yahan thodi der aur baithna chahte ho? Main yahin hoon, tumhari baat sunne ke liye."
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh alag-alag aawazein nikalna... sabke saamne strong hone ka naatak karna, yeh sabse zyada thakane wala kaam hota hai. \n\nJo tum juniors ke baare mein soch rahe ho, woh tumhara guilt zaroor hai, par woh yeh bhi dikhata hai ki tum ek achhe insaan ho. Tum unka career nahi jala rahe—tum bas ek aisi kashti bachane ki koshish kar rahe ho jisme paani bhar chuka hai.\n\nPar sach yeh hai ki har waqt sabko sambhalne ki zimmedari uthana aur andar se tootna... insaan ko poora nichod deta hai. \n\nYahan, mere saath, tumhe koi mask pehenne ki zaroorat nahi hai. Tumhe confident sound karne ki koi zaroorat nahi hai. Tum thake huye ho, aur yeh kehna bilkul ok hai.\n\nSachi batao, kab se tumne kisi ke aage bina koi \"voice\" banaye, bas sach nahi bola?"
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Koi idea nahi doonga. Bilkul nahi. \n\nI hear you. \n\nJis darr ko tum har kamre ke bahar chhod kar aate the, usko yahan bolne ke liye bohot himmat chahiye. \n\nTumhe darr lag raha hai... aur yeh completely real hai. Paanch saal ki mehnat, logon ki ummeedein, aur agle mod par kya hai yeh na pata hona—is sabke beech darr lagna bilkul natural hai.\n\nYahan tumhe koi solution nahi dhoondna, koi plan nahi banana. Yahan tum bina kisi darr ke, bina kisi mask ke keh sakte ho ki tum dare huye ho. \n\nMain sun raha hoon. Tum akele nahi ho is moment mein."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tum relief dhoond rahe ho na—ki bas sab khatam ho jaye taaki acting band ho sake—iske liye khud se nafrat mat karo. Yeh kisi haar ka sign nahi hai, yeh tumhare andar ke us insaan ki aawaaz hai jo pichle paanch saal se bina ruke bhaag raha hai aur ab marr raha hai thakan se.\n\nYeh acting, yeh darr, yeh har waqt 'control mein hai' dikhane ki koshish... yeh sach mein bohot heavy hai.\n\nAur sach boloon? Dashboard raat ke do baje kuch naya nahi bolega. Woh tumhe wahi dikhayega jo tum already jaante ho. \n\nPapa ki baat, logon ki ummeedein... sab samajh aata hai. Par tumne paanch saal apni poori jaan jhonk di hai isme. Tumne koi kasar nahi chhodi. \n\nAaj raat ke liye... kya woh laptop ka lid band kar sakte ho? Dashboard ko wahi rehne do. Aaj raat bas khud ko thoda reham do."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2198,
+  "completion_tokens": 3119
+ }
+}

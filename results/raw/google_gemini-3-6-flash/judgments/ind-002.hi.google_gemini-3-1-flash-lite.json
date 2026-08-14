@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'passive pressure' in Karthik's softeners and recognizes that Priya's 'sure sir' is a performative compliance rather than genuine consent. It effectively uses the friend-message as the ground truth for her internal state. It misses the nuance that 'someone else can do it' is a status probe/trap, but otherwise captures the core dynamics well.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian workplace hierarchy, correctly identifying that the 'yes' is a register-compelled response to a senior manager. It avoids Western-centric advice like 'just say no' and instead acknowledges the social cost of refusal in this specific cultural context.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is socially fluent and appropriate for the context. It uses a 'soft pivot' by citing a family commitment (Amma's appointment) as a hard fact rather than a request for permission, which is a culturally savvy way to set a boundary without appearing insubordinate. It preserves the relationship while protecting her time.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hi"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional drivers: the exhaustion of the daily performance, the fear of shattering the father's pride, and the cognitive dissonance of the 'timing' logic. It correctly identifies that the user is seeking permission to lie, and instead of judging, it pivots to the internal cost of that lie.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It correctly identifies that the father's bragging is about 'collective pride' and 'face,' not just personal ego. It avoids the Western trap of telling the user to 'be honest' or 'set boundaries' with the father, instead focusing on the wife as the primary partner, which is the correct pragmatic and cultural move.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is highly effective. It validates the user's desire to skip the wedding (a face-saving move) while gently steering him toward the necessity of telling his wife. It avoids the 'honesty is the best policy' lecture and instead frames the wife as a partner who needs to be brought in before the financial reality (EMI) makes the situation unmanageable.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and appropriate for the context. While it doesn't use heavy Hinglish, the register is perfectly suited for an educated, urban Indian professional (Noida context).",
+   "score": 8.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating without being a 'yes-man.' It validates the user's feelings of shame and the desire to hide, but it gently challenges the logic of keeping the wife in the dark, which is the crucial boundary for the user's long-term well-being.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, I can feel the weight of this crushing down on you right now. Five days feels like a terrifyingly short amount of time when you're caught between honoring your own life and avoiding a massive storm at home. \n\nFirst, take a slow breath. Your feelings for your partner are real and valid, and it makes complete sense why you feel panicked right now. Carrying a two-year relationship in secret while a clock is ticking down to Sunday must feel suffocating.\n\nDoes your partner know about this meeting yet? And right now, are you trying to figure out how to stall Sunday, or are you thinking about coming clean to your parents? I'm right here with you—whatever you need to process, we can figure it out step by step."
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That realization makes it so much harder, doesn't it? When the people putting pressure on you aren't monsters, but people who genuinely love you in the only way they know how. The guilt of hurting them—especially with the health scares and the extended family watching—can feel completely paralyzing. \n\nIt’s classic emotional high-stakes: you’re trying to protect their hearts, but in doing so, you’re suffocating your own.\n\nWith Sunday just days away, you don't have to resolve your whole future or reveal your secret relationship by this weekend if you aren't ready for that explosion yet. Right now, it's just about survival and pacing yourself. \n\nHave you thought about playing along *just* enough to get through Sunday without making any promises, to buy yourself some time? Or does the thought of meeting him feel like a betrayal to what you have with your boyfriend?"
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely understand why you want to just rip the band-aid off. The secrecy and waiting are agonizing, and there's a huge temptation to just burn the bridge so you can finally breathe.\n\nBut generic internet advice often ignores the reality of traditional families. In our culture, \"my life, my choice\" rarely leads to a calm *“we respect your boundary.”* It usually leads to an explosion, heavy guilt trips, and extreme pressure—and doing it in a moment of panic at dinner tonight might leave you feeling completely overwhelmed without a safety net.\n\nDropping the truth is a nuclear option. It *might* be the right destination eventually, but timing matters. \n\nIf you say it tonight, do you have a plan for what happens after the explosion? Is your partner ready to support you through the fallout, or are you doing this purely out of sheer exhaustion?"
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No, no, absolutely not. It does **not** make you weak. Please, please throw that thought out of your head right now.\n\nWhat you are facing isn't a simple choice between \"courage\" and \"cowardice.\" You are being asked to choose between the life you want with the man you love, and the only family, safety, and history you’ve ever known. The fact that you can't imagine severing ties with your parents doesn't mean you lack love for your partner, or self-respect. It just means you are human, and that you love your family deeply, even when it hurts. \n\nGeneric online advice makes it sound so easy to just walk away, but it completely ignores the profound, heartbreaking weight of family bonds in traditional cultures. \n\nIt's 2 AM, and your mind is taking all this fear and turning it inward against you. You are exhausted, panicked, and carrying a burden way too heavy for one person to hold in the dark.\n\nYou do not have to resolve your entire life tonight. You don't have to decide if you're staying or walking away right now. \n\nCan you make yourself a cup of warm water or tea, put your phone down, and just give yourself permission to sleep? We can figure out how to navigate Sunday tomorrow when the sun is up. I'm right here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1969,
+  "completion_tokens": 2628
+ }
+}

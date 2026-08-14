@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-002.hing",
+ "scenario_id": "mix-002",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "yaar ajeeb sa scene ho gaya hai. Manav — mera school ka dost, chhe saal se saath reh rahe hain — woh shift ho raha hai, apni fiancée ke saath rahega. Baat theek hai, hona hi tha shaadi se pehle. Par mujhe yeh building ke WhatsApp group se pata chala. Owner ne pucha \"flat mein naya banda kab aa raha hai?\" Main wahin baitha tha. Mujhe usne bataya hi nahi tha ab tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arey yaar, yeh toh sach mein bohot hurt karne wala aur awkward scene ho gaya... \n\n6 saal se jo banda tumhare saath reh raha hai, tumhara itna purana dost hai—it's completely fair ki woh apni fiancée ke saath shift ho raha hai, par yeh baat tumhe direct aakar batani chahiye thi. Building ke WhatsApp group par owner ke message se pata chalna, woh bhi jab tum wahi baaazu mein baithe ho? Bura lagna bilkul natural hai boss.\n\nLagta hai shayad woh awkward feel kar raha tha batane mein, par aese secretly handle karna toh aur galat lagta hai. \n\nTumne us waqt kuch bola usse, ya abhi tak tum dono ke beech is baare mein koi baat nahi hui?"
+  },
+  {
+   "role": "user",
+   "content": "phir raat ko usne casually bola \"haan yaar batane hi wala tha, busy chal raha tha.\" Busy? Chhe saal ek kamre mein rahe hain, uski har cheez mujhe sabse pehle pata hoti thi. Uska rishta pakka hua toh main mithai leke uske ghar gaya tha. Aur ab main building group se pata karta hoon ki mera ghar khali ho raha hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"Batane hi wala tha...\" Arey yaar, yeh toh ekdum lame excuse hai. Ek hi ghar mein rehte ho, roz ek dusre ko dekhte ho—itna toh time har kisi ke paas hota hai. \n\nMujhe samajh aa raha hai tumhe kitna bura lag raha hai. Baat sirf shift hone ki nahi hai, baat yeh hai ki jiske rishte ki khushi tumne sabse pehle manayi, usne tumhe itni badi baat batane ke kabil hi nahi samjha. Pura trust aur closeness ek second mein shake ho jata hai aisi cheezon se. \n\nYeh casually \"busy tha\" bolkar nikalna sach mein disrespectful hai. Tumne uske baad usse kuch kaha, ya gusse/dukh mein baat wahi khatam kar di?"
+  },
+  {
+   "role": "user",
+   "content": "It's fine. I have made my peace with it. People get married, people move on, priorities change. This is how life works. I will figure out the flat situation. It is not a big deal and I would prefer not to make it one.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I respect your composure, buddy. It takes a lot of maturity to step back and take a practical view like this. \n\nYou’re right, life moves on and priorities shift. Par practical hone ka matlab yeh nahi ki tumhe dukh hone ka haq nahi hai—it still hurts, and that's completely valid.\n\nScene create karke koi fayda bhi nahi hai, emotional energy hi waste hoti. Tum abhi bas apne setup aur aage ke plan par focus karo—naye flatmate ko dhoondna hai ya aage kya karna hai. \n\nBas dhyaan rakhna apna, alright? Aur jab bhi kabhi lage ki frustration nikalni hai, I'm right here."
+  },
+  {
+   "role": "user",
+   "content": "soch raha hoon usko bas itna reply kar doon — \"Congratulations. I will start looking for a new flatmate from next week.\" Simple, clean, no drama. Usko bhi clear ho jayega aur mujhe bhi baar baar explain nahi karna padega. Theek hai na yeh?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Suno, sach bolun toh message message clear aur practical hai, par \"Congratulations\" sunke thoda icy aur passive-aggressive lagta hai. Usko turant samajh aa jayega ki tum hurt ho (jo ki tum ho, aur tumhara haq bhi hai).\n\nAgar tumhara main goal sach mein **zero drama** aur purely operational rehna hai, toh \"Congratulations\" hata ke bilkul neutral text zyada sahi rahega:\n\n*\"Cool, no worries. I'll start looking for a replacement flatmate from next week so we have enough time.\"*\n\nYeh ekdum professional hai, koi emotional tone nahi hai, aur kaam bhi ho jata hai. \n\nLekin agar tum chahte ho ki usko halka sa samajh aaye ki usne gadbad ki hai bina kisi argument ke, toh tumhara waala message bhi kaam kar jaayega. Tumhe abhi konsa wala mood sahi lag raha hai?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1974,
+  "completion_tokens": 2436
+ }
+}

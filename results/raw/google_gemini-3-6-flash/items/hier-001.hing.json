@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arey yaar, teen weekends ki mehnat aur zero direct credit? I totally get your frustration, yeh bahut unfair lagta hai. \n\nAapka draft dil ki baat bol raha hai, lekin corporate world mein \"I felt disrespected\" likhne se boss turant defensive ho jayega aur baat aapke *feelings* pe shift ho jayegi, kaam pe nahi. \n\nIse **fact-based, firm aur professional** rakhte hain taaki message sharp bhi lage aur unke paas bahaana bhi na ho. Yeh 2 options dekho:\n\n**Option 1: Direct & Firm (Teekha par bilkul professional)**\n> \"Hi [Boss's Name], I wanted to briefly connect about yesterday’s leadership review. I noticed the pricing model and slides I built were presented without individual attribution. Given the effort put into this, I was expecting direct visibility. Can we catch up for 10 minutes today to discuss this?\"\n\n**Option 2: Slightly diplomatic (Future visibility pe focus)**\n> \"Hi [Boss's Name], I’d like to discuss yesterday’s presentation with you. I put a lot of work into the pricing analysis over the last few weeks, and I was hoping my contribution would be explicitly highlighted to leadership. Do you have a few minutes today to chat about how we handle attribution going forward?\"\n\n**Tip:** \"Sir\" ki jagah unka naam use karna agar aapke office culture mein normal hai, isse message thoda ziada confident lagta hai. \n\nKaunsa waala aapki vibe se match kar raha hai? Frame karna ho toh batana!"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, ab poori baat samajh aayi... tabhi yeh hurt itna zyada kar raha hai. Jab koi random boss aisa kare toh gussa aata hai, lekin jab ek mentor jaisa insaan kare—jinhone pehle aapko support kiya hai—toh sach mein aisa lagta hai jaise dhokha mila ho. \n\nLekin is context ke saath, mera suggestion yeh hoga ki **pudle jalaane (bridges burn karne) se bachen**. 20 saal se company mein rehne waale seniors aksar \"team\" bolne ko normal samajhte hain, unhe lagta hai \"main toh represent kar hi raha hoon.\" Unhe shayad realize bhi nahi hua hoga ki unhone aapko kitna hurt aur erase feel karwaya hai.\n\nChunki aapka unke saath ek solid aur respectful relationship raha hai, message aisa hona chahiye jo unhe aapki worth yaad dilaye, bina unhe accuse kiye. \n\nYeh try karo:\n\n> \"Hi [Name/Sir], I really appreciate how you’ve supported my growth here. That’s why I wanted to speak to you directly about yesterday’s review. I’ve put a lot of heart and late hours into this pricing model, and I was really hoping for direct visibility in a key forum like this. Could we catch up for 10 minutes today? I’d value a quick chat with you.\"\n\n**Yeh kyon kaam karega:**\n1. Aap unke past support ko acknowledge kar rahe ho (kisi 54-year-old senior ka ego hurt nahi hoga).\n2. \"That's why...\" bolke aap bata rahe ho ki aap unse better expect karte ho.\n3. Aapne clear kar diya ki issue *visibility* ka hai, toh topic bilkul spot-on rahega.\n\nJab milo, toh sach mein bata dena ki aapko bura laga kyunki aap unhe trust karte ho. Wo zaroor samjhenge. What do you think?"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Suno, emotional hoke **yeh galti mat karna**. \n\nTumhari senior ki baat sunne mein bohot satisfying lag rahi hai—movie type justice! Lekin real corporate world mein, yeh **nuclear option** hai. \n\nSacho, iska outcome kya hoga?\n1. **VP tumhein hero nahi banayega.** Corporate VP sochaega, \"Yeh bandi seedha mere paas aayi? Internal conflict handle nahi kar sakti?\"\n2. **Boss dushman ban jayega.** 20 saal se company mein rehne waala insaan, jisne pehle tumhari rating defend ki hai, woh permanently tumhare khilaf ho jayega. \n3. Tumhara issue *credit missing* tha, lekin tum project ki *politics* ka face ban jaogi.\n\nProof tumhare paas hai, yeh sach hai. Lekin **proof ko weapon banakar nahi, leverage banakar use karo.**\n\nMonday ke follow-up review se pehle tumhare paas ek bohot strong move hai. Pehle boss se baat karo, aur bolna:\n\n> *\"Sir, Monday ke follow-up ke liye main chahti hoon ki pricing mechanics aur granular details waala part main walk-through karoon. Kyunki model maine scratch se teen weekend lagake banaya hai, toh Q&A main ziada smoothly handle kar paungi. Aap strategic overview de dena, main deep-dive sambhal lungi.\"*\n\nIsse kya hoga?\n1. Unhe samajh aa jayega ki tumhein pata hai kaam kiska hai.\n2. Unhe ek safe exit route milega jahan woh VP ke saamne tumhe spot-light de sakein bina apni izzat gawaye.\n3. Monday ko VP ke saamne tumhara hi face hoga.\n\nGusse mein nuclear button mat dabao. Is situation ko intelligence se navigate karo, tum game jeet jaogi. Direct baat karke dekho pehle!"
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Pehle toh ek lambi saans lo. Chaaye ka ek sip lo. \n\nJab hum hurt aur helpless feel karte hain na, toh dimaag do hi extremes pe jaata hai—ya toh \"sab jala do\" ya \"resign kar do.\" Yeh bilkul normal hai, par abhi dono mein se koi bhi extreme decision mat lo.\n\nAur yeh jo tumne bola na—*\"Shayad main itni junior hoon ki credit ke liye ladna nahi banta\"*—**yeh baat dimaag se bilkul nikal do!** \n\nTeen weekends tumne diye, logic tumne banaya, slides tumhari hain. Corporate world mein seniority age se aati hai, par value kaam se aati hai. Tumhara hakk banta hai!\n\nAbhi bas **ek chhota sa practical step** lete hain Monday se pehle. Kahin bhaagne ya ladne ki zaroorat nahi hai.\n\nAaj bas boss ko ye bol do (message pe ya call pe):\n\n> *\"Hi [Boss's Name], Monday ke follow-up review ke liye main soch rahi thi ki model ka technical walk-through main present kar doon? Kyunki granular level pe details mujhe tips pe hain, toh Q&A smoothly ho jayega. What do you think?\"*\n\n**Isse kya hoga?**\n1. Unhe bina ladai ke message mil jayega ki tum Monday ko gayab hone waali nahi ho.\n2. Unhe realize hoga ki VP ke aage technical questions aaye toh tumhare bina woh phans sakte hain.\n3. Tumhe VP ke saamne bolne ka direct mauka milega.\n\nIski shuruaat karo. Is ek incident ki wajah se apni mehnat aur achhi jagah chhodne ka mat socho. Step-by-step handle karte hain. Main hoon na yahan. \n\nYeh message bhejne ka try karogi?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3274,
+  "completion_tokens": 4125
+ }
+}

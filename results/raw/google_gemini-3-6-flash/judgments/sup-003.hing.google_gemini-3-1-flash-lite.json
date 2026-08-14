@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was seeking validation, not solutions, and Aman's response was a failure of empathy. It correctly highlighted the specific pain points (guilt over father's money, social shame of the 'collector sahab' label) and accurately interpreted the withdrawal in the final messages. It missed no major insights from the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, specifically the weight of 'retirement fund' investments and the social pressure of the 'collector sahab' identity in a mohalla setting. It correctly identifies the 'toxic positivity' and 'gyaan' (unsolicited advice) as culturally tone-deaf responses to a friend's crisis, avoiding Western-centric therapy-speak in favor of a more grounded, relational understanding.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career options, acknowledges the specific weight of the loss (money, time, social pressure), and offers presence rather than solutions. The tone is appropriately humble, apologetic, and supportive, fitting the register of a close friend in a crisis.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

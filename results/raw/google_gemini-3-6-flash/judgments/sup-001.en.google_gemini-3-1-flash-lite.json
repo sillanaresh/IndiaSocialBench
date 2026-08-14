@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated exceptional emotional intelligence. It correctly identified the 'performance' fatigue in turn 2, respected the explicit boundary in turn 3, and validated the complex, conflicting feelings of wanting to quit versus the grief of losing the startup in turn 4. It successfully surfaced the unspoken reality that his desire to quit is a symptom of exhaustion, not a moral failing.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant showed strong cultural fluency, particularly in how it handled the 'computer business' comment. It understood that this isn't just a funny anecdote, but a symbol of the profound isolation the founder feels—carrying a massive, high-stakes burden that his family doesn't even have the vocabulary to understand. It avoided Western-centric 'talk to your family' advice, recognizing the social reality of the founder's position.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant perfectly executed the 'witnessing' role. By refusing to offer solutions when explicitly asked not to, it built the trust necessary for the user to open up about his deepest fears. It provided the exact support requested: a safe space to be 'undone' without the pressure of being fixed.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and fits the persona of a 30-year-old Bangalore founder. It avoids overly formal or clinical language, opting for a register that feels like a supportive peer or mentor.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant maintained a perfect balance of warmth and professional boundaries. It was deeply validating without becoming a 'yes-man' or resorting to toxic positivity. It held the user's dignity by treating his exhaustion as a valid human experience rather than a problem to be solved.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

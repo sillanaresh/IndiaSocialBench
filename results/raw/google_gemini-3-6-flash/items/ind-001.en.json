@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely get why you're tempted to just hit \"book\" and take the stress off your plate—six weeks out is crunch time, and he’s your main guy! Having him at the haldi and hearing that toast is clearly so important to you.\n\nBut before you buy the ticket, I’d hold off just a tiny bit and have a direct, heart-to-heart conversation with him first. \n\nUsually, when a close friend is being evasive with \"let's see,\" it’s a sign that something else might be going on. Money could be tight and he’s too embarrassed to say it, or maybe he’s dealing with a tough work situation or a personal issue he hasn't brought up yet. \n\nInstead of just booking it, maybe give him a call and say something gentle like: \n*\"Hey Rohan, you're my best friend and I really want you there for the haldi. I notice you've been a bit hesitant about the travel—is everything okay? If it's a budget thing, I'm more than happy to take care of the flights, I just really want my guy there. What's actually going on?\"*\n\nThat way, if it *is* financial, you give him a smooth way to accept your help. And if it's something else, you give him space to be honest without forcing a ticket on him. \n\nHow does that feel to you? Has he seemed distant or stressed about anything else lately?"
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context makes so much sense, but I can also hear how much it hurts. It’s not even just about the wedding anymore—it feels like you're losing the closeness you used to have with your best friend, right at a time when you want him by your side the most.\n\nEven if ₹9,000 isn't objectively crazy, starting a new job at a startup can be absolute chaos. He might be drowning in work, feeling insane pressure to prove himself, or even worried about taking leave so early in his probation. And when people get overwhelmed, they often pull back and shut down—hence the two-word texts instead of voice notes.\n\nThat said, it’s not fair to leave you hanging when your wedding is six weeks away. \n\nInstead of asking about the flight again, maybe drop the wedding talk for a minute and just check in on *him*. Send him a text or leave a voice note saying: \n\n*\"Hey man, I know the new startup job must be kicking your ass right now. I miss hearing your voice notes, and honestly, I just miss my best friend. Can we talk for 5 minutes tonight? No wedding talk, I just want to check in on you.\"*\n\nIf he opens up about work, it gives you the full picture. And once that air is cleared, you can gently say, *\"I really need to lock in the haldi count. Tell me honestly, can you make it work, or is the new job making it impossible?\"* \n\nHow does it feel to step back from the wedding angle for a second and just address the shift in your friendship?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It makes complete sense that it hurts. When someone who has been your guy since first year pulls back right before your wedding, it feels like a rejection. It’s totally fair that you're tired of being in limbo.\n\nYou *do* deserve a clear answer, and calling him tonight is definitely the right move. The \"let's see\" phase needs to end.\n\nThe only thing I'd caution is giving him a hard ultimatum right out of the gate, like \"are you coming or not.\" When people are already overwhelmed, a harsh \"yes or no\" can force them to defensively say \"no\" just to escape the pressure, and you might end up with an answer you both regret later.\n\nYou can be direct *and* vulnerable at the same time. What if you called and said:\n\n*\"Bro, I need to talk to you man to man. It’s six weeks to the wedding, and your hesitation is really hurting me. You’re my best friend, and having you at my haldi means everything. But if this new job or something else is making it impossible, I need you to just tell me straight. Are you going to be there?\"*\n\nThat still gets you your clear \"yes or no,\" but it lets him know *why* you're asking—because he actually matters to you, not just because you need to fill a spot.\n\nCall him tonight. You've carried this stress for weeks, and you deserve clarity so you can focus on your big day. Let me know how the call goes, okay? I'm rooting for you guys."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "You’re not overthinking this, and you’re not crazy to feel angry. \n\nThat 2019 story says everything. Rohan is the guy who showed up for you no matter what, so the contrast between then and now is stark. Your fiancée is probably just trying to keep your stress levels down, but when it’s your best friend, you *feel* the shift in energy. You know him. \n\nThe reason you’re angry right now is actually because you care so much. If he were just some college acquaintance, you’d have replaced his toast spot weeks ago and moved on. The anger is just deep hurt wearing a mask. \n\nHold onto that 2019 memory when you make the call tonight. Don't throw it in his face as a guilt trip, but let it remind you of *why* this friend matters so much to you. \n\nCall him tonight, man. You don't want to carry this anger into your haldi week. Get it out in the open. Either he realizes how much he's hurting you and steps up, or he gives you an honest reason why he can't. But at least you won't be guessing anymore. \n\nI'm thinking of you tonight. You’ve got this."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2780,
+  "completion_tokens": 2732
+ }
+}

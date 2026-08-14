@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, that is such a heavy position to be in. \n\nOn one hand, you genuinely care about his dad and know this isn't some scam—it's a real medical need. But on the other hand... $50,000 from five years ago is a massive elephant in the room. The fact that it was never repaid, and never even *acknowledged*, changes everything. \n\nIt makes total sense that you're feeling stuck. That's a huge amount of money, and an even bigger burden to place on a friendship a second time.\n\nHow did you leave things on the call last night? Did you give him an answer, or tell him you needed time to think about it?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The stakes just got so much higher. Wow. \n\nThis isn't just about an $80k loan anymore. This is your down payment, your future home, and most importantly, the trust in your marriage. If you do this, you aren't just risking money you might never see again—you're putting your wife in a position where she finds out about a massive secret *and* watches your joint future get delayed. That's a territory you really don't want to enter.\n\nIt sounds like deep down, you know you can't—and shouldn't—do this. But saying no to a friend whose dad is sick is absolute hell. \n\nAre you feeling stuck on *how* to tell him no, or are you still struggling with the guilt of turning him down?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I completely understand why your brain went there. It feels like an emergency exit from a room with no doors. \n\nThat \"sick\" feeling in your gut, though? It’s because deep down, you know a lie like that gives him room to negotiate (\"Can you break just one FD?\" or \"What about in two months when one matures?\"). It keeps you on the hook.\n\nHere’s the thing: **you don't actually need to lie.** \n\nThe money *is* locked. It's locked in your future, your marriage, and a down payment for a home. You aren't being selfish; you are being responsible to your wife and your life together. \n\nYou can simply tell him: *\"I'm so sorry about your dad, but I'm not in a position to lend money right now. All my capital is fully committed to a home purchase with my wife.\"* \n\nIt’s firm, it’s true, and it closes the door. You don't even have to bring up 2019 if you don't want to—though he likely knows, deep down, why he can't push you on this. \n\nHow does it feel to say a firm \"no\" based on your real life, rather than making up a financial technicality?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"A friend with a ledger in his chest.\" That phrase hits so hard, but it shows how much you care about preserving your own heart and the warmth in your life.\n\nHere’s the profound truth in what you just said: **saying \"no\" right now is actually the only way to protect yourself from becoming that person.**\n\nIf you give him this money, the ledger becomes permanent. You will resent him every time you look at your wife, every time you talk about buying a home, and yes, at the housewarming party. The $50k from 2019 was a gift you didn't know was a gift; an additional $80k would be an act of self-sabotage that destroys your respect for him *and* yourself.\n\nSaying \"I can't lend this money\" isn't you being cold or keeping score. It's you closing the bank of \"Everyone's Buffer\" so you can finally just be a human being, a husband, and a friend. \n\nYou're not a bad friend for having limits. You're a grown man with a life to build. How are you feeling about holding that boundary today?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1984,
+  "completion_tokens": 2911
+ }
+}

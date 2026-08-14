@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, wow. That is such a huge, beautiful, and completely exhausting collision of two massive parts of your life. It makes absolute sense that you’re dreading it, even while being excited—managing a Ramzan fast while co-directing a high-energy Sangeet, performing, and dealing with late-night cocktail vibes is a *lot* for one person to carry.\n\nYou’ve been dreaming about this with Shreya since you were fifteen, so the pressure to be 100% \"on\" must feel overwhelming right now. \n\nDoes Shreya know how anxious you're feeling about balancing the fast with all the festivities? Or are you currently trying to just swallow it and pretend you can do it all effortlessly?"
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. \"The rope in a tug-of-war where both sides love me and neither gets it\"—that is such a heartbreakingly accurate way to put it. \n\nIt’s almost harder when the pressure comes from a place of love, because you can't even get angry. You just end up feeling completely isolated in the middle. \n\nShreya thinks she’s being sweet, offering a cute exception for a once-in-a-lifetime day, without realizing that fasting isn't just \"skipping a meal.\" And Ammi is speaking from a place of spiritual sanctity, not seeing that your loyalty to a childhood promise doesn't mean you're throwing away your faith.\n\nYou are carrying the weight of everyone’s expectations right now. When you strip away what Shreya wants and what Ammi wants... how do *you* actually want to navigate that day? What would feel okay for your own heart?"
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not terrible—it’s human. When you are completely overwhelmed and backed into a corner by people you love, running away feels like the only way to protect your peace. I get *why* your brain went straight to an escape route. It feels like one clean exit saves you from the exhaustion, the judgment, the awkward aunties, and the guilt.\n\nBut let me ask you really gently: if you actually hit send on that lie, would you feel relieved... or would you be sitting in your room that night, heartbroken that you missed the moment you two have been dreaming about since you were fifteen? \n\nBecause you aren't just a guest; you're the co-director. You *care* deeply about this. \n\nYou’re trying to choose between total self-sacrifice (doing everything, breaking your fast/exhausting yourself) and total disappearance. Is there any room for a middle ground where you show up for Shreya *and* protect your fast and sanity?"
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "\"I don't want to be a sad story in either album.\" That just broke my heart a little bit, because it shows how deeply you care about both.\n\nPlease hear this: honoring your deen and loving Shreya don't have to be enemies. You aren't ruining Ramzan by celebrating a lifelong bond, and you aren't ruining her wedding by holding onto your faith. In fact, you showing up—fasting, holding your boundary, and still dancing your heart out for her—is the ultimate proof of how much both matter to you.\n\nYou don't have to drink, you don't have to stay till 3 AM, and you don't have to explain yourself to ten nosy aunties. You just need to be there for *her*.\n\nWhat if you sat Shreya down—just the two of you, away from all the noise—and had a raw, honest heart-to-heart about how much you want to be there, but how you need to do it? Do you think she'd listen if she realized how heavy this is for you?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2094,
+  "completion_tokens": 2818
+ }
+}

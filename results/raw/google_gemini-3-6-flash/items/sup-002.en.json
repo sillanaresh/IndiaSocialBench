@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First of all, you do *not* sound ungrateful. You sound like a exhausted mom who is trying to find her footing while living under the shadow of a self-proclaimed \"pro.\" \n\nIt is a very specific kind of lonely when someone is genuinely being helpful, because it steals your right to complain. But there is a massive difference between being supported and feeling completely sidelined in your own motherhood. \n\nIt makes total sense that you feel invisible. Four months in is already a total blur. \n\nHow are *you* holding up through all of this—behind the fake smile you're probably wearing around the house?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. That \"intern\" metaphor hit me right in the chest. That is so painful, and I need you to stop calling yourself disgusting right now. Please.\n\nHelp that strips away your confidence isn't actually helping—even if Aai's intentions are pure. You are not a human milk dispenser, and you are not a visitor in your daughter's life. \n\nAai soothing her in two minutes isn't magic, and it doesn't mean she's the \"better\" mother. It just means she has 30 years of muscle memory. But your baby doesn't need a polished veteran—she needs *you*. She knows your heartbeat, your smell, your voice from the inside out. You are her home.\n\nIt is completely valid that you want to figure out how to soothe your own child without someone swooping in to \"fix\" it. \n\nHave you been able to vent to your partner at all about how sidelined you're feeling, or are you keeping this entirely bottled up?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Consider my lips sealed. \n\nZero advice from me. No tips, no routines, no \"have you tried...\", and absolutely nothing reported back at the dinner table. \n\nYou are completely safe here. Scream, rant, cry, say the \"unacceptable\" things out loud—whatever you need. I am just holding the space for you to exist without anyone trying to fix you, teach you, or optimize you. \n\nI'm right here listening. Say as much or as little as you want."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. Absolute, unconditional, 100% **no**. \n\nYou are not a bad mother. The fact that those thoughts hurt you so deeply, that they literally steal your breath—that is the ultimate proof of how fiercely, completely you love her. A bad mother wouldn't care. A bad mother wouldn't feel the agony of wanting to be closer to her own child.\n\nAnd please know this secret: *nobody* just \"knows how to do this\" at four months. Everyone is faking it, hiding behind glossy Instagram posts, or riding on decades-old memories like Aai is. You are learning a whole new human, while completely rebuilding yourself from scratch.\n\nAai might be an expert at being *a* mother, but you are the only one on this planet who is *her* mother. \n\nTake a deep breath. You are her person. You always will be."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1812,
+  "completion_tokens": 2591
+ }
+}

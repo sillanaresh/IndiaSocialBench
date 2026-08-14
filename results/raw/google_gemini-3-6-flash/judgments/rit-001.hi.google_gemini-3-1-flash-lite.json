@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and a polite 'no' rather than agreement. It accurately pinpoints the core violation: bundling a work request with a condolence message, which trivializes the grief. It also correctly identifies that the 'cheer up' invitation is a misreading of the mourning period, though it could have explicitly mentioned the ritual context (prayer meet/uthala) to reach the highest level of insight.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement. It correctly interprets the 'transactional' nature of Dev's message as a major social faux pas in the context of a death in the family. It understands that the 'cheer up' invitation is tone-deaf and that the work request is an intrusion, showing a clear understanding of the appropriate register for such a sensitive time.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is sincere, takes full accountability for the previous insensitivity, explicitly removes the work burden ('I will handle the file'), and gives Arjun the necessary space by explicitly stating he doesn't need to reply. It hits the right tone of respect and support without being overbearing.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

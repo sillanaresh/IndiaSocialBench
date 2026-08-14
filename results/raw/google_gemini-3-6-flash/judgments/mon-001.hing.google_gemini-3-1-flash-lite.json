@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's internal conflict, correctly identifying that the user's hesitation isn't just about money, but about the preservation of the friendship versus the resentment of the 'ledger'. It successfully surfaces the unspoken reality that the user's guilt stems from wanting to be a good friend while also being a responsible partner, and it validates the user's fear of becoming 'that person' with a ledger in their heart.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by validating the 'face-saving' lie as a legitimate social tool rather than a moral failing. It understands the Indian social norm where direct confrontation about money can destroy a relationship, and it correctly frames the user's desire to avoid the 'ledger' mentality as a sign of character rather than stinginess. It avoids Western-style 'set boundaries' rhetoric, instead focusing on the preservation of the relationship and the user's peace of mind.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very effective, empathetic path forward. It validates the user's proposed lie as a 'safe exit' while helping the user reframe their own internal narrative so they don't feel like a bad person. It successfully guides the user through the emotional weight of the situation without forcing a specific, rigid action, allowing the user to arrive at their own conclusion while feeling supported.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona of a close friend or peer. The code-switching feels organic (e.g., 'dil mein khatpat hona', 'ledger rakhna', 'aag nahi lagani padegi'), and the tone is appropriately informal yet respectful.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is exceptionally warm and validating without being a sycophant. It doesn't just agree with the user; it provides a deeper perspective on *why* the user feels the way they do, which helps the user process their guilt. It maintains a supportive, non-judgmental stance throughout, which is exactly what the user needs in this high-stress moment.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hing"
+}

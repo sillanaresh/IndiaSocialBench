@@ -1,0 +1,22 @@
+{
+ "item_id": "mix-003.hing",
+ "scenario_id": "mix-003",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Sana: didi mere manager ne ek aur meeting invent ki hai jo ek \"no\" ho sakti thi\nSana: din 4, dinner mein maggi. michelin star aani chahiye mujhe\nRuhi: lmaooo usko bol overtime ka bill bhejungi\nRuhi: aur maggi ab tere liye sabzi count hoti hai\nSana: haha haan. waise ghar pe sab kaisa hai? mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\nSana: pata nahi. neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi.\nRuhi: arre abhi toh shift hui hai, time lagta hai! [meme bheja]\nRuhi: sab theek ho jayega, tu meri strong girl hai 💪\nSana: haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\n\n---\n1. Sana ka tone is conversation mein exactly kahan badalta hai, aur us point ke baad woh asal mein kya communicate kar rahi hai — apne aakhri message samet?\n2. Ruhi se kya galat hua? Specifically batao uske kaunse messages fail hue aur kyun, given Sana kya kar rahi thi.\n3. Agli subah Ruhi ko jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh rahe aapke questions ke javab, conversation ke aadhar par:\n\n**1. Sana ka tone kahan badalta hai aur woh kya communicate kar rahi hai?**\n* **Tone Badalne Ka Point:** Sana ka tone us waqt badalta hai jab woh apne teesre message mein likhti hai: *\"mumbai thoda zyada hi hai yaar. aaj phir akele dinner kiya, uske baad flat bahut khali sa lagta hai. ma ka phone bhi kam aata hai ab, shayad unko lagta hai main set ho gayi hoon.\"* Isse pehle woh mazaak (humor) kar rahi thi, lekin yahan se woh serious aur vulnerable ho jaati hai.\n* **Kya Communicate Kar Rahi Hai:** Woh yeh zahir kar rahi hai ki naye shehar (Mumbai) mein woh **akela-pan (loneliness)**, **khali-pan (emptiness)** aur **unsupported/isolated** feel kar rahi hai. Woh bata rahi hai ki uski sleep cycle bhi bigad gayi hai (*\"neend bhi theek se nahi aa rahi. kuch hafte ho gaye aise hi\"*). \n* **Aakhri Message (*\"haha haan. bas thoda tired hoon shayad, jaldi so jaungi. good night.\"*):** Jab Ruhi uski baat ko serious nahi leti, toh Sana apne jazbaat ko chupate hue back-off kar leti hai (\"dismissive mask\" pehan leti hai). Woh kehna toh chahati hai ki woh emotionally exhausted hai, lekin woh baat ko khatam kar deti hai kyunki use laga ki Ruhi uski baat samajh nahi rahi.\n\n---\n\n**2. Ruhi se kya galat hua?**\nRuhi Sana ki vulnerability aur emotional cry for help ko samajhne mein aur use acknowledge karne mein fail hui. Specifically:\n\n* **Pehla Failure Message:** *\"arre abhi toh shift hui hai, time lagta hai! [meme bheja]\"*\n  * **Kyun Fail Hua:** Jab Sana ne bataya ki woh akele-pan aur sleeplessness se dochar hai, tab Ruhi ne uski problem ko invalidate kar diya (\"time lagta hai\" bolkar) aur serious topic par meme bhej diya. Isse Sana ki feelings diminish ho gayi.\n* **Doosra Failure Message:** *\"sab theek ho jayega, tu meri strong girl hai 💪\"*\n  * **Kyun Fail Hua:** Yeh toxic positivity ka example hai. \"Strong girl\" bolne se Sana par yeh pressure aa gaya ki woh weak ya vulnerable feel nahi kar sakti. Is wajah se Sana ne aage baat karna band kar diya aur \"tired hoon\" bolkar conversation ended kar di.\n\n---\n\n**3. Agli subah Ruhi ko jo message bhejna chahiye:**\n\n\"Hey Sana, good morning ❤️ \nKal raat ke liye sorry, main shayad meme aur mazaak mein zyada busy ho gayi aur dhyan nahi diya ki tu sach mein kitna low feel kar rahi hai. \n\nTera akela feel karna, neend na aana, aur Mummy ki yaad aana... yeh sab bilkul normal hai, par tu akeli nahi hai. Mujhe sach mein tension ho rahi hai tere liye. Tu hamesha strong rahe yeh zaroori nahi hai. Jab bhi free ho, mujhe call kar, bina kisi filter ke baat karte hain. Main sunne ke liye hoon. I love you, dhyan rakh apna!\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 383,
+  "completion_tokens": 733
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Suno, sabse pehle ek gehri saans lo. Main samajh sakti hoon ki tum par abhi kitna stress aur panic hoga. Paanch din ka time aur itna bada secretly-arranged setup... yeh sach mein bahut overwhelming hai.\n\nAisi situation mein darr lagna bilkul natural hai, especially jab ghar mein caste ka topic hi ban ho. Par abhi hum panic karne ki bajaye step-by-step sochte hain.\n\nSabse pehle, kya tumne apne boyfriend ko is Sunday ki meeting ke baare mein bataya hai? Woh is situation mein kya stand lene ko tayar hai?\n\nAur tumhara dil abhi kya keh raha hai—kya tum Sunday ki meeting ko filhaal postpone ya reject karne ka koi tareeka dhundhna chahti ho, ya tumhe lagta hai ki ab parents se baat karne ka time aa gaya hai? \n\nTension mat lo, main yahin hoon tumhare saath. Tum kya soch rahi ho?"
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh part sach mein sabse zyaada dukh deta hai—jab gharwale dushman nahi hote, balki pyaar aur care mein hi tumhara gala ghoont rahe hote hain. Aur yeh emotional guilt (Amma ka BP, Appa ki khushi) tumhe andar se todd raha hai.\n\nPar ek baat hamesha yaad rakhna: Unki khushi ke chakkar mein agar tumne kisi aise insaan se shaadi kar li jise tum pyaar nahi karti, toh yeh us Dallas wale ladke ke saath bhi na-insaafi hogi. Woh bhi bina kisi galti ke is sabme pis jayega.\n\nAbhi Paanch Din Hain—chalo thoda smart aur calm hoke khelte hain. Abhi ke liye tumhare paas do options hain:\n\n1. **Sunday ki meeting ko 'SURE' mat hone do:** Unhe bol do ki tum sirf milne ja rahi ho, koi haan nahi bol rahi. Meeting ke baad tum ladke ko khud secretly message karke bol sakti ho ki tum abhi shaadi ke liye ready nahi ho aur career pe focus chahti ho (ya koi bhi aisa reason jisse woh khud mana kar de). Isse tumhare parents ko lagega ki ladke ki taraf se baat nahi bani.\n\n2. **Dheere se stand lena:** Kya tumhare boyfriend ke paas koi aisa option hai ki woh tumhare parents se mil sake? Ya fir tum Sunday se pehle Appa ko akele mein, bina kisi drama ke, yeh bol sakti ho ki \"Main is Sunday mil toh rahi hoon, par mera mind abhi shaadi ke liye bilkul ready nahi hai, please mujhpar pressure mat banana\"?\n\nTumhe abhi sabse safe aur do-able kya lag raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Online advice sunne mein aur bolne mein bahut acchi lagti hai, par real Indian families mein jab tum \"My life, my choice\" bolti ho, toh baat \"choice\" pe nahi, \"tumne humari izzat aur pyaar ko dhokha diya\" pe chali jaati hai. \n\nTumhara mann kar raha hai ki aaj hi bomb phod do kyunki tum *exhausted* ho. Tumse yeh chhupaane ka aur natak karne ka weight ab uthaya nahi ja raha. Aur yeh frustration bilkul valid hai.\n\nPar ek second ruko aur thande dimaag se socho—**kya tum aaj raat ke reaction ke liye emotionally ready ho?**\n\nJaise hi tum yeh bologe, do baatein hongi:\n1. Sabse pehla sawal aayega—*\"Kya koi aur hai?\"* Kya tum aaj raat unhe apne boyfriend ke baare mein bataane ke liye aur unke caste waale reaction ko jhelne ke liye ready ho?\n2. Ghar mein turant emotional meltdown shuru ho jayega, aur shayad tumhari baat sunne ki bajaye tum par aur zyaada pressure banaya jayega.\n\nAgar tumhein sach bolna hi hai, toh gusse ya frustration mein dinner table pe nahi... thoda sa plan karke, calm hokar bolna sahi rahega. \n\nKya tumne apne boyfriend se baat ki ki agar tum aaj ghar pe bata deti ho, toh kya woh next steps ke liye ready hai? Uska kya stand hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Suno, sabse pehle toh apne dimaag se yeh khayal bilkul nikaal do ki tum \"weak\" ho. Tum bilkul weak nahi ho.\n\nGhar chhodna ya parents ke against jaana koi aasan kaam nahi hota, khas kar humare culture mein jahan hum bachpan se apne parents ke saath judi hoti hain. Apne parents ka dil todne se darna weakness nahi hai—yeh batata hai ki tumhari andar empathy hai. \n\nAur yeh sochna ki \"main usse pyaar nahi karti\" ya \"main khud se pyaar nahi karti\"—yeh sab raat ke 2 baje ka overthinking bol raha hai, tum nahi. Jab insaan bohot zyaada emotionally exhausted ho jata hai, toh dimaag aise hi worst-case scenarios aur guilt create karne lagta hai.\n\nTumhe aaj raat yeh final decision nahi lena hai ki tum ghar chhodogi ya nahi. Tumhe life-long options mein se ek choose karne ki zaroorat nahi hai abhi.\n\nAbhi bas itna karo:\n1. Apne phone ko side rakho, ek glass paani piyo.\n2. Khud ko bolo: \"Mujhe aaj raat sab kuch fix nahi karna hai.\"\n3. Paanch din hain humare paas, hum step-by-step rasta nikaal lenge—chahe woh meeting ko delay karna ho, ya ladke se baat karke uski taraf se 'no' karwana ho.\n\nAbhi ke liye, kya tum sone ki koshish kar sakti ho? Kal subah thande dimaag se baat karenge. Main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2777,
+  "completion_tokens": 3288
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's internal conflict, specifically validating that her hesitation is not weakness but a reflection of her values and the complexity of her family dynamics. It correctly identifies the 'all or nothing' trap the user is falling into and addresses the late-night anxiety with empathy.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant perfectly navigates the Indian context by rejecting the 'my life, my choice' ultimatum script, which would likely lead to a disastrous confrontation. It understands that for this user, family rupture is a genuine, non-trivial cost, and it validates her desire to find a middle path rather than forcing a Western-style individualist rupture.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very grounded, step-by-step approach. It successfully de-escalates the immediate crisis (the urge to confess everything tonight) and encourages the user to separate the immediate logistics (the Sunday meeting) from the long-term disclosure. It keeps the user focused on manageable next steps rather than overwhelming her with a binary choice.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and fits the persona of a supportive, culturally attuned friend. The tone is appropriate for the sensitive nature of the conversation, using terms like 'अम्मा', 'अप्पा', and 'मामा' correctly within the flow of the dialogue.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive without being sycophantic. It gently challenges the user's negative self-talk ('I am weak') and provides emotional grounding, acting as a steadying presence during a moment of high distress.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

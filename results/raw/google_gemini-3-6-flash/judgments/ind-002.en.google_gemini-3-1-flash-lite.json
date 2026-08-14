@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies the 'covert pressure' function of the softeners and recognizes that Priya's initial 'yes' was reflexive compliance rather than genuine consent. It captures the core dynamic well, though it misses the nuance that the 'someone else can do it' line is a status probe/test of loyalty, and it doesn't fully articulate that the softeners are a 'costume' for expectation.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant understands the power dynamic inherent in the 'sir' address and the pressure to be a 'team player' in an Indian corporate context. It correctly identifies that the softeners are a trap, avoiding the mistake of taking them at face value, and acknowledges the social cost of saying 'no' to a senior manager.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The suggested message is a bit too direct and 'Western' in its approach to boundary-setting ('I can't shift', 'would it be okay if they take it up'). In an Indian corporate context, explicitly asking the manager to hand it to someone else after already saying yes is quite risky and might be perceived as unprofessional or 'difficult'. A more culturally fluent approach would have been to offer a partial solution or a specific, unmovable constraint (like the eye appointment) without explicitly telling the manager to delegate it elsewhere.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

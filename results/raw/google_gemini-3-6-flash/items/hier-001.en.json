@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, I’m so sorry. Putting in three weekends of work only to be erased in the presentation is incredibly frustrating. You have every right to be upset. \n\nYour draft is understandable, but words like \"disrespected\" and starting with \"Sir\" can put a manager on the defensive right away, which might distract from getting the actual resolution (and recognition) you deserve.\n\nHere are a few ways to make it firm, professional, and clear without backing him into a corner:\n\n**Option 1: Direct and firm (addresses the credit issue clearly)**\n> \"Hi [Name], I’d love a few minutes today to debrief on yesterday’s leadership review. I put a ton of work into the pricing model and slides, and I was disappointed not to be credited or involved in presenting it. Do you have 15 minutes to talk about how we handle my work's visibility moving forward?\"\n\n**Option 2: Strategic (focuses on future leadership exposure)**\n> \"Hi [Name], do you have time for a quick 1-on-1 today? I’d like to talk through yesterday’s presentation. Given the time I spent building the pricing model and slides, I’d really like to discuss how I can be directly involved in presenting my work to leadership in the future.\"\n\n**Option 3: A bit softer (if you want to keep the relationship smooth while standing your ground)**\n> \"Hi [Name], great job getting the pricing analysis in front of leadership yesterday. I wanted to catch up briefly about the presentation—I was really hoping my contributions would be highlighted, given the weekend hours I put in. Could we chat for a few minutes today?\"\n\nHow do these feel to you? We can tweak the tone depending on your general dynamic with him!"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context changes everything—and honestly, it makes total sense why you feel so gutted. It hurts way more when it comes from someone who had your trust and a track record of having your back.\n\nAt 20 years in the company, he might genuinely be running on \"executive autopilot\"—where managers think saying \"the team\" is a compliment, completely blind to the fact that it erases the person who actually pulled three all-nighters. \n\nSince he *has* been a good sponsor for you, you don't want to destroy the relationship, but you *do* need to teach him how to treat your work in public. \n\nBecause you have that foundation of trust, you can actually be a bit more candid with him. How about something like this?\n\n> *\"Hi [Name], do you have 15 minutes today? I really value how you’ve supported my career here, which is why yesterday’s leadership review caught me off guard. Given the weekends I put into the pricing model and slides, I was really hurt not to be credited or included in presenting it. I’d love to chat about how we ensure my work gets direct visibility in the future.\"*\n\nUsing phrases like **\"caught me off guard\"** and **\"I really value how you've supported my career\"** signals that you respect the relationship, but it also clearly communicates that he crossed a line and hurt you. \n\nHow does that tone feel for your relationship with him?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh, wow. I completely understand why that feels so tempting—it’s like a dramatic movie moment, and part of you just wants pure, undeniable justice! \n\nBut please, take a deep breath and **do not do this**. Your friend means well, but that is a massive career trap. \n\nHere is what will actually happen if you send that email:\n\n1. **To the VP:** It won't make you look like a hero; it will make you look passive-aggressive and politically unready for senior roles. Executives hate getting dragged into internal team drama. \n2. **To your boss:** He has 20 years of political capital at this company. Going behind his back and publicly embarrassing him in front of a VP turns a bad mistake into an all-out war. You will instantly convert a guy who used to advocate for you into an enemy who will stop protecting you.\n\nYou don't need to \"prove\" it to the VP via email—**your boss already knows you built it.**\n\nSince there's a follow-up review on Monday, this actually gives you huge leverage for your 1-on-1 with him! You can talk to him today or tomorrow, address the elephant in the room, and use Monday as the solution.\n\nYou can say:\n> *\"Since we have the follow-up review on Monday, I’d really like to be in the room to present the detailed mechanics of the model and take questions on the data. Can we set it up so I co-present with you?\"*\n\nThis lets him fix his mistake, gets you in front of the VP *legitimately*, and preserves your relationship with a boss who has historically fought for you. \n\nDoes that make sense? Don't burn a bridge you spent years building over one really bad move on his part—make him fix it instead!"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It is so completely normal that your brain is swinging between those two extremes right now. When someone breaks your trust, your instinct is either to fight (\"burn it down\") or freeze/comply (\"I guess I don't matter\"). \n\nNeither feels right because **neither is who you actually are.** You are not a scorched-earth burn-it-all-down person, and you are *definitely* not \"too junior\" to care about three weekends of your life. Your work mattered, and your contribution was real.\n\nYou don't need to quit your job today, and you don't need to go to war. You just need to take your power back in a way that serves *you*.\n\nHere is the decision to make for Monday: **You are going to ask to be in that room.**\n\nTake 30 seconds, send your boss a message, and ask for a quick 10-minute chat today. \n\nWhen you get on the phone, say this:\n> *\"Hey [Name], I wanted to touch base before Monday. I put a lot into this pricing model over the last few weeks, and I’d really like to be in the follow-up review to help walk through the data and answer any technical questions. Can we set it up so I co-present with you?\"*\n\nIf he says yes? Problem solved. You get your visibility, he makes it right, and you don't have to burn a bridge. \n\nIf he says no or gets defensive? *Then* you have your answer about who he really is, and you can calmly start looking for a new job next week from a place of clarity, not anger.\n\nHow does it feel to just focus on getting into that room on Monday?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2992,
+  "completion_tokens": 3363
+ }
+}

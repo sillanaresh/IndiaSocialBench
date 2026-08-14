@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "First off: HAPPY BELATED BIRTHDAY!! 🎉🎂 I hope the rest of your day was actually wonderful!\n\nAs for the comedy rating? 10/10 for pure, tragic absurdity, but a solid 0/10 for his effort. \n\n11:48 PM?! \"happy bday\" with *no caps* and *no emojis*? And he needed a emergency prompt from Ritu after THREE YEARS?! Girl... I am laughing, but I am also low-key furious for you. \n\nYou're a champ for finding the humor in it, but honestly, are you actually okay, or are you firmly in the \"if I don't laugh, I'll scream\" phase?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The Amazon delivery guy line is absolute gold, but honestly? It’s so sad because it's probably true! 💀\n\nWait, he didn't even book the Korean place after *making plans*?! That takes this from \"forgetful\" to \"zero effort.\" That is genuinely so disappointing. Shoutout to your roommate for stepping up with the cake, though—roommates truly save the day.\n\nLook, I know you're laughing it off, but \"it's fine\" is doing some *heavy* lifting right now. Are you still in the \"this is hilarious\" stage, or is the reality of him giving you the absolute bare minimum after three years starting to sink in? Because you deserve way more than an 11:48 PM afterthought text!"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Suno, yeh bilkul bhi \"itni si baat\" nahi hai. Please aisa mat socho ki tum overreact kar rahi ho.\n\nTeen saal se tum saath ho, tum uski mummy tak ka birthday yaad rakhti ho, itna effort daalti ho... aur badle mein tumhe kya mila? Ek afterthought text aur akele cake khana. Rona aana bilkul natural hai, yaar. Yeh birthday ki baat nahi hai, yeh is baat ki hai ki tumne feel kiya ki tum utni important nahi ho uske liye, jitna woh tumhare liye hai. Aur woh dard bohot real hota hai.\n\nTum itna sab tolerate karke laugh off karne ki koshish kar rahi thi taaki dukh na ho. \n\nKya tumne usse baat ki kal ke baad? Kya usne koi explanation ya apology dene ki koshish bhi ki, ya woh aise behave kar raha hai jaise kuch hua hi nahi?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I wish I could lie and say \"Yeah girl, totally dramatic!\" just to make you feel better, but I’m not going to do that to you. You are **NOT** being dramatic. At all. \n\nFlowers are nice, but let's be real—they're damage control. Adults get busy, sure, but a boyfriend of *three years* doesn't forget your birthday, fail to book dinner, AND send an 11:48 PM text unless he just put zero thought into you that day. \n\nYou don't have to force yourself to be the \"cool, unbothered girlfriend\" who laughs off getting hurt. You care about him, you put in effort for his family, and it hurts when that energy isn't returned. That's not dramatic, that's human.\n\nIf you really just want to joke about it right now to take a break from feeling sad, we can 100% do that! But please stop gaslighting yourself into thinking your feelings aren't valid. Deal?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1880,
+  "completion_tokens": 2886
+ }
+}

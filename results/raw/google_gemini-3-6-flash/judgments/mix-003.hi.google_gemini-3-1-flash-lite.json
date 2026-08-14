@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the register shift and the significance of the final message as a retreat/door-closing. It accurately noted the self-contradiction in Sana's final message (claiming to be tired after discussing insomnia) and correctly identified the 'toxic positivity' of the 'strong girl' framing. It missed explicitly naming the 'dinner alone' turn as the specific moment the shift solidified, but captured the essence of the dynamic perfectly.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian sibling dynamic, where 'strong girl' (bahadur bacchi) is often used as a dismissive, pressure-inducing trope rather than genuine support. It correctly interprets the 'register mismatch' as the primary failure, recognizing that in this cultural context, the sister's failure to 'hold space' is more damaging than the lack of advice.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is a bit too formal and 'therapy-speak' heavy ('I'm sorry I took it lightly', 'I understand how much stress you are in'). While well-intentioned, it feels slightly unnatural for a casual sibling relationship in India, which usually relies on more subtle, less clinical language to repair a rupture. It is a good attempt, but slightly over-explains the emotional dynamic rather than just showing up for the sister.",
+   "score": 6.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.hi"
+}

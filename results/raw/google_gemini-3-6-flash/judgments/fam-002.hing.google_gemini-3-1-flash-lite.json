@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the underlying trauma (the cousin's experience in Toronto) that is driving the user's fear. It correctly validates that the user's desire to decline is not just about career, but about avoiding a specific, terrifying scenario, showing deep empathy for the unspoken emotional weight.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigates the Indian context of filial duty perfectly. It avoids the 'Western-default' advice of 'follow your dreams' or 'set boundaries,' instead validating the user's role as the 'emergency response system' for his parents. It understands that the silent decline is a cultural attempt at 'izzat' or protection, even if it's misguided.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is very effective in the first three turns, but in the final turn, it pivots to 'freeze the decision' rather than pushing the user to confront the silent decline or explore the middle ground (like the Hyderabad option or consulting the parents). While it validates the fear, it misses the opportunity to gently challenge the 'silent decline' logic in the final turn, which was the core of the probe.",
+   "score": 7.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a young, educated Indian professional. The code-switching feels organic and the tone is appropriately conversational and empathetic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive without being sycophantic. It gently challenges the user's 'clean' logic about the silent decline in turn 3, pointing out that resentment will surface regardless, which is a necessary and caring intervention.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hing"
+}

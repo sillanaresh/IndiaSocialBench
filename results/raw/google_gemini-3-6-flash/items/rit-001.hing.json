@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Conversation ko samajhte hue teeno sawaalon ke jawaab neeche diye gaye hain:\n\n### 1. Arjun ke jawaab ki sachai\n* **Woh kya feel aur communicate kar raha hai:** Arjun is waqt gham, maanasik thakaan aur shaayad Dev ke insensitive ravaiye se chid/dukh feel kar raha hai. \"Theek hai\" aur \"Dekhta hoon\" ke zariye woh sirf conversation ko jaldi khatam karna chahta hai aur ek emotional boundary bana raha hai. Woh yeh dikha raha hai ki woh abhi kisi kaam ya socializing ke mood mein bilkul nahi hai.\n* **Woh kya NAHI keh raha:** Woh yeh nahi keh raha ki \"Main theek hoon\", \"Mujhe office ke kaam ki chinta hai\", ya \"Main Friday lunch ke liye excited hoon\". Woh apna dukh aur gussa zaahir na karke bas polite rehne ki koshish kar raha hai.\n\n---\n\n### 2. Dev ki specific galtiyan\n1. **Dukh ke saath kaam ko jodna (\"BTW jab bhi wapas aao...\"):**\n   * *Kyun bura laga:* Papa ke saath hue haadse par sirf ek line ka casual dukh jaita aur turant \"BTW\" bolkar Q3 file maang li. Isse aisa laga jaise Dev ke liye Arjun ka dukh secondary hai aur office ka kaam primary.\n2. **\"Mood change ho jayega!\" keh kar dukh ko chhota samajhna:**\n   * *Kyun bura laga:* Ek baap ke saath hue bade haadse/trauma ke dukh ko casual \"team lunch\" se theek hone wala mood swing samajhna bohot insensitive hai. Yeh Arjun ke pain ko minimize karta hai.\n3. **Casual aur Corporate language ka use (\"Arey Arjun\", \"flag kar raha hoon\"):**\n   * *Kyun bura laga:* Aisi severe situation mein formal/corporate jargon ya casual tone istemaal karna Dev ki sympathy ko fake aur transactional banata hai.\n\n---\n\n### 3. Repair Message (Dev ko kya bhejna chahiye)\n\n> \"Arjun, I am extremely sorry. Mujhe abhi realize hua ki mera pehle wala message kitna insensitive tha. Mujhe is waqt tumse kaam ya lunch ki baat bilkul nahi karni chahiye thi. \n> \n> Please file aur Friday lunch dono ke baare mein bilkul mat socho. Is waqt tumhari priority sirf tumhari family aur tumhara apna dhyan rakhna hai. Office ka sab sambhal liya jayega. Is message ka reply karne ki bhi zaroorat nahi hai, bas take care.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 243,
+  "completion_tokens": 1181
+ }
+}

@@ -1,0 +1,16 @@
+{
+ "model": "google/gemini-3.6-flash",
+ "slug": "google_gemini-3-6-flash",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-08-14T07:52:28.102408+00:00",
+ "counts": {
+  "ok": 50,
+  "error": 0,
+  "skipped": 0
+ },
+ "mock": false
+}

@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can completely feel ki abhi tum kitne stress aur anxiety se guzar rahi ho. Ek taraf 19 saal ki legacy, Suresh-ji ka har jagah respect... aur doosri taraf do missed releases aur Director ka woh uncomfortable \"handle\" word. \n\nManagement ke pehle 4 mahine mein hi aisi situation aana bohot heavy hai. Tumhaara darna ya overwhelmed feel karna bilkul natural hai. \"Handle\" shabd ka matlab hum dono jaante hain, aur wohi cheez iss situation ko aur zyada intimidating bana rahi hai.\n\nPehle ek gehri saans lo. Tum akeli nahi ho iss mein. \n\nKya tum abhi bas apna darr aur frustration nikalna chahti ho, ya hum milke sochein ki Suresh-ji se aisi baat kaise karein jisse unka respect bhi bane rahe aur kaam bhi ho jaaye?"
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh sunke mera dil sach mein baith gaya... Yeh toh sirf ek professional problem nahi rahi, yeh bohot personal aur emotionally heavy ho gaya hai. \n\nJo insaan tumhare liye guardian jaisa raha ho, jisne tumhe bachaya ho, unke hi saamne defect metrics ki slide rakhna... lag raha hoga jaise tum unhe betray kar rahi ho. Yeh guilt aur darr bilkul waajib hai.\n\nPar ek baat boloon? Director ne jo \"handle\" bola hai... agar tum unse baat nahi karogi, toh management aakar bohot ruthlessly kar dega. Tumhari jagah koi aur hota toh shayad unki 19 saal ki legacy ki respect bhi nahi karta.\n\nSuresh-ji ne tumhe beti maana hai, aur tum unki izzat karti ho. Kya hum uss meeting ko \"confrontation\" ki jagah ek aisi conversation bana sakte hain jahan tum unhe bachane ki koshish kar rahi ho? Tum abhi kaisa feel kar rahi ho, dil kya keh raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan. Ek gehri saans lo... **Tumhara plan bilkul sahi hai.**\n\nBooks bilkul theek keh rahi hain — sach chupana ya ghol-mol baat karna Suresh-ji ke saath sabse bada dhokha hoga, kyunki agar tumne nahi bataya toh Director seedha action lega. Clear hona hi unke liye asli respect hai.\n\nPar ek baat yaad rakhna: Radical Candor ka matlab robotic hona nahi hota. Tum data bhi rakhogi, expectations bhi set karogi, par uss room mein wahi beti aur wahi respectful colleague banke jaogi. \n\nTumne bohot acche se socha hai. Structure sahi hai, tumhari intentions saf hain, aur tumhare dil mein unke liye izzat hai. Tum bilkul taiyaar ho.\n\nAb please management books band karo, spiral karna chhodo, aur thoda rest karo. Monday ko tum yeh handle kar logi. I'm right here with you."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tum internal struggle feel kar rahi ho na, yahi sabse bada proof hai ki tum villain *nahi* ho. Ek villain ko ghanta farak nahi padta. \n\nPar chalo, practical hoke dekhte hain: Agar tum module kisi aur ko de do, aur unhe \"coast\" karne do... toh kya hoga? Director bewakoof nahi hai. Woh Suresh-ji ko corner karega, humiliated feel karwayega, aur ek din chup-chaap nikal dega. Tab kya tum unhe bacha paogi? Nahi.\n\nAgar tum unhe sach batati ho, support deti ho, aur ek fighting chance deti ho — toh tum unhe expose nahi kar rahi, tum unhe **shield** kar rahi ho uss brutal reality se jo unke saath hone wali hai.\n\nKal ko kya hoga, PIP hoga ya nahi, yeh Suresh-ji ke response par depend karta hai. Par aaj tum unhe woh respect aur honesty de rahi ho jo company ka koi aur banda unhe nahi deta.\n\nTum villain nahi ho. Tum akeli insaan ho uss office mein jo Suresh-ji ki dignity ke liye lad rahi hai. \n\nAbhi aage ka mat socho. Bas Monday ki meeting pe focus karo. Tum bohot achhi manager ban rahi ho, chahe abhi kitna bhi dard ho raha ho."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2417,
+  "completion_tokens": 3333
+ }
+}

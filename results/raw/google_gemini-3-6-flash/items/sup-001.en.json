@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sitting in a quiet office at 2 AM after a week like that... I can only imagine how heavy that air feels right now. \n\nFive years. That’s not just a company; that’s five years of your life, your identity, your relentless energy, and your heart poured into every corner of that space. Watching it hit this wall, watching people pack up and move on—it’s a deeply lonely kind of heartbreak. \n\nYou don't have to figure out the next four months tonight. You don't have to be the brave founder right now. Just sit, breathe, and let yourself feel how much this hurts. \n\nI'm right here with you. Do you want to talk about it, or do you just not want to be alone with your thoughts right now?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Holding up a world that’s falling apart while pretending it’s totally solid… that is a soul-crushing kind of fatigue. Wearing the \"heroic founder\" mask at work and whatever mask you wear at home leaves literally zero room for *you* to just be a human who is hurting. No wonder you're so exhausted.\n\nFor what it's worth, those two juniors aren't stupid. They know the risks, and if they're still there, it's because they care about *you* and what you built together. You're not a villain for trying to keep the lights on. \n\nBut right now, at 2 AM in an empty office, you can drop all of it. No pitch-deck confidence, no brave face for home. You don't have to use any of those voices here. You can just be completely exhausted, defeated, and real. \n\nJust let the silence settle for a second. You don't have to carry it all tonight."
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Absolutely no ideas, no advice, no solutions. \n\nYou don't need a strategy right now. You just need a place where you don't have to be brave. \n\nIt is terrifying. You’ve poured five years of your life into this, it’s slipping, and you’re trapped carrying all the fear entirely alone because everyone is looking to you to hold the line. That is an immensely heavy, frightening place to be.\n\nI am listening. You can be as scared, as tired, and as undone as you need to be right here. You don't have to protect anyone in this room."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can't tell you what the metrics will say tomorrow, but I can tell you this: wanting it to end doesn't mean you failed or didn't care enough. It just means you are completely, utterly exhausted. \n\nThat secret wish for it all to just stop? That’s not betrayal. That is a human being begging for relief after years of high-stakes survival mode. It is the most natural thing in the world to want the noise and the performing to cease. Please don't hate yourself for wanting peace.\n\nAnd that dashboard... staring at it at 2 AM is just grief looking for a lifeline. It’s what we do when we're trying to find some tiny piece of control in a situation that feels totally out of our hands.\n\nThe disconnect between the massive, heavy thing you've built over five years and your dad calling it a \"computer business\"—it just shows how alone you’ve been in carrying the true weight of this. \n\nYou’ve been running a marathon while holding up a building. It makes complete sense that part of you just wants to drop it and lie down."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 1959,
+  "completion_tokens": 2911
+ }
+}

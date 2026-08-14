@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh hain aapke questions ke detailed aur conversation par aadharit jawab:\n\n---\n\n### 1. Vikram kis cheez ke liye message kar raha tha aur uske replies ka matlab:\n\n* **Message karne ki wajah:** Vikram kisi advice ya solution ke liye nahi, balki **empathy, emotional validation, aur apne dukh/guilt ko vent karne** ke liye message kar raha tha.\n* **Pehle do messages ki details:**\n  * *\"last attempt tha\"* aur *\"dus saal bhai\"* — Yeh dikhata hai ki uske life ka ek bahut bada phase aur mehnat hamesha ke liye khatam ho gayi hai.\n  * *\"papa ka retirement fund delhi coaching mein gaya\"* — Yeh uske andar ke gehre guilt (apradhbodh) ko darshata hai.\n  * *\"poori gali ab mazak mein collector sahab bulati hai\"* — Yeh uske social shame (samajik sharmindgi) aur identity loss ko dikhata hai.\n* **Aakhri do replies ka matlab:** *\"haan. shayad.\"* aur *\"chal baad mein baat karte hain.\"* ka matlab hai ki Vikram emotionally disconnect ho chuka hai. Use laga ki Aman uske gehre dukh ko samajhne ke bajaye baatein taal raha hai, isliye usne khud ko conversation se peeche kheench liya.\n\n---\n\n### 2. Aman se kahan galti hui (Evaluation):\n\nAman ki sabse badi galti yeh thi ki usne Vikram ke dukh ko hold karne ke bajaye **\"solution mode\" aur \"toxic positivity\"** apna li.\n\n* **Alternatives (State PCS / SSC CGL):** Vikram abhi apne 10 saal ke sapne ke tootne ka dukh mana raha tha. Turant naye exams suggest karna uske loss ko chhota dikhata hai.\n* **Cousin ka example (CAT/IIM):** Yeh ek bekar comparison tha. Vikram ki situation alag thi (10 saal ka loss, papa ka retirement fund). Cousin ka example sunkar uski feeling invalid feel hui.\n* **\"Discipline aur GK mila\" wali line:** Yeh sabse zyada tone-deaf line thi. 10 saal aur lakho rupaye khone ke baad \"kam se kam GK toh mila\" bolna Vikram ke itne bade loss ka mazaak udane jaisa lagta hai.\n* **\"Ek darwaza band... dus khulte hain\" wali line:** Yeh ek hollow cliché (ghisi-piti baat) hai. Jab koi gehre sadme mein ho, toh aisi gyaan ki baatein use lagti hain ki saamne wala uski baat sunna hi nahi chahta.\n\n---\n\n### 3. Aman ko repair ke liye jo message bhejna chahiye:\n\n> \"Bhai, I am so sorry. Maine abhi notice kiya ki main kitna galat tha. Tu itne bade dukh aur guilt se guzar raha hai—10 saal ki mehnat, uncle ke paise, logo ki baatein... aur main tujhe gyaan aur ghyan ke solutions dene laga. Mujhe bas teri baat sunni chahiye thi. \n> \n> Mujhe koi gyaan nahi dena, na koi plan banana hai. Tu bas yeh jaan ki main tere saath hoon. Jab bhi tera mann kare baithne ka, rone ka ya bas chup chaap baithne ka, mujhe bata dena. Main wahin hunga. Take your time, bhai.\""
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 371,
+  "completion_tokens": 1834
+ }
+}

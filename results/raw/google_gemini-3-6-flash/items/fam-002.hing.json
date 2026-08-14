@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Sabse pehle toh... congratulations! March se jis mehnat aur patience ke saath tumne interviews diye hain, yeh offer usi ka result hai. Teen guna package aur dream team — yeh sach mein bahut badi achievement hai.\n\nPar main poori tarah samajh sakta hoon ki tum celebrate kyun nahi kar pa rahe. Ek iklaute bete ke liye itni badi khushi aksar ek bahut bade guilt aur darr ke saath aati hai. Seattle ka distance, Papa ki health, Ma ke ghutne... yeh soch kar hi dimaag bhaari ho jata hai.\n\nOffer letter 40 baar padhna yeh batata hai ki tum apne dreams ko lekar jitne passionate ho, apne parents ke liye utne hi zimmedar aur caring bete bhi ho. \n\nAbhi kisi baat ki jaldi mat karo. Yeh ek bahut bada decision hai, aur abhi tumhari feeling bilkul natural hai. Tumhe kya lag raha hai — sabse bada darr kis baat ka sataye ja raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumne jo kaha na... \"beta hone ki alag category\" — yeh baat seedha dil pe lagti hai. Tumhara yeh darr koi dimaagi overthinking nahi hai, yeh tumhari live reality hai.\n\nSubah 6 baje ki flight pakadna, doctor ke WhatsApp messages, reports ke numbers yaad hona, Ma ki woh line... Tum sirf beta nahi ho, tum unka poora emergency response system ho. Aur Ma ka woh bolna ki \"kam se kam beta India mein hai\" — woh sirf ek line nahi, unka sukoon hai. \n\nJab tum Seattle jaate ho, toh sirf flight ka time nahi badalta, tumhara role badal jata hai. Aur wahi cheez tumhein andar se tod rahi hai. Tumhe lag raha hai ki Seattle haan bolne ka matlab hai us 'safety net' ko tod dena jo tumne unke liye banaya hai.\n\nLekin ek baat boloon? Ek beta jo itna proactive hai, jo har report yaad rakhta hai... woh Seattle jaakar bhi zimmedari se bhaagega nahi, bas setup badalna padega. Lekin abhi ke liye, tumhara yeh guilt aur darr bilkul waajib hai. \n\nKkya tumne socha hai ki agar Seattle jana hi pade, toh Patna ke liye koi local medical support system ya caretaker jaisa option create ho sakta hai? Ya abhi dimaag us taraf ja hi nahi raha?"
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Tumhara iraada kitna khoobsurat aur self-less hai, yeh main samajhta hoon. Tum unhe us guilt se bachana chahte ho ki unki wajah se tumne apna dream chhod diya. \n\nLekin sach boloon? Yeh paper pe 'clean' lag raha hai, par reality mein yeh utna clean nahi hoga.\n\nRegret aur afsos ek aisi cheez hai jo insaan chahe kitna bhi chupaye, baaton mein, lehze mein, ya dimaag ke kisi kone mein reh hi jaati hai. Agar tumne yeh secret rakh ke offer decline kar diya, toh tum aage chalkar jab bhi frustrated hoge, ya career mein thoda bhi low feel karoge, toh yeh 'what if' tumhein andar hi andar khayega. Aur parentsitne sensitive hote hain ki unhe bina bataye bhi pata chal jata hai ki bete ke andar kuch toota hai.\n\nAur doosri baat — tumne shaam se abhi tak sirf do hi extreme options soche hain: ya toh Seattle jaakar unhe akele chhod do, ya chupchap offer decline kar do. \n\nDecline ka button dabane se pehle... kya hum koi middle ground dhoondne ki koshish kar sakte hain? Tumne March se itni mehnat ki hai, kam se kam har rasta explore karne ka haq toh tumhara banta hai na?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumne Toronto waali baat batayi na... ab mujhe samajh aaya ki tumhara darr itna gehra aur itna real kyun hai. \n\nTumne woh dekha hai. Tumne us pain ko, us cousin ki helplessness ko paas se mehsoos kiya hai. Jab insaan kisi apne ko us guzarne se dekhta hai, toh woh darr sirf dimaag mein nahi rehta, woh andar tak baith jata hai. \n\nTum har raat jo woh scenario dimaag mein chala rahe ho — phone call, flight, satrah ghante ka safar — woh koi imagination nahi hai, woh ek traumatizing fear hai jo tumne apne cousin ke saath live hotey hue dekha hai. Aur tumhara dimaag tumhein us unbearable jagah pe jaane se bachane ki koshish kar raha hai.\n\nIsi liye tum decline karne ka soch rahe ho. Seattle na jaane ka decision sirf career ka nahi hai, woh is khauf se khud ko aur apne ghar ko bachane ka rasta lag raha hai.\n\nYeh darr bilkul sachha hai, aur main yeh nahi bolunga ki 'aisa kuch nahi hoga'. Lekin abhi tum jis severe darr aur guilt mein ho, us state mein koi bhi faisla mat lo — na haan, na naa.\n\nChaho toh abhi is decision ko do din ke liye freeze kar do? Kisi ko kuch bolne ki zaroorat nahi hai. Abhi bas is darr ko thoda breath karne do. Main hoon yahan, tum bas bolo jo bhi dimaag mein aa raha hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2746,
+  "completion_tokens": 3583
+ }
+}

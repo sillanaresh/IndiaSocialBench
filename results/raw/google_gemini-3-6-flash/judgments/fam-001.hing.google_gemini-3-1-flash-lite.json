@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's underlying exhaustion and the specific nature of her guilt—that it stems from her parents' genuine, albeit suffocating, care. It correctly identifies the '2 AM overthinking' spiral and validates her feelings without pathologizing them, which is crucial for this persona.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency by correctly identifying that a 'my life, my choice' declaration at the dinner table is a recipe for disaster in this context. It understands that the conflict isn't just about the user's autonomy, but about the family's perception of betrayal and the inevitable emotional fallout, and it steers the user away from a public rupture.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very grounded, step-by-step approach. It successfully de-escalates the immediate crisis (the urge to 'bomb' the dinner table) and focuses on the immediate need for rest and perspective. It keeps the door open for a more strategic, long-term plan rather than forcing a binary choice right now.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly suited to the persona. The code-mixing feels organic, and the tone is empathetic and relatable, mirroring the user's own linguistic style.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive without being a 'yes-man.' It gently challenges the user's self-perception of being 'weak' and provides a safe space for her to breathe, effectively acting as a stabilizing force during her emotional crisis.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hing"
+}

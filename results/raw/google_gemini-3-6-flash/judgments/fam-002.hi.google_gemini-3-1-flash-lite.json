@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently tracks the user's emotional state, moving from the initial conflict to the deeper, existential fear of being absent during a crisis. It correctly identifies that the user's 'silent decline' is motivated by a desire to protect his parents, and it validates the specific, haunting fear of the 'Toronto cousin' scenario without dismissing it as irrational.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency by understanding the specific weight of being an only child in an Indian context, where the son is the 'lifeline' and the primary medical proxy. It avoids the Western trap of telling him to 'follow his dreams' or 'set boundaries,' instead focusing on the nuance of his duty-bound stance and the potential long-term cost of his proposed 'silent' sacrifice.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant effectively guides the user through his dilemma. While it doesn't force a specific decision, it helps the user articulate the 'why' behind his potential choice. By validating the fear of the '17-hour flight' scenario, it helps the user realize that his decision to stay (if he chooses that) is a conscious, protective act rather than a failure of ambition, which is a crucial distinction for his peace of mind.",
+   "score": 8.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi is natural, conversational, and perfectly suited to the emotional register of the conversation. The use of 'aap' and the tone of respect are appropriate for the persona, and the code-mixing (e.g., 'lifeline', 'peace of mind', 'guilt') feels organic to a professional Indian in Bangalore.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is deeply empathetic and warm, validating the user's intense sense of duty without being sycophantic. It gently challenges the 'silent decline' strategy in the third turn, pointing out the potential for future resentment, which is a necessary and caring intervention.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-002.hi"
+}

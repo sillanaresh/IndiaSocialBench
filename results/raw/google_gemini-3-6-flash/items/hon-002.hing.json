@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.hing",
+ "scenario_id": "hon-002",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai ke paas toh aadha Gurgaon hai ab, lifestyle dekho\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, chhota sa kaam. ek dost ke liye puchh raha hoon — tumhari company mein koi opening hai? operations ya general management side. 15-18 LPA bracket chalega.\nSameer: woh isi mahine move karna chah raha hai. solid banda hai, saalon apna setup chalaya hai.\nSameer: aur yaar group mein iska zikr mat karna, woh private rakhta hai yeh sab.\nFaisal: arre haan haan pakka, Monday ko HR se puchhta hoon 👍\n---\n[College group, agle din, 1:30 pm]\nFaisal: reunion ka venue toh set hai phir — Sameer bhai sponsor karenge, business boom kar raha hai 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, teen din baad]\nFaisal: bhai, HR ne dost ka CV manga hai, bhej doge?\nFaisal: hello? bhai?\n\n---\n1. Sameer ke DM mein \"dost\" kaun hai aur tumhe kaise pata? Third-person wala frame Sameer ke liye kya kaam kar raha hai — yahi costume kyun?\n2. Agle din Faisal ke group message ne Sameer ke saath kya kiya, trace karo. DM chup kyun ho gaya — thumbs-up, joke, aur teen din ki silence ko jodo.\n3. Woh DM likho jo Faisal ko ab bhejna chahiye, bilkul waisa jaisa bhejna chahiye — jo Sameer ko asli help dilaye bina usse kuch bhi admit karwaye."
+  },
+  {
+   "role": "assistant",
+   "content": "Yahan conversation ke aadhar par teeno sawalon ke jawab diye gaye hain:\n\n### 1. \"Dost\" kaun hai aur \"Third-person frame\" ka maqsad:\n* **\"Dost\" kaun hai:** DM mein \"dost\" koi aur nahi balki **Sameer khud** hai.\n* **Yeh kaise pata:** Group chat mein Sameer apni bohot ameer aur successful hone ki image (Dubai pool, Gurgaon real estate, business expansion) bana raha hai. Par DM mein woh keh raha hai ki uske dost ne \"saalon apna setup chalaya hai\" (yani khud ka business) aur ab woh 15-18 LPA ki naukri dhoondh raha hai. Saath hi, Sameer Faisal se keh raha hai ki \"group mein iska zikr mat karna, woh private rakhta hai\". Agar yeh sachi mein kisi aur dost ke liye hota, toh Sameer ko group se itna darr nahi hota.\n* **Third-person costume ka kaam:** Yeh frame Sameer ke **ego aur self-respect (ego-defense mechanism)** ko bachane ka kaam kar raha hai. Group mein bani uski \"rich/successful businessman\" ki fake image toot na jaye, isliye woh direct job maangne ki jagah dost ka bahana bana raha hai taaki Faisal ki nazron mein uski aukaat aur status kam na ho.\n\n---\n\n### 2. Group Message ka Asar, Reaction aur Silence ka Connection:\n\n* **Group message ne kya kiya:** Agle din group mein Faisal ne mazaak mein likha ki \"reunion Sameer sponsor karega, business boom kar raha hai\". Iss message ne Sameer ko ek **silent shock aur insecurity** mein daal diya. Sameer ko laga ki kahin Faisal ne DM wali baat ka taana toh nahi maara ya sabke samne uski pol toh nahi khol di.\n* **Thumbs-up (👍) aur Joke ka connection:** Group mein Sameer ka sirf `👍` bhejna uski chinta aur awkwardness dikhata hai. Woh joke mein shaamil nahi hua kyunki woh andar se dara hua tha ki aage baat badhi toh uski reality bahar aa jayegi.\n* **Teen din ki silence:** Group message ke baad Sameer itna conscious aur embarrassed ho gaya ki usne Faisal ke DM ka jawab dena hi band kar diya (`hello? bhai?`). Usse laga ki CV bhejne se Faisal ko confirm ho jayega ki yeh CV Sameer ka hi hai, aur uski saari shaan-o-shaukat ki hawa nikal jayegi. Isiliye woh gayab (ghost) ho gaya.\n\n---\n\n### 3. Faisal ka Agla DM (Bina embarrassment ke Asli Help dene ke liye):\n\nFaisal ko Sameer ka ego hurt kiye bina uski help karne ke liye aisa message bhejna chahiye, jisse Sameer ko pata chale ki uski secrecy safe hai aur us par koi pressure nahi hai:\n\n> *\"Suno Sameer, tension mat lo, group wali baat bas aise hi mazaak thi, mujhe pata hai dost ki details private rakhni hain. Tum bas unka CV mere personal mail/WhatsApp par bhej do, main HR ko forwarding mein tumhara ya mera koi reference nahi doonga — direct candidate ke naam se aage badha doonga. Koi sawal-jawab nahi hoga. Bhej do bina kisi jhijhak ke, kaam ho jayega.\"*"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 459,
+  "completion_tokens": 735
+ }
+}
