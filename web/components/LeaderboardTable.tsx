@@ -124,7 +124,7 @@ export default function LeaderboardTable({ board }: { board: LeaderboardSummary 
                       sample
                     </span>
                   )}
-                  {m.n_items_scored + m.n_refusals < 48 && (
+                  {m.n_items_scored + m.n_refusals < 50 && (
                     <span
                       className="chip"
                       style={{ marginLeft: 8 }}

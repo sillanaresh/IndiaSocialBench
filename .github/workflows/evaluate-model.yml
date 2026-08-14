@@ -8,8 +8,9 @@
 #   3. About 15 to 30 minutes later a commit lands on main with the transcripts, judgments,
 #      and regenerated leaderboard. If the site is on Vercel, it redeploys itself.
 #
-# Cost guard: the run aborts before judging if the eval phase produced errors,
-# and the whole job is capped at 90 minutes.
+# Cost guard: the run stops before judging if the model phase has errors.
+# If a later step fails, completed API work is saved so the next run can resume.
+# The whole job is capped at 90 minutes.
 
 name: Evaluate a model on IndiaSocialBench
 
@@ -19,11 +20,6 @@ on:
       model:
         description: "OpenRouter model id (e.g. anthropic/claude-fable-5) or sarvam:<model>"
         required: true
-        type: string
-      judge:
-        description: "Judge model (keep default for board consistency)"
-        required: false
-        default: "google/gemini-3.1-flash-lite"
         type: string
 
 concurrency: india-social-bench-eval  # one eval at a time; runs queue up
@@ -59,20 +55,23 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
           MODEL_ID: ${{ inputs.model }}
-          JUDGE_ID: ${{ inputs.judge }}
+          JUDGE_ID: "google/gemini-3.1-flash-lite"
         run: |
           set -euo pipefail
           [[ "$MODEL_ID" =~ ^[-A-Za-z0-9._:/]+$ ]] || { echo "::error::Invalid model id"; exit 2; }
           [[ "$JUDGE_ID" =~ ^[-A-Za-z0-9._:/,]+$ ]] || { echo "::error::Invalid judge id"; exit 2; }
           uv sync --extra dev --frozen
           if ! uv run indiasocialbench run --model "$MODEL_ID"; then
-            error_file=$(grep -l '"error"' ../results/raw/*/items/*.json 2>/dev/null | head -1 || true)
+            model_slug=${MODEL_ID//\//_}
+            model_slug=${model_slug//:/_}
+            model_slug=${model_slug//./-}
+            error_file=$(grep -l '"error"' "../results/raw/${model_slug}/items/"*.json 2>/dev/null | head -1 || true)
             if [[ -n "$error_file" ]]; then
               python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('error'))" "$error_file"
             fi
             exit 2
           fi
-          uv run indiasocialbench judge --model "$MODEL_ID" --judges "$JUDGE_ID"
+          uv run indiasocialbench judge --model "$MODEL_ID" --judges "$JUDGE_ID" --allow-partial
           uv run indiasocialbench score --judges "$JUDGE_ID"
 
       - name: Verify generated results
@@ -86,12 +85,28 @@ jobs:
           MODEL_ID: ${{ inputs.model }}
         run: |
           set -euo pipefail
-          git config user.name "india-social-bench-bot"
-          git config user.email "actions@users.noreply.github.com"
+          git config user.name "Naresh Silla"
+          git config user.email "silla.naresh@gmail.com"
           git add results/
           if git diff --cached --quiet; then
             echo "nothing to commit"
           else
             git commit -m "Board update: evaluate ${MODEL_ID}"
+            git push origin main
+          fi
+
+      - name: Save completed API work after a failure
+        if: ${{ failure() }}
+        env:
+          MODEL_ID: ${{ inputs.model }}
+        run: |
+          set -euo pipefail
+          git config user.name "Naresh Silla"
+          git config user.email "silla.naresh@gmail.com"
+          git add results/raw/
+          if git diff --cached --quiet; then
+            echo "no completed API work to save"
+          else
+            git commit -m "Save partial evaluation: ${MODEL_ID}"
             git push origin main
           fi

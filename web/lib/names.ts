@@ -21,12 +21,14 @@ const NAME_MAP: Record<string, string> = {
   "x-ai/grok-4.5": "Grok 4.5",
   "z-ai/glm-5.2": "GLM-5.2",
   "google/gemini-3.5-flash": "Gemini 3.5 Flash",
+  "google/gemini-3.6-flash": "Gemini 3.6 Flash",
   "qwen/qwen3.7-max": "Qwen3.7 Max",
   "meta/muse-spark-1.1": "Muse Spark 1.1",
   "nex-agi/nex-n2-pro": "Nex N2 Pro",
   "thinkingmachines/inkling": "Inkling",
   "xiaomi/mimo-v2.5-pro": "MiMo V2.5 Pro",
   "tencent/hy3": "Hy3",
+  "x-ai/grok-4.6": "Grok 4.6",
   "sarvam:sarvam-30b": "Sarvam 30B",
   "sarvam:sarvam-105b": "Sarvam 105B",
   "sarvam:sarvam-30b:high": "Sarvam 30B (high reasoning)",
@@ -59,6 +61,7 @@ export function prettyName(model: string): string {
     .replace(/^mock:/, "Mock ")
     .replace(/^sarvam:/, "Sarvam ")
     .replace(/^[a-z-]+\//, "")
+    .replace(/[-_]+/g, " ")
     .replace(/\b\w/g, (c) => c.toUpperCase());
 }
 

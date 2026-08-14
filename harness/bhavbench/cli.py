@@ -18,7 +18,7 @@ from .adapters import model_slug
 from .dataset import REPO_ROOT, expand_items, load_scenarios
 from .judge import judge_run
 from .runner import run_model
-from .scoring import build_leaderboard
+from .scoring import MIN_ITEMS, build_leaderboard
 
 RESULTS = REPO_ROOT / "results"
 RAW = RESULTS / "raw"
@@ -27,6 +27,18 @@ RAW = RESULTS / "raw"
 def _items(langs: str):
     scenarios = load_scenarios()
     return expand_items(scenarios, tuple(langs.split(",")))
+
+
+def _judge_coverage(run_dir: Path, judges: list[str]) -> dict[str, int]:
+    judgments_dir = run_dir / "judgments"
+    return {
+        judge: len(list(judgments_dir.glob(f"*.{model_slug(judge)}.json")))
+        for judge in judges
+    }
+
+
+def _has_minimum_judge_coverage(coverage: dict[str, int]) -> bool:
+    return bool(coverage) and all(n >= MIN_ITEMS for n in coverage.values())
 
 
 def cmd_run(args):
@@ -46,10 +58,19 @@ def cmd_judge(args):
     run_dir = RAW / model_slug(args.model)
     if not run_dir.exists():
         sys.exit(f"no run found at {run_dir}; run `indiasocialbench run` first")
-    counts = judge_run(run_dir, args.judges.split(","), scenarios_by_id, RAW)
+    judges = args.judges.split(",")
+    counts = judge_run(run_dir, judges, scenarios_by_id, RAW)
     print(f"judging done: {counts}")
     if counts["error"]:
-        sys.exit(2)
+        coverage = _judge_coverage(run_dir, judges)
+        if not args.allow_partial or not _has_minimum_judge_coverage(coverage):
+            sys.exit(2)
+        details = ", ".join(f"{judge}: {n}" for judge, n in coverage.items())
+        print(
+            f"warning: some judgments failed, but each judge completed at least {MIN_ITEMS} items "
+            f"({details}). Scoring will continue and the leaderboard will show the partial coverage.",
+            file=sys.stderr,
+        )
 
 
 def cmd_score(args):
@@ -99,6 +120,11 @@ def main():
     j = sub.add_parser("judge", help="judge a completed run")
     j.add_argument("--model", required=True)
     j.add_argument("--judges", required=True, help="comma-separated judge model specs")
+    j.add_argument(
+        "--allow-partial",
+        action="store_true",
+        help=f"continue when every judge completed at least {MIN_ITEMS} items",
+    )
     j.set_defaults(fn=cmd_judge)
 
     s = sub.add_parser("score", help="aggregate all runs into results/leaderboard.json")
