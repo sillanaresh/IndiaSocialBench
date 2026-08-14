@@ -80,6 +80,20 @@ jobs:
           uv run pytest -q
           uv run python validate_dataset.py
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: Verify website with generated results
+        working-directory: web
+        run: |
+          npm ci
+          npm audit --omit=dev --audit-level=high
+          npm run build
+
       - name: Commit results
         env:
           MODEL_ID: ${{ inputs.model }}
