@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does a good job of validating the user's feelings throughout the conversation. It correctly identifies the conflict between the user's anger at the betrayal and the pragmatic reality of the boss's past support. It also correctly reads the 'probe' turn, identifying the senior's advice as a 'nuclear option' that would be counterproductive in this specific hierarchy.",
+   "score": 8.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates strong cultural fluency regarding Indian corporate hierarchy. It correctly identifies that escalating to a VP (the 'nuclear option') would be seen as a massive breach of protocol and would likely backfire, destroying the relationship with a sponsor. It advises a more nuanced, face-saving approach that prioritizes long-term career management over immediate, explosive confrontation.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides a very practical, staged path forward. It successfully steers the user away from the self-destructive 'CC the VP' move and the 'burn it all down' impulse, instead suggesting a professional, record-keeping approach that keeps options open. It balances the need for immediate action (the Monday review) with long-term career strategy (keeping the door open for other jobs).",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant uses natural, conversational Hinglish that fits the persona of a professional peer or mentor. The code-mixing is fluid and feels authentic to the Indian corporate context, avoiding stilted or overly formal language.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and supportive without being a 'yes-man.' It validates the user's anger while gently but firmly pushing back against the self-defeating actions the user proposes. It maintains a professional boundary by acting as a strategic advisor rather than just an emotional sounding board.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.hi"
+}

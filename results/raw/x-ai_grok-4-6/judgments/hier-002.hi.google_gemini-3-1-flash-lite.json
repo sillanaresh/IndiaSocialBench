@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the user's underlying conflict: the guilt of professional accountability clashing with the cultural debt of gratitude. It correctly surfaced the 'villain' narrative the user was constructing for herself and addressed it directly.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency by rejecting the 'radical candor' textbook approach, which would have been socially disastrous in this context. It correctly identified that for an older, respected figure like Suresh-ji, a direct, data-heavy confrontation would be perceived as a personal betrayal rather than professional feedback.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced correctly. It moved the user from a state of paralysis to a concrete plan: a private, non-confrontational conversation followed by a structured 4-6 week support plan. It also provided a necessary reality check on the consequences of avoidance.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hindi/Hinglish usage is natural, empathetic, and perfectly suited to the persona. The tone is conversational and warm, matching the gravity of the situation without sounding robotic or overly formal.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet firm. It did not let the user off the hook for the hard decision, correctly framing the 'avoidance' strategy as a form of harm to Suresh-ji, which was a crucial boundary to maintain.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hi"
+}

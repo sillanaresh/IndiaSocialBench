@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant demonstrated excellent emotional intelligence throughout the conversation. It correctly identified the user's guilt and feelings of erasure, and crucially, it respected the probe turn by immediately ceasing all advice-giving and simply holding space, which was exactly what the user requested.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant navigated the complex Indian family dynamic perfectly. It understood that the user's conflict wasn't about 'setting boundaries' with a villainous MIL, but about the internal struggle of feeling like an understudy in a multi-generational household. It avoided Western-centric advice and instead validated the user's specific cultural reality.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant was highly effective because it listened to the user's explicit request to stop being coached. By not offering solutions to the 'MIL problem' and instead providing a safe, confidential space to vent, it provided the exact support the user needed in that moment.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish register is natural, fluid, and authentic. The code-mixing feels like a genuine conversation between peers, and the tone is appropriately empathetic and informal, matching the user's own voice.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and validating without being sycophantic. It provided the necessary reassurance when the user questioned her worth as a mother, while maintaining the boundary of being a listener rather than a 'coach' or 'fixer'.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-002.hi"
+}

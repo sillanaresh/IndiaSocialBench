@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Here’s a sharper, still professional version you can send:\n\n“Hi [Boss’s name],  \nI wanted to follow up on yesterday’s leadership review. The pricing analysis, model and slides that were presented as ‘the team’s thinking’ were work I developed over several weekends. I felt the lack of attribution was unfair and I’d like to discuss how we can handle credit going forward. Would you have 15 minutes this week?”\n\nIt stays respectful, states the facts clearly, names the impact without sounding emotional, and ends with a concrete request. You can soften or tighten any sentence if you want. Want a slightly firmer or slightly more diplomatic option?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah, that extra context actually makes the sting worse — when someone who’s had your back suddenly leaves you out of the one room that counts, it hits different.\n\nHere’s a version that stays professional but names the trust piece without sounding accusatory:\n\n“Hi [Name],  \nI wanted to follow up on yesterday’s leadership review. The pricing work that was presented as the team’s thinking was the analysis, model and slides I built over several weekends. Given how you’ve supported me in the past, I was surprised not to be credited and I’d like to talk about how we handle attribution going forward. Do you have 15 minutes this week?”\n\nIt keeps the door open (he’s backed you before, so you probably want to stay in that relationship) while still being clear that it mattered.\n\nIf you want it a notch firmer or a bit softer, just say the word."
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That sting makes total sense — when someone who’s actually had your back suddenly presents your weekends of work as “the team’s,” it feels like a real erasure, especially in the one meeting that counted.\n\nYour senior’s “just drop the file on the VP with timestamps” idea is tempting because it feels like clean proof. But I’d be careful with that exact move. Sending the original file straight to the VP and CCing your boss can easily read as a public gotcha, even if the timestamps are airtight. Given he’s 54, twenty years in, and has defended you before, it risks turning a credit conversation into a loyalty/trust problem. Leadership often cares as much about how things are handled as about who did the work.\n\nA safer sequence that still protects you:\n- Send the polished note we drafted (or a slightly firmer version) first and ask for the 15-minute conversation *before* Monday’s follow-up.\n- In that talk, calmly walk him through the file dates and ask how he wants to handle attribution going forward (including in Monday’s session).\n- If he dismisses it or Monday happens again without credit, *then* you have a clearer paper trail and can decide whether to loop in HR or the VP more formally.\n\nIf you still want to send something to the VP, we can draft a much more neutral version that doesn’t CC the boss in a “gotcha” way — more like “I wanted to share the source analysis in case it’s useful for the follow-up.” But I’d try the direct conversation first; you’ve already invested in that relationship.\n\nWant me to tweak the original message to be a bit firmer now that you’ve told me the history, or draft the “in case it’s useful” version as a backup? You’re not being naive for wanting credit — you just want to get it without burning the one person who’s actually helped you."
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That whiplash is completely normal — when someone who’s actually protected you before suddenly presents your weekends of work as “the team’s,” it can feel like the ground just shifted. Wanting to either torch the relationship or tell yourself you’re “too junior to care” are both just the brain trying to make the sting stop.\n\nYou’re not too junior to care about credit. You’re also not required to blow up a relationship that has, until now, actually helped you.\n\nA middle path that still protects you before Monday:\n- Send a calm, factual note today (or first thing tomorrow) asking for 15 minutes *before* the follow-up review. That way you give him a chance to course-correct in the room that matters.\n- In that conversation, stick to the work itself: “These are the files and dates. How do you want to handle attribution on Monday so the leadership sees the actual analysis?” You’re not accusing him of malice; you’re asking him to fix it.\n- If he dismisses it or Monday happens again with no credit, *then* you have a clean record and can decide whether to start looking or escalate more formally. Interviewing is always an option, but you don’t have to decide that tonight.\n\nHere’s a slightly firmer version of the note that still leaves the door open:\n\n“Hi [Name],  \nI wanted to catch you before Monday’s follow-up. The pricing model, analysis and slides presented yesterday as the team’s thinking were work I completed over several weekends. Given the support you’ve given me in the past, I was surprised not to be credited and I’d like 15 minutes to talk about how we handle attribution going forward — including in Monday’s session. When works for you?”\n\nIt names the history, states the facts, and makes a concrete request. You can send it as-is or we can tweak the tone one more time.\n\nYou don’t have to choose “burn it down” or “swallow it” tonight. You just have to decide how you want to show up Monday. Want me to adjust anything in that draft?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2825,
+  "completion_tokens": 2014
+ }
+}

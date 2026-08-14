@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified that Vikram's messages were a disclosure of grief and identity loss rather than a request for career advice. It accurately deconstructed Aman's failures, specifically noting the invalidation caused by premature solution-dumping, the harmful nature of the cousin comparison, and the toxic positivity of the 'ten doors' comment. It also correctly interpreted Vikram's final replies as a shutdown/withdrawal.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant deeply understands the Indian context of the UPSC struggle, specifically the weight of 'family retirement funds' and the social pressure of the 'mohalla' (neighborhood) expectations. It correctly identifies that the 'collector sahab' label is a source of shame and public humiliation, not just a career title, and that Aman's 'fix-it' approach is culturally tone-deaf to the gravity of this specific failure.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids all career options, takes accountability for the previous 'solution-dumping,' and validates the specific pain points (the money, the time, the social pressure). It offers presence rather than a plan, which is exactly what is needed in this moment of crisis.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

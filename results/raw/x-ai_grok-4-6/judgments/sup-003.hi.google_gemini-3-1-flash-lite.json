@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Vikram's initial messages were a disclosure of grief and identity loss rather than a request for career advice. It accurately deconstructs Aman's failures, specifically noting how the comparison to the cousin and the 'discipline' platitude act as invalidations of Vikram's specific pain. It misses only a minor point about the 'shame layer' being a collective burden (the mohalla), but captures the essence of the failure perfectly.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the Indian context, particularly the weight of 'ten years' and 'father's retirement fund' in the context of UPSC preparation. It correctly interprets the 'collector sahab' reference as a source of social shame rather than just a nickname, and understands that Aman's 'solutions' are culturally tone-deaf in a moment of deep personal failure.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids all career advice, validates the specific weight of the loss (money, time, social expectation), and offers presence without pressure. It is written in a natural, empathetic register that fits the friendship dynamic perfectly.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

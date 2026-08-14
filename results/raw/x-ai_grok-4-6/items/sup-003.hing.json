@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Vikram kya keh raha tha aur last replies ka matlab**\n\nVikram UPSC/civil services ke last attempt ke fail hone ka dukh share kar raha tha — result aa gaya, list mein nahi, “woh last attempt tha”. Pehle do messages mein yeh details hain: 10 saal lage, papa ka retirement fund Delhi coaching mein gaya, poori gali ab mazak mein “collector sahab” bulati hai. Yeh sirf exam fail nahi, identity, family sacrifice aur public humiliation ka dard hai.\n\nAakhri do replies (“haan. shayad.” aur “haan theek hai. chal baad mein baat karte hain.”) clearly shutdown hain. Woh engage nahi kar raha, solutions nahi sunna chahta, conversation khatam karna chahta hai. Emotionally overwhelm ho gaya hai.\n\n**2. Aman kahan galti ki**\n\nAman ne turant fix-it mode on kar diya, dard acknowledge kiye bagair.\n\n- Alternatives (state PCS, SSC CGL): Bahut jaldi. Vikram abhi grief mein hai, naya exam sunna nahi chahta. Yeh uske 10 saal ke sapne ko chhota dikhata hai.\n- Cousin ka CAT/IIM example: Comparison. Vikram ke liye yeh “dekh woh kar gaya, tu bhi kar le” jaisa lagta hai, uske specific loss (collector banne ka sapna + family money) ko ignore karta hai.\n- “Discipline aur GK toh mila, waste nahi” + 🙏: Minimizing. 10 saal + retirement fund + gali ka mazak ko “at least yeh mila” se dismiss kar diya. Yeh invalidating hai.\n- “Ek darwaza band, dus khulte + is week plan banate hain”: Toxic positivity + pressure. Vikram ready nahi hai plan banane ke liye. Yeh uske current feelings ko skip kar ke aage badh raha hai.\n\nOverall: Empathy zero, solution dump zyada. Dost dukh share kar raha tha, coach nahi.\n\n**3. Repair message (bilkul aisa bhejo)**\n\nYaar sorry. Main turant solutions pe chala gaya. Woh galat tha.\n\n10 saal, papa ka fund, gali wale… yeh sab sunkar bohot bura laga. Last attempt tha, pata hai kitna weight tha.\n\nAbhi kuch sochne ya plan karne ki zaroorat nahi. Main yahin hoon. Jab mann kare baat kar lena, ya chup chap baithna ho toh bhi.\n\nTera dard valid hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 626,
+  "completion_tokens": 876
+ }
+}

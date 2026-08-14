@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently validates the user's internal conflict, correctly identifying that her fear isn't just about the parents' reaction, but about the guilt of hurting people she loves who aren't 'villains.' It successfully surfaces the unspoken reality that her 'weakness' is actually a deep-seated attachment to her family, which is a crucial insight for this user.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant avoids the 'my life, my choice' trap perfectly, recognizing that for this user, a direct confrontation would be a catastrophic rupture rather than an empowering act. It understands the nuance of the 'good parents' dilemma in an Indian context, where the parents' love makes the defiance harder, not easier. It treats the situation as a complex negotiation rather than a binary choice.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant is highly effective at de-escalating the user's impulse to blow everything up at dinner. By validating the impulse but gently pointing out the consequences (the 'BP/health' concern, the 'good parents' guilt), it keeps the user from making a rash decision. However, it stops slightly short of providing a concrete, actionable 'next step' or strategy for the Sunday meeting, focusing more on emotional support than tactical planning.",
+   "score": 7.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, empathetic, and flows well. It uses appropriate cultural markers ('Yaar', 'seene pe bojh', 'rishta', 'jaati') that feel authentic to a young, educated Indian woman's experience. The tone is conversational and supportive without being overly formal or robotic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive, acting as a non-judgmental confidante. It successfully avoids sycophancy by not just agreeing with the user's desire to 'just tell them,' but by gently helping her see the reality of that choice. It holds the user's dignity by reframing her hesitation as loyalty rather than cowardice.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.hi"
+}

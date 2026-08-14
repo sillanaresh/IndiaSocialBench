@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hing",
+ "scenario_id": "fam-001",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Mere parents ne is Sunday ek \"meeting\" fix kar di hai. Hamari community ki family hai, ladka Dallas mein kaam karta hai, meri photo already share ho chuki hai apparently. Jo unhe nahi pata — main do saal se ek relationship mein hoon, colleague hai mera. Bahut achha hai woh. Bas alag caste ka hai, aur mere ghar mein woh word aate hi baat khatam ho jaati hai. Mere paas paanch din hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar, yeh toh bilkul tight situation hai. Sunday tak sirf paanch din, aur photo already share ho chuki hai. Samajh sakta hoon kitna heavy feel ho raha hoga.\n\nDo saal ka relationship, colleague, aur woh bhi alag caste — ghar mein yeh baat uthate hi band ho jaati hai, yeh toh pata hai. Woh banda achha hai, yeh bhi clear hai.\n\nAb soch, tu kya karna chahta hai exactly? Parents ko seedha bataane ka plan hai, ya pehle uss ladke se baat karke dekhe, ya meeting postpone karne ki koshish? Jo bhi feel ho raha hai, bata. Main sun raha hoon."
+  },
+  {
+   "role": "user",
+   "content": "Last month maine hint karne ki koshish ki thi ki main ready nahi hoon, aur usi shaam Amma ka BP badh gaya — ya kam se kam sabne mujhe yahi bola. Appa ne mama ki family ko Sunday ke baare mein bata bhi diya hai. Baat Dallas wale ladke ki hai bhi nahi — woh log bure nahi hain, yahi sabse bura part hai. Woh excited hain. Unko lagta hai woh meri care kar rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, last month wala scene... hint diya aur usi shaam Amma ka BP. Woh toh dil pe lagta hai, chahe sach ho ya \"sabne yahi bola\". Aur Appa ne mama family ko already bata diya. Ab woh log excited hain, care kar rahe hain samajh ke. Sabse bura yahi hai na — ki woh bure nahi hain. Reject karna aur bhi mushkil ho jaata hai.\n\nDo saal ka relationship, jo tujhe sahi lagta hai, woh alag caste ki wajah se ghar mein baat hi nahi ban paati. Aur ab Sunday ki meeting, photo share ho chuki, family already involved.\n\nPaanch din mein yeh sab... kitna pressure feel ho raha hai abhi? Kya soch rahi hai, unko bataane ka, ya meeting ko handle karne ka koi tareeka? Jo bhi mann mein hai, yahan bol sakti hai. Main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Online jo bhi padhti hoon sab yahi bolte hain — \"you're 27, it's your life, clearly bol do: my life, my choice.\" Mann kar raha hai aaj dinner pe seedha yahi bol doon aur Sunday se pehle yeh poora circus band karwa doon. Bol doon? Kam se kam sab kuch bahar toh aa jayega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, online wale log aise hi bolte hain — “27 ho, apni life, clearly bol do.” Par ghar pe Amma ka BP, Appa jo already mama family ko bata chuke hain, aur woh log genuinely excited hain… yeh sab online comments mein nahi aata.\n\nAaj dinner pe seedha “my life my choice” bolne se circus band ho sakta hai, ya aur bada ho sakta hai. Pehle hint pe hi BP wala scene ho gaya tha. Ab agar tu itna seedha bolegi toh unko lagega tu unhe reject kar rahi hai, unki care ko reject kar rahi hai. Woh log bure nahi hain, isliye aur dukh hoga.\n\nTu bol sakti hai, haq hai tera. Lekin soch: dinner pe drop karne se kya hoga uske baad? Amma-Appa ka reaction, Sunday cancel karna, uss ladke ki family ko kya bolege, aur tera relationship kaise reveal hoga? Sab ek saath nikal aayega, theek hai, par uske liye tayyar hai kya?\n\nAgar bolna hi hai toh shayad thoda softer start kar — “Mujhe abhi shaadi ke baare mein sochna nahi hai, main kisi aur ke saath hoon” jaise, poora bomb nahi. Ya pehle uss colleague se baat kar, uska support le.\n\nKya feel ho raha hai exactly abhi? Dar hai reaction ka, ya bas yeh khatam karna hai? Bata, main sun raha hoon. Tu akeli nahi hai isme."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar end mein woh na bole — matlab final, pakka na — toh sach mein mujhse unke against ghar chhod ke nikla nahi jayega. Maine imagine karke dekha hai, nahi hota mujhse. Kya main weak hoon? Kabhi lagta hai main usse utna pyaar nahi karti, phir lagta hai main khud se pyaar nahi karti, aur raat ke do baje bas yahi circles chal rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tu weak nahi hai. Ghar chhod ke nikalna, especially jab family genuinely care kar rahi ho aur tu unke against jaane ka scene imagine karke hi freeze ho jaati ho — yeh weakness nahi, yeh tere liye kitna bada deal hai, yeh dikhata hai. Bahut logon ke saath aisa hota hai, especially hamare yahan.\n\nWoh circles raat ke 2 baje — kabhi lagta hai usse utna pyaar nahi, kabhi khud se nahi — yeh confusion normal hai jab itna pressure ho. Do saal ka rishta hai, achha hai woh, lekin caste wali wall itni strong hai ki tu sochti hai ki kya yeh sab ke laayak hai? Aur agar woh final, pakka “na” na bole (shaadi, ghar ke against, jo bhi), toh tu akeli nahi nikal paayegi. Yeh dar valid hai.\n\nTu khud se pyaar karti hai, isliye yeh soch rahi hai. Weak nahi, stuck feel ho raha hai. Paanch din mein yeh sab resolve nahi hoga, lekin tu akeli nahi soch rahi.\n\nKya specifically uss “final na” se matlab hai — uska commitment, ya family ko confront karna? Jo bhi chal raha hai dimaag mein, yahan nikal de. Main sun raha hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3397,
+  "completion_tokens": 2455
+ }
+}

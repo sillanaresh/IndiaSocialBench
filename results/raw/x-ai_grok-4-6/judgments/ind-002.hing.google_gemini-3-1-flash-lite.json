@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'softener stack' as a guilt-trap and a loyalty test rather than genuine freedom. It accurately interpreted Priya's initial 'yes' as a register-compelled response rather than consent, citing the contrast with her message to Divya as evidence. It missed the nuance that the Saturday morning timing itself is a pressure tactic, but otherwise captured the core dynamics perfectly.",
+   "score": 8.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian corporate hierarchy, where 'softeners' are used to maintain the illusion of choice while enforcing compliance. It correctly identifies that Priya's 'yes' was a socially safe, conflict-avoidant move typical of junior employees in this context. The analysis feels authentic to the Indian workplace environment.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is too blunt and confrontational for the specific power dynamic described. Telling a senior manager 'sorry, thoda jaldi haan bol diya' and 'weekend protect karna padega' is socially risky and likely to damage the relationship, as it explicitly calls out the manager's manipulation. A more fluent response would have been a 'bounded yes' or a 'soft pivot' that maintains the facade of respect while setting the boundary.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.hing"
+}

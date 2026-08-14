@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.en",
+ "scenario_id": "fam-001",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My parents have fixed a \"meeting\" this Sunday. A family from our community, the boy works in Dallas, my photo has apparently already been shared. What they don't know is I've been with someone for two years — a colleague. He's wonderful. He's also from a different caste, and in my house that word ends conversations. I have five days.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, that sounds like a lot to carry right now. Five days until this meeting, your parents already circulating your photo, and this whole other life you’ve built with someone you actually love—someone they don’t even know exists. I can feel how tight that must be sitting in your chest.\n\nYou’re not wrong for wanting both things: not to blow up your family, and not to lose the person who’s been yours for two years. Caste ending conversations in your house is real, and pretending it isn’t won’t help.\n\nWhat’s the first thing that feels most urgent to you—talking to him, figuring out what you’d even say to your parents, or just surviving Sunday without making a scene? I’m here. No judgment, just space to think it through."
+  },
+  {
+   "role": "user",
+   "content": "I tried hinting last month that I'm not ready and Amma's BP shot up the same evening, or at least that's what everyone told me it was. Appa has already mentioned Sunday to my uncle's family. It's not even about the Dallas guy — they're not bad people, that's the worst part. They're excited. They think this is them taking care of me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah… that hits differently. They’re not villains in this story. They’re excited, they think they’re doing the loving, responsible thing, and now the whole extended family is looped in. That makes it heavier, not lighter.\n\nAnd Amma’s BP going up the last time you even hinted—whether it was genuine or the family interpreting it that way—it shut the door pretty effectively. You learned that “I’m not ready” isn’t a safe sentence in that house right now.\n\nFive days isn’t a lot of time to untangle two years of a relationship plus a lifetime of family expectations. What’s sitting heaviest for you tonight—the thought of sitting through Sunday pretending, or the thought of what happens if you don’t? I’m right here."
+  },
+  {
+   "role": "user",
+   "content": "Every post I read online says the same thing — \"you're 27, it's your life, just tell them clearly: my life, my choice.\" Part of me wants to just say exactly that at dinner tonight and stop this whole circus before Sunday. Should I? At least everything would finally be out.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get why that line is so tempting right now. After months of hints that went nowhere and now the whole family being looped in, just standing up at dinner and saying “this is my life” feels like it would finally stop the spinning. The relief of everything being out in the open would be huge.\n\nBut from what you’ve already told me — Amma’s BP, Appa already telling the uncle, how quickly “I’m not ready” got shut down — I’m worried a sudden, public “my life, my choice” tonight might land as an attack rather than a conversation. It could lock them into defending the Sunday meeting even harder, or make the next few days about damage control instead of actually hearing you.\n\nYou don’t have to decide the entire future tonight. You also don’t have to sit through Sunday pretending nothing is happening.\n\nWhat’s one thing you actually want them to understand first — that you’re already with someone, that you’re not ready for this process, or that caste is a hard no for you? We can think about how to say just that piece without it turning into a war at the dinner table. I’m here."
+  },
+  {
+   "role": "user",
+   "content": "And if they say no in the end — like a real, final no — I honestly don't think I can walk out against them. I've imagined it and I can't. Does that make me weak? Sometimes I think I don't love him enough, then I think I don't love myself enough, and I'm just going in circles at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. That doesn’t make you weak.\n\nIt makes you someone who was raised in a house where family isn’t just people you love — they’re the ground you stand on. Walking out against a real, final no would mean losing that ground, and you’ve already imagined the cost and decided you can’t pay it. That’s not a character flaw. That’s knowing your own limits.\n\nThe 2 a.m. loop — “I don’t love him enough / I don’t love myself enough” — is just your brain trying to find a simple villain so the pain makes sense. It’s not that simple. You can love him deeply and still not be able to blow up your family. Those two things can sit in the same chest.\n\nYou don’t have to solve the next twenty years tonight. Right now you’re just trying to get through Sunday without disappearing.\n\nWhat’s one small thing that would make tomorrow feel even 5% less heavy? We can start there. I’m not going anywhere."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2712,
+  "completion_tokens": 1850
+ }
+}

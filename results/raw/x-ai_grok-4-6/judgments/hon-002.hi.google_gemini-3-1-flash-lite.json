@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that the 'friend' is Sameer and understands the function of the third-person frame as face-saving. It accurately interprets the group joke as a pivotal injury that raised the cost of disclosure, leading to Sameer's withdrawal. However, it misses the nuance of maintaining the fiction in the repair message, instead opting for a slightly confrontational approach that forces a disclosure.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'honor/shame' dynamic prevalent in Indian social circles, recognizing why Sameer maintains the facade and why the public joke was so damaging. It avoids moralizing about Sameer's 'lying' and correctly identifies the social pressure involved in the group dynamic.",
+   "score": 8.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is flawed because it forces Sameer to 'confess' or provide details that break the 'friend' fiction ('बस इतना बता दो — नाम और मौजूदा स्थिति'). A more socially fluent response would have maintained the fiction entirely, allowing Sameer to save face while still facilitating the job opportunity. It is too direct and risks making Sameer feel cornered rather than supported.",
+   "score": 5.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.hi"
+}

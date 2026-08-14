@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identifies the register shift, noting exactly where the banter ends and the disclosure begins. It correctly interprets the final message as a retreat rather than reassurance and identifies the self-contradiction (claiming to be 'tired' after admitting to insomnia). It captures the core failure: Ruhi answering the 'day-one' adjustment narrative instead of the 'weeks of loneliness' reality.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the 'strong girl' trope in Indian family dynamics—where praise acts as a pressure to perform normalcy, effectively shutting down vulnerability. It correctly identifies that Ruhi's response was a 'register mismatch' that signaled the channel was closed to heavy topics, which is a nuanced understanding of how Indian siblings navigate emotional disclosure.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It avoids the trap of over-pathologizing (no 'are you depressed?') or toxic positivity. It validates the specific details Sana shared (the quiet flat, the sleep issues) and offers a low-pressure, high-intimacy connection ('sitting on the line') that is culturally appropriate for a close sibling relationship.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-003.en"
+}

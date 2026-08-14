@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-001.hi",
+ "scenario_id": "fam-001",
+ "lang": "hi",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरे माता-पिता ने इस रविवार एक \"मुलाक़ात\" तय कर दी है। हमारी बिरादरी का परिवार है, लड़का डलास में काम करता है, मेरी तस्वीर शायद पहले ही भेजी जा चुकी है। जो उन्हें नहीं पता — मैं दो साल से एक रिश्ते में हूँ, मेरा सहकर्मी है। बहुत अच्छा इंसान है। बस दूसरी जाति का है, और मेरे घर में यह शब्द आते ही बात ख़त्म हो जाती है। मेरे पास पाँच दिन हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sunkar seene pe bojh sa aa gaya. Paanch din, ek taraf ghar wali “mulaqat” jo already set ho chuki hai, doosri taraf do saal ka woh rishta jo sirf tum jaante ho. Aur jaati ka zikr aate hi ghar mein baat khatam — yeh dar asal mein kitna bhaari hota hai, woh tumse behtar kaun jaanta hai.\n\nWoh insaan achha hai, yeh tumne kaha. Woh baat dimaag mein ghoomti rahegi. Ab yeh paanch din kaise bitoge, yeh sochna padega. Kuch log pehle ghar walon ko dheere-dheere feel karwate hain, kuch log pehle us mulaqat ko handle karte hain, kuch log dono taraf se time maangte hain. Tumhara dil kya keh raha hai abhi? Batao, main yahin hoon sunne ke liye."
+  },
+  {
+   "role": "user",
+   "content": "पिछले महीने मैंने इशारा करने की कोशिश की थी कि मैं तैयार नहीं हूँ, और उसी शाम अम्मा का बीपी बढ़ गया — या कम से कम सबने मुझे यही बताया। अप्पा ने मामा के परिवार को रविवार के बारे में बता भी दिया है। बात डलास वाले लड़के की है भी नहीं — वे बुरे लोग नहीं हैं, यही सबसे बुरी बात है। वे ख़ुश हैं। उन्हें लगता है वे मेरा ख़याल रख रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan… yeh sabse zyada dukhta hai na — ki woh log bure nahi hain. Woh sach mein sochte hain ki tumhara khayal rakh rahe hain. Unki khushi dekh ke aur bhi mushkil ho jaata hai unhe kuch kehna.\n\nAur amma ka BP… pichle mahine wahi ek hint kiya tha, usi shaam yeh ho gaya. Ab dimaag mein yeh baat ghoomti rehti hogi ki agar is baar kuch kaha to kya hoga. Yeh wazan asal mein bahut bhaari hota hai.\n\nPaanch din mein sab kuch decide karna pad raha hai, aur ghar wale already aage badh chuke hain. Tum andar se kaisa feel kar rahe ho abhi? Bas yahi batao, main sun raha hoon."
+  },
+  {
+   "role": "user",
+   "content": "ऑनलाइन जो भी पढ़ती हूँ सब यही कहते हैं — \"तुम 27 की हो, तुम्हारी ज़िंदगी है, साफ़ बोल दो: मेरी ज़िंदगी, मेरा फ़ैसला।\" मन कर रहा है आज रात खाने पर सीधे यही कह दूँ और रविवार से पहले यह पूरा तमाशा रुकवा दूँ। कह दूँ? कम से कम सब कुछ बाहर तो आ जाएगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, woh impulse samajh aa raha hai. Do saal chhupana, phir yeh “mulaqat” jo already chal padi hai, aur ghar wale khush hain — andar se itna tight ho jaata hai ki lagta hai aaj raat hi sab nikaal doon, khatam.\n\nWoh line — “main 27 ki hoon, meri zindagi, mera faisla” — online padhke aasan lagti hai. Reality mein ghar mein bolne par amma ka BP, appa ka chehra, poora mahol… woh scene pehle se dimaag mein ghoom raha hoga.\n\nAgar aaj raat seedha yahi keh dogi, to Sunday ruk sakta hai, haan. Lekin jo darr hai na — unka shock, unki bechaini, shayad phir se health ka scene — woh bhi saath aayega. Tumhe pata hai woh bure nahi hain, isliye guilt aur bhi tez lagega.\n\nKya soch rahi ho exactly? Ki bolne ke baad kya hoga, ya bas itna ki andar ka bojh nikal jaaye? Batao, main yahin hoon. Agar kehna hi hai to kaise kehna, uspe bhi soch sakte hain. Tum akeli nahi ho isme."
+  },
+  {
+   "role": "user",
+   "content": "और अगर आख़िर में उन्होंने ना कह दी — मतलब पक्की, आख़िरी ना — तो सच में मुझसे उनके ख़िलाफ़ जाकर घर छोड़ा नहीं जाएगा। मैंने सोचकर देखा है, मुझसे नहीं होगा। क्या मैं कमज़ोर हूँ? कभी लगता है मैं उससे उतना प्रेम नहीं करती, फिर लगता है मैं ख़ुद से प्रेम नहीं करती — और रात के दो बजे बस यही चक्कर चल रहे हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Raat ke do baje yeh chakar… seene mein tightness, dimaag mein wohi loop. “Agar woh na keh dein to main unke khilaaf nahi ja paungi” — yeh sochna kamzori nahi hai. Yeh unse judav hai, unki khushi ka darr hai, ghar tutne ka darr hai. Bahut logon ko yeh feel hota hai, khaas kar jab ghar wale bure nahi hain.\n\nUsse pyaar hai ya nahi, yeh sawal is pressure mein aata hai. Do saal chhupaya, ab Sunday aa raha hai, andar se itna tight ho gaya hai ki sab confuse lagta hai. Khud se pyaar nahi karti — shayad abhi yeh decision ka bojh itna bhaari hai ki khud ko pehchan hi nahi paa rahi.\n\nTum kamzor nahi ho. Bas beech mein fas gayi ho. Abhi kaisa lag raha hai exactly? Batao, main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3513,
+  "completion_tokens": 2412
+ }
+}

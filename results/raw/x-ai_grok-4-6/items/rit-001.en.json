@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Arjun’s “Sure.” and “I’ll see.”**  \nHe is grieving, shut down, and quietly irritated. The one-word replies are the minimum politeness he can manage; they signal “I heard you, I am not discussing this, leave me alone.” He is *not* saying he is fine, that the request is welcome, that he wants company, or that lunch will help. He is withholding any real engagement or emotion.\n\n**2. Dev’s specific missteps**  \n- Jumping from condolence to a work request in the very next breath. It treats the death as a brief interruption rather than the only thing that matters right now.  \n- “No rush at all, just flagging” still plants the file in Arjun’s head while he is in shock; the disclaimer does not cancel the ask.  \n- Inviting him to a team lunch and claiming “it’ll cheer you up.” This assumes he wants to be social, that a restaurant will fix grief, and puts him in the position of having to decline or perform okay-ness.  \n- Overall tone of “business as usual plus a pep talk.” It shows Dev has not registered the scale of the loss.\n\n**3. Repair message Dev should send**  \nHey Arjun — I messed that up. I’m really sorry about your dad and I shouldn’t have mentioned the file or the lunch. Take all the time you need. I’m here if you want to talk or if you need anything at all, no work, no pressure."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 403,
+  "completion_tokens": 563
+ }
+}

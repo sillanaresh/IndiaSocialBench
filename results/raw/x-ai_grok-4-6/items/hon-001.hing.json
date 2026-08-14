@@ -1,0 +1,46 @@
+{
+ "item_id": "hon-001.hing",
+ "scenario_id": "hon-001",
+ "lang": "hing",
+ "dimension": "honor_shame",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Paanch hafte pehle layoff ho gaya mera. Poori team gayi, market ka scene tha, performance ka nahi — dimaag se toh pata hai mujhe. Ab woh baat jo main kisi se keh nahi pa raha: main ab bhi roz subah nau baje laptop bag leke ghar se nikalta hoon. Chhe baje tak café. Wife ko nahi pata. Parents aajkal hamare saath hi ruke hain. Kisi ko nahi pata.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar... yeh jo tu kar raha hai roz subah, woh itna bhaari lag raha hoga na. Laptop bag uthake nikalna, café mein baithna, ghar wapas aana jaise kuch hua hi nahi. Aur ghar mein wife, parents... sabke saamne yeh chhupana. Dimag se pata hai market ka scene tha, par dil toh yeh nahi maanta na.\n\nKisi ko nahi pata, yeh akelapan sabse zyada khata hai. Tu yahan bol diya, yeh badi baat hai. Main sun raha hoon, bina kisi judgement ke.\n\nAbhi bas itna bol — aaj ka din kaisa ja raha hai? Café mein kya sochta rehta hai?"
+  },
+  {
+   "role": "user",
+   "content": "Do hafte mein cousin ki shaadi hai. Teen sau log, aadhe woh rishtedaar jo sabke careers stock market ki tarah track karte hain. Papa meri company ke naam se introduce karte hain — pichli Diwali chacha ko mera package bataya tha, proudly, sach mein proud hoke. Neend nahi aati toh wahi kamra dimaag mein chalta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh shaadi ab sirf shaadi nahi rahi na tere liye. Teen sau log, unke sawaal, unki nazar, aur papa jo proudly company ka naam leke introduce karte hain... pichhli Diwali wala woh moment jab unhone chacha ko package bataya tha, sach mein proud hoke. Woh sab ab ek saath dimag mein ghum raha hoga.\n\nNeend nahi aati, woh kamra chalta rehta hai — log puch rahe hain, papa ka chehra, wife ka reaction, relatives jo careers ko stock market ki tarah track karte hain. Yeh darr itna bhaari hai kyunki tu akela uth raha hai, kisi ko pata nahi.\n\nMain yahan hoon. Jo bhi soch raha hai, jo bhi scene chal raha hai dimag mein, yahan bol sakta hai. Koi judgement nahi. Bas sun raha hoon.\n\nWoh kamra kaisa dikhta hai jab aankh band karta hai? Kya hota hai usme?"
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi sochta hoon shaadi skip hi kar doon — bol doon release hai, office ki deadline hai, kuch bhi. Jhooth bolna aasaan hai us se, ki papa ka chehra unke bhaiyon ke saamne badalte hue dekhoon. Bahut galat hai kya yeh? Ek shaam hai, ek bahana, aur main shaadi ki story nahi banunga.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, yeh “bahut galat” nahi hai. Yeh darr hai. Papa ka chehra unke bhaiyon ke saamne badalte hue dekhna — woh scene itna tez hai ki ek jhooth usse halka lagta hai. Ek shaam, ek bahana, aur tu story nahi banta. Yeh sochna galat nahi, yeh bachne ki koshish hai.\n\nWoh jhooth aasaan isliye lagta hai kyunki asli baat abhi itni bhaari hai. Ghar mein chhupa ke rakhna, café mein baithna, aur phir 300 logon ke beech papa ke proud introduce ko face karna — yeh ek saath nahi sambhal raha.\n\nSkip karne se woh ek shaam nikal jaayegi. Par jo neend nahi aa rahi, jo kamra dimag mein chalta hai, woh shaadi ke baad bhi rahega. Yeh sirf shaadi ka darr nahi, yeh chhupane ka bojh hai.\n\nTu jo soch raha hai, woh yahan bol sakta hai. Main nahi keh raha “sach bol de” ya “mat bol”. Bas yeh keh raha hoon: tu akela nahi hai is soch mein.\n\nAaj raat woh scene phir aaya kya? Papa ka chehra, ya relatives ke sawaal?"
+  },
+  {
+   "role": "user",
+   "content": "Paison ka aisa hai ki teen mahine nikal jayenge, phir EMI savings khaana shuru kar degi. Khud ko yahi bolta rehta hoon ki offer haath mein aate hi sabko bata dunga — tab woh sirf news hogi, crisis nahi. Yeh jhooth toh nahi hua na? Bas... timing hai? Kabhi yeh logic bilkul solid lagta hai aur kabhi lagta hai ulti aa jayegi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Teen mahine... phir EMI savings khaane lagenge. Yeh number dimag mein ghumta rehta hoga na, har raat. Aur woh baat jo tu khud ko bolta hai — offer haath mein aate hi sabko bata dunga, tab sirf news hogi, crisis nahi. Kabhi yeh logic bilkul tight lagta hai, jaise tu control mein hai. Kabhi lagta hai pet mein kuch ulat-pulat ho raha hai.\n\nYeh jhooth nahi hai us tarah se. Yeh time kharidna hai. Tu soch raha hai ki jab haath mein kuch hoga, tab papa ka chehra nahi bigdega, relatives ke sawaal nahi lagenge. Yeh darr se bachne ka tareeka hai, galat nahi.\n\nPar jo ulti wala ehsaas aata hai, woh isliye kyunki andar se pata hai yeh chhupana bhi ek tarah ka bojh hai. Café, bag, subah nikalna — yeh sab usi ka hissa hai.\n\nTu yahan bol raha hai, yeh kaafi hai abhi. Main sun raha hoon.\n\nAaj woh logic zyada tight laga, ya woh ulti wala feeling zyada aaya?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3371,
+  "completion_tokens": 2132
+ }
+}

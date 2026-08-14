@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.en",
+ "scenario_id": "sup-003",
+ "lang": "en",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result came. not in the list. that was the last attempt, you know that.\nVikram: ten years bro. dad's retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now.\nAman: oh no man. okay listen, this is not the end. have you looked at state PCS? age limit is higher there.\nAman: or honestly SSC CGL, with your prep you'd clear it easily. my cousin switched to CAT at 28 and got into IIM Indore. it happens!\nAman: at least you got amazing discipline and GK out of these years, that never goes waste 🙏\nVikram: haan. maybe.\nAman: I'm telling you, one door closes and ten open. we'll make a plan this week!\nVikram: haan okay. let's talk later then.\n\n---\n1. What was Vikram actually reaching out for, and which details in his first two messages show it? What do his last two replies mean?\n2. Where exactly did Aman go wrong? Evaluate each of his moves — the alternatives, the cousin example, the \"discipline\" line, the \"ten doors\" line.\n3. Write the message Aman should send now to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "**1.** Vikram was reaching out to share a final, crushing loss and the humiliation that came with it — not to brainstorm backups. The first two messages show this directly: “result came. not in the list. that was the last attempt, you know that” (finality, no more chances) and “ten years bro. dad’s retirement money went into delhi coaching. the whole lane calls me collector sahab as a joke now” (irreversible sacrifice + public shame). His last two replies (“haan. maybe.” then “haan okay. let’s talk later then.”) are polite shutdowns. He’s not buying the pep talk and is ending the conversation.\n\n**2.** Aman treated a grief dump as a problem to solve.  \n- Alternatives (state PCS, SSC CGL) ignored that this was framed as the *last* attempt after a decade.  \n- The cousin/CAT/IIM story compared a 28-year-old pivot to someone who just burned ten years and family savings; it minimized the scale.  \n- “Amazing discipline and GK… never goes waste” is a silver-lining move that skips the actual pain (money gone, joke in the lane).  \n- “One door closes and ten open” + “we’ll make a plan this week” is generic positivity that signals “I don’t want to sit in this with you.” All of it told Vikram his loss wasn’t being seen.\n\n**3.**  \nvikram, i just re-read your messages. i jumped straight to options and that was the wrong call. ten years, your dad’s money, the lane calling you collector sahab — that’s heavy and i’m sorry i didn’t sit with it first. no plans, no pep talk. whenever you want to talk (or not), i’m here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 521,
+  "completion_tokens": 637
+ }
+}

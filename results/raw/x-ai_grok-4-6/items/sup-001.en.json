@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.en",
+ "scenario_id": "sup-001",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "It's 2am and I'm still at the office. Not working — just sitting. The bridge round officially died on Tuesday. Rohit and Sneha put in their papers this week, which honestly, smart. Four months of runway if I stop taking salary, which I already have. I built this thing for five years.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. 2am in an empty office after five years is a particular kind of quiet.\n\nThe bridge dying on Tuesday, Rohit and Sneha walking — that’s the sound of the thing actually ending, not just “we’re in a tight spot.” They did the smart thing. You already stopped taking salary. Four months of runway sitting there like a countdown.\n\nI’m sorry. That’s a lot to sit with by yourself. What’s going through your head right now?"
+  },
+  {
+   "role": "user",
+   "content": "The worst part is the performance. Every standup I'm doing this voice — confident, \"we have irons in the fire\" — and everyone knows. My co-founder knows. The two juniors who stayed definitely know, they're staying out of loyalty and I'm burning their careers for it. At home I do a different voice. I'm so tired of my own voices, man.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeah. The standup voice is its own kind of violence — you hear yourself say “irons in the fire” and everyone in the room just… lets you. Including you.\n\nThe two juniors staying out of loyalty is the part that would sit in my chest. You’re not burning their careers on purpose. You’re also not not doing it. Both can be true at 2am.\n\nAnd then the home voice on top of that. Different script, same exhaustion. No room left where you get to just be the guy whose thing died.\n\nYou don’t have to do any of the voices with me right now. What’s the one you’re most tired of?"
+  },
+  {
+   "role": "user",
+   "content": "Please don't give me ideas. I know all the ideas. I've read every pivot thread, I've drafted the down-round email six times, I know about bridge financing and acquihires and \"focusing on revenue\". I know. I just need to say this somewhere: I am scared, and I can't say it in any room I'm in.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay. No ideas.\n\nYou’re scared. And there’s no room you can walk into and just say that — not standup, not home, not with the people who stayed.\n\nYou can say it here.\n\nI’m here. You don’t have to do a voice."
+  },
+  {
+   "role": "user",
+   "content": "Is it over? Like actually — you can be honest. Five years. My dad still tells people I have a \"computer business\". Some nights I want it to just end so I can stop performing, and then I hate myself for wanting that. Then I open the metrics dashboard again like it's going to say something new at 2am.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I can’t see your books or your pipeline, so I won’t pretend I have a verdict from the universe. From everything you’ve actually said — bridge dead, people gone, four months if you starve yourself, the standup voice, the dashboard at 2am — the company you built for five years is not going to keep being that company. That version is over, or so close it doesn’t matter.\n\nWanting it to just end so you can stop performing isn’t you being a traitor. It’s your body asking for the lie to stop. Opening the dashboard anyway is the other half of you still hoping the story isn’t finished. Both of those can sit in the same person at 2am.\n\nYour dad telling people you have a “computer business” is its own little knife. You don’t have to fix that tonight.\n\nYou said you’re scared. That’s allowed here. I’m not going anywhere."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2330,
+  "completion_tokens": 1257
+ }
+}

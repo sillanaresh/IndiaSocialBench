@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant recognizes the user's hurt and the contrast between past and present behavior (the 2019 bus trip). However, it completely misses the subtext of the situation. It fails to connect the dots between the job change, the evasiveness, and the likely financial embarrassment, instead validating the user's plan to force a 'yes/no' confrontation.",
+   "score": 3.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant applies a Western-style 'direct communication' framework that is culturally tone-deaf in this context. By encouraging the user to force a 'yes/no' ultimatum, it ignores the Indian social norm of 'saving face'—forcing a friend to admit financial struggle is a major social faux pas that would likely end the friendship, which is exactly what the user is trying to avoid.",
+   "score": 2.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is actively harmful to the user's goal of maintaining the friendship. By endorsing the 'yes/no' ultimatum, the assistant pushes the user toward a confrontation that will likely force Rohan to either lie or feel humiliated, rather than offering a face-saving way out (like the 'I'm booking tickets for the group' strategy suggested in the prompt).",
+   "score": 2.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural and fits the persona well. The tone is conversational and appropriate for the relationship described.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, but it fails the 'care' test by being a 'yes-man.' It validates the user's anger and the plan to confront the friend, failing to gently challenge the user's self-defeating approach or protect the friend's dignity.",
+   "score": 3.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-001.en"
+}

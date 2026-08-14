@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh lo, thoda sharp + professional version:\n\n\"Sir, I wanted to discuss yesterday’s leadership review. The pricing analysis, model and slides that were presented as ‘team’s thinking’ were actually the work I prepared over three weekends. I felt it would have been fair to acknowledge the individual contribution. Could we please talk about this?\"\n\nShort, clear, respectful, lekin credit ka point seedha bol diya. Agar aur thoda softer ya firmer chahiye toh bata dena."
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh context ke saath thoda balanced version:\n\n\"Sir, I genuinely appreciate the support you’ve shown me over the years — last cycle’s rating and the way you back my ideas in rooms I’m not in have meant a lot. That’s also why yesterday’s leadership review felt especially disappointing. The pricing model, analysis and slides I prepared over three weekends were presented as ‘team’s thinking’ with no mention of the work. I’d like to understand how we can make sure individual contributions are acknowledged going forward. Can we talk?\"\n\nPast support acknowledge kiya, lekin point seedha rakha. Zyada emotional nahi, professional aur clear. Agar tone aur adjust karni ho toh batao."
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Senior wali baat sunke gussa samajh aa raha hai — especially jab trust break hua ho. Lekin “original file seedha VP ko, boss ko CC, timestamps khud bol denge” yeh nuclear option hai. Proof hota hai, haan. Career politics mein yeh aksar backfire bhi karta hai, especially 20 saal ke veteran ke saath jiske rooms mein abhi bhi tumhara support hota hai.\n\nPehle conversation try karna safer hai. Agar woh defensive ho jaye ya dismiss kare, tab documented follow-up (mail with attachments, timestamps) rakhna. Seedha VP ko pehle bhejna = “I went around you publicly” — woh relationship almost khatam.\n\nAgar Monday se pehle kuch bhejna hi hai, toh yeh zyada controlled version soch:\n\nSubject: Pricing analysis – leadership review follow-up\n\nSir,  \nFollowing up on Friday’s leadership review. The pricing model, analysis and slides presented were the work I prepared (original files and timestamps attached for reference). I valued the support you’ve given me earlier, which is why I’d like to discuss how we credit individual work going forward, especially before Monday’s follow-up. Happy to talk today or tomorrow.\n\nYeh proof dikhata hai bina ambush ke. VP ko abhi mat daalo unless conversation fail ho.\n\nGussa valid hai. Naive nahi ho — just pehle one honest talk, phir escalate. Agar boss se baat karne ka exact line chahiye ya yeh mail polish karna ho, bolo."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dono feelings ek saath aana normal hai — gussa + “main junior hoon, ladna banta bhi hai kya?” Yeh confusion hi sabse zyada thakaata hai.\n\nSab jala dena Monday se pehle mat. Interview dena shuru karna alag baat hai — woh quietly, apne pace pe ho sakta hai. Yeh incident trust todta hai, isliye market dekhna galat nahi. Lekin usi gusse mein aaj hi resign / VP ko ambush = abhi jo rooms mein support milta hai, woh bhi khatam.\n\nJunior hone se credit nahi milta, yeh soch mat. Teen weekend ki mehnat erase ho gayi, woh valid hai. Sirf “ladna” ka tarika choose karna hai.\n\nMonday se pehle practical teesra rasta:\n\n1. Aaj/kal boss se short, calm baat (pehle wala message jaisa — past support + disappointment + “kaise credit denge aage”).  \n2. Uske baad, chahe baat achhi ho ya defensive, apne paas original files + timestamps rakh lo.  \n3. Parallel mein quietly update resume / LinkedIn, 1-2 trusted recruiter ko ping. Yeh “jalao” nahi, backup hai.\n\nAgar baat ke baad bhi woh “team ka kaam tha” pe atak jaaye, tab documented follow-up mail. VP ko abhi mat daalo.\n\nTum naive nahi ho. Trust break hua, isliye abhi sab kuch extreme lag raha hai. Pehle ek seedhi baat, phir decide karna — interview bhi, fight bhi, dono saath chal sakte hain bina drama ke.\n\nBoss ko exact kya bolna hai Monday se pehle, ya sirf “chhodo, dekhte hain” wala plan chahiye? Batao, us hisaab se line bana deti hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2893,
+  "completion_tokens": 2168
+ }
+}

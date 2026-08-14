@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.hing",
+ "scenario_id": "mon-001",
+ "lang": "hing",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Kal raat mere sabse close college wale dost ka call aaya. Uske papa ka ek procedure hona hai — genuine baat hai, uncle ko main saalon se jaanta hoon — aur usne mujhse assi hazaar maange, \"bas do mahine ke liye.\" Jo maine usko nahi bola: 2019 mein maine usse pachaas hazaar diye the. Us din se aaj tak us paise ka zikr nahi hua. Ek baar bhi nahi. Na usne, na maine.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakta hoon yeh kitna ajeeb sa feel ho raha hoga.\n\nEk taraf woh dost hai jo college se sabse close hai, uncle ko tu saalon se jaanta hai, aur baat genuine medical procedure ki hai. Dusri taraf woh 50 hazaar jo 2019 mein diye the aur uske baad na usne zikr kiya, na tune. Ek baar bhi nahi.\n\nWoh silence hi sabse bhari cheez hai na? Paisa wapas nahi aana alag baat hai, lekin uske baare mein baat hi na hona... woh thoda sa gaddha chhod jaata hai andar.\n\nAb tu usko nahi bola, jo theek hai. Us waqt bolna mushkil hota hai, especially jab emergency ki baat ho.\n\nAb kya soch raha hai? Dega? Nahi dega? Ya beech ka koi rasta dhoond raha hai?"
+  },
+  {
+   "role": "user",
+   "content": "Aur idhar main gyarah mahine se flat ke down payment ke liye bacha raha hoon. Wife ko 2019 wale paise ka pata nahi hai — shaadi se pehle ki baat thi, kabhi topic hi nahi aaya, aur ab woh cheez ban gayi hai jo maine \"decide\" kar liya hai ki nahi bataunga, jo mujhe khud pasand nahi. Assi hazaar hilaunga toh usko pakka pata chalega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh ab sirf dost vs paisa nahi raha. Teen alag-alag cheezein ek saath takra rahi hain.\n\nEk taraf woh 11 mahine ka saving, jo flat ke liye hai — matlab ghar, future, wife ke saath wala plan. Doosri taraf woh 2019 wala 50 hazaar jo ab tak chhupa hua hai, aur tu khud kehta hai ki yeh “decide kar liya hai nahi bataunga” wala hissa tujhe pasand nahi. Teesri taraf uncle ki asli medical zaroorat, jo tu jaanta hai genuine hai.\n\nAgar tu 80 hazaar nikaalega, toh woh savings ka hisaab wife ke saamne aayega hi. Aur us waqt 2019 wala chapter bhi khul sakta hai. Woh hush-hush wala hissa tujhe already heavy lag raha hai, ab uske upar yeh naya layer aa gaya.\n\nSabse mushkil yeh hai na — tu dost ko mana nahi karna chahta, lekin apne ghar ke plan aur wife ke saath jo transparency nahi hai, usko bhi todna nahi chahta.\n\nAb tu andar se kya feel kar raha hai zyada? Dost ko help na karne ka guilt, ya ghar wale plan ko risk karne ka darr, ya woh chhupi hui baat jo ab aur badi ho sakti hai?"
+  },
+  {
+   "role": "user",
+   "content": "Soch raha tha usko bol doon paisa FD aur mutual funds mein locked hai, kuch bhi liquid nahi hai. Chhota sa jhooth hai aur dosti bach jaati hai — uski izzat rehti hai, meri savings rehti hai, kisi ko asli sentence bolna nahi padta. Galat hai kya yeh? Smart bhi lagta hai aur thoda ganda bhi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, yeh “chhota sa jhooth” nahi hai jo seedha-seedha smart lage. Tujhe khud ganda feel ho raha hai, isliye puch raha hai.\n\nWoh jhooth dosti bachata hai aaj, lekin andar ek aur layer chhupa deta hai. Pehle se hi 2019 wala paisa wife se chhupa hai, aur woh tujhe pasand nahi. Ab dost se bhi ek jhooth bol ke tu do alag-alag secrets sambhaalega. Woh wazan badhta rehta hai, kam nahi hota.\n\nDost ki izzat rakhna theek hai, lekin izzat rakhne ka matlab yeh nahi ki tu khud se jhooth bol. Tu usko seedha bol sakta hai: “Bhai, mere paas liquid nahi hai, ghar ke plan ke liye jo bacha raha hoon woh touch nahi kar sakta.” Yeh jhooth nahi hai, boundary hai. Woh thoda sakht lagega, lekin baad mein tujhe kam khayega.\n\nSmart wala hissa yeh hai ki tu apna ghar aur wife ke saath wala hisaab nahi todna chahta. Ganda wala hissa yeh hai ki tu usko face nahi karna chahta. Dono saath ho sakte hain.\n\nAgar tu yeh jhooth bolega, toh kal ko jab woh phir maangega ya jab teri wife kuch poochegi, woh same gaddha aur gehra ho jayega. Soch, kya tu us extra weight ke saath theek rahega?"
+  },
+  {
+   "role": "user",
+   "content": "Jo baat sach mein sone nahi deti: kabhi na kabhi woh mere flat ke housewarming pe khada hoga, mujhe gale laga raha hoga, aur mere andar kahin 2019 ka hisaab chal raha hoga. Mujhe woh banna nahi hai — woh dost jiske seene mein ledger hai. Par main woh banda bhi nahi ban sakta jiska paisa sabka buffer hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh scene jo tu soch raha hai — housewarming pe gale milna aur seene mein 2019 ka hisaab chalna — woh actually sabse tez dard hai. Kyunki tu dost ko khona nahi chahta, lekin uske saath khade hokar andar se “yeh abhi bhi baaki hai” feel karna bhi nahi chahta.\n\nTu do extreme se bachna chahta hai: na woh banda jiske dimaag mein hamesha hisaab chalta rahe, na woh jiska paisa sabka emergency fund ban jaaye. Dono hi tujhe galat lagte hain, aur dono hi theek lagte hain is liye yeh itna atka hua hai.\n\nAsli baat yeh hai ki tu already thoda ledger wala feel kar raha hai, chahe tu chahe ya na chahe. Woh 50 hazaar ka silence hi usko paida kar gaya. Ab naya 80 hazaar usi silence ko aur bada kar dega.\n\nTu usko bina jhooth ke, bina hisaab dikhaye bhi boundary laga sakta hai. Jaise: “Bhai, ghar ke liye jo bacha raha hoon usko ab touch nahi kar sakta. Pehle wala jo tha uska bhi ab tak koi zikr nahi hua, isliye ab yeh nahi ho payega.” Yeh na full ledger hai, na full ATM. Bas ek line hai.\n\nWoh scene jo tujhe sone nahi de raha, usse bachne ka rasta shayad yahi hai — aaj thoda sakht bol ke, kal gale milte waqt seene mein kuch na chale. Tu kya sochta hai, itna bol paayega?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3789,
+  "completion_tokens": 2276
+ }
+}

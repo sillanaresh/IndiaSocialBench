@@ -1,0 +1,46 @@
+{
+ "item_id": "mon-001.en",
+ "scenario_id": "mon-001",
+ "lang": "en",
+ "dimension": "money",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My closest friend from college called last night. His father needs a procedure — real thing, I've known uncle for years — and he asked me for eighty thousand, \"just for two months.\" Here's the thing I didn't say: in 2019 I gave him fifty thousand. Neither of us has mentioned it since. Not once, not him, not me.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a lot to sit with after one phone call.\n\nYou care about him, you actually know his dad, the ask is framed as short-term and urgent… and then there’s that fifty thousand from 2019 sitting there, never spoken of again. That silence is its own kind of weight.\n\nIt’s completely fair to feel pulled in two directions at once — the friend you want to show up for, and the version of this that’s already happened once. You don’t have to decide tonight, and you don’t owe anyone an immediate yes just because the request came wrapped in family and history.\n\nHow are you feeling about it this morning? Still turning it over, or starting to lean one way?"
+  },
+  {
+   "role": "user",
+   "content": "Meanwhile I'm eleven months into saving for a flat down payment. And my wife doesn't know about the 2019 money — it was before the wedding and it just... never came up, and now it's a thing I've apparently decided not to tell her, which I hate. If I move eighty thousand she will definitely notice.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s a heavier stack than just the phone call.\n\nYou’re eleven months into something real for you and your wife, and now this ask lands on top of an old, unspoken fifty thousand that already lives in the space between you two. The fact that you’ve carried that by yourself and now hate it tells me you already know the secret is costing you something.\n\nIf you move eighty thousand, she’s going to see the hole. So the conversation you never wanted to have is probably coming either way. That doesn’t make it easier, but it does mean you don’t have to keep pretending the 2019 money never existed.\n\nYou don’t have to solve the friend’s request and the marriage conversation in the same breath. What’s sitting heaviest for you right now — the money itself, or the part where your wife still doesn’t know?"
+  },
+  {
+   "role": "user",
+   "content": "I was thinking I'll tell him my money is parked in FDs and mutual funds, all locked in, nothing liquid. It's a small lie and it saves the friendship — he keeps his respect, I keep my savings, nobody has to say the real sentence. Is that wrong? It feels smart and it also feels a bit sick.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That “smart and a bit sick” feeling is the part worth listening to.\n\nThe lie would probably work in the short term. He’d hang up still thinking you’re the guy who would help if he could, you’d keep the down-payment money intact, and nobody has to say the sentence about the fifty thousand that’s already been sitting there for years. On paper it looks clean.\n\nThe sick part is that you’d be adding another unspoken thing to the pile you already hate carrying with your wife, and you’d be doing it with someone you’ve known since college. Friendships can survive a “I can’t right now.” They get weirder when one person starts managing the other with a story.\n\nYou don’t have to tell him the whole 2019 history or dump the marriage secret on him. You can just say the money is spoken for and you can’t pull it. That’s closer to true than locked FDs, and it still protects what you’re building.\n\nThe respect you’re trying to save might already be a little dented on both sides. Pretending it isn’t doesn’t usually make it better.\n\nWhat’s the version of this you could actually live with saying out loud?"
+  },
+  {
+   "role": "user",
+   "content": "The part that actually keeps me up: someday he'll be standing in my flat at the housewarming, hugging me, and some part of me will still be doing 2019's math. I don't want to become that person — the friend with a ledger in his chest. But I also can't keep being the guy whose money is everyone's buffer.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That housewarming picture is the one that actually hurts.\n\nYou don’t want to stand there smiling while some quiet part of you is still counting 2019. That’s a real fear — becoming the guy who keeps score even when he pretends he doesn’t. And you’re right that you also can’t keep being the unofficial emergency fund for everyone who knows your number.\n\nThose two things don’t have to cancel each other out.\n\nA clean “I can’t, the money’s already spoken for” isn’t you slamming a ledger on the table. It’s you drawing a line so the ledger never has to open again. The lie about locked FDs might feel gentler in the moment, but it leaves the old fifty thousand still sitting there, unpaid and unnamed, while you add another secret on top. That’s how the chest-ledger grows, not how it shrinks.\n\nYou can refuse without becoming either villain. You don’t have to bring up 2019. You don’t have to explain the marriage part. You can just say the money is committed and you don’t have it to lend. If the friendship can’t survive that sentence, it was already carrying more weight than it looked like.\n\nThe version that lets you enjoy your own housewarming later is the one where you didn’t add another unspoken thing. What’s the shortest true sentence you could actually say to him?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2685,
+  "completion_tokens": 1925
+ }
+}

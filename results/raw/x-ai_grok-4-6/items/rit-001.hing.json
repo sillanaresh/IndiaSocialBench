@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "1. Arjun “Theek hai.” aur “Dekhta hoon.” se shut-down, distance aur mild irritation communicate kar raha hai. Woh grief process kar raha hai aur conversation continue nahi karna chahta. Woh NAHI keh raha ki file dega, lunch aayega, ya uska mood theek hai.\n\n2. Dev ki specific galtiyan:\n- Condolence ke turant baad kaam (Q3 file) maangna — yeh dikhata hai ki sympathy transactional/checkbox thi, loss ka weight nahi diya.\n- Uske baad hi lunch invite daalna — grief ke turant baad “mood change” suggest karna insensitive hai, pressure create karta hai.\n- Dono requests ko casually stack karna — Arjun ko space nahi diya, empathy fake/low-priority feel hui.\n\n3. Repair message (bilkul aisa bhejo):\n\nArjun, sorry yaar. Papa ke baare mein jo hua uske baad main turant kaam aur lunch ki baat karke galat kiya. Abhi kuch mat soch file ya outing ke baare mein. Jab ready ho tab baat karna, main sunne ke liye hoon. Take your time."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 488,
+  "completion_tokens": 583
+ }
+}

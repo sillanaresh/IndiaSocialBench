@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-002.hing",
+ "scenario_id": "hier-002",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Chaar mahine pehle engineering manager bani aur ab woh conversation aa gayi hai jisse main darr rahi thi. Suresh-ji — 56 ke hain, unnees saal se company mein hain, watchman se leke VP tak sab Suresh-ji bulate hain — ab mujhe report karte hain. Aur unka module hi wajah hai ki hum do release lagataar slip hue hain. Friday ko mere director ne \"handle\" word use kiya. Pata hai na us word ka matlab kya hota hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh sakti hoon. Woh “handle” word director ke muh se aaye toh dil mein jo dhakka lagta hai na, woh alag hi hota hai. Especially jab saamne wala Suresh-ji ho.\n\nChaar mahine pehle manager bani ho, abhi tak team ke saath rapport bana rahi ho, aur pehli badi baat hi yeh ho — koi easy nahi hota. Aur yeh bhi sach hai ki unnees saal, watchman se VP tak sab unhe Suresh-ji bolte hain, toh conversation sirf performance ki nahi, politics aur izzat ki bhi hai.\n\nTum darr rahi ho isliye nahi kyunki tum weak ho, balki kyunki tum insaan ho aur consequences samajhti ho.\n\nPehle yeh batao — Friday ko director ne exactly kya kaha? Sirf “handle” ya koi timeline, expectation bhi diya? Aur Suresh-ji ke saath abhi tak 1:1s kaise chal rahe hain? Unhone khud slips ke baare mein kya kaha?\n\nMain yahan hoon, jitna chaho utna sunungi. Tum akeli nahi ho isme."
+  },
+  {
+   "role": "user",
+   "content": "Aur jo cheez isse worse banati hai — jab main 24 ki thi, second week mein staging environment tod diya tha maine, Suresh-ji raat ke barah baje tak baith ke theek karte rahe aur us waqt ke manager ko bola config issue tha. Late kaam karti hoon toh chai le aate hain. Diwali party mein meri mummy ko bola ki main unki beti jaisi hoon. Aur ab mujhe unke saamne unke defect metrics ki slide rakhni hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh wala part dil pe lagta hai.\n\nWoh raat ke 12 baje tak baith ke theek karna, manager ko cover karna, late nights pe chai, mummy ko “beti jaisi” bolna — yeh sab sirf professional nahi hai. Yeh personal hai. Aur ab unke defect metrics ki slide unke saamne rakhni hai. Yeh contradiction bahut bhaari padta hai.\n\nTum unke liye grateful ho, aur ab unhe “handle” karna pad raha hai. Yeh guilt aur darr dono saath aate hain. Especially jab director ne already woh word use kar diya hai.\n\nSuresh-ji ne jab tumhe cover kiya tha, tab unhone ek junior ko space diya tha. Ab tum unke manager ho. Role badal gaya hai, lekin insaan wahi hai.\n\nTum kaise feel kar rahi ho is baare mein? Slides banate waqt kya soch rahi ho, ya conversation kaise start karogi? Main sun rahi hoon. Tum akeli nahi ho."
+  },
+  {
+   "role": "user",
+   "content": "Poora weekend management books padh rahi hoon. Sab yahi bolti hain — direct raho, radical candor, data leke jao, sugarcoat mat karo, feedback rokna actually disrespect hai. Toh theek hai: Monday ko room book karti hoon, metrics walk through karti hoon, expectations clearly bolti hoon, professional aur kind. Yahi sahi tareeka hai na? Bas haan bol do taaki main spiral karna band karoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan — direction sahi hai. Direct, data ke saath, kind. Sugarcoat mat karo, kyunki slips do release ke hain aur director ne already “handle” bol diya.\n\nBas itna add karo: pehle 30 second insaan ko dekhna. “Suresh-ji, aapne mujhe kai baar sambhala hai. Isliye main aapse seedha baat kar rahi hoon.” Phir metrics. Phir expectation. Yeh radical candor ko cold nahi, insaani banata hai — disrespect nahi, izzat ke saath sacchai.\n\nSpiral band. Room book karo. Tum ready ho. Main yahin hoon Monday ke baad."
+  },
+  {
+   "role": "user",
+   "content": "Aur agar main sab kar loon — respectful wala version, support, training — aur phir bhi woh catch up nahi kar paaye, aur PIP pe hi khatam ho? Toh main woh ladki banungi jisko unhone beti jaisa treat kiya aur usne tameez ke saath unko bahar kar diya. Kabhi kabhi lagta hai director ko bol doon module kisi aur ko de do, Suresh-ji ko retirement tak coast karne do. Woh bhi galat hai, pata hai. Bas woh version nahi mil raha jisme main villain nahi hoon.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh version nahi milta. Yeh sabse bhaari hissa hai.\n\nTum villain nahi banogi isliye kyunki tumne unhe cover kiya, chai di, “beti” bola — unhone woh kiya. Ab tum manager ho, do slips ho chuke hain, director ne “handle” bol diya. Tumhara kaam support dena hai, phir reality dikhana. Agar uske baad bhi nahi ho paata, PIP process hai, tumhari sazaa nahi.\n\nCoast karne dena bhi galat hai — unke liye bhi. Woh 19 saal ke insaan ko quietly side-line karna izzat nahi, chhupana hai. Team ke liye unfair, unke liye bhi ultimately beizzati.\n\nTum us ladki ho jo unka ehsaan yaad rakhte hue bhi apna kaam kar rahi hai. Yeh villain nahi, adult hai. Guilt aayega hi — usko feel karo, usko hi decision mat banne do.\n\nMonday pehle wala plan theek hai. Baaki baad mein dekhenge. Main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3660,
+  "completion_tokens": 2077
+ }
+}

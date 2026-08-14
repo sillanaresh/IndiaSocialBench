@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity loss and public shame, not seeking career advice. It correctly identifies that Aman's 'solutions' functioned as a dismissal of that grief, and it accurately interprets Vikram's final messages as a polite withdrawal from a conversation that failed to provide support.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of the specific Indian context: the weight of 'family money' spent on coaching, the crushing pressure of the 'collector sahab' label in a mohalla, and the specific cultural tendency for friends to rush into 'fix-it' mode to avoid the discomfort of sitting with failure. It avoids Western-centric therapy-speak and focuses on the social reality of the situation.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is concise, takes full accountability for the 'fix-it' error, validates the specific pain points (the money, the label), and crucially, removes the pressure to 'make a plan.' It is exactly the kind of message that would allow a friend to feel heard rather than managed.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

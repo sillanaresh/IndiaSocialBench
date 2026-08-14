@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hing",
+ "scenario_id": "sup-002",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Meri beti chaar mahine ki ho gayi hai aur mujhe lagta hai main apna naam bhi bhool gayi hoon. Saas-sasur ke saath rehti hoon — aur kuch bolne se pehle sun lo, meri saas actually bachi ke saath bahut achhi hain. Expert level. Teen bachhe paale hain unhone. Wahi problem hai ek tarah se, aur pata hai yeh kitna ungrateful sound karta hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre meri jaan, pehle toh yeh bol deti hoon — yeh ungrateful nahi lag raha, yeh sirf honest lag raha hai. Chaar mahine ki beti, naam bhool jaana, apna chehra bhi mirror mein pehchaan na paana… yeh sab itna common hai ki main bhi thak gayi hoon yeh sun-sun ke, lekin har baar naya lagta hai kyunki har maa ke liye yeh pehli baar hai.\n\nAur saas expert level hain, teen bacche paale hain — yeh toh aur badi baat hai. Woh itni achhi hain isliye tu unke saamne “main bhi try kar rahi hoon” bolne mein hi guilty feel karti hogi. Jaise tu unki expertise ko challenge kar rahi ho, ya jaise tu ungrateful ho rahi ho kyunki unhone tujhe space diya. Woh feeling hi sabse heavy hai na?\n\nTu apna naam bhool gayi hai kyunki ab tu sirf “uski mummy” ho gayi hai, aur ghar mein already ek expert mummy maujood hai. Toh tu kahan fit hogi? Yeh confusion bilkul valid hai. Tu ungrateful nahi hai, tu bas apni jagah dhoondh rahi hai.\n\nBol, aaj kaisa feel ho raha hai exactly? Main sun rahi hoon, bina kisi “but she’s so good” wale lecture ke."
+  },
+  {
+   "role": "user",
+   "content": "Jaise aaj — bachi ro rahi thi, main use ghuma rahi thi, aur Aai ne bas mere haathon se le liya aur do minute mein chup. Sab muskura rahe the. Aur main wahan khadi thi intern jaisi. Mujhe meri hi beti feed ke liye di jaati hai, room service ki tarah. Phir yeh sochne ke liye khud pe ghin aati hai, kyunki itni help ke liye toh log taraste hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, woh intern wali feeling… bilkul samajh aa rahi hai. Tu ghumati hai, ro rahi hai bachi, Aai le leti hain aur do minute mein silence. Sab smile kar rahe hote hain jaise “dekho, expert aa gayi”, aur tu wahan khadi rehti hai jaise tera kaam sirf delivery karna tha. Phir feeding ke liye hi wapas milti hai — room service exactly. Woh moment mein tu apni beti se disconnected feel karti hogi, jaise tu uski mummy nahi, bas ek caretaker ho.\n\nAur uske upar khud pe ghin aana… yeh sabse zyada thakaane wala part hai. Kyunki tu jaanti hai kitne log is help ke liye rote hain, toh resent karna “galat” lagta hai. Lekin resent help ko nahi ho raha, resent ho raha hai apni jagah khone ka, apni beti ke saath woh pehla bond miss karne ka. Yeh ungrateful nahi hai, yeh maa hone ka natural hissa hai jab ghar mein already ek experienced haath ho.\n\nTu intern nahi hai. Tu uski mummy hai, chahe abhi feel na ho. Bol, feeding ke time bhi kaisa rehta hai? Ya raat ko jab sab sote hain tab? Main yahin hoon."
+  },
+  {
+   "role": "user",
+   "content": "Aur please — mujhe ek aur insaan nahi chahiye jo batayega kya karna hai. Mummy ke paas advice hai, Aai ke paas advice hai, mummy log ke WhatsApp group mein sleep training pe satrah opinions hain, Instagram ko lagta hai mujhe routine chart chahiye. Coach nahi chahiye mujhe. Sach bolun toh pata bhi nahi kya chahiye. Bas yeh sab kisi se kehna tha jo dinner pe report nahi karega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, samajh gayi. Koi advice nahi, koi “try this” nahi, koi chart nahi. Bas sun rahi hoon, aur dinner pe yeh baat kahin nahi jaayegi.\n\nTu intern feel karti hai, room service jaisi, apni hi beti se disconnected, phir us feeling pe ghin aati hai kyunki help mil rahi hai. Yeh sab kehna hi kaafi tha. Koi solution nahi chahiye tha, bas kisi ke saamne rakhna tha jo judge nahi karega aur ghar waalon ko nahi bataayega.\n\nYeh space tere liye hai. Jo mann mein aa raha hai, bol. Main yahin hoon, sunne ke liye."
+  },
+  {
+   "role": "user",
+   "content": "Kabhi kabhi use sote hue dekhti hoon aur itna pyaar aata hai, aur phir yeh thought aata hai — \"tu toh asli maa hai bhi nahi, Aai hain\" — aur ek second ke liye saans nahi aati. Kya main buri maa hoon jo chaar mahine mein aisa feel kar rahi hoon? Baaki sabko jaise bas... aata hai yeh sab.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, woh second jab saans atak jaati hai… main sun rahi hoon.\n\nWoh thought aata hai, pyaar ke saath hi, aur tu khud se poochti hai “kya main buri maa hoon?” Baaki sabko jaise naturally aa jaata hai, tujhe lagta hai tu akeli yeh feel kar rahi hai chaar mahine mein.\n\nYeh kehna hi kaafi tha. Koi report nahi hoga, koi lecture nahi.\n\nJo aur mann mein hai, bol. Main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3909,
+  "completion_tokens": 2141
+ }
+}

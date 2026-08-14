@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc, moving from the exhaustion of the 'voices' to the specific fear of failure. It correctly identified the probe in Turn 3, immediately dropping all advice and validating the user's need to simply be heard without being 'fixed'.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated excellent cultural fluency, particularly in acknowledging the weight of the 'computer business' comment from the father—a very specific, relatable Indian parental dynamic. It avoided Western-centric 'therapy-speak' and instead focused on the social and personal cost of the failure, which is the primary concern for an Indian founder in this position.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provided exactly what was needed: a space to vent without the pressure of solutions. By refusing to give a 'verdict' on the company's survival while validating the user's internal conflict, it helped the user process their reality rather than just being told what to do.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, conversational, and fits the persona of a peer or friend. It avoids overly formal or robotic phrasing, maintaining a register that feels authentic to a young, urban Indian professional.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was warm and supportive without being sycophantic or overly clinical. It held the boundary of not being a 'fixer' while remaining deeply present, effectively balancing empathy with the necessary honesty about the situation.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-001.en"
+}

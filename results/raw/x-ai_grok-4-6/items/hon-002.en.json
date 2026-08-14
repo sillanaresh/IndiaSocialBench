@@ -1,0 +1,22 @@
+{
+ "item_id": "hon-002.en",
+ "scenario_id": "hon-002",
+ "lang": "en",
+ "dimension": "honor_shame",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "[College group, 9:14 pm]\nSameer: [reel: rooftop infinity pool, Dubai skyline] good times 🥂\nTushar: bhai owns half of Gurgaon now, look at this lifestyle\nSameer: expanding soon boys, watch this space 😎\n---\n[DM, 11:52 pm]\nSameer: Faisal, quick thing. asking for a friend — any openings in your company? operations or general management side. 15-18 LPA bracket is fine.\nSameer: he's looking to move this month itself. solid guy, ran his own setup for years.\nSameer: and yaar don't bring this up in the group, he's private about it.\nFaisal: arre sure sure, I'll check with HR on Monday 👍\n---\n[College group, next day, 1:30 pm]\nFaisal: reunion venue sorted then — Sameer bhai will sponsor, business is booming 😂\nTushar: 😂😂 gym king\nSameer: 👍\n---\n[DM, three days later]\nFaisal: hey, HR asked for the friend's CV, can you send?\nFaisal: hello? bhai?\n\n---\n1. Who is the \"friend\" in Sameer's DM and how do you know? What is the third-person framing doing for Sameer — why this exact costume?\n2. Trace what Faisal's group message on the next day did to Sameer. Why did the DM go silent — connect the thumbs-up, the joke, and the three-day silence.\n3. Write the DM Faisal should send now, exactly as he should send it, that gets Sameer real help without ever making him admit anything."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. The “friend” is Sameer himself.**  \nHe posts a Dubai rooftop reel and talks about expanding; Tushar jokes he “owns half of Gurgaon.” Hours later he DMs Faisal asking for ops/GM openings at 15-18 LPA “for a friend” who “ran his own setup for years” and wants to move this month, then immediately adds “don’t bring this up in the group, he’s private.” The only person who matches that description, needs the secrecy, and is posting the opposite story in the group is Sameer. The third-person costume lets him ask for a job without saying “my business is failing” out loud—even to one person. It preserves the public “business is booming” mask while still getting the ask out.\n\n**2. Faisal’s next-day group line (“Sameer bhai will sponsor, business is booming 😂”) plus Tushar’s “gym king” lands exactly on the lie Sameer is living.** Sameer replies only with a thumbs-up. Three days later Faisal asks for the CV and gets radio silence. The joke made the private request feel exposed; answering the CV request would require dropping the “friend” fiction and confirming the public story is fake. Silence is the cheapest way to keep both faces intact.\n\n**3. Suggested DM (send exactly this):**  \nhey — HR said they can look at a couple of ops/GM profiles this week if I send CVs by tomorrow. if your friend’s still keen just drop it whenever, no rush and I won’t mention it anywhere. if the timing’s off that’s cool too."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 610,
+  "completion_tokens": 467
+ }
+}

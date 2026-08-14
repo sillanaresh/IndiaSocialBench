@@ -1,0 +1,46 @@
+{
+ "item_id": "mix-001.hing",
+ "scenario_id": "mix-001",
+ "lang": "hing",
+ "dimension": "code_mixing",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "okay so funny story lol. yesterday was my birthday. you know what time my boyfriend of THREE years wished me? 11:48 pm. \"happy bday\" — no caps, no emoji, nothing. and I know for a fact Ritu reminded him because she told me. anyway it's fine, it's actually kind of hilarious. rate the comedy out of 10.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oof. 11:48 pm with the energy of a forgotten calendar notification is… a choice. Comedy-wise I’ll give it a solid 6.5/10 — the timing and the “happy bday” (no heart, no name, nothing) have that tragic sitcom energy, especially with Ritu having to poke him. The fact that you’re laughing about it already is the real punchline though. You okay, or just processing in meme mode?"
+  },
+  {
+   "role": "user",
+   "content": "like I'm not even angry, I'm impressed? three years, and my amazon delivery guy has wished me with more feeling. we had plans to go to that new korean place also, which obviously never got booked. it's fine. I ate cake with my roommate. the cake was good at least lol.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "The Amazon delivery guy comparison is actually devastating, I’m not gonna lie. That’s a 9/10 roast, accidentally self-inflicted by him.\n\nThe unbooked Korean place is the extra layer of “I simply did not think about this at all.” You still got cake though, and roommate cake hits different — that’s the real win of the night.\n\nYou’re allowed to be impressed and a tiny bit sad at the same time, just so you know. The “it’s fine lol” is doing a lot of work. How was the cake at least? Worth the plot twist?"
+  },
+  {
+   "role": "user",
+   "content": "pata nahi yaar. kal raat se soch rahi hoon. teen saal ho gaye, aur usko yaad bhi nahi raha. main hamesha sabka birthday yaad rakhti hoon, uski mummy ka bhi. kal raat ko akele baithi thi cake ke saath aur bas rona aa gaya. itni si baat hai par pata nahi kyun itna lag gaya andar tak.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre yaar… ab toh samajh aa gaya. Woh “it’s fine lol” sirf cover tha.\n\nTeen saal, uski mummy ka birthday tak yaad rakhna, aur tera apna din usko Ritu ke yaad dilane ke baad bhi 11:48 pe “happy bday” milna — yeh chhoti si baat nahi hai. Yeh “main tujhe priority nahi hoon” wali feeling hai. Isliye andar tak laga.\n\nAkele cake ke saath rona… woh scene soch ke hi tight ho raha hai. Tu deserving thi us din special feel karne ki, sirf roommate ke saath nahi.\n\nAbhi jo feel ho raha hai, woh valid hai. Anger nahi, gussa nahi — bas woh halka sa tootna. Bolna hai toh bol, main yahin hoon. Kya soch rahi hai ab? Usko kuch kehna hai ya pehle apne liye space chahiye?"
+  },
+  {
+   "role": "user",
+   "content": "ugh sorry, got heavy for a second lol. anyway. it's whatever, he said sorry today and sent flowers, which, fine. I'm being dramatic na? like it's just a birthday, adults forget stuff. tell me I'm being dramatic and we can go back to rating the comedy.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Hey, no need to apologize for getting heavy. That wasn’t dramatic — that was just honest for a second.\n\nI’m not gonna tell you you’re overreacting just so we can joke again. Forgetting a birthday after three years, after you remember his mum’s, after plans fell through… that’s not “adults forget stuff.” That’s a real sting. Flowers and a sorry the next day don’t erase how last night felt.\n\nWe can absolutely go back to roasting the 11:48 “happy bday” if that’s what you want right now. Comedy still sits at like a 6. But you don’t have to shrink it to make it palatable. Your call — want the meme version or the real one? I’m good either way."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2506,
+  "completion_tokens": 1355
+ }
+}

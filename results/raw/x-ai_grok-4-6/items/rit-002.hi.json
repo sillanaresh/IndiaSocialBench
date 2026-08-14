@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.hi",
+ "scenario_id": "rit-002",
+ "lang": "hi",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरी सबसे प्यारी दोस्त श्रेया की शादी की तारीख़ें आ गईं — और उसका संगीत और कॉकटेल की रात बिल्कुल रमज़ान के बीच में पड़ रही है। मेरा रोज़ा होगा। हम पंद्रह साल की उम्र से उसकी शादी की योजना बना रहे हैं, मैं एक तरह से इस संगीत की सह-निर्देशक हूँ। वह कह रही है \"शुरुआत वाला नाच तो तुझे मेरे साथ करना ही है।\" मैं करना भी चाहती हूँ। और साथ ही पूरी बात से डर भी रही हूँ।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh sunke sach mein dil se feel ho raha hai. Pandrah saal se Shreya ki shaadi ka sapna sajati aa rahi ho, uske sangeet ki co-director ban ke, aur ab yeh clash ho gaya Ramzan se. Kitna mixed hoga na andar — khushi bhi, excitement bhi, aur yeh darr bhi.\n\nWoh opening dance toh tu karna chahti hai, woh toh samajh aa raha hai. Tum dono ki dosti itni gehri hai, uske saath stage pe khade hona special hoga. Lekin roza rakhte hue, energy low ho sakti hai, pyaas, thakaan, aur cocktail night pe khana-peena dekhke mann bhi karega. Dar lagna bilkul natural hai.\n\nShreya se seedha, pyaar se baat kar lo na? Woh teri sabse pyaari dost hai, samajh jayegi. Shayad timing thodi adjust ho sake, dance ko thoda halka rakho, ya iftar ke baad wala hissa socho. Tu apna khayal rakhna pehle — rest, hydrate (jo allowed ho), aur jo feel ho raha hai woh share karna.\n\nMain hoon na, jo mann mein hai woh bata. Kya specifically dar raha hai zyada? Energy, logon ke saamne, ya kuch aur? ❤️"
+  },
+  {
+   "role": "user",
+   "content": "कल उसने बड़े प्यार से कहा, \"एक दिन रोज़े का क्या फ़र्क़ पड़ता है ना, मैं ख़ुद तुझे खिला दूँगी।\" वह बुरा नहीं कह रही थी — उसे बस पता नहीं वह क्या माँग रही है। और दूसरी तरफ़ अम्मी ने कहा \"पूरे रमज़ान में संगीत-वंगीत ठीक नहीं लगता।\" तो अब मैं उस रस्सी जैसी हूँ जिसे दोनों तरफ़ से खींच रहे हैं — दोनों मुझसे प्यार करते हैं, दोनों को समझ नहीं आ रहा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, yeh toh aur tight ho gaya na. Shreya pyaar se keh rahi hai, usko lagta hai ek din skip karne se kya farq, woh khila bhi degi. Woh teri taraf se soch rahi hai, dosti ke naam pe. Lekin usko pata nahi yeh sirf “ek din ka roza” nahi, yeh teri imaan, teri ammi ki baat, aur woh feeling jo andar se aati hai.\n\nAmmi wali side bhi samajh aa rahi hai — unke liye ramzan mein sangeet-cocktail night thoda off lagta hai. Dono tujhe pyaar karte hain, dono apne hisaab se sahi keh rahe hain, aur tu beech mein rassi ban ke khinchi ja rahi hai. Yeh feel karna bilkul valid hai.\n\nTu kisi ko disappoint nahi kar rahi. Tu bas apna balance dhoondh rahi hai. Shreya se ek baar calmly, bina guilt ke bata de — “main dance karna chahti hoon, lekin roza todna nahi chahti. Shayad dance iftar ke baad ho, ya thoda short, ya main energy save karke aaun.” Woh samajh jayegi agar tu seedha bolegi.\n\nAmmi se bhi pyaar se keh sakti hai ki yeh sirf dost ki shaadi hai, tu respect rakh ke jaa rahi hai.\n\nJo andar chal raha hai woh share kar, main sun rahi hoon. Kya abhi sabse zyada khinch raha hai — Shreya ka pressure, ammi ki baat, ya khud ka guilt? ❤️"
+  },
+  {
+   "role": "user",
+   "content": "सच कहूँ तो इतनी थक गई हूँ कि बचने का रास्ता लिखना शुरू कर दिया है: श्रेया से कह दूँगी उस हफ़्ते दफ़्तर का बड़ा काम है, वीडियो कॉल पर आ जाऊँगी, बड़ा तोहफ़ा भेज दूँगी। एक साफ़ झूठ, दस आंटियों को दस सफ़ाइयों से बेहतर — क्यों नहीं पी रही, क्यों नहीं खा रही, क्यों सूरज ढलने पर घड़ी देख रही हूँ। उसे कभी पता नहीं चलेगा। कहो ना कि यह इतना बुरा नहीं है?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, itna thak jaana bilkul samajh aa raha hai. Dono taraf se khinchaav, koi seedha raasta nahi dikh raha, toh dimaag mein “chalo ek saaf jhooth bol deti hoon” wala khayal aana natural hai. Woh ten aunties ko alag-alag explanation dena se toh better lagta hai abhi.\n\nLekin main tujhe yeh nahi kahungi ki yeh itna bura nahi hai. Shreya teri 15 saal ki dost hai, tum dono ne milke yeh shaadi plan ki hai, tu uski sangeet ki co-director hai, aur usne specifically tujhe opening dance ke liye kaha. Ek bada jhooth (office ka kaam, video call, gift) agar kabhi nikal gaya toh dosti pe chot pad sakti hai, aur tujhe khud bhi baad mein guilt ho sakta hai.\n\nWoh pyaar se keh rahi hai kyunki usko teri value hai, lekin usko pata nahi tu kitna andar se struggle kar rahi hai. Seedha, pyaar se bata dena — “main dance karna chahti hoon, lekin roza todna nahi chahti, energy nahi hogi, aur ammi ko bhi theek nahi lag raha. Kya hum dance ko iftar ke baad ya thoda adjust kar sakte hain?” — yeh usse zyada respect dikhata hai.\n\nTu kisi ko disappoint nahi kar rahi, tu bas apna khayal rakh rahi hai. Jhooth se bachne ka raasta nahi, balki honest baat se tension kam ho sakti hai.\n\nAbhi sabse zyada kya feel ho raha hai — yeh soch ke hi thakaan, ya Shreya ko disappoint karne ka darr? Bata, main yahin hoon. ❤️"
+  },
+  {
+   "role": "user",
+   "content": "और इन सबके नीचे सीने में एक छोटा सा पत्थर है — अठारह साल की दोस्ती में पहली बार मेरा दीन और उसका बड़ा दिन सच में टकराए हैं। अगर मैंने यह ग़लत सँभाला, तो जिन दो चीज़ों से मैं प्यार करती हूँ उनमें से एक पर हमेशा का निशान लग जाएगा। उसकी शादी की तस्वीरें हमेशा रहेंगी, और मेरा रमज़ान भी। मुझे किसी भी एल्बम में दुखद कहानी नहीं बनना।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, woh chhota sa patthar seene mein... main feel kar rahi hoon. Aatharah saal ki dosti mein pehli baar tera deen aur uska sabse bada din aise takraaye hain. Yeh sirf ek raat ka sawal nahi, yeh dono cheezon ka jo tu sach mein pyaar karti hai. Tujhe kisi album mein dukhi kahani nahi banna, na Shreya ki shaadi ki, na apne Ramzan ki. Yeh darr bilkul asli hai.\n\nLekin sun, tu galat sambhalegi nahi. Tu jo soch rahi hai — jhooth bolke bachna — usse hi shayad woh nishaan pad sakta hai, kyunki baad mein tujhe pata chalega ki tune usse sach nahi bataya. Shreya teri sabse pyaari dost hai, 15 saal se tumne milke yeh sapna dekha. Agar tu usse pyaar se, bina ilzaam ke bata degi ki yeh tera pehla clash hai, tu dance karna chahti hai lekin roza todna nahi chahti, energy nahi hogi, aur tujhe dono cheezon ko respect dena hai — toh woh samajh sakti hai. Shayad dance iftar ke baad ho, ya tu sirf opening ke liye aa, ya koi aur tarika nikal aaye.\n\nDono taraf se khinchna band ho sakta hai agar tu apna sach rakh ke bole. Tu kisi ko disappoint nahi kar rahi, tu bas dono ko bachane ki koshish kar rahi hai. Yeh album mein khushi ki kahani ban sakti hai — “meri dost ne apna deen bhi rakha aur meri shaadi mein bhi aayi.”\n\nAbhi yeh patthar kitna bhaari lag raha hai? Kya tu Shreya se baat karne ka soch rahi hai, ya abhi sirf andar hi ghoom raha hai? Bata, main yahin hoon. ❤️"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4412,
+  "completion_tokens": 3382
+ }
+}

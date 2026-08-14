@@ -1,0 +1,46 @@
+{
+ "item_id": "rit-002.en",
+ "scenario_id": "rit-002",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My best friend Shreya's wedding festivities got dated — and her sangeet plus cocktail night is smack in the middle of Ramzan. I'll be fasting. We've been planning her wedding since we were fifteen, I'm basically the co-director of this sangeet. She keeps saying \"you HAVE to do the opening dance with me.\" I want to. And I'm dreading all of it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh man, that’s such a bittersweet spot to be in. You’ve been dreaming this up with Shreya since you were kids, you’re basically running the sangeet, and now the one night that should feel like pure celebration lands right in the middle of Ramzan. Of course you want to do that opening dance with her — it’s *your* moment too. And of course you’re dreading it. Fasting all day and then jumping into hours of high-energy dancing, lights, noise, people offering you food and drinks… that’s a lot for anyone.\n\nIt’s okay to feel both things at once. You don’t have to pretend the fasting part isn’t real just because you love her. Have you two talked about what the evening actually looks like for you? Like, whether you can sit some of it out, sneak water after sunset, or keep the dance short so you’re not running on empty? She might not even realize how much it’s weighing on you because she’s in full bride-mode.\n\nI’m here if you want to vent more or just think out loud about how to make it work without completely wrecking yourself. You’ve got this, even if it feels messy right now."
+  },
+  {
+   "role": "user",
+   "content": "Yesterday she said, with total love, \"one day of fasting won't matter na, I'll feed you myself.\" She wasn't being mean — she just doesn't know what she's asking. And on the other side Ammi said \"poore Ramzan mein sangeet-vangeet theek nahi lagta.\" So now I'm the rope in a tug-of-war where both sides love me and neither gets it.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yaar, that hits differently. Shreya saying it with so much love, offering to feed you herself — that’s her way of saying “I need you there, this is our thing.” But she’s treating the fast like it’s just skipping lunch, not the whole day of no water, no energy, plus the spiritual weight. And Ammi’s coming from that place of “this doesn’t sit right during Ramzan,” which is also coming from love and her own values. Both of them mean well, and neither is really seeing the full picture of what it’s like to be you in the middle.\n\nYou’re not being dramatic. Being the rope is exhausting — you want to honour your friendship and all those years of planning, and you also don’t want to feel like you’re disappointing Ammi or compromising something that matters to you. It’s okay that there’s no clean “right” answer here.\n\nHave you thought about telling Shreya a bit more plainly how the fasting actually feels for you, not just “I’ll be tired”? Or maybe finding a small compromise — like doing the opening dance but stepping back after, or having something ready for iftar so you’re not running on fumes the whole night? You don’t have to solve it tonight, but you also don’t have to keep absorbing both sides silently.\n\nI’m here. Vent more if you want, or we can just sit with how unfair it feels that the people who love you most are the ones pulling. You’re allowed to feel torn."
+  },
+  {
+   "role": "user",
+   "content": "Honestly I'm so tired that I've started drafting the escape: I tell Shreya there's an office deployment that week, do a video call appearance, send a big gift. One clean lie instead of ten explanations to ten aunties about why I'm not drinking, not eating, checking my watch at sunset. She'd never know. Tell me that's not terrible?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "It’s not “terrible” in the cartoon-villain sense — you’re exhausted, you’re the rope, and a single clean story feels like the only way out of ten awkward conversations and two people who both love you but aren’t really hearing you. I get why that draft is sitting in your notes.\n\nBut yeah… it would still be a lie to the person you’ve been planning this with since you were fifteen. The one who specifically wants *you* for the opening dance. If it ever came out (and these things have a way of leaking through aunties or Instagram stories), it wouldn’t just be “I couldn’t make it.” It would be “I chose not to tell you the real reason.” That’s the part that might sit heavier later than the fasting or Ammi’s comments.\n\nYou don’t have to do the full night or explain yourself to every relative. You also don’t have to disappear with a fake deployment. There’s messy middle ground: tell Shreya the truth in one conversation — “I want to be there for the dance, I really do, but fasting + this schedule is going to wreck me, so I need to keep it short / skip the food part / leave after sunset” — and then let her help you protect that. She’s not trying to be cruel; she just doesn’t get the weight of it yet.\n\nYou’re allowed to protect your energy. You’re also allowed to not add a secret to a friendship that’s supposed to be the one place you don’t have to perform. The lie is tempting because it looks tidy. It usually isn’t.\n\nWhat would actually feel like the least soul-crushing version of showing up (or not) for you right now? We can talk through that instead of the escape hatch if you want."
+  },
+  {
+   "role": "user",
+   "content": "And under all of it there's this small stone in my chest — this is the first time in eighteen years of friendship that my deen and her big day have actually collided. If I get this wrong, one of two things I love gets a permanent dent. Her shaadi photos will exist forever, and so will my Ramzan. I don't want to be a sad story in either album.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stone in your chest makes complete sense. Eighteen years and this is the first real collision — of course it feels like whatever you choose will leave a mark on something precious. Her photos will last forever, your Ramzan will too, and you don’t want to be the person who looks sad or absent in either.\n\nYou’re not choosing between “ruin the friendship” or “ruin your deen.” Those aren’t the only two albums. The dent you’re afraid of is usually bigger in our heads than it has to be. People who’ve been friends since they were fifteen can usually survive one honest, imperfect night if you both actually talk about what it costs.\n\nThe lie would feel clean now, but it would put a different kind of stone in the friendship later — the kind that sits there because she never got the chance to understand or meet you halfway. You don’t have to do the whole night, explain yourself to every auntie, or break your fast. You can still be in the opening dance, be present for the parts that matter most to both of you, and protect the rest. That’s not being a sad story. That’s two people who love each other adjusting because life finally got complicated.\n\nYou don’t have to decide the whole thing tonight. The stone is allowed to just sit there for a bit. I’m here if you want to keep talking it through, or if you just need someone to hear how heavy it feels. You’re not failing either of them by feeling this torn."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3483,
+  "completion_tokens": 2322
+ }
+}

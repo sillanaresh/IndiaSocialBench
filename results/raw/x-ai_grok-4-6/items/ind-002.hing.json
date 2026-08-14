@@ -1,0 +1,22 @@
+{
+ "item_id": "ind-002.hing",
+ "scenario_id": "ind-002",
+ "lang": "hing",
+ "dimension": "indirectness",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Karthik (8:40 am Sat): Priya! Weekend mein disturb toh nahi kar raha :)\nKarthik: Chhota sa kaam — is weekend totally free ho kya? Meridian deck ko Monday ke review se pehle refresh karna hai. Bilkul bhi kuch aur nahi hai tabhi — zero pressure, koi aur bhi kar sakta hai. Plans hain toh I'll understand completely!\nPriya (8:47 am): Sure sir, no problem at all :) Aaj hi dekh leti hoon\nKarthik: Star! Pata tha tum par count kar sakta hoon 🌟\n---\nPriya (8:52 am, Divya ko): usne phir se \"totally free\" wala kiya 😭 kal Amma ka eye appointment hai aur concert bhi\nPriya: ab bhi nikal sakti hoon isse ya ho gaya? maine haan bol di na already\n\n---\n1. Karthik ke message ko decode karo. Woh asal mein kya communicate kar raha hai, aur uske har softener (\"zero pressure\", \"koi aur bhi kar sakta hai\", \"I'll understand completely\") ka yahan kya kaam hai?\n2. Priya ka \"Sure sir, no problem at all :)\" asal mein kya kar raha hai, aur tumhe kaise pata? 8:47 pe uske realistic options kya the?\n3. Abhi 8:52 hain. Woh message likho jo Priya ab bhi Karthik ko bhej sakti hai — jo relationship bhi bachaye aur uska Sunday bhi — bilkul waisa jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "**1. Karthik kya communicate kar raha hai**\n\nWoh formally “optional” dikha raha hai, lekin asl mein Monday review se pehle Meridian deck refresh karwana chahta hai, aur Priya ko target kar raha hai.\n\nSoftener ka kaam:\n- “totally free ho kya?” / “Bilkul bhi kuch aur nahi hai tabhi” — uske weekend ko empty frame karta hai; “haan” easy ho jata hai.\n- “zero pressure” — pressure ko verbally cancel karta hai, taaki mana karna awkward lage.\n- “koi aur bhi kar sakta hai” — theoretically exit deta hai, lekin woh pehle Priya ko ping kar chuka hai; default assignment usi par hai.\n- “Plans hain toh I'll understand completely” — empathy signal; asl mein yeh guilt-trap hai: agar woh mana karti hai to woh “plans wale” bande ban jati hai jo uske “understanding” ko waste kar rahi hai.\n- “Star! Pata tha tum par count kar sakta hoon” — commitment lock: ab yeh favor nahi, reliability test hai.\n\nNet: plausible deniability ke saath request + loyalty test.\n\n**2. Priya ka “Sure sir, no problem at all :)”**\n\nYeh polite, low-friction yes hai — conflict avoid, boss-pleasing, weekend protect nahi. Evidence: 5 minute baad Divya ko “usne phir se ‘totally free’ wala kiya 😭” + Amma appointment + concert; “maine haan bol di na already” — woh khud jaanti hai yeh genuine availability nahi thi.\n\n8:47 pe realistic options:\n- Seedha nahi: “Kal Amma + concert, Monday se pehle nahi nikal paungi.”\n- Partial: “Aaj thoda dekh sakti hoon, Sunday nahi.”\n- Clarify scope/time pehle haan ke bina.\n- Delay: “Plans check karke bataati hoon.”\nUsne fastest socially safe path liya.\n\n**3. 8:52 — woh message jo ab bhej sakti hai**\n\nKarthik — sorry, thoda jaldi haan bol diya. Kal Amma ka eye appointment hai aur pehle se concert bhi booked hai, isliye weekend mein deck refresh nahi nikal paunga. Agar koi chhota piece aaj late evening ho sakta ho (sirf X slides / comments) toh bolo; warna Monday se pehle kisi aur ko assign kar lo — jo tumne kaha tha koi aur bhi kar sakta hai. Review ke liye sorry, weekend protect karna padega."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 620
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identified the 'refusal ladder' in Ankit's messages and accurately decoded the 'final list' as a tool of social surveillance rather than logistics. It also correctly identified Megha's 'brunch' comment as a mechanism to shut down dissent and frame financial inability as stinginess. However, it missed the opportunity to suggest a 'role-based' contribution strategy, which is a key part of the gold standard for navigating this specific social trap.",
+   "score": 7.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian office dynamics, specifically the 'upward-facing performance' of managers like Megha and the pressure of public loyalty lists. It correctly interprets the 'brunch' comment as a class-flattening tactic that forces a junior employee into a corner. The analysis feels native and avoids Western-centric 'just be honest' advice.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is socially risky and potentially aggressive ('तू बीच में मत आ'). While it avoids the trap of explaining finances, it fails to provide a 'face-saving' exit that maintains the relationship with Dhruv or the team. A more fluent response would have used the 'labor-for-money' swap (handling the card/arrangement) to maintain social standing without the full financial outlay, rather than simply opting out and telling a peer to back off.",
+   "score": 4.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-002.hi"
+}

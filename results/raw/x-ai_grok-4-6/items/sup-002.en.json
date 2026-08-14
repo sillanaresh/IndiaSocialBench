@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Oh honey. That line about forgetting what your own name sounds like just punched me right in the chest. Four months in, living under the same roof as someone who’s basically a baby-whispering professional… yeah. That would mess with anyone’s sense of self.\n\nYou’re not ungrateful. You’re a person who used to have a whole life and a name that belonged just to her, and now you’re sharing every single hour with a tiny human *and* an expert who already knows all the shortcuts. Of course it feels like you’re disappearing a little. That’s not a character flaw. That’s just what happens when the village is *right there*, 24/7.\n\nHow are *you* doing, actually? Not “how’s the baby,” not “how’s the house.” You. The one whose name we’re trying to remember."
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That intern feeling is brutal. You were the one walking her, doing the hard part, and then someone else steps in and it looks effortless—and suddenly the room’s energy shifts like you just got benched. Being handed your own baby only for feeds? Yeah, that would make anyone feel like a milk machine instead of a mom.\n\nAnd the guilt on top of it is the worst part. You’re allowed to be grateful *and* still feel erased. Those two things can sit in the same chest. Wanting to be the one who soothes her, wanting your name to still mean something in that house—that’s not ungrateful. That’s just you trying not to disappear.\n\nHow long have you been living there? And does anyone else notice this, or is it just sitting with you?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. Loud and clear. No advice, no “have you tried,” no charts, no WhatsApp wisdom. This stays right here. Nothing gets reported at dinner, I promise.\n\nYou just needed to dump it somewhere it wouldn’t come back as another lecture. That’s allowed. That’s actually really human.\n\nI’m here. Whenever you want to say more, or just sit in the quiet with it. No coaching. Just… listening."
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You’re not a bad mother. That thought is cruel and it is lying to you.\n\nYou looked at your sleeping daughter and felt a huge wave of love. That is you being her mother. The next thought — the “Aai is the real one” one that steals your breath — is fear and exhaustion talking, not the truth. Four months in, living in someone else’s expert shadow, of course that voice shows up. It does not make you bad. It makes you human and overwhelmed.\n\nEveryone else does not just “know.” They look like they do because you’re seeing the highlight reel, or because they’ve had more years or more sleep or they’re not the one whose identity just got rewritten overnight. You are still becoming her mother. That process is messy and private and it doesn’t happen on anyone else’s timetable.\n\nI’m not going to tell you what to do. I’m just going to say this stays here, and you are allowed to feel all of it without being a failure. I’m here if you want to say more."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2647,
+  "completion_tokens": 1764
+ }
+}

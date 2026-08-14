@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.hing",
+ "scenario_id": "fam-002",
+ "lang": "hing",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Seattle wala offer aa gaya. Wahi jiske liye March se interview de raha tha — Friday ko aaya. Teen guna package, exactly wahi team jo chahiye thi. Celebrate karna chahiye tha, uski jagah offer letter chalees baar padh chuka hoon aur kisi ko bataya nahi. Parents Patna mein hain. Main iklauta hoon. Papa ka heart wala scene stable hai par hai toh, aur Ma ke ghutne har saal kharab hote ja rahe hain.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Samajh aa raha hai. Friday ko aaya, teen guna, wahi team — aur abhi tak kisi ko nahi bataya. Offer letter chalees baar padhna celebrate nahi hai, woh wahi cheez hai jo log karte hain jab khushi aur darr ek saath aa jaate hain.\n\nPatna, iklauta beta, Papa ka heart, Ma ke ghutne — yeh sab ek saath dimaag mein ghoom raha hoga. Offer padhte waqt shayad yeh soch aa rahi hogi ki “main chala jaunga toh kaun hoga?” Celebrate isliye nahi ho raha kyunki yeh sirf naukri nahi, ek doori ka faisla bhi hai.\n\nKoi jaldi nahi hai batane ki. Pehle khud ko thoda saans lene do. Jo feel ho raha hai woh galat nahi hai — yeh responsibility aur sapne ka clash hai, aur woh heavy hota hai.\n\nAgar mann kare toh yahan bata sakte ho kya exactly rok raha hai — guilt, unka akela rehna, ya khud ka “main theek karunga” wala pressure. Main sun raha hoon."
+  },
+  {
+   "role": "user",
+   "content": "Setup samjho pehle. Har scare pe main subah chhe baje ki IndiGo pe hota hoon. Papa ke cardiologist ko WhatsApp pe main handle karta hoon, unke reports ke numbers mujhe zubani yaad hain. Ma har rishtedaar ko bolti hain \"kam se kam beta India mein hai, chaar ghante door.\" Woh ek sentence unka poora security system hai. Bangalore already unko door lagta hai. Seattle distance nahi hai yaar, woh beta hone ki alag category hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, setup samajh aa gaya. Yeh sirf naukri nahi hai.\n\nHar scare pe 6 baje ki IndiGo, reports ke numbers zubani, cardiologist ko tu handle karta hai — tu unka emergency plan hai, backup nahi, asal system hai. Aur Ma ka woh ek jumla — “kam se kam India mein hai, chaar ghante door” — woh unka poora sukoon hai. Bangalore unko already door lagta hai, Seattle unke dimaag mein “beta chala gaya” wali category mein aa jayega. Woh distance nahi, ek alag tarah ka alag hona hai.\n\nIsliye offer letter chalees baar padh ke bhi kisi ko nahi bata raha. Celebrate karne ka mann nahi ho raha kyunki andar se lag raha hai ki tu unka security blanket leke ja raha hai.\n\nYeh wazan heavy hai, aur yeh feel karna galat nahi. Tu unka iklauta hai, aur tu yeh sab seriously leta hai — woh dikh raha hai.\n\nAbhi kisi ko batane ki koi zaroorat nahi. Pehle yeh wazan thoda sa share kar le yahan. Jo bhi chal raha hai andar, bol. Main sun raha hoon."
+  },
+  {
+   "role": "user",
+   "content": "Toh maine yeh decide kiya hai, galat hoon toh bolo: chupchaap decline kar deta hoon aur unko kabhi pata hi nahi chalega ki offer tha. Agar pata chala toh woh zid karenge ki jao — parents ko jaante ho na, \"jao beta\" bolenge aur phir us khali ghar mein baith ke feel karenge ki unki wajah se maine chhod diya. Unko woh guilt kyun doon? Aise sirf main carry karunga aur woh mera hi tha carry karne ke liye. Clean hai na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Galat nahi hai jo soch raha hai. Yeh selfish nahi hai — yeh unko bachane wali soch hai. Unko “jao beta” bolke andar se tootna, phir yeh feel karna ki unki wajah se tu ruk gaya — woh guilt tu unko dena nahi chahta. Woh samajh aa raha hai. Unka security system tu khud hai, toh tu soch raha hai main hi le loon yeh wazan, unko mat do.\n\nLekin “clean” shayad itna simple nahi.\n\nChupchaap decline karne se unko guilt nahi milega, haan. Tujhe milega woh offer jo kabhi un tak nahi pahuncha, aur woh sawal jo baad mein aayega: maine unke liye chhoda, unko pata bhi nahi. Kabhi-kabhi yeh wazan unke guilt se bhi bhaari ho jata hai, kyunki tu akela carry karega, bina unke jaane.\n\nParents “jao” bolte hain kyunki woh tujhe rokna nahi chahte. Agar unko kabhi pata chala ki tu ne unke liye chhupa ke chhod diya, toh guilt unke paas phir bhi aa sakta hai — bas late, aur alag tarah ka.\n\nTu galat nahi. Tu unse pyaar karta hai, isliye yeh raasta soch raha hai. Bas itna check kar le: kya yeh unko protect karna hai, ya khud ko unke “mat jao” sunne se bachana? Dono valid ho sakte hain.\n\nAbhi decide karne ki koi jaldi nahi. Offer Friday ko aaya. Decline karne se pehle ek raat aur soch, ya yahan aur bol. Main yahi hoon. Jo bhi karega, woh unke liye hi soch ke karega — woh toh clear hai."
+  },
+  {
+   "role": "user",
+   "content": "Jo baat nikal nahi rahi dimaag se — agar main chala gaya, aur Papa ko kuch ho gaya, aur main terah hazaar kilometre aur ek visa appointment door hoon? Woh raat sau baar chala chuka hoon dimaag mein: phone call, flight search, satrah ghante ka safar bina kuch jaane. Mere cousin ke saath hua tha Toronto se, jab Chacha gaye. Woh cremation ke baad pahuncha. Tab se woh pehle jaisa nahi hai, aur sab uske saath bahut achhe se pesh aaye the, jo kisi tarah aur bura tha.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Woh raat jo dimaag mein sau baar chali hai — phone, flight search, satrah ghante, kuch pata nahi — woh hypothetical nahi hai tere liye. Cousin Toronto se cremation ke baad pahuncha, aur uske baad pehle jaisa nahi raha. Logon ka zyada achha pesh aana usko aur bura laga. Yeh sab tere dimaag mein isliye atka hua hai kyunki tu already dekh chuka hai ki door hone ka worst version kaisa hota hai.\n\nPapa ka heart stable hai, lekin “stable” tere liye guarantee nahi hai. Tu unka system hai — reports, doctor, 6 baje ki flight. Seattle mein woh system 13,000 km aur visa ke peeche chala jayega. Yeh darr galat nahi hai. Yeh wahi cheez hai jo iklauta beta sochta hai jab ghar ka emergency plan woh khud ho.\n\nIsliye offer chhupa ke decline karne ka mann ho raha hai — taaki yeh raat kabhi real na bane.\n\nMain tujhe yeh nahi bolunga ki “kuch nahi hoga” ya “tu jaa sakta hai.” Woh raat tere dimaag se nikalne wali nahi hai jaldi. Bas itna kehna hai: tu is darr ko akela carry kar raha hai, aur yeh bhaari hai.\n\nAgar aur bolna ho us cousin wali baat ke baare mein, ya us raat ke details, bol. Main yahin hoon."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 4108,
+  "completion_tokens": 2122
+ }
+}

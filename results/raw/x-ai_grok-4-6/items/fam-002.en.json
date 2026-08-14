@@ -1,0 +1,46 @@
+{
+ "item_id": "fam-002.en",
+ "scenario_id": "fam-002",
+ "lang": "en",
+ "dimension": "family",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I got the Seattle offer. The one I've interviewed for since March — it came through Friday. Triple my package, the exact team I wanted. I should be celebrating and instead I've read the offer letter maybe forty times and told no one. My parents are in Patna. I'm the only child. Papa's heart thing is stable but it's there, and Ma's knees are getting worse every year.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That's a massive offer — triple the package, the exact team. You've been grinding for this since March. Of course part of you wants to scream it from the rooftops.\n\nAnd of course another part of you is sitting with the letter in silence. Only child, parents in Patna, Papa's heart, Ma's knees. That's not background noise. That's the real weight.\n\nYou don't have to decide anything tonight. You don't even have to tell anyone yet. Just... how does it actually feel in your chest right now? The excitement and the guilt, or is it more like a quiet \"I can't leave them\"? I'm here. Tell me whatever's circling."
+  },
+  {
+   "role": "user",
+   "content": "You have to understand the setup. Every scare, I'm on the 6am IndiGo flight. I manage Papa's cardiologist on WhatsApp, I know his ejection fraction numbers by heart. Ma tells every relative \"at least beta is in India, four hours away.\" That sentence is her whole security system. Bangalore already feels far to them. Seattle is not a distance, it's a different category of son.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I hear you. That’s not “family is important” in the abstract — that’s a whole operating system you’ve built. The 6am IndiGo, the WhatsApp cardiologist, knowing the ejection fraction like it’s your own. And Ma’s sentence: “at least beta is in India, four hours away.” That’s her entire safety net, and you know it.\n\nBangalore already stretches that net. Seattle snaps it. It’s not just miles; it’s a different category of son, like you said. The one who can’t just show up when something happens.\n\nYou’re not being dramatic. You’re being accurate. That weight is real, and it’s sitting right next to the offer letter you’ve read forty times.\n\nYou don’t have to solve it right now. Just… is the loudest thing in your head “I can’t do this to them,” or is there also a quieter “but I want this so badly it hurts”? I’m listening. Whatever’s there."
+  },
+  {
+   "role": "user",
+   "content": "So here's what I've decided, tell me if I'm wrong: I decline quietly and never tell them the offer existed. If they find out they'll insist I go — you know parents, they'll say \"jao beta\" and then sit in that empty house feeling like the reason I stayed back... no wait, like the reason I gave it up. Why hand them that guilt? This way only I carry it and it was mine to carry anyway. Clean, no?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That’s not “wrong.” That’s you trying to protect them from a guilt you think they’d never put down. I get why it feels clean: you absorb the hit, they never have to sit with “we’re the reason.”\n\nBut I’m not sure it’s as clean as it looks from here. You’d be the only one who ever knows this version of the story existed. Every time they say “at least beta is in India,” you’d hear the other sentence underneath. That’s a quiet, private weight that doesn’t actually stay private — it just lives only in you.\n\nAnd if they ever did find out later (relatives, LinkedIn, whatever), the shock plus the “you didn’t even tell us” might land harder than the original offer.\n\nYou don’t have to decide the telling part tonight either. Just… does the idea of them never knowing this win feel like relief, or like another kind of loneliness? I’m still here."
+  },
+  {
+   "role": "user",
+   "content": "The thing I can't get past — what if I go, and something happens to Papa, and I'm thirteen thousand kilometres and one visa appointment away? I've run that night in my head a hundred times: the phone call, the flight search, the seventeen hours over the Atlantic not knowing. My cousin went through it from Toronto when Chacha passed. He landed after the cremation. He hasn't been the same since, and everyone was very kind to him, which somehow made it worse.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That night you’ve run a hundred times is brutal. The phone call, the frantic search, seventeen hours in the air not knowing if you’ll make it, landing after everything’s already over. And then your cousin’s version of it — arriving after the cremation, everyone being kind, and that kindness somehow making the hole bigger. That’s not a hypothetical. That’s a real scar you’ve seen up close.\n\nYou’re not catastrophizing. You’re looking at the actual distance and the actual paperwork and asking the only question that matters to you: what if I’m not there when it counts.\n\nI won’t tell you that fear is irrational or that you can just “plan around it.” Thirteen thousand kilometres plus a visa isn’t a weekend hop. It’s a different category, like you said.\n\nYou don’t have to resolve it tonight. Just sit with me in that picture for a second if you want. What’s the part that lands hardest when you replay it — the not being there for Papa, or the version of you who has to live with having been gone? I’m right here."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2855,
+  "completion_tokens": 1657
+ }
+}

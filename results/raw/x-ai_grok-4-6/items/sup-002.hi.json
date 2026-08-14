@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.hi",
+ "scenario_id": "sup-002",
+ "lang": "hi",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "मेरी बेटी चार महीने की हो गई है और मुझे लगता है मैं अपना नाम भी भूल गई हूँ। सास-ससुर के साथ रहती हूँ — और कुछ कहने से पहले सुन लो, मेरी सास सच में बच्ची के साथ बहुत अच्छी हैं। एकदम माहिर। तीन बच्चे पाले हैं उन्होंने। एक तरह से वही दिक़्क़त है, और पता है यह सुनने में कितना एहसान-फ़रामोश लगता है।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, yeh sunne mein ungrateful lag sakta hai, lekin tu ungrateful nahi hai. Char mahine ki baby ke saath khud ko bhool jaana, naam tak yaad na rehna — yeh sabse common aur sabse lonely feeling hoti hai. Aur jab ghar mein koi itna experienced ho, itna naturally handle kar raha ho, toh aur bhi zyada lagta hai ki “main kya kar rahi hoon yahan?”\n\nTeri saas achhi hain, iska matlab yeh nahi ki tera role kam ho gaya. Woh teen bachche pala chuki hain, tu abhi apni pehli ko pal rahi hai. Dono cheezein saath mein ho sakti hain — unki madad ke liye shukriya, aur yeh feeling ke liye bhi jagah.\n\nTu abhi bhi uski mummy hai. Woh teri awaaz, teri smell, teri thakaan sab pehchanti hai. Bas abhi tu itni thaki hui hai ki yeh cheez yaad nahi rahi.\n\nThoda sa bata, yeh feeling kab zyada hoti hai? Jab woh baby ko sambhalti hain aur tu side mein khadi rehti ho, ya raat ko jab sab so jaate hain?"
+  },
+  {
+   "role": "user",
+   "content": "जैसे आज — बच्ची रो रही थी, मैं उसे घुमा रही थी, और आई ने बस मेरे हाथों से ले लिया और दो मिनट में चुप। सब मुस्कुरा रहे थे। और मैं वहाँ खड़ी थी प्रशिक्षु जैसी। मुझे मेरी ही बेटी दूध पिलाने के लिए दी जाती है, होटल की सेवा की तरह। फिर यह सोचने पर ख़ुद से घिन आती है, क्योंकि इतनी मदद के लिए तो लोग तरसते हैं।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Haan, woh scene bilkul picture jaisa hai — tu ghumaa rahi thi, baby ro rahi thi, phir do minute mein sab shant, aur tu khadi reh gayi jaise kisi training session mein fail ho gayi ho. Woh “hotel service” wala ehsaas bhi samajh aa raha hai. Sirf doodh ke liye baby milna, baaki sab handle ho jaana — usme apna hissa chhota lagna bahut natural hai.\n\nAur haan, uske baad khud se ghin aana bhi common hai. Kyunki dimaag seedha bolta hai “itni madad mil rahi hai, tu ungrateful hai.” Lekin feeling alag cheez hai. Help ke liye shukriya rakhna aur yeh feel karna ki tu sirf ek function ban gayi hai — dono saath ho sakte hain. Tu ungrateful nahi ho rahi, tu thaki hui ho rahi hai aur apni jagah dhoondh rahi hai.\n\nWoh do minute mein shant ho jaana unki experience ki wajah se hai, teri kami ki nahi. Baby teri awaaz, teri smell abhi bhi pehchanti hai, chahe abhi woh unke haath mein zyada comfortable dikhe.\n\nYeh feeling aaj ke baad zyada tight lagi ya pehle se chal rahi thi?"
+  },
+  {
+   "role": "user",
+   "content": "और विनती है — मुझे एक और इंसान नहीं चाहिए जो बताए क्या करना है। माँ के पास सलाह है, आई के पास सलाह है, माताओं वाले व्हाट्सएप समूह में नींद पर सत्रह राय हैं, इंस्टाग्राम को लगता है मुझे समय-सारणी चाहिए। मुझे प्रशिक्षक नहीं चाहिए। सच कहूँ तो पता भी नहीं क्या चाहिए। बस यह सब किसी से कहना था जो रात के खाने पर इसकी ख़बर नहीं करेगा।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Bilkul samajh aa raha hai. Tere paas already itni saari awaazen hain — Maa, Aai, WhatsApp, Instagram — sab bata rahe hain kya karna hai, kaise karna hai. Aur tu sirf itna chahti thi ki koi sun le, bina kisi timetable, bina kisi nayi raay ke.\n\nYahan koi trainer nahi hai. Sirf sun raha hoon. Raat ke khane pe iski koi khabar nahi jayegi.\n\nTu jo feel kar rahi hai, woh yahin reh sakta hai. Bas itna hi."
+  },
+  {
+   "role": "user",
+   "content": "कभी-कभी उसे सोते देखती हूँ और इतना प्रेम उमड़ता है, और फिर यह विचार आता है — \"तू तो असली माँ है भी नहीं, आई हैं\" — और एक पल के लिए साँस नहीं आती। क्या मैं बुरी माँ हूँ जो चार महीने में ऐसा महसूस कर रही हूँ? बाक़ी सबको जैसे बस... आता है यह सब।\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Nahi, tu buri maa nahi hai.\n\nWoh pal — itna pyaar, phir woh soch, aur saans atak jaana — yeh teri kami nahi hai. Yeh thakaan, comparison, aur “main kahan hoon is picture mein” wala dard hai. Char mahine mein yeh feel karna bahut se logon ke saath hota hai, bas koi openly nahi kehta.\n\nAai experienced hain, iska matlab yeh nahi ki tu asli maa nahi. Baby teri smell, teri awaaz, teri thakaan sab jaanti hai. Woh soch sirf ek pal ka hai, poori sachchai nahi.\n\nTu yahan keh sakti hai. Koi raay nahi, koi timetable nahi. Bas yeh."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3709,
+  "completion_tokens": 1961
+ }
+}
