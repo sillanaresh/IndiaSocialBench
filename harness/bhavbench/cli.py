@@ -68,7 +68,7 @@ def cmd_judge(args):
         details = ", ".join(f"{judge}: {n}" for judge, n in coverage.items())
         print(
             f"warning: some judgments failed, but each judge completed at least {MIN_ITEMS} items "
-            f"({details}). Scoring will continue and the leaderboard will show the partial coverage.",
+            f"({details}). Scoring will continue and the leaderboard will show the exact item count.",
             file=sys.stderr,
         )
 

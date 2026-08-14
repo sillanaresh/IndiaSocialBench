@@ -147,7 +147,7 @@ def score_model(run_dir: Path, scenarios_by_id: dict, judge_filter: list[str] | 
     return agg
 
 
-MIN_ITEMS = 40  # models judged on fewer items are excluded (misleading ranks), not shown partial
+MIN_ITEMS = 40  # models judged on fewer items are excluded because their ranks would be misleading
 
 
 def build_leaderboard(raw_dir: Path, out_path: Path, judge_filter: list[str] | None = None) -> dict:

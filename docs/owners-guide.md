@@ -383,17 +383,16 @@ preserving refusal behavior as its own result.
 
 ### 10.7 Provider errors
 
-Technical failures are counted separately. The site shows partial item counts so a reader knows when
-a row has less evidence.
+Technical failures are counted separately. The site shows the exact item count, such as 49/50, so a
+reader knows when a row has less evidence.
 
 A model needs at least 40 scored or refused items to appear on the board. GLM 4.7 completed only 19
 usable items and is excluded. The exclusion and reason are public.
 
 ### 10.8 The single judge decision
 
-The original method planned two judges from different model families. The first budgeted run
-produced partial second judge coverage. The second judge also scored on a systematically lower
-scale.
+The original method planned two judges from different model families. In the first budgeted run,
+the second judge covered only some items. It also scored on a systematically lower scale.
 
 Using two judges for some models and one judge for others could change the ranking based on which
 models happened to receive the stricter judge. The current board therefore uses Gemini 3.1 Flash
@@ -561,9 +560,9 @@ some models returned empty text after spending their response budget on hidden r
 The adapters retry temporary API errors. Empty answers are treated as errors instead of valid model
 responses. Failed items are visible in each run.
 
-Models with fewer than 40 usable items are excluded from ranking. Models with at least 40 items can
-appear with a visible partial label. This avoids presenting a severely incomplete run as a normal
-result.
+Models with fewer than 40 usable items are excluded from ranking. For models with 40 to 49 items,
+the site shows the exact count as `n/50 judged`. This avoids presenting a run with missing items as a
+complete result.
 
 ### 13.4 Model access
 
@@ -674,7 +673,7 @@ The project has several defensible strengths:
 * The support control helps separate general empathy from cultural understanding.
 * Probe turns test exact failure moments.
 * Every score has public evidence.
-* Refusals, errors, partial runs, and limitations remain visible.
+* Refusals, errors, incomplete runs, and limitations remain visible.
 * The benchmark includes four Sarvam configurations with reasoning settings shown.
 * The run cost is low enough for independent research.
 * The repository contains the data, harness, website, workflow, and draft report.

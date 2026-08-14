@@ -107,6 +107,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "no completed API work to save"
           else
-            git commit -m "Save partial evaluation: ${MODEL_ID}"
+            git commit -m "Save incomplete evaluation: ${MODEL_ID}"
             git push origin main
           fi

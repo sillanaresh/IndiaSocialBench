@@ -128,9 +128,9 @@ export default function LeaderboardTable({ board }: { board: LeaderboardSummary 
                     <span
                       className="chip"
                       style={{ marginLeft: 8 }}
-                      title={`Scored on ${m.n_items_scored + m.n_refusals} of 50 items. Remaining items hit provider errors, so treat this result with extra caution.`}
+                      title={`The published score uses ${m.n_items_scored + m.n_refusals} of 50 items. The remaining items could not be completed because of provider errors.`}
                     >
-                      partial · {m.n_items_scored + m.n_refusals}/50
+                      {m.n_items_scored + m.n_refusals}/50 judged
                     </span>
                   )}
                   <div className="small faint" style={{ fontWeight: 400 }}>
