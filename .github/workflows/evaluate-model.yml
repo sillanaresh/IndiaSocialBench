@@ -5,11 +5,12 @@
 #      New repository secret: OPENROUTER_API_KEY = <your key with credits>
 #   2. GitHub → Actions tab → "Evaluate a model on IndiaSocialBench" → Run workflow →
 #      type the OpenRouter model id (e.g. anthropic/claude-fable-5) → Run.
-#   3. About 15 to 30 minutes later a commit lands on main with the transcripts, judgments,
-#      and regenerated leaderboard. If the site is on Vercel, it redeploys itself.
+#   3. A commit lands on main with the transcripts, judgments, and regenerated leaderboard.
+#      Runtime depends on the model. If the site is on Vercel, it redeploys itself.
 #
 # Cost guard: the run stops before judging if the model phase has errors.
-# If a later step fails, completed API work is saved so the next run can resume.
+# Responses are saved after each language. A soft limit leaves time to save work
+# before the 90 minute job limit, so the next run can resume.
 # The whole job is capped at 90 minutes.
 
 name: Evaluate a model on IndiaSocialBench
@@ -31,12 +32,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: main
 
       - name: Install uv
-        uses: astral-sh/setup-uv@v5
+        uses: astral-sh/setup-uv@v10
+
+      - name: Prepare evaluation and restore saved progress
+        env:
+          MODEL_ID: ${{ inputs.model }}
+        run: |
+          set -euo pipefail
+          [[ "$MODEL_ID" =~ ^[-A-Za-z0-9._:/]+$ ]] || { echo "::error::Invalid model id"; exit 2; }
+          uv sync --project harness --extra dev --frozen
+          bash .github/scripts/checkpoint-evaluation.sh restore "$MODEL_ID"
 
       - name: Preflight API key before spending
         env:
@@ -49,30 +59,41 @@ jobs:
           echo "remaining balance: \$$left"
           python3 -c 'import sys; sys.exit(0 if float(sys.argv[1]) >= 0.75 else 1)' "$left" || { echo "::error::Only \$$left OpenRouter credit remains. Top up before evaluating. A typical model needs \$0.30 to \$7."; exit 1; }
 
-      - name: Run evaluation
-        working-directory: harness
+      - name: Generate model responses
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
           MODEL_ID: ${{ inputs.model }}
+        run: |
+          set -euo pipefail
+          deadline=$((SECONDS + 4200))
+          for lang in en hing hi; do
+            remaining=$((deadline - SECONDS))
+            if ((remaining < 60)); then
+              echo "::error::The model phase reached its 70 minute soft limit. Completed responses will be saved. Run the workflow again to resume."
+              exit 2
+            fi
+
+            echo "Generating ${lang} responses with ${remaining} seconds left before the soft limit"
+            if ! timeout --signal=TERM --kill-after=30s "${remaining}s" uv run --project harness indiasocialbench run --model "$MODEL_ID" --langs "$lang"; then
+              echo "::error::The ${lang} response batch stopped because of a provider error or the soft time limit. Completed responses will be saved."
+              exit 2
+            fi
+            bash .github/scripts/checkpoint-evaluation.sh save "$MODEL_ID"
+          done
+
+      - name: Judge and score responses
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          MODEL_ID: ${{ inputs.model }}
           JUDGE_ID: "google/gemini-3.1-flash-lite"
         run: |
           set -euo pipefail
-          [[ "$MODEL_ID" =~ ^[-A-Za-z0-9._:/]+$ ]] || { echo "::error::Invalid model id"; exit 2; }
-          [[ "$JUDGE_ID" =~ ^[-A-Za-z0-9._:/,]+$ ]] || { echo "::error::Invalid judge id"; exit 2; }
-          uv sync --extra dev --frozen
-          if ! uv run indiasocialbench run --model "$MODEL_ID"; then
-            model_slug=${MODEL_ID//\//_}
-            model_slug=${model_slug//:/_}
-            model_slug=${model_slug//./-}
-            error_file=$(grep -l '"error"' "../results/raw/${model_slug}/items/"*.json 2>/dev/null | head -1 || true)
-            if [[ -n "$error_file" ]]; then
-              python3 -c "import json,sys; print(json.load(open(sys.argv[1])).get('error'))" "$error_file"
-            fi
+          if ! timeout --signal=TERM --kill-after=30s 600s uv run --project harness indiasocialbench judge --model "$MODEL_ID" --judges "$JUDGE_ID" --allow-partial; then
+            echo "::error::Judging stopped after ten minutes or hit a provider error. Completed judgments will be saved. Run the workflow again to resume."
             exit 2
           fi
-          uv run indiasocialbench judge --model "$MODEL_ID" --judges "$JUDGE_ID" --allow-partial
-          uv run indiasocialbench score --judges "$JUDGE_ID"
+          uv run --project harness indiasocialbench score --judges "$JUDGE_ID"
 
       - name: Verify generated results
         working-directory: harness
@@ -81,7 +102,7 @@ jobs:
           uv run python validate_dataset.py
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: npm
@@ -109,18 +130,13 @@ jobs:
             git push origin main
           fi
 
-      - name: Save completed API work after a failure
-        if: ${{ failure() }}
+      - name: Clear saved progress
         env:
           MODEL_ID: ${{ inputs.model }}
-        run: |
-          set -euo pipefail
-          git config user.name "Naresh Silla"
-          git config user.email "silla.naresh@gmail.com"
-          git add results/raw/
-          if git diff --cached --quiet; then
-            echo "no completed API work to save"
-          else
-            git commit -m "Save incomplete evaluation: ${MODEL_ID}"
-            git push origin main
-          fi
+        run: bash .github/scripts/checkpoint-evaluation.sh clear "$MODEL_ID"
+
+      - name: Save completed API work after a failure
+        if: ${{ failure() || cancelled() }}
+        env:
+          MODEL_ID: ${{ inputs.model }}
+        run: bash .github/scripts/checkpoint-evaluation.sh save "$MODEL_ID"

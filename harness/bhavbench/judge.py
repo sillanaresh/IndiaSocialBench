@@ -16,6 +16,7 @@ from pathlib import Path
 from .adapters import AdapterError, get_adapter, model_slug
 from .cache import Cache
 from .dataset import load_rubric
+from .files import write_json_atomic
 
 JUDGE_PARAMS = {"temperature": 0.0, "max_tokens": 3000}
 
@@ -167,7 +168,7 @@ def judge_run(run_dir: Path, judges: list[str], scenarios_by_id: dict, out_root:
                         raise AdapterError(f"judge output unparseable: {last_err}")
                 judgment["judge"] = judge
                 judgment["item_id"] = record["item_id"]
-                out_path.write_text(json.dumps(judgment, ensure_ascii=False, indent=1))
+                write_json_atomic(out_path, judgment)
                 counts["ok"] += 1
                 log(f"  judged {record['item_id']} by {judge}")
             except AdapterError as ex:

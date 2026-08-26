@@ -79,6 +79,7 @@ class OpenRouterAdapter:
         "meta/muse",
         "nex-agi/",
         "thinkingmachines/",
+        "stealth/",
     )
 
     def complete(self, messages, system="", temperature=0.7, max_tokens=1024) -> Completion:

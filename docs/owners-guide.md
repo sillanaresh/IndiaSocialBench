@@ -579,7 +579,10 @@ model ID. The workflow checks the API balance before spending, runs the evaluati
 items, rebuilds the leaderboard, and commits the generated evidence.
 
 Only one evaluation runs at a time. The workflow stops if the API key is invalid or the balance is
-too low. It also stops before judging if the model run has errors.
+too low. It also stops before judging if the model run has errors. Model responses are saved to a
+separate working branch after each language. A soft time limit leaves enough time to save completed
+items before GitHub ends the job. The next run restores this work and skips completed items. The
+working branch is removed after the final results are published.
 
 This workflow makes model additions possible without opening a local terminal. It does not provide a
 public hosted service where anyone can spend the project owner's money.

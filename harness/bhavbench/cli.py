@@ -41,13 +41,17 @@ def _has_minimum_judge_coverage(coverage: dict[str, int]) -> bool:
     return bool(coverage) and all(n >= MIN_ITEMS for n in coverage.values())
 
 
+def _live_log(message: str) -> None:
+    print(message, flush=True)
+
+
 def cmd_run(args):
     items = _items(args.langs)
     if args.limit:
         items = items[: args.limit]
-    print(f"running {args.model} on {len(items)} items")
-    config = run_model(args.model, items, RAW, force=args.force)
-    print(f"done: {config['counts']}")
+    print(f"running {args.model} on {len(items)} items", flush=True)
+    config = run_model(args.model, items, RAW, force=args.force, log=_live_log)
+    print(f"done: {config['counts']}", flush=True)
     if config["counts"]["error"]:
         print("run has errors — rerun before scoring (PLAN §3.4)", file=sys.stderr)
         sys.exit(2)
@@ -59,8 +63,8 @@ def cmd_judge(args):
     if not run_dir.exists():
         sys.exit(f"no run found at {run_dir}; run `indiasocialbench run` first")
     judges = args.judges.split(",")
-    counts = judge_run(run_dir, judges, scenarios_by_id, RAW)
-    print(f"judging done: {counts}")
+    counts = judge_run(run_dir, judges, scenarios_by_id, RAW, log=_live_log)
+    print(f"judging done: {counts}", flush=True)
     if counts["error"]:
         coverage = _judge_coverage(run_dir, judges)
         if not args.allow_partial or not _has_minimum_judge_coverage(coverage):

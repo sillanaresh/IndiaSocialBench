@@ -8,12 +8,12 @@ from __future__ import annotations
 
 import datetime
 import json
-from dataclasses import asdict
 from pathlib import Path
 
 from .adapters import AdapterError, Completion, get_adapter, model_slug
 from .cache import Cache
 from .dataset import ANALYSIS_SYSTEM, Item, dataset_hash
+from .files import write_json_atomic
 
 # 2000 (raised from 1024): hybrid-reasoning models burn thought tokens inside
 # max_tokens; 1024 starved some to empty text (finish_reason=length).
@@ -94,8 +94,9 @@ def run_model(model: str, items: list[Item], out_dir: Path, force: bool = False,
             if existing.get("status") != "error":
                 counts["skipped"] += 1
                 continue
+        log(f"  start {item.id}")
         record = run_item(adapter, cache, model, item)
-        path.write_text(json.dumps(record, ensure_ascii=False, indent=1))
+        write_json_atomic(path, record)
         counts[record["status"]] += 1
         log(f"  {record['status']:5s} {item.id}")
 
@@ -108,5 +109,5 @@ def run_model(model: str, items: list[Item], out_dir: Path, force: bool = False,
         "counts": counts,
         "mock": model.startswith("mock:"),
     }
-    config_path.write_text(json.dumps(config, indent=1))
+    write_json_atomic(config_path, config)
     return config
