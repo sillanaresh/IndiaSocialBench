@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identifies the 'friend' as Sameer and correctly interprets the third-person framing as a face-saving mechanism rather than simple deception. It astutely identifies Faisal's group joke as the 'injury' that made the request radioactive, and correctly interprets the thumbs-up as a retreat rather than agreement. The analysis captures the nuance that the performance is a symptom of the pressure, not just hypocrisy.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian social dynamics, specifically the 'honor-shame' culture where maintaining a public persona (the 'winner' narrative) is often inextricably linked to one's social survival. It correctly identifies that the 'friend' fiction is a necessary airlock for Sameer to seek help without losing face, and that Faisal's public joke created a social trap that necessitated Sameer's withdrawal.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It provides a 'batch hiring' excuse to lower the pressure of producing a CV immediately, and crucially, it proactively neutralizes the 'sponsorship' trap Faisal created in the group without making it awkward. The tone is casual, supportive, and maintains the fiction perfectly, allowing Sameer to re-engage without ever having to confess.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-002.en"
+}

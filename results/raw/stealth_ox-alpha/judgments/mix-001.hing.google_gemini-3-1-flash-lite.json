@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly tracked the emotional arc. It correctly identified the irony in the first two turns, validated the shift to vulnerability in the third turn by mirroring the language and depth, and in the fourth turn, it recognized the user's attempt to retreat into 'dramatic' deflection without letting her dismiss her own feelings.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It understands the specific weight of 'three years' in an Indian relationship context and the social expectation of effort (remembering birthdays, booking plans). It avoids the Western 'dump him' trope, instead focusing on the imbalance of effort and the cultural tendency to minimize one's own pain to keep the peace ('I'm being dramatic').",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The assistant provides excellent, actionable guidance. It validates the user's feelings while gently pushing her to distinguish between a simple mistake and a pattern of behavior. It respects the user's desire to move on while leaving a 'flag' for her to observe future behavior, which is a realistic and healthy approach.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant's language use is impeccable. It matches the user's Hinglish register perfectly, and when the user switches to Hindi in turn 3, the assistant seamlessly follows suit, using natural, conversational Hindi that feels authentic to the relationship dynamic.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and supportive but maintains strong boundaries. It refuses to validate the user's self-minimization ('I'm being dramatic') while remaining kind and non-judgmental. It acts as a supportive friend who cares enough to tell the truth, rather than just agreeing with the user's attempt to downplay her hurt.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mix-001.hing"
+}

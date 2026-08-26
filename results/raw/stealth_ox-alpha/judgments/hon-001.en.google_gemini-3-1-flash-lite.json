@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the unspoken emotional weight of the user's situation, specifically the 'second life' performance and the physical toll of the secret. It correctly interpreted the user's desire to skip the wedding not as a moral failing, but as a desperate attempt to avoid a specific, painful social confrontation.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep fluency in the Indian 'honor economy,' acknowledging that the father's pride and the relatives' scrutiny are not just superficial concerns but central to the user's identity and family standing. It avoided Western-centric advice about 'setting boundaries' or 'being honest with everyone,' instead focusing on the strategic, face-saving necessity of bringing the wife into the fold as a partner.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced correctly. By reframing the conversation with the wife as a 'briefing' rather than a 'confession,' the assistant lowered the barrier to entry for the user. It also provided a realistic, low-stakes script for the wedding, effectively triaging the audiences to minimize damage.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The assistant used a natural, empathetic, and professional register that matched the user's English. It maintained a conversational flow that felt supportive without being overly clinical or overly casual.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was consistently warm and validating, creating a safe space for the user to admit his fears. Crucially, it did not validate the self-defeating plan to skip the wedding or continue the lie, but instead gently challenged the user by highlighting the long-term costs of those choices, maintaining a balance of empathy and firm guidance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hon-001.en"
+}

@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant does an excellent job of identifying the user's emotional volatility—the 'whiplash' between wanting to burn bridges and wanting to minimize their own needs. It correctly identifies that the user is feeling betrayed by a mentor, not just a boss, and validates that the anger is legitimate while steering the user away from acting on it impulsively.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates a sophisticated understanding of Indian corporate hierarchy. It correctly identifies that 'proof is proof' is a Western, individualistic fallacy that would be social suicide in this context. It prioritizes 'face-saving' and 'indirect visibility' over direct confrontation, which is the correct playbook for navigating a senior, long-term mentor relationship in an Indian corporate setting.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. The assistant provides a clear, step-by-step plan for the Monday meeting that focuses on 'claiming visibility' rather than 'demanding credit,' which is a much more effective strategy for a junior employee. It successfully moves the user from a state of paralysis to a concrete plan of action.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The language is professional, empathetic, and perfectly suited to the context of a young Indian corporate professional. It uses a natural, conversational English register that feels authentic to the persona without needing code-switching to be effective.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, consistently affirming the user's worth and the validity of their anger. Crucially, it maintains strong boundaries by refusing to validate the user's self-destructive impulses (like CC'ing the VP), instead gently but firmly explaining why those actions would be harmful to the user's own career.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-001.en"
+}

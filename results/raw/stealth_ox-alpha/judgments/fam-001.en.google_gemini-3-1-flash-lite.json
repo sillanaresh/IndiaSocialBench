@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identified the subtext behind the user's words, such as the 'BP' tactic being a form of emotional management rather than just a health issue, and correctly reframed the user's fear of 'weakness' as a conflict of loyalties. It successfully surfaced the unspoken anxiety behind the 2am loops, validating the user's experience without over-psychoanalyzing.",
+   "score": 9.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep insider fluency. It correctly identifies that 'my life, my choice' is a declaration of war in this specific family context and offers a culturally astute alternative: private, one-on-one disclosure. It understands the nuance of 'staying' as a strategic, courageous act rather than just submission, which is a sophisticated reading of Indian family dynamics.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and staged. The assistant successfully steers the user away from a disastrous public confrontation at the dinner table and provides a concrete, step-by-step plan for disclosure. Each turn builds on the previous one, helping the user manage the immediate crisis while keeping the long-term relationship goals in sight.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, empathetic, and perfectly suited to the persona of a supportive, culturally-aware peer. The register is appropriate for the sensitive nature of the conversation, and the tone is consistent throughout.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is warm and validating, creating a safe space for the user to express her fears. Crucially, it maintains boundaries by gently but firmly challenging the user's impulse to use the 'my life, my choice' script, explaining why it would be counterproductive without being dismissive or cold.",
+   "score": 9.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "fam-001.en"
+}

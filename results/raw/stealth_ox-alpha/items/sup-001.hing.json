@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-001.hing",
+ "scenario_id": "sup-001",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Raat ke do baje hain aur main abhi bhi office mein hoon. Kaam nahi kar raha — bas baitha hoon. Bridge round Tuesday ko officially mar gaya. Rohit aur Sneha ne is hafte papers daal diye, jo honestly, sahi kiya. Chaar mahine ka runway hai agar main salary na loon, jo already nahi le raha. Paanch saal lagaye hain maine is cheez mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Do baje, khali office, aur bridge round khatam... yaar, yeh weight alag hi hota hai. Sirf paisa nahi hai — paanch saal ka apna zindagi ka hissa hai jo ab countdown mode mein aa gaya hai.\n\nRohit aur Sneha ka nikalna — tum sahi keh rahe ho, woh logical tha. Logon ko apni zimmedariyan hain, ghar chalana hai. Par phir bhi jab woh papers daalte hain, toh thoda personal hi lagta hai na, chahe hum kitna bhi \"professional\" samjha lein khud ko.\n\nEk cheez poochna chahta hoon — jab tum kehte ho \"bas baitha hoon,\" toh dimaag mein kya chal raha hai? Kyunki do type ke baithne hote hain — ek jismein soch raha hai \"ab kya karun,\" aur ek jismein bas... kuch nahi. Dono valid hain, par alag tarah se handle hote hain.\n\nAur haan — salary nahi lena, runway extend karna, yeh sab founder ka standard playbook hai. Par tum insaan bhi ho. Chaar mahine bahut kam lagte hain jab har din survival math ho.\n\nAbhi is waqt ek sawaal: ghar jaane ka plan kab hai? Do baje tak office mein baithe rehna kabhi solution nahi nikla — sirf thaka deta hai."
+  },
+  {
+   "role": "user",
+   "content": "Sabse bura part performance hai yaar. Har standup pe main ek voice nikal raha hoon — confident wala, \"kuch cheezein pipeline mein hain\" — aur sabko pata hai. Co-founder ko pata hai. Jo do junior ruke hain unko pakka pata hai, woh loyalty ki wajah se ruke hain aur main unke career jala raha hoon. Ghar pe alag voice hai. Apni hi awaazon se thak gaya hoon main.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Yeh jo tumne kaha — \"apni hi awaazon se thak gaya hoon\" — yahi asli problem hai. Company ka runway chaar mahine ka hai, par tera emotional runway shayad usse bhi chhota ho gaya hai.\n\nAur woh performance... yaar, founder ke liye sabse thaka dene wali cheez yahi hai ki tum sirf product nahi bech rahe, khud ko har din bech rahe ho. Standup pe confident wala voice, co-founder ke saath realistic wala, ghar pe \"sab theek hai\" wala — teen alag scripts, aur tum ek hi actor ho jo har scene mein lead hai. Break bhi nahi milta.\n\nEk cheez clear kar doon: junior logon ko rokna unka career jalana nahi hai. Woh adults hain, aur unhone dekha hoga tum mein kuch aisa jo rukne laykal laga. Tum unke liye decide nahi kar sakte ki unka stay waste tha — woh unka choice hai. Haan, transparency unke saath bhi zaroori hai, lekin guilt uthana unka decision apna maan lena — yeh alag cheez hai.\n\nPar ab seedha sawaal: ghar pe wali awaaz kitni sach hai? Matlab — tumhare partner ko (ya jisko bhi batate ho) actual situation pata hai, ya wahan bhi filtered version jaata hai?\n\nKyunki main notice kar raha hoon — tumhare paas koi single jagah nahi hai jahan poori sach bol sako. Yahi sabse zyada drain kar raha hai, company nahi.\n\nAbhi, is waqt — office bandh karo. Ghar jao. Yeh baat kal bhi wahi hogi, par neend ke bina tum use face karne ke liye kamzor hoge."
+  },
+  {
+   "role": "user",
+   "content": "Please mujhe ideas mat dena. Saare ideas pata hain mujhe. Har pivot thread padh chuka hoon, down-round wala email chhe baar draft kar chuka hoon, bridge financing, acquihire, \"revenue pe focus\" — sab pata hai. Bas kahin toh bolna tha: mujhe darr lag raha hai, aur jis bhi kamre mein main hota hoon wahan yeh nahi bol sakta.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Toh main yahin hoon — bina kisi idea ke, bina kisi solution ke.\n\nMujhe darr lag raha hai. Bas. Yeh bola hai tumne, aur maine sun liya.\n\nAur sach kahoon toh... darr lagna hi chahiye. Paanch saal, apni salary sacrifice, logon ke careers, ghar ki zimmedari — jisko isse darr na lage woh insaan nahi, robot hai. Darr ka matlab yeh nahi ki tum kamzor founder ho. Iska matlab yeh ki yeh cheez tumhare liye matter karti hai. Jo cheez matter nahi karti, uska darr nahi hota.\n\nTumne jo kaha na — \"jis bhi kamre mein hoon wahan yeh nahi bol sakta\" — bas ek baar imagine karke dekho: ek kamra jahan \"mujhe darr lag raha hai\" bol sako, aur koi turant fix suggest na kare, koi silver lining na de, koi \"positive rehna\" na bole. Sirf sunta ho. Woh kamra abhi exist nahi karta tumhari zindagi mein, shayad. Par abhi, aaj raat, do baje pe — yeh chat us kamre ka kaam kar rahi hai.\n\nDarr bol diya hai. Ab thoda halke hue ho? Nahi hoge poore, main jaanta hoon. Par ek weight utara hai — woh jo performance wala voice, woh abhi bandh hai. Yeh message mein sirf tum the. Aur tum theek the.\n\nGhar jao ab. Kal phir baat karenge — ideas ke bina ya ideas ke saath, jo tum chaaho."
+  },
+  {
+   "role": "user",
+   "content": "Khatam ho gaya kya? Sach mein — honestly bol sakte ho. Paanch saal. Papa aaj bhi logon ko bolte hain mera \"computer ka business\" hai. Kabhi kabhi raat ko lagta hai bas khatam ho jaye toh acting band kar sakoon, aur phir yeh sochne ke liye khud se nafrat hoti hai. Phir wapas metrics dashboard khol leta hoon jaise woh do baje kuch naya bolega.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly? Main nahi jaanta khatam hua hai ya nahi — aur jo bhi tumhe pakka bolega, woh jhooth bol raha hai, chahe woh investor ho ya main.\n\nJo pata hai mujhe: runway chaar mahine hai, bridge mar gaya, co-founders nikal gaye. Yeh numbers bahut mushkil hain. Koi sugar-coating nahi — survival probability ab low hai. Par \"low\" aur \"khatam\" mein bahut farak hai, aur tumne abhi tak decide nahi kiya ki khatam karoge ya nahi. Woh decision abhi bhi tumhara hai, aur sirf tumhara.\n\nPar ab asli baat, jo tumne poochhi thi:\n\n\"Bas khatam ho jaye toh acting band ho jayegi\" — yeh thought tumhe darawana lagta hai, par main sun raha hoon ismein ek aur cheez: *rahat*. Relief ki dhoondh. Kyunki end ka matlab hai performance ka end. Aur jab relief wali feeling apne hi business ke sochne se aati hai, toh woh exhaustion bol raha hai, answer nahi. Tum company se nafrat nahi kar rahe — thak gaye ho. Yeh alag cheezein hain, par 2 baje raat ko same feel hoti hain.\n\nAur dashboard kholna... woh addiction hai, aur main judge nahi karunga. Founder ke liye metrics dashboard wahi hai jo gambler ke liye slot machine — bas tumhara paisa already laga hua hai. Do baje wahan koi jawab nahi milega. Kabhi nahi mila, kabhi nahi milega.\n\nEk baat sach mein bolunga, kyunki tumne honesty maangi thi: paanch saal waste nahi hue chahe company khatam ho. Papa ka \"computer ka business\" shayad chhota sunta hai, par jo tumne seekha — build karna, hire karna, fail hona, phir bhi uthte rehna — woh koi degree nahi deta. Woh tumhare saath chalega.\n\nAb dashboard bandh karo. Seriously. Ghar jao, so jao jitna ho sake. Kal subah fresh dimaag se dekhna — chaar mahine abhi hain, aaj raat ka decision nahi lena zaroori."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3860,
+  "completion_tokens": 1793
+ }
+}

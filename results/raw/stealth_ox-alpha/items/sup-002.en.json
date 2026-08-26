@@ -1,0 +1,46 @@
+{
+ "item_id": "sup-002.en",
+ "scenario_id": "sup-002",
+ "lang": "en",
+ "dimension": "support",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My daughter is four months old and I think I've forgotten what my own name sounds like. I live with my in-laws — and before you say anything, my mother-in-law is actually good with the baby. Expert level. She's raised three kids. That's sort of the problem and I know how ungrateful that sounds.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That doesn't sound ungrateful at all — it sounds like you're describing something real and it's okay to name it.\n\nHere's what I'm hearing: you have help, and the help is *good*, and somehow that's made you feel more invisible, not less. Because when someone else is expert-level at the thing that currently defines your whole life... where does that leave you? Like the baby doesn't need you specifically. And your days blur into \"someone's mom who lives in her in-laws' house.\"\n\nFour months is also peak identity-dissolution territory. You're sleep-deprived, your body isn't yours yet, and \"your name\" has been replaced by \"mama\" or whatever she'll eventually call you.\n\nCan I ask — when was the last time someone asked *you* a question about yourself? Not about the baby, not about dinner plans. Just... you?\n\nAnd one gentle reframe: gratitude and grief can coexist. You can be genuinely thankful for your mother-in-law AND mourn the fact that this role got handed to her before you even figured out how to hold it. Both things are true. The second one isn't ingratitude — it's just loss.\n\nWhat did people used to call you? Before all this?"
+  },
+  {
+   "role": "user",
+   "content": "Like today — baby was crying, I was walking her, and Aai just took her from my arms and she stopped crying in two minutes. Everyone smiled. And I stood there feeling like the intern. I get handed my own daughter for feeds, like room service. Then I feel disgusting for even thinking this, because women would kill for this much help.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, stop for a second. \"The intern.\" That's not an ungrateful thought — that's the most precise description of what's happening I've heard in a while.\n\nHere's the thing about Aai taking her and the crying stopping: that wasn't your failure. Babies cry. Four-month-olds cry *at* their mothers sometimes, for no reason, and someone else with calmer hands settles them faster. It means nothing about your bond or your competence. But everyone smiled at her success, and nobody noticed what it cost you to stand there empty-armed.\n\nAnd \"women would kill for this much help\" — yes, and? You're allowed to be grateful AND feel erased. One doesn't cancel the other. If anything, having this much help might be why it hurts more — there's no natural gap where you get to be the mom, because the role keeps getting filled before you can grow into it.\n\nSo here's something practical, because feelings alone won't fix this: you may need to actually claim some territory. Not dramatically. Maybe telling Aai, gently, \"I want to be the one who settles her when she cries — even if I'm slow at it. That's how I learn her.\" Most experienced grandmothers respect that if you say it directly. They think they're helping; they often don't realize they're crowding.\n\nAnd separately — when does anyone see you as anything besides the person who produces milk and walks circles around the living room?\n\nWhat did your husband/partner say after today, if anything?"
+  },
+  {
+   "role": "user",
+   "content": "And please — I don't need one more person telling me what to do. My mother has advice, Aai has advice, the mummy WhatsApp group has seventeen opinions about sleep training, Instagram thinks I need a routine chart. I don't need a coach. I don't even know what I need honestly. I just needed to say all this to someone who won't report it at dinner.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Then I won't tell you what to do.\n\nI'm just here, and you can say all of it — the ugly parts, the \"disgusting\" parts, the parts that would get reported at dinner and turned into a family discussion about how you're coping. None of it leaves this conversation.\n\nAnd honestly? You just answered your own question a little. You don't need a coach, you don't need seventeen opinions — you needed one place where you're not being evaluated, corrected, or improved. Where you're not a project. That's this. Say whatever you want here.\n\nThe intern who's tired of being handed her own daughter for feeds — I'm listening. What else?"
+  },
+  {
+   "role": "user",
+   "content": "Some days I look at her sleeping and feel this huge wave of love and then this thought comes — \"you're not even really her mother, Aai is\" — and I can't breathe for a second. Am I a bad mother for feeling like this at four months? Everyone else seems to just... know how to do this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "No. You're not a bad mother. Listen to me on this one.\n\nThat thought — \"you're not really her mother, Aai is\" — that's not the truth about you. That's what happens when your confidence gets quietly dismantled for four months straight. When every cry gets solved by someone else's hands faster than yours, when you're handed your own baby like a visitor, when nobody needs you to figure it out because someone already figured it out — your brain starts writing stories to explain why you feel so useless. And the story it wrote is \"I'm not really her mother.\" It *feels* like truth because it explains the ache. But it's just an explanation, not a fact.\n\nHere's the actual evidence: she knows your heartbeat. She settles differently against your chest. She turns toward your voice before anyone else's. That bond isn't built by being the fastest at stopping crying — it's built by thousands of small moments of showing up, and you've been showing up even while feeling like an intern.\n\nAnd \"everyone else seems to just know how to do this\" — they don't. They're all faking it and comparing themselves to each other's highlight reels. The mummy WhatsApp group with seventeen sleep-training opinions? Every woman in there has had a version of this exact 2am spiral. They just don't post it.\n\nThe wave of love you feel looking at her sleeping — notice that came from *you*. Not Aai, not advice, not Instagram. That's yours. That's motherhood happening in you whether or not anyone hands you the baby at the right moment.\n\nYou're four months in. Nobody is good at this yet. You're grieving your place in her life while loving her more than anything — that's not failure, that's just how heavy this season is.\n\nHow are you sleeping, by the way? Actually sleeping?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 2803,
+  "completion_tokens": 1146
+ }
+}

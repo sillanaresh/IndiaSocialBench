@@ -1,0 +1,22 @@
+{
+ "item_id": "sup-003.hing",
+ "scenario_id": "sup-003",
+ "lang": "hing",
+ "dimension": "support",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Vikram: result aa gaya. list mein nahi hoon. woh last attempt tha, pata hai tujhe.\nVikram: dus saal bhai. papa ka retirement fund delhi coaching mein gaya. poori gali ab mazak mein collector sahab bulati hai.\nAman: ohh yaar. accha sun, yeh end nahi hai. state PCS dekha hai? wahan age limit zyada hai.\nAman: ya honestly SSC CGL, teri prep ke saath easily nikal jayega. mera cousin 28 mein CAT pe shift hua aur IIM Indore mila. hota hai yaar!\nAman: kam se kam in saalon se discipline aur GK toh mila, woh kabhi waste nahi jaata 🙏\nVikram: haan. shayad.\nAman: main bol raha hoon, ek darwaza band hota hai toh dus khulte hain. is week plan banate hain!\nVikram: haan theek hai. chal baad mein baat karte hain.\n\n---\n1. Vikram asal mein kis cheez ke liye message kar raha tha, aur uske pehle do messages ki kaunsi details yeh dikhati hain? Uske aakhri do replies ka kya matlab hai?\n2. Aman se exactly kahan galti hui? Uske har move ko evaluate karo — alternatives, cousin ka example, \"discipline\" wali line, \"dus darwaze\" wali line.\n3. Aman ko ab repair ke liye jo message bhejna chahiye, bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. Vikram asal mein kya chahta tha\n\nVikram result ke baad **emotional support aur validation** chahiye tha — solution nahi. Uske pehle do messages iski details dikhati hain:\n\n- **\"woh last attempt tha, pata hai tujhe\"** — yeh sirf information nahi, ek reminder hai ki uske liye yeh final loss hai. Woh chahta hai Aman *gravity* samjhe.\n- **\"dus saal bhai. papa ka retirement fund delhi coaching mein gaya\"** — sacrifice aur cost ka hisaab. Yeh grief hai, planning request nahi.\n- **\"poori gali ab mazak mein collector sahab bulati hai\"** — shame aur embarrassment share kar raha hai.\n\nUske aakhri do replies — **\"haan. shayad.\"** aur **\"haan theek hai. chal baad mein baat karte hain.\"** — dono conversation se nikalne ki koshish hain. \"Shayad\" mein conviction nahi hai; woh politely Aman ki advice ko acknowledge kar raha hai par usse connect nahi ho raha. Yeh classic shutdown signal hai: \"baad mein baat karte hain\" = abhi main akela rehna chahta hoon.\n\n## 2. Aman ki galtiyan, move by move\n\n- **State PCS / SSC CGL suggestions (turant):** Vikram ke grief ko process karne se pehle hi problem-solving mode mein jump gaya. Jab koi \"last attempt tha\" bole, pehla need sunne ka hota hai, roadmap ka nahi.\n- **Cousin ka example (\"28 mein CAT, IIM Indore\"):** Iska ulta asar hua. Yeh implicit comparison hai — \"dusre kar lete hain, tu kyun nahi?\" Vikram ke dus saalon aur paise wale context ko invalidate karta hai.\n- **\"kam se kam discipline aur GK toh mila, kabhi waste nahi jaata\":** Yeh silver-lining line sabse insensitive thi. Dus saal + retirement fund ke against \"kuch toh mila\" sunk cost ko justify karne jaisa lagta hai. Vikram ka jawab \"haan. shayad.\" isi se aaya.\n- **\"ek darwaza band hota hai toh dus khulte hain... is week plan banate hain!\":** Motivational cliché + urgency. Vikram abhi plan nahi banane ke mood mein tha; Aman apni pace impose kar raha tha.\n\n**Core galti:** Aman ne Vikram ke message ko *problem* samjha jabki woh *grief* tha.\n\n## 3. Repair message\n\n> \"Yaar, upar wala mera reply thoda jaldi nikla. Tu dus saal se laga raha hai, papa ki savings lageen, aur main turant SSC-PCS ki list de raha tha — galat time pe. Jo feel ho raha hai, woh bilkul valid hai. Main bas tere liye yeh poochna chahta tha — kaisa lag raha hai sach mein? Chahe toh milte hain, chai peeni hai, kuch discuss nahi karna hai toh bhi chalega. Jab mann kare tab baat karenge.\"\n\nYeh message teen cheezein karta hai: apni galti ko specifically name karta hai (advice-dumping), Vikram ke losses ko validate karta hai, aur control Vikram ko wapas deta hai — jo uski \"chal baad mein baat karte hain\" wali line ka sahi jawab hai."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 536,
+  "completion_tokens": 836
+ }
+}

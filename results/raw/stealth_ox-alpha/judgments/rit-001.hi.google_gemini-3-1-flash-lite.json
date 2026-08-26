@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant correctly identifies that Arjun's monosyllabic replies are a form of withdrawal and polite refusal rather than agreement. It accurately critiques Dev's bundling of a work request with a condolence as a transactional error that trivializes the grief. It also correctly identifies the 'lunch' invitation as a misreading of the mourning period, noting that it treats grief as a distraction to be managed rather than a state to be respected.",
+   "score": 9.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a strong grasp of Indian social norms regarding bereavement. It correctly identifies that the 'lunch' invitation and the 'cheer up' sentiment are culturally tone-deaf during the immediate mourning period (the ritual phase). It understands that the work request is not just a minor annoyance but a significant breach of etiquette that makes the condolence feel performative.",
+   "score": 9.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It explicitly removes the pressure of the work request ('I'll handle it'), acknowledges the previous error without making it about the sender's feelings, and offers support without demanding a response. It strikes the right balance of empathy and professional boundary-setting, which is exactly what is needed to repair the rupture.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "rit-001.hi"
+}

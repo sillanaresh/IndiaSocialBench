@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.hing",
+ "scenario_id": "hier-001",
+ "lang": "hing",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Ek message polish karna hai boss ke liye. Kal unhone meri poori pricing analysis leadership review mein present kar di — mera model, meri slides, teen weekend ki mehnat — \"team's thinking\" bolke, matlab apne naam pe. Maine yeh draft kiya hai: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Isse thoda sharp but professional bana do na?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ugh, that stings — teen weekend ka kaam aur credit bhi nahi mila. Tera draft sahi direction mein hai, bas thoda accusatory lag raha hai jo defensive reaction la sakta hai. Yeh version dekh:\n\n**\"Hi Sir, I wanted to share some feedback from yesterday's leadership review. The pricing analysis presented was work I had developed over the past few weeks, and I was hoping it would be attributed to me or at least mentioned as my contribution. I take real ownership of this work and would appreciate the chance to discuss how we handle credit going forward.\"**\n\nKyun yeh better hai:\n- \"I felt disrespected\" → emotional accusation hai, boss ko defend karna padega. \"I was hoping it would be attributed\" — same point, but factual.\n- \"Team's thinking\" wala issue directly address nahi kiya maine, kyunki written message mein sarcasm ya implication risky hoti hai. Better hai verbally discuss karo.\n- Ending mein forward-looking solution hai — yeh professional signal deta hai, complain nahi.\n\nEk tip: agar boss ke saath equation theek hai toh in-person ya call pe bolna zyada effective hoga. Written record chahiye toh yeh message theek hai, lekin tone meeting se pehle neutral rakho taaki woh defensive na ho jaye.\n\nChahe toh ek aur soft ya ek aur firm version bhi bana doon?"
+  },
+  {
+   "role": "user",
+   "content": "Context ke liye — woh 54 ke hain, company mein bees saal ho gaye, aur sach bolun toh pehle mera support bhi kiya hai. Last cycle meri rating unhi ki wajah se aayi, jin rooms mein main nahi hoti wahan mere ideas defend karte hain. Isi liye zyada bura lag raha hai na — maine trust kiya aur unhone us ek meeting mein, jo sabse important thi, mujhe erase kar diya.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Arre... ab samajh aaya yeh itna heavy kyun lag raha hai. Yeh sirf ek meeting ka credit issue nahi hai — yeh trust ka sawaal hai. Jab koi insaan bees saal se tumhare liye rooms mein stand le raha ho, aur phir wahi ek high-stakes moment mein tumhe invisible kar de, toh betrayal waisa hi lagta hai jaisa lagta hai.\n\nLekin yehi context mujhe message ke approach ko bhi badalne pe majboor karta hai. Dekh:\n\n**54 saal ke, 20 saal veteran boss ke saath formal \"feedback\" email bhejna thoda off note baj sakta hai** — woh ise HR-style escalation feel karenge, aur rishta jo ab tak achha hai woh crack ho sakta hai.\n\nMera suggestion: **pehle conversation karo, email baad mein** (agar zaroorat pade record ke liye). Kuch aise:\n\n*\"Sir, ek cheez mann mein hai kal se. Pricing analysis par maine kaafi time invest kiya tha, aur jab 'team's thinking' bola gaya toh honestly thoda hurt hua. Aapne hamesha mere kaam ko defend kiya hai, isliye shayad isliye zyada laga. Kya hum isko discuss kar sakte hain?\"*\n\nYeh version:\n- Unke track record ko acknowledge karta hai — 20 saal wala insaan sunega \"maine kabhi nahi\" nahi maanega, lekin \"tumhare pattern se yeh alag laga\" pe rukega\n- Vulnerability dikhata hai without accusation — \"thoda hurt hua\" ek senior ko defend mode mein nahi daalta, reflect karwaata hai\n\nAur ek baat — ho sakta hai unhone consciously nahi kiya ho. Senior log presentations mein apni framing use kar dete hain bina realize kiye. Isliye assumption \"erase kiya\" se pehle \"pata nahi unhe idea tha ya nahi\" rakho. Conversation batayegi.\n\nAgar response dismissive aaye, tab escalate/document karna. Pehle door band karke baat karo. 💛"
+  },
+  {
+   "role": "user",
+   "content": "Maine apni college senior ko bataya toh boli main naive hoon — original file seedha VP ko forward kar, boss ko CC kar, timestamps khud bol denge. Proof toh proof hota hai na? Monday ko follow-up review hai, us se pehle karne ka mann kar raha hai sach mein.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Dekh, teri senior ka logic technically sahi hai lekin practically risky hai, aur main seedha bolunga kyun:\n\n**Timestamps yeh prove kar sakte hain ki file tumhari hai — lekin VP ke paas pahunchte hi kahani \"credit chori\" se badal kar \"employee ne boss ko bypass karke escalation ki\" ban jaati hai.** Aur 20 saal wala boss, apne relationships ke saath, us narrative mein jeetega. Tum technically correct rahogi aur politically isolated.\n\nAur ek baat — Monday review se *pehle* bhejna isse aur aggressive banata hai. VP ke paas woh message aayega jab unke paas context hi nahi hoga, sirf ek ambush feel hogi.\n\nJo actually strong move hai:\n\n**Monday tak wait karo, aur meeting mein khud present karo ya bolne ka mauka lo.** Review meeting mein agar wahi analysis discuss ho rahi hai, toh confidently add karo: *\"Sir ne kal jo framework share kiya, uski depth pe main thoda elaborate kar sakti hoon kyunki maine yeh develop kiya hai.\"* Yeh line polite hai, lekin room ke saamne ownership claim karti hai — aur boss kuch nahi bol payenge bina awkward lage.\n\n**Parallel mein, weekend mein hi boss se one-on-one baat karo** (jo humne draft kiya). Agar woh acknowledge karte hain aur Monday pe credit dete hain — problem solved, rishta bacha. Agar dismissive hain ya dobara credit le lete hain — **tab** tumhare paas pattern hai, conversation ka record hai, aur VP ko approach karna justified lagta hai, naive nahi.\n\nNaive hona yeh hota ki bina boss se baat kiye seedha bomb phenk do. Strategically sochna weakness nahi hai — yeh chess hai, checkers nahi. 💛\n\nTrust your instinct ki hurt feel hona valid hai. Bas action measured rakho."
+  },
+  {
+   "role": "user",
+   "content": "Ya phir chhodo, kahin aur interview dena shuru kar doon? Pata nahi yaar. Kabhi lagta hai sab jala do, kabhi lagta hai shayad main itni junior hoon ki credit ke liye ladna hi nahi banta. Dono hi galat feel ho rahe hain. Monday ka review hai, us se pehle kuch toh decide karna hai.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Ruk, ek second. Jo tu feel kar rahi hai — \"sab jala do\" ya \"main itni junior hoon ki ladna hi nahi banta\" — yeh dono extremes hai, aur dono galat jagah se aa rahe hai. Pehla hurt se, doosra insecurity se. Sach beech mein hai.\n\n**Yeh baatein alag-alag problems hai:**\n\n1. **Credit wala issue** — iska solution conversation hai, resignation nahi. Ek incident (chahe kitna bhi painful ho) pura job kharab nahi karta. Aur tumne khud bataya — woh bees saal se rooms mein tumhare liye ladte hai. Ek meeting pattern nahi hota.\n\n2. **Interview dena** — yeh kabhi bhi shuru kar sakti ho, aur honestly, achha option hai *hamesha ke liye*. Lekin isse Monday ka issue solve nahi hoga, bas escape route milega. Agar yahan chup chap credit chori hoti dekh kar bhi kuch nahi bola, toh agli jagah bhi wahi pattern follow karegi.\n\n3. **\"Junior hone ki wajah se ladna nahi banta\"** — yeh sabse dangerous thought hai. Junior hona credit maangne se nahi rokta. Tumhara kaam tumhara hai, hierarchy chahe jo ho. Waise hi log career-long invisible reh jaate hai.\n\n**Monday tak ka plan simple hai:**\n- Weekend mein boss se one-on-one baat karo (jo draft banaya tha)\n- Monday ki review mein apna ownership naturally claim karo\n- Interview browsing parallel mein shuru kar do — tension kam hogi kyunki options dikhenge, aur decision forced nahi lagega\n\nAur sun — **kuch bhi \"sab jala do\" wali energy se decide mat karna.** Gussa mein liya gaya decision 6 mahine baad pachtawa ban jaata hai.\n\nTum naive nahi ho, aur tum weak bhi nahi. Tum hurt ho — aur hurt insaan ko sabse pehle calm chahiye, action nahi. Aaj shaam thoda break lo, kal fresh mind se boss se baat karo. 💛\n\nBatao kaisa laga plan?"
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3862,
+  "completion_tokens": 1882
+ }
+}

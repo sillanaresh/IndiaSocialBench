@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly identified the unspoken conflict: the user's guilt over the past debt of gratitude and the fear of being perceived as a 'villain' for doing her job. It correctly identified that the user was using management books as a form of avoidance/shielding, and it validated the emotional weight of the 'betrayal' the user fears.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrated deep cultural fluency by advising against the 'radical candor' meeting format, which would be perceived as an ambush and a loss of face for an older, respected colleague. It correctly identified the 'honorable glide path' (transitioning him to a mentorship/documentation role) as a culturally viable alternative to the binary of 'keep him failing' or 'fire him'.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice was highly actionable and sequenced: first, an informal conversation to preserve face; second, a structured transition plan that satisfies the director's need for a 'handled' module without resorting to immediate PIP. It provided a concrete, professional path that balances the user's career needs with the cultural necessity of respecting seniority.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, fluid, and perfectly captures the register of a professional conversation between peers in an Indian corporate setting. The code-switching feels organic, and the tone is empathetic yet firm, matching the user's own linguistic style.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant was incredibly warm and validating, yet it did not shy away from the hard truth: that the user cannot avoid being the 'villain' in some eyes, and that avoiding the conversation is the only way to truly betray Suresh-ji. It provided comfort without enabling the user's desire to hide behind books or avoidance.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.hing"
+}

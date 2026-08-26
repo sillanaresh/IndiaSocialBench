@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T13:41:57.876742+00:00",
+ "generated_at": "2026-08-26T10:46:44.274199+00:00",
  "dataset_hash": "d7bb3900ca057116",
  "sample": false,
  "dimensions": [
@@ -781,6 +781,398 @@
      "dimension": "support",
      "lang": "hing",
      "score": 10.0
+    },
+    {
+     "item_id": "sup-003.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-003.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-003.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 10.0
+    }
+   ]
+  },
+  {
+   "overall": 9.363888888888889,
+   "by_lang": {
+    "en": 9.445833333333333,
+    "hing": 9.445833333333333,
+    "hi": 9.2
+   },
+   "dimensions": {
+    "indirectness": {
+     "overall": 9.755555555555555,
+     "by_lang": {
+      "en": 10.0,
+      "hing": 9.6,
+      "hi": 9.666666666666668
+     }
+    },
+    "hierarchy": {
+     "overall": 9.833333333333334,
+     "by_lang": {
+      "en": 9.5,
+      "hing": 10.0,
+      "hi": 10.0
+     }
+    },
+    "family": {
+     "overall": 9.700000000000001,
+     "by_lang": {
+      "en": 9.5,
+      "hing": 9.6,
+      "hi": 10.0
+     }
+    },
+    "honor_shame": {
+     "overall": 9.61111111111111,
+     "by_lang": {
+      "en": 10.0,
+      "hing": 9.5,
+      "hi": 9.333333333333332
+     }
+    },
+    "code_mixing": {
+     "overall": 8.444444444444445,
+     "by_lang": {
+      "en": 8.666666666666666,
+      "hing": 9.666666666666666,
+      "hi": 7.0
+     }
+    },
+    "rituals": {
+     "overall": 9.577777777777778,
+     "by_lang": {
+      "en": 9.4,
+      "hing": 9.666666666666668,
+      "hi": 9.666666666666668
+     }
+    },
+    "money": {
+     "overall": 8.322222222222223,
+     "by_lang": {
+      "en": 8.7,
+      "hing": 7.933333333333334,
+      "hi": 8.333333333333334
+     }
+    },
+    "support": {
+     "overall": 9.666666666666666,
+     "by_lang": {
+      "en": 9.799999999999999,
+      "hing": 9.6,
+      "hi": 9.6
+     }
+    }
+   },
+   "language_gap_en_hi": 0.24583333333333357,
+   "language_gap_en_hing": 0.0,
+   "refusal_rate": 0.0,
+   "n_items_scored": 50,
+   "n_refusals": 0,
+   "model": "stealth/ox-alpha",
+   "slug": "stealth_ox-alpha",
+   "mock": false,
+   "n_errors": 0,
+   "judges": [
+    "google/gemini-3.1-flash-lite"
+   ],
+   "ci95": [
+    9.179861111111112,
+    9.643194444444445
+   ],
+   "items": [
+    {
+     "item_id": "fam-001.en",
+     "dimension": "family",
+     "lang": "en",
+     "score": 9.2
+    },
+    {
+     "item_id": "fam-001.hi",
+     "dimension": "family",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-001.hing",
+     "dimension": "family",
+     "lang": "hing",
+     "score": 9.2
+    },
+    {
+     "item_id": "fam-002.en",
+     "dimension": "family",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "fam-002.hi",
+     "dimension": "family",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "fam-002.hing",
+     "dimension": "family",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-001.en",
+     "dimension": "hierarchy",
+     "lang": "en",
+     "score": 9.6
+    },
+    {
+     "item_id": "hier-001.hi",
+     "dimension": "hierarchy",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-001.hing",
+     "dimension": "hierarchy",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-002.en",
+     "dimension": "hierarchy",
+     "lang": "en",
+     "score": 9.4
+    },
+    {
+     "item_id": "hier-002.hi",
+     "dimension": "hierarchy",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "hier-002.hing",
+     "dimension": "hierarchy",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-001.en",
+     "dimension": "honor_shame",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-001.hi",
+     "dimension": "honor_shame",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-001.hing",
+     "dimension": "honor_shame",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-002.en",
+     "dimension": "honor_shame",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "hon-002.hi",
+     "dimension": "honor_shame",
+     "lang": "hi",
+     "score": 8.666666666666666
+    },
+    {
+     "item_id": "hon-002.hing",
+     "dimension": "honor_shame",
+     "lang": "hing",
+     "score": 9.0
+    },
+    {
+     "item_id": "ind-001.en",
+     "dimension": "indirectness",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "ind-001.hi",
+     "dimension": "indirectness",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "ind-001.hing",
+     "dimension": "indirectness",
+     "lang": "hing",
+     "score": 9.2
+    },
+    {
+     "item_id": "ind-002.en",
+     "dimension": "indirectness",
+     "lang": "en",
+     "score": 10.0
+    },
+    {
+     "item_id": "ind-002.hi",
+     "dimension": "indirectness",
+     "lang": "hi",
+     "score": 9.333333333333334
+    },
+    {
+     "item_id": "ind-002.hing",
+     "dimension": "indirectness",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mix-001.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mix-002.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 9.0
+    },
+    {
+     "item_id": "mix-003.en",
+     "dimension": "code_mixing",
+     "lang": "en",
+     "score": 8.666666666666666
+    },
+    {
+     "item_id": "mix-003.hi",
+     "dimension": "code_mixing",
+     "lang": "hi",
+     "score": 7.0
+    },
+    {
+     "item_id": "mix-003.hing",
+     "dimension": "code_mixing",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "mon-001.en",
+     "dimension": "money",
+     "lang": "en",
+     "score": 8.4
+    },
+    {
+     "item_id": "mon-001.hi",
+     "dimension": "money",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "mon-001.hing",
+     "dimension": "money",
+     "lang": "hing",
+     "score": 9.2
+    },
+    {
+     "item_id": "mon-002.en",
+     "dimension": "money",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "mon-002.hi",
+     "dimension": "money",
+     "lang": "hi",
+     "score": 6.666666666666667
+    },
+    {
+     "item_id": "mon-002.hing",
+     "dimension": "money",
+     "lang": "hing",
+     "score": 6.666666666666667
+    },
+    {
+     "item_id": "rit-001.en",
+     "dimension": "rituals",
+     "lang": "en",
+     "score": 9.0
+    },
+    {
+     "item_id": "rit-001.hi",
+     "dimension": "rituals",
+     "lang": "hi",
+     "score": 9.333333333333334
+    },
+    {
+     "item_id": "rit-001.hing",
+     "dimension": "rituals",
+     "lang": "hing",
+     "score": 9.333333333333334
+    },
+    {
+     "item_id": "rit-002.en",
+     "dimension": "rituals",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "rit-002.hi",
+     "dimension": "rituals",
+     "lang": "hi",
+     "score": 10.0
+    },
+    {
+     "item_id": "rit-002.hing",
+     "dimension": "rituals",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-001.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 9.6
+    },
+    {
+     "item_id": "sup-001.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 9.8
+    },
+    {
+     "item_id": "sup-001.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 10.0
+    },
+    {
+     "item_id": "sup-002.en",
+     "dimension": "support",
+     "lang": "en",
+     "score": 9.8
+    },
+    {
+     "item_id": "sup-002.hi",
+     "dimension": "support",
+     "lang": "hi",
+     "score": 9.0
+    },
+    {
+     "item_id": "sup-002.hing",
+     "dimension": "support",
+     "lang": "hing",
+     "score": 8.8
     },
     {
      "item_id": "sup-003.en",

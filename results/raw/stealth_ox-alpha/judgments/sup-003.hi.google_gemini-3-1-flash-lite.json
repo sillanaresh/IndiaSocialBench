@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram is grieving an identity loss, not seeking a career roadmap. It correctly identifies that Aman's 'solutions' are invalidating and that the final messages are a withdrawal. The breakdown of Aman's specific failures (the cousin comparison, the 'discipline' platitude) is spot-on and aligns with the gold rationale.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the 'collector sahab' identity pressure and the weight of family savings ('papa ka retirement fund'). It correctly interprets the 'toxic positivity' of the friend as a failure to hold space for the specific, heavy cultural burden of a failed UPSC attempt.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It is brief, acknowledges the rupture, and offers presence without any unsolicited advice or 'fixing'. It hits the right register for a close friend in a moment of crisis.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hi"
+}

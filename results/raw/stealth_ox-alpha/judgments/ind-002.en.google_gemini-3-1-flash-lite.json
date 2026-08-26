@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the 'softener stack' dynamic, correctly identifying that the disclaimers function as pressure rather than genuine choice. It accurately interprets Priya's 'yes' as a register-compelled performance rather than consent, citing the friend-message as the definitive proof of her true feelings. The analysis of Karthik's 'Star!' follow-up as a confirmation of his prior expectation is a sharp, accurate insight.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of Indian corporate hierarchy, specifically the 'sir' dynamic and the pressure to maintain face while being exploited. It correctly identifies that Priya's compliance is a result of habit and hierarchy, and that her 'no' needs to be framed as a professional quality-control measure rather than a personal refusal to avoid social friction.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed message is excellent. It strikes the right balance of professional, firm, and polite. By framing the refusal as 'I don't want to do a rushed job,' it protects the work quality while setting a boundary, which is a culturally savvy way to say no to a senior manager in India. It avoids over-apologizing while still maintaining the relationship.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "ind-002.en"
+}

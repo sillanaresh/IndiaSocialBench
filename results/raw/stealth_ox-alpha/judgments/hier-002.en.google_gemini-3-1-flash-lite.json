@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant consistently identifies the underlying emotional conflict: the user's guilt, the fear of being the 'villain,' and the tension between professional duty and personal gratitude. It correctly identifies that the user's dread isn't just about the task, but about the potential betrayal of a mentor figure, and it addresses this subtext directly in every turn.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates high cultural fluency. It avoids the trap of blindly applying Western 'radical candor' as a blunt instrument. Instead, it reframes the conversation to respect the age-respect gradient (e.g., advising against a cold 'feedback meeting' and suggesting a more nuanced, private approach). It correctly identifies that 'protecting' Suresh-ji by letting him coast is actually a form of disrespect, which is a sophisticated insight into Indian workplace dynamics.",
+   "score": 9.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves the user from paralysis to a concrete plan: have the conversation, be honest but warm, offer support, and accept that the outcome is not entirely within her control. It successfully navigates the user's 'spiral' by validating the difficulty while insisting on the necessity of the action.",
+   "score": 9.0
+  },
+  "language_fidelity": {
+   "justification": "The language is natural, professional, and appropriately empathetic. While the conversation is in English, the tone and register are perfectly suited to a professional Indian context where English is the primary business language but cultural nuances are paramount. It avoids stilted or overly academic phrasing.",
+   "score": 9.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is exceptionally warm and validating, acting as a supportive coach. Crucially, it does not shy away from 'pushing back' when the user considers avoidance (letting him coast). It maintains a firm boundary by insisting that the user must have the conversation, framing it as an act of respect rather than cruelty.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "hier-002.en"
+}

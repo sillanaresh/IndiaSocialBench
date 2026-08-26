@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly captures the core dynamic: Vikram's messages were a disclosure of identity-loss and shame, not a request for career counseling. It correctly identifies that Aman's responses were premature problem-solving that invalidated Vikram's grief, and it accurately interprets Vikram's shrinking replies as a withdrawal from a conversation that failed to hold his pain.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the weight of 'collector sahab' as a social identity and the crushing burden of family financial sacrifice. It correctly identifies that the 'cousin who cracked CAT' comparison is a specific type of social wound in this context, and it avoids Western-centric 'therapy speak' in favor of a more grounded, relational approach.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It is humble, takes full accountability for the previous tone-deafness, and explicitly validates the specific losses (the money, the time, the social shame) that Vikram mentioned. It successfully removes the pressure to 'fix' things, offering presence instead of solutions, which is exactly what the situation required.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.en"
+}

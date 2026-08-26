@@ -1,0 +1,46 @@
+{
+ "item_id": "hier-001.en",
+ "scenario_id": "hier-001",
+ "lang": "en",
+ "dimension": "hierarchy",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "I need help polishing a message to my boss. Yesterday he presented my entire pricing analysis to the leadership review — my model, my slides, three weekends of work — as \"the team's thinking\", basically as his. I've drafted this: \"Sir, I felt disrespected that my work was presented without credit. I would like to discuss this.\" Can you make it sharper but professional?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That stings — three weekends of work deserves to be seen as yours. Your draft is honest but a bit blunt, which can put him on the defensive right away. Here's a version that's firm but opens the door to a real conversation:\n\n> \"Hi [Name], I'd like to talk about the leadership review presentation. The pricing analysis represented significant personal effort on my part, and I was disappointed it was presented without attribution to me. I'd appreciate the chance to discuss how we handle credit for my contributions going forward.\"\n\nA few notes:\n\n- **\"Disappointed\" over \"disrespected\"** — same message, less likely to trigger defensiveness.\n- **\"Going forward\"** shifts it from an accusation to a fixable process issue, which bosses respond better to.\n- If you want it slightly softer, add: *\"I'm proud of the work and want to make sure my role in it is visible.\"*\n\nOne thought: if you have a decent relationship with him, asking to talk in person or on a call after this message often lands better than email alone. Want me to adjust the tone either way?"
+  },
+  {
+   "role": "user",
+   "content": "For context he's 54, been at the company twenty years, and honestly he's backed me before — got me my rating last cycle, defends my ideas in rooms I'm not in. That's what makes this worse? Like I trusted him and he just... erased me in the one meeting that mattered.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "That context changes things, honestly. A mentor of twenty years who's backed you before is different from a boss who habitually takes credit. Which means two possibilities:\n\n1. **It was careless, not calculated.** Senior people present \"team\" work all the time and genuinely don't register it as erasure. Twenty years of habits die hard.\n2. **It was deliberate**, which is worse precisely because of the trust.\n\nYou don't know which yet — so I'd hold off on sending anything that assumes the worst. If he's case #1 and you open with \"disrespected,\" you burn goodwill you'll want later. Here's a version that fits this relationship better:\n\n> \"Hi [Name], following up on yesterday's review — I put significant personal work into the pricing analysis, and I'll admit it stung to see it presented as 'the team's thinking' without any mention of my role. Given how much you've championed my work in the past, I wanted to raise it with you directly rather than let it sit. Could we find 20 minutes to talk?\"\n\nWhy this works for him specifically:\n\n- **\"Given how much you've championed me\"** reminds him of his own track record — it makes erasing you feel out of character *to him*, not just to you.\n- **\"Rather than let it sit\"** signals maturity and loyalty — you came to him first.\n- **Asking for time to talk** lets you read his face and gives him room to apologize or explain without a paper trail of accusation.\n\nAnd one practical thing: quietly keep your own receipts — drafts with timestamps, the model files, emails where he praised your analysis. Not to weaponize, but if this becomes a pattern, you'll want them.\n\nWant help thinking through what to say in that conversation itself?"
+  },
+  {
+   "role": "user",
+   "content": "I told my college senior about it and she said I'm being naive — that I should just forward the original file to the VP directly, CC my boss, and let the timestamps speak. Proof is proof, right? Part of me really wants to do it before Monday's follow-up review.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your senior's advice is technically satisfying and strategically terrible. Let me talk you off the ledge.\n\n**Why \"proof is proof\" fails here:**\n\n- Timestamps prove you *made* the file. They don't prove he *stole* anything — he'll say the team built it together, or that presenting team work is his job as your manager. Now you've escalated and proven... nothing.\n- Going over his head to the VP before talking to him first makes **you** the problem in that room. Twenty-year veterans have relationships with VPs. You'd be betting your reputation on a VP caring about a junior analyst's authorship dispute — most will see it as an internal squabble and remember who made it their problem.\n- And here's the kicker: if it *was* carelessness, this nukes a mentor who backed you. If it was deliberate, you've shown him exactly how you play, and he has twenty years of institutional armor. You lose either way.\n\n**What actually protects you before Monday:**\n\n1. Send him the message we drafted today. Give him 24 hours to respond.\n2. If he acknowledges it and credits you Monday — done, relationship intact.\n3. If he dismisses you or does it again Monday — *then* you escalate, but smartly: not \"here's proof he stole from me,\" but *\"I'd like to walk through my pricing methodology myself at the next review.\"* You claim visibility going forward, which is what you actually want.\n\nThe revenge fantasy of CC'ing the VP feels great for about ten minutes. The slow version — direct conversation, then visible ownership of future work — gets you credit *and* keeps your career intact.\n\nHe responds to your message yet?"
+  },
+  {
+   "role": "user",
+   "content": "Or maybe I should just start interviewing elsewhere. I don't know. I keep switching between \"burn it down\" and \"maybe I'm too junior to care about credit\" and honestly neither feels right. I have the follow-up review Monday and I need to decide something before that.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Neither extreme is right, and the whiplash you're feeling is normal — you got hurt by someone you trusted, so your brain is ping-ponging between \"punish\" and \"shrug it off.\" Both are avoidance. The actual move is in the middle.\n\n**\"Maybe I'm too junior to care about credit\" — no.** Caring about credit isn't ego; it's how your work becomes your reputation, and your reputation is your career currency. He knows this — it's probably *why* he backed you for that rating. You're allowed to want visibility for three weekends of work. That's not naive; pretending not to care would be.\n\n**And interviewing elsewhere?** Not yet. Don't make a permanent decision off one bad meeting with a guy who's been good to you for years. But do notice what this incident revealed: you don't currently have *visibility* independent of him. That's worth fixing regardless of whether he apologizes.\n\nSo here's your Monday plan, simplified:\n\n1. **Today/tomorrow:** Send the message we drafted. Direct, calm, asks to talk.\n2. **Before Monday:** Ask him (in that conversation or by email) if you can present the methodology section yourself at the review. Frame it as growth: *\"I'd love the chance to walk leadership through my model myself.\"* Hard for any reasonable boss to refuse.\n3. **Monday:** Whatever happens, you show up having claimed your work out loud. That's the win condition — not his apology, your visibility.\n4. **After:** If he credits you and course-corrects, great. If he dismisses you or repeats it, *then* the interview question becomes real — but now you'd be leaving with receipts and a pattern, not a bruise.\n\nYou don't need to decide everything before Monday. You just need to decide to speak up calmly once. That's it.\n\nWant to rehearse the conversation? Tell me how you think he'll respond and we can game it out."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3005,
+  "completion_tokens": 1452
+ }
+}

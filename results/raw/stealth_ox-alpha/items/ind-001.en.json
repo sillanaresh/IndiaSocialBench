@@ -1,0 +1,46 @@
+{
+ "item_id": "ind-001.en",
+ "scenario_id": "ind-001",
+ "lang": "en",
+ "dimension": "indirectness",
+ "type": "roleplay",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "My wedding is six weeks away. My closest friend Rohan is supposed to be in my haldi and give a toast — he's been my guy since first year of college. But every time I bring up his travel from Bangalore he just says \"let's see, I'll definitely try.\" Should I just book his flight myself and be done with it?\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Honestly? Yes — book the flight. But do it with a conversation first, not as a surprise.\n\nHere's why: \"I'll definitely try\" six weeks out from your wedding isn't a plan, it's avoidance. Rohan might have a real reason he hasn't said out loud — money stress, work pressure, or something personal going on that makes him hesitant to commit. People sometimes go vague when they're embarrassed or overwhelmed.\n\nSo message or call him and say something like: *\"Rohan, I'm booking your flight for the wedding this week — just tell me which dates work around your job.\"* That framing does two things:\n\n1. It removes his need to \"decide\" — you've made the decision, he just has to confirm logistics.\n2. It gives him an easy opening to say if something's actually wrong (\"actually, I can't afford it right now\" or \"my leave didn't get approved\").\n\nIf money is the issue, offer to cover it without making it weird — he's been your guy since first year; you'd want him there more than you'd care about a flight cost.\n\nOne caution: book *after* he confirms dates, not before. If he still dodges even with that low-pressure ask, then you'll know something deeper is up, and that's a different (gentler) conversation.\n\nBut don't let \"let's see\" drift until two weeks before the wedding when flights are triple the price. Six weeks is exactly the right time to pin this down."
+  },
+  {
+   "role": "user",
+   "content": "I checked, flights are like nine thousand return. Not crazy. He switched jobs a couple of months back, some startup. And lately his replies are two words where he used to send voice notes. I'm telling myself he's busy but it's been weeks of this.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Okay, the flight cost is a non-issue then — nine thousand return is nothing in the grand scheme, and if it comes to it you just quietly cover it.\n\nBut what you're describing — two-word replies where there used to be voice notes — that's not \"busy at a new job.\" That's someone who's pulled back. New jobs are demanding, sure, but people who are merely busy still send voice notes at midnight or reply with energy when something matters.\n\nA few possibilities worth sitting with:\n\n- **Startup life is genuinely brutal.** Some people go into survival mode — work eats everything and they socially flatline. It's not about you.\n- **Something's going on personally** he hasn't shared. New city, relationship stuff, health, money — startups sometimes mean pay cuts or deferred salaries too.\n- **Something between you two.** Less likely given your history, but sometimes people distance themselves when they're struggling with feelings they're ashamed of — like he can't afford to be there and feels bad, so he avoids instead of admitting it. The vagueness about travel fits this pattern honestly.\n\nHere's what I'd do: skip text entirely. Call him — an actual call, not a \"what's up\" text that he can leave on read. Don't open with wedding logistics. Open with *\"Yaar, I feel like I haven't really talked to you in weeks — what's going on with you?\"* Give him room to actually answer before you bring up flights or haldi.\n\nBecause here's the thing — you want him *present* at your wedding, not just physically there. If he's carrying something, you'd rather know now than have him show up quiet and distant in your photos.\n\nAnd if he opens up about money? Book the flight, tell him it's your wedding gift to him, done."
+  },
+  {
+   "role": "user",
+   "content": "Honestly it's starting to hurt now. If he actually cared he would have just said yes on day one, no? I'm thinking I should just call him tonight and ask him straight — \"bro, are you coming or not, yes or no.\" At least I'll know where I stand.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "I get the urge, I really do. The ambiguity is the worst part — your brain fills the silence with \"he doesn't care about me\" and every two-word reply stings more than the last.\n\nBut I'd gently push back on the yes-or-no framing, for one reason: it forces him to answer the logistics question when the *real* question underneath is something else entirely. If he's struggling with money or something personal, a \"yes or no\" cornered call might get you a defensive \"no\" — not because he doesn't care, but because he's ashamed or overwhelmed and you've given him an exit instead of an opening.\n\nAnd then you're left with a \"no\" that tells you nothing about where you actually stand with him.\n\nSo tonight, call him — but lead with the friendship, not the wedding:\n\n*\"Bro, real talk — you've been off for weeks. Short replies, no voice notes. That's not like us. What's going on?\"*\n\nThen just... listen. Let the silence sit if it needs to. If he opens up about whatever's weighing on him, the wedding answer will come naturally out of that conversation. If he deflects even after that — *then* you say: *\"Okay, but I need one thing from you straight: are you at my wedding or not? Because I'm planning my day around you being there.\"* At that point the direct ask is earned, and it'll land as concern rather than pressure.\n\nOne more thing, because it matters: his behavior over the past few weeks is probably telling you about *his* state, not his feelings for you. People in a bad place go quiet on everyone, especially the people they love most — sometimes it feels easier to disappear on your best friend than admit you're not okay.\n\nCall tonight. But make it a door, not an ultimatum."
+  },
+  {
+   "role": "user",
+   "content": "My fiancée says I'm overthinking and he's probably just swamped. But this is the same guy who took an overnight bus to be at my sister's wedding in 2019. Something has changed and I can't figure out what, and I hate that I'm angry at him two weeks before my haldi.\n"
+  },
+  {
+   "role": "assistant",
+   "content": "Your fiancée's not wrong that he might be swamped — but she's also not you. She doesn't have the 2019 overnight bus story in her chest the way you do. That bus *is* the data point. That's who Rohan is when he's okay: the guy who shows up without being asked twice. So no, you're not overthinking. You're noticing a real change and your gut knows it.\n\nAnd here's the thing about the anger — I don't think you're actually angry at him. I think you're scared. Anger is what fear of losing someone looks like from the outside. You're two weeks out from one of the biggest days of your life, the person you most want beside you is going foggy on you, and you can't tell if it's a bad month or the start of something worse. Of course that comes out as irritation. That's human, not petty.\n\nSo tonight's call matters even more now. And go in knowing this: whatever's changed, you'd rather hear it ugly and honest than keep performing \"everything's fine\" with a guy who used to send you voice notes.\n\nA few things to hold onto going into the call:\n\n- **Don't open with the wedding or haldi at all.** Open with *\"something's different with us and I miss you.\"* Make it about him and you, not about your event.\n- **If he deflects once, let it breathe, then try again.** First deflection is reflex; silence after a real question is where truth usually shows up.\n- **Whatever he says — even if it stings — thank him for being straight with you.** If you react with hurt, you teach him to hide things from you. If you react with steadiness, you keep the door open.\n- **And if it turns out it really is just startup chaos?** Then say exactly that: *\"Bro, I need you there. Book it, don't think about money, that's my gift. Done.\"* Closure, flight booked, move on happy.\n\nOne last thing: whatever happens on that call, don't let this fester silently for two more weeks. The worst outcome isn't him saying no — it's you standing at your haldi next to someone whose heart isn't in the room, both of you pretending nothing happened. Have the conversation. Whatever it costs tonight is cheaper than finding out on the day."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 3234,
+  "completion_tokens": 1662
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "refused": false,
+ "criteria": {
+  "insight_coverage": {
+   "justification": "The assistant perfectly identified the core dynamic: Vikram was seeking emotional validation, not a career roadmap. It correctly analyzed the specific pain points (the 'collector sahab' shame, the financial guilt, the '10 years' weight) and accurately interpreted Vikram's shrinking replies as a shutdown signal. It also correctly identified why Aman's specific moves (the cousin comparison, the 'discipline' silver lining) were harmful.",
+   "score": 10.0
+  },
+  "cultural_reading": {
+   "justification": "The assistant demonstrates a deep understanding of the Indian context, specifically the 'collector sahab' identity pressure and the immense weight of family financial sacrifice in the UPSC journey. It correctly identifies that Aman's 'fix-it' approach is a cultural mismatch for the gravity of the situation, and the repair message respects the need for face-saving and non-intrusive support.",
+   "score": 10.0
+  },
+  "next_message_quality": {
+   "justification": "The proposed repair message is excellent. It avoids the common trap of offering a new 'fix' or 'plan,' instead focusing on acknowledging the specific mistakes made (the premature advice) and validating the loss. It gives Vikram the agency to choose when to talk, which is the most respectful way to handle the 'chal baad mein baat karte hain' exit.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "sup-003.hing"
+}

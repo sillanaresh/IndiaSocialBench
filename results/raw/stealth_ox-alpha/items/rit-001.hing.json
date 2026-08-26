@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.hing",
+ "scenario_id": "rit-001",
+ "lang": "hing",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Arey Arjun, papa ke baare mein suna yaar... bahut bura hua bro 😔\nDev: BTW jab bhi wapas aao, Q3 consolidation file share kar dena? Koi rush nahi, bas flag kar raha hoon.\nArjun: Theek hai.\nDev: Aur Friday ko team us naye jagah lunch kar rahi hai. Tum bhi aao na, mood change ho jayega!\nArjun: Dekhta hoon.\n\n---\n1. Arjun \"Theek hai.\" aur \"Dekhta hoon.\" se asal mein kya feel aur communicate kar raha hai? Woh kya NAHI keh raha?\n2. Dev se exactly kya galtiyan hui — specific missteps batao aur yeh bhi ki is context mein har ek kyun bura lagti hai?\n3. Dev ko repair ke liye agla message kya bhejna chahiye — bilkul waisa likho jaisa use bhejna chahiye."
+  },
+  {
+   "role": "assistant",
+   "content": "## 1. Arjun ke short replies ka matlab\n\n**\"Theek hai.\"** — Yeh sirf ek acknowledgment hai, agreement nahi. Arjun apne papa ke baare mein baat karne ko taiyaar nahi hai, lekin politely conversation band karna chahta hai. Isme koi warmth nahi, koi \"haan bhej dunga\" wala energy nahi.\n\n**\"Dekhta hoon.\"** — Yeh classic Indian soft \"nahi\" hai. Arjun Friday lunch mein jaane ka iraada practically rakhta hi nahi — woh bas mana karne ki awkwardness se bach raha hai. Agar sach mein aana hota toh \"haan yaar, zaroor\" jaisa kuch bolta.\n\n**Woh kya NAHI keh raha:** Arjun apne dukh ko express nahi kar raha (\"mood change ho jayega\" sunne ke baad bhi), Q3 file par commitment nahi de raha (koi timeline nahi, sirf passive acceptance), aur lunch ke liye haan nahi keh raha. Dono replies conversation ko *close* karne ki koshish hain, continue karne ki nahi.\n\n## 2. Dev ki specific galtiyan\n\n**Galti 1: Condolence + work request ek hi message mein.** Dev ne \"papa ke baare mein bahut bura hua\" bola aur turant agla line \"Q3 consolidation file share kar dena?\" — yani grief aur work dono ek saath. Isse condolence mechanical lagti hai, jaise formality pehle poori kar li ho taaki asli maqsad tak pahunche.\n\n**Galti 2: \"Koi rush nahi, bas flag kar raha hoon.\"** Yeh phrase rush hone ka illusion deta hai — agar sach mein rush nahi hai toh is waqt uthane ki kya zaroorat thi? Jab kisi ka parent guzar gaya ho, \"flag karna\" uski duniya mein priority list mein fit hi nahi hota.\n\n**Galti 3: \"Mood change ho jayega!\"** Yeh sabse insensitive line hai. Yeh assume karti hai ki (a) Arjun ka mood ek problem hai jo fix karni hai, (b) team lunch uska solution hai, aur (c) Arjun abhi socialize karne ke mood mein hai. Grief ke context mein yeh trivialize karti hai — papa khone ka gam lunch se \"change\" nahi hota.\n\n**Overall pattern:** Teen messages teeno requests/social invitations hain, koi ek bhi genuinely Arjun ke emotional state ko hold nahi karti. Arjun ke monosyllabic replies isi withdrawal ka signal hain.\n\n## 3. Repair message — exactly aisa:\n\n> \"Arjun, sorry yaar. Pichle messages mein maine tumhare baare mein poochhne se zyada kaam aur plans ke baare mein likh diya — woh galat tha. Tumhare papa ke liye dil se bahut bura laga hai. Main sirf yeh kehna chahta hoon: jab bhi tum baat karna chaho, main hoon. Q3 file ka koi jaldi nahi — jab tum ready ho tab dena, ya bata do toh main khud dekh loon. Lunch ke liye pressure mat lo, skip karo bilkul. Bas apna khayal rakhna bro. 🙏\"\n\nYeh message teen cheezein theek karta hai: work pressure ko explicitly remove karta hai (transcript mein Dev ka sabse bada misstep), condolence ko standalone aur sincere banata hai, aur Arjun ko control deta hai — bina kisi response ki expectation ke."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 380,
+  "completion_tokens": 856
+ }
+}

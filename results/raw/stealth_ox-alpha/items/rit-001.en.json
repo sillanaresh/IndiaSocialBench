@@ -1,0 +1,22 @@
+{
+ "item_id": "rit-001.en",
+ "scenario_id": "rit-001",
+ "lang": "en",
+ "dimension": "rituals",
+ "type": "analysis",
+ "status": "ok",
+ "turns": [
+  {
+   "role": "user",
+   "content": "Dev: Hey Arjun, so sorry to hear about your father bro 😔 Really sad news.\nDev: BTW whenever you're back can you share the Q3 consolidation file? No rush at all, just flagging.\nArjun: Sure.\nDev: Also the team is doing lunch at that new place on Friday. You should come, it'll cheer you up!\nArjun: I'll see.\n\n---\n1. What is Arjun actually feeling and communicating with \"Sure.\" and \"I'll see.\"? What is he NOT saying?\n2. What exactly did Dev get wrong — list the specific missteps and why each one lands badly in this context?\n3. Write the next message Dev should send to repair this, exactly as he should send it."
+  },
+  {
+   "role": "assistant",
+   "content": "# 1. What Arjun is actually communicating\n\n**\"Sure.\"** — A single word with a period. No \"thanks, brother,\" no emoji (contrast with Dev's 😔), no warmth. This isn't agreement; it's the bare minimum needed to end the conversation. He's saying: *I acknowledge you said something. I don't have energy for more.*\n\n**\"I'll see.\"** — This is a soft no. In Indian English especially, \"I'll see\" / \"let's see\" is the standard way to decline without confrontation. He's communicating: *I don't want to come, and I'm telling you this gently because you haven't left me room to say no directly.*\n\n**What he's NOT saying:**\n- He's not saying \"thank you for your condolences.\"\n- He's not expressing any emotion about his father — Dev's messages gave him no opening to actually talk about it.\n- He's not okay. The flatness of both replies signals grief, exhaustion, or hurt — likely some combination.\n- He's not reassured by Dev's sympathy; if anything, the brevity suggests the exchange made him feel worse.\n\n# 2. What Dev got wrong — specific missteps\n\n1. **Condolence + work request in the same breath.** \"Really sad news... BTW whenever you're back can you share the Q3 consolidation file?\" Even with \"no rush,\" pairing grief with an ask makes the sympathy read as a preamble to business. It tells Arjun the message was really about the file.\n\n2. **The hedge \"whenever you're back.\"** It presumes a timeline on someone else's grief and subtly reminds him there's work waiting — pressure disguised as patience.\n\n3. **\"It'll cheer you up!\"** This assumes grief is a mood problem fixable by lunch, and centers Dev's comfort (\"you should come\") rather than Arjun's needs. It also implies Arjun *should* be cheered up by now.\n\n4. **No actual invitation to talk about his father.** Dev never asked how Arjun is holding up, never offered to listen, never acknowledged the loss beyond one emoji. The condolence lasted exactly four words before pivoting away.\n\n5. **The emoji 😔 as the entire emotional register.** One sad emoji does not carry the weight of a father's death. It reads low-effort next to the detailed logistics of lunch plans.\n\n# 3. What Dev should send now\n\n> Arjun, I owe you an apology. I jumped straight into work stuff when I should have just been checking in on you. Forget the Q3 file — that can wait however long it needs to, and I shouldn't have even mentioned it.\n>\n> I'm really sorry about your dad. I can't imagine what you're going through right now. If you ever want to talk — about him, about anything, or about nothing at all — I'm here, day or night. And if you'd rather have space, that's completely okay too.\n>\n> No expectations from me. Just know I'm thinking of you and your family. 🙏\n\n**Why this works:** It names the misstep without making Arjun manage Dev's guilt, explicitly withdraws the work ask, offers presence without demanding response (\"no expectations\"), gives him an explicit out, and stays focused entirely on Arjun — no lunch pitch, no timeline, no pivot."
+  }
+ ],
+ "usage": {
+  "prompt_tokens": 285,
+  "completion_tokens": 711
+ }
+}

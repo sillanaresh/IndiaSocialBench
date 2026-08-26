@@ -1,0 +1,16 @@
+{
+ "model": "stealth/ox-alpha",
+ "slug": "stealth_ox-alpha",
+ "params": {
+  "temperature": 0.7,
+  "max_tokens": 2000
+ },
+ "dataset_hash": "d7bb3900ca057116",
+ "finished_at": "2026-08-26T10:43:41.819326+00:00",
+ "counts": {
+  "ok": 5,
+  "error": 0,
+  "skipped": 11
+ },
+ "mock": false
+}

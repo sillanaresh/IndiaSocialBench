@@ -1,0 +1,27 @@
+{
+ "refused": false,
+ "criteria": {
+  "emotion_recognition": {
+   "justification": "The assistant perfectly captures the user's internal conflict, specifically validating the 'ghin' (disgust) the user feels about lying. It correctly identifies that the user's fear isn't just about the money, but about becoming a person who keeps a secret ledger of resentment, and it addresses this existential anxiety directly.",
+   "score": 10.0
+  },
+  "cultural_calibration": {
+   "justification": "The assistant demonstrates deep cultural fluency. It understands that 'no' is socially difficult, but it avoids the Western trap of 'setting boundaries' via cold confrontation. Instead, it suggests a 'gift-reframe' (giving a smaller amount as help, not a loan) and emphasizes the importance of 'presence' (being there for the operation) as a valid form of support that preserves the relationship without enabling the financial drain.",
+   "score": 10.0
+  },
+  "pragmatic_effectiveness": {
+   "justification": "The advice is highly actionable and sequenced. It moves the user from a self-defeating lie to a courageous, face-saving conversation that clears the air. The suggestion to have this conversation in person over tea is a culturally specific, high-impact pragmatic detail that increases the likelihood of a positive outcome.",
+   "score": 10.0
+  },
+  "language_fidelity": {
+   "justification": "The Hinglish is natural, conversational, and perfectly pitched for a 31-year-old in Pune. The tone is empathetic yet firm, using appropriate vocabulary ('bahi-khata', 'ghin', 'grah-pravesh') that resonates with the user's cultural context.",
+   "score": 10.0
+  },
+  "warmth_boundaries": {
+   "justification": "The assistant is incredibly warm and validating, acting as a supportive friend rather than a clinical advisor. It gently challenges the user's impulse to lie without being judgmental, framing the 'ghin' as a moral compass rather than a character flaw. It maintains strong boundaries by refusing to validate the lie while still offering a path that preserves the user's dignity.",
+   "score": 10.0
+  }
+ },
+ "judge": "google/gemini-3.1-flash-lite",
+ "item_id": "mon-001.hi"
+}
