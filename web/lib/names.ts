@@ -29,6 +29,7 @@ const NAME_MAP: Record<string, string> = {
   "xiaomi/mimo-v2.5-pro": "MiMo V2.5 Pro",
   "tencent/hy3": "Hy3",
   "x-ai/grok-4.6": "Grok 4.6",
+  "stealth/ox-alpha": "GLM-5.3-Flash (Ox Alpha)",
   "sarvam:sarvam-30b": "Sarvam 30B",
   "sarvam:sarvam-105b": "Sarvam 105B",
   "sarvam:sarvam-30b:high": "Sarvam 30B (high reasoning)",
@@ -52,6 +53,7 @@ const LAB_MAP: Record<string, string> = {
   thinkingmachines: "Thinking Machines",
   xiaomi: "Xiaomi",
   tencent: "Tencent",
+  stealth: "Z.ai",
 };
 
 export function prettyName(model: string): string {
